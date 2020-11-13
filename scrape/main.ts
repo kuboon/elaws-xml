@@ -1,3 +1,5 @@
+#!/bin/env deno run
+
 import { walk } from "https://deno.land/std@0.77.0/fs/mod.ts";
 import { SAXParser } from "https://deno.land/x/sax_ts@v1.2.10/src/sax.ts";
 import {
@@ -65,7 +67,7 @@ function buildHtml(index: any) {
   const st = new ReadableStream({
     start(controller) {
       for (const [k, v] of Object.entries<any>(index)) {
-        const str = `<a href='xml/${v.name}'>${k} ${v.title}</a>`;
+        const str = `<a href='xml/${v.name}'>${k} ${v.title}</a><br />\n`;
         controller.enqueue(encoder.encode(str));
       }
       controller.close();
@@ -74,9 +76,31 @@ function buildHtml(index: any) {
   });
   return fromStreamReader(st.getReader());
 }
-// const index = buildIndex();
-// Deno.writeTextFileSync("../index.json", JSON.stringify(index));
-const index = JSON.parse(Deno.readTextFileSync("../index.json"));
-const html = await Deno.open("../index.html", { create: true, write: true });
-await Deno.copy(buildHtml(index), html);
-html.close();
+async function main() {
+  let index: any;
+  let res = await Deno.permissions.request(
+    { name: "write", path: "../docs/index.json" },
+  );
+  if (res.state === "granted") {
+    index = buildIndex();
+    Deno.writeTextFileSync("../index.json", JSON.stringify(index));
+  } else {
+    await Deno.permissions.request(
+      { name: "read", path: "../docs/index.json" },
+    )
+    index = JSON.parse(Deno.readTextFileSync("../docs/index.json"))
+  }
+  res = await Deno.permissions.request(
+      { name: "write", path: "../docs/index.html" },
+    )
+  if (res.state === "granted") {
+
+    const html = await Deno.open(
+      "../docs/index.html",
+      { create: true, write: true },
+    );
+    await Deno.copy(buildHtml(index), html);
+    html.close();
+  }
+}
+await main();
