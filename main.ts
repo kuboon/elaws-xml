@@ -1,4 +1,4 @@
-#!/bin/env deno run
+#!/bin/env -S deno run --unstable
 
 import { walk } from "https://deno.land/std@0.77.0/fs/mod.ts";
 import { SAXParser } from "https://deno.land/x/sax_ts@v1.2.10/src/sax.ts";
@@ -47,7 +47,7 @@ function parserFactory(ret: any) {
 }
 async function buildIndex() {
   const index: any = {};
-  for await (const entry of walk("../xml")) {
+  for await (const entry of walk("docs/xml")) {
     if (entry.isDirectory) continue;
     const file = await Deno.open(entry.path, { read: true });
     const props: any = {};
@@ -79,24 +79,23 @@ function buildHtml(index: any) {
 async function main() {
   let index: any;
   let res = await Deno.permissions.request(
-    { name: "write", path: "../docs/index.json" },
+    { name: "write", path: "docs/index.json" },
   );
   if (res.state === "granted") {
     index = buildIndex();
-    Deno.writeTextFileSync("../index.json", JSON.stringify(index));
+    Deno.writeTextFileSync("docs/index.json", JSON.stringify(index));
   } else {
     await Deno.permissions.request(
-      { name: "read", path: "../docs/index.json" },
-    )
-    index = JSON.parse(Deno.readTextFileSync("../docs/index.json"))
+      { name: "read", path: "docs/index.json" },
+    );
+    index = JSON.parse(Deno.readTextFileSync("docs/index.json"));
   }
   res = await Deno.permissions.request(
-      { name: "write", path: "../docs/index.html" },
-    )
+    { name: "write", path: "docs/index.html" },
+  );
   if (res.state === "granted") {
-
     const html = await Deno.open(
-      "../docs/index.html",
+      "docs/index.html",
       { create: true, write: true },
     );
     await Deno.copy(buildHtml(index), html);
