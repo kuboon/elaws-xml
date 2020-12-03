@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="428" Year="23">
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="428" Year="23">
   <LawNum>平成二十三年政令第四百二十八号</LawNum>
   <LawBody>
     <LawTitle>水防法施行令</LawTitle>
@@ -8,7 +8,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（通常の管理行為、軽易な行為その他の行為）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">水防法（以下「法」という。）第十五条の八第一項ただし書の政令で定める行為は、次に掲げるものとする。</Sentence>
@@ -30,7 +30,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（特定緊急水防活動）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第三十二条第一項第二号の政令で定める水防活動は、次に掲げるものとする。</Sentence>
@@ -70,16 +70,16 @@
     </MainProvision>
     <SupplProvision Extract="false" Type="New">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、津波防災地域づくりに関する法律の施行に伴う関係法律の整備等に関する法律（平成二十三年法律第百二十四号）の施行の日（平成二十三年十二月二十七日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二九年六月一四日政令第一五八号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawId="429158" AmendLawNum="平成二九年六月一四日政令第一五八号" Extract="true" Id="cd2d4e38-50c2-11e7-8431-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>

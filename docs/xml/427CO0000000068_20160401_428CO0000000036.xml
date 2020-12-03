@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200622e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="68" Year="27">
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="68" Year="27">
   <LawNum>平成二十七年政令第六十八号</LawNum>
   <LawBody>
     <LawTitle>食品表示法第十五条の規定による権限の委任等に関する政令</LawTitle>
@@ -8,7 +8,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（消費者庁長官に委任されない権限）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">食品表示法（以下「法」という。）第十五条第一項の政令で定める権限は、法第四条第一項、同条第二項から第五項まで（これらの規定を同条第六項において準用する場合を含む。）及び第十三条の規定による権限とする。</Sentence>
@@ -18,7 +18,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（権限の委任）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">法に規定する財務大臣の権限（法第四条第二項及び第五項（これらの規定を同条第六項において準用する場合を含む。）並びに第十三条に規定するものを除く。）は、国税庁長官に委任する。</Sentence>
@@ -28,7 +28,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="3">
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">法に規定する農林水産大臣の権限のうち、次の各号に掲げるものは、当該各号に定める地方農政局長に委任する。</Sentence>
@@ -93,7 +93,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="4">
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">第二条の規定により国税庁長官に委任された権限のうち、次の各号に掲げるものは、当該各号に定める者に委任する。</Sentence>
@@ -159,7 +159,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（都道府県又は指定都市が処理する農林水産大臣の権限に属する事務）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">法に規定する農林水産大臣の権限に属する事務のうち、次の各号に掲げるものは、当該各号に定める者が行うこととする。</Sentence>
@@ -331,19 +331,19 @@
             </Subitem1>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項本文の場合においては、法中同項本文に規定する事務に係る農林水産大臣に関する規定（法第六条第二項及び第六項並びに第八条第八項及び第九項の規定を除く。）は、都道府県知事又は指定都市の長に関する規定として都道府県知事又は指定都市の長に適用があるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">都道府県知事又は指定都市の長は、第一項本文の規定により同項第一号に掲げる事務を行った場合には、農林水産省令で定めるところにより、その内容を農林水産大臣に報告しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">都道府県知事又は指定都市の長は、第一項本文の規定により同項第二号から第四号までに掲げる事務を行った場合には、農林水産省令で定めるところにより、その結果を次の各号に掲げる場合の区分に応じ当該各号に定める者に報告しなければならない。</Sentence>
@@ -382,7 +382,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">農林水産大臣は、第一項ただし書の規定により次の各号に掲げる食品関連事業者又はその者とその事業に関して関係のある事業者について法第八条第二項の規定による報告の徴収若しくは物件の提出の要求又は立入検査若しくは質問を行った結果、当該食品関連事業者が法第五条の規定に違反しており、又は正当な理由がなくて法第六条第一項の規定による指示に係る措置（第一項本文の規定により同項第一号に定める者がした指示に係るものに限る。）をとっていないと思料するときは、その旨を当該食品関連事業者の区分に応じ当該各号に定める者に通知しなければならない。</Sentence>
@@ -410,13 +410,13 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="6">
+        <Paragraph Hide="false" Num="6" OldStyle="false">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">農林水産大臣は、第一項ただし書の規定により法第十二条第三項の規定による調査を行った場合において、都道府県知事又は指定都市の長が同項に規定する措置を講ずる必要があると思料するときは、その旨を当該都道府県知事又は指定都市の長に通知しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="7">
+        <Paragraph Hide="false" Num="7" OldStyle="false">
           <ParagraphNum>７</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">都道府県知事又は指定都市の長は、第一項本文の規定により同項第五号に掲げる事務のうち法第十二条第三項の規定による調査を行った場合には、農林水産省令で定めるところにより、その結果を次の各号に掲げる場合の区分に応じ当該各号に定める者に報告しなければならない。</Sentence>
@@ -455,7 +455,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="8">
+        <Paragraph Hide="false" Num="8" OldStyle="false">
           <ParagraphNum>８</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項ただし書の場合において、農林水産大臣又は都道府県知事若しくは指定都市の長が同項第二号から第五号までに掲げる事務を行うときは、相互に密接な連携の下に行うものとする。</Sentence>
@@ -465,7 +465,7 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（都道府県等が処理する消費者庁長官に委任された権限に属する事務）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">法第十五条第一項の規定により消費者庁長官に委任された権限に属する事務（酒類及び次条第一項本文の内閣府令で定める事項に係るものを除く。）のうち、次の各号に掲げるものは、当該各号に定める者が行うこととする。</Sentence>
@@ -670,19 +670,19 @@
             </Subitem1>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項本文の場合においては、法中同項本文に規定する事務に係る内閣総理大臣に関する規定（法第六条第二項及び第六項並びに第八条第八項及び第九項の規定を除く。）は、都道府県知事又は指定都市の長に関する規定として都道府県知事又は指定都市の長に適用があるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">都道府県知事又は指定都市の長は、第一項本文の規定により同項第一号又は第二号に掲げる事務を行った場合には、内閣府令で定めるところにより、その内容を消費者庁長官に報告しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">都道府県知事又は指定都市の長は、第一項本文の規定により同項第三号から第五号までに掲げる事務を行った場合には、内閣府令で定めるところにより、その結果を次の各号に掲げる場合の区分に応じ当該各号に定める者に報告しなければならない。</Sentence>
@@ -721,7 +721,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">消費者庁長官は、第一項ただし書の規定により次の各号に掲げる食品関連事業者又はその者とその事業に関して関係のある事業者について法第八条第一項の規定による報告の徴収若しくは物件の提出の要求又は立入検査若しくは質問を行った結果、当該食品関連事業者が法第五条の規定に違反しており、又は正当な理由がなくて法第六条第一項の規定による指示に係る措置（第一項本文の規定により同項第一号に定める者がした指示に係るものに限る。）をとっていないと思料するときは、その旨を当該食品関連事業者の区分に応じ当該各号に定める者に通知しなければならない。</Sentence>
@@ -749,13 +749,13 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="6">
+        <Paragraph Hide="false" Num="6" OldStyle="false">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">消費者庁長官は、第一項ただし書の規定により法第十二条第三項の規定による調査を行った場合において、都道府県知事又は指定都市の長が同項に規定する措置を講ずる必要があると思料するときは、その旨を当該都道府県知事又は指定都市の長に通知しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="7">
+        <Paragraph Hide="false" Num="7" OldStyle="false">
           <ParagraphNum>７</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">都道府県知事又は指定都市の長は、第一項本文の規定により同項第六号に掲げる事務のうち法第十二条第三項の規定による調査を行った場合には、内閣府令で定めるところにより、その結果を次の各号に掲げる場合の区分に応じ当該各号に定める者に報告しなければならない。</Sentence>
@@ -794,7 +794,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="8">
+        <Paragraph Hide="false" Num="8" OldStyle="false">
           <ParagraphNum>８</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項ただし書の場合において、消費者庁長官又は都道府県知事若しくは指定都市の長が同項第三号から第六号までに掲げる事務を行うときは、相互に密接な連携の下に行うものとする。</Sentence>
@@ -803,7 +803,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="7">
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">法第十五条第一項の規定により消費者庁長官に委任された権限に属する事務（アレルゲン、消費期限、栄養成分の量及び熱量その他の国民の健康の保護及び増進を図るために必要な食品に関する表示の事項として内閣府令で定めるものに係るものに限る。）のうち、次の各号に掲げるものは、当該各号に定める都道府県知事（保健所を設置する市（法第十五条第五項に規定する保健所を設置する市をいう。第八項において同じ。）又は特別区にあっては、市長又は区長。以下この条において同じ。）が行うこととする。</Sentence>
@@ -887,43 +887,43 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項本文の場合においては、法中同項本文に規定する事務に係る内閣総理大臣に関する規定（法第六条第二項、第四項、第六項及び第七項並びに第八条第八項及び第九項の規定を除く。）は、都道府県知事に関する規定として都道府県知事に適用があるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">都道府県知事は、第一項本文の規定により、同項第一号から第三号までに掲げる事務を行った場合にはその内容を、同項第四号から第六号までに掲げる事務を行った場合にはその結果を、内閣府令で定めるところにより、消費者庁長官に報告しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">消費者庁長官は、第一項ただし書の規定により食品関連事業者等又は食品関連事業者とその事業に関して関係のある事業者について法第八条第一項の規定による報告の徴収若しくは物件の提出の要求又は立入検査、質問若しくは収去を行った結果、当該食品関連事業者等が法第五条の規定（第一項ただし書の内閣府令で定める事項に係るものを除く。）に違反しており、又は正当な理由がなくて法第六条第一項若しくは第三項の規定による指示に係る措置（第一項本文の規定により同項第一号に定める都道府県知事がした指示に係るものに限る。）をとっていないと思料するときは、その旨を当該都道府県知事に通知しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">消費者庁長官は、第一項ただし書の規定により法第十二条第三項の規定による調査を行った場合において、都道府県知事が同項に規定する措置を講ずる必要があると思料するときは、その旨を当該都道府県知事に通知しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="6">
+        <Paragraph Hide="false" Num="6" OldStyle="false">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">都道府県知事は、第一項本文の規定により同項第七号に掲げる事務のうち法第十二条第三項の規定による調査を行った場合には、内閣府令で定めるところにより、その結果を消費者庁長官に報告しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="7">
+        <Paragraph Hide="false" Num="7" OldStyle="false">
           <ParagraphNum>７</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項ただし書の場合において、消費者庁長官又は都道府県知事が同項第一号及び第三号から第七号までに掲げる事務を行うときは、相互に密接な連携の下に行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="8">
+        <Paragraph Hide="false" Num="8" OldStyle="false">
           <ParagraphNum>８</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項第三号（法第六条第八項の規定による業務の全部又は一部を停止すべきことの命令に係る部分を除く。）、第四号、第五号及び第六号（法第八条第七項の規定による委託に係る部分を除く。）の規定により都道府県、保健所を設置する市又は特別区が処理することとされている事務は、地方自治法第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
@@ -936,7 +936,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、法の施行の日（平成二十七年四月一日）から施行する。</Sentence>
@@ -946,7 +946,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第七条の定めるところにより特別区が処理し、又は特別区の区長が管理し、及び執行することとされている事務のうち、法第六条第一項、第五項及び第八項、第七条並びに第八条第一項及び第七項に規定する事務（卸売市場法（昭和四十六年法律第三十五号）第二条第二項に規定する卸売市場（花きの卸売のために開設されるものを除く。）に係るものに限る。）については、当分の間、都が処理し、又は都知事が管理し、及び執行するものとする。</Sentence>
@@ -954,23 +954,23 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二八年二月三日政令第三六号">
+    <SupplProvision AmendLawId="428036" AmendLawNum="平成二八年二月三日政令第三六号" Id="0e8855b7-d88d-66a1-a430-c4fbca1bdfe3">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、平成二十八年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（処分等に関する経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令の施行前に農林物資の規格化等に関する法律又は食品表示法の規定により都道府県知事がした指示等の処分その他の行為（以下この項において「処分等の行為」という。）で、この政令の施行の日以後においてこの政令による改正後の農林物資の規格化等に関する法律施行令又は食品表示法第十五条の規定による権限の委任等に関する政令の相当規定により地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項に規定する指定都市（以下この項において単に「指定都市」という。）の長が行うこととなる行政事務に係るものは、同日以後においては、指定都市の長がした処分等の行為とみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphCaption>（罰則に関する経過措置）</ParagraphCaption>
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="191001e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="018" Year="56">
+<Law AmendmentId="501M60000008019" AmendmentNum="令和元年総務省令第十九号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="018" Year="56">
   <LawNum>昭和五十六年自治省令第十八号</LawNum>
   <LawBody>
     <LawTitle>中継器に係る技術上の規格を定める省令</LawTitle>
@@ -8,7 +8,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（趣旨）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、火災報知設備又はガス漏れ火災警報設備に使用する中継器（火災報知設備及びガス漏れ火災警報設備の中継器を含む。以下同じ。）の技術上の規格を定めるものとする。</Sentence>
@@ -18,7 +18,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（用語の意義）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
@@ -238,7 +238,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（構造及び機能）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">中継器の構造及び機能は、次に定めるところによらなければならない。</Sentence>
@@ -529,7 +529,7 @@
             </Subitem1>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">検知器、受信機又は他の中継器から電力を供給される方式の中継器のうち、次の各号に掲げる方式を用いるものは、当該各号に定める構造及び機能を有するものでなければならない。</Sentence>
@@ -557,7 +557,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">検知器、受信機又は他の中継器から電力を供給されない方式の中継器（電池を用いる無線式中継器を除く。）の構造及び機能は、次に定めるところによらなければならない。</Sentence>
@@ -582,7 +582,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">検知器、受信機又は他の中継器から電力を供給されない方式の中継器（電池を用いる無線式中継器を除く。）のうち、外部負荷に電力を供給する方式を用いるものの構造及び機能は、当該電力を供給する回路に、ヒューズ、ブレーカその他の保護装置を設けるとともに、当該保護装置が作動したときにあつては当該保護装置が作動した旨の信号を受信機に自動的に送るものでなければならない。</Sentence>
@@ -592,19 +592,19 @@
       <Article Delete="false" Hide="false" Num="3_2">
         <ArticleCaption>（中継器の送受信機能）</ArticleCaption>
         <ArticleTitle>第三条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">中継器（アナログ式中継器を除く。）は、感知器、発信機若しくは他の中継器から発せられた火災信号、他の中継器から発せられた火災表示信号又は検知器若しくは他の中継器から発せられたガス漏れ信号を、共通又は固有の信号として受信したとき、信号の種別に応じて、これらの信号を確実に発信する機能を有するものでなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">アナログ式中継器は、感知器又は他のアナログ式中継器から発せられた火災情報信号を受信したとき、感度設定装置を有するものにあつては第二条第六号の二に規定する火災表示又は注意表示を行う旨の信号を、感度設定装置を有しないものにあつては当該火災情報信号を、確実に発信する機能を有するものでなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">中継器のうち、設備作動信号を受信するものは、次に定める機能を有するものでなければならない。</Sentence>
@@ -622,7 +622,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">中継器は、二の警戒区域の回線から火災信号、火災表示信号、火災情報信号、ガス漏れ信号又は設備作動信号を同時に受信したとき、前三項に定める発信を確実に行うものでなければならない。</Sentence>
@@ -632,7 +632,7 @@
       <Article Delete="false" Hide="false" Num="3_3">
         <ArticleCaption>（中継器の自動試験機能等）</ArticleCaption>
         <ArticleTitle>第三条の三</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">中継器に自動試験機能又は遠隔試験機能（以下「自動試験機能等」という。）を設けるものにあつては、次に定めるところによらなければならない。</Sentence>
@@ -662,7 +662,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">中継器に自動試験機能を設けるものにあつては、次に定めるところによらなければならない。</Sentence>
@@ -736,7 +736,7 @@
             </Subitem1>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">中継器に遠隔試験機能を設けるものにあつては、次に定めるところによらなければならない。</Sentence>
@@ -771,7 +771,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（受信から発信までの所要時間）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">中継器の受信開始から発信開始までの所要時間は、五秒以内でなければならない。</Sentence>
@@ -782,7 +782,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（部品の構造及び機能）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">中継器に次の各号に掲げる部品を用いる場合にあつては、当該各号に定める構造及び機能を有するものでなければならない。</Sentence>
@@ -961,7 +961,7 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（附属装置）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">中継器には、その機能に有害な影響を及ぼすおそれのある附属装置を設けてはならない。</Sentence>
@@ -971,7 +971,7 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（電源電圧変動試験）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">中継器は、次の各号に掲げる電源の電圧が当該各号に定める範囲内で変動した場合、機能に異常を生じないものでなければならない。</Sentence>
@@ -1003,7 +1003,7 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（周囲温度試験）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">中継器は、周囲の温度が零下十度以上五十度以下の場合、機能に異常を生じないものでなければならない。</Sentence>
@@ -1013,7 +1013,7 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（繰返し試験）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">中継器は、定格電圧で定格電流を流し、二千回の作動を繰り返した場合、構造又は機能に異常を生じないものでなければならない。</Sentence>
@@ -1023,7 +1023,7 @@
       <Article Delete="false" Hide="false" Num="10">
         <ArticleCaption>（絶縁抵抗試験）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">充電部と金属製外箱との間及び電源変圧器の線路相互の間の絶縁抵抗は、直流五百ボルトの絶縁抵抗計で測定した値が五メガオーム（接続することができる回線の数が十以上の中継器の充電部と金属製外箱との間にあつては、一回線当たり五十メガオーム）以上でなければならない。</Sentence>
@@ -1033,7 +1033,7 @@
       <Article Delete="false" Hide="false" Num="11">
         <ArticleCaption>（絶縁耐力試験）</ArticleCaption>
         <ArticleTitle>第十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">充電部と金属製外箱との間及び電源変圧器の線路相互の間の絶縁耐力は、五十ヘルツ又は六十ヘルツの正弦波に近い実効電圧五百ボルト（定格電圧が六十ボルトを超え百五十ボルト以下のものにあつては千ボルト、定格電圧が百五十ボルトを超えるものにあつては定格電圧に二を乗じて得た値に千ボルトを加えた値）の交流電圧を加えた場合、一分間これに耐えるものでなければならない。</Sentence>
@@ -1043,7 +1043,7 @@
       <Article Delete="false" Hide="false" Num="12">
         <ArticleCaption>（衝撃電圧試験）</ArticleCaption>
         <ArticleTitle>第十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">中継器（外部配線を有さない無線式中継器を除く。）は、通電状態において、次に掲げる試験を十五秒間行つた場合、機能に異常を生じないものでなければならない。</Sentence>
@@ -1071,7 +1071,7 @@
       <Article Delete="false" Hide="false" Num="12_2">
         <ArticleCaption>（電磁波試験）</ArticleCaption>
         <ArticleTitle>第十二条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">無線式中継器は、通電状態において、一メートル当たり十ボルトの電界強度で、周波数一キロヘルツの正弦波によつて八十パーセントの振幅変調をし、並びに周波数を八十メガヘルツから一ギガヘルツまで及び一・四ギガヘルツから二ギガヘルツまでそれぞれ〇・〇〇一五デイケード毎秒以下の速度で変化させた電磁波を照射した場合において、火災信号を発信せず、かつ、機能に異常を生じないものでなければならない。</Sentence>
@@ -1081,7 +1081,7 @@
       <Article Delete="false" Hide="false" Num="12_3">
         <ArticleCaption>（振動衝撃試験）</ArticleCaption>
         <ArticleTitle>第十二条の三</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">無線式中継器のうち、感知器の本体に組み込まれるものにあつては、次に掲げる試験を行つた場合において、第一号の試験にあつては適正な監視状態を継続し、第二号及び第三号の試験にあつては機能に異常を生じないものでなければならない。</Sentence>
@@ -1109,7 +1109,7 @@
       <Article Delete="false" Hide="false" Num="13">
         <ArticleCaption>（試験の条件）</ArticleCaption>
         <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第十条及び第十一条に定める試験は、次に掲げる条件の下で行わなければならない。</Sentence>
@@ -1131,7 +1131,7 @@
       <Article Delete="false" Hide="false" Num="14">
         <ArticleCaption>（表示）</ArticleCaption>
         <ArticleTitle>第十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">中継器には、次の各号に掲げる事項を見やすい箇所に容易に消えないように表示しなければならない。</Sentence>
@@ -1306,7 +1306,7 @@
             </Subitem1>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次の各号に掲げる部品には部品記号及び当該各号に掲げる事項を、その他の部品には部品記号を見やすい箇所に容易に消えないように表示しなければならない。</Sentence>
@@ -1349,7 +1349,7 @@
       <Article Delete="false" Hide="false" Num="15">
         <ArticleCaption>（基準の特例）</ArticleCaption>
         <ArticleTitle>第十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">新たな技術開発に係る中継器について、その形状、構造、材質及び性能から判断して、この省令の規定に適合するものと同等以上の性能があると総務大臣が認めた場合は、この省令の規定にかかわらず、総務大臣が定める技術上の規格によることができる。</Sentence>
@@ -1359,146 +1359,146 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和五十六年七月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令施行の際、現に日本消防検定協会の行う消防用機械器具等についての試験を申請している中継器に係る試験については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令施行の際、現に火災報知設備に係る技術上の規格を定める省令（昭和四十四年自治省令第四号）の規格による型式承認を受けている中継器に係る型式承認及び前項により従前の例によることとされた試験の結果に基づいて型式承認を受けた中継器に係る型式承認は、この省令の規格による型式承認とみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五九年七月二〇日自治省令第一九号">
+    <SupplProvision AmendLawId="359019" AmendLawNum="昭和五九年七月二〇日自治省令第一九号" Id="45c7cf2e-190b-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和五十九年十月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の際、現に日本消防検定協会の行う消防用機械器具等についての試験を申請している中継器に係る試験については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和六二年三月一八日自治省令第七号">
+    <SupplProvision AmendLawId="362007" AmendLawNum="昭和六二年三月一八日自治省令第七号" Id="fd1cc0ac-18f3-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成五年一月二九日自治省令第四号">
+    <SupplProvision AmendLawId="405004" AmendLawNum="平成五年一月二九日自治省令第四号" Id="4621f3e6-190b-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成五年二月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の際、現に型式承認を受けている中継器に係る型式承認は、改正後の中継器に係る技術上の規格を定める省令の規格による型式承認とみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成七年九月一三日自治省令第二八号">
+    <SupplProvision AmendLawId="407028" AmendLawNum="平成七年九月一三日自治省令第二八号" Id="464f1ede-190b-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成七年十月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の際、現に日本消防検定協会の行う検定対象機械器具等についての試験を申請している中継器に係る試験については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の際、現に型式承認を受けている中継器に係る型式承認及び前項の規定により従前の例によることとされた試験の結果に基づいて型式承認を受けた中継器に係る型式承認は、改正後の中継器に係る技術上の規格を定める省令の規格による型式承認とみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成九年四月二三日自治省令第二四号">
+    <SupplProvision AmendLawId="409024" AmendLawNum="平成九年四月二三日自治省令第二四号" Id="467c48d2-190b-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成九年五月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の際、現に日本消防検定協会の行う検定対象機械器具等についての試験を申請している中継器に係る試験については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の際、現に型式承認を受けている中継器に係る型式承認及び前項の規定により従前の例によることとされた試験の結果に基づいて型式承認を受けた中継器に係る型式承認は、改正後の中継器に係る技術上の規格を定める省令の規格による型式承認とみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年九月一四日自治省令第四四号">
+    <SupplProvision AmendLawId="412044" AmendLawNum="平成一二年九月一四日自治省令第四四号" Id="8c15e2fc-d3b5-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一九年三月二六日総務省令第三一号">
+    <SupplProvision AmendLawId="419031" AmendLawNum="平成一九年三月二六日総務省令第三一号" Id="46d69c42-190b-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の際、現に日本消防検定協会の行う検定対象機械器具等についての試験を申請している中継器に係る試験については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の際、現に型式承認を受けている中継器に係る型式承認及び前項の規定により従前の例によることとされた試験の結果に基づいて型式承認を受けた中継器に係る型式承認は、改正後の中継器に係る技術上の規格を定める省令の規格による型式承認とみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二一年三月九日総務省令第一七号">
+    <SupplProvision AmendLawId="421017" AmendLawNum="平成二一年三月九日総務省令第一七号" Id="4703c65e-190b-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -1506,12 +1506,12 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二五年三月二七日総務省令第二五号" Extract="true">
+    <SupplProvision AmendLawId="425025" AmendLawNum="平成二五年三月二七日総務省令第二五号" Extract="true" Id="4562e794-190b-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成二十六年四月一日から施行する。</Sentence>
@@ -1521,13 +1521,13 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の際、現に日本消防検定協会又は消防法第二十一条の三第一項に規定する法人であって総務大臣の登録を受けた者が行う検定対象機械器具等についての試験を申請している火災報知設備の感知器及び発信機並びに中継器に係る試験については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の際、現に型式承認を受けている中継器及び第一項の規定により従前の例によることとされた試験の結果に基づいて型式承認を受けた中継器に係る型式承認は、第三条の規定による改正後の中継器に係る技術上の規格を定める省令の規格による型式承認とみなす。</Sentence>
@@ -1535,9 +1535,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年六月二八日総務省令第一九号" Type="Amend">
+    <SupplProvision AmendLawId="501019" AmendLawNum="令和元年六月二八日総務省令第一九号" Id="ef844ec2-9e19-11e9-92bf-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>

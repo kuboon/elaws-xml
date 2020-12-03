@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200326e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="71" Year="61">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="71" Year="61">
   <LawNum>昭和六十一年法律第七十一号</LawNum>
   <LawBody>
     <LawTitle>国家安全保障会議設置法</LawTitle>
@@ -7,7 +7,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（設置）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">我が国の安全保障（以下「国家安全保障」という。）に関する重要事項を審議する機関として、内閣に、国家安全保障会議（以下「会議」という。）を置く。</Sentence>
@@ -17,7 +17,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（所掌事務等）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">会議は、次の事項について審議し、必要に応じ、内閣総理大臣に対し、意見を述べる。</Sentence>
@@ -101,7 +101,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">内閣総理大臣は、前項第一号から第四号まで及び次の各号に掲げる事項並びに同項第五号から第十号まで及び第十二号に掲げる事項（次の各号に掲げる事項を除く。）のうち内閣総理大臣が必要と認めるものについては、会議に諮らなければならない。</Sentence>
@@ -137,7 +137,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の場合において、会議は、武力攻撃事態等、存立危機事態、重要影響事態及び重大緊急事態に関し、同項第四号から第六号まで又は第十二号に掲げる事項について審議した結果、特に緊急に対処する必要があると認めるときは、迅速かつ適切な対処が必要と認められる措置について内閣総理大臣に建議することができる。</Sentence>
@@ -147,7 +147,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（組織）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">会議は、議長及び議員で組織する。</Sentence>
@@ -157,19 +157,19 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（議長）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">議長は、内閣総理大臣をもつて充てる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">議長は、会務を総理する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">議長に事故があるとき、又は議長が欠けたときは、内閣法（昭和二十二年法律第五号）第九条の規定によりあらかじめ指定された国務大臣（順位を定めて二以上の国務大臣が指定されているときは、最先順位の国務大臣）をもつて充てられる議員がその職務を代理する。</Sentence>
@@ -179,7 +179,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（議員）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">議員は、次の各号に掲げる事項の区分に応じ、当該各号に定める国務大臣をもつて充てる。</Sentence>
@@ -218,19 +218,19 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">議長は、前項の規定にかかわらず、第二条第一項第四号から第六号までに掲げる事項に関し、事態の分析及び評価について特に集中して審議する必要があると認める場合には、議長、外務大臣、防衛大臣、内閣官房長官及び事態の種類に応じてあらかじめ内閣総理大臣により指定された国務大臣によつて事案について審議を行うことができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">議長は、必要があると認めるときは、前二項に規定する者のほか、これらの規定に規定する国務大臣以外の国務大臣を、議案を限つて、議員として、臨時に会議に参加させることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前三項の場合において、議員が不在のときは、緊急の場合その他やむを得ない事由のある場合に限り、そのあらかじめ指名する副大臣（内閣官房副長官を含む。第七条第二項において同じ。）がその職務を代行することができる。</Sentence>
@@ -240,13 +240,13 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（資料提供等）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">内閣官房長官及び関係行政機関の長は、会議の定めるところにより、会議に対し、国家安全保障に関する資料又は情報であつて、会議の審議に資するものを、適時に提供するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項に定めるもののほか、内閣官房長官及び関係行政機関の長は、議長の求めに応じて、会議に対し、国家安全保障に関する資料又は情報の提供及び説明その他必要な協力を行わなければならない。</Sentence>
@@ -256,13 +256,13 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（服務）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">議長及び議員は、非常勤とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">議長及び議員並びに議長又は議員であつた者、第五条第四項の規定により副大臣として議員の職務を代行した者、次条の規定により関係者として会議に出席した者並びに第九条第三項の委員長及び当該委員長であつた者は、その職務に関して知ることのできた秘密を他に漏らしてはならない。</Sentence>
@@ -272,13 +272,13 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（関係者の出席）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">内閣官房副長官及び国家安全保障担当内閣総理大臣補佐官（内閣法第二十二条第三項の規定により国家安全保障に関する重要政策を担当する者として指定された内閣総理大臣補佐官をいう。）は、会議に出席し、議長の許可を受けて意見を述べることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項に定めるもののほか、議長は、必要があると認めるときは、統合幕僚長その他の関係者を会議に出席させ、意見を述べさせることができる。</Sentence>
@@ -288,31 +288,31 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（事態対処専門委員会）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">会議に、事態対処専門委員会（以下この条において「委員会」という。）を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">委員会は、第二条第一項第四号から第七号まで、第九号、第十号及び第十二号に掲げる事項（同項第九号及び第十号に掲げる事項については、その対処措置につき諮るべき事態に係るものに限る。）の審議を迅速かつ的確に実施するため、必要な事項に関する調査及び分析を行い、その結果に基づき、会議に進言する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">委員会は、委員長及び委員をもつて組織する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">委員長は、内閣官房長官をもつて充てる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">委員は、内閣官房及び関係行政機関の職員のうちから、内閣総理大臣が任命する。</Sentence>
@@ -322,19 +322,19 @@
       <Article Delete="false" Hide="false" Num="10">
         <ArticleCaption>（幹事）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">会議に、幹事を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">幹事は、内閣官房及び関係行政機関の職員のうちから、内閣総理大臣が任命する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">幹事は、会議の所掌事務について、議長及び議員を補佐する。</Sentence>
@@ -344,7 +344,7 @@
       <Article Delete="false" Hide="false" Num="11">
         <ArticleCaption>（議事）</ArticleCaption>
         <ArticleTitle>第十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">会議の議事に関し必要な事項は、議長が会議の議を経て定める。</Sentence>
@@ -354,7 +354,7 @@
       <Article Delete="false" Hide="false" Num="12">
         <ArticleCaption>（事務）</ArticleCaption>
         <ArticleTitle>第十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">会議の事務は、国家安全保障局において処理する。</Sentence>
@@ -364,7 +364,7 @@
       <Article Delete="false" Hide="false" Num="13">
         <ArticleCaption>（主任の大臣）</ArticleCaption>
         <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">会議に係る事項については、内閣法にいう主任の大臣は、内閣総理大臣とする。</Sentence>
@@ -374,7 +374,7 @@
       <Article Delete="false" Hide="false" Num="14">
         <ArticleCaption>（委任規定）</ArticleCaption>
         <ArticleTitle>第十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律に定めるもののほか、会議に関し必要な事項は、政令で定める。</Sentence>
@@ -384,14 +384,14 @@
     </MainProvision>
     <SupplProvision Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、昭和六十一年七月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（国防会議の構成等に関する法律の廃止）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -399,12 +399,12 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一一年七月一六日法律第一〇二号" Extract="true">
+    <SupplProvision AmendLawId="411102" AmendLawNum="平成一一年七月一六日法律第一〇二号" Extract="true" Id="1e778bbb-bcd0-41d7-9c8d-442e0f54b2f3">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日から施行する。</Sentence>
@@ -432,7 +432,7 @@
       <Article Delete="false" Hide="false" Num="30">
         <ArticleCaption>（別に定める経過措置）</ArticleCaption>
         <ArticleTitle>第三十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第二条から前条までに規定するもののほか、この法律の施行に伴い必要となる経過措置は、別に法律で定める。</Sentence>
@@ -440,21 +440,21 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一五年六月一三日法律第七八号">
+    <SupplProvision AmendLawId="415078" AmendLawNum="平成一五年六月一三日法律第七八号" Id="dd4a1274-190d-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年七月二九日法律第八八号" Extract="true">
+    <SupplProvision AmendLawId="417088" AmendLawNum="平成一七年七月二九日法律第八八号" Extract="true" Id="b8f950e8-188a-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、平成十八年三月三十一日までの間において政令で定める日から施行する。</Sentence>
@@ -462,12 +462,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一八年一二月二二日法律第一一八号" Extract="true">
+    <SupplProvision AmendLawId="418118" AmendLawNum="平成一八年一二月二二日法律第一一八号" Extract="true" Id="84033038-1f5d-4b50-a5e9-cab4c8e28846">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -477,7 +477,7 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
@@ -485,16 +485,16 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二五年一二月四日法律第八九号" Extract="true">
+    <SupplProvision AmendLawId="425089" AmendLawNum="平成二五年一二月四日法律第八九号" Extract="true" Id="6deecf7c-1887-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（安全保障会議設置法の一部改正に伴う経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -502,12 +502,12 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二六年四月一八日法律第二二号" Extract="true">
+    <SupplProvision AmendLawId="426022" AmendLawNum="平成二六年四月一八日法律第二二号" Extract="true" Id="b130f714-d3b2-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において、政令で定める日から施行する。</Sentence>
@@ -515,12 +515,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二七年九月三〇日法律第七六号" Extract="true">
+    <SupplProvision AmendLawId="427076" AmendLawNum="平成二七年九月三〇日法律第七六号" Extract="true" Id="d8b91c15-3db3-439a-ae35-89a7856bf1c0">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>

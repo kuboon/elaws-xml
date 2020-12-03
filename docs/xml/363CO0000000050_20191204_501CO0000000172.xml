@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="50" Year="63">
+<Law AmendmentId="501CO0000000172" AmendmentNum="令和元年政令第百七十二号" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="50" Year="63">
   <LawNum>昭和六十三年政令第五十号</LawNum>
   <LawBody>
     <LawTitle>通貨の単位及び貨幣の発行等に関する法律施行令</LawTitle>
@@ -8,7 +8,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（貨幣の素材等）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">貨幣の素材、品位、量目及び形式は、次条に定めるものを除き、別表第一に定めるところによる。</Sentence>
@@ -18,7 +18,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（臨時補助貨幣で貨幣とみなされたものの素材等）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">通貨の単位及び貨幣の発行等に関する法律（以下「法」という。）附則第八条に規定する臨時補助貨幣で同条の規定により貨幣とみなされたものの素材、品位、量目及び形式は、別表第二に定めるところによる。</Sentence>
@@ -28,7 +28,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（記念貨幣の発行枚数）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五条第三項に規定する記念貨幣の発行枚数は、別表第三に定めるところによる。</Sentence>
@@ -38,7 +38,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（貨幣の販売価格）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第十条第二項に規定する貨幣の販売価格は、別に政令で定めるものを除くほか、別表第四の上欄に掲げる貨幣ごとに、同表の下欄に掲げる価額に、消費税法（昭和六十三年法律第百八号）の規定による消費税及び地方税法（昭和二十五年法律第二百二十六号）の規定による地方消費税の額に相当する金額を加えて得た額とする。</Sentence>
@@ -48,7 +48,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（国庫納付金）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">独立行政法人造幣局（以下「造幣局」という。）は、各事業年度において、法第十条第一項に規定する貨幣を販売した場合には、当該貨幣の販売収入から販売に要する費用を控除した金額を、次条に定めるところにより国庫に納付するものとする。</Sentence>
@@ -58,19 +58,19 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（国庫納付金の見込額の納付等）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">造幣局は、各事業年度に係る国庫納付金（前条の規定による納付金をいう。以下同じ。）の見込額を、財務大臣の定めるところにより、当該事業年度の翌事業年度の四月三十日までに国庫に納付するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">造幣局は、各事業年度に係る国庫納付金の見込額を前項の規定により納付した場合において、当該事業年度に係る国庫納付金の額から当該見込額を控除してなお残額があるときは、その残額を翌事業年度の七月十日までに国庫に納付するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">造幣局が各事業年度に係る国庫納付金の見込額を第一項の規定により納付した場合において、当該見込額が当該事業年度に係る国庫納付金の額を超えるときは、政府は、その超える額に相当する金額を翌々事業年度末までに還付するものとする。</Sentence>
@@ -80,7 +80,7 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（国庫納付金の会計年度所属区分の特例）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前条第一項の規定により納付された各事業年度に係る国庫納付金の見込額は、予算決算及び会計令（昭和二十二年勅令第百六十五号）第一条の二第一項第一号の規定にかかわらず、当該事業年度に対応する国の会計年度所属の歳入金とする。</Sentence>
@@ -90,7 +90,7 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（国庫納付金の納付の手続）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">造幣局は、第五条の規定に基づいて計算した各事業年度に係る国庫納付金の計算書に、当該事業年度末の貸借対照表、当該事業年度の損益計算書その他の当該国庫納付金の計算の基礎を明らかにした書類を添付して、翌事業年度の六月三十日までに、これを財務大臣に提出しなければならない。</Sentence>
@@ -100,7 +100,7 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（国庫納付金の帰属する会計）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">国庫納付金は、一般会計に帰属する。</Sentence>
@@ -110,7 +110,7 @@
       <Article Delete="false" Hide="false" Num="10">
         <ArticleCaption>（旧金貨幣の引換期間の特例）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次の各号に掲げる場合における法附則第四条の規定による旧金貨幣（法附則第三条に規定する金貨幣をいう。以下同じ。）の引換えの期間は、当該各号に定める期間とする。</Sentence>
@@ -167,7 +167,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、昭和六十三年四月一日から施行する。</Sentence>
@@ -177,7 +177,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（造幣規則等の廃止）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次に掲げる勅令及び政令は、廃止する。</Sentence>
@@ -317,108 +317,108 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和六三年四月一二日政令第一二四号">
+    <SupplProvision AmendLawId="363124" AmendLawNum="昭和六三年四月一二日政令第一二四号" Id="85a1c156-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和六三年八月九日政令第二四八号">
+    <SupplProvision AmendLawId="363248" AmendLawNum="昭和六三年八月九日政令第二四八号" Id="85d1cc84-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成元年九月二二日政令第二六九号">
+    <SupplProvision AmendLawId="401269" AmendLawNum="平成元年九月二二日政令第二六九号" Id="8601f30a-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成元年一二月八日政令第三一六号">
+    <SupplProvision AmendLawId="401316" AmendLawNum="平成元年一二月八日政令第三一六号" Id="8632096e-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二年八月一〇日政令第二四四号">
+    <SupplProvision AmendLawId="402244" AmendLawNum="平成二年八月一〇日政令第二四四号" Id="86624e6c-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三年一二月二〇日政令第三七一号">
+    <SupplProvision AmendLawId="403371" AmendLawNum="平成三年一二月二〇日政令第三七一号" Id="8692ead6-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成四年三月二一日政令第四三号">
+    <SupplProvision AmendLawId="404043" AmendLawNum="平成四年三月二一日政令第四三号" Id="86c3000e-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成五年四月二三日政令第一五四号">
+    <SupplProvision AmendLawId="405154" AmendLawNum="平成五年四月二三日政令第一五四号" Id="86f3502e-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成五年六月一六日政令第一九四号">
+    <SupplProvision AmendLawId="405194" AmendLawNum="平成五年六月一六日政令第一九四号" Id="bc12bee8-d3b6-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成五年一〇月一四日政令第三三四号">
+    <SupplProvision AmendLawId="405334" AmendLawNum="平成五年一〇月一四日政令第三三四号" Id="875149fe-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成六年七月一日政令第二一六号">
+    <SupplProvision AmendLawId="406216" AmendLawNum="平成六年七月一日政令第二一六号" Id="8781603a-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成八年六月二六日政令第一九六号" Extract="true">
+    <SupplProvision AmendLawId="408196" AmendLawNum="平成八年六月二六日政令第一九六号" Extract="true" Id="bc14c10c-d3b6-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -426,27 +426,27 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成八年一〇月一六日政令第三〇三号">
+    <SupplProvision AmendLawId="408303" AmendLawNum="平成八年一〇月一六日政令第三〇三号" Id="87df7576-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成九年五月一六日政令第一七四号">
+    <SupplProvision AmendLawId="409174" AmendLawNum="平成九年五月一六日政令第一七四号" Id="880f9bfc-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一一年七月一六日政令第二二六号" Extract="true">
+    <SupplProvision AmendLawId="411226" AmendLawNum="平成一一年七月一六日政令第二二六号" Extract="true" Id="bc16a454-d3b6-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -454,30 +454,30 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一一年一〇月二〇日政令第三二九号">
+    <SupplProvision AmendLawId="411329" AmendLawNum="平成一一年一〇月二〇日政令第三二九号" Id="886d9978-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年一月二八日政令第二三号">
+    <SupplProvision AmendLawId="412023" AmendLawNum="平成一二年一月二八日政令第二三号" Id="889dccf6-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年六月七日政令第三〇七号" Extract="true">
+    <SupplProvision AmendLawId="412307" AmendLawNum="平成一二年六月七日政令第三〇七号" Extract="true" Id="1b8b52d6-d3b7-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、平成十三年一月六日から施行する。</Sentence>
@@ -485,9 +485,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年八月三一日政令第二七八号" Extract="true">
+    <SupplProvision AmendLawId="413278" AmendLawNum="平成一三年八月三一日政令第二七八号" Extract="true" Id="bc1887ba-d3b6-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -495,18 +495,18 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一四年一月二三日政令第八号">
+    <SupplProvision AmendLawId="414008" AmendLawNum="平成一四年一月二三日政令第八号" Id="8929bb12-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一四年一〇月九日政令第三〇八号" Extract="true">
+    <SupplProvision AmendLawId="414308" AmendLawNum="平成一四年一〇月九日政令第三〇八号" Extract="true" Id="bc1a4b86-d3b6-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -514,27 +514,27 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一四年一一月一五日政令第三三七号">
+    <SupplProvision AmendLawId="414337" AmendLawNum="平成一四年一一月一五日政令第三三七号" Id="89880212-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一四年一二月一八日政令第三八一号" Extract="true">
+    <SupplProvision AmendLawId="414381" AmendLawNum="平成一四年一二月一八日政令第三八一号" Extract="true" Id="50c7334e-47dd-11e5-8f03-6f8885a23a1d">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、平成十五年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一五年六月一三日政令第二五一号" Extract="true">
+    <SupplProvision AmendLawId="415251" AmendLawNum="平成一五年六月一三日政令第二五一号" Extract="true" Id="bc1c18b2-d3b6-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -542,18 +542,18 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一五年九月五日政令第三九五号">
+    <SupplProvision AmendLawId="415395" AmendLawNum="平成一五年九月五日政令第三九五号" Id="8a13dc92-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年五月二六日政令第一七六号" Extract="true">
+    <SupplProvision AmendLawId="416176" AmendLawNum="平成一六年五月二六日政令第一七六号" Extract="true" Id="bc1e254e-d3b6-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -561,21 +561,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年九月二九日政令第二九〇号">
+    <SupplProvision AmendLawId="416290" AmendLawNum="平成一六年九月二九日政令第二九〇号" Id="8a71c640-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年一月四日政令第一号" Extract="true">
+    <SupplProvision AmendLawId="417001" AmendLawNum="平成一七年一月四日政令第一号" Extract="true" Id="1bb4992a-d3b7-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、平成十七年四月一日から施行する。</Sentence>
@@ -583,9 +583,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一八年五月八日政令第一九〇号" Extract="true">
+    <SupplProvision AmendLawId="418190" AmendLawNum="平成一八年五月八日政令第一九〇号" Extract="true" Id="bc1feac8-d3b6-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -593,18 +593,18 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一八年八月九日政令第二五八号">
+    <SupplProvision AmendLawId="418258" AmendLawNum="平成一八年八月九日政令第二五八号" Id="8afdaab6-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一九年四月二〇日政令第一六〇号" Extract="true">
+    <SupplProvision AmendLawId="419160" AmendLawNum="平成一九年四月二〇日政令第一六〇号" Extract="true" Id="bc21b646-d3b6-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -612,27 +612,27 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一九年一〇月二六日政令第三二〇号">
+    <SupplProvision AmendLawId="419320" AmendLawNum="平成一九年一〇月二六日政令第三二〇号" Id="8b5bbb60-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二〇年五月二日政令第一七二号">
+    <SupplProvision AmendLawId="420172" AmendLawNum="平成二〇年五月二日政令第一七二号" Id="8b8be8bc-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二〇年五月一六日政令第一七七号" Extract="true">
+    <SupplProvision AmendLawId="420177" AmendLawNum="平成二〇年五月一六日政令第一七七号" Extract="true" Id="bc238f5c-d3b6-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -640,54 +640,54 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二〇年六月二七日政令第二〇八号">
+    <SupplProvision AmendLawId="420208" AmendLawNum="平成二〇年六月二七日政令第二〇八号" Id="8bea45c4-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二〇年九月一八日政令第二八四号">
+    <SupplProvision AmendLawId="420284" AmendLawNum="平成二〇年九月一八日政令第二八四号" Id="8c1a6f2e-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二〇年一二月一〇日政令第三七五号">
+    <SupplProvision AmendLawId="420375" AmendLawNum="平成二〇年一二月一〇日政令第三七五号" Id="8c4abd96-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二一年四月一七日政令第一二一号">
+    <SupplProvision AmendLawId="421121" AmendLawNum="平成二一年四月一七日政令第一二一号" Id="8c7b55f0-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二一年六月一〇日政令第一五〇号">
+    <SupplProvision AmendLawId="421150" AmendLawNum="平成二一年六月一〇日政令第一五〇号" Id="8cabc730-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二一年七月八日政令第一八〇号" Extract="true">
+    <SupplProvision AmendLawId="421180" AmendLawNum="平成二一年七月八日政令第一八〇号" Extract="true" Id="bc256534-d3b6-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -695,90 +695,90 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二一年八月一四日政令第二〇九号">
+    <SupplProvision AmendLawId="421209" AmendLawNum="平成二一年八月一四日政令第二〇九号" Id="8d0c1004-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二一年一二月一一日政令第二八三号">
+    <SupplProvision AmendLawId="421283" AmendLawNum="平成二一年一二月一一日政令第二八三号" Id="8d3cb09c-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二二年四月二三日政令第一二五号">
+    <SupplProvision AmendLawId="422125" AmendLawNum="平成二二年四月二三日政令第一二五号" Id="8d6ce320-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二二年六月二三日政令第一五一号">
+    <SupplProvision AmendLawId="422151" AmendLawNum="平成二二年六月二三日政令第一五一号" Id="8d9d2d1e-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二二年八月二五日政令第一八八号">
+    <SupplProvision AmendLawId="422188" AmendLawNum="平成二二年八月二五日政令第一八八号" Id="8dcf12ac-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二二年一〇月一四日政令第二一一号">
+    <SupplProvision AmendLawId="422211" AmendLawNum="平成二二年一〇月一四日政令第二一一号" Id="8dffcfaa-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二三年五月二七日政令第一五二号">
+    <SupplProvision AmendLawId="423152" AmendLawNum="平成二三年五月二七日政令第一五二号" Id="8e302e52-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二三年一〇月一三日政令第三一三号">
+    <SupplProvision AmendLawId="423313" AmendLawNum="平成二三年一〇月一三日政令第三一三号" Id="8e62a76a-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二四年四月二〇日政令第一三三号">
+    <SupplProvision AmendLawId="424133" AmendLawNum="平成二四年四月二〇日政令第一三三号" Id="8e92feba-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二四年七月四日政令第一八一号" Extract="true">
+    <SupplProvision AmendLawId="424181" AmendLawNum="平成二四年七月四日政令第一八一号" Extract="true" Id="bc273724-d3b6-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -786,9 +786,9 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二四年八月三一日政令第二二一号" Extract="true">
+    <SupplProvision AmendLawId="424221" AmendLawNum="平成二四年八月三一日政令第二二一号" Extract="true" Id="bc29066c-d3b6-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -796,45 +796,45 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二四年一一月二一日政令第二七六号">
+    <SupplProvision AmendLawId="424276" AmendLawNum="平成二四年一一月二一日政令第二七六号" Id="8f1fa68a-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二五年四月一九日政令第一二三号">
+    <SupplProvision AmendLawId="425123" AmendLawNum="平成二五年四月一九日政令第一二三号" Id="8f4ff8d0-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二五年八月三〇日政令第二四九号">
+    <SupplProvision AmendLawId="425249" AmendLawNum="平成二五年八月三〇日政令第二四九号" Id="8f803efa-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二六年二月一三日政令第三三号">
+    <SupplProvision AmendLawId="426033" AmendLawNum="平成二六年二月一三日政令第三三号" Id="8fb07048-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、平成二十六年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二六年五月一日政令第一七四号" Extract="true">
+    <SupplProvision AmendLawId="426174" AmendLawNum="平成二六年五月一日政令第一七四号" Extract="true" Id="bc2ae1a8-d3b6-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -842,18 +842,18 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二六年八月二〇日政令第二八四号">
+    <SupplProvision AmendLawId="426284" AmendLawNum="平成二六年八月二〇日政令第二八四号" Id="900e9466-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二六年一〇月三日政令第三二九号" Extract="true">
+    <SupplProvision AmendLawId="426329" AmendLawNum="平成二六年一〇月三日政令第三二九号" Extract="true" Id="bc2caf4c-d3b6-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -861,63 +861,63 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二七年一月二八日政令第二四号">
+    <SupplProvision AmendLawId="427024" AmendLawNum="平成二七年一月二八日政令第二四号" Id="906c9958-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二七年四月二四日政令第二二〇号">
+    <SupplProvision AmendLawId="427220" AmendLawNum="平成二七年四月二四日政令第二二〇号" Id="909cb728-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二七年七月一日政令第二六四号">
+    <SupplProvision AmendLawId="427264" AmendLawNum="平成二七年七月一日政令第二六四号" Id="90cd1fee-18fa-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二七年九月二日政令第三一五号">
+    <SupplProvision AmendLawId="427315" AmendLawNum="平成二七年九月二日政令第三一五号" Id="07f7ce03-90fe-e772-817f-b47fa0408ca7">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二七年一二月九日政令第四一二号">
+    <SupplProvision AmendLawId="427412" AmendLawNum="平成二七年一二月九日政令第四一二号" Id="b8acf5c6-733a-e091-c038-ec8cc693cb03">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二八年四月二二日政令第二〇六号">
+    <SupplProvision AmendLawId="428206" AmendLawNum="平成二八年四月二二日政令第二〇六号" Id="1c1966e3-f5ab-e63f-ac6e-e17004802698">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二八年八月二九日政令第二八九号" Extract="true">
+    <SupplProvision AmendLawId="428289" AmendLawNum="平成二八年八月二九日政令第二八九号" Extract="true" Id="809e6c5e-18a9-488e-b4f2-9c7a26e0d54e">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -925,9 +925,9 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二八年一〇月一九日政令第三二八号" Extract="true">
+    <SupplProvision AmendLawId="428328" AmendLawNum="平成二八年一〇月一九日政令第三二八号" Extract="true" Id="24a2a97e-344a-471f-8b1b-de883e8f99b5">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -935,9 +935,9 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三〇年一月一九日政令第五号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawId="430005" AmendLawNum="平成三〇年一月一九日政令第五号" Extract="true" Id="9dabafd2-fcd5-11e7-95e5-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -945,9 +945,9 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三〇年二月二八日政令第三九号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawId="430039" AmendLawNum="平成三〇年二月二八日政令第三九号" Extract="true" Id="c891ff3a-1c65-11e8-b14b-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -955,9 +955,9 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三〇年五月三〇日政令第一七一号" Extract="true">
+    <SupplProvision AmendLawId="430171" AmendLawNum="平成三〇年五月三〇日政令第一七一号" Extract="true" Id="64528d8c-6409-11e8-bea5-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -965,18 +965,18 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三〇年六月二七日政令第一九〇号">
+    <SupplProvision AmendLawId="430190" AmendLawNum="平成三〇年六月二七日政令第一九〇号" Id="31938878-79fe-11e8-a545-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三〇年八月一〇日政令第二四〇号" Extract="true">
+    <SupplProvision AmendLawId="430240" AmendLawNum="平成三〇年八月一〇日政令第二四〇号" Extract="true" Id="b73a07c2-a069-11e8-b4ac-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -984,9 +984,9 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三〇年一一月三〇日政令第三二四号" Extract="true">
+    <SupplProvision AmendLawId="430324" AmendLawNum="平成三〇年一一月三〇日政令第三二四号" Extract="true" Id="8dd3e246-f85b-11e8-8ad2-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -994,18 +994,18 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三〇年一二月一二日政令第三三四号">
+    <SupplProvision AmendLawId="430334" AmendLawNum="平成三〇年一二月一二日政令第三三四号" Id="956bf374-fddb-11e8-a7f8-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年五月一五日政令第一号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawId="501001" AmendLawNum="令和元年五月一五日政令第一号" Extract="true" Id="0a12aa5e-77b9-11e9-a033-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -1013,18 +1013,18 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年六月二一日政令第三三号" Type="Amend">
+    <SupplProvision AmendLawId="501033" AmendLawNum="令和元年六月二一日政令第三三号" Id="47bf452a-9414-11e9-80e0-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年一二月四日政令第一七二号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawId="501172" AmendLawNum="令和元年一二月四日政令第一七二号" Extract="true" Id="a19afc44-170c-11ea-8749-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>

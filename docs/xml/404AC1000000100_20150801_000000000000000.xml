@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="100" Year="04">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="100" Year="04">
   <LawNum>平成四年法律第百号</LawNum>
   <LawBody>
     <LawTitle>政治倫理の確立のための国会議員の資産等の公開等に関する法律</LawTitle>
@@ -7,7 +7,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、国会議員の資産の状況等を国民の不断の監視と批判の下におくため、国会議員の資産等を公開する措置を講ずること等により、政治倫理の確立を期し、もって民主政治の健全な発達に資することを目的とする。</Sentence>
@@ -17,7 +17,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（資産等報告書等の提出）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">国会議員は、その任期開始の日（再選挙又は補欠選挙により国会議員となった者にあってはその選挙の期日とし、更正決定又は繰上補充により当選人と定められた国会議員にあってはその当選の効力発生の日とする。次項において同じ。）において有する次の各号に掲げる資産等について、当該資産等の区分に応じ当該各号に掲げる事項を記載した資産等報告書を、同日から起算して百日を経過する日までに、その国会議員の属する議院の議長に提出しなければならない。</Sentence>
@@ -122,7 +122,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">国会議員は、その任期開始の日後毎年新たに有することとなった前項各号に掲げる資産等であって十二月三十一日において有するものについて、当該資産等の区分に応じ同項各号に掲げる事項を記載した資産等補充報告書を、その翌年の四月一日から同月三十日までの間に、その国会議員の属する議院の議長に提出しなければならない。</Sentence>
@@ -132,7 +132,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（所得等報告書の提出）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">国会議員（前年一年間を通じて国会議員であった者（任期満了又は衆議院の解散による任期終了により国会議員でない期間がある者で当該任期満了又は衆議院の解散による選挙により再び国会議員となったものにあっては、当該国会議員でない期間を除き前年一年間を通じて国会議員であった者）に限る。）は、次の各号に掲げる金額及び課税価格を記載した所得等報告書を、毎年、四月一日から同月三十日までの間（当該期間内に任期満了又は衆議院の解散による任期終了により国会議員でない期間がある者で当該任期満了又は衆議院の解散による選挙により再び国会議員となったものにあっては、同月一日から再び国会議員となった日から起算して三十日を経過する日までの間）に、その国会議員の属する議院の議長に提出しなければならない。</Sentence>
@@ -166,7 +166,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（関連会社等報告書の提出）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">国会議員は、毎年、四月一日において報酬を得て会社その他の法人（法人でない社団又は財団で代表者又は管理人の定めがあるものを含む。以下この条において同じ。）の役員、顧問その他の職に就いている場合には、当該会社その他の法人の名称及び住所並びに当該職名を記載した関連会社等報告書を、同月二日から同月三十日までの間（当該期間内に任期満了又は衆議院の解散による任期終了により国会議員でない期間がある者で当該任期満了又は衆議院の解散による選挙により再び国会議員となったものにあっては、同月二日から再び国会議員となった日から起算して三十日を経過する日までの間）に、その国会議員の属する議院の議長に提出しなければならない。</Sentence>
@@ -176,13 +176,13 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（資産等報告書等の保存及び閲覧）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前三条の規定により提出された資産等報告書及び資産等補充報告書、所得等報告書並びに関連会社等報告書は、これらを受理した各議院の議長において、これらを提出すべき期間の末日の翌日から起算して七年を経過する日まで保存しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">何人も、各議院の議長に対し、前項の規定により保存されている資産等報告書及び資産等補充報告書、所得等報告書並びに関連会社等報告書の閲覧を請求することができる。</Sentence>
@@ -192,7 +192,7 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（細則）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律に定めるもののほか、国会議員の資産等の公開に関する規程は、両議院の議長が協議して定める。</Sentence>
@@ -202,7 +202,7 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（地方公共団体における資産等の公開）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">都道府県及び地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市の議会の議員並びに都道府県知事及び市町村長（特別区の区長を含む。）の資産等の公開については、平成七年十二月三十一日までに、条例の定めるところにより、この法律の規定に基づく国会議員の資産等の公開の措置に準じて必要な措置を講ずるものとする。</Sentence>
@@ -212,40 +212,40 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、平成五年一月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律の施行の日において国会議員である者は、同日において有する第二条第一項各号に掲げる資産等について、当該資産等の区分に応じ当該各号に掲げる事項を記載した資産等報告書を、同日から起算して百日を経過する日までに、その国会議員の属する議院の議長に提出しなければならない。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">前項の規定により提出された資産等報告書については、第五条の規定を準用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年六月二九日法律第八〇号">
+    <SupplProvision AmendLawId="413080" AmendLawNum="平成一三年六月二九日法律第八〇号" Id="916bade0-d3b5-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、商法等改正法の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年六月九日法律第八八号" Extract="true">
+    <SupplProvision AmendLawId="416088" AmendLawNum="平成一六年六月九日法律第八八号" Extract="true" Id="475e5bbe-d3b3-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して五年を超えない範囲内において政令で定める日（以下「施行日」という。）から施行する。</Sentence>
@@ -256,7 +256,7 @@
       <Article Delete="false" Hide="false" Num="136">
         <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
         <ArticleTitle>第百三十六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
@@ -264,12 +264,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年一二月一〇日法律第一六五号" Extract="true">
+    <SupplProvision AmendLawId="416165" AmendLawNum="平成一六年一二月一〇日法律第一六五号" Extract="true" Id="47609212-d3b3-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -278,12 +278,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年一〇月二一日法律第一〇二号" Extract="true">
+    <SupplProvision AmendLawId="417102" AmendLawNum="平成一七年一〇月二一日法律第一〇二号" Extract="true" Id="56cf48f4-7bb3-472a-922e-4a5d7ee5b3d8">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、郵政民営化法の施行の日から施行する。</Sentence>
@@ -293,7 +293,7 @@
       <Article Delete="false" Hide="false" Num="102">
         <ArticleCaption>（政治倫理の確立のための国会議員の資産等の公開等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第百二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第百二条の規定による改正後の政治倫理の確立のための国会議員の資産等の公開等に関する法律第二条の規定の適用については、施行日前に有していた郵便貯金（通常郵便貯金を除く。）及び旧郵便貯金（通常郵便貯金を除く。）は、預金とみなす。</Sentence>
@@ -301,9 +301,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一八年六月一四日法律第六六号" Extract="true">
+    <SupplProvision AmendLawId="418066" AmendLawNum="平成一八年六月一四日法律第六六号" Extract="true" Id="41ab7bcd-9aa8-e1dd-8198-d05c7d548a1d">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、平成十八年証券取引法改正法の施行の日から施行する。</Sentence>

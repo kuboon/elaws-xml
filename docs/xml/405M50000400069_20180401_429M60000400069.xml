@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="069" Year="05">
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="069" Year="05">
   <LawNum>平成五年通商産業省令第六十九号</LawNum>
   <LawBody>
     <LawTitle>計量法施行規則</LawTitle>
@@ -126,7 +126,7 @@
         <Article Delete="false" Hide="false" Num="1">
           <ArticleCaption>（用語）</ArticleCaption>
           <ArticleTitle>第一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この省令において使用する用語は、この省令に特段の定めのない限り、計量法（平成四年法律第五十一号。以下「法」という。）及び計量法関係政令において使用する用語の例による。</Sentence>
@@ -136,7 +136,7 @@
         <Article Delete="false" Hide="false" Num="2">
           <ArticleCaption>（証明とみなされる計量）</ArticleCaption>
           <ArticleTitle>第二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">計量法施行令（平成五年政令第三百二十九号。以下「令」という。）第一条の経済産業省令で定める計量は、次に掲げるとおりとする。</Sentence>
@@ -158,7 +158,7 @@
         <Article Delete="false" Hide="false" Num="3">
           <ArticleCaption>（濃度計の使用方法）</ArticleCaption>
           <ArticleTitle>第三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">令別表第二第五号の経済産業省令で定める方法は、次のとおりとする。</Sentence>
@@ -195,7 +195,7 @@
           <Article Delete="false" Hide="false" Num="4">
             <ArticleCaption>（製造とみなされる改造）</ArticleCaption>
             <ArticleTitle>第四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第二条第五項の経済産業省令で定める改造は、次に掲げる改造以外の改造とする。</Sentence>
@@ -223,25 +223,25 @@
           <Article Delete="false" Hide="false" Num="5">
             <ArticleCaption>（事業の区分）</ArticleCaption>
             <ArticleTitle>第五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第四十条第一項の経済産業省令で定める事業の区分は別表第一の第二欄に掲げるとおりとし、その事業の区分の略称は同表の第三欄に掲げるとおりとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第四十条第一項第四号に規定する検査のための器具、機械又は装置であって、経済産業省令で定めるものは、別表第一の第二欄の事業の区分に応じ、同表の第四欄に掲げるとおりとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の場合において、別表第一の第四欄中の基準器については、登録事業者が特定標準器による校正等をされた計量器又はこれに連鎖して段階的に計量器の校正をされたものを用いて定期的に校正を行った計量器であって、当該基準器と同じ又はより高い精度のものをもってこれに代えることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前二項の場合における基準器は、改造又は修理（第十条に規定する軽微な修理を含む。）をしたものであって、その後において基準器検査に合格していないものであってはならない。</Sentence>
@@ -251,32 +251,32 @@
           <Article Delete="false" Hide="false" Num="6">
             <ArticleCaption>（事業の届出等）</ArticleCaption>
             <ArticleTitle>第六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">法第四十条第一項の規定により事業の届出をしようとする者は、様式第一による届出書の正本一通及び副本二通を、電気計器に係る事業であって当該事業に係る工場又は事業場が一の経済産業局の管轄区域内のみにあるものにあっては経済産業局長、その他の事業にあっては経済産業大臣に提出しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、電気計器以外の特定計量器に係る場合にあっては、その事業を行おうとする主たる工場又は事業場の所在地を管轄する都道府県知事を経由してしなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">都道府県知事は、前項の届出があった場合において、届出に係る工場又は事業場の所在地が他の都道府県の区域にあるときは、その都道府県の都道府県知事に様式第二によりその旨を通知するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">都道府県知事は、第一項の届出書の副本一通を保管するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">経済産業大臣は、住民基本台帳法（昭和四十二年法律第八十一号）第三十条の七第三項の規定により第一項の届出をしようとする者に係る同法第三十条の五第一項に規定する本人確認情報の提供を受けることができないときは、当該届出をしようとする者に対し、住民票の写しを提出させることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="5">
+            <Paragraph Hide="false" Num="5" OldStyle="false">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">都道府県知事は、住民基本台帳法第三十条の八第一項の規定により第一項の届出をしようとする者に係る同法第三十条の五第一項に規定する本人確認情報を利用することができないときは、当該届出をしようとする者に対し、住民票の写しを提出させることができる。</Sentence>
@@ -286,14 +286,14 @@
           <Article Delete="false" Hide="false" Num="7">
             <ArticleCaption>（変更の届出等）</ArticleCaption>
             <ArticleTitle>第七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">届出製造事業者は、法第四十二条第一項の規定により変更の届出をしようとするときは、様式第三による届出書の正本一通及び副本二通を、電気計器に係る事業であって当該事業に係る工場又は事業場が一の経済産業局の管轄区域内のみにあるものにあっては経済産業局長、その他の事業にあっては経済産業大臣に提出しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、電気計器以外の特定計量器に係る場合にあっては、その事業を行っている主たる工場又は事業場の所在地を管轄する都道府県知事を経由してしなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第四十一条の規定により届出製造事業者の地位を承継した者は、法第四十二条第二項の事実を証する書面として次に掲げるものを前項の届出書に添えて提出しなければならない。</Sentence>
@@ -329,19 +329,19 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前条第二項及び第三項の規定は、第一項の届出に準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">経済産業大臣は、住民基本台帳法第三十条の七第三項の規定により第一項の届出をしようとする者に係る同法第三十条の五第一項に規定する本人確認情報の提供を受けることができないときは、当該届出をしようとする者に対し、住民票の写しを提出させることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="5">
+            <Paragraph Hide="false" Num="5" OldStyle="false">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">都道府県知事は、住民基本台帳法第三十条の八第一項の規定により第一項の届出をしようとする者に係る同法第三十条の五第一項に規定する本人確認情報を利用することができないときは、当該届出をしようとする者に対し、住民票の写しを提出させることができる。</Sentence>
@@ -351,7 +351,7 @@
           <Article Delete="false" Hide="false" Num="8">
             <ArticleCaption>（検査義務）</ArticleCaption>
             <ArticleTitle>第八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第四十三条の経済産業省令で定める基準は、次のとおりとする。</Sentence>
@@ -397,14 +397,14 @@
           <Article Delete="false" Hide="false" Num="9">
             <ArticleCaption>（廃止の届出）</ArticleCaption>
             <ArticleTitle>第九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">届出製造事業者は、法第四十五条第一項の規定により事業の廃止の届出をしようとするときは、様式第七による届出書の正本一通及び副本二通を、電気計器に係る事業であって当該事業に係る工場又は事業場が一の経済産業局の管轄区域内のみにあるものにあっては経済産業局長、その他の事業にあっては経済産業大臣に提出しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、電気計器以外の特定計量器に係る場合にあっては、その事業を行っている主たる工場又は事業場の所在地を管轄する都道府県知事を経由してしなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第六条第二項及び第三項の規定は、前項の届出に準用する。</Sentence>
@@ -419,7 +419,7 @@
             <Article Delete="false" Hide="false" Num="10">
               <ArticleCaption>（軽微な修理）</ArticleCaption>
               <ArticleTitle>第十条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">法第四十六条第一項の経済産業省令で定める軽微な修理は、次のとおりとする。</Sentence>
@@ -599,7 +599,7 @@
                   </ItemSentence>
                 </Item>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">法第四十九条第三項の経済産業省令で定める軽微な修理は、次のとおりとする。</Sentence>
@@ -627,7 +627,7 @@
             <Article Delete="false" Hide="false" Num="11">
               <ArticleCaption>（簡易修理）</ArticleCaption>
               <ArticleTitle>第十一条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">法第四十九条第一項ただし書の経済産業省令で定める修理は、次のとおりとする。</Sentence>
@@ -1071,7 +1071,7 @@
                   </ItemSentence>
                 </Item>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">法第四十九条第一項の経済産業省令で定める技術上の基準は特定計量器検定検査規則（通商産業省令第七十号。以下「検定検査規則」という。）第六十四条の規定を、同項の経済産業省令で定める使用公差は検定検査規則第六十五条の規定を、法第四十九条第一項の検定証印等の除去は検定検査規則第二十九条の規定を準用する。</Sentence>
@@ -1081,13 +1081,13 @@
             <Article Delete="false" Hide="false" Num="12">
               <ArticleCaption>（型式承認表示を除去しない修理等）</ArticleCaption>
               <ArticleTitle>第十二条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">法第四十九条第二項ただし書の経済産業省令で定める修理は、前条第一項に掲げる修理及び当該特定計量器に係る型式の承認のときに、特定計量器をその承認に係る型式と同一の型式に属するものとして国立研究開発法人産業技術総合研究所（以下「研究所」という。）又は日本電気計器検定所が示す構造の範囲における修理とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">法第四十九条第二項で規定する法第八十四条第一項（第八十九条第四項において準用する場合を含む。）の表示の除去及び法第四十九条第三項で規定する合番号の除去の方法は、検定検査規則第二十九条の規定を準用する。</Sentence>
@@ -1100,7 +1100,7 @@
             <Article Delete="false" Hide="false" Num="13">
               <ArticleCaption>（準用）</ArticleCaption>
               <ArticleTitle>第十三条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">第五条、第六条第一項、第七条、第八条及び第九条第一項の規定は、法第四十六条第一項の特定計量器の修理の事業に準用する。</Sentence>
@@ -1114,7 +1114,7 @@
             <Article Delete="false" Hide="false" Num="14">
               <ArticleCaption>（修理の基準）</ArticleCaption>
               <ArticleTitle>第十四条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">法第五十条第一項の経済産業省令で定める基準は、次のとおりとする。</Sentence>
@@ -1233,7 +1233,7 @@
                   </TableStruct>
                 </Item>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前項第四号ただし書の規定による点検等を行ったときは、経済産業大臣が別に定める方法により、検定の申請を行うものとする。</Sentence>
@@ -1243,7 +1243,7 @@
             <Article Delete="false" Hide="false" Num="15">
               <ArticleCaption>（修理済表示）</ArticleCaption>
               <ArticleTitle>第十五条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">法第五十条第一項の表示（以下「修理済表示」という。）は、次の各号に定めるところにより付するものとする。</Sentence>
@@ -1307,7 +1307,7 @@
           <Article Delete="false" Hide="false" Num="16">
             <ArticleCaption>（事業の区分）</ArticleCaption>
             <ArticleTitle>第十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第五十一条第一項の経済産業省令で定める事業の区分は令第十三条第一号に掲げる非自動はかり、分銅及びおもりとし、事業の区分の略称は質量計とする。</Sentence>
@@ -1317,13 +1317,13 @@
           <Article Delete="false" Hide="false" Num="17">
             <ArticleCaption>（事業の届出）</ArticleCaption>
             <ArticleTitle>第十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第五十一条第一項の事業の届出をしようとする者は、様式第八による届出書をその営業所の所在地を管轄する都道府県知事に提出しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">都道府県知事は、住民基本台帳法第三十条の八第一項の規定により前項の届出をしようとする者に係る同法第三十条の五第一項に規定する本人確認情報を利用することができないときは、当該届出をしようとする者に対し、住民票の写しを提出させることができる。</Sentence>
@@ -1333,7 +1333,7 @@
           <Article Delete="false" Hide="false" Num="18">
             <ArticleCaption>（準用）</ArticleCaption>
             <ArticleTitle>第十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第七条第一項及び第二項並びに第九条第一項の規定は、法第五十一条第一項の事業の届出をした者に準用する。</Sentence>
@@ -1344,7 +1344,7 @@
           <Article Delete="false" Hide="false" Num="19">
             <ArticleCaption>（遵守事項）</ArticleCaption>
             <ArticleTitle>第十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第五十二条第一項の経済産業省令で定める販売事業者が遵守すべき事項は、次のとおりとする。</Sentence>
@@ -1370,7 +1370,7 @@
         <Article Delete="false" Hide="false" Num="20">
           <ArticleCaption>（家庭用特定計量器の技術上の基準）</ArticleCaption>
           <ArticleTitle>第二十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第五十三条第一項の経済産業省令で定める技術上の基準は、日本工業規格Ｂ七六一三（二〇一五）による。</Sentence>
@@ -1380,13 +1380,13 @@
         <Article Delete="false" Hide="false" Num="21">
           <ArticleCaption>（家庭用特定計量器の輸出の届出）</ArticleCaption>
           <ArticleTitle>第二十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第五十三条第一項の政令で定める特定計量器（以下「家庭用特定計量器」という。）の届出製造事業者は、輸出のため当該家庭用特定計量器を製造しようとするときは、同項ただし書の規定により、様式第九による届出書を当該家庭用特定計量器の製造を行う工場又は事業場の所在地を管轄する都道府県知事に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">家庭用特定計量器の輸入の事業を行う者は、輸出のため当該家庭用特定計量器の販売をしようとするときは、法第五十三条第二項のただし書の規定により、様式第十による届出書を当該家庭用特定計量器の販売を行う営業所の所在地を管轄する都道府県知事に提出しなければならない。</Sentence>
@@ -1396,7 +1396,7 @@
         <Article Delete="false" Hide="false" Num="22">
           <ArticleCaption>（表示の方法）</ArticleCaption>
           <ArticleTitle>第二十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第五十四条第一項の表示は、次の各号に定めるところにより、付さなければならない。</Sentence>
@@ -1433,7 +1433,7 @@
         <Article Delete="false" Hide="false" Num="23">
           <ArticleCaption>（販売事業者の家庭用特定計量器の輸出の届出）</ArticleCaption>
           <ArticleTitle>第二十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第五十五条の家庭用特定計量器の販売の事業を行う者は、輸出のため当該家庭用特定計量器の販売をしようとするときは、同条ただし書の規定により、様式第十による届出書を当該家庭用特定計量器の販売を行う営業所の所在地を管轄する都道府県知事に提出しなければならない。</Sentence>
@@ -1443,13 +1443,13 @@
         <Article Delete="false" Hide="false" Num="24">
           <ArticleCaption>（譲渡等制限特定計量器の輸出の届出）</ArticleCaption>
           <ArticleTitle>第二十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第五十七条第一項の政令で定める特定計量器（以下「譲渡等制限特定計量器」という。）の製造、修理又は輸入の事業を行う者は、輸出のため当該特定計量器を譲渡し、貸し渡し、又は修理を委託した者に引き渡そうとするときは、同条第一項ただし書の規定により、様式第十一による届出書を当該譲渡等制限特定計量器の製造若しくは修理を行う工場、事業場若しくは事業所又は輸入をした当該特定計量器の譲渡、貸し渡し若しくは引き渡しを行う営業所の所在地を管轄する都道府県知事に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">譲渡等制限特定計量器の販売の事業を行う者は、輸出のため当該譲渡等制限特定計量器を譲渡し、又は貸し渡そうとするときは、法第五十七条第二項ただし書の規定により、様式第十一による届出書を当該譲渡等制限特定計量器の譲渡又は貸し渡しを行う営業所の所在地を管轄する都道府県知事に提出しなければならない。</Sentence>
@@ -1462,7 +1462,7 @@
         <Article Delete="false" Hide="false" Num="25">
           <ArticleCaption>（型式）</ArticleCaption>
           <ArticleTitle>第二十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第十七条第一項の経済産業省令で定める型式は、日本工業規格Ｓ二三五〇容量表示付きガラス製びん（壜）附属書Ｂによる。</Sentence>
@@ -1472,7 +1472,7 @@
         <Article Delete="false" Hide="false" Num="26">
           <ArticleCaption>（容器の材質）</ArticleCaption>
           <ArticleTitle>第二十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第十七条第一項の経済産業省令で定めるものは、日本工業規格Ｓ二三五〇容量表示付きガラス製びん（壜）の材質を有する容器とする。</Sentence>
@@ -1482,7 +1482,7 @@
         <Article Delete="false" Hide="false" Num="27">
           <ArticleCaption>（高さ）</ArticleCaption>
           <ArticleTitle>第二十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第十七条第一項の経済産業省令で定める高さは、日本工業規格Ｓ二三五〇容量表示付きガラス製びん（壜）附属書Ｅによる。</Sentence>
@@ -1492,13 +1492,13 @@
         <Article Delete="false" Hide="false" Num="28">
           <ArticleCaption>（指定の申請）</ArticleCaption>
           <ArticleTitle>第二十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第十七条第一項の指定を受けようとする者は、法第五十九条により様式第五十四の申請書をその申請に係る工場又は事業場の所在地を管轄する都道府県知事に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第五十九条第三号の経済産業省令で定めるものは、次のとおりとする。</Sentence>
@@ -1555,7 +1555,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="29">
           <ArticleTitle>第二十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1565,7 +1565,7 @@
         <Article Delete="false" Hide="false" Num="30">
           <ArticleCaption>（指定の基準）</ArticleCaption>
           <ArticleTitle>第三十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第六十条第二項第一号の経済産業省令で定める基準は、次のとおりとする。</Sentence>
@@ -1671,7 +1671,7 @@
               </Subitem1>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第六十条第二項第二号の経済産業省令で定める基準は、次のとおりとする。</Sentence>
@@ -1741,13 +1741,13 @@
         <Article Delete="false" Hide="false" Num="31">
           <ArticleCaption>（変更の届出等）</ArticleCaption>
           <ArticleTitle>第三十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">指定製造者は、法第六十二条第一項の規定により変更の届出をしようとするときは、様式第五十五による届出書をその届出に係る工場又は事業場の所在地を管轄する都道府県知事に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第六十一条の規定により指定製造者の地位を承継した者は、法第六十二条第二項の事実を証する書面として、次に掲げるものを第一項の届出書に添えて提出しなければならない。</Sentence>
@@ -1783,7 +1783,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、住民基本台帳法第三十条の八第一項の規定により第一項の届出をしようとする者に係る同法第三十条の五第一項に規定する本人確認情報を利用することができないときは、当該届出をしようとする者に対し、住民票の写しを提出させることができる。</Sentence>
@@ -1793,7 +1793,7 @@
         <Article Delete="false" Hide="false" Num="32">
           <ArticleCaption>（表示）</ArticleCaption>
           <ArticleTitle>第三十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">指定製造者は、法第六十三条第一項の規定により特殊容器に表示を付するときは、次の各号に定めるところにより付するものとする。</Sentence>
@@ -1820,7 +1820,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第六十三条第二項の経済産業省令で定める方法は、次のとおりとする。</Sentence>
@@ -1842,7 +1842,7 @@
         <Article Delete="false" Hide="false" Num="33">
           <ArticleCaption>（容量公差）</ArticleCaption>
           <ArticleTitle>第三十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第六十三条第一項第二号の経済産業省令で定める容量公差は、日本工業規格Ｓ二三五〇容量表示付きガラス製びん（壜）の附属書Ａによる。</Sentence>
@@ -1852,7 +1852,7 @@
         <Article Delete="false" Hide="false" Num="34">
           <ArticleCaption>（廃止の届出）</ArticleCaption>
           <ArticleTitle>第三十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">指定製造者は、法第六十五条の規定により事業の廃止の届出をしようとするときは、様式第五十九による届出書をその届出に係る工場又は事業場の所在地を管轄する都道府県知事に提出しなければならない。</Sentence>
@@ -1862,7 +1862,7 @@
         <Article Delete="false" Hide="false" Num="35">
           <ArticleCaption>（表示の抹消）</ArticleCaption>
           <ArticleTitle>第三十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第六十八条の規定により法第六十三条第一項の表示又はこれと紛らわしい表示を除去しようとする者は、次の各号のいずれかに定めるところにより除去しなければならない。</Sentence>
@@ -1890,19 +1890,19 @@
         <Article Delete="false" Hide="false" Num="36">
           <ArticleCaption>（外国製造者に係る指定の申請等）</ArticleCaption>
           <ArticleTitle>第三十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第六十九条第一項の外国製造者に係る法第十七条第一項の指定を受けようとする者は、法第六十九条第一項において準用する法第五十九条により様式第五十四による申請書を経済産業大臣に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の申請書には、当該申請に係る特殊容器の製造及び検査の方法に関する事項が法第六十九条第一項において準用する法第六十条第二項各号に適合していることを経済産業大臣が指定する者（外国に住所を有するものに限る。）が明らかにする書面を添付することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第二十八条第二項及び第三十条の規定は法第六十九条第一項の外国製造者に係る法第十七条第一項の指定に、第三十一条から第三十四条までの規定は指定外国製造者に準用する。</Sentence>
@@ -1913,7 +1913,7 @@
         <Article Delete="false" Hide="false" Num="37">
           <ArticleCaption>（指定の通知等）</ArticleCaption>
           <ArticleTitle>第三十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">経済産業大臣は、法第六十九条第一項の外国製造者に係る法第十七条第一項の指定をしたとき、又は指定外国製造者に係る法第六十七条の規定により指定を取り消したときは、その旨を申請者又は取消しの処分を受けた者に通知するものとする。</Sentence>
@@ -1928,7 +1928,7 @@
           <Article Delete="false" Hide="false" Num="38">
             <ArticleCaption>（事業の区分）</ArticleCaption>
             <ArticleTitle>第三十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百七条の経済産業省令で定める事業の区分は、別表第四の第一欄に掲げるとおりとする。</Sentence>
@@ -1938,13 +1938,13 @@
           <Article Delete="false" Hide="false" Num="39">
             <ArticleCaption>（登録の申請）</ArticleCaption>
             <ArticleTitle>第三十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百七条の登録を受けようとする者は、法第百八条により様式第六十による申請書をその申請に係る事業所の所在地を管轄する都道府県知事に提出しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の申請書に法第百八条第五号ロに掲げる者の氏名及びその職務の内容を記載する場合にあっては、その申請書に当該事業に係る計量管理を主たる職務とする者が第四十条第三項に規定する条件に適合する知識経験を有する者であることを証する書面を添えなければならない。</Sentence>
@@ -1953,19 +1953,19 @@
           </Article>
           <Article Delete="false" Hide="false" Num="40">
             <ArticleTitle>第四十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百八条第四号の器具、機械又は装置であって、経済産業省令で定めるものは、別表第四の第一欄に掲げる事業の区分に応じ、同表の第二欄に掲げるとおりとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百八条第五号イの経済産業省令で定める計量士は、別表第四の第一欄に掲げる事業の区分に応じ、同表の第四欄に掲げるとおりとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百八条第五号ロの経済産業省令で定める条件に適合する知識経験を有する者は、特定計量器の性能及び使用方法その他の当該計量証明に使用する器具、機械又は装置についての使用上必要な知識その他の当該計量証明に必要な知識経験を有する者として経済産業大臣が別に定める基準に適合していると認められる者とする。</Sentence>
@@ -1975,7 +1975,7 @@
           <Article Delete="false" Hide="false" Num="41">
             <ArticleCaption>（登録の基準）</ArticleCaption>
             <ArticleTitle>第四十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百九条第一号の経済産業省令で定める基準は、次のとおりとする。</Sentence>
@@ -2003,7 +2003,7 @@
           <Article Delete="false" Hide="false" Num="42">
             <ArticleCaption>（登録簿）</ArticleCaption>
             <ArticleTitle>第四十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">都道府県知事は、計量証明の事業の登録簿を備え、これに次の事項を記録しなければならない。</Sentence>
@@ -2043,13 +2043,13 @@
           <Article Delete="false" Hide="false" Num="43">
             <ArticleCaption>（事業規程）</ArticleCaption>
             <ArticleTitle>第四十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百十条第一項前段の規定により事業規程の届出をしようとする計量証明事業者は、様式第六十一の二による届出書に事業規程を添えて、事業所の所在地を管轄する都道府県知事に提出しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">別表第四の第一号から第六号まで、第七号及び第八号に掲げる事業の区分に係る法第百十条第一項の経済産業省令で定める事項は、次のとおりとする。</Sentence>
@@ -2103,7 +2103,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">別表第四の第六号の二に掲げる事業の区分に係る法第百十条第一項の経済産業省令で定める事項は、次のとおりとする。</Sentence>
@@ -2157,7 +2157,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百十条第一項後段の規定により事業規程の変更の届出をしようとする計量証明事業者は、様式第六十一の三による届出書に変更後の事業規程を添えて、法第百七条の登録をした都道府県知事に提出しなければならない。</Sentence>
@@ -2167,13 +2167,13 @@
           <Article Delete="false" Hide="false" Num="44">
             <ArticleCaption>（登録証の交付）</ArticleCaption>
             <ArticleTitle>第四十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">都道府県知事は、法第百七条の登録をしたときは、その申請者に登録証を交付する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">登録証には、次の事項を記載しなければならない。</Sentence>
@@ -2207,7 +2207,7 @@
           <Article Delete="false" Hide="false" Num="44_2">
             <ArticleCaption>（計量証明書）</ArticleCaption>
             <ArticleTitle>第四十四条の二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百十条の二第一項の経済産業省令で定める事項は、次のとおりとする。</Sentence>
@@ -2267,7 +2267,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百十条の二第一項の経済産業省令で定める標章は、次のとおりとする。</Sentence>
@@ -2280,14 +2280,14 @@
           <Article Delete="false" Hide="false" Num="45">
             <ArticleCaption>（変更の届出等）</ArticleCaption>
             <ArticleTitle>第四十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">計量証明事業者は、法第百十四条において準用する法第六十二条第一項の規定により変更の届出をしようとするときは、様式第六十一による届出書を登録した都道府県知事に提出しなければならない。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、登録証に記載された事項に変更があったときは、当該届出書にその登録証を添えて提出し、訂正を受けなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">都道府県知事は、前項の規定により提出された登録証を訂正したときは、その登録証の裏面に、登録証を訂正した年月日及び訂正した登録証に記載された事項を記入するものとする。</Sentence>
@@ -2297,13 +2297,13 @@
           <Article Delete="false" Hide="false" Num="46">
             <ArticleCaption>（登録証の再交付）</ArticleCaption>
             <ArticleTitle>第四十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">計量証明事業者は、登録証を汚し、損じ、又は失ったときは、様式第六十二による申請書に、その登録証（登録証を失ったときは、その事実を記載した書面）を添えて、登録をした都道府県知事に提出し、その再交付を受けることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">都道府県知事は、前項の規定により登録証を再交付するときは、再交付する登録証の裏面に、再交付する年月日及び再交付する旨を記入するものとする。</Sentence>
@@ -2313,13 +2313,13 @@
           <Article Delete="false" Hide="false" Num="47">
             <ArticleCaption>（登録証の返納）</ArticleCaption>
             <ArticleTitle>第四十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">計量証明事業者は、法第百十二条の規定により登録が失効し、又は法第百十三条の規定により登録が取り消され、若しくは事業の停止の命令を受けたときは、遅滞なく、その登録証を登録をした都道府県知事に返納しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">都道府県知事は、法第百十三条の規定により事業の停止の命令を受けた者であって、当該停止の期間が満了した者に対し、前項の規定により返納された登録証を返還するものとする。</Sentence>
@@ -2329,7 +2329,7 @@
           <Article Delete="false" Hide="false" Num="48">
             <ArticleCaption>（登録簿の謄本の交付及び閲覧）</ArticleCaption>
             <ArticleTitle>第四十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">登録簿の謄本の交付又は閲覧を請求しようとする者は、様式第六十三による請求書を都道府県知事に提出しなければならない。</Sentence>
@@ -2339,7 +2339,7 @@
           <Article Delete="false" Hide="false" Num="49">
             <ArticleCaption>（準用）</ArticleCaption>
             <ArticleTitle>第四十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第三十一条第二項及び第三十四条の規定は、計量証明事業者に準用する。</Sentence>
@@ -2353,7 +2353,7 @@
           <Article Delete="false" Hide="false" Num="49_2">
             <ArticleCaption>（認定の区分）</ArticleCaption>
             <ArticleTitle>第四十九条の二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百二十一条の二の経済産業省令で定める事業の区分（以下「認定の区分」という。）は、次のとおりとする。</Sentence>
@@ -2387,7 +2387,7 @@
           <Article Delete="false" Hide="false" Num="49_3">
             <ArticleCaption>（認定の申請）</ArticleCaption>
             <ArticleTitle>第四十九条の三</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">認定を受けようとする者は、様式第六十三の二による申請書に次の書類を添えて、独立行政法人製品評価技術基盤機構（以下「機構」という。）又は特定計量証明認定機関（以下「認定機関等」という。）に提出しなければならない。</Sentence>
@@ -2451,7 +2451,7 @@
           <Article Delete="false" Hide="false" Num="49_4">
             <ArticleCaption>（特定計量証明事業の認定の更新）</ArticleCaption>
             <ArticleTitle>第四十九条の四</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">法第百二十一条の四第一項の規定により、認定特定計量証明事業者が認定の更新を受けようとする場合は、前二条の規定を準用する。</Sentence>
@@ -2462,13 +2462,13 @@
           <Article Delete="false" Hide="false" Num="49_5">
             <ArticleCaption>（認定の実施）</ArticleCaption>
             <ArticleTitle>第四十九条の五</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">認定機関等は、認定又は認定の更新をしたときは、その申請者に特定計量証明事業に係る認定証（以下この節において「認定証」という。）を交付する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">認定証には、次の事項を記載しなければならない。</Sentence>
@@ -2504,13 +2504,13 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">認定機関等は、認定又は認定の更新を行ったときは、遅滞なく、前項各号に掲げる事項を経済産業大臣に報告しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">経済産業大臣は、前項の報告を受けたときは、遅滞なく、その旨をその認定に係る事業所の所在地を管轄する都道府県知事に通知するものとする。</Sentence>
@@ -2520,26 +2520,26 @@
           <Article Delete="false" Hide="false" Num="49_6">
             <ArticleCaption>（変更の届出等）</ArticleCaption>
             <ArticleTitle>第四十九条の六</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">認定特定計量証明事業者は、認定特定計量証明事業者若しくは特定計量証明事業を行う事業所の名称又は第四十九条の三第三号及び第四号ロからニまでに掲げる事項（経済産業大臣が別に定めるものに限る。）を変更したときは、遅滞なく、様式第六十三の四による届出書をその認定をした認定機関等に提出しなければならない。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、認定証に記載された事項に変更があったときは、当該届出書にその認定証を添えて提出し、訂正を受けなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">認定機関等は、前項の規定により提出された認定証を訂正したときは、その認定証の裏面に、認定証を訂正した年月日及び訂正した認定証に記載された事項を記入するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">認定機関等は、前項の規定により認定証を訂正したときは、遅滞なく、訂正した事項を経済産業大臣に報告しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">経済産業大臣は、前項の報告を受けたときは、遅滞なく、その旨をその認定に係る事業所の所在地を管轄する都道府県知事に通知するものとする。</Sentence>
@@ -2549,7 +2549,7 @@
           <Article Delete="false" Hide="false" Num="49_7">
             <ArticleCaption>（計量証明書）</ArticleCaption>
             <ArticleTitle>第四十九条の七</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百二十一条の三第一項の経済産業省令で定める事項は、次のとおりとする。</Sentence>
@@ -2609,7 +2609,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百二十一条の三第一項の経済産業省令で定める標章は、次のとおりとする。</Sentence>
@@ -2622,13 +2622,13 @@
           <Article Delete="false" Hide="false" Num="49_8">
             <ArticleCaption>（認定証の再交付）</ArticleCaption>
             <ArticleTitle>第四十九条の八</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">認定特定計量証明事業者は、認定証を汚し、損じ、又は失ったときは、様式第六十三の五による申請書に、その認定証（認定証を失ったときは、その事実を記載した書面）を添えて、その認定を受けた認定機関等に提出し、その再交付を受けることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">認定機関等は、前項の規定により認定証を再交付するときは、再交付する認定証の裏面に、再交付する年月日及び再交付する旨を記入するものとする。</Sentence>
@@ -2638,7 +2638,7 @@
           <Article Delete="false" Hide="false" Num="49_9">
             <ArticleCaption>（認定証の返納）</ArticleCaption>
             <ArticleTitle>第四十九条の九</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">認定特定計量証明事業者は、次の各号のいずれかに該当するときは、遅滞なく、その認定証を経済産業大臣に返納しなければならない。</Sentence>
@@ -2662,7 +2662,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">経済産業大臣は、法第百十三条の規定により事業の停止の命令を受けた者であって、当該停止の期間が満了した者に対し、前項の規定により返納された認定証を返還するものとする。</Sentence>
@@ -2672,20 +2672,20 @@
           <Article Delete="false" Hide="false" Num="49_10">
             <ArticleCaption>（準用）</ArticleCaption>
             <ArticleTitle>第四十九条の十</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第七条第二項及び第三十四条の規定は、認定特定計量証明事業者に準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、第七条第二項中「法第四十一条」とあるのは「法第百二十一条の六において準用する法第四十一条」と、「前項の届出書に添えて」とあるのは「様式第六十三の四による届出書に添えてその認定をした認定機関等に」と、第三十四条中「法第六十五条」とあるのは「法第百二十一条の六において準用する法第六十五条」と、「その届出に係る工場又は事業場の所在地を管轄する都道府県知事」とあるのは「その認定をした認定機関等」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">認定機関等は、前項の規定により提出された届出を受理したときは、遅滞なく、その旨を経済産業大臣に報告しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">経済産業大臣は、前項の報告を受けたときは、遅滞なく、その旨をその事業所の所在地を管轄する都道府県知事に通知するものとする。</Sentence>
@@ -2701,7 +2701,7 @@
           <Article Delete="false" Hide="false" Num="50">
             <ArticleCaption>（計量士の区分）</ArticleCaption>
             <ArticleTitle>第五十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百二十二条第二項の経済産業省令で定める計量士の区分は、次のとおりとする。</Sentence>
@@ -2729,7 +2729,7 @@
           <Article Delete="false" Hide="false" Num="51">
             <ArticleCaption>（登録の条件）</ArticleCaption>
             <ArticleTitle>第五十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百二十二条第二項第一号の経済産業省令で定める条件は、次のとおりとする。</Sentence>
@@ -2825,7 +2825,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百二十二条第二項第二号の経済産業省令で定める条件は、次のとおりとする。</Sentence>
@@ -2897,7 +2897,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前二項各号に規定する計量に関する実務は、次のいずれかに該当するものとする。</Sentence>
@@ -2933,7 +2933,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第一項第一号イ、第二号イ及び第三号に規定する実務は、前項各号に掲げる業務ごとに、経済産業大臣が別に定める基準に適合しなければならない。</Sentence>
@@ -2943,7 +2943,7 @@
           <Article Delete="false" Hide="false" Num="52">
             <ArticleCaption>（教習の課程）</ArticleCaption>
             <ArticleTitle>第五十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百二十二条第二項第二号に規定する教習の課程は、環境計量士（濃度関係）及び環境計量士（騒音・振動関係）の区分にあっては第百十九条第一号に規定する一般計量教習、一般計量士の区分にあっては同条第一号に規定する一般計量教習及び同条第二号に規定する一般計量特別教習とする。</Sentence>
@@ -2953,7 +2953,7 @@
           <Article Delete="false" Hide="false" Num="53">
             <ArticleCaption>（計量行政審議会の認定の申請）</ArticleCaption>
             <ArticleTitle>第五十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">令第三十条第一項の規定による認定の申請は、様式第六十四による申請書に、第五十一条第二項各号の条件に適合することを証する書面を添えて提出して行うものとする。</Sentence>
@@ -2963,7 +2963,7 @@
           <Article Delete="false" Hide="false" Num="53_2">
             <ArticleCaption>（計量士資格認定証の再交付の申請）</ArticleCaption>
             <ArticleTitle>第五十三条の二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">令第三十一条の規定による認定証の再交付の申請は、様式第六十五による申請書を提出して行うものとする。</Sentence>
@@ -2973,25 +2973,25 @@
           <Article Delete="false" Hide="false" Num="54">
             <ArticleCaption>（登録の申請）</ArticleCaption>
             <ArticleTitle>第五十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">令第三十二条第一項の登録の申請は、様式第六十六による申請書を提出して行うものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">令第三十二条第二項に規定する都道府県知事が法第百二十二条第二項第一号の条件に適合することを証する書面（第五十一条第一項第一号イ、第二号イ及び第三号に係るものに限る。）は、様式第六十六の二によるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">令第三十二条第二項の計量士国家試験に合格した者が添えなければならない経済産業省令で定める書類は、第五十一条第一項各号に掲げる条件に適合する旨の書面（同項第一号イ、第二号イ及び第三号に係るものにあっては、経済産業大臣が別に定める基準について、経済産業大臣が別に定める者が証する書面）及び合格証書の写しとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百二十二条第二項の経済産業省令で定める事項は、次のとおりとする。</Sentence>
@@ -3019,7 +3019,7 @@
           <Article Delete="false" Hide="false" Num="55">
             <ArticleCaption>（計量士登録簿の記載事項）</ArticleCaption>
             <ArticleTitle>第五十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">令第三十三条の計量士登録簿には、計量士の区分ごとに氏名、生年月日及び前条第四項各号に掲げる事項を記載するものとする。</Sentence>
@@ -3029,7 +3029,7 @@
           <Article Delete="false" Hide="false" Num="56">
             <ArticleCaption>（計量士登録証の記載事項）</ArticleCaption>
             <ArticleTitle>第五十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">令第三十四条第二項の経済産業省令で定める事項は、第五十四条第四項第一号及び第二号に掲げる事項とする。</Sentence>
@@ -3039,7 +3039,7 @@
           <Article Delete="false" Hide="false" Num="57">
             <ArticleCaption>（計量士登録証の訂正の申請）</ArticleCaption>
             <ArticleTitle>第五十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">令第三十五条の規定による計量士登録証の訂正の申請は、様式第六十七による申請書に計量士登録証を添えて提出して行うものとする。</Sentence>
@@ -3049,7 +3049,7 @@
           <Article Delete="false" Hide="false" Num="58">
             <ArticleCaption>（計量士登録証の再交付の申請）</ArticleCaption>
             <ArticleTitle>第五十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">令第三十六条の規定による計量士登録証の再交付の申請は、様式第六十八による申請書に、計量士登録証（計量士登録証を失ったときは、その事実を記載した書面）を添えて提出して行うものとする。</Sentence>
@@ -3059,7 +3059,7 @@
           <Article Delete="false" Hide="false" Num="59">
             <ArticleCaption>（登録の取消し等）</ArticleCaption>
             <ArticleTitle>第五十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">経済産業大臣は、法第百二十三条の規定により計量士の登録を取り消し、又は計量士の名称の使用の停止を命じたときは、理由を付して、その旨を取消し又は停止の処分を受けた者及びその者の住所又は勤務地を管轄する都道府県知事に通知しなければならない。</Sentence>
@@ -3068,7 +3068,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="60">
             <ArticleTitle>第六十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -3078,7 +3078,7 @@
           <Article Delete="false" Hide="false" Num="61">
             <ArticleCaption>（計量士登録簿の謄本の交付又は閲覧の請求）</ArticleCaption>
             <ArticleTitle>第六十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">令第三十八条の規定による計量士登録簿の謄本の交付又は閲覧の請求は、様式第六十九による請求書を提出して行なうものとする。</Sentence>
@@ -3087,7 +3087,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="62">
             <ArticleTitle>第六十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -3100,7 +3100,7 @@
           <Article Delete="false" Hide="false" Num="63">
             <ArticleCaption>（試験区分及び試験科目等）</ArticleCaption>
             <ArticleTitle>第六十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">計量士国家試験（以下この章において「試験」という。）は、次の表の上欄に掲げる試験区分に応じ、同表の下欄に掲げる試験科目について、筆記試験により行う。</Sentence>
@@ -3151,7 +3151,7 @@
                 </Table>
               </TableStruct>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の表の上欄に掲げる試験区分のうち一の試験区分の試験に合格した者に対しては、その者の願いにより、他の試験区分の試験において計量関係法規及び計量管理概論の試験科目を免除することができる。</Sentence>
@@ -3161,7 +3161,7 @@
           <Article Delete="false" Hide="false" Num="64">
             <ArticleCaption>（試験委員）</ArticleCaption>
             <ArticleTitle>第六十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">試験に関する事務をつかさどらせるため、経済産業省に計量士国家試験委員を置く。</Sentence>
@@ -3171,7 +3171,7 @@
           <Article Delete="false" Hide="false" Num="65">
             <ArticleCaption>（試験場所等の告示）</ArticleCaption>
             <ArticleTitle>第六十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">試験の場所、日時、受験の願書の提出期限その他必要な事項は、試験を行う三月前までに告示する。</Sentence>
@@ -3181,13 +3181,13 @@
           <Article Delete="false" Hide="false" Num="66">
             <ArticleCaption>（受験の申請）</ArticleCaption>
             <ArticleTitle>第六十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">試験を受けようとする者は、計量士国家試験願書を経済産業大臣に提出しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第六十三条第二項の規定により試験科目の免除を受けようとする者は、前項の願書に、既に合格した試験区分の試験についての合格証書の写しを添えなければならない。</Sentence>
@@ -3197,7 +3197,7 @@
           <Article Delete="false" Hide="false" Num="67">
             <ArticleCaption>（受験の停止等）</ArticleCaption>
             <ArticleTitle>第六十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">経済産業大臣は、試験に関して不正行為があったときは、当該不正行為に関係のある者について、当該受験を停止し、若しくは無効とし又は期限を定めて試験を受けさせないことができる。</Sentence>
@@ -3207,7 +3207,7 @@
           <Article Delete="false" Hide="false" Num="68">
             <ArticleCaption>（合格証書の授与）</ArticleCaption>
             <ArticleTitle>第六十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">経済産業大臣は、試験の合格者について、合格証書を授与する。</Sentence>
@@ -3217,13 +3217,13 @@
           <Article Delete="false" Hide="false" Num="68_2">
             <ArticleCaption>（合格証書の再交付）</ArticleCaption>
             <ArticleTitle>第六十八条の二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">試験の合格者がやむを得ない事由により、その合格証書を汚し、損じ、又は失ったときは、その再交付を受けることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">合格証書の再交付を受けようとする者は、様式第七十一による申請書を経済産業大臣に提出しなければならない。</Sentence>
@@ -3233,7 +3233,7 @@
           <Article Delete="false" Hide="false" Num="69">
             <ArticleCaption>（合格者の告示）</ArticleCaption>
             <ArticleTitle>第六十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">試験の合格者の受験番号は、官報で告示する。</Sentence>
@@ -3243,7 +3243,7 @@
           <Article Delete="false" Hide="false" Num="70">
             <ArticleCaption>（受験の手数料）</ArticleCaption>
             <ArticleTitle>第七十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">試験を受験しようとする者が納めた手数料は、受験しないときであっても返還しない。</Sentence>
@@ -3252,7 +3252,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="71">
             <ArticleTitle>第七十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -3266,19 +3266,19 @@
         <Article Delete="false" Hide="false" Num="72">
           <ArticleCaption>（指定の申請）</ArticleCaption>
           <ArticleTitle>第七十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第百二十七条第一項の指定を受けようとする者は、同条第二項により、様式第七十二による申請書を、事業所ごとに、国の事業所にあっては当該事業所の所在地を管轄する都道府県知事（その所在地が特定市町村の区域にある場合にあっては、特定市町村の長）を経由して当該事業所の所在地を管轄する経済産業局長に、その他の事業所にあっては当該事業所の所在地が特定市町村の区域にある場合に限り特定市町村の長を経由して当該事業所の所在地を管轄する都道府県知事に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の申請書の作成については、同一の都道府県又は特定市町村の区域内に二以上の事業所を有する者は、それらの事業所を一括して行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項の申請書の作成については、その構成員のすべての事業所につき、同一の計量士が計量管理を行うこととされている団体の構成員は、共同して行うことができる。</Sentence>
@@ -3288,7 +3288,7 @@
         <Article Delete="false" Hide="false" Num="73">
           <ArticleCaption>（計量管理の方法に関する事項）</ArticleCaption>
           <ArticleTitle>第七十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第百二十七条第二項第五号の経済産業省令で定める計量管理の方法に関する事項は、次のとおりとする。</Sentence>
@@ -3328,13 +3328,13 @@
         <Article Delete="false" Hide="false" Num="74">
           <ArticleCaption>（計量管理の方法の検査等）</ArticleCaption>
           <ArticleTitle>第七十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事又は特定市町村の長は、法第百二十七条第三項の規定により第七十二条の申請書に記載されている当該事業所における計量管理の方法について検査を行った場合であって、その申請書が国の事業所に係るものであるときは、法第百二十七条第四項の規定により、その結果に基づいて様式第七十三による検査書を作成し、これをその申請書に添えて、当該都道府県又は当該特定市町村の区域を管轄する経済産業局長に送付するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">特定市町村の長は、法第百二十七条第三項の規定により第七十二条の申請書に記載されている当該事業所における計量管理の方法についての検査を行った場合であって、その申請書が国の事業所以外の事業所に係るものであるときは、法第百二十七条第四項の規定により、その結果に基づいて様式第七十三による検査書を作成し、これをその申請書に添えて、当該特定市町村の区域を管轄する都道府県知事に送付するものとする。</Sentence>
@@ -3344,7 +3344,7 @@
         <Article Delete="false" Hide="false" Num="75">
           <ArticleCaption>（指定の基準）</ArticleCaption>
           <ArticleTitle>第七十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第百二十八条第一号の経済産業省令で定める計量士は、次のとおりとする。</Sentence>
@@ -3368,7 +3368,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第百二十八条第一号の検査は、次の基準を満たすものとする。</Sentence>
@@ -3387,7 +3387,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第百二十八条第二号の経済産業省令で定める基準は、次のとおりとする。</Sentence>
@@ -3439,7 +3439,7 @@
         <Article Delete="false" Hide="false" Num="76">
           <ArticleCaption>（指定の通知）</ArticleCaption>
           <ArticleTitle>第七十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">経済産業局長又は都道府県知事は、法第百二十七条第一項の規定により適正計量管理事業所の指定を行ったときは、その旨を申請者及びその事業所の所在地を管轄する都道府県知事又は特定市町村の長に通知するものとする。</Sentence>
@@ -3449,7 +3449,7 @@
         <Article Delete="false" Hide="false" Num="77">
           <ArticleCaption>（帳簿の記載）</ArticleCaption>
           <ArticleTitle>第七十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第百二十七条第一項の指定を受けた者は、法第百二十九条の規定により、次の各号に掲げる事項について記載した帳簿を事業所ごとに備えなければならない。</Sentence>
@@ -3473,13 +3473,13 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第百二十七条第一項の指定を受けた者は、法第百二十八条第一号の検査を行った後、遅滞なく、前項各号に掲げる事項を帳簿に記載しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第百二十九条の規定により帳簿を保存しなければならない期間は、帳簿の最終の記載の日から起算して、三年とする。</Sentence>
@@ -3489,13 +3489,13 @@
         <Article Delete="false" Hide="false" Num="77_2">
           <ArticleCaption>（電磁的方法による保存）</ArticleCaption>
           <ArticleTitle>第七十七条の二</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前条第一項各号に掲げる事項が、電磁的方法（電子的方法、磁気的方法その他の人の知覚によって認識することができない方法をいう。第八十六条の二において同じ。）により記録され、当該記録が必要に応じ電子計算機その他の機器を用いて直ちに表示されることができるようにして保存されるときは、当該記録の保存をもって法第百二十九条に規定する当該事項が記載された帳簿の保存に代えることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定による保存をする場合には、経済産業大臣が定める基準を確保するよう努めなければならない。</Sentence>
@@ -3505,7 +3505,7 @@
         <Article Delete="false" Hide="false" Num="78">
           <ArticleCaption>（標識）</ArticleCaption>
           <ArticleTitle>第七十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第百三十条の経済産業省令で定める様式の標識は、次のとおりとする。</Sentence>
@@ -3518,7 +3518,7 @@
         <Article Delete="false" Hide="false" Num="79">
           <ArticleCaption>（指定の取消し）</ArticleCaption>
           <ArticleTitle>第七十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">経済産業局長又は都道府県知事は、法第百三十二条の規定により指定を取り消したときは、その旨を当該事業所の所在地を管轄する都道府県知事又は特定市町村の長に通知するものとする。</Sentence>
@@ -3528,7 +3528,7 @@
         <Article Delete="false" Hide="false" Num="80">
           <ArticleCaption>（写しの提出）</ArticleCaption>
           <ArticleTitle>第八十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第百二十七条第二項又は第百三十三条において準用する法第六十二条第一項及び第六十五条の規定により経済産業局長又は都道府県知事に申請書又は届出書を提出する者は、その写しを経由する都道府県知事又は特定市町村の長に提出しなければならない。</Sentence>
@@ -3538,7 +3538,7 @@
         <Article Delete="false" Hide="false" Num="81">
           <ArticleCaption>（準用）</ArticleCaption>
           <ArticleTitle>第八十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第三十一条及び第三十四条の規定は、法第百二十七条第一項の指定を受けた者に準用する。</Sentence>
@@ -3554,7 +3554,7 @@
           <Article Delete="false" Hide="false" Num="82">
             <ArticleCaption>（証明書）</ArticleCaption>
             <ArticleTitle>第八十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百三十六条第一項の経済産業省令で定める事項は、次のとおりとする。</Sentence>
@@ -3608,7 +3608,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百三十六条第一項の経済産業省令で定める標章は、次のとおりとする。</Sentence>
@@ -3621,7 +3621,7 @@
           <Article Delete="false" Hide="false" Num="83">
             <ArticleCaption>（指定の申請）</ArticleCaption>
             <ArticleTitle>第八十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百三十八条の規定により指定を受けようとする者は、様式第七十四による申請書に次の書類を添えて、経済産業大臣に提出しなければならない。</Sentence>
@@ -3703,7 +3703,7 @@
           <Article Delete="false" Hide="false" Num="83_2">
             <ArticleCaption>（指定校正機関の構成員）</ArticleCaption>
             <ArticleTitle>第八十三条の二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百四十条第三号の法人の種類に応じて経済産業省令で定める構成員は、次の各号に掲げる法人の種類ごとに、それぞれ当該各号に掲げるものとする。</Sentence>
@@ -3779,7 +3779,7 @@
           <Article Delete="false" Hide="false" Num="83_3">
             <ArticleCaption>（指定の基準）</ArticleCaption>
             <ArticleTitle>第八十三条の三</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百四十条第四号の経済産業省令で定める基準は、校正業務の実施に係る組織、校正の方法、手数料の算定の方法その他の校正業務を遂行するための体制が次の各号に適合するよう整備されていることとする。</Sentence>
@@ -3807,7 +3807,7 @@
           <Article Delete="false" Hide="false" Num="83_4">
             <ArticleCaption>（指定の更新の手続）</ArticleCaption>
             <ArticleTitle>第八十三条の四</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">法第百四十二条において準用する法第二十八条の二の規定により、指定校正機関が指定の更新を受けようとする場合は、第八十三条から前条までの規定を準用する。</Sentence>
@@ -3818,7 +3818,7 @@
           <Article Delete="false" Hide="false" Num="84">
             <ArticleCaption>（変更の届出）</ArticleCaption>
             <ArticleTitle>第八十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">指定校正機関は、指定校正機関又は特定標準器による校正等を行う事業所の名称又は第八十三条第四号ロからヘまでの記載事項を変更したときは、遅滞なく、様式第七十五による届出書を経済産業大臣に提出しなければならない。</Sentence>
@@ -3828,13 +3828,13 @@
           <Article Delete="false" Hide="false" Num="85">
             <ArticleCaption>（業務規程）</ArticleCaption>
             <ArticleTitle>第八十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">指定校正機関は、法第百四十二条において準用する法第三十条第一項の規定により業務規程の認可を受けようとするときは、様式第七十六による申請書に業務規程を添えて、経済産業大臣に提出しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百四十二条において準用する法第三十条第二項の経済産業省令で定める事項は、次のとおりとする。</Sentence>
@@ -3900,7 +3900,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">指定校正機関は、法第百四十二条において準用する法第三十条第一項の規定により業務規程の変更の認可を受けようとするときは、様式第七十七による申請書を経済産業大臣に提出しなければならない。</Sentence>
@@ -3910,7 +3910,7 @@
           <Article Delete="false" Hide="false" Num="86">
             <ArticleCaption>（帳簿の記載）</ArticleCaption>
             <ArticleTitle>第八十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百四十二条において準用する法第三十一条の経済産業省令で定める事項は、次のとおりとする。</Sentence>
@@ -3958,13 +3958,13 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">指定校正機関は、特定標準器による校正等を行った後、遅滞なく、前項に掲げる事項を帳簿に記載しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百四十二条において準用する法第三十一条の規定により帳簿を保存しなければならない期間は、帳簿の最終の記載の日から起算して、五年とする。</Sentence>
@@ -3974,13 +3974,13 @@
           <Article Delete="false" Hide="false" Num="86_2">
             <ArticleCaption>（電磁的方法による保存）</ArticleCaption>
             <ArticleTitle>第八十六条の二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前条第一項各号に掲げる事項が、電磁的方法により記録され、当該記録が必要に応じ電子計算機その他の機器を用いて直ちに表示されることができるようにして保存されるときは、当該記録の保存をもって法第百四十二条において準用する法第三十一条の規定する当該事項が記載された帳簿の保存に代えることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の規定による保存をする場合には、経済産業大臣が定める基準を確保するよう努めなければならない。</Sentence>
@@ -3990,7 +3990,7 @@
           <Article Delete="false" Hide="false" Num="87">
             <ArticleCaption>（業務の休廃止）</ArticleCaption>
             <ArticleTitle>第八十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">指定校正機関は、法第百四十二条において準用する法第三十二条の規定により校正業務の全部若しくは一部の休止又は廃止の届出をするときは、全部又は一部を休止し、又は廃止しようとする日の三月前までに、様式第七十八による届出書を経済産業大臣に提出しなければならない。</Sentence>
@@ -4000,7 +4000,7 @@
           <Article Delete="false" Hide="false" Num="88">
             <ArticleCaption>（事業所の変更の届出）</ArticleCaption>
             <ArticleTitle>第八十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">指定校正機関は、法第百四十二条において準用する法第百六条第二項の規定により校正業務を行う事業所の所在地の変更の届出をしようとするときは、様式第七十九による届出書を経済産業大臣に提出しなければならない。</Sentence>
@@ -4010,7 +4010,7 @@
           <Article Delete="false" Hide="false" Num="89">
             <ArticleCaption>（手数料の認可等）</ArticleCaption>
             <ArticleTitle>第八十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">研究所、機構、日本電気計器検定所又は指定校正機関は、法第百五十八条第二項の規定による手数料の認可を受けようとするときは、様式第八十による申請書を経済産業大臣に提出しなければならない。</Sentence>
@@ -4024,7 +4024,7 @@
           <Article Delete="false" Hide="false" Num="90">
             <ArticleCaption>（登録に係る区分）</ArticleCaption>
             <ArticleTitle>第九十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">法第百四十三条第一項の登録に係る物象の状態の量は法第二条第一項第一号及び第二号に掲げるものとし、次のとおり区分する。</Sentence>
@@ -4175,7 +4175,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">この節において「校正を行う計量器の表示する物象の状態の量又は値付けを行う標準物質に付された物象の状態の量」とは、計量器等の種類、校正範囲及び校正測定能力並びに次条に定める校正手法の区分の組み合わせをいう。</Sentence>
@@ -4208,7 +4208,7 @@
           <Article Delete="false" Hide="false" Num="90_2">
             <ArticleCaption>（計量器等の区分）</ArticleCaption>
             <ArticleTitle>第九十条の二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">計量法関係手数料令別表第一第八号下欄の経済産業省令で定める計量器等の区分（以下「計量器等の区分」という。）は、計量器等の種類ごとに、校正範囲及び校正測定能力を組み合わせたものとする。</Sentence>
@@ -4219,7 +4219,7 @@
           <Article Delete="false" Hide="false" Num="91">
             <ArticleCaption>（登録の申請）</ArticleCaption>
             <ArticleTitle>第九十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百四十三条第一項の規定により登録を受けようとする者は、計量器の校正等の事業を行う事業所について様式第八十一による申請書に次の書類を添えて、機構に提出しなければならない。</Sentence>
@@ -4295,7 +4295,7 @@
           <Article Delete="false" Hide="false" Num="91_2">
             <ArticleCaption>（登録証の交付）</ArticleCaption>
             <ArticleTitle>第九十一条の二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">機構は、法第百四十三条第一項の登録をしたときは、当該登録をした計量器の校正等の事業を行う事業所に係る登録事業者に、次に掲げる事項を記載した登録証を交付するものとする。</Sentence>
@@ -4325,7 +4325,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の規定は、法第百四十四条の二第一項の登録の更新に準用する。</Sentence>
@@ -4335,7 +4335,7 @@
           <Article Delete="false" Hide="false" Num="91_3">
             <ArticleCaption>（登録の更新の申請）</ArticleCaption>
             <ArticleTitle>第九十一条の三</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">登録事業者は、法第百四十四条の二第一項の登録の更新を受けようとするときは、現に受けている登録の有効期間が満了する日の五月前までに、様式第八十一の二による申請書に第九十一条各号に掲げる書類を添えて、機構に提出しなければならない。</Sentence>
@@ -4346,7 +4346,7 @@
           <Article Delete="false" Hide="false" Num="91_4">
             <ArticleCaption>（登録又は認定の基準が類似する場合の登録申請等）</ArticleCaption>
             <ArticleTitle>第九十一条の四</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">計量法関係手数料令別表第一第十二号上欄及び第十三号上欄の経済産業省令で定める登録又は認定は、次に掲げるものとする。</Sentence>
@@ -4403,7 +4403,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="91_5">
             <ArticleTitle>第九十一条の五</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">計量法関係手数料令別表第一第十二号上欄及び第十三号上欄の経済産業省令で定める書類は、次に掲げるもののいずれかとする。</Sentence>
@@ -4460,7 +4460,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="91_6">
             <ArticleTitle>第九十一条の六</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">計量法関係手数料令別表第一第十二号下欄及び第十三号下欄の経済産業省令で定める額は、申請に際し前条第二号又は第八号の書類が添付されている場合（同条第八号の場合にあっては相互承認実施法施行令第二条第三号又は第六号に係る国外適合性評価事業に係る認定の基準が日本工業規格Ｑ一七〇二五であることを証するもの並びに同条第五号及び第八号に係る国外適合性評価事業に係るものである場合に限る。）にあっては、次の各号に掲げる場合に応じ、それぞれ当該各号に定める額とする。</Sentence>
@@ -4488,7 +4488,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">計量法関係手数料令別表第一第十二号下欄及び第十三号下欄の経済産業省令で定める額は、申請に際し前条の書類が添付されている場合（前項に掲げる書類が添付されている場合を除く。）にあっては、次の各号に掲げる場合に応じ、それぞれ当該各号に定める額とする。</Sentence>
@@ -4520,7 +4520,7 @@
           <Article Delete="false" Hide="false" Num="92">
             <ArticleCaption>（変更の届出）</ArticleCaption>
             <ArticleTitle>第九十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">登録事業者は、次の各号に掲げる記載事項を変更したときは、遅滞なく、様式第八十二による届出書を機構に提出しなければならない。</Sentence>
@@ -4568,20 +4568,20 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第七条第二項の規定は、登録事業者に準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、同項中「法第四十一条」とあるのは「法第百四十六条において準用する法第四十一条」と、「届出製造事業者」とあるのは「登録事業者」と、「法第四十二条第二項の事実」とあるのは「その事実」と、「様式第四」とあるのは「様式第八十二の二」と、「様式第六の二」とあるのは「様式第八十二の三」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前二項の規定に基づく届出書の提出を行う場合において、第九十一条の二に規定する記載事項に変更がある場合は、同条の登録証を返納しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の場合において、機構は、新たな登録証を作成し、当該届出をした者に対し、交付するものとする。</Sentence>
@@ -4591,7 +4591,7 @@
           <Article Delete="false" Hide="false" Num="93">
             <ArticleCaption>（校正等の期間）</ArticleCaption>
             <ArticleTitle>第九十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">登録事業者が計量器の校正等に用いる特定標準器による校正等をされた計量器若しくは標準物質又はこれらの計量器若しくは標準物質に連鎖して段階的に計量器の校正等をされた計量器若しくは標準物質の校正等（以下この条において「校正等」という。）の期間は、校正等を行った日の翌月の一日から一年とする。</Sentence>
@@ -4602,7 +4602,7 @@
           <Article Delete="false" Hide="false" Num="94">
             <ArticleCaption>（証明書）</ArticleCaption>
             <ArticleTitle>第九十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">法第百四十四条第一項の経済産業省令で定める事項は、次のとおりとする。</Sentence>
@@ -4657,7 +4657,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百四十四条第一項の経済産業省令で定める標章は、次のとおりとする。</Sentence>
@@ -4670,7 +4670,7 @@
           <Article Delete="false" Hide="false" Num="95">
             <ArticleCaption>（廃止の届出）</ArticleCaption>
             <ArticleTitle>第九十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">登録事業者は、法第百四十六条において準用する法第六十五条の規定により登録に係る事業の廃止の届出をしようとするときは、様式第八十三による届出書を機構に提出するとともに、その所持する登録証を返納しなければならない。</Sentence>
@@ -4680,7 +4680,7 @@
           <Article Delete="false" Hide="false" Num="95_2">
             <ArticleCaption>（登録証の返納）</ArticleCaption>
             <ArticleTitle>第九十五条の二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">登録事業者は、法第百四十四条の二第一項の規定によりその効力を失ったとき又は法第百四十五条の規定により登録が取り消されたときは、遅滞なく、その登録証を返納しなければならない。</Sentence>
@@ -4696,7 +4696,7 @@
           <Article Delete="false" Hide="false" Num="96">
             <ArticleCaption>（定期検査に代わる計量士による検査を行う計量士等）</ArticleCaption>
             <ArticleTitle>第九十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">次の表の報告義務者の欄に掲げる者は、同表の区分により、報告書を四月に始まる毎年度につき作成し、提出しなければならない。</Sentence>
@@ -4849,7 +4849,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="97">
             <ArticleTitle>第九十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -4858,7 +4858,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="98">
             <ArticleTitle>第九十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -4867,7 +4867,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="99">
             <ArticleTitle>第九十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -4876,7 +4876,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="100">
             <ArticleTitle>第百条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -4885,7 +4885,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="101">
             <ArticleTitle>第百一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -4894,7 +4894,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="102">
             <ArticleTitle>第百二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -4904,7 +4904,7 @@
           <Article Delete="false" Hide="false" Num="103">
             <ArticleCaption>（特定計量器の分類等）</ArticleCaption>
             <ArticleTitle>第百三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">様式第八十四から様式第八十八まで、及び様式第九十一に記載すべき特定計量器の種類は、経済産業大臣が別に定める分類によるものとする。</Sentence>
@@ -4917,25 +4917,25 @@
           <Article Delete="false" Hide="false" Num="104">
             <ArticleCaption>（身分を示す証明書）</ArticleCaption>
             <ArticleTitle>第百四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百四十八条第四項の身分を示す証明書は、様式第九十三によるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百六十八条の三第四項の身分を示す証明書は、様式第九十三の二によるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百六十八条の五第四号の規定により法第百四十八条第一項の規定による立入検査に関する事務を行う機構の職員の身分を示す証明書は、様式第九十三の三によるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百六十八条の六第二項において準用する法第百六十八条の三第四項の身分を示す証明書は、様式第九十三の四によるものとする。</Sentence>
@@ -4948,13 +4948,13 @@
           <Article Delete="false" Hide="false" Num="105">
             <ArticleCaption>（組織）</ArticleCaption>
             <ArticleTitle>第百五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">計量行政審議会（以下「審議会」という。）に、特別の事項を調査審議させるため必要があるときは、臨時委員を置くことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">審議会に、専門の事項を調査させるため必要があるときは、専門委員を置くことができる。</Sentence>
@@ -4964,13 +4964,13 @@
           <Article Delete="false" Hide="false" Num="106">
             <ArticleCaption>（臨時委員等の任命）</ArticleCaption>
             <ArticleTitle>第百六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">臨時委員は、学識経験のある者のうちから、経済産業大臣が任命する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">専門委員は、当該専門の事項に関し学識経験のある者のうちから、経済産業大臣が任命する。</Sentence>
@@ -4980,32 +4980,32 @@
           <Article Delete="false" Hide="false" Num="107">
             <ArticleCaption>（委員の任期等）</ArticleCaption>
             <ArticleTitle>第百七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">委員の任期は、二年とする。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、補欠の委員の任期は、前任者の残任期間とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">委員は、再任されることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">臨時委員は、その者の任命に係る当該特別の事項に関する調査審議が終了したときは、解任されるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">専門委員は、その者の任命に係る当該専門の事項に関する調査が終了したときは、解任されるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="5">
+            <Paragraph Hide="false" Num="5" OldStyle="false">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">委員、臨時委員及び専門委員は、非常勤とする。</Sentence>
@@ -5015,31 +5015,31 @@
           <Article Delete="false" Hide="false" Num="108">
             <ArticleCaption>（会長）</ArticleCaption>
             <ArticleTitle>第百八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">会長の任期は、二年とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">会長は、再任されることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">会長は、会務を総理し、審議会を代表する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">会長に事故があるときは、あらかじめその指名する委員が、その職務を代理する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="5">
+            <Paragraph Hide="false" Num="5" OldStyle="false">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">会長は、非常勤とする。</Sentence>
@@ -5049,37 +5049,37 @@
           <Article Delete="false" Hide="false" Num="109">
             <ArticleCaption>（部会）</ArticleCaption>
             <ArticleTitle>第百九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">審議会は、その定めるところにより、部会を置くことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">部会に属すべき委員、臨時委員及び専門委員は、会長が指名する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">部会に部会長を置き、当該部会に属する委員の互選により選任する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">部会長は、当該部会の事務を掌理する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="5">
+            <Paragraph Hide="false" Num="5" OldStyle="false">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">部会長に事故があるときは、当該部会に属する委員のうちから部会長があらかじめ指名する者が、その職務を代理する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="6">
+            <Paragraph Hide="false" Num="6" OldStyle="false">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">審議会は、その定めるところにより、部会の議決をもって審議会の議決とすることができる。</Sentence>
@@ -5089,37 +5089,37 @@
           <Article Delete="false" Hide="false" Num="110">
             <ArticleCaption>（議事）</ArticleCaption>
             <ArticleTitle>第百十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">審議会は、委員及び議事に関係のある臨時委員の過半数が出席しなければ、会議を開き、議決することができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">委員の三分の一以上の者から会議に付議すべき事項を示して会議の召集の請求があったときは、会長は、会議を召集しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">審議会の議事は、委員及び議事に関係のある臨時委員で会議に出席したものの過半数で決し、可否同数の時は、会長の決するところによる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">会長は、必要があると認めるときは、委員、臨時委員及び専門委員以外の者を会議に出席させ、意見の表明又は説明をさせることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="5">
+            <Paragraph Hide="false" Num="5" OldStyle="false">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">委員、臨時委員及び専門委員は、会議に出席することができない場合であっても、会長の許可を受けたときは、会議において、その意を文書により表明することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="6">
+            <Paragraph Hide="false" Num="6" OldStyle="false">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前五項の規定は、部会の議事に準用する。</Sentence>
@@ -5128,7 +5128,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="111">
             <ArticleTitle>第百十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -5138,7 +5138,7 @@
           <Article Delete="false" Hide="false" Num="112">
             <ArticleCaption>（庶務）</ArticleCaption>
             <ArticleTitle>第百十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">審議会の庶務は、経済産業省産業技術環境局基準認証政策課計量行政室において処理する。</Sentence>
@@ -5148,7 +5148,7 @@
           <Article Delete="false" Hide="false" Num="113">
             <ArticleCaption>（雑則）</ArticleCaption>
             <ArticleTitle>第百十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">この省令に定めるもののほか、議事の手続その他審議会の運営に関し必要な事項は、会長が審議会に諮って定める。</Sentence>
@@ -5161,7 +5161,7 @@
           <Article Delete="false" Hide="false" Num="114">
             <ArticleCaption>（公示の方法）</ArticleCaption>
             <ArticleTitle>第百十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百五十九条第一項各号の規定による公示は、経済産業大臣がする場合にあっては告示により、研究所又は機構がする場合にあっては公告によって行う。</Sentence>
@@ -5174,7 +5174,7 @@
           <Article Delete="false" Hide="false" Num="115">
             <ArticleCaption>（資格）</ArticleCaption>
             <ArticleTitle>第百十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百六十五条の経済産業省令で定める資格は、次のとおりとする。</Sentence>
@@ -5198,7 +5198,7 @@
           <SectionTitle>第六節　計量教習</SectionTitle>
           <Article Delete="false" Hide="false" Num="116">
             <ArticleTitle>第百十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -5207,7 +5207,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="117">
             <ArticleTitle>第百十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -5216,7 +5216,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="118">
             <ArticleTitle>第百十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -5226,7 +5226,7 @@
           <Article Delete="false" Hide="false" Num="119">
             <ArticleCaption>（計量教習の種類）</ArticleCaption>
             <ArticleTitle>第百十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第百六十六条第一項に規定する計量に関する教習（以下「計量教習」という。）の種類は、次の各号に掲げるとおりとする。</Sentence>
@@ -5284,7 +5284,7 @@
           <Article Delete="false" Hide="false" Num="120">
             <ArticleCaption>（受講資格）</ArticleCaption>
             <ArticleTitle>第百二十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">計量教習を受講できる者は、次の各号のとおりとする。</Sentence>
@@ -5330,7 +5330,7 @@
           <Article Delete="false" Hide="false" Num="121">
             <ArticleCaption>（公示）</ArticleCaption>
             <ArticleTitle>第百二十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">理事長は、計量教習の種類、実施時期、受講手続、入所試験その他計量教習に関する必要事項を官報に公告しなければならない。</Sentence>
@@ -5339,7 +5339,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="122">
             <ArticleTitle>第百二十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -5348,7 +5348,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="123">
             <ArticleTitle>第百二十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -5357,7 +5357,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="124">
             <ArticleTitle>第百二十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -5366,7 +5366,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="125">
             <ArticleTitle>第百二十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -5375,7 +5375,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="126">
             <ArticleTitle>第百二十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -5384,7 +5384,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="127">
             <ArticleTitle>第百二十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -5393,7 +5393,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="128">
             <ArticleTitle>第百二十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -5402,7 +5402,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="129">
             <ArticleTitle>第百二十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -5411,7 +5411,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="130">
             <ArticleTitle>第百三十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -5420,7 +5420,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="131">
             <ArticleTitle>第百三十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -5430,25 +5430,25 @@
           <Article Delete="false" Hide="false" Num="132">
             <ArticleCaption>（受講料）</ArticleCaption>
             <ArticleTitle>第百三十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">一般計量教習又は一般計量特別教習を受講しようとする者であって、経済産業省、都道府県、市町村、研究所又は機構の職員以外の者は、受講料として毎月四万八千四百円を納めなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">環境計量特別教習（濃度関係）又は環境計量特別教習（騒音・振動関係）を受講しようとする者であって、経済産業省、都道府県、市町村、研究所又は機構の職員以外の者は、受講料として、環境計量特別教習（濃度関係）にあっては二十万九千八百円、環境計量特別教習（騒音・振動関係）にあっては六万六千円を納めなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">環境計量講習（濃度関係）を受講しようとする者は、受講料として九万千百円を、環境計量講習（騒音・振動関係）を受講しようとする者は、受講料として五万七千七百円を納めなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">納められた受講料は、返還しない。</Sentence>
@@ -5457,7 +5457,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="133">
             <ArticleTitle>第百三十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">削除</Sentence>
@@ -5467,7 +5467,7 @@
           <Article Delete="false" Hide="false" Num="134">
             <ArticleCaption>（雑則）</ArticleCaption>
             <ArticleTitle>第百三十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">この省令に定めるもののほか、計量教習に関し必要な事項は、理事長が定めることとする。</Sentence>
@@ -5480,13 +5480,13 @@
           <Article Delete="false" Hide="false" Num="135">
             <ArticleCaption>（条例等に係る適用除外）</ArticleCaption>
             <ArticleTitle>第百三十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第十三条において準用する第六条第一項及び第三項、第七条並びに第九条第一項、第十七条、第十八条において準用する第七条第一項及び第二項並びに第九条第一項、第二十一条、第二十三条、第二十四条、第二十八条第一項、第三十一条、第三十四条、第三十九条第一項、第四十三条第一項及び第四項、第四十五条第一項、第四十六条第一項、第四十八条、第四十九条で準用する第三十一条第二項及び第三十四条、第七十二条第一項（国の事業所に係る部分を除く。）、第八十一条において準用する第三十一条及び第三十四条（国の事業所に係る部分を除く。）、第九十六条の表の提出すべき報告書の欄並びに第百四条（都道府県知事の事務に係る部分に限る。）の規定は、都道府県の条例、規則、その他の定めに別段の定めがあるときは、その限度において適用しない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第九十六条の表の提出すべき報告書の欄及び第百四条（特定市町村の長の事務に係る部分に限る。）の規定は、特定市町村の条例、規則、その他の定めに別段の定めがあるときは、その限度において適用しない。</Sentence>
@@ -5499,7 +5499,7 @@
           <Article Delete="false" Hide="false" Num="136">
             <ArticleCaption>（電磁的記録媒体による提出）</ArticleCaption>
             <ArticleTitle>第百三十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">次の各号に掲げる書類の経済産業大臣への提出については、当該書類の提出に代えて当該書類に記載すべきこととされている事項を記録した電磁的記録媒体（電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。）に係る記録媒体をいう。以下同じ。）及び様式第九十九の電磁的記録媒体提出票を提出することにより行うことができる。</Sentence>
@@ -5577,7 +5577,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の電磁的記録媒体は、次の各号のいずれかに該当するものでなければならない。</Sentence>
@@ -5595,7 +5595,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">次の各号に掲げる書類の機構への提出については、当該書類の提出に代えて当該書類に記載すべきこととされている事項を記録した電磁的記録媒体及び様式第九十九の二の電磁的記録媒体提出票を提出することにより行うことができる。</Sentence>
@@ -5673,13 +5673,13 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の電磁的記録媒体は、機構が別に定めるものでなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="5">
+            <Paragraph Hide="false" Num="5" OldStyle="false">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">押印をすることとされている書類について、第一項又は第三項の規定により電磁的記録媒体による提出を行う場合にあっては、押印のある様式第九十九又は様式第九十九の二の電磁的記録媒体提出票を提出することをもって、押印は不要とする。</Sentence>
@@ -5694,7 +5694,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、法の施行の日（平成五年十一月一日）から施行する。</Sentence>
@@ -5704,7 +5704,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（計量法施行規則の廃止）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">計量法施行規則（昭和四十二年通商産業省令第八十号。以下「旧施行規則」という。）は、廃止する。</Sentence>
@@ -5714,7 +5714,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（濃度計の使用方法）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第三条の適用については、平成六年三月三十一日までは、第三条第一号中「法第百四十四条第一項の認定事業者が特定標準器による校正等をされた標準物質（以下「特定二次標準物質」という。）による標準物質の値付けを行ったもの」とあるのは「法第百四十四条第一項の認定事業者が特定標準器による校正等をされた標準物質（以下「特定二次標準物質」という。）による標準物質の値付けを行ったもの又は法第二条第六項で規定する標準物質」と、同条第二号中「特定二次標準物質による標準物質の値付けを行ったもの」とあるのは、「特定二次標準物質による標準物質の値付けを行ったもの又は法第二条第六項で規定する標準物質」とする。</Sentence>
@@ -5724,7 +5724,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（製造又は修理の事業）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">タクシーメーターの届出製造事業者又は届出修理事業者についての第五条第一項の適用については、平成九年三月三十一日までは、別表第一の第一項中「タクシーメーター頭部検査用基準器」とあるのは、「タクシーメーター頭部検査用基準器又は通商産業大臣の認定したパルス発信装置（通商産業大臣が認定を受理している旨の証票（その証票に記載された試験を受けるべき日を経過していないものに限る。）が付されたものを含む。）」とする。</Sentence>
@@ -5734,13 +5734,13 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（修理の事業）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">計量法（昭和二十六年法律第二百七号。以下「旧法」という。）第五十条第二項の届出をした同条第一項の販売事業者であって、法の施行の際現に当該届出に係る修理の事業を行っている者は、第十三条において準用する第五条第一項の規定にかかわらず、次の表の上欄に掲げる事業の区分ごとに修理の事業の届出をすることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の届出をした者についての法第四十六条第一項第四号の器具、機械又は装置であって経済産業省令で定めるものは、次の表の上欄の事業の区分に応じ、同表の下欄に掲げるとおりとする。</Sentence>
@@ -5793,13 +5793,13 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（製造時における技術基準適合義務）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第二十条の別表第二の第一項下欄中第一号ハ（５）及び（６）並びに同表の第二項下欄中第一号ハ（４）の規定にあっては、法第五十三条第一項の届出製造事業者については、平成六年四月三十日までは適用しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第二十条の別表第二の第一項下欄中第一号ハ（５）及び（６）並びに同表の第二項下欄中第一号ハ（４）の規定にあっては、法第五十三条第二項の家庭用特定計量器の輸入の事業を行う者については、平成六年十月三十一日までは適用しない。</Sentence>
@@ -5809,19 +5809,19 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（特殊容器製造事業）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の際現に旧施行規則に規定する様式の型式に属する特殊容器であって、旧施行規則第九十二条及び第九十三条の表示の付されているものは、第二十五条に規定する型式に属するものとみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の際現に旧施行規則第九十二条及び第九十三条の表示の付されている特殊容器についての、第二十七条の適用については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">施行日前に旧法第百八十一条の二の指定を受け、法附則第二十九条第一項の規定により法第十七条第一項の指定を受けたものとみなされる製造者にあっては、平成七年十月三十一日までに製造した特殊容器については、第三十二条の規定にかかわらず、法第六十三条の規定に基づき、旧施行規則第九十二条及び第九十三条の表示を付すことができる。</Sentence>
@@ -5832,19 +5832,19 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（計量士）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行日前に旧施行規則第五十二条の三第一項第一号に規定する環境計量講習を修了した者は、第五十一条第一項第一号ロの環境計量講習（濃度関係）及び同項第二号ロの環境計量講習（騒音・振動関係）を修了したものとみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行日前に旧施行規則第五十二条の三第三項第一号に規定する環境計量特別教習を修了した者は、第五十一条第二項第一号イの環境計量特別教習（濃度関係）及び同項第二号イの環境計量特別教習（騒音・振動関係）を修了したものとみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行日前における旧施行規則第五十四条に規定する計量に関する実務は、第五十一条第三項の実務とみなす。</Sentence>
@@ -5854,25 +5854,25 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（教習の種類及び期間）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行日前に旧施行規則第百四十三条に規定する特別課程（以下単に「特別課程」という。）を修了した者は、第百十九条表第七号の短期計量教習を修了したものとみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">平成六年三月三十一日までは、第百十九条表第一号中「一般計量教習」とあるのは「旧施行規則第百四十三条に規定する教習（以下単に「教習」という。）」と、「三月」とあるのは「五月」と、第百十九条表第五号中「環境計量講習（濃度関係）」とあるのは「計量法施行規則（昭和四十二年通商産業省令第八十号。以下「旧施行規則」という。）第五十二条の三第一項第一号に規定する環境計量講習（以下単に「環境計量講習」という。）」と、「一週」とあるのは「二週」と、第百十九条表第六号中「環境計量講習（騒音・振動関係）」とあるのは「環境計量講習」と、「一週」とあるのは「二週」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">平成五年十一月三十日までは、第百十九条表第七号中「短期計量教習」とあるのは「特別課程」と、「一月」とあるのは「二月」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前二項において、施行日後も行われる教習、特別課程又は環境計量講習を修了した者は、それぞれ第百十九条表第一号の一般計量教習及び同表第二号の一般計量特別教習、同表第七号の短期計量教習又は同表第五号の環境計量講習（濃度関係）及び同表第六号の環境計量講習（騒音・振動関係）を修了したものとみなす。</Sentence>
@@ -5882,7 +5882,7 @@
       <Article Delete="false" Hide="false" Num="10">
         <ArticleCaption>（受講の資格）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">旧施行規則第七十二条の二の規定は、平成五年十二月三十一日までは、なお効力を有する。</Sentence>
@@ -5892,7 +5892,7 @@
       <Article Delete="false" Hide="false" Num="11">
         <ArticleCaption>（受講の申請）</ArticleCaption>
         <ArticleTitle>第十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">平成五年十二月三十一日までは、第百二十三条第一項中「環境計量講習（濃度関係）又は環境計量講習（騒音・振動関係）」とあるのは「環境計量講習」と、同条第二項中「環境計量講習（濃度関係）又は環境計量講習（騒音・振動関係）」とあるのは「環境計量講習」と、「環境計量士（濃度関係）又は環境計量士（騒音・振動関係）」とあるのは「旧施行規則第五十二条の二第一号に規定する環境計量士」とする。</Sentence>
@@ -5902,13 +5902,13 @@
       <Article Delete="false" Hide="false" Num="12">
         <ArticleCaption>（受講料）</ArticleCaption>
         <ArticleTitle>第十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">平成六年三月三十一日までは、第百三十二条第一項中「一般計量教習又は一般計量特別教習」とあるのは「教習」と、「四万三千円」とあるのは「三万四千八百円」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">平成五年十二月三十一日までは、第百三十二条第三項中「環境計量講習（濃度関係）を受講しようとする者は、受講料として八万五千四百円を、環境計量講習（騒音・振動関係）を受講しようとする者」とあるのは「環境計量講習を受講しようとする者」と、「五万五千円」とあるのは「十一万千円」とする。</Sentence>
@@ -5918,13 +5918,13 @@
       <Article Delete="false" Hide="false" Num="13">
         <ArticleCaption>（適正計量管理事業所）</ArticleCaption>
         <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行前にされた旧法第百七十三条の指定の申請であって、この省令の施行の際、指定をするかどうかの処分がなされていないものについての処分については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定により法第百二十七条第一項の指定を受けた者は、当該指定に係る旧法第百七十八条第一項の計量管理規程を作成し、指定を受けた後、遅滞なく、その指定に係る通商産業局長又は都道府県知事に提出しなければならない。</Sentence>
@@ -5934,7 +5934,7 @@
       <Article Delete="false" Hide="false" Num="14">
         <ArticleCaption>（専門委員）</ArticleCaption>
         <ArticleTitle>第十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">旧法第二百十二条の規定により置かれた専門委員のうち、国家公務員である者は、施行日において、第百九条の規定により置かれた専門委員となるものとする。</Sentence>
@@ -5942,9 +5942,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成六年九月三〇日通商産業省令第六六号">
+    <SupplProvision AmendLawId="406066" AmendLawNum="平成六年九月三〇日通商産業省令第六六号" Id="8e878ec2-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum/>
         <ParagraphSentence>
@@ -5952,36 +5952,36 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成六年一〇月一七日通商産業省令第六九号">
+    <SupplProvision AmendLawId="406069" AmendLawNum="平成六年一〇月一七日通商産業省令第六九号" Id="8fb96bbc-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成七年七月六日通商産業省令第六〇号">
+    <SupplProvision AmendLawId="407060" AmendLawNum="平成七年七月六日通商産業省令第六〇号" Id="8fbf94f6-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成八年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成八年一二月一六日通商産業省令第七八号">
+    <SupplProvision AmendLawId="408078" AmendLawNum="平成八年一二月一六日通商産業省令第七八号" Id="8fc5ae36-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成九年三月二五日通商産業省令第三〇号">
+    <SupplProvision AmendLawId="409030" AmendLawNum="平成九年三月二五日通商産業省令第三〇号" Id="8fcc0420-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
@@ -5989,18 +5989,18 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成九年七月一日通商産業省令第一〇〇号">
+    <SupplProvision AmendLawId="409100" AmendLawNum="平成九年七月一日通商産業省令第一〇〇号" Id="8fd21694-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一〇年三月二七日通商産業省令第二六号">
+    <SupplProvision AmendLawId="410026" AmendLawNum="平成一〇年三月二七日通商産業省令第二六号" Id="8fd81d1e-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum/>
         <ParagraphSentence>
@@ -6008,30 +6008,30 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一〇年一一月二日通商産業省令第八二号">
+    <SupplProvision AmendLawId="410082" AmendLawNum="平成一〇年一一月二日通商産業省令第八二号" Id="8fde2e02-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一一年三月三〇日通商産業省令第二六号">
+    <SupplProvision AmendLawId="411026" AmendLawNum="平成一一年三月三〇日通商産業省令第二六号" Id="8fe4909e-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一一年一一月一日通商産業省令第九六号">
+    <SupplProvision AmendLawId="411096" AmendLawNum="平成一一年一一月一日通商産業省令第九六号" Id="8feaa088-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
@@ -6040,7 +6040,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="2">
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">改正後の第十四条の規定により修理が行われる計量法施行令（平成五年政令第三百二十九号）別表第三第一号ハ（１）に掲げる特定計量器であって、同令附則第九条第二項第三号に該当するものとして都道府県が検定を行うものについての計量法第七十一条第二項の適用については、同法第八十四条第一項の表示が施行日に付されたものとみなす。</Sentence>
@@ -6048,27 +6048,27 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年三月二九日通商産業省令第五一号">
+    <SupplProvision AmendLawId="412051" AmendLawNum="平成一二年三月二九日通商産業省令第五一号" Id="8ff0b2fc-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十二年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年三月三一日通商産業省令第九三号">
+    <SupplProvision AmendLawId="412093" AmendLawNum="平成一二年三月三一日通商産業省令第九三号" Id="8ff6cef8-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十二年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年四月六日通商産業省令第九六号">
+    <SupplProvision AmendLawId="412096" AmendLawNum="平成一二年四月六日通商産業省令第九六号" Id="8ffd0c32-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
@@ -6077,7 +6077,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一二年八月一四日　平成一三年経済産業省令第三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -6085,14 +6085,14 @@
           <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第三項の規定は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（この本部令の効力）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この本部令は、その施行の日に、中央省庁等改革のための経済産業省組織関係命令の整備に関する命令（平成十三年経済産業省令第三号）となるものとする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphCaption>（計量法施行規則の一部改正に伴う経過措置）</ParagraphCaption>
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
@@ -6100,46 +6100,46 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年一一月二〇日通商産業省令第三五三号">
+    <SupplProvision AmendLawId="412353" AmendLawNum="平成一二年一一月二〇日通商産業省令第三五三号" Id="90035e66-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十三年一月六日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年三月二一日経済産業省令第二九号">
+    <SupplProvision AmendLawId="413029" AmendLawNum="平成一三年三月二一日経済産業省令第二九号" Id="90099542-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十三年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の日前に、この省令による改正前の第百十九条の表第一号から第六号までの計量教習所が行う教習の課程を修了した者は、計量法第百六十六条第一項に規定する計量に関する教習を修了したものとみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の日前に、この省令による改正前の計量法施行規則の規定によってした処分、手続その他の行為は、この省令の規定による改正後の相当の規定によってしたものとみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年一二月二八日経済産業省令第二五〇号">
+    <SupplProvision AmendLawId="413250" AmendLawNum="平成一三年一二月二八日経済産業省令第二五〇号" Id="900fdf38-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、計量法の一部を改正する法律（平成十三年法律第五十四号）の施行の日（平成十四年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -6147,52 +6147,52 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一四年三月二七日経済産業省令第四七号">
+    <SupplProvision AmendLawId="414047" AmendLawNum="平成一四年三月二七日経済産業省令第四七号" Id="90163414-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十四年三月三十一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一五年一月二三日経済産業省令第四号">
+    <SupplProvision AmendLawId="415004" AmendLawNum="平成一五年一月二三日経済産業省令第四号" Id="901c9c64-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一五年三月三一日経済産業省令第四二号">
+    <SupplProvision AmendLawId="415042" AmendLawNum="平成一五年三月三一日経済産業省令第四二号" Id="0834f698-d3b6-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年三月四日経済産業省令第一四号">
+    <SupplProvision AmendLawId="417014" AmendLawNum="平成一七年三月四日経済産業省令第一四号" Id="b1f65602-d3b3-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、不動産登記法の施行の日（平成十七年三月七日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年三月一五日経済産業省令第二三号">
+    <SupplProvision AmendLawId="417023" AmendLawNum="平成一七年三月一五日経済産業省令第二三号" Id="90286076-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十七年七月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -6200,39 +6200,39 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年三月三〇日経済産業省令第三七号">
+    <SupplProvision AmendLawId="417037" AmendLawNum="平成一七年三月三〇日経済産業省令第三七号" Id="902f0232-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十七年十月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年九月三〇日経済産業省令第九五号">
+    <SupplProvision AmendLawId="417095" AmendLawNum="平成一七年九月三〇日経済産業省令第九五号" Id="9035682a-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十七年十月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一八年三月三一日経済産業省令第三七号">
+    <SupplProvision AmendLawId="418037" AmendLawNum="平成一八年三月三一日経済産業省令第三七号" Id="903bc2a6-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十八年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一八年四月二八日経済産業省令第六三号" Extract="true">
+    <SupplProvision AmendLawId="418063" AmendLawNum="平成一八年四月二八日経済産業省令第六三号" Extract="true" Id="b1ff18d2-d3b3-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、会社法の施行の日（平成十八年五月一日）から施行する。</Sentence>
@@ -6240,12 +6240,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一九年三月二六日経済産業省令第一四号" Extract="true">
+    <SupplProvision AmendLawId="419014" AmendLawNum="平成一九年三月二六日経済産業省令第一四号" Extract="true" Id="8801ed00-f352-11e6-941f-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、改正法の施行の日（平成十九年四月一日）から施行する。</Sentence>
@@ -6253,21 +6253,21 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一九年一一月一六日経済産業省令第七一号">
+    <SupplProvision AmendLawId="419071" AmendLawNum="平成一九年一一月一六日経済産業省令第七一号" Id="90476b92-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令中第一条の規定は特定機器に係る適合性評価の欧州共同体及びシンガポール共和国との相互承認の実施に関する法律の一部を改正する法律（平成十九年法律第九十二号）の施行の日（平成十九年十一月二十日）から、第二条の規定は適合性評価手続の結果の相互承認に関する日本国とアメリカ合衆国との間の協定の効力発生の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二〇年二月二一日経済産業省令第一〇号">
+    <SupplProvision AmendLawId="420010" AmendLawNum="平成二〇年二月二一日経済産業省令第一〇号" Id="904dd298-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
@@ -6277,7 +6277,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（製造の事業の届出に関する経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行前に計量法（平成四年法律第五十一号。以下「法」という。）第四十条第一項の規定に基づき届出をした者であって、この省令による改正前の計量法施行規則（以下「旧施行規則」という。）別表第一の十の第二欄に掲げる事業を行う者として当該届出をした者は、この省令による改正後の計量法施行規則（以下「新施行規則」という。）別表第一の十の第二欄に掲げる事業を行う者として当該届出をしたものと、旧施行規則別表第一の十一の第二欄に掲げる事業を行う者として当該届出をした者は、新施行規則別表第一の十一の第二欄に掲げる事業を行う者として当該届出をしたものとみなす。</Sentence>
@@ -6287,7 +6287,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（修理の事業の届出に関する経過措置）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行前に法第四十六条第一項の規定に基づき届出をした者であって、旧施行規則別表第一の十の第二欄に掲げる事業を行う者として当該届出をした者は、新施行規則別表第一の十の第二欄に掲げる事業を行う者として当該届出をしたものと、旧施行規則別表第一の十一の第二欄に掲げる事業を行う者として当該届出をした者は、新施行規則別表第一の十一の第二欄に掲げる事業を行う者として当該届出をしたものとみなす。</Sentence>
@@ -6297,7 +6297,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（指定製造事業者の指定に関する経過措置）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の際現に法第十六条第一項第二号ロの指定を受けている者であって、旧施行規則別表第一の十の第二欄に掲げる事業を行う者として当該指定を受けている者は、新施行規則別表第一の十の第二欄に掲げる事業を行う者として当該指定を受けているものと、旧施行規則別表第一の十一の第二欄に掲げる事業を行う者として当該指定を受けている者は、新施行規則別表第一の十一の第二欄に掲げる事業を行う者として当該指定を受けているものとみなす。</Sentence>
@@ -6305,21 +6305,21 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二〇年一二月一日経済産業省令第八二号">
+    <SupplProvision AmendLawId="420082" AmendLawNum="平成二〇年一二月一日経済産業省令第八二号" Id="97b754ec-f352-11e6-941f-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、一般社団法人及び一般財団法人に関する法律の施行の日（平成二十年十二月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二〇年一二月一日経済産業省令第八四号">
+    <SupplProvision AmendLawId="420084" AmendLawNum="平成二〇年一二月一日経済産業省令第八四号" Id="9056ce98-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、平成二十一年六月一日から施行する。</Sentence>
@@ -6330,13 +6330,13 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（燃料油メーターの補助装置に係る簡易修理の特例）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の日以降にする計量法（平成四年法律第五十一号。以下「法」という。）第七十六条第一項、法第八十一条第一項及び法第八十九条第一項の承認（以下「型式の承認」という。）を受けた型式に属するものとして法第八十四条第一項（法第八十九条第四項において準用する場合を含む。）の表示（以下「型式承認表示」という。）が付された燃料油メーターの補助装置（日本工業規格Ｂ八五七二―一（二〇〇八）の八・六・二の適用を受けることができるものに限る。）の平成二十一年五月三十一日以前に型式の承認を受けた型式に属するものとして型式承認表示が付された燃料油メーターの補助装置への取替えは、当分の間、この省令による改正後の計量法施行規則第十一条第五号ハ（８）に係る簡易修理とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第百二十七条第一項の指定を受ける際、新施行令第二条第二号ロに規定する自動はかりに係る指定を受けていない者のうち、第一項第三号の変更の届出を行っていない者にあっては、同号の届出を行うまでは、新施行令別表第三第一号ロの規定は適用しない。</Sentence>
@@ -6344,18 +6344,18 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二二年五月三一日経済産業省令第二八号">
+    <SupplProvision AmendLawId="422028" AmendLawNum="平成二二年五月三一日経済産業省令第二八号" Id="905d3e54-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十二年六月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二六年五月一日経済産業省令第二六号">
+    <SupplProvision AmendLawId="426026" AmendLawNum="平成二六年五月一日経済産業省令第二六号" Id="90639236-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -6363,47 +6363,47 @@
           <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第十一条に関する改正規定は、平成二十六年十一月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の日以後にする計量法（平成四年法律第五十一号。以下「法」という。）第七十六条第一項、第八十一条第一項及び第八十九条第一項の承認（以下「型式の承認」という。）を受けた型式に属するものとして法第八十四条第一項（法第八十九条第四項において準用する場合を含む。）の表示（以下「型式承認表示」という。）が付された液化石油ガスメーターの補助装置（日本工業規格Ｂ八五七四（二〇一三）の八・六のデジタル信号の適用を受けることができるものに限る。）の平成二十六年十月三十一日以前に型式の承認を受けた型式に属するものとして型式承認表示が付された液化石油ガスメーターの補助装置への取替えは、当分の間、この省令による改正後の計量法施行規則第十一条第五号ハ（８）に係る簡易修理とみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の際現に計量法施行規則（昭和四十二年通商産業省令第八十号。以下「旧施行規則」という。）に規定する様式の型式に属する特殊容器であって、旧施行規則第九十二条及び第九十三条の表示の付されているものは、当分の間、この省令による改正後の計量法施行規則第二十五条に規定する型式に属するものとみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="4">
+      <Paragraph Hide="false" Num="4" OldStyle="false">
         <ParagraphNum>４</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の際現に旧施行規則第九十二条及び第九十三条の表示の付されている特殊容器についての、この省令による改正後の計量法施行規則第二十七条の適用については、当分の間、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二六年六月三〇日経済産業省令第三三号">
+    <SupplProvision AmendLawId="426033" AmendLawNum="平成二六年六月三〇日経済産業省令第三三号" Id="906a120a-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十六年七月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二六年一一月二五日経済産業省令第五九号">
+    <SupplProvision AmendLawId="426059" AmendLawNum="平成二六年一一月二五日経済産業省令第五九号" Id="90706d44-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、薬事法等の一部を改正する法律の施行の日（平成二十六年十一月二十五日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二七年四月一日経済産業省令第三五号">
+    <SupplProvision AmendLawId="427035" AmendLawNum="平成二七年四月一日経済産業省令第三五号" Id="9076f86c-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
@@ -6411,16 +6411,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二八年一月一五日経済産業省令第二号" Extract="true">
+    <SupplProvision AmendLawId="428002" AmendLawNum="平成二八年一月一五日経済産業省令第二号" Extract="true" Id="907d7426-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -6428,30 +6428,30 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二八年三月二九日経済産業省令第四三号">
+    <SupplProvision AmendLawId="428043" AmendLawNum="平成二八年三月二九日経済産業省令第四三号" Id="9083d9f6-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十八年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二八年四月一日経済産業省令第六一号">
+    <SupplProvision AmendLawId="428061" AmendLawNum="平成二八年四月一日経済産業省令第六一号" Id="908a9a66-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、農業協同組合法等の一部を改正する等の法律（平成二十七年法律第六十三号）の施行の日（平成二十八年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二九年九月二二日経済産業省令第六九号">
+    <SupplProvision AmendLawId="429069" AmendLawNum="平成二九年九月二二日経済産業省令第六九号" Id="92c2332d-10b1-44fc-9550-f1ef6f5ea927">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
@@ -6484,7 +6484,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（修理済表示の年の表示に係る経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令による改正前の計量法施行規則（以下「旧施行規則」という。）第十五条第二号イ及びロの修理済表示は、平成三十年十二月三十一日までに付されたものにあっては、当分の間、この省令による改正後の計量法施行規則（以下「新施行規則」という。）の規定にかかわらず、なお従前の例によることができる。</Sentence>
@@ -6494,13 +6494,13 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（計量士の登録の条件に係る特例）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第五十一条第二項の改正規定の施行の日前に旧施行規則第百十九条第二号に規定する一般計量特別教習を修了した者（次項において「施行日前教習修了者」という。）は、新施行規則第五十一条第二項の規定にかかわらず、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定にかかわらず、施行日前教習修了者のうち、当該施行の日以後において質量に係る計量に関する実務に二年以上、かつ、当該実務を含む計量に関する実務に五年未満従事しているものは、新施行規則第百十九条第八号に規定する特定教習（理事長が別に定めるものに限る。）を修了した場合には、同条第二号に規定する一般計量特別教習を修了したものとみなす。</Sentence>
@@ -6510,7 +6510,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（自動はかりを使用する適正計量管理事業所の経過措置）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">計量法施行令及び計量法関係手数料令の一部を改正する政令（平成二十九年政令第百六十三号。以下「改正令」という。）による改正後の計量法施行令（以下「新施行令」という。）第二条の規定にかかわらず、改正令附則別表の第一欄に掲げる特定計量器については、それぞれ改正令附則別表の第三欄に掲げる日前までは、次に掲げる業務を行うことを要しない。</Sentence>
@@ -6534,25 +6534,25 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">改正令附則別表の第一欄に掲げる特定計量器に係る前項各号に掲げる業務については、それぞれ改正令附則別表の第四欄に掲げる日以後に行うこととする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">新施行令第二条の規定にかかわらず、新施行令第二条第二号ロに規定する自動はかりのうち、改正令附則別表の第一欄に掲げる特定計量器以外のもの（次項において「検定対象外自動はかり」という。）については、平成三十八年三月三十一日までは、第一項各号に掲げる業務を行うことを要しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">検定対象外自動はかりに係る第一項各号に掲げる業務については、平成三十一年四月一日以後に行うこととする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第百二十七条第一項の指定を受ける際、新施行令第二条第二号ロに規定する自動はかりに係る指定を受けていない者のうち、第一項第三号の変更の届出を行っていない者にあっては、同号の届出を行うまでは、新施行令別表第三第一号ロの規定は適用しない。</Sentence>
@@ -6560,9 +6560,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三〇年三月三〇日経済産業省令第一〇号" Type="Amend">
+    <SupplProvision AmendLawId="430010" AmendLawNum="平成三〇年三月三〇日経済産業省令第一〇号" Id="f238e590-f47c-4f48-9956-0a80bdfdef23" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>

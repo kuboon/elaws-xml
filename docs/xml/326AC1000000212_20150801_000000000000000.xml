@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200831e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="212" Year="26">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="212" Year="26">
   <LawNum>昭和二十六年法律第二百十二号</LawNum>
   <LawBody>
     <LawTitle>日刊新聞紙の発行を目的とする株式会社の株式の譲渡の制限等に関する法律</LawTitle>
@@ -7,7 +7,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（株式の譲渡制限等）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">一定の題号を用い時事に関する事項を掲載する日刊新聞紙の発行を目的とする株式会社にあつては、定款をもつて、株式の譲受人を、その株式会社の事業に関係のある者に限ることができる。</Sentence>
@@ -18,13 +18,13 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（株券）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">株券発行会社（会社法（平成十七年法律第八十六号）第百十七条第七項に規定する株券発行会社をいう。）は、前条の定款の規定を株券に記載しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">取締役、執行役、民事保全法（平成元年法律第九十一号）第五十六条に規定する仮処分命令により選任された取締役若しくは執行役の職務を代行する者、会社法第三百四十六条第二項、第三百五十一条第二項若しくは第四百一条第三項（同法第四百三条第三項及び第四百二十条第三項において準用する場合を含む。）の規定により選任された一時取締役（監査等委員会設置会社にあつては、監査等委員である取締役又はそれ以外の取締役）、代表取締役、委員（指名委員会、監査委員会又は報酬委員会の委員をいう。）、執行役若しくは代表執行役の職務を行うべき者又は外国会社の日本における代表者が株券に前条の定款の規定を記載せず、又はその規定について虚偽の記載をしたときは、百万円以下の過料に処する。</Sentence>
@@ -34,7 +34,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（定款の変更）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一条の株式会社が同条の日刊新聞紙の発行を廃止し、又は引き続き百日以上休止し若しくは休止しようとするときは、すみやかに定款を変更して、同条の規定による定めを削除しなければならない。</Sentence>
@@ -44,7 +44,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（登記）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一条の株式会社の設立の登記にあつては、同条の定款の規定をも登記しなければならない。</Sentence>
@@ -54,14 +54,14 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、昭和二十六年七月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過規定）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -69,9 +69,9 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四一年六月一四日法律第八三号" Extract="true">
+    <SupplProvision AmendLawId="341083" AmendLawNum="昭和四一年六月一四日法律第八三号" Extract="true" Id="cd0e966c-f7d4-45c2-af45-f236b68b46f0">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -79,43 +79,43 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五六年六月九日法律第七五号">
+    <SupplProvision AmendLawId="356075" AmendLawNum="昭和五六年六月九日法律第七五号" Id="910dd15e-d3b8-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、商法等の一部を改正する法律の施行の日（昭和五十七年十月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二年六月二九日法律第六五号">
+    <SupplProvision AmendLawId="402065" AmendLawNum="平成二年六月二九日法律第六五号" Id="54dd05a6-d3bd-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、商法等の一部を改正する法律の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年六月二九日法律第八〇号">
+    <SupplProvision AmendLawId="413080" AmendLawNum="平成一三年六月二九日法律第八〇号" Id="916bade0-d3b5-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、商法等改正法の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年一一月二八日法律第一二九号" Extract="true">
+    <SupplProvision AmendLawId="413129" AmendLawNum="平成一三年一一月二八日法律第一二九号" Extract="true" Id="916d6342-d3b5-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、平成十四年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（罰則の適用に関する経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -123,9 +123,9 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一四年五月二九日法律第四五号" Extract="true">
+    <SupplProvision AmendLawId="414045" AmendLawNum="平成一四年五月二九日法律第四五号" Extract="true" Id="916faa94-d3b5-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -133,12 +133,12 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年六月九日法律第八七号" Extract="true">
+    <SupplProvision AmendLawId="416087" AmendLawNum="平成一六年六月九日法律第八七号" Extract="true" Id="8851aed5-e671-4e53-80c2-5c79b60462df">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -146,12 +146,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年六月九日法律第八八号" Extract="true">
+    <SupplProvision AmendLawId="416088" AmendLawNum="平成一六年六月九日法律第八八号" Extract="true" Id="475e5bbe-d3b3-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して五年を超えない範囲内において政令で定める日（以下「施行日」という。）から施行する。</Sentence>
@@ -162,7 +162,7 @@
       <Article Delete="false" Hide="false" Num="135">
         <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
         <ArticleTitle>第百三十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律（附則第一条ただし書に規定する規定については、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合及びなおその効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -172,7 +172,7 @@
       <Article Delete="false" Hide="false" Num="136">
         <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
         <ArticleTitle>第百三十六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
@@ -180,12 +180,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年一二月一〇日法律第一六五号" Extract="true">
+    <SupplProvision AmendLawId="416165" AmendLawNum="平成一六年一二月一〇日法律第一六五号" Extract="true" Id="47609212-d3b3-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -194,18 +194,18 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true">
+    <SupplProvision AmendLawId="417087" AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true" Id="6227ae84-47dd-11e5-92b2-43af2fd23feb">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、会社法の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二六年六月二七日法律第九一号" Extract="true">
+    <SupplProvision AmendLawId="426091" AmendLawNum="平成二六年六月二七日法律第九一号" Extract="true" Id="a6627d58-d3b2-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、会社法の一部を改正する法律の施行の日から施行する。</Sentence>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Reiwa" Lang="ja" LawType="MinisterialOrdinance" Num="033" Year="02">
+<Law AmendmentId="" AmendmentNum="" Era="Reiwa" Lang="ja" LawType="MinisterialOrdinance" Num="033" Year="02">
   <LawNum>令和二年法務省令第三十三号</LawNum>
   <LawBody>
     <LawTitle>法務局における遺言書の保管等に関する省令</LawTitle>
@@ -36,7 +36,7 @@
         <Article Delete="false" Hide="false" Num="1">
           <ArticleCaption>（遺言書等の持出禁止）</ArticleCaption>
           <ArticleTitle>第一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">法務局における遺言書の保管等に関する法律（以下「法」という。）第四条第一項の申請に係る遺言書、申請書等（法務局における遺言書の保管等に関する政令（以下「令」という。）第十条第一項に規定する申請書等をいう。以下同じ。）、撤回書等（同条第二項に規定する撤回書等をいう。以下同じ。）及び遺言書保管ファイルは、事変を避けるためにする場合を除き、遺言書保管所外に持ち出してはならない。</Sentence>
@@ -47,7 +47,7 @@
         <Article Delete="false" Hide="false" Num="2">
           <ArticleCaption>（裁判所への遺言書等の送付）</ArticleCaption>
           <ArticleTitle>第二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">裁判所から法第四条第一項の申請に係る遺言書、申請書等又は撤回書等を送付すべき命令又は嘱託があったときは、遺言書保管官は、その関係がある部分に限り、送付しなければならない。</Sentence>
@@ -57,7 +57,7 @@
         <Article Delete="false" Hide="false" Num="3">
           <ArticleCaption>（帳簿）</ArticleCaption>
           <ArticleTitle>第三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">遺言書保管所には、次に掲げる帳簿を備えるものとする。</Sentence>
@@ -93,7 +93,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次の各号に掲げる帳簿には、当該各号に定める書類をつづり込むものとする。</Sentence>
@@ -143,7 +143,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">遺言書保管関係帳簿保存簿には、遺言書保管ファイルを除く一切の遺言書保管関係帳簿の保存状況を記載するものとする。</Sentence>
@@ -153,7 +153,7 @@
         <Article Delete="false" Hide="false" Num="4">
           <ArticleCaption>（保存期間）</ArticleCaption>
           <ArticleTitle>第四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次の各号に掲げる帳簿の保存期間は、当該各号に定めるとおりとする。</Sentence>
@@ -218,7 +218,7 @@
         <Article Delete="false" Hide="false" Num="5">
           <ArticleCaption>（遺言書等の廃棄等）</ArticleCaption>
           <ArticleTitle>第五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">遺言書保管所において法第六条第五項（法第七条第三項において準用する場合を含む。）の規定により遺言書を廃棄し若しくは遺言書に係る情報を消去し又は帳簿を廃棄するときは、法務局又は地方法務局の長の認可を受けなければならない。</Sentence>
@@ -228,7 +228,7 @@
         <Article Delete="false" Hide="false" Num="6">
           <ArticleCaption>（記載の文字）</ArticleCaption>
           <ArticleTitle>第六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第四条第四項の申請書、法第六条第三項の請求書その他の遺言書の保管に関する書面に記載する文字は、字画を明確にしなければならない。</Sentence>
@@ -238,13 +238,13 @@
         <Article Delete="false" Hide="false" Num="7">
           <ArticleCaption>（添付書類の省略）</ArticleCaption>
           <ArticleTitle>第七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">同一の遺言書保管所の遺言書保管官に対し、同時に数個の申請等（令第十条第一項に規定する申請等をいう。次条第一項において同じ。）、法第八条第一項の撤回又は閲覧請求等をする場合において、各申請書、各届出書、各撤回書又は各請求書に添付すべき書類に内容が同一であるものがあるときは、一個の申請書、届出書、撤回書又は請求書のみに一通を添付すれば足りる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の場合には、他の各申請書、各届出書、各撤回書又は各請求書にその旨を記載しなければならない。</Sentence>
@@ -254,19 +254,19 @@
         <Article Delete="false" Hide="false" Num="8">
           <ArticleCaption>（添付書類の原本還付）</ArticleCaption>
           <ArticleTitle>第八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">申請等、法第八条第一項の撤回又は閲覧請求等をした者は、申請書、届出書、撤回書又は請求書の添付書類の原本の還付を請求することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定により原本の還付を請求する者は、原本と相違ない旨を記載した謄本を提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">遺言書保管官は、書類を還付したときは、その謄本に原本還付の旨を記載し、これに押印しなければならない。</Sentence>
@@ -279,7 +279,7 @@
         <Article Delete="false" Hide="false" Num="9">
           <ArticleCaption>（遺言書の様式）</ArticleCaption>
           <ArticleTitle>第九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第四条第二項の法務省令で定める様式は、別記第一号様式によるものとする。</Sentence>
@@ -289,7 +289,7 @@
         <Article Delete="false" Hide="false" Num="10">
           <ArticleCaption>（遺言書の保管の申請書の様式）</ArticleCaption>
           <ArticleTitle>第十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第四条第四項の申請書は、別記第二号様式によるものとする。</Sentence>
@@ -299,7 +299,7 @@
         <Article Delete="false" Hide="false" Num="11">
           <ArticleCaption>（遺言書の保管の申請書の記載事項）</ArticleCaption>
           <ArticleTitle>第十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第四条第四項第四号の法務省令で定める事項は、次に掲げる事項とする。</Sentence>
@@ -363,7 +363,7 @@
         <Article Delete="false" Hide="false" Num="12">
           <ArticleCaption>（遺言書の保管の申請書の添付書類）</ArticleCaption>
           <ArticleTitle>第十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第四条第五項の法務省令で定める書類は、次に掲げる書類とする。</Sentence>
@@ -381,7 +381,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第四条第五項に規定する同条第四項第二号に掲げる事項を証明する書類及び前項第一号に掲げる書類で官庁又は公署の作成したものは、その作成後三月以内のものに限る。</Sentence>
@@ -391,7 +391,7 @@
         <Article Delete="false" Hide="false" Num="13">
           <ArticleCaption>（遺言書保管官による本人確認の方法）</ArticleCaption>
           <ArticleTitle>第十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第五条（法第六条第四項及び第八条第三項、令第四条第四項及び第十条第六項並びに第十九条第三項において準用する場合を含む。次条において同じ。）の規定による提示若しくは提出又は説明は、次のいずれかの方法によるものとする。</Sentence>
@@ -413,7 +413,7 @@
         <Article Delete="false" Hide="false" Num="14">
           <ArticleCaption>（申請人を特定するために必要な事項）</ArticleCaption>
           <ArticleTitle>第十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第五条の法務省令で定める事項は、氏名及び出生の年月日又は住所とする。</Sentence>
@@ -423,13 +423,13 @@
         <Article Delete="false" Hide="false" Num="15">
           <ArticleCaption>（保管証）</ArticleCaption>
           <ArticleTitle>第十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">遺言書保管官は、法第四条第一項の申請に基づいて遺言書の保管を開始したときは、遺言者に対し、保管証を交付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の保管証は、別記第三号様式により、次に掲げる事項を記録して作成するものとする。</Sentence>
@@ -451,13 +451,13 @@
         <Article Delete="false" Hide="false" Num="16">
           <ArticleCaption>（保管証の送付の請求）</ArticleCaption>
           <ArticleTitle>第十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">遺言者は、送付に要する費用を納付して、前条第一項の保管証の送付を請求することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の場合における保管証の送付は、遺言者の住所に宛てて、郵便又は民間事業者による信書の送達に関する法律（平成十四年法律第九十九号）第二条第六項に規定する一般信書便事業者若しくは同条第九項に規定する特定信書便事業者による同条第二項に規定する信書便（以下「信書便」という。）によってするものとする。</Sentence>
@@ -467,7 +467,7 @@
         <Article Delete="false" Hide="false" Num="17">
           <ArticleCaption>（保管証の交付を要しない場合）</ArticleCaption>
           <ArticleTitle>第十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">遺言書保管官は、遺言者が、法第四条第一項の申請に基づいて遺言書の保管を開始した時から三月を経過しても保管証を受領しないときは、第十五条第一項の規定にかかわらず、遺言者に対し、保管証を交付することを要しない。</Sentence>
@@ -478,19 +478,19 @@
         <Article Delete="false" Hide="false" Num="18">
           <ArticleCaption>（遺言書の保管の申請の却下の方式）</ArticleCaption>
           <ArticleTitle>第十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">遺言書保管官は、法第四条第一項の申請を却下するときは、決定書を作成して、これを申請人に交付するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の交付は、当該決定書を送付する方法によりすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">遺言書保管官は、法第四条第一項の申請を却下したときは、遺言書及び添付書類を還付するものとする。</Sentence>
@@ -501,26 +501,26 @@
         <Article Delete="false" Hide="false" Num="19">
           <ArticleCaption>（遺言書の保管の申請の取下げ）</ArticleCaption>
           <ArticleTitle>第十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第四条第一項の申請の取下げをしようとする申請人は、その旨を記載した取下書を遺言書保管官に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の取下げは、法第四条第一項の申請に基づいて遺言書の保管が開始された後は、することができない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">申請人が第一項の取下げをするときは、法第四条第一項の申請をした遺言書保管所に自ら出頭して行わなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合においては、法第五条の規定を準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">遺言書保管官は、第一項の取下げがされたときは、遺言書並びに申請書及びその添付書類を還付するものとする。</Sentence>
@@ -531,7 +531,7 @@
         <Article Delete="false" Hide="false" Num="20">
           <ArticleCaption>（遺言書に係る情報の管理の方法）</ArticleCaption>
           <ArticleTitle>第二十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">遺言書保管官は、遺言書に係る情報の管理をするには、第十一条第一号及び第五号に掲げる事項をも遺言書保管ファイルに記録しなければならない。</Sentence>
@@ -544,13 +544,13 @@
         <Article Delete="false" Hide="false" Num="21">
           <ArticleCaption>（遺言者による遺言書の閲覧の請求の方式）</ArticleCaption>
           <ArticleTitle>第二十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第六条第三項の請求書は、別記第四号様式によるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の請求書には、次に掲げる事項を記載しなければならない。</Sentence>
@@ -584,7 +584,7 @@
         <Article Delete="false" Hide="false" Num="22">
           <ArticleCaption>（遺言者による遺言書の閲覧の方法）</ArticleCaption>
           <ArticleTitle>第二十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第六条第二項の規定による遺言書の閲覧は、遺言書保管官又はその指定する職員の面前でさせるものとする。</Sentence>
@@ -594,7 +594,7 @@
         <Article Delete="false" Hide="false" Num="23">
           <ArticleCaption>（遺言者による遺言書保管ファイルの記録の閲覧の請求の方式）</ArticleCaption>
           <ArticleTitle>第二十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第二十一条の規定は、令第四条第三項の請求書について準用する。</Sentence>
@@ -604,7 +604,7 @@
         <Article Delete="false" Hide="false" Num="24">
           <ArticleCaption>（遺言者による遺言書保管ファイルの記録の閲覧の方法）</ArticleCaption>
           <ArticleTitle>第二十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">令第四条第一項の法務省令で定める方法は、遺言書保管ファイルに記録されている次に掲げる事項を出力装置の映像面に表示する方法とする。</Sentence>
@@ -622,7 +622,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第二十二条の規定は、令第四条第一項の規定による遺言書保管ファイルの記録の閲覧について準用する。</Sentence>
@@ -632,13 +632,13 @@
         <Article Delete="false" Hide="false" Num="25">
           <ArticleCaption>（遺言書の保管の申請の撤回の方式）</ArticleCaption>
           <ArticleTitle>第二十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第八条第二項の撤回書は、別記第五号様式によるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の撤回書には、次に掲げる事項を記載しなければならない。</Sentence>
@@ -666,7 +666,7 @@
         <Article Delete="false" Hide="false" Num="26">
           <ArticleCaption>（遺言書の保管の申請の撤回書の添付書類）</ArticleCaption>
           <ArticleTitle>第二十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第四条第四項第二号に掲げる事項に変更がある場合（令第三条第一項の規定により当該変更に係る届出がされている場合を除く。）における法第八条第二項の法務省令で定める書類は、当該変更を証明する書類とする。</Sentence>
@@ -676,13 +676,13 @@
         <Article Delete="false" Hide="false" Num="27">
           <ArticleCaption>（遺言書等の返還の手続）</ArticleCaption>
           <ArticleTitle>第二十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">遺言書保管官は、法第八条第四項の規定により遺言書を遺言者に返還するときは、当該遺言書を受領した旨を記載した受領書と引換えに返還するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">遺言書保管官は、第十二条第一項第二号の翻訳文を保存している場合において、法第八条第四項の規定により遺言書を遺言者に返還するときは、当該翻訳文についても当該遺言者に返還するものとする。</Sentence>
@@ -693,13 +693,13 @@
         <Article Delete="false" Hide="false" Num="28">
           <ArticleCaption>（遺言者の住所等の変更の届出の方式）</ArticleCaption>
           <ArticleTitle>第二十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">令第三条第三項（第三十条第二項において準用する場合を含む。）の届出書は、別記第六号様式によるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の届出書には、次に掲げる事項を記載しなければならない。</Sentence>
@@ -745,7 +745,7 @@
         <Article Delete="false" Hide="false" Num="29">
           <ArticleCaption>（遺言者の住所等の変更の届出書の添付書類）</ArticleCaption>
           <ArticleTitle>第二十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">令第三条第三項（次条第二項において準用する場合を含む。）の法務省令で定める書類は、次に掲げる書類とする。</Sentence>
@@ -773,13 +773,13 @@
         <Article Delete="false" Hide="false" Num="30">
           <ArticleCaption>（その他の変更の届出）</ArticleCaption>
           <ArticleTitle>第三十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">遺言者は、法第四条第一項の申請に係る遺言書が遺言書保管所に保管されている場合において、第十一条第一号又は第五号に掲げる事項に変更が生じたときは、その旨を遺言書保管官に届け出るものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">令第三条第二項及び第三項の規定は、前項の届出について準用する。</Sentence>
@@ -789,13 +789,13 @@
         <Article Delete="false" Hide="false" Num="31">
           <ArticleCaption>（遺言者による申請書等の閲覧の請求の方式）</ArticleCaption>
           <ArticleTitle>第三十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">令第十条第一項及び第二項の請求に係る同条第五項の請求書は、別記第七号様式によるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の請求書には、次に掲げる事項を記載しなければならない。</Sentence>
@@ -841,7 +841,7 @@
         <Article Delete="false" Hide="false" Num="32">
           <ArticleCaption>（遺言者による申請書等の閲覧の方法）</ArticleCaption>
           <ArticleTitle>第三十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第二十二条の規定は、令第十条第一項及び第二項の規定による申請書等及び撤回書等の閲覧について準用する。</Sentence>
@@ -854,13 +854,13 @@
         <Article Delete="false" Hide="false" Num="33">
           <ArticleCaption>（関係相続人等による遺言書情報証明書の交付の請求の方式）</ArticleCaption>
           <ArticleTitle>第三十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第九条第一項の請求に係る同条第四項の請求書は、別記第八号様式によるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の請求書には、次に掲げる事項を記載しなければならない。</Sentence>
@@ -920,7 +920,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次の各号に掲げる場合は、当該各号に掲げる事項の記載を要しない。</Sentence>
@@ -963,7 +963,7 @@
         <Article Delete="false" Hide="false" Num="34">
           <ArticleCaption>（関係相続人等による遺言書情報証明書の交付の請求書の添付書類）</ArticleCaption>
           <ArticleTitle>第三十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第九条第一項の請求に係る同条第四項の法務省令で定める書類は、次に掲げる書類とする。</Sentence>
@@ -1011,7 +1011,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の請求に係る遺言書について、既に遺言書情報証明書の交付がされ又は関係相続人等による閲覧がされている場合には、同項第一号及び第二号に掲げる書類の添付を要しない。</Sentence>
@@ -1021,7 +1021,7 @@
         <Article Delete="false" Hide="false" Num="35">
           <ArticleCaption>（遺言書情報証明書の作成方法）</ArticleCaption>
           <ArticleTitle>第三十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">遺言書情報証明書を作成するには、遺言書保管官は、次に掲げる事項を記載した書面の末尾に認証文を付した上で、作成の年月日及び職氏名を記載し、職印を押さなければならない。</Sentence>
@@ -1043,7 +1043,7 @@
         <Article Delete="false" Hide="false" Num="36">
           <ArticleCaption>（遺言書情報証明書の交付の方法）</ArticleCaption>
           <ArticleTitle>第三十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">遺言書保管官は、次に掲げる方法によって遺言書情報証明書を交付しなければならない。</Sentence>
@@ -1065,13 +1065,13 @@
         <Article Delete="false" Hide="false" Num="37">
           <ArticleCaption>（関係相続人等による遺言書の閲覧の請求の方式）</ArticleCaption>
           <ArticleTitle>第三十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第九条第三項の請求に係る同条第四項の請求書は、別記第九号様式によるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第三十三条第二項（第六号を除く。）及び第三項の規定は、前項の請求書について準用する。</Sentence>
@@ -1081,7 +1081,7 @@
         <Article Delete="false" Hide="false" Num="38">
           <ArticleCaption>（関係相続人等による遺言書の閲覧の請求書の添付書類）</ArticleCaption>
           <ArticleTitle>第三十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第三十四条の規定は、法第九条第三項の請求に係る同条第四項の法務省令で定める書類について準用する。</Sentence>
@@ -1091,13 +1091,13 @@
         <Article Delete="false" Hide="false" Num="39">
           <ArticleCaption>（関係相続人等による遺言書の閲覧の方法）</ArticleCaption>
           <ArticleTitle>第三十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">遺言書保管官は、第十三条各号に掲げる方法により請求人、その法定代理人又は請求人が法人であるときはその代表者が本人であることを確認して、法第九条第三項の規定による閲覧をさせなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第二十二条の規定は、法第九条第三項の規定による遺言書の閲覧について準用する。</Sentence>
@@ -1107,7 +1107,7 @@
         <Article Delete="false" Hide="false" Num="40">
           <ArticleCaption>（関係相続人等による遺言書保管ファイルの記録の閲覧の請求の方式）</ArticleCaption>
           <ArticleTitle>第四十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第三十七条の規定は、令第九条第三項の請求書について準用する。</Sentence>
@@ -1117,7 +1117,7 @@
         <Article Delete="false" Hide="false" Num="41">
           <ArticleCaption>（関係相続人等による遺言書保管ファイルの記録の閲覧の請求書の添付書類）</ArticleCaption>
           <ArticleTitle>第四十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第三十四条の規定は、令第九条第三項の法務省令で定める書類について準用する。</Sentence>
@@ -1127,7 +1127,7 @@
         <Article Delete="false" Hide="false" Num="42">
           <ArticleCaption>（関係相続人等による遺言書保管ファイルの記録の閲覧の方法）</ArticleCaption>
           <ArticleTitle>第四十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第二十四条及び第三十九条第一項の規定は、令第九条第一項の規定による遺言書保管ファイルの記録の閲覧について準用する。</Sentence>
@@ -1137,13 +1137,13 @@
         <Article Delete="false" Hide="false" Num="43">
           <ArticleCaption>（遺言書保管事実証明書の交付の請求の方式）</ArticleCaption>
           <ArticleTitle>第四十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第十条第二項において準用する法第九条第四項の請求書は、別記第十号様式によるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第三十三条第二項（第五号を除く。）の規定は、前項の請求書について準用する。</Sentence>
@@ -1153,7 +1153,7 @@
         <Article Delete="false" Hide="false" Num="44">
           <ArticleCaption>（遺言書保管事実証明書の交付の請求書の添付書類）</ArticleCaption>
           <ArticleTitle>第四十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第十条第二項において準用する法第九条第四項の法務省令で定める書類は、次に掲げる書類とする。</Sentence>
@@ -1195,7 +1195,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">請求人が第四十八条第二項の書面の写しを添付したときは、前条第二項において準用する第三十三条第二項第四号に掲げる事項のうち遺言者の最後の住所、本籍及び死亡の年月日の記載を要せず、かつ、前項第一号に掲げる書類の添付を要しない。</Sentence>
@@ -1205,7 +1205,7 @@
         <Article Delete="false" Hide="false" Num="45">
           <ArticleCaption>（遺言書保管事実証明書の作成方法）</ArticleCaption>
           <ArticleTitle>第四十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">遺言書保管事実証明書を作成するには、遺言書保管官は、次に掲げる事項を記載した書面の末尾に認証文を付した上で、作成の年月日及び職氏名を記載し、職印を押さなければならない。</Sentence>
@@ -1239,7 +1239,7 @@
         <Article Delete="false" Hide="false" Num="46">
           <ArticleCaption>（遺言書保管事実証明書の交付の方法）</ArticleCaption>
           <ArticleTitle>第四十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第三十六条の規定は、法第十条第一項の規定による遺言書保管事実証明書の交付について準用する。</Sentence>
@@ -1249,7 +1249,7 @@
         <Article Delete="false" Hide="false" Num="47">
           <ArticleCaption>（令第七条第八号の法務省令で定める者）</ArticleCaption>
           <ArticleTitle>第四十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">令第七条第八号の法務省令で定める者は、次に掲げる者とする。</Sentence>
@@ -1277,20 +1277,20 @@
         <Article Delete="false" Hide="false" Num="48">
           <ArticleCaption>（関係遺言書保管通知）</ArticleCaption>
           <ArticleTitle>第四十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">遺言書保管官は、法第九条第五項本文の場合又は令第九条第四項本文の場合には、速やかに、関係遺言書を保管している旨を当該関係遺言書に記載された法第九条第一項第二号（イを除く。）及び第三号（イを除く。）に掲げる者にも通知するものとする。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、それらの者が既にこれを知っているときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第九条第五項、令第九条第四項及び前項の通知は、関係遺言書を現に保管する遺言書保管所の遺言書保管官が、郵便又は信書便により書面を送付する方法により行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の遺言書保管所以外の遺言書保管所の遺言書保管官は、法第九条第一項の請求により遺言書情報証明書を交付し又は令第九条第一項の請求により遺言書保管ファイルに記録された事項を表示したものの閲覧をさせたときは、遅滞なく、その旨を前項の遺言書保管所に通知しなければならない。</Sentence>
@@ -1300,13 +1300,13 @@
         <Article Delete="false" Hide="false" Num="49">
           <ArticleCaption>（関係相続人等による申請書等の閲覧の請求の方式）</ArticleCaption>
           <ArticleTitle>第四十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">令第十条第三項及び第四項の請求に係る同条第五項の請求書は、別記第十一号様式によるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の請求書には、次に掲げる事項を記載しなければならない。</Sentence>
@@ -1334,7 +1334,7 @@
         <Article Delete="false" Hide="false" Num="50">
           <ArticleCaption>（関係相続人等による申請書等の閲覧の請求書の添付書類）</ArticleCaption>
           <ArticleTitle>第五十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第四十四条の規定は、令第十条第三項又は第四項の請求に係る同条第五項の法務省令で定める書類について準用する。</Sentence>
@@ -1344,7 +1344,7 @@
         <Article Delete="false" Hide="false" Num="51">
           <ArticleCaption>（関係相続人等による申請書等の閲覧の方法）</ArticleCaption>
           <ArticleTitle>第五十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第三十九条の規定は、令第十条第三項及び第四項の規定による申請書等及び撤回書等の閲覧について準用する。</Sentence>
@@ -1357,19 +1357,19 @@
         <Article Delete="false" Hide="false" Num="52">
           <ArticleCaption>（手数料等の納付の方法）</ArticleCaption>
           <ArticleTitle>第五十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第十二条第二項（令第四条第五項、第九条第五項及び第十条第七項において準用する場合を含む。）の手数料の納付は、別記第十二号様式による手数料納付用紙に、当該手数料の額に相当する収入印紙を貼ってしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">令第六条及び第十六条第一項の送付に要する費用は、郵便切手又は信書便の役務に関する料金の支払のために使用することができる証票であって法務大臣の指定するもので納付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の指定は、告示してしなければならない。</Sentence>
@@ -1383,7 +1383,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、法の施行の日（令和二年七月十日）から施行する。</Sentence>
@@ -1393,7 +1393,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行前に作成された遺言書（長辺方向の余白がいずれも二十ミリメートル以上のものに限る。）については、この省令の施行の日から六月を経過する日までの間は、別記第一号様式備考第一号の規定中「日本産業規格Ａ列四番」とあるのは「日本産業規格Ａ列五番以上Ａ列四番以下」と読み替えるものとし、同様式備考第四号の規定は適用しない。</Sentence>

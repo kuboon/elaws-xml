@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="016" Year="24">
+<Law AmendmentId="502M60000800016" AmendmentNum="令和二年国土交通省令第十六号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="016" Year="24">
   <LawNum>昭和二十四年建設省令第十六号</LawNum>
   <LawBody>
     <LawTitle>測量法施行規則</LawTitle>
@@ -8,7 +8,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（測量標の形状）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">測量法（以下「法」という。）第十条第二項に規定する測量標の形状は、別表第一のとおりとする。</Sentence>
@@ -18,7 +18,7 @@
       <Article Delete="false" Hide="false" Num="1_2">
         <ArticleCaption>（土地の立入りの身分証明書の様式）</ArticleCaption>
         <ArticleTitle>第一条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第十五条第四項（法第三十九条において準用する場合を含む。）の規定による証明書の様式は、別表第一の二のとおりとする。</Sentence>
@@ -28,7 +28,7 @@
       <Article Delete="false" Hide="false" Num="1_3">
         <ArticleCaption>（収用委員会に対する裁決申請書の様式）</ArticleCaption>
         <ArticleTitle>第一条の三</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">測量法施行令（以下「令」という。）第四条の国土交通省令で定める様式は、別表第一の三のとおりとする。</Sentence>
@@ -38,7 +38,7 @@
       <Article Delete="false" Hide="false" Num="1_4">
         <ArticleCaption>（永久標識又は一時標識を設置したときの通知事項及び公表事項）</ArticleCaption>
         <ArticleTitle>第一条の四</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第二十一条第一項（法第三十九条において読み替えて準用する場合を含む。）の国土交通省令で定める事項は、永久標識又は一時標識を設置した年月日とする。</Sentence>
@@ -48,7 +48,7 @@
       <Article Delete="false" Hide="false" Num="1_5">
         <ArticleCaption>（永久標識又は一時標識を移転したとき等の通知事項及び公表事項）</ArticleCaption>
         <ArticleTitle>第一条の五</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第二十三条第一項（法第三十九条において読み替えて準用する場合を含む。）の国土交通省令で定める事項は、永久標識又は一時標識の移転、撤去又は廃棄の別及びその年月日並びに移転後の所在地とする。</Sentence>
@@ -58,7 +58,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（測量標又は測量成果の使用承認申請書の様式）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第二十六条及び法第三十条の規定により承認を得ようとする者は、別表第二の様式による申請書を国土地理院の長に提出しなければならない。</Sentence>
@@ -68,7 +68,7 @@
       <Article Delete="false" Hide="false" Num="2_2">
         <ArticleCaption>（法第二十七条第二項の国土交通省令で定める電磁的方法）</ArticleCaption>
         <ArticleTitle>第二条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第二十七条第二項の国土交通省令で定める電磁的方法は、国土地理院の使用に係る電子計算機と情報の提供を受ける者の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織を使用する方法であつて、当該電気通信回線を通じて情報が送信され、当該情報の提供を受ける者の使用に係る電子計算機に備えられたファイルに当該情報が記録されるもののうち、インターネットに接続された自動公衆送信装置（公衆の用に供する電気通信回線に接続することにより、その記録媒体のうち自動公衆送信（公衆によつて直接受信されることを目的として公衆からの求めに応じ自動的に送信を行うことをいい、放送又は有線放送に該当するものを除く。以下この条において同じ。）の用に供する部分に記録され、又は当該装置に入力される情報を自動公衆送信する機能を有する装置をいう。）を使用する方法とする。</Sentence>
@@ -78,19 +78,19 @@
       <Article Delete="false" Hide="false" Num="2_3">
         <ArticleCaption>（基本測量の測量成果等の閲覧）</ArticleCaption>
         <ArticleTitle>第二条の三</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">国土地理院の長は、法第二十七条第三項（法第四十五条第一項において準用する場合を含む。）の規定により測量成果及び測量記録を一般の閲覧に供するため、測量成果及び測量記録閲覧所（以下「閲覧所」という。）を設けなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">国土地理院の長は、前項の規定により閲覧所を設けたときは、当該閲覧所の閲覧規則を定めるとともに、当該閲覧所の場所及び閲覧規則を公告しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前二項の規定は、法第四十二条第一項に規定する測量成果の写し及び測量記録の写しの閲覧に準用する。</Sentence>
@@ -100,13 +100,13 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（基本測量の測量成果等の謄抄本交付の手続）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第二十八条第一項（法第四十五条第一項において準用する場合を含む。）の規定により測量成果及び測量記録の謄本又は抄本の交付を受けようとする者は、別表第三の様式による申請書を国土地理院の長に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定は、法第四十二条第二項に規定する測量成果の写し及び測量記録の写しの謄本又は抄本の交付に準用する。</Sentence>
@@ -116,7 +116,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（法第二十九条の国土交通省令で定める電磁的方法等）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第二十九条、法第三十条第四項、法第四十三条及び法第四十四条第四項の国土交通省令で定める電磁的方法は、電子情報処理組織を使用する方法のうち、次の各号のいずれかに該当するものとする。</Sentence>
@@ -144,7 +144,7 @@
       <Article Delete="false" Hide="false" Num="4_2">
         <ArticleCaption>（測量成果の複製承認申請書の様式）</ArticleCaption>
         <ArticleTitle>第四条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第二十九条の規定により承認を得ようとする者は、別表第四の様式による申請書を国土地理院の長に提出しなければならない。</Sentence>
@@ -154,7 +154,7 @@
       <Article Delete="false" Hide="false" Num="4_3">
         <ArticleCaption>（作業規程に定める事項）</ArticleCaption>
         <ArticleTitle>第四条の三</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第三十三条第一項の国土交通省令で定める事項は、次に掲げるものとする。</Sentence>
@@ -218,7 +218,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（法第三十六条の計画書の様式）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第三十六条の規定による計画書の様式は、別表第五のとおりとする。</Sentence>
@@ -228,13 +228,13 @@
       <Article Delete="false" Hide="false" Num="5_2">
         <ArticleCaption>（永久標識を設置したとき等の通知事項）</ArticleCaption>
         <ArticleTitle>第五条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第三十七条第三項の国土交通省令で定める事項は、永久標識を設置した年月日とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第三十七条第四項の国土交通省令で定める事項は、永久標識の移転、撤去又は廃棄の別及びその年月日並びに移転後の所在地とする。</Sentence>
@@ -244,7 +244,7 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（基本測量及び公共測量以外の測量に関する届出書の様式）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第四十六条第一項の規定により届出をしようとする者は、別表第六の様式による届出書を国土交通大臣に提出しなければならない。</Sentence>
@@ -254,7 +254,7 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（測量士及び測量士補の登録申請書の様式）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">令第十条第二項の規定による登録申請書の様式は、別表第七のとおりとする。</Sentence>
@@ -264,7 +264,7 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（資格を証する書類）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第四十九条第一項の規定による測量士又は測量士補の資格を証する書類は、次の各号のいずれかとする。</Sentence>
@@ -294,7 +294,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十条第一号から第三号までの規定により測量に関し実務の経験を必要とする者の提出する書類は、前項の書類及び令第十条第一項第四号に規定する実務の経歴を証する書面又は別表第八の様式による経歴の記載が真実であることを誓約する書面とする。</Sentence>
@@ -304,7 +304,7 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（測量士名簿及び測量士補名簿の様式）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">令第十一条第二項の規定による測量士名簿及び測量士補名簿の様式は、別表第九のとおりとする。</Sentence>
@@ -314,7 +314,7 @@
       <Article Delete="false" Hide="false" Num="9_2">
         <ArticleCaption>（登録の申請）</ArticleCaption>
         <ArticleTitle>第九条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十条第三号又は第四号の登録（以下この条（第三号を除く。）において「登録」という。）を受けようとする者は、次に掲げる事項を記載した申請書を国土交通大臣に提出しなければならない。</Sentence>
@@ -368,7 +368,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の申請書には、次に掲げる書類を添付しなければならない。</Sentence>
@@ -426,7 +426,7 @@
       <Article Delete="false" Hide="false" Num="9_3">
         <ArticleCaption>（登録養成施設登録簿の記載事項）</ArticleCaption>
         <ArticleTitle>第九条の三</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の四第二項第五号の国土交通省令で定める事項は、次に掲げるものとする。</Sentence>
@@ -448,7 +448,7 @@
       <Article Delete="false" Hide="false" Num="9_4">
         <ArticleCaption>（登録の更新）</ArticleCaption>
         <ArticleTitle>第九条の四</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前二条の規定は、法第五十一条の七第一項の登録の更新について準用する。</Sentence>
@@ -458,7 +458,7 @@
       <Article Delete="false" Hide="false" Num="9_5">
         <ArticleCaption>（養成業務の実施基準）</ArticleCaption>
         <ArticleTitle>第九条の五</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の八の国土交通省令で定める基準は、次のとおりとする。</Sentence>
@@ -529,7 +529,7 @@
       <Article Delete="false" Hide="false" Num="9_6">
         <ArticleCaption>（業務規程の記載事項）</ArticleCaption>
         <ArticleTitle>第九条の六</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十第二項の国土交通省令で定める事項は、次に掲げるものとする。</Sentence>
@@ -565,7 +565,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項第二号の養成業務の実施方法には、少なくとも、次に掲げる事項を定めておかなければならない。</Sentence>
@@ -599,7 +599,7 @@
       <Article Delete="false" Hide="false" Num="9_7">
         <ArticleCaption>（養成業務の休廃止の届出）</ArticleCaption>
         <ArticleTitle>第九条の七</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">登録養成施設設置者は、法第五十一条の十一の規定により養成業務の全部又は一部を休止し、又は廃止しようとするときは、次に掲げる事項を記載した届出書を国土交通大臣に提出しなければならない。</Sentence>
@@ -633,7 +633,7 @@
       <Article Delete="false" Hide="false" Num="9_8">
         <ArticleCaption>（電磁的記録に記録された事項を表示する方法）</ArticleCaption>
         <ArticleTitle>第九条の八</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十二第二項第三号の国土交通省令で定める方法は、当該電磁的記録に記録された事項を紙面又は出力装置の映像等に表示する方法とする。</Sentence>
@@ -643,7 +643,7 @@
       <Article Delete="false" Hide="false" Num="9_9">
         <ArticleCaption>（電磁的記録に記録された事項を提供するための方法）</ArticleCaption>
         <ArticleTitle>第九条の九</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十二第二項第四号の国土交通省令で定める方法は、次に掲げるもののうち、登録養成施設設置者が定めるものとする。</Sentence>
@@ -661,7 +661,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項各号に掲げる方法は、受信者がファイルへの記録を出力することによる書面を作成することができるものでなければならない。</Sentence>
@@ -671,7 +671,7 @@
       <Article Delete="false" Hide="false" Num="9_10">
         <ArticleCaption>（帳簿）</ArticleCaption>
         <ArticleTitle>第九条の十</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十六の養成業務に関し国土交通省令で定める事項は、次に掲げるものとする。</Sentence>
@@ -695,13 +695,13 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項各号に掲げる事項が、電子計算機に備えられたファイル又は磁気ディスク等に記録され、必要に応じ登録養成施設において電子計算機その他の機器を用いて明確に紙面に表示されるときは、当該記録をもつて法第五十一条の十六に規定する帳簿への記載に代えることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">登録養成施設設置者は、法第五十一条の十六に規定する帳簿（前項の規定による記録が行われた同項のファイル又は磁気ディスク等を含む。）を、養成業務の全部を廃止するまで保存しなければならない。</Sentence>
@@ -711,7 +711,7 @@
       <Article Delete="false" Hide="false" Num="9_11">
         <ArticleCaption>（登録養成施設の立入りの身分証明書の様式）</ArticleCaption>
         <ArticleTitle>第九条の十一</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十八第二項の規定による証明書の様式は、別表第九の六のとおりとする。</Sentence>
@@ -721,7 +721,7 @@
       <Article Delete="false" Hide="false" Num="10">
         <ArticleCaption>（受験願書並びに履歴書及び写真の様式）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">令第二十二条の規定による受験願書の様式は、別表第十のとおりとし、履歴書及び写真の様式は、別表第十の二のとおりとする。</Sentence>
@@ -731,7 +731,7 @@
       <Article Delete="false" Hide="false" Num="11">
         <ArticleCaption>（更新の登録の申請）</ArticleCaption>
         <ArticleTitle>第十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十五条第三項の規定により更新の登録を受けようとする者は、有効期間満了の日の九十日前から三十日前までの間に登録申請書を提出しなければならない。</Sentence>
@@ -741,7 +741,7 @@
       <Article Delete="false" Hide="false" Num="12">
         <ArticleCaption>（測量業者の登録申請書の様式）</ArticleCaption>
         <ArticleTitle>第十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十五条の二の規定による登録申請書の様式は、別表第十一のとおりとする。</Sentence>
@@ -751,7 +751,7 @@
       <Article Delete="false" Hide="false" Num="13">
         <ArticleCaption>（添付書類）</ArticleCaption>
         <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十五条の三第三号に規定する国土交通省令で定める財務に関する書類は、次の各号に掲げるものとする。</Sentence>
@@ -775,7 +775,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更新の登録を申請する者は、前項各号に掲げる書類の提出を省略することができる。</Sentence>
@@ -785,13 +785,13 @@
       <Article Delete="false" Hide="false" Num="14">
         <ArticleCaption>（添付書類の様式）</ArticleCaption>
         <ArticleTitle>第十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十五条の三の規定による添付書類（定款並びに前条第一項第一号及び第三号に規定する書類を除く。）の様式は、別表第十二のとおりとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前条第一項第一号に規定する財務に関する事項を記載した一覧表の様式は、別表第十三のとおりとする。</Sentence>
@@ -801,7 +801,7 @@
       <Article Delete="false" Hide="false" Num="15">
         <ArticleCaption>（変更登録申請書の様式）</ArticleCaption>
         <ArticleTitle>第十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十五条の七第二項の規定による申請書の様式は、別表第十四のとおりとする。</Sentence>
@@ -811,7 +811,7 @@
       <Article Delete="false" Hide="false" Num="16">
         <ArticleCaption>（書類の提出）</ArticleCaption>
         <ArticleTitle>第十六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十五条第一項の規定により登録を受けようとする者、同条第三項の規定により更新の登録を受けようとする者、法第五十五条の七第一項の規定により変更登録の申請をしようとする者又は法第五十五条の八第一項若しくは第二項の規定により書類を提出しようとする者は、関係書類正本一通及び営業所のある都道府県の数と同一の部数のその写しを、法第五十五条の九第一項又は第二項の規定により届出をしようとする者は、届出書一通を提出しなければならない。</Sentence>
@@ -820,7 +820,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="16_2">
         <ArticleTitle>第十六条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -829,7 +829,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="16_3">
         <ArticleTitle>第十六条の三</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -838,7 +838,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="16_4">
         <ArticleTitle>第十六条の四</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -847,7 +847,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="16_5">
         <ArticleTitle>第十六条の五</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -857,7 +857,7 @@
       <Article Delete="false" Hide="false" Num="16_6">
         <ArticleCaption>（一括下請負の承諾に係る電磁的方法）</ArticleCaption>
         <ArticleTitle>第十六条の六</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十六条の二第三項の国土交通省令で定める電磁的方法は、次に掲げるものとする。</Sentence>
@@ -887,13 +887,13 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項に掲げる方法は、元請負人がファイルへの記録を出力することによる書面を作成することができるものでなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項第一号の「電子情報処理組織」とは、注文者の使用に係る電子計算機と、元請負人の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。</Sentence>
@@ -902,7 +902,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="16_7">
         <ArticleTitle>第十六条の七</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">令第二十八条の二第一項の規定により示すべき電磁的方法の種類及び内容は、次に掲げる事項とする。</Sentence>
@@ -920,7 +920,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">令第二十八条の二第一項の承諾又は同条第二項の申出（以下この項において「承諾等」という。）をする場合に用いる電磁的方法は、次に掲げるものとする。</Sentence>
@@ -954,7 +954,7 @@
       <Article Delete="false" Hide="false" Num="16_8">
         <ArticleCaption>（下請負人の選定の承諾に係る電磁的方法）</ArticleCaption>
         <ArticleTitle>第十六条の八</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十六条の四第二項の国土交通省令で定める電磁的方法は、次に掲げるものとする。</Sentence>
@@ -984,13 +984,13 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項に掲げる方法は、下請負人選定者がファイルへの記録を出力することによる書面を作成することができるものでなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項第一号の「電子情報処理組織」とは、注文者の使用に係る電子計算機と、下請負人選定者の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。</Sentence>
@@ -999,7 +999,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="16_9">
         <ArticleTitle>第十六条の九</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">令第二十八条の三第一項の規定により示すべき電磁的方法の種類及び内容は、次に掲げる事項とする。</Sentence>
@@ -1017,7 +1017,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">令第二十八条の三第一項の承諾又は同条第二項の申出（以下この項において「承諾等」という。）をする場合に用いる電磁的方法は、次に掲げるものとする。</Sentence>
@@ -1051,7 +1051,7 @@
       <Article Delete="false" Hide="false" Num="17">
         <ArticleCaption>（標識の掲示）</ArticleCaption>
         <ArticleTitle>第十七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十六条の五の規定により測量業者の掲げる標識は、別表第十五のとおりとする。</Sentence>
@@ -1061,7 +1061,7 @@
       <Article Delete="false" Hide="false" Num="18">
         <ArticleCaption>（営業所等の立入りの身分証明書の様式）</ArticleCaption>
         <ArticleTitle>第十八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十七条の三第二項に規定する身分を示す証明書の様式は、別表第十六のとおりとする。</Sentence>
@@ -1071,7 +1071,7 @@
       <Article Delete="false" Hide="false" Num="19">
         <ArticleCaption>（権限の委任）</ArticleCaption>
         <ArticleTitle>第十九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">法第六章及び令第二十八条に規定する国土交通大臣の権限は、測量業者又は法第五十五条第一項の規定により登録を受けようとする者の主たる営業所の所在地を管轄する地方整備局長及び北海道開発局長に委任する。</Sentence>
@@ -1082,248 +1082,248 @@
     </MainProvision>
     <SupplProvision Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、測量法施行の日（昭和二十四年九月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和二五年二月二二日建設省令第五号" Extract="false">
+    <SupplProvision AmendLawId="325005" AmendLawNum="昭和二五年二月二二日建設省令第五号" Extract="false" Id="e3b98164-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和二六年二月一〇日建設省令第三号" Extract="false">
+    <SupplProvision AmendLawId="326003" AmendLawNum="昭和二六年二月一〇日建設省令第三号" Extract="false" Id="e3d424c4-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和二七年四月一日建設省令第八号" Extract="false">
+    <SupplProvision AmendLawId="327008" AmendLawNum="昭和二七年四月一日建設省令第八号" Extract="false" Id="e3ef1324-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和二八年一二月八日建設省令第三三号" Extract="false">
+    <SupplProvision AmendLawId="328033" AmendLawNum="昭和二八年一二月八日建設省令第三三号" Extract="false" Id="e409a7d4-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行し、昭和二十八年十二月一日から適用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三三年二月一日建設省令第四号" Extract="false">
+    <SupplProvision AmendLawId="333004" AmendLawNum="昭和三三年二月一日建設省令第四号" Extract="false" Id="e4243612-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三三年六月三日建設省令第一九号" Extract="false">
+    <SupplProvision AmendLawId="333019" AmendLawNum="昭和三三年六月三日建設省令第一九号" Extract="false" Id="e43eea7a-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の際現に設置されている測量標は、この省令に基いて設置したものとみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三五年七月一日建設省令第一一号" Extract="false">
+    <SupplProvision AmendLawId="335011" AmendLawNum="昭和三五年七月一日建設省令第一一号" Extract="false" Id="e45979da-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の際、この省令による改正前の測量法施行規則に基づき現に設置されている測量標は、この省令による改正後の測量法施行規則に基づいて設置されたものとみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三六年六月一日建設省令第一九号" Extract="false">
+    <SupplProvision AmendLawId="336019" AmendLawNum="昭和三六年六月一日建設省令第一九号" Extract="false" Id="e47429ba-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三六年一一月三〇日建設省令第三四号" Extract="false">
+    <SupplProvision AmendLawId="336034" AmendLawNum="昭和三六年一一月三〇日建設省令第三四号" Extract="false" Id="e48edd6e-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四二年八月一日建設省令第二〇号" Extract="false">
+    <SupplProvision AmendLawId="342020" AmendLawNum="昭和四二年八月一日建設省令第二〇号" Extract="false" Id="a9e69a6e-d3c5-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四三年一月三〇日建設省令第一号" Extract="true">
+    <SupplProvision AmendLawId="343001" AmendLawNum="昭和四三年一月三〇日建設省令第一号" Extract="true" Id="e4c44e54-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の際、この省令による改正前の測量法施行規則に基づき現に設置されている測量標は、この省令による改正後の測量法施行規則に基づいて設置されたものとみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五一年一月二八日建設省令第一号" Extract="false">
+    <SupplProvision AmendLawId="351001" AmendLawNum="昭和五一年一月二八日建設省令第一号" Extract="false" Id="e4deea48-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和五十一年二月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五三年四月二五日建設省令第八号" Extract="false">
+    <SupplProvision AmendLawId="353008" AmendLawNum="昭和五三年四月二五日建設省令第八号" Extract="false" Id="e4f979d0-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和五十三年五月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五五年四月一五日建設省令第四号" Extract="false">
+    <SupplProvision AmendLawId="355004" AmendLawNum="昭和五五年四月一五日建設省令第四号" Extract="false" Id="e5143bf8-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和五十五年四月十六日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五六年五月二二日建設省令第七号" Extract="false">
+    <SupplProvision AmendLawId="356007" AmendLawNum="昭和五六年五月二二日建設省令第七号" Extract="false" Id="e52edc88-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和五十六年六月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五八年五月二八日建設省令第六号" Extract="false">
+    <SupplProvision AmendLawId="358006" AmendLawNum="昭和五八年五月二八日建設省令第六号" Extract="false" Id="e549838a-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和五十八年六月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五八年一二月二三日建設省令第二一号" Extract="false">
+    <SupplProvision AmendLawId="358021" AmendLawNum="昭和五八年一二月二三日建設省令第二一号" Extract="false" Id="e56420c8-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和五十九年三月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五九年五月一五日建設省令第八号" Extract="false">
+    <SupplProvision AmendLawId="359008" AmendLawNum="昭和五九年五月一五日建設省令第八号" Extract="false" Id="e57ec130-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和五十九年五月二十一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和六一年二月八日建設省令第一号" Extract="false">
+    <SupplProvision AmendLawId="361001" AmendLawNum="昭和六一年二月八日建設省令第一号" Extract="false" Id="e599624c-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和六十一年三月二十四日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和六二年四月一日建設省令第八号" Extract="false">
+    <SupplProvision AmendLawId="362008" AmendLawNum="昭和六二年四月一日建設省令第八号" Extract="false" Id="e5b405b6-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和六二年一二月五日建設省令第二八号" Extract="false">
+    <SupplProvision AmendLawId="362028" AmendLawNum="昭和六二年一二月五日建設省令第二八号" Extract="false" Id="e5cebec4-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成元年三月二七日建設省令第三号" Extract="false">
+    <SupplProvision AmendLawId="401003" AmendLawNum="平成元年三月二七日建設省令第三号" Extract="false" Id="a19cfade-d3c4-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三年二月一三日建設省令第二号" Extract="false">
+    <SupplProvision AmendLawId="403002" AmendLawNum="平成三年二月一三日建設省令第二号" Extract="false" Id="e603ea0e-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成六年一月一九日建設省令第一号" Extract="false">
+    <SupplProvision AmendLawId="406001" AmendLawNum="平成六年一月一九日建設省令第一号" Extract="false" Id="e61e7c48-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -1331,41 +1331,41 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成八年一二月九日建設省令第一七号" Extract="false">
+    <SupplProvision AmendLawId="408017" AmendLawNum="平成八年一二月九日建設省令第一七号" Extract="false" Id="e6391a6c-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の際現に設置されている測量標は、この省令による改正後の測量法施行規則に基づいて設置したものとみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">別表第一の二から別表第十までの様式については、平成九年三月三十一日までの間は、なお従前の例によることができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一一年四月一五日建設省令第一二号" Extract="false">
+    <SupplProvision AmendLawId="411012" AmendLawNum="平成一一年四月一五日建設省令第一二号" Extract="false" Id="e653bc96-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年一一月二〇日建設省令第四一号" Extract="true">
+    <SupplProvision AmendLawId="412041" AmendLawNum="平成一二年一一月二〇日建設省令第四一号" Extract="true" Id="7a55a4b2-f352-11e6-941f-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -1373,52 +1373,52 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年三月二六日国土交通省令第四二号" Extract="false">
+    <SupplProvision AmendLawId="413042" AmendLawNum="平成一三年三月二六日国土交通省令第四二号" Extract="false" Id="a9f89a8e-d3c5-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、書面の交付等に関する情報通信の技術の利用のための関係法律の整備に関する法律の施行の日（平成十三年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年三月三〇日国土交通省令第七二号" Extract="false">
+    <SupplProvision AmendLawId="413072" AmendLawNum="平成一三年三月三〇日国土交通省令第七二号" Extract="false" Id="81967f6c-d3b5-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十三年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年七月一七日国土交通省令第一〇九号" Extract="false">
+    <SupplProvision AmendLawId="413109" AmendLawNum="平成一三年七月一七日国土交通省令第一〇九号" Extract="false" Id="e6be7b94-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十三年八月十五日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一四年三月二七日国土交通省令第二七号" Extract="false">
+    <SupplProvision AmendLawId="414027" AmendLawNum="平成一四年三月二七日国土交通省令第二七号" Extract="false" Id="e6d93b00-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一四年四月一日国土交通省令第五五号" Extract="false">
+    <SupplProvision AmendLawId="414055" AmendLawNum="平成一四年四月一日国土交通省令第五五号" Extract="false" Id="e6f3e874-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -1426,12 +1426,12 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一五年三月二六日国土交通省令第三六号" Extract="false">
+    <SupplProvision AmendLawId="415036" AmendLawNum="平成一五年三月二六日国土交通省令第三六号" Extract="false" Id="e70e9188-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
@@ -1441,13 +1441,13 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行前に第一条の規定による改正前の測量法施行規則第十九条に規定する地方整備局長又は北海道開発局長（次項において「旧地方整備局長等」という。）がした測量法（昭和二十四年法律第百八十八号）第六章に規定する登録その他の処分又は通知その他の行為（以下「処分等」という。）は、測量業者又は測量法第五十五条の五第一項の登録を受けようとする者の主たる営業所の所在地を管轄する地方整備局長又は北海道開発局長（次項において「新地方整備局長等」という。）がした処分等とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行前に旧地方整備局長等に対してした測量法第六章に規定する申請、届出その他の行為（以下「申請等」という。）については、新地方整備局長等に対してした申請等とみなす。</Sentence>
@@ -1455,21 +1455,21 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一五年五月一三日国土交通省令第六五号" Extract="false">
+    <SupplProvision AmendLawId="415065" AmendLawNum="平成一五年五月一三日国土交通省令第六五号" Extract="false" Id="650743fa-d3b4-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年一月二九日国土交通省令第一号" Extract="true">
+    <SupplProvision AmendLawId="416001" AmendLawNum="平成一六年一月二九日国土交通省令第一号" Extract="true" Id="07471cac-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成十六年三月一日から施行する。</Sentence>
@@ -1479,7 +1479,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（測量法施行規則の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第三条の規定の施行前に法第三条の規定による改正前の測量法（昭和二十四年法律第百八十八号。以下「旧測量法」という。）第五十条第三号若しくは第五十一条第三号の指定を受けていた測量に関する専門の養成施設の長の証明書又は旧測量法第五十条第四号の指定を受けていた測量に関する専門の養成施設の長の証明書は、それぞれこの省令による改正後の測量法施行規則第八条第一項第三号の証明書又は第四号の証明書とみなす。</Sentence>
@@ -1487,27 +1487,27 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年三月一六日国土交通省令第一七号" Extract="false">
+    <SupplProvision AmendLawId="416017" AmendLawNum="平成一六年三月一六日国土交通省令第一七号" Extract="false" Id="e75e6f00-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十六年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令による改正後の建設業法施行規則、測量法施行規則、公共工事の前払金保証事業に関する法律施行規則、宅地建物取引業法施行規則、自動車道事業会計規則、積立式宅地建物販売業法施行規則、港湾運送事業会計規則及び東京湾横断道路事業会計規則の規定は、平成十六年三月三十一日以後に終了する事業年度に係る会計の整理又は書類について適用し、同日前に終了した事業年度に係るものについては、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一八年三月三一日国土交通省令第三二号" Extract="true">
+    <SupplProvision AmendLawId="418032" AmendLawNum="平成一八年三月三一日国土交通省令第三二号" Extract="true" Id="9fca5458-d3bb-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、所得税法等の一部を改正する等の法律（平成十八年法律第十号）の施行の日（平成十八年四月一日。以下「施行日」という。）から施行する。</Sentence>
@@ -1517,7 +1517,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（測量法施行規則の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第二条による改正前の測量法施行規則別表第七及び別表第十四の二による登録申請書及びフレキシブルディスク提出票は、同条による改正後の測量法施行規則別表第七及び別表第十四の二にかかわらず、当分の間、なおこれを使用することができる。</Sentence>
@@ -1525,57 +1525,57 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一八年四月二八日国土交通省令第六〇号" Extract="false">
+    <SupplProvision AmendLawId="418060" AmendLawNum="平成一八年四月二八日国土交通省令第六〇号" Extract="false" Id="650e2a3a-d3b4-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、会社法の施行の日（平成十八年五月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の様式又は書式による申請書その他の文書は、この省令による改正後のそれぞれの様式又は書式にかかわらず、当分の間、なおこれを使用することができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行前にこの省令による改正前のそれぞれの省令の規定によってした処分、手続その他の行為であって、この省令による改正後のそれぞれの省令の規定に相当の規定があるものは、これらの規定によってした処分、手続その他の行為とみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一九年二月一九日国土交通省令第五号" Extract="false">
+    <SupplProvision AmendLawId="419005" AmendLawNum="平成一九年二月一九日国土交通省令第五号" Extract="false" Id="e7ae3e90-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この省令による改正後の測量法施行規則別表第十二添付書類（ハ）及び添付書類（ニ）並びに別表第十三の規定は、平成十八年五月一日以後に決算期の到来した事業年度に係る書類について適用する。</Sentence>
           <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、平成十九年三月三十一日までに決算期の到来した事業年度に係るものについては、なお従前の例によることができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令による改正前の測量法施行規則第十六条の二、第十六条の三、第十六条の四及び第十六条の五並びに別表第十四の二、別表第十四の三、別表第十四の四、別表第十四の五及び別表第十四の六の規定による手続については、平成十九年三月三十一日までは、なお従前の例によることができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二〇年三月二七日国土交通省令第一一号" Extract="false">
+    <SupplProvision AmendLawId="420011" AmendLawNum="平成二〇年三月二七日国土交通省令第一一号" Extract="false" Id="e7c8df52-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、測量法の一部を改正する法律の施行の日（平成二十年四月一日）から施行する。</Sentence>
@@ -1585,7 +1585,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（測量法施行規則の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の際現に設置されている測量標は、この省令による改正後の測量法施行規則に基づいて設置したものとみなす。</Sentence>
@@ -1594,7 +1594,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="3">
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一条の規定による改正前の測量法施行規則別表第一の二及び別表第六による証明書及び届出書は、同条の規定による改正後の測量法施行規則別表第一の二及び別表第六にかかわらず、平成二十年六月三十日までの間は、なおこれを使用することができる。</Sentence>
@@ -1602,25 +1602,25 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二一年四月一日国土交通省令第三〇号" Extract="false">
+    <SupplProvision AmendLawId="421030" AmendLawNum="平成二一年四月一日国土交通省令第三〇号" Extract="false" Id="e7e39360-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二三年四月四日国土交通省令第三五号" Extract="false">
+    <SupplProvision AmendLawId="423035" AmendLawNum="平成二三年四月四日国土交通省令第三五号" Extract="false" Id="e7fe2a86-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -1628,16 +1628,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二五年四月一日国土交通省令第二四号" Extract="false">
+    <SupplProvision AmendLawId="425024" AmendLawNum="平成二五年四月一日国土交通省令第二四号" Extract="false" Id="e818d0d4-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十五年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -1645,16 +1645,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二六年三月二五日国土交通省令第二一号" Extract="false">
+    <SupplProvision AmendLawId="426021" AmendLawNum="平成二六年三月二五日国土交通省令第二一号" Extract="false" Id="e8337e98-1898-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十六年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -1662,43 +1662,43 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二九年九月二九日国土交通省令第五六号" Type="Amend">
+    <SupplProvision AmendLawId="429056" AmendLawNum="平成二九年九月二九日国土交通省令第五六号" Id="bf7fdc9d-be65-49aa-86b8-46246093629a" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、学校教育法の一部を改正する法律の施行の日（平成三十一年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年五月七日国土交通省令第一号" Type="Amend">
+    <SupplProvision AmendLawId="501001" AmendLawNum="令和元年五月七日国土交通省令第一号" Id="30fb74da-7605-11e9-9d26-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年六月二八日国土交通省令第二〇号" Type="Amend">
+    <SupplProvision AmendLawId="501020" AmendLawNum="令和元年六月二八日国土交通省令第二〇号" Id="222a98e6-9e1e-11e9-92bf-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-<SupplProvision AmendLawNum="令和二年三月一八日国土交通省令第一六号" Type="Amend">
+<SupplProvision AmendLawId="502016" AmendLawNum="令和二年三月一八日国土交通省令第一六号" Id="1818070e-68e8-11ea-ac42-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>

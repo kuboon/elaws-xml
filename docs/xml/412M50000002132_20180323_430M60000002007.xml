@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200831e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="132" Year="12">
+<Law AmendmentId="430M60000002007" AmendmentNum="平成三十年内閣府令第七号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="132" Year="12">
   <LawNum>平成十二年総理府令第百三十二号</LawNum>
   <LawBody>
     <LawTitle>特定目的信託財産の計算に関する規則</LawTitle>
@@ -36,7 +36,7 @@
         <Article Delete="false" Hide="false" Num="1">
           <ArticleCaption>（目的）</ArticleCaption>
           <ArticleTitle>第一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この府令は、資産の流動化に関する法律（以下「法」という。）の規定により委任された特定目的信託財産の計算に関する事項その他の事項について、必要な事項を定めることを目的とする。</Sentence>
@@ -46,13 +46,13 @@
         <Article Delete="false" Hide="false" Num="2">
           <ArticleCaption>（定義）</ArticleCaption>
           <ArticleTitle>第二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この府令において「特定資産」、「資産の流動化」、「特定目的信託」、「資産信託流動化計画」、「受益証券」、「受託信託会社等」、「代表権利者」、「特定信託管理者」、「特定目的信託契約」、「原委託者」、「元本持分」、「利益持分」又は「社債的受益権」とは、それぞれ法第二条、第二百二十三条、第二百二十四条、第二百二十六条又は第二百三十条に規定する特定資産、資産の流動化、特定目的信託、資産信託流動化計画、受益証券、受託信託会社等、代表権利者、特定信託管理者、特定目的信託契約、原委託者、元本持分、利益持分又は社債的受益権をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この府令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
@@ -187,13 +187,13 @@
         <Article Delete="false" Hide="false" Num="3">
           <ArticleCaption>（信託帳簿等の作成）</ArticleCaption>
           <ArticleTitle>第三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">信託法（平成十八年法律第百八号）第三十七条第一項の規定による信託財産に係る帳簿その他の書類又は電磁的記録（以下この条及び第六条において「信託帳簿」という。）の作成又は電磁的記録の作成は、この条の定めるところによる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">信託帳簿は、一の書面その他の資料として作成することを要せず、他の目的で作成された書類又は電磁的記録をもって信託帳簿とすることができる。</Sentence>
@@ -203,7 +203,7 @@
         <Article Delete="false" Hide="false" Num="4">
           <ArticleCaption>（会計慣行のしん酌）</ArticleCaption>
           <ArticleTitle>第四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この府令の用語の解釈及び規定の適用に関しては、一般に公正妥当と認められる企業会計の基準その他の企業会計の慣行をしん酌しなければならない。</Sentence>
@@ -213,19 +213,19 @@
         <Article Delete="false" Hide="false" Num="5">
           <ArticleCaption>（資産の評価）</ArticleCaption>
           <ArticleTitle>第五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">資産については、信託帳簿に信託価額を付さなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">償却すべき資産については、計算期間の末日（計算期間の末日以外の日において評価すべき場合にあっては、その日。以下この条において同じ。）において、相当の償却をしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次の各号に掲げる資産については、計算期間の末日において当該各号に定める価格を付すべき場合には、当該各号に定める価格を付さなければならない。</Sentence>
@@ -253,19 +253,19 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">取立不能のおそれのある債権については、計算期間の末日においてその時に取り立てることができないと見込まれる額を控除しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">債権については、その信託価額が債権金額と異なる場合その他相当の理由がある場合には、適正な価格を付すことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="6">
+          <Paragraph Hide="false" Num="6" OldStyle="false">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次に掲げる資産については、計算期間の末日においてその時の時価又は適正な価格を付すことができる。</Sentence>
@@ -293,13 +293,13 @@
         <Article Delete="false" Hide="false" Num="6">
           <ArticleCaption>（負債の評価）</ArticleCaption>
           <ArticleTitle>第六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">負債については、信託帳簿に債務額を付さなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次に掲げる負債については、計算期間の末日においてその時の時価又は適正な価格を付すことができる。</Sentence>
@@ -321,7 +321,7 @@
         <Article Delete="false" Hide="false" Num="7">
           <ArticleCaption>（重要な会計方針に係る事項に関する注記）</ArticleCaption>
           <ArticleTitle>第七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">会計方針に関する次に掲げる事項（重要性の乏しいものを除く。）は、貸借対照表又は損益計算書に注記しなければならない。</Sentence>
@@ -355,7 +355,7 @@
         <Article Delete="false" Hide="false" Num="7_2">
           <ArticleCaption>（会計方針の変更に関する注記）</ArticleCaption>
           <ArticleTitle>第七条の二</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">一般に公正妥当と認められる会計方針を他の一般に公正妥当と認められる会計方針に変更した場合における次に掲げる事項（重要性の乏しいものを除く。）は、貸借対照表又は損益計算書に注記しなければならない。</Sentence>
@@ -389,7 +389,7 @@
         <Article Delete="false" Hide="false" Num="7_3">
           <ArticleCaption>（表示方法の変更に関する注記）</ArticleCaption>
           <ArticleTitle>第七条の三</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">一般に公正妥当と認められる表示方法を他の一般に公正妥当と認められる表示方法に変更した場合における次に掲げる事項（重要性の乏しいものを除く。）は、貸借対照表又は損益計算書に注記しなければならない。</Sentence>
@@ -411,7 +411,7 @@
         <Article Delete="false" Hide="false" Num="7_4">
           <ArticleCaption>（会計上の見積りの変更に関する注記）</ArticleCaption>
           <ArticleTitle>第七条の四</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">会計上の見積りの変更をした場合における次に掲げる事項（重要性の乏しいものを除く。）は、貸借対照表又は損益計算書に注記しなければならない。</Sentence>
@@ -440,7 +440,7 @@
           <ArticleCaption>（誤<Ruby>謬<Rt>びゆう</Rt>
 </Ruby>の訂正に関する注記）</ArticleCaption>
           <ArticleTitle>第七条の五</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">誤<Ruby>謬<Rt>びゆう</Rt>
@@ -464,7 +464,7 @@
         <Article Delete="false" Hide="false" Num="8">
           <ArticleCaption>（重要な後発事象に関する注記）</ArticleCaption>
           <ArticleTitle>第八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">当該特定目的信託財産の計算期間の末日後、当該特定目的信託財産の翌計算期間以降の財産又は損益に重要な影響を及ぼす事象が発生した場合における当該事象は、貸借対照表又は損益計算書に注記しなければならない。</Sentence>
@@ -474,7 +474,7 @@
         <Article Delete="false" Hide="false" Num="8_2">
           <ArticleCaption>（金融商品に関する注記）</ArticleCaption>
           <ArticleTitle>第八条の二</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">金融商品に関する次に掲げる事項（重要性の乏しいものを除く。）は、貸借対照表又は損益計算書に注記しなければならない。</Sentence>
@@ -496,7 +496,7 @@
         <Article Delete="false" Hide="false" Num="8_3">
           <ArticleCaption>（賃貸等不動産に関する注記）</ArticleCaption>
           <ArticleTitle>第八条の三</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">賃貸等不動産に関する次に掲げる事項（重要性の乏しいものを除く。）は、貸借対照表又は損益計算書に注記しなければならない。</Sentence>
@@ -518,7 +518,7 @@
         <Article Delete="false" Hide="false" Num="9">
           <ArticleCaption>（関連当事者との取引に関する注記）</ArticleCaption>
           <ArticleTitle>第九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">当該特定目的信託財産と関連当事者との間に取引がある場合における次に掲げる事項であって重要なものは、貸借対照表又は損益計算書に注記しなければならない。</Sentence>
@@ -572,7 +572,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">関連当事者との間の取引のうち次に掲げる取引については、前項に規定する注記を要しない。</Sentence>
@@ -602,13 +602,13 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">関連当事者との取引に関する注記は、第一項各号に掲げる区分に従い、関連当事者ごとに表示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前三項に規定する「関連当事者」とは、次に掲げる者をいう。</Sentence>
@@ -696,14 +696,14 @@
         <Article Delete="false" Hide="false" Num="10">
           <ArticleCaption>（注記の表示方法）</ArticleCaption>
           <ArticleTitle>第十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">貸借対照表又は損益計算書に表示すべき注記は、貸借対照表又は損益計算書の末尾に表示しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、他の適当な箇所に表示することを妨げない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">特定の項目に関連する注記については、その関連が明らかになるように表示しなければならない。</Sentence>
@@ -713,7 +713,7 @@
         <Article Delete="false" Hide="false" Num="11">
           <ArticleCaption>（追加情報の注記）</ArticleCaption>
           <ArticleTitle>第十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この府令に定めるもののほか、貸借対照表又は損益計算書により特定目的信託の財産及び損益の状態を正確に判断するために必要な事項は、貸借対照表又は損益計算書に注記しなければならない。</Sentence>
@@ -723,13 +723,13 @@
         <Article Delete="false" Hide="false" Num="12">
           <ArticleCaption>（表示の原則）</ArticleCaption>
           <ArticleTitle>第十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">貸借対照表、損益計算書及び信託財産の管理及び運用に係る報告書並びにこれらの附属明細書（以下「計算関係書類」という。）に表示すべき金額は、一円単位又は千円単位をもって表示するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">計算関係書類は、日本語をもって表示するものとする。</Sentence>
@@ -743,7 +743,7 @@
         <Article Delete="false" Hide="false" Num="13">
           <ArticleCaption>（貸借対照表の区分）</ArticleCaption>
           <ArticleTitle>第十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">貸借対照表は次に掲げる部に区分して表示しなければならない。</Sentence>
@@ -767,7 +767,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">資産の部又は負債の部の各項目は、当該項目に係る資産又は負債を示す適当な名称を付さなければならない。</Sentence>
@@ -777,7 +777,7 @@
         <Article Delete="false" Hide="false" Num="14">
           <ArticleCaption>（資産の部の区分）</ArticleCaption>
           <ArticleTitle>第十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">資産の部は、次に掲げる部に区分して表示しなければならない。</Sentence>
@@ -799,20 +799,20 @@
         <Article Delete="false" Hide="false" Num="15">
           <ArticleCaption>（特定資産の部）</ArticleCaption>
           <ArticleTitle>第十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">特定資産は、特定資産の部に表示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">特定資産の部は、適当な項目に区分しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、各項目は、適当な項目に細分しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第二百二十六条第一項第二号の規定により資産信託流動化計画に表示すべき特定資産の価額は、注記しなければならない。</Sentence>
@@ -822,14 +822,14 @@
         <Article Delete="false" Hide="false" Num="16">
           <ArticleCaption>（その他の資産の部）</ArticleCaption>
           <ArticleTitle>第十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">特定資産以外の資産（信託期間中における特定資産の管理又は処分により得られる利益を含む。）は、その他の資産の部に表示しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、法第二百六十六条の規定により特定資産とすることとされた利益については、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">その他の資産の部は、次に掲げる項目に区分しなければならない。</Sentence>
@@ -853,7 +853,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">固定資産に係る項目は、次に掲げる項目に区分しなければならない。</Sentence>
@@ -877,7 +877,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前二項の各項目は、現金及び預金、受取手形、建物その他のその他の資産の部に表示すべき資産の性質を示す適当な名称を付した項目に細分しなければならない。</Sentence>
@@ -887,7 +887,7 @@
         <Article Delete="false" Hide="false" Num="17">
           <ArticleCaption>（資産の内容）</ArticleCaption>
           <ArticleTitle>第十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次の各号に掲げる資産は、当該各号に定めるものに属するものとする。</Sentence>
@@ -1180,20 +1180,20 @@
         <Article Delete="false" Hide="false" Num="18">
           <ArticleCaption>（貸倒引当金等の表示）</ArticleCaption>
           <ArticleTitle>第十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">各資産に係る引当金は、次項の規定による場合のほか、当該各資産の項目に対する控除項目として、貸倒引当金その他当該引当金の設定目的を示す名称を付した項目をもって表示しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、流動資産、有形固定資産、無形固定資産、投資その他の資産又は繰延資産の区分に応じ、これらの資産に対する控除項目として一括して表示することを妨げない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">各資産に係る引当金は、当該各資産の金額から直接控除し、その控除残高を当該各資産の金額として表示することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の場合においては、各資産の資産項目別の引当金の金額を注記しなければならない。</Sentence>
@@ -1204,20 +1204,20 @@
         <Article Delete="false" Hide="false" Num="19">
           <ArticleCaption>（有形固定資産に対する減価償却累計額の表示）</ArticleCaption>
           <ArticleTitle>第十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">各有形固定資産に対する減価償却累計額は、次項の規定による場合のほか、当該各有形固定資産の項目に対する控除項目として、減価償却累計額の項目をもって表示しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、これらの有形固定資産に対する控除項目として一括して表示することを妨げない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">各有形固定資産に対する減価償却累計額は、当該各有形固定資産の金額から直接控除し、その控除残高を当該各有形固定資産の金額として表示することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の場合においては、各資産の資産項目別の減価償却累計額を注記しなければならない。</Sentence>
@@ -1228,26 +1228,26 @@
         <Article Delete="false" Hide="false" Num="20">
           <ArticleCaption>（有形固定資産に対する減損損失累計額の表示）</ArticleCaption>
           <ArticleTitle>第二十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">各有形固定資産に対する減損損失累計額は、次項及び第三項の規定による場合のほか、当該各有形固定資産の金額（前条第二項の規定により有形固定資産に対する減価償却累計額を当該有形固定資産の金額から直接控除しているときは、その控除後の金額）から直接控除し、その控除残高を当該各有形固定資産の金額として表示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">減価償却を行う各有形固定資産に対する減損損失累計額は、当該各有形固定資産の項目に対する控除項目として、減損損失累計額の項目をもって表示することができる。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、これらの有形固定資産に対する控除項目として一括して表示することを妨げない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前条第一項及び前項の規定により減価償却累計額及び減損損失累計額を控除項目として表示する場合には、減損損失累計額を減価償却累計額に合算して、減価償却累計額の項目をもって表示することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の場合においては、減価償却累計額に減損損失累計額が含まれている旨を注記しなければならない。</Sentence>
@@ -1257,7 +1257,7 @@
         <Article Delete="false" Hide="false" Num="21">
           <ArticleCaption>（無形固定資産の表示）</ArticleCaption>
           <ArticleTitle>第二十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">各無形固定資産に対する減価償却累計額及び減損損失累計額は、当該各無形固定資産の金額から直接控除し、その控除残高を当該各無形固定資産の金額として表示しなければならない。</Sentence>
@@ -1267,7 +1267,7 @@
         <Article Delete="false" Hide="false" Num="22">
           <ArticleCaption>（リースにより使用する固定資産に関する注記）</ArticleCaption>
           <ArticleTitle>第二十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">リースにより使用する固定資産に関する事項であって、ファイナンス・リース取引（リース取引のうち、リース契約に基づく期間の中途において当該リース契約を解除することができないもの又はこれに準ずるもので、リース物件（当該リース契約により使用する物件をいう。以下この条において同じ。）の借主が、当該リース物件からもたらされる経済的利益を実質的に享受することができ、かつ、当該リース物件の使用に伴って生じる費用等を実質的に負担することとなるものをいう。以下この条において同じ。）の借主である受託信託会社等が当該ファイナンス・リース取引について通常の売買取引に係る方法に準じて会計処理を行っていない場合におけるリース物件（固定資産に限る。以下この条において同じ。）に関する事項は、注記しなければならない。</Sentence>
@@ -1302,7 +1302,7 @@
         <Article Delete="false" Hide="false" Num="23">
           <ArticleCaption>（繰延資産の表示）</ArticleCaption>
           <ArticleTitle>第二十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">各繰延資産に対する償却累計額は、当該各繰延資産の金額から直接控除し、その控除残高を各繰延資産の金額として表示しなければならない。</Sentence>
@@ -1312,7 +1312,7 @@
         <Article Delete="false" Hide="false" Num="24">
           <ArticleCaption>（担保に供されている資産）</ArticleCaption>
           <ArticleTitle>第二十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">資産が担保に供されているときは、次に掲げる事項を注記しなければならない。</Sentence>
@@ -1340,7 +1340,7 @@
         <Article Delete="false" Hide="false" Num="25">
           <ArticleCaption>（負債の部の区分）</ArticleCaption>
           <ArticleTitle>第二十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">負債の部は、次に掲げる項目に区分しなければならない。</Sentence>
@@ -1363,7 +1363,7 @@
         <Article Delete="false" Hide="false" Num="26">
           <ArticleCaption>（負債の内容）</ArticleCaption>
           <ArticleTitle>第二十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次の各号に掲げる負債は、当該各号に定めるものに属するものとする。</Sentence>
@@ -1467,7 +1467,7 @@
         <Article Delete="false" Hide="false" Num="27">
           <ArticleCaption>（重要な係争事件に係る損害賠償義務等）</ArticleCaption>
           <ArticleTitle>第二十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">重要な係争事件に係る損害賠償義務、手形遡求義務その他これらに準ずる債務（受託信託会社等が信託事務を処理するため自己に過失なくして受けた損害を含む。）は、注記しなければならない。</Sentence>
@@ -1484,7 +1484,7 @@
               <Sentence>繰延税金資産の金額及び繰延税金負債の金額については、その差額のみを繰延税金資産又は繰延税金負債として固定資産又は固定負債に表示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">繰延税金資産（その算定に当たり繰延税金資産から控除された金額がある場合における当該金額を含む。）及び繰延税金負債がある場合には、重要でないものを除き、その発生の主な原因を注記しなければならない。</Sentence>
@@ -1494,7 +1494,7 @@
         <Article Delete="false" Hide="false" Num="29">
           <ArticleCaption>（元本等の部の区分）</ArticleCaption>
           <ArticleTitle>第二十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">元本等の部は、次に掲げる項目に区分しなければならない。</Sentence>
@@ -1518,7 +1518,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">元本に係る項目は、次に掲げる項目に区分しなければならない。</Sentence>
@@ -1543,19 +1543,19 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項第一号又は第二号に掲げる項目について金銭の分配を受ける方法が異なる種類の受益権を定める場合（利益持分を定める場合を含む。）には、その種類ごとに区分して表示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第二項第二号の項目について、当該事業年度に係る金銭の分配の額が当該事業年度終了の時における純資産価格（その有する資産の帳簿価格の合計額からその有する負債の帳簿価格の合計額を減算した金額をいう。）から元本の額を控除した金額を上回る金額がある場合には、その上回る部分の金額を受益権調整引当額として表示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">留保金の部は、次に掲げる項目に区分しなければならない。</Sentence>
@@ -1573,19 +1573,19 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="6">
+          <Paragraph Hide="false" Num="6" OldStyle="false">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項第一号に掲げる項目は、適当な名称を付した項目に細分しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="7">
+          <Paragraph Hide="false" Num="7" OldStyle="false">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第五項第二号に掲げる項目には、当期純利益金額又は当期純損失金額を付記しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="8">
+          <Paragraph Hide="false" Num="8" OldStyle="false">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">評価・換算差額等に係る項目は、次に掲げる項目その他適当な名称を付した項目に細分しなければならない。</Sentence>
@@ -1606,7 +1606,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="30">
           <ArticleTitle>第三十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1615,7 +1615,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="31">
           <ArticleTitle>第三十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1624,7 +1624,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="32">
           <ArticleTitle>第三十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1633,7 +1633,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="33">
           <ArticleTitle>第三十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1642,7 +1642,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="34">
           <ArticleTitle>第三十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1651,7 +1651,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="35">
           <ArticleTitle>第三十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1660,7 +1660,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="36">
           <ArticleTitle>第三十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1669,7 +1669,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="37">
           <ArticleTitle>第三十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1678,7 +1678,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="38">
           <ArticleTitle>第三十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1687,7 +1687,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="39">
           <ArticleTitle>第三十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1696,7 +1696,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="40">
           <ArticleTitle>第四十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1705,7 +1705,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="41">
           <ArticleTitle>第四十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1714,7 +1714,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="42">
           <ArticleTitle>第四十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1723,7 +1723,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="43">
           <ArticleTitle>第四十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1732,7 +1732,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="44">
           <ArticleTitle>第四十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1741,7 +1741,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="45">
           <ArticleTitle>第四十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1750,7 +1750,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="46">
           <ArticleTitle>第四十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1759,7 +1759,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="47">
           <ArticleTitle>第四十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1768,7 +1768,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="48">
           <ArticleTitle>第四十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1777,7 +1777,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="49">
           <ArticleTitle>第四十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1786,7 +1786,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="50">
           <ArticleTitle>第五十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1795,7 +1795,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="51">
           <ArticleTitle>第五十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1804,7 +1804,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="52">
           <ArticleTitle>第五十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1813,7 +1813,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="53">
           <ArticleTitle>第五十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1822,7 +1822,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="54">
           <ArticleTitle>第五十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -1832,7 +1832,7 @@
         <Article Delete="false" Hide="false" Num="55">
           <ArticleCaption>（元本等の欠損の注記）</ArticleCaption>
           <ArticleTitle>第五十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">貸借対照表上の純資産額から資産につき時価を付すものとした場合（第五条第三項及び第六項第一号の場合を除く。）における当該資産の評価差額金（利益又は損失として計上したものを除く。）を控除した額が、元本の額を下回る場合には、その差額を注記しなければならない。</Sentence>
@@ -1842,7 +1842,7 @@
         <Article Delete="false" Hide="false" Num="56">
           <ArticleCaption>（自己の受益権に関する注記）</ArticleCaption>
           <ArticleTitle>第五十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第二百七十一条第三項に規定する受益権の処分の方法及び当該処分の状況は、注記しなければならない。</Sentence>
@@ -1852,19 +1852,19 @@
         <Article Delete="false" Hide="false" Num="57">
           <ArticleCaption>（未払費用等に関する注記）</ArticleCaption>
           <ArticleTitle>第五十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">未払費用又は前払費用のうち、信託財産に関して負担する費用として受託信託会社等が負担する費用、信託報酬又は信託財産の管理及び処分に係る業務を委託した場合のその費用を当該費用の性質を示す適当な名称を付して区分して表示していない場合には、当該費用に係る金額を当該費用の性質を示す適当な名称を付して注記しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の金額のうち、法第二百四十七条、第二百四十八条（第二百五十三条において準用する場合を含む。）、第二百五十八条（第二百六十条第五項において準用する場合であって、あらかじめ特定目的信託契約の定めにより信託財産に関して負担するものとされたときを含む。）及び第二百七十一条第二項の規定により信託財産に関して負担する費用として受託信託会社等が負担する費用に係る金額は、種類ごとに内訳を明らかにしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項の信託財産に関して負担する費用として受託信託会社等が負担する費用に係る金額のうち前項以外のものは、資産信託流動化計画に表示された種類ごとに内訳を明らかにしなければならない。</Sentence>
@@ -1877,7 +1877,7 @@
         <Article Delete="false" Hide="false" Num="58">
           <ArticleCaption>（損益計算書の区分）</ArticleCaption>
           <ArticleTitle>第五十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">損益計算書は、次に掲げる項目に区分して表示しなければならない。</Sentence>
@@ -1920,25 +1920,25 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">特別利益に属する利益は、前期損益修正益その他の項目の区分に従い、細分しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">特別損失に属する損失は、前期損益修正損、減損損失（特別損失の性質を有する場合に限る。）、災害による損失その他の項目の区分に従い、細分しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前二項の規定にかかわらず、前二項の各利益又は各損失のうち、その金額が重要でないものについては、当該利益又は損失を細分しないこととすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">損益計算書の各項目は、当該項目に係る収益若しくは費用又は利益若しくは損失の性質を示す適当な名称を付さなければならない。</Sentence>
@@ -1948,19 +1948,19 @@
         <Article Delete="false" Hide="false" Num="59">
           <ArticleCaption>（営業損益金額）</ArticleCaption>
           <ArticleTitle>第五十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">資産の流動化に関する業務及びその附帯業務に関する収益又は費用は、営業収益又は営業費用の項目に表示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">営業収益から営業費用を減じて得た額（以下「営業損益金額」という。）は、営業利益金額として表示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定にかかわらず、営業損益金額が零未満である場合には、零から営業損益金額を減じて得た額を営業損失金額として表示しなければならない。</Sentence>
@@ -1970,13 +1970,13 @@
         <Article Delete="false" Hide="false" Num="60">
           <ArticleCaption>（経常損益金額）</ArticleCaption>
           <ArticleTitle>第六十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">営業損益金額に営業外収益を加えて得た額から営業外費用を減じて得た額（以下「経常損益金額」という。）は、経常利益金額として表示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定にかかわらず、経常損益金額が零未満である場合には、零から経常損益金額を減じて得た額を経常損失金額として表示しなければならない。</Sentence>
@@ -1986,13 +1986,13 @@
         <Article Delete="false" Hide="false" Num="61">
           <ArticleCaption>（税引前当期純損益金額）</ArticleCaption>
           <ArticleTitle>第六十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">経常損益金額に特別利益を加えて得た額から特別損失を減じて得た額（以下「税引前当期純損益金額」という。）は、税引前当期純利益金額として表示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定にかかわらず、税引前当期純損益金額が零未満である場合には、零から税引前当期純損益金額を減じて得た額を税引前当期純損失金額として表示しなければならない。</Sentence>
@@ -2002,7 +2002,7 @@
         <Article Delete="false" Hide="false" Num="62">
           <ArticleCaption>（税等）</ArticleCaption>
           <ArticleTitle>第六十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次に掲げる項目の金額は、その内容を示す名称を付した項目をもって、税引前当期純利益金額又は税引前当期純損失金額の次に表示しなければならない。</Sentence>
@@ -2020,7 +2020,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">法人税等の更正、決定等による納付税額又は還付税額がある場合には、前項第一号に掲げる項目の次に、その内容を示す名称を付した項目をもって表示するものとする。</Sentence>
@@ -2031,7 +2031,7 @@
         <Article Delete="false" Hide="false" Num="63">
           <ArticleCaption>（当期純損益金額）</ArticleCaption>
           <ArticleTitle>第六十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一号及び第二号に掲げる額の合計額から第三号及び第四号に掲げる額の合計額を減じて得た額（以下「当期純損益金額」という。）は、当期純利益金額として表示しなければならない。</Sentence>
@@ -2061,7 +2061,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定にかかわらず、当期純損益金額が零未満である場合には、零から当期純損益金額を減じて得た額を当期純損失金額として表示しなければならない。</Sentence>
@@ -2070,7 +2070,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="64">
           <ArticleTitle>第六十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">削除</Sentence>
@@ -2080,7 +2080,7 @@
         <Article Delete="false" Hide="false" Num="65">
           <ArticleCaption>（当期未処分利益又は当期未処理損失）</ArticleCaption>
           <ArticleTitle>第六十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次に掲げる額は、その内容を示す適当な名称を付して前条の当期純利益金額又は当期純損失金額の次に表示しなければならない。</Sentence>
@@ -2099,19 +2099,19 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項第一号に規定する前期繰越利益又は前期繰越損失の額につき遡及適用等をした場合にあっては、遡及適用等をする前の前期繰越利益又は前期繰越損失の額及びこれに対する影響額を区分表示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第六十三条の当期純利益金額又は当期純損失金額に第一項各号に掲げる額を加減した額は、当期未処分利益又は当期未処理損失として表示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">社債的受益権を発行している場合にあっては、当期未処分利益の額から社債的受益権に対する収益分配金を控除した額は、社債的受益権収益分配後当期未処分利益として表示しなければならない。</Sentence>
@@ -2121,13 +2121,13 @@
         <Article Delete="false" Hide="false" Num="66">
           <ArticleCaption>（利益処分計算又は損失処理計算）</ArticleCaption>
           <ArticleTitle>第六十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">受託信託会社等は、この条から第七十一条までの規定の定めるところにより、前条第三項及び第四項の当期未処分利益（社債的受益権を発行している場合にあっては、社債的受益権収益分配後当期未処分利益）又は当期未処理損失に係る利益処分計算又は損失処理計算をしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の利益処分計算又は損失処理計算の結果は、損益計算書に含めて表示するものとする。</Sentence>
@@ -2137,7 +2137,7 @@
         <Article Delete="false" Hide="false" Num="67">
           <ArticleCaption>（利益処分計算）</ArticleCaption>
           <ArticleTitle>第六十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">利益処分計算においては、次に掲げる項目に従って利益処分の内容を明らかにしなければならない。</Sentence>
@@ -2161,7 +2161,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">資産につき時価を付すものとした場合（第五条第三項及び第六項第一号の場合を除く。）においては、その資産の評価差額金（利益又は損失として計上したものを除く。）は、前項第一号の当期未処分利益から当該金額を控除する形式により、当該評価差額金を示す名称を付した項目をもって表示しなければならない。</Sentence>
@@ -2170,7 +2170,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="68">
           <ArticleTitle>第六十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第二十九条第四項の場合において、受益権調整引当額を当期の利益処分に充当する場合には、当該受益権調整引当額は、前条第一項第一号の当期未処分利益（社債的受益権を発行している場合にあっては、社債的受益権収益分配後当期未処分利益）に当該金額を加算する形式により、受益権調整引当益として表示しなければならない。</Sentence>
@@ -2179,7 +2179,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="69">
           <ArticleTitle>第六十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第二十九条第五項第一号の任意積立金を取崩して当期の利益処分に充当する場合には、当該取崩金額は、第六十七条第一項第一号の当期未処分利益（社債的受益権を発行している場合にあっては、社債的受益権収益分配後当期未処分利益）に当該金額を加算する形式により、当該積立金取崩高を示す名称を付した項目をもって表示しなければならない。</Sentence>
@@ -2188,7 +2188,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="70">
           <ArticleTitle>第七十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第六十七条第一項第二号の利益処分額は、次に掲げる項目に細分しなければならない。</Sentence>
@@ -2206,19 +2206,19 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項第一号の社債的受益権以外の受益権収益分配金は、資産信託流動化計画に表示された受益権の種類ごとに表示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項第二号の任意積立金は、その内容を示す適当な名称を付した項目に細分しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第六十七条の利益処分により、第二十九条第四項の受益権調整引当額を減算する場合には、当該減算額は受益権調整戻入額として表示しなければならない。</Sentence>
@@ -2228,7 +2228,7 @@
         <Article Delete="false" Hide="false" Num="71">
           <ArticleCaption>（損失処理計算）</ArticleCaption>
           <ArticleTitle>第七十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">損失処理計算においては、次に掲げる項目に従って損失処理の内容を明らかにしなければならない。</Sentence>
@@ -2264,7 +2264,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項第二号の任意積立金取崩額は、前条第三項の規定により細分された項目に従って内訳を明らかにしなければならない。</Sentence>
@@ -2274,7 +2274,7 @@
         <Article Delete="false" Hide="false" Num="71_2">
           <ArticleCaption>（損益計算書に関する注記）</ArticleCaption>
           <ArticleTitle>第七十一条の二</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">信託財産に関して負担する費用として受託信託会社等が負担する費用、信託報酬又は信託財産の管理及び処分に係る業務を委託した場合のその費用を当該費用の性質を示す適当な名称を付して区分して表示していない場合（第五十七条に規定する場合を除く。）には、当該費用に係る金額を当該費用の性質を示す適当な名称を付して注記しなければならない。</Sentence>
@@ -2284,7 +2284,7 @@
         <Article Delete="false" Hide="false" Num="71_3">
           <ArticleCaption>（包括利益）</ArticleCaption>
           <ArticleTitle>第七十一条の三</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">損益計算書には、包括利益に関する事項を表示することができる。</Sentence>
@@ -2297,7 +2297,7 @@
         <Article Delete="false" Hide="false" Num="72">
           <ArticleCaption>（信託財産の管理及び運用に係る報告書）</ArticleCaption>
           <ArticleTitle>第七十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">信託財産の管理及び運用に係る報告書には、次に掲げる事項その他特定目的信託の状況に関する重要な事項を表示しなければならない。</Sentence>
@@ -2393,19 +2393,19 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項第三号に掲げる信託財産の管理及び処分の概況の表示は、特定資産の種類が二以上である場合にはその種類ごとに、信託財産の処分については貸付け、譲渡、交換又は担保提供の別ごとに、資金の借入れについてはその使途ごとにしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項第四号に掲げる事項については、当該計算期間における過計算期間事項（当該計算期間より前の計算期間に係る貸借対照表、損益計算書又は信託財産の管理及び運用に係る報告書に表示すべき事項をいう。以下この項において同じ。）が会計方針の変更その他の正当な理由により当該計算期間より前の計算期間に係る貸借対照表、損益計算書又は信託財産の管理及び運用に係る報告書に表示したものと異なっているときは、修正後の過計算期間事項を反映した事項とすることを妨げない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項第六号に規定する「代表権利者又は特定信託管理者に関する事項」とは、次に掲げる事項その他代表権利者又は特定信託管理者に関する重要な事項とする。</Sentence>
@@ -2447,7 +2447,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項第十二号の表示は、受益証券の発行ごと及び内容の異なる数種類の受益証券を発行する場合にはその種類ごとにしなければならない。</Sentence>
@@ -2460,13 +2460,13 @@
         <Article Delete="false" Hide="false" Num="73">
           <ArticleCaption>（附属明細書）</ArticleCaption>
           <ArticleTitle>第七十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">附属明細書には、この府令に定めるもののほか、貸借対照表、損益計算書並びに信託財産の管理及び運用に係る報告書の表示を補足する重要な事項を表示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">貸借対照表又は損益計算書の作成に関する会計方針を変更したときは、附属明細書にその変更の理由を表示しなければならない。</Sentence>
@@ -2476,7 +2476,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="74">
           <ArticleTitle>第七十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">附属明細書には、次に掲げる事項を表示しなければならない。</Sentence>
@@ -2536,13 +2536,13 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項第一号の増減の明細は、第二十九条第二項及び第三項の区分に従って表示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項第四号の明細は、特定資産の種類が二以上である場合はその種類ごとに表示しなければならない。</Sentence>
@@ -2553,19 +2553,19 @@
     </MainProvision>
     <SupplProvision Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、特定目的会社による特定資産の流動化に関する法律等の一部を改正する法律（平成十二年法律第九十七号）の施行の日（平成十二年十一月三十日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一四年三月二八日内閣府令第一七号" Extract="true">
+    <SupplProvision AmendLawId="414017" AmendLawNum="平成一四年三月二八日内閣府令第一七号" Extract="true" Id="88059574-1884-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令は、平成十四年四月一日から施行する。</Sentence>
@@ -2575,7 +2575,7 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（特定目的信託財産の貸借対照表、損益計算書、信託財産の管理及び運用に係る報告書並びに附属明細書に関する規則の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">施行日前に計算期間が開始した特定目的信託財産についての第四十七条の規定による改正後の特定目的信託財産の貸借対照表、損益計算書、信託財産の管理及び運用に係る報告書並びに附属明細書に関する規則（以下この条において「新特定目的信託財産計算書類規則」という。）の規定の適用については、なお従前の例による。</Sentence>
@@ -2586,7 +2586,7 @@
       <Article Delete="false" Hide="false" Num="13">
         <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
         <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">施行日前にした行為及びこの附則の規定によりなお従前の例によることとされる場合における施行日以後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -2594,12 +2594,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一五年三月二八日内閣府令第一八号" Extract="true">
+    <SupplProvision AmendLawId="415018" AmendLawNum="平成一五年三月二八日内閣府令第一八号" Extract="true" Id="88513146-1884-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令は、商法等の一部を改正する法律の施行の日（平成十五年四月一日）から施行する。</Sentence>
@@ -2609,13 +2609,13 @@
       <Article Delete="false" Hide="false" Num="10">
         <ArticleCaption>（特定目的信託財産の計算書類等に関する経過措置）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令の施行前に到来した決算期に関して作成すべき特定目的信託財産の貸借対照表、損益計算書、信託財産の管理及び運用に係る報告書並びに附属明細書（次項において「計算書類等」という。）の記載の方法に関しては、この府令の施行後も、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">前項の規定は、第二十九条の規定による改正後の特定目的信託財産の貸借対照表、損益計算書、信託財産の管理及び運用に係る報告書並びに附属明細書に関する規則の規定に基づき計算書類等を作成する旨を決定した特定目的信託財産については、適用しない。</Sentence>
@@ -2624,12 +2624,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一八年四月二〇日内閣府令第四九号" Extract="true">
+    <SupplProvision AmendLawId="418049" AmendLawNum="平成一八年四月二〇日内閣府令第四九号" Extract="true" Id="94e05716-1884-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令は、会社法の施行の日から施行する。</Sentence>
@@ -2639,13 +2639,13 @@
       <Article Delete="false" Hide="false" Num="13">
         <ArticleCaption>（特定目的信託財産の貸借対照表、損益計算書、信託財産の管理及び運用に係る報告書並びに附属明細書に関する規則の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">施行日前に到来した最終の決算期に係る貸借対照表、損益計算書、信託財産の管理及び運用に係る報告書並びに附属明細書の表示方法については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第十七条の規定による改正後の特定目的信託財産の計算に関する規則第七条の規定は、この府令の施行後最初に到来する計算期間の末日に係る貸借対照表及び損益計算書の注記については、適用しない。</Sentence>
@@ -2654,12 +2654,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一九年二月八日内閣府令第一六号" Extract="true">
+    <SupplProvision AmendLawId="419016" AmendLawNum="平成一九年二月八日内閣府令第一六号" Extract="true" Id="9aa1a04c-1884-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
@@ -2667,12 +2667,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一九年八月九日内閣府令第六一号" Extract="true">
+    <SupplProvision AmendLawId="419061" AmendLawNum="平成一九年八月九日内閣府令第六一号" Extract="true" Id="94ec33e2-1884-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令は、平成十九年九月三十日から施行する。</Sentence>
@@ -2682,7 +2682,7 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">施行日前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -2690,21 +2690,21 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二〇年一二月一二日内閣府令第八〇号" Extract="false">
+    <SupplProvision AmendLawId="420080" AmendLawNum="平成二〇年一二月一二日内閣府令第八〇号" Extract="false" Id="9b87c356-1884-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二一年三月二四日内閣府令第五号" Extract="true">
+    <SupplProvision AmendLawId="421005" AmendLawNum="平成二一年三月二四日内閣府令第五号" Extract="true" Id="2dd9215e-188b-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
@@ -2712,12 +2712,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二一年六月二四日内閣府令第三五号" Extract="true">
+    <SupplProvision AmendLawId="421035" AmendLawNum="平成二一年六月二四日内閣府令第三五号" Extract="true" Id="c5d9334c-1889-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令は、平成二十一年七月一日から施行する。</Sentence>
@@ -2727,14 +2727,14 @@
       <Article Delete="false" Hide="false" Num="17">
         <ArticleCaption>（特定目的信託財産の計算関係書類に関する経過措置）</ArticleCaption>
         <ArticleTitle>第十七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この府令による改正後の特定目的信託財産の計算に関する規則（以下「新特定目的信託財産計算規則」という。）第二条第二項第四号並びに第二十六条第一号ト及び第二号ニの規定は、平成二十二年四月一日前に開始する計算期間に係る特定目的信託財産（資産の流動化に関する法律第二条第十三項に規定する特定目的信託の信託財産をいう。次項において同じ。）の計算関係書類（新特定目的信託財産計算規則第十二条第一項に規定する計算関係書類をいう。以下この条において同じ。）については、適用しない。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同日前に開始する計算期間に係る計算関係書類のうち、施行日以後に作成されるものについては、これらのすべての規定により作成することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">新特定目的信託財産計算規則第二条第二項第五号及び第六号、第八条の二並びに第八条の三の規定は、平成二十二年三月三十一日前に終了する計算期間に係る特定目的信託財産の計算関係書類については、適用しない。</Sentence>
@@ -2745,7 +2745,7 @@
       <Article Delete="false" Hide="false" Num="19">
         <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
         <ArticleTitle>第十九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合における施行日以後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -2753,12 +2753,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二二年九月三〇日内閣府令第四五号" Extract="true">
+    <SupplProvision AmendLawId="422045" AmendLawNum="平成二二年九月三〇日内閣府令第四五号" Extract="true" Id="9c71afa2-1884-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
@@ -2768,7 +2768,7 @@
       <Article Delete="false" Hide="false" Num="17">
         <ArticleCaption>（特定目的信託財産の計算に関する規則の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第十七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">特定目的信託財産において、平成二十年十二月五日から平成二十二年三月三十一日までに売買目的有価証券（特定目的信託財産の計算に関する規則第十七条第一号ニに規定する売買目的有価証券をいう。以下この条において同じ。）又はその他有価証券（売買目的有価証券及び満期保有目的の債券（この府令による改正前の特定目的信託財産の計算に関する規則第五条第六項第二号に規定する満期保有目的の債券をいう。以下この条において同じ。）以外の有価証券をいう。）を満期保有目的の債券へ変更した場合における当該変更後の満期保有目的の債券についての第十五条の規定による改正後の特定目的信託財産の計算に関する規則第五条第六項の規定の適用については、なお従前の例による。</Sentence>
@@ -2776,12 +2776,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二三年七月八日内閣府令第三三号" Extract="true">
+    <SupplProvision AmendLawId="423033" AmendLawNum="平成二三年七月八日内閣府令第三三号" Extract="true" Id="da63d978-1921-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
@@ -2791,7 +2791,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（特定目的信託財産の計算に関する規則の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第三条の規定による改正後の特定目的信託財産の計算に関する規則の規定は、平成二十三年四月一日以後に開始する計算期間に係る計算書類（同令第二条第二項第三号に規定する計算書類をいう。以下この条において同じ。）について適用し、同日前に開始する計算期間に係る計算書類については、なお従前の例による。</Sentence>
@@ -2799,12 +2799,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二三年一一月一六日内閣府令第六一号" Extract="true">
+    <SupplProvision AmendLawId="423061" AmendLawNum="平成二三年一一月一六日内閣府令第六一号" Extract="true" Id="8afbc604-1884-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令は、資本市場及び金融業の基盤強化のための金融商品取引法等の一部を改正する法律附則第一条第二号に掲げる規定の施行の日（平成二十三年十一月二十四日）から施行する。</Sentence>
@@ -2814,7 +2814,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（特定目的信託財産の計算に関する規則の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第五条の規定による改正後の特定目的信託財産の計算に関する規則第七十二条第一項及び第五項の規定は、施行日以後に終了する計算期間に係る信託財産の管理及び運用に係る報告書について適用し、施行日前に終了した計算期間に係る信託財産の管理及び運用に係る報告書については、なお従前の例による。</Sentence>
@@ -2824,7 +2824,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの府令の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -2832,12 +2832,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三〇年三月二三日内閣府令第七号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawId="430007" AmendLawNum="平成三〇年三月二三日内閣府令第七号" Extract="true" Id="a1e5392d-10bd-4ead-b1e9-29cf0f13df9d" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
@@ -2847,7 +2847,7 @@
       <Article Delete="false" Hide="false" Num="13">
         <ArticleCaption>（特定目的信託財産の計算に関する規則の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第十三条の規定による改正後の特定目的信託財産の計算に関する規則の規定は、平成三十年四月一日以後に開始する計算期間に係る計算書類（同令第二条第二項第三号に規定する計算書類をいう。以下この条において同じ。）について適用し、同日前に開始する計算期間に係る計算書類については、なお従前の例による。</Sentence>

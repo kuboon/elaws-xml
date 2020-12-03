@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="30" Year="33">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="30" Year="33">
   <LawNum>昭和三十三年法律第三十号</LawNum>
   <LawBody>
     <LawTitle>地すべり等防止法</LawTitle>
@@ -39,7 +39,7 @@
         <Article Delete="false" Hide="false" Num="1">
           <ArticleCaption>（目的）</ArticleCaption>
           <ArticleTitle>第一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律は、地すべり及びぼた山の崩壊による被害を除却し、又は軽減するため、地すべり及びぼた山の崩壊を防止し、もつて国土の保全と民生の安定に資することを目的とする。</Sentence>
@@ -49,25 +49,25 @@
         <Article Delete="false" Hide="false" Num="2">
           <ArticleCaption>（定義）</ArticleCaption>
           <ArticleTitle>第二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律において「地すべり」とは、土地の一部が地下水等に起因してすべる現象又はこれに伴つて移動する現象をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律において「ぼた山」とは、石炭又は亜炭に係る捨石が集積されてできた山であつて、この法律の施行の際現に存するものをいい、鉱山保安法及び経済産業省設置法の一部を改正する法律（平成十六年法律第九十四号）第一条の規定による改正前の鉱山保安法（昭和二十四年法律第七十号）第四条又は第二十六条の規定により鉱業権者又は鉱業権者とみなされる者がこの法律の施行の際必要な措置を講ずべきであつたものを除くものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律において「地すべり防止施設」とは、次条の規定により指定される地すべり防止区域内にある排水施設、擁壁、ダムその他の地すべりを防止するための施設をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律において「地すべり防止工事」とは、地すべり防止施設の新設、改良その他次条の規定により指定される地すべり防止区域内における地すべりを防止するための工事をいう。</Sentence>
@@ -77,26 +77,26 @@
         <Article Delete="false" Hide="false" Num="3">
           <ArticleCaption>（地すべり防止区域の指定）</ArticleCaption>
           <ArticleTitle>第三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">主務大臣は、この法律の目的を達成するため必要があると認めるときは、関係都道府県知事の意見をきいて、地すべり区域（地すべりしている区域又は地すべりするおそれのきわめて大きい区域をいう。以下同じ。）及びこれに隣接する地域のうち地すべり区域の地すべりを助長し、若しくは誘発し、又は助長し、若しくは誘発するおそれのきわめて大きいもの（以下これらを「地すべり地域」と総称する。）であつて、公共の利害に密接な関連を有するものを地すべり防止区域として指定することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の指定は、この法律の目的を達成するため必要な最小限度のものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">主務大臣は、第一項の指定をするときは、主務省令で定めるところにより、当該地すべり防止区域を告示するとともに、その旨を関係都道府県知事に通知しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">これを廃止するときも、同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">地すべり防止区域の指定又は廃止は、前項の告示によつてその効力を生ずる。</Sentence>
@@ -106,13 +106,13 @@
         <Article Delete="false" Hide="false" Num="4">
           <ArticleCaption>（ぼた山崩壊防止区域の指定）</ArticleCaption>
           <ArticleTitle>第四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">主務大臣は、この法律の目的を達成するため必要があると認めるときは、関係都道府県知事の意見をきいて、ぼた山の存する区域であつて、公共の利害に密接な関連を有するものをぼた山崩壊防止区域として指定することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前条第二項から第四項までの規定は、前項の指定について準用する。</Sentence>
@@ -123,7 +123,7 @@
         <Article Delete="false" Hide="false" Num="5">
           <ArticleCaption>（調査）</ArticleCaption>
           <ArticleTitle>第五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第三条第一項の指定は、必要に応じ、当該地すべり地域に関し、地形、地質、降水、地表水若しくは地下水又は土地の滑動状況に関する現地調査をして行うものとする。</Sentence>
@@ -133,69 +133,69 @@
         <Article Delete="false" Hide="false" Num="6">
           <ArticleCaption>（調査のための立入）</ArticleCaption>
           <ArticleTitle>第六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">主務大臣又はその命を受けた職員若しくはその委任を受けた者は、前条の調査のためやむを得ない必要があるときは、他人の占有する土地に立ち入り、又は特別の用途のない他人の土地を材料置場若しくは作業場として一時使用することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定により他人の占有する土地に立ち入ろうとするときは、あらかじめ当該土地の占有者にその旨を通知しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、あらかじめ通知することが困難であるときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項の規定により宅地又はかき、さく等で囲まれた土地に立ち入ろうとするときは、立入の際あらかじめその旨を当該土地の占有者に告げなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">日出前及び日没後においては、占有者の承認があつた場合を除き、前項に規定する土地に立ち入つてはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項の規定により土地に立ち入ろうとする者は、その身分を示す証明書を携帯し、関係人の請求があつたときは、これを提示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="6">
+          <Paragraph Hide="false" Num="6" OldStyle="false">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項の規定により特別の用途のない他人の土地を材料置場又は作業場として一時使用しようとするときは、あらかじめ、当該土地の占有者及び所有者に通知して、その者の意見をきかなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="7">
+          <Paragraph Hide="false" Num="7" OldStyle="false">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">土地の占有者又は所有者は、正当な理由がない限り、第一項の規定による立入又は一時使用を拒み、又は妨げてはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="8">
+          <Paragraph Hide="false" Num="8" OldStyle="false">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国は、第一項の規定による立入又は一時使用により損失を受けた者に対し、通常生ずべき損失を補償しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="9">
+          <Paragraph Hide="false" Num="9" OldStyle="false">
             <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定による損失の補償については、国と損失を受けた者とが協議しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="10">
+          <Paragraph Hide="false" Num="10" OldStyle="false">
             <ParagraphNum>１０</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の規定による協議が成立しない場合においては、国は、自己の見積つた金額を損失を受けた者に支払わなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、当該金額について不服がある者は、政令で定めるところにより、補償金の支払を受けた日から三十日以内に収用委員会に土地収用法（昭和二十六年法律第二百十九号）第九十四条の規定による裁決を申請することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="11">
+          <Paragraph Hide="false" Num="11" OldStyle="false">
             <ParagraphNum>１１</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第五項の規定による証明書の様式その他証明書に関し必要な事項は、主務省令で定める。</Sentence>
@@ -208,7 +208,7 @@
         <Article Delete="false" Hide="false" Num="7">
           <ArticleCaption>（地すべり防止区域の管理）</ArticleCaption>
           <ArticleTitle>第七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">地すべり防止工事の施行その他地すべり防止区域の管理は、当該地すべり防止区域の存する都道府県を統括する都道府県知事が行うものとする。</Sentence>
@@ -218,7 +218,7 @@
         <Article Delete="false" Hide="false" Num="8">
           <ArticleCaption>（標識の設置）</ArticleCaption>
           <ArticleTitle>第八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、第三条第三項の規定による地すべり防止区域の指定の通知を受けたときは、主務省令で定めるところにより、その地すべり防止区域内にこれを表示する標識を設置しなければならない。</Sentence>
@@ -228,7 +228,7 @@
         <Article Delete="false" Hide="false" Num="9">
           <ArticleCaption>（地すべり防止工事基本計画）</ArticleCaption>
           <ArticleTitle>第九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県知事は、第三条第三項の規定による地すべり防止区域の指定の通知を受けたときは、主務省令で定めるところにより、関係市町村（特別区を含む。以下同じ。）の長の意見をきいて、当該地すべり防止区域に係る地すべり防止工事に関する基本計画を作成し、これを主務大臣に提出するものとする。</Sentence>
@@ -239,7 +239,7 @@
         <Article Delete="false" Hide="false" Num="10">
           <ArticleCaption>（主務大臣の直轄工事）</ArticleCaption>
           <ArticleTitle>第十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">主務大臣は、次の各号の一に該当する場合において、当該地すべり防止工事が国土の保全上特に重要なものであると認められるときは、都道府県知事に代つて自ら当該地すべり防止工事を施行することができる。</Sentence>
@@ -270,13 +270,13 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">主務大臣は、前項の規定により地すべり防止工事を施行する場合においては、政令で定めるところにより、都道府県知事に代つてその権限を行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">主務大臣は、第一項の規定により地すべり防止工事を施行する場合においては、主務省令で定めるところにより、その旨を告示しなければならない。</Sentence>
@@ -286,19 +286,19 @@
         <Article Delete="false" Hide="false" Num="11">
           <ArticleCaption>（主務大臣又は都道府県知事以外の者の施行する工事）</ArticleCaption>
           <ArticleTitle>第十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">主務大臣又は都道府県知事以外の者が地すべり防止工事を施行しようとするときは、あらかじめ当該地すべり防止工事に関する設計及び実施計画について都道府県知事の承認を受けなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国又は地方公共団体は、前項の規定にかかわらず、地すべり防止工事に関する設計及び実施計画について都道府県知事に協議することをもつて足りる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、第一項の承認に、地すべりを防止するため必要な条件を附することができる。</Sentence>
@@ -308,13 +308,13 @@
         <Article Delete="false" Hide="false" Num="12">
           <ArticleCaption>（築造等の基準）</ArticleCaption>
           <ArticleTitle>第十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">地すべり防止施設の種類、配置、構造及び規模並びに水流の付替、地すべり地塊の除去その他地すべりの防止のための工事は、当該地すべり防止区域における地すべりの原因、機構及び規模に応じて、有効かつ適切なものとしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">地すべり防止施設は、次の各号に定めるところにより築造しなければならない。</Sentence>
@@ -360,7 +360,7 @@
         <Article Delete="false" Hide="false" Num="13">
           <ArticleCaption>（兼用工作物の工事の施行）</ArticleCaption>
           <ArticleTitle>第十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、その管理する地すべり防止施設が砂防法（明治三十年法律第二十九号）第一条に規定する砂防設備、森林法（昭和二十六年法律第二百四十九号）第四十一条第三項に規定する保安施設事業に係る施設、かんがい排水施設その他の施設又は工作物（以下これらを「他の工作物」と総称する。）の効用を兼ねるときは、当該他の工作物の管理者との協議により、その者に当該地すべり防止施設に関する工事を施行させ、又は当該地すべり防止施設を維持させることができる。</Sentence>
@@ -370,13 +370,13 @@
         <Article Delete="false" Hide="false" Num="14">
           <ArticleCaption>（工事原因者の工事の施行）</ArticleCaption>
           <ArticleTitle>第十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、その施行する地すべり防止工事以外の工事（以下「他の工事」という。）又は地すべり防止工事の必要を生じさせた行為（以下「他の行為」という。）により自ら施行する必要を生じた地すべり防止工事を当該他の工事の施行者又は他の行為者に施行させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の場合において、他の工事が河川工事（河川法（昭和三十九年法律第百六十七号）が適用され、又は準用される河川の河川工事をいう。以下同じ。）又は道路（道路法（昭和二十七年法律第百八十号）による道路をいう。以下同じ。）に関する工事であるときは、当該地すべり防止工事については、河川法第十九条又は道路法第二十三条第一項の規定を適用する。</Sentence>
@@ -386,13 +386,13 @@
         <Article Delete="false" Hide="false" Num="15">
           <ArticleCaption>（附帯工事の施行）</ArticleCaption>
           <ArticleTitle>第十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、地すべり防止工事により必要を生じた他の工事又は地すべり防止工事を施行するため必要を生じた他の工事を当該地すべり防止工事とあわせて施行することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の場合において、他の工事が河川工事、道路に関する工事又は砂防工事（砂防法による砂防工事をいう。以下同じ。）であるときは、当該他の工事の施行については、河川法第十八条、道路法第二十二条第一項又は砂防法第八条の規定を適用する。</Sentence>
@@ -402,13 +402,13 @@
         <Article Delete="false" Hide="false" Num="16">
           <ArticleCaption>（土地の立入等）</ArticleCaption>
           <ArticleTitle>第十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事又はその命じた職員若しくは委任した者は、地すべり防止区域に関する調査若しくは測量又は地すべり防止工事のためやむを得ない必要があるときは、他人の占有する土地に立ち入り、又は特別の用途のない他人の土地を材料置場若しくは作業場として一時使用することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第六条第二項から第十一項までの規定は、前項の規定により他人の占有する土地に立ち入り、又は他人の土地を一時使用する場合について準用する。</Sentence>
@@ -419,26 +419,26 @@
         <Article Delete="false" Hide="false" Num="17">
           <ArticleCaption>（地すべり防止工事に伴う損失補償）</ArticleCaption>
           <ArticleTitle>第十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">土地収用法第九十三条第一項の規定による場合を除き、都道府県知事が地すべり防止工事を施行したことにより、当該地すべり防止工事を施行した土地に面する土地について、通路、みぞ、かき、さくその他の施設若しくは工作物を新築し、増築し、修繕し、若しくは移転し、又は盛土若しくは切土をするやむを得ない必要があると認められる場合においては、当該都道府県知事の統括する都道府県は、これらの工事をすることを必要とする者（以下この条において「損失を受けた者」という。）の請求により、これに要する費用の全部又は一部を補償しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、当該都道府県知事の統括する都道府県又は損失を受けた者は、補償金の全部又は一部に代えて、当該都道府県知事が当該工事を施行することを要求することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定による損失の補償は、当該地すべり防止工事の完了の日から一年を経過した後においては、請求することができない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項の規定による損失の補償については、当該都道府県知事の統括する都道府県と損失を受けた者とが協議しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定による協議が成立しない場合においては、当該都道府県知事の統括する都道府県又は損失を受けた者は、政令で定めるところにより、収用委員会に土地収用法第九十四条の規定による裁決を申請することができる。</Sentence>
@@ -448,7 +448,7 @@
         <Article Delete="false" Hide="false" Num="18">
           <ArticleCaption>（行為の制限）</ArticleCaption>
           <ArticleTitle>第十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">地すべり防止区域内において、次の各号の一に該当する行為をしようとする者は、都道府県知事の許可を受けなければならない。</Sentence>
@@ -484,13 +484,13 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、前項の許可の申請があつた場合において、当該許可の申請に係る行為が地すべりの防止を著しく阻害し、又は地すべりを著しく助長するものであると認めるときは、これを許可してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、第一項の許可に、地すべりを防止するため必要な条件を附することができる。</Sentence>
@@ -500,7 +500,7 @@
         <Article Delete="false" Hide="false" Num="19">
           <ArticleCaption>（経過措置）</ArticleCaption>
           <ArticleTitle>第十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第三条の規定による地すべり防止区域の指定の際現に当該地すべり防止区域内において権原に基き他の施設等を設置（工事中の場合を含む。）している者は、従前と同様の条件により、当該他の施設等の設置について前条第一項の許可を受けたものとみなす。</Sentence>
@@ -511,13 +511,13 @@
         <Article Delete="false" Hide="false" Num="20">
           <ArticleCaption>（許可の特例）</ArticleCaption>
           <ArticleTitle>第二十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">森林法第三十四条第二項（同法第四十四条において準用する場合を含む。）又は砂防法第四条（同法第三条において準用する場合を含む。）の規定による許可を受けた者は、当該許可に係る行為については、第十八条第一項の許可を受けることを要しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国又は地方公共団体が第十八条第一項各号に規定する行為をしようとするときは、あらかじめ都道府県知事に協議することをもつて足りる。</Sentence>
@@ -527,7 +527,7 @@
         <Article Delete="false" Hide="false" Num="21">
           <ArticleCaption>（監督処分及び損失補償）</ArticleCaption>
           <ArticleTitle>第二十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、次の各号の一に該当する者に対して、その許可を取り消し、若しくはその条件を変更し、又はその行為の中止、他の施設等の改築、移転若しくは除却、他の施設等により生ずべき地すべりを防止するために必要な施設をすること若しくは原状回復を命ずることができる。</Sentence>
@@ -551,7 +551,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、次の各号の一に該当する場合においては、第十八条第一項の許可を受けた者に対し、前項に規定する処分をし、又は同項に規定する必要な措置を命ずることができる。</Sentence>
@@ -575,20 +575,20 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事の統括する都道府県は、前項の規定による処分又は命令により損失を受けた者に対し通常生ずべき損失を補償しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第六条第九項及び第十項の規定は、前項の補償について準用する。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、同条第九項及び第十項中「国」とあるのは、「都道府県知事の統括する都道府県」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事の統括する都道府県は、第三項の規定による補償の原因となつた損失が、第二項第三号の規定による処分又は命令によるものであるときは、当該補償金額を当該理由を生じさせた者に負担させることができる。</Sentence>
@@ -598,25 +598,25 @@
         <Article Delete="false" Hide="false" Num="22">
           <ArticleCaption>（都道府県知事以外の者の管理する地すべり防止施設に関する監督）</ArticleCaption>
           <ArticleTitle>第二十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、その職務の執行に関し必要があると認めるときは、都道府県知事以外の地すべり防止施設の管理者に対し報告若しくは資料の提出を求め、又はその命じた職員に当該地すべり防止施設に立ち入り、これを検査させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定により立入検査をする者は、その身分を示す証明書を携帯し、関係人の請求があつたときは、これを提示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項の立入検査の権限は、犯罪捜査のために認められたものと解してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第二項の証明書の様式その他証明書に関し必要な事項は、主務省令で定める。</Sentence>
@@ -625,7 +625,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="23">
           <ArticleTitle>第二十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、都道府県知事以外の者の管理する地すべり防止施設が次の各号の一に該当する場合において、当該地すべり防止施設が第十二条の規定に適合しないときは、その管理者に対し改良、補修その他当該地すべり防止施設の管理につき必要な措置を命ずることができる。</Sentence>
@@ -649,26 +649,26 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、都道府県知事以外の者の管理する地すべり防止施設が前項各号のいずれにも該当しない場合において、当該地すべり防止施設が第十二条の規定に適合しなくなり、かつ、地すべりの防止上著しい支障があると認められるときは、その管理者に対し前項に規定する措置を命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事の統括する都道府県は、前項の規定による命令により損失を受けた者に対し通常生ずべき損失を補償しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第六条第九項及び第十項の規定は、前項の補償について準用する。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、同条第九項及び第十項中「国」とあるのは、「都道府県知事の統括する都道府県」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前三項の規定は、国又は地方公共団体の管理する地すべり防止施設については、適用しない。</Sentence>
@@ -678,7 +678,7 @@
         <Article Delete="false" Hide="false" Num="24">
           <ArticleCaption>（関連事業計画）</ArticleCaption>
           <ArticleTitle>第二十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、地すべりによる被害を除却し、又は軽減するため必要があると認めるときは、地すべり防止工事基本計画を勘案して、主務省令で定めるところにより、次の各号に掲げる事項を記載した計画（以下「関連事業計画」という。）の概要を作成し、地すべり防止区域の存する市町村の長にこれを提示して、当該市町村における関連事業計画を作成するよう勧告することができる。</Sentence>
@@ -708,14 +708,14 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の勧告に応じて関連事業計画を作成しようとするときは、市町村長は、主務省令で定めるところにより、あらかじめ当該計画に係る事項について利害関係を有する者又はこれらの者の組織する団体の意見をきかなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">これを変更しようとするときも、同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">関連事業計画を作成し、又は変更したときは、市町村長は、主務省令で定めるところにより、その内容を公表するよう努めるものとする。</Sentence>
@@ -725,7 +725,7 @@
         <Article Delete="false" Hide="false" Num="25">
           <ArticleCaption>（立退の指示）</ArticleCaption>
           <ArticleTitle>第二十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県知事又はその命じた職員は、地すべりにより著しい危険が切迫していると認められるときは、必要と認める区域内の居住者に対し避難のために立ち退くべきことを指示することができる。</Sentence>
@@ -736,19 +736,19 @@
         <Article Delete="false" Hide="false" Num="26">
           <ArticleCaption>（地すべり防止区域台帳）</ArticleCaption>
           <ArticleTitle>第二十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、地すべり防止区域台帳を調製し、これを保管しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、地すべり防止区域台帳の閲覧を求められたときは、正当な理由がなければこれを拒むことができない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">地すべり防止区域台帳の記載事項その他その調製及び保管に関し必要な事項は、主務省令で定める。</Sentence>
@@ -761,7 +761,7 @@
         <Article Delete="false" Hide="false" Num="27">
           <ArticleCaption>（地すべり防止区域の管理に要する費用の負担原則）</ArticleCaption>
           <ArticleTitle>第二十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">地すべり防止工事の施行及び標識の設置その他地すべり防止区域の管理に要する費用は、この法律及び他の法律に特別の規定がある場合を除き、当該地すべり防止区域を管理する都道府県知事の統括する都道府県の負担とする。</Sentence>
@@ -771,25 +771,25 @@
         <Article Delete="false" Hide="false" Num="28">
           <ArticleCaption>（主務大臣の直轄工事に要する費用の負担）</ArticleCaption>
           <ArticleTitle>第二十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第十条第一項の規定により主務大臣が施行する地すべり防止工事で、溪流（山間部におけるその直下流を含む。以下同じ。）において施行するもの及びこれと一体となつて直接溪流に土砂を排出することを防止するために施行するものに要する費用は、国がその三分の二を、都道府県がその三分の一を負担する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第十条第一項の規定により主務大臣が施行する地すべり防止工事で前項に規定するもの以外のものに要する費用は、国及び都道府県がそれぞれその二分の一を負担する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前二項の場合において、当該地すべり防止工事によつて他の都府県も著しく利益を受けるときは、主務大臣は、政令で定めるところにより、その利益を受ける限度において、当該地すべり防止区域を管理する都府県知事の統括する都府県の負担すべき負担金の一部を著しく利益を受ける他の都府県に分担させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定により著しく利益を受ける他の都府県に負担金の一部を分担させようとする場合においては、主務大臣は、あらかじめ当該都府県の意見をきかなければならない。</Sentence>
@@ -799,7 +799,7 @@
         <Article Delete="false" Hide="false" Num="29">
           <ArticleCaption>（都道府県知事の施行する地すべり防止工事に要する費用の一部負担）</ArticleCaption>
           <ArticleTitle>第二十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">国は、政令で定めるところにより、都道府県知事の施行する地すべり防止工事に要する費用の二分の一を負担する。</Sentence>
@@ -810,7 +810,7 @@
         <Article Delete="false" Hide="false" Num="30">
           <ArticleCaption>（受益都府県の分担金）</ArticleCaption>
           <ArticleTitle>第三十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都府県知事の施行する地すべり防止工事によつて他の都府県も著しく利益を受けるときは、当該都府県知事は、政令で定めるところにより、他の都府県の知事と協議して、他の都府県の利益を受ける限度において、当該都府県知事の統括する都府県の負担すべき負担金の一部を著しく利益を受ける他の都府県に分担させることができる。</Sentence>
@@ -820,13 +820,13 @@
         <Article Delete="false" Hide="false" Num="31">
           <ArticleCaption>（市町村の分担金）</ArticleCaption>
           <ArticleTitle>第三十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前四条の規定により都道府県が負担する費用のうち、その地すべり防止工事又は地すべり防止施設の維持が当該都道府県の区域内の市町村を利するものについては、当該工事又は維持による受益の限度において、当該市町村に対し、その工事又は維持に要する費用の一部を分担させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の費用について同項の規定により市町村が分担すべき金額は、当該市町村の意見をきいた上、当該都道府県の議会の議決を経て定めなければならない。</Sentence>
@@ -836,7 +836,7 @@
         <Article Delete="false" Hide="false" Num="32">
           <ArticleCaption>（負担金の納付）</ArticleCaption>
           <ArticleTitle>第三十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">主務大臣が地すべり防止工事を施行する場合においては、まず全額国費をもつてこれを施行した後、当該地すべり防止区域を管理する都道府県知事の統括する都道府県又は負担金を分担すべき他の都府県は、政令で定めるところにより、第二十八条第一項又は第二項の規定に基く負担金を国庫に納付しなければならない。</Sentence>
@@ -846,7 +846,7 @@
         <Article Delete="false" Hide="false" Num="33">
           <ArticleCaption>（兼用工作物の費用）</ArticleCaption>
           <ArticleTitle>第三十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事の管理する地すべり防止施設が他の工作物の効用を兼ねるときは、当該地すべり防止施設の管理に要する費用の負担については、当該都道府県知事と当該他の工作物の管理者とが協議して定めるものとする。</Sentence>
@@ -856,13 +856,13 @@
         <Article Delete="false" Hide="false" Num="34">
           <ArticleCaption>（原因者負担金）</ArticleCaption>
           <ArticleTitle>第三十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、他の工事又は他の行為により自ら施行する必要を生じた地すべり防止工事の費用については、その必要を生じた限度において、他の工事又は他の行為につき費用を負担する者にその全部又は一部を負担させるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の場合において、他の工事が河川工事又は道路に関する工事であるときは、当該地すべり防止工事の費用については、河川法第六十八条又は道路法第五十九条第一項及び第三項の規定を適用する。</Sentence>
@@ -872,19 +872,19 @@
         <Article Delete="false" Hide="false" Num="35">
           <ArticleCaption>（附帯工事に要する費用）</ArticleCaption>
           <ArticleTitle>第三十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事の施行する地すべり防止工事により必要を生じた他の工事又はその施行する地すべり防止工事を施行するため必要を生じた他の工事に要する費用は、第十八条第一項の許可に附した条件に特別の定がある場合及び第二十条第二項の協議による場合を除き、その必要を生じた限度において、当該都道府県知事の統括する都道府県がその全部又は一部を負担するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の場合において、他の工事が河川工事、道路に関する工事又は砂防工事であるときは、他の工事に要する費用については、河川法第六十七条、道路法第五十八条第一項又は砂防法第十六条の規定を適用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、第一項の地すべり防止工事が他の工事又は他の行為のため必要となつたものである場合においては、同項の他の工事に要する費用の全部又は一部をその必要を生じた限度において、その原因となつた工事又は行為につき費用を負担する者に負担させることができる。</Sentence>
@@ -894,13 +894,13 @@
         <Article Delete="false" Hide="false" Num="36">
           <ArticleCaption>（受益者負担金）</ArticleCaption>
           <ArticleTitle>第三十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、その施行する地すべり防止工事によつて著しく利益を受ける者がある場合においては、その利益を受ける限度において、当該工事に要する費用の一部を負担させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の場合において、負担金の徴収を受ける者の範囲及びその徴収方法については、当該都道府県知事の統括する都道府県の条例で定める。</Sentence>
@@ -910,7 +910,7 @@
         <Article Delete="false" Hide="false" Num="37">
           <ArticleCaption>（負担金の通知及び納入手続等）</ArticleCaption>
           <ArticleTitle>第三十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前三条の規定による負担金の額の通知及び納入手続その他負担金に関し必要な事項は、政令で定める。</Sentence>
@@ -920,33 +920,33 @@
         <Article Delete="false" Hide="false" Num="38">
           <ArticleCaption>（強制徴収）</ArticleCaption>
           <ArticleTitle>第三十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第三十三条、第三十四条第一項、第三十五条第三項及び第三十六条第一項の規定に基く負担金（以下単に「負担金」という。）を納付しない者があるときは、都道府県知事は、督促状によつて納付すべき期限を指定して督促しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の場合においては、都道府県知事は、主務省令で定めるところにより、延滞金を徴収することができる。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、延滞金は、年十四・五パーセントの割合を乗じて計算した額をこえない範囲内で定めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第一項の規定による督促を受けた者がその指定する期限までにその納付すべき金額を納付しないときは、都道府県知事は、国税滞納処分の例により、前二項に規定する負担金及び延滞金を徴収することができる。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合における負担金及び延滞金の先取特権の順位は、国税及び地方税に次ぐものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">延滞金は、負担金に先だつものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">負担金及び延滞金を徴収する権利は、これらを行使することができる時から五年間行使しないときは、時効により消滅する。</Sentence>
@@ -956,7 +956,7 @@
         <Article Delete="false" Hide="false" Num="39">
           <ArticleCaption>（収入の帰属）</ArticleCaption>
           <ArticleTitle>第三十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">負担金及び前条第二項の延滞金は、当該都道府県知事の統括する都道府県に帰属する。</Sentence>
@@ -966,7 +966,7 @@
         <Article Delete="false" Hide="false" Num="40">
           <ArticleCaption>（義務履行のために要する費用）</ArticleCaption>
           <ArticleTitle>第四十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律又はこの法律によつてする処分による義務を履行するために必要な費用は、この法律に特別の規定がある場合を除き、当該義務者が負担しなければならない。</Sentence>
@@ -979,7 +979,7 @@
         <Article Delete="false" Hide="false" Num="41">
           <ArticleCaption>（ぼた山崩壊防止区域の管理）</ArticleCaption>
           <ArticleTitle>第四十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">ぼた山崩壊防止工事の施行その他ぼた山崩壊防止区域の管理は、当該ぼた山崩壊防止区域の存する都道府県を統括する都道府県知事が行うものとする。</Sentence>
@@ -989,7 +989,7 @@
         <Article Delete="false" Hide="false" Num="42">
           <ArticleCaption>（行為の制限）</ArticleCaption>
           <ArticleTitle>第四十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">ぼた山崩壊防止区域内において、次の各号の一に該当する行為をしようとする者は、都道府県知事の許可を受けなければならない。</Sentence>
@@ -1031,7 +1031,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第十八条第二項及び第三項の規定は、前項の許可について準用する。</Sentence>
@@ -1042,7 +1042,7 @@
         <Article Delete="false" Hide="false" Num="43">
           <ArticleCaption>（経過措置）</ArticleCaption>
           <ArticleTitle>第四十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第四条の規定によるぼた山崩壊防止区域の指定の際現に当該ぼた山崩壊防止区域内において権原に基き前条第一項各号に規定する行為を行つている者は、従前と同様の条件により、当該行為について同条第一項の許可を受けたものとみなす。</Sentence>
@@ -1052,7 +1052,7 @@
         <Article Delete="false" Hide="false" Num="44">
           <ArticleCaption>（ぼた山崩壊防止区域の管理に要する費用の負担原則）</ArticleCaption>
           <ArticleTitle>第四十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">ぼた山崩壊防止工事の施行その他ぼた山崩壊防止区域の管理に要する費用は、この法律及び他の法律に特別の規定がある場合を除き、当該ぼた山崩壊防止区域を管理する都道府県知事の統括する都道府県の負担とする。</Sentence>
@@ -1062,14 +1062,14 @@
         <Article Delete="false" Hide="false" Num="45">
           <ArticleCaption>（準用規定）</ArticleCaption>
           <ArticleTitle>第四十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第八条、第十三条から第十七条まで、第二十条、第二十一条、第二十六条、第二十九条から第三十一条まで及び第三十三条から第四十条までの規定は、ぼた山崩壊防止区域に関する管理及び費用について準用する。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、第八条中「第三条第三項の規定による地すべり防止区域」とあるのは「第四条第二項において準用する第三条第三項の規定によるぼた山崩壊防止区域」と、「その地すべり防止区域内」とあるのは「そのぼた山崩壊防止区域内」と、第十六条第一項中「地すべり防止区域」とあるのは「ぼた山崩壊防止区域」と、「地すべり防止工事」とあるのは「ぼた山崩壊防止工事」と、第二十条中「森林法第三十四条第二項（同法第四十四条において準用する場合を含む。）」とあるのは「森林法第三十四条第一項若しくは第二項（これらの規定を同法第四十四条において準用する場合を含む。）」と、「第十八条第一項」とあるのは「第四十二条第一項」と、第二十一条第一項及び第二項並びに第三十五条第一項中「第十八条第一項」とあるのは「第四十二条第一項」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項後段に規定するもののほか、同項の準用に関し必要な技術的読替は、政令で定める。</Sentence>
@@ -1082,7 +1082,7 @@
         <Article Delete="false" Hide="false" Num="46">
           <ArticleCaption>（関連事業計画に基く事業を実施した者に対する補助）</ArticleCaption>
           <ArticleTitle>第四十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国は、都道府県が第二十四条第一項第二号から第四号（同号中同項第一号に該当する事項を除く。）までに掲げる事業を実施した市町村その他政令で定める者に対しその事業に要する費用を補助した場合においては、当該都道府県に対し、予算の範囲内において、政令で定めるところにより、当該事業に要する費用の二分の一以内を補助することができる。</Sentence>
@@ -1092,7 +1092,7 @@
         <Article Delete="false" Hide="false" Num="47">
           <ArticleCaption>（独立行政法人住宅金融支援機構等の資金の貸付けについての配慮）</ArticleCaption>
           <ArticleTitle>第四十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">独立行政法人住宅金融支援機構及び沖縄振興開発金融公庫は、法令及びその事業計画の範囲内において、第二十四条の規定により作成され、又は変更された関連事業計画に基づく住宅部分を有する家屋の移転又は除却が円滑に行われるよう、必要な資金の貸付けについて配慮するものとする。</Sentence>
@@ -1102,13 +1102,13 @@
         <Article Delete="false" Hide="false" Num="48">
           <ArticleCaption>（漁港管理者又は港湾管理者に対する協議）</ArticleCaption>
           <ArticleTitle>第四十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">主務大臣又は都道府県知事は、漁港漁場整備法（昭和二十五年法律第百三十七号）第二条の規定による漁港の区域（水域を除く。）内において地すべり防止工事を施行しようとするときは、あらかじめ漁港管理者に協議しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">主務大臣又は都道府県知事は、港湾法（昭和二十五年法律第二百十八号）第三十七条第一項の規定による港湾隣接地域内において地すべり防止工事（同項各号に規定する行為に該当するものを除く。）を施行しようとするときは、あらかじめ港湾管理者に協議しなければならない。</Sentence>
@@ -1118,7 +1118,7 @@
         <Article Delete="false" Hide="false" Num="49">
           <ArticleCaption>（報告の徴収）</ArticleCaption>
           <ArticleTitle>第四十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">主務大臣は、この法律の施行に関し必要があると認めるときは、都道府県知事に対し報告又は資料の提出を求めることができる。</Sentence>
@@ -1128,7 +1128,7 @@
         <Article Delete="false" Hide="false" Num="50">
           <ArticleCaption>（裁定の申請）</ArticleCaption>
           <ArticleTitle>第五十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">次に掲げる処分に不服がある者は、その不服の理由が鉱業、採石業又は砂利採取業との調整に関するものであるときは、公害等調整委員会に対して裁定の申請をすることができる。</Sentence>
@@ -1165,7 +1165,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">行政不服審査法（平成二十六年法律第六十八号）第二十二条の規定は、前項各号の処分につき、処分をした行政庁が誤つて審査請求又は再調査の請求をすることができる旨を教示した場合に準用する。</Sentence>
@@ -1175,7 +1175,7 @@
         <Article Delete="false" Hide="false" Num="51">
           <ArticleCaption>（主務大臣等）</ArticleCaption>
           <ArticleTitle>第五十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">地すべり防止区域又はぼた山崩壊防止区域の指定及び管理についての主務大臣は、次のとおりとする。</Sentence>
@@ -1211,13 +1211,13 @@
               </Subitem1>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">地すべり防止区域又はぼた山崩壊防止区域の指定は、関係主務大臣が相互に協議してしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律における主務省令は、主務大臣の発する命令とする。</Sentence>
@@ -1227,7 +1227,7 @@
         <Article Delete="false" Hide="false" Num="51_2">
           <ArticleCaption>（権限の委任）</ArticleCaption>
           <ArticleTitle>第五十一条の二</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律に規定する主務大臣の権限は、政令で定めるところにより、その一部を地方支分部局の長に委任することができる。</Sentence>
@@ -1237,13 +1237,13 @@
         <Article Delete="false" Hide="false" Num="51_3">
           <ArticleCaption>（事務の区分）</ArticleCaption>
           <ArticleTitle>第五十一条の三</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第七条、第八条（第四十五条において準用する場合を含む。）、第九条、第十一条、第十三条（第四十五条において準用する場合を含む。）、第十四条第一項（第四十五条において準用する場合を含む。）、第十五条第一項（第四十五条において準用する場合を含む。）、第十六条第一項（第四十五条において準用する場合を含む。）、第十六条第二項（第四十五条において準用する場合を含む。）において準用する第六条第二項、第三項、第五項及び第六項、第十八条（第四十二条第二項において準用する場合を含む。）、第二十条第二項（第四十五条において準用する場合を含む。）、第二十一条第一項及び第二項（第四十五条においてこれらの規定を準用する場合を含む。）、第二十二条第一項、第二十三条第一項及び第二項、第二十四条第一項、第二十五条、第二十六条第一項（第四十五条において準用する場合を含む。）、第三十条（第四十五条において準用する場合を含む。）、第三十一条（第四十五条において準用する場合を含む。）、第三十三条（第四十五条において準用する場合を含む。）、第三十四条第一項（第四十五条において準用する場合を含む。）、第三十五条第三項（第四十五条において準用する場合を含む。）、第三十六条第一項（第四十五条において準用する場合を含む。）、第三十八条第一項から第三項まで（第四十五条においてこれらの規定を準用する場合を含む。）、第四十一条、第四十二条第一項並びに第四十八条の規定により都道府県が処理することとされている事務は、地方自治法（昭和二十二年法律第六十七号）第二条第九項第一号に規定する第一号法定受託事務（次項において単に「第一号法定受託事務」という。）とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">他の法律及びこれに基づく政令の規定により、地すべり防止工事の施行その他地すべり防止区域の管理及びぼた山崩壊防止工事の施行その他ぼた山崩壊防止区域の管理に関して都道府県が処理することとされている事務は、第一号法定受託事務とする。</Sentence>
@@ -1256,7 +1256,7 @@
         <Article Delete="false" Hide="false" Num="52">
           <ArticleCaption>（罰則）</ArticleCaption>
           <ArticleTitle>第五十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第十八条第一項又は第四十二条第一項の規定に違反した者は、一年以下の懲役又は十万円以下の罰金に処する。</Sentence>
@@ -1265,7 +1265,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="53">
           <ArticleTitle>第五十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次の各号の一に該当する者は、六月以下の懲役又は五万円以下の罰金に処する。</Sentence>
@@ -1292,7 +1292,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="54">
           <ArticleTitle>第五十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第八条（第四十五条第一項において準用する場合を含む。）の規定により設置した標識を移動し、汚損し、又は破損した者は、一万円以下の罰金に処する。</Sentence>
@@ -1302,7 +1302,7 @@
         <Article Delete="false" Hide="false" Num="55">
           <ArticleCaption>（両罰規定）</ArticleCaption>
           <ArticleTitle>第五十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者がその法人又は人の業務に関し、第五十二条又は第五十三条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各本条の罰金刑を科する。</Sentence>
@@ -1316,7 +1316,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、昭和三十三年四月一日から施行する。</Sentence>
@@ -1326,7 +1326,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（昭和六十年度の特例）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">第二十八条第一項及び第二十九条第一項（第四十五条第一項において準用する場合を含む。）の規定の昭和六十年度における適用については、第二十八条第一項中「三分の二」とあるのは「十分の六」と、「三分の一」とあるのは「十分の四」とし、第二十九条第一項中「三分の二」とあるのは「十分の六」とする。</Sentence>
@@ -1337,7 +1337,7 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（昭和六十一年度、平成三年度及び平成四年度の特例）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">第二十八条第一項及び第二十九条第一項（第四十五条第一項において準用する場合を含む。）の規定の昭和六十一年度、平成三年度及び平成四年度における適用については、第二十八条第一項中「三分の二」とあるのは「十分の六」と、「三分の一」とあるのは「十分の四」とし、第二十九条第一項中「三分の二」とあるのは「十分の五・五」とする。</Sentence>
@@ -1348,7 +1348,7 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（昭和六十二年度から平成二年度までの特例）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">第二十八条第一項及び第二十九条第一項（第四十五条第一項において準用する場合を含む。）の規定の昭和六十二年度から平成二年度までの各年度における適用については、第二十八条第一項中「三分の二」とあるのは「十分の五・五（再度災害を防止するために施行する地すべり防止工事であつて附則第七条ただし書の緊急地すべり対策事業に係るもの以外のものに要する費用にあつては、その十分の六）」と、「三分の一」とあるのは「十分の四・五（再度災害を防止するために施行する地すべり防止工事であつて同条ただし書の緊急地すべり対策事業に係るもの以外のものに要する費用にあつては、その十分の四）」とし、第二十九条第一項中「三分の二」とあるのは「十分の五・二五（再度災害を防止するために施行する地すべり防止工事であつて附則第七条ただし書の緊急地すべり対策事業に係るもの以外のものに要する費用にあつては、その十分の五・五）」とする。</Sentence>
@@ -1359,31 +1359,31 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（国の無利子貸付け等）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">国は、当分の間、都道府県に対し、第二十九条の規定により国がその費用について負担する地すべり防止工事で日本電信電話株式会社の株式の売払収入の活用による社会資本の整備の促進に関する特別措置法（昭和六十二年法律第八十六号）第二条第一項第二号に該当するものに要する費用に充てる資金について、予算の範囲内において、第二十九条の規定（この規定による国の負担の割合について、この規定と異なる定めをした法令の規定がある場合には、当該異なる定めをした法令の規定を含む。以下同じ。）により国が負担する金額に相当する金額を無利子で貸し付けることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の国の貸付金の償還期間は、五年（二年以内の据置期間を含む。）以内で政令で定める期間とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項に定めるもののほか、第一項の規定による貸付金の償還方法、償還期限の繰上げその他償還に関し必要な事項は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">国は、第一項の規定により、都道府県に対し貸付けを行つた場合には、当該貸付けの対象である地すべり防止工事に係る第二十九条の規定による国の負担については、当該貸付金の償還時において、当該貸付金の償還金に相当する金額を交付することにより行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">都道府県が、第一項の規定による貸付けを受けた無利子貸付金について、第二項及び第三項の規定に基づき定められる償還期限を繰り上げて償還を行つた場合（政令で定める場合を除く。）における前項の規定の適用については、当該償還は、当該償還期限の到来時に行われたものとみなす。</Sentence>
@@ -1391,16 +1391,16 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三四年四月二〇日法律第一四八号" Extract="true">
+    <SupplProvision AmendLawId="334148" AmendLawNum="昭和三四年四月二〇日法律第一四八号" Extract="true" Id="f578bfee-d3bf-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、国税徴収法（昭和三十四年法律第百四十七号）の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="7">
+      <Paragraph Hide="false" Num="7" OldStyle="false">
         <ParagraphCaption>（公課の先取特権の順位の改正に関する経過措置）</ParagraphCaption>
         <ParagraphNum>７</ParagraphNum>
         <ParagraphSentence>
@@ -1408,30 +1408,30 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三五年三月三一日法律第三九号" Extract="true">
+    <SupplProvision AmendLawId="335039" AmendLawNum="昭和三五年三月三一日法律第三九号" Extract="true" Id="fff73ce0-18e8-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三五年三月三一日法律第四〇号" Extract="true">
+    <SupplProvision AmendLawId="335040" AmendLawNum="昭和三五年三月三一日法律第四〇号" Extract="true" Id="209e9546-1895-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行し、昭和三十五年度の予算から適用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三七年四月四日法律第六八号" Extract="true">
+    <SupplProvision AmendLawId="337068" AmendLawNum="昭和三七年四月四日法律第六八号" Extract="true" Id="5a24f60a-18c4-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して九十日をこえない範囲内で政令で定める日から施行する。</Sentence>
@@ -1439,59 +1439,59 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三七年九月一五日法律第一六一号" Extract="true">
+    <SupplProvision AmendLawId="337161" AmendLawNum="昭和三七年九月一五日法律第一六一号" Extract="true" Id="4d6c2670-d3be-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、昭和三十七年十月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この法律による改正後の規定は、この附則に特別の定めがある場合を除き、この法律の施行前にされた行政庁の処分、この法律の施行前にされた申請に係る行政庁の不作為その他この法律の施行前に生じた事項についても適用する。</Sentence>
           <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、この法律による改正前の規定によつて生じた効力を妨げない。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この法律の施行前に提起された訴願、審査の請求、異議の申立てその他の不服申立て（以下「訴願等」という。）については、この法律の施行後も、なお従前の例による。</Sentence>
           <Sentence Num="2" WritingMode="vertical">この法律の施行前にされた訴願等の裁決、決定その他の処分（以下「裁決等」という。）又はこの法律の施行前に提起された訴願等につきこの法律の施行後にされる裁決等にさらに不服がある場合の訴願等についても、同様とする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="4">
+      <Paragraph Hide="false" Num="4" OldStyle="false">
         <ParagraphNum>４</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">前項に規定する訴願等で、この法律の施行後は行政不服審査法による不服申立てをすることができることとなる処分に係るものは、同法以外の法律の適用については、行政不服審査法による不服申立てとみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="5">
+      <Paragraph Hide="false" Num="5" OldStyle="false">
         <ParagraphNum>５</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">第三項の規定によりこの法律の施行後にされる審査の請求、異議の申立てその他の不服申立ての裁決等については、行政不服審査法による不服申立てをすることができない。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="8">
+      <Paragraph Hide="false" Num="8" OldStyle="false">
         <ParagraphNum>８</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="9">
+      <Paragraph Hide="false" Num="9" OldStyle="false">
         <ParagraphNum>９</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">前八項に定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三八年六月八日法律第九九号" Extract="true">
+    <SupplProvision AmendLawId="338099" AmendLawNum="昭和三八年六月八日法律第九九号" Extract="true" Id="8d77118e-c5ff-4fa8-94d3-160c7071d257">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日及び適用区分）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律中目次の改正規定（第三編第四章の次に一章を加える部分に限る。）、第一条の二の改正規定、第二条第三項第八号の改正規定、第二百六十三条の二の次に一条を加える改正規定、第三編第四章の次に一章を加える改正規定、附則第二十条の二の次に一条を加える改正規定及び別表の改正規定並びに附則第十五条から附則第十八条まで、附則第二十四条（地方開発事業団に関する部分に限る。）、附則第二十五条（地方開発事業団に関する部分に限る。）及び附則第三十五条の規定（以下「財務以外の改正規定等」という。）は公布の日から、普通地方公共団体に係る会計の区分、予算の調製及び議決、継続費、繰越明許費、債務負担行為、予算の内容、歳入歳出予算の区分、予備費、補正予算及び暫定予算、地方債並びに一時借入金に関する改正規定並びに附則第四条、附則第五条第一項、第二項及び第四項、附則第六条第一項並びに附則第八条の規定（以下「予算関係の改正規定」という。）は昭和三十九年一月一日から、その他の改正規定並びに附則第二条、附則第三条、附則第五条第三項、附則第六条第二項及び第三項、附則第七条、附則第九条から附則第十四条まで、附則第十九条から附則第二十三条まで、附則第二十四条（地方開発事業団に関する部分を除く。）、附則第二十五条（地方開発事業団に関する部分を除く。）並びに附則第二十六条から附則第三十四条までの規定は同年四月一日から施行する。</Sentence>
@@ -1499,21 +1499,21 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三九年七月一〇日法律第一六八号" Extract="true">
+    <SupplProvision AmendLawId="339168" AmendLawNum="昭和三九年七月一〇日法律第一六八号" Extract="true" Id="76755dfa-47dd-11e5-962e-77e77be5d033">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、新法の施行の日（昭和四十年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四五年四月一日法律第一三号" Extract="true">
+    <SupplProvision AmendLawId="345013" AmendLawNum="昭和四五年四月一日法律第一三号" Extract="true" Id="5177a4a4-47dd-11e5-8f30-2b3854bcf21e">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -1521,12 +1521,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四七年五月一三日法律第三一号" Extract="true">
+    <SupplProvision AmendLawId="347031" AmendLawNum="昭和四七年五月一三日法律第三一号" Extract="true" Id="48a8396a-47dd-11e5-8cc4-57f4ac00de27">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -1534,12 +1534,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四七年六月三日法律第五二号" Extract="true">
+    <SupplProvision AmendLawId="347052" AmendLawNum="昭和四七年六月三日法律第五二号" Extract="true" Id="57fdaf30-47dd-11e5-90e8-1b4465cb9f39">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日等）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して三十日をこえない範囲内において政令で定める日から施行する。</Sentence>
@@ -1549,13 +1549,13 @@
       <Article Delete="false" Hide="false" Num="16">
         <ArticleCaption>（土地調整委員会又は中央公害審査委員会がした処分等に関する経過措置）</ArticleCaption>
         <ArticleTitle>第十六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前にこの法律による改正前の法律の規定により土地調整委員会又は中央公害審査委員会がした処分その他の行為は、政令で別段の定めをするものを除き、この法律又はこの法律による改正後の法律の相当規定により、公害等調整委員会がした処分その他の行為とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行の際現にこの法律による改正前の法律の規定により土地調整委員会又は中央公害審査委員会に対してされている申請その他の手続は、政令で別段の定めをするものを除き、この法律又はこの法律による改正後の法律の相当規定により、公害等調整委員会に対してされた手続とみなす。</Sentence>
@@ -1563,12 +1563,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五三年七月五日法律第八七号" Extract="true">
+    <SupplProvision AmendLawId="353087" AmendLawNum="昭和五三年七月五日法律第八七号" Extract="true" Id="f5c71842-d3bf-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -1576,9 +1576,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和六〇年五月一八日法律第三七号" Extract="true">
+    <SupplProvision AmendLawId="360037" AmendLawNum="昭和六〇年五月一八日法律第三七号" Extract="true" Id="ac53ff34-42e7-4aec-a8cb-b1123bddb1ff">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -1586,31 +1586,31 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和六一年五月八日法律第四六号" Extract="true">
+    <SupplProvision AmendLawId="361046" AmendLawNum="昭和六一年五月八日法律第四六号" Extract="true" Id="726c2408-f208-48f7-8728-741b8b9ada6a">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律（第十一条、第十二条及び第三十四条の規定を除く。）による改正後の法律の昭和六十一年度から昭和六十三年度までの各年度の特例に係る規定並びに昭和六十一年度及び昭和六十二年度の特例に係る規定は、昭和六十一年度から昭和六十三年度までの各年度（昭和六十一年度及び昭和六十二年度の特例に係るものにあつては、昭和六十一年度及び昭和六十二年度。以下この項において同じ。）の予算に係る国の負担（当該国の負担に係る都道府県又は市町村の負担を含む。以下この項において同じ。）又は補助（昭和六十年度以前の年度における事務又は事業の実施により昭和六十一年度以降の年度に支出される国の負担又は補助及び昭和六十年度以前の年度の国庫債務負担行為に基づき昭和六十一年度以降の年度に支出すべきものとされた国の負担又は補助を除く。）並びに昭和六十一年度から昭和六十三年度までの各年度における事務又は事業の実施により昭和六十四年度（昭和六十一年度及び昭和六十二年度の特例に係るものにあつては、昭和六十三年度。以下この項において同じ。）以降の年度に支出される国の負担又は補助、昭和六十一年度から昭和六十三年度までの各年度の国庫債務負担行為に基づき昭和六十四年度以降の年度に支出すべきものとされる国の負担又は補助及び昭和六十一年度から昭和六十三年度までの各年度の歳出予算に係る国の負担又は補助で昭和六十四年度以降の年度に繰り越されるものについて適用し、昭和六十年度以前の年度における事務又は事業の実施により昭和六十一年度以降の年度に支出される国の負担又は補助、昭和六十年度以前の年度の国庫債務負担行為に基づき昭和六十一年度以降の年度に支出すべきものとされた国の負担又は補助及び昭和六十年度以前の年度の歳出予算に係る国の負担又は補助で昭和六十一年度以降の年度に繰り越されたものについては、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和六二年三月三一日法律第一一号" Extract="true">
+    <SupplProvision AmendLawId="362011" AmendLawNum="昭和六二年三月三一日法律第一一号" Extract="true" Id="ac12f120-188c-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、昭和六十二年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -1618,68 +1618,68 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和六二年九月四日法律第八七号">
+    <SupplProvision AmendLawId="362087" AmendLawNum="昭和六二年九月四日法律第八七号" Id="507133b0-188a-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行し、第六条及び第八条から第十二条までの規定による改正後の国有林野事業特別会計法、道路整備特別会計法、治水特別会計法、港湾整備特別会計法、都市開発資金融通特別会計法及び空港整備特別会計法の規定は、昭和六十二年度の予算から適用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成元年四月一〇日法律第二二号" Extract="true">
+    <SupplProvision AmendLawId="401022" AmendLawNum="平成元年四月一〇日法律第二二号" Extract="true" Id="c684b13a-374b-4b3a-b955-033903f997c2">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律（第十一条、第十二条及び第三十四条の規定を除く。）による改正後の法律の平成元年度及び平成二年度の特例に係る規定並びに平成元年度の特例に係る規定は、平成元年度及び平成二年度（平成元年度の特例に係るものにあっては、平成元年度。以下この項において同じ。）の予算に係る国の負担（当該国の負担に係る都道府県又は市町村の負担を含む。以下この項及び次項において同じ。）又は補助（昭和六十三年度以前の年度における事務又は事業の実施により平成元年度以降の年度に支出される国の負担及び昭和六十三年度以前の年度の国庫債務負担行為に基づき平成元年度以降の年度に支出すべきものとされた国の負担又は補助を除く。）並びに平成元年度及び平成二年度における事務又は事業の実施により平成三年度（平成元年度の特例に係るものにあっては、平成二年度。以下この項において同じ。）以降の年度に支出される国の負担、平成元年度及び平成二年度の国庫債務負担行為に基づき平成三年度以降の年度に支出すべきものとされる国の負担又は補助並びに平成元年度及び平成二年度の歳出予算に係る国の負担又は補助で平成三年度以降の年度に繰り越されるものについて適用し、昭和六十三年度以前の年度における事務又は事業の実施により平成元年度以降の年度に支出される国の負担、昭和六十三年度以前の年度の国庫債務負担行為に基づき平成元年度以降の年度に支出すべきものとされた国の負担又は補助及び昭和六十三年度以前の年度の歳出予算に係る国の負担又は補助で平成元年度以降の年度に繰り越されたものについては、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三年三月三〇日法律第一五号">
+    <SupplProvision AmendLawId="403015" AmendLawNum="平成三年三月三〇日法律第一五号" Id="43aa8ef4-47dd-11e5-8b18-cb4d9139c46b">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、平成三年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律（第十一条及び第十九条の規定を除く。）による改正後の法律の平成三年度及び平成四年度の特例に係る規定並びに平成三年度の特例に係る規定は、平成三年度及び平成四年度（平成三年度の特例に係るものにあっては平成三年度とする。以下この項において同じ。）の予算に係る国の負担（当該国の負担に係る都道府県又は市町村の負担を含む。以下この項において同じ。）又は補助（平成二年度以前の年度における事務又は事業の実施により平成三年度以降の年度に支出される国の負担及び平成二年度以前の年度の国庫債務負担行為に基づき平成三年度以降の年度に支出すべきものとされた国の負担又は補助を除く。）並びに平成三年度及び平成四年度における事務又は事業の実施により平成五年度（平成三年度の特例に係るものにあっては平成四年度とする。以下この項において同じ。）以降の年度に支出される国の負担、平成三年度及び平成四年度の国庫債務負担行為に基づき平成五年度以降の年度に支出すべきものとされる国の負担又は補助並びに平成三年度及び平成四年度の歳出予算に係る国の負担又は補助で平成五年度以降の年度に繰り越されるものについて適用し、平成二年度以前の年度における事務又は事業の実施により平成三年度以降の年度に支出される国の負担、平成二年度以前の年度の国庫債務負担行為に基づき平成三年度以降の年度に支出すべきものとされた国の負担又は補助及び平成二年度以前の年度の歳出予算に係る国の負担又は補助で平成三年度以降の年度に繰り越されたものについては、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成五年三月三一日法律第八号" Extract="true">
+    <SupplProvision AmendLawId="405008" AmendLawNum="平成五年三月三一日法律第八号" Extract="true" Id="c3baaddc-6e69-4e89-a254-5e182f341e43">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、平成五年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律（第十一条及び第二十条の規定を除く。）による改正後の法律の規定は、平成五年度以降の年度の予算に係る国の負担（当該国の負担に係る都道府県又は市町村の負担を含む。以下この項において同じ。）又は補助（平成四年度以前の年度における事務又は事業の実施により平成五年度以降の年度に支出される国の負担及び平成四年度以前の年度の国庫債務負担行為に基づき平成五年度以降の年度に支出すべきものとされた国の負担又は補助を除く。）について適用し、平成四年度以前の年度における事務又は事業の実施により平成五年度以降の年度に支出される国の負担、平成四年度以前の年度の国庫債務負担行為に基づき平成五年度以降の年度に支出すべきものとされた国の負担又は補助及び平成四年度以前の年度の歳出予算に係る国の負担又は補助で平成五年度以降の年度に繰り越されたものについては、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true">
+    <SupplProvision AmendLawId="411087" AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true" Id="8a6950aa-d3b6-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十二年四月一日から施行する。</Sentence>
@@ -1701,13 +1701,13 @@
       <Article Delete="false" Hide="false" Num="133">
         <ArticleCaption>（地すべり等防止法の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第百三十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行の際現に第四百二十三条の規定による改正前の地すべり等防止法（以下この条において「旧地すべり等防止法」という。）第二十四条第三項の規定による承認を受けた関連事業計画は、第四百二十三条の規定による改正後の地すべり等防止法（以下この条において「新地すべり等防止法」という。）第二十四条第三項の規定による協議を行った関連事業計画とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行の際現に旧地すべり等防止法第二十四条第三項の規定によりされている承認の申請は、新地すべり等防止法第二十四条第三項の規定によりされた協議の申出とみなす。</Sentence>
@@ -1717,7 +1717,7 @@
       <Article Delete="false" Hide="false" Num="159">
         <ArticleCaption>（国等の事務）</ArticleCaption>
         <ArticleTitle>第百五十九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律による改正前のそれぞれの法律に規定するもののほか、この法律の施行前において、地方公共団体の機関が法律又はこれに基づく政令により管理し又は執行する国、他の地方公共団体その他公共団体の事務（附則第百六十一条において「国等の事務」という。）は、この法律の施行後は、地方公共団体が法律又はこれに基づく政令により当該地方公共団体の事務として処理するものとする。</Sentence>
@@ -1727,13 +1727,13 @@
       <Article Delete="false" Hide="false" Num="160">
         <ArticleCaption>（処分、申請等に関する経過措置）</ArticleCaption>
         <ArticleTitle>第百六十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律（附則第一条各号に掲げる規定については、当該各規定。以下この条及び附則第百六十三条において同じ。）の施行前に改正前のそれぞれの法律の規定によりされた許可等の処分その他の行為（以下この条において「処分等の行為」という。）又はこの法律の施行の際現に改正前のそれぞれの法律の規定によりされている許可等の申請その他の行為（以下この条において「申請等の行為」という。）で、この法律の施行の日においてこれらの行為に係る行政事務を行うべき者が異なることとなるものは、附則第二条から前条までの規定又は改正後のそれぞれの法律（これに基づく命令を含む。）の経過措置に関する規定に定めるものを除き、この法律の施行の日以後における改正後のそれぞれの法律の適用については、改正後のそれぞれの法律の相当規定によりされた処分等の行為又は申請等の行為とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前に改正前のそれぞれの法律の規定により国又は地方公共団体の機関に対し報告、届出、提出その他の手続をしなければならない事項で、この法律の施行の日前にその手続がされていないものについては、この法律及びこれに基づく政令に別段の定めがあるもののほか、これを、改正後のそれぞれの法律の相当規定により国又は地方公共団体の相当の機関に対して報告、届出、提出その他の手続をしなければならない事項についてその手続がされていないものとみなして、この法律による改正後のそれぞれの法律の規定を適用する。</Sentence>
@@ -1743,14 +1743,14 @@
       <Article Delete="false" Hide="false" Num="161">
         <ArticleCaption>（不服申立てに関する経過措置）</ArticleCaption>
         <ArticleTitle>第百六十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">施行日前にされた国等の事務に係る処分であって、当該処分をした行政庁（以下この条において「処分庁」という。）に施行日前に行政不服審査法に規定する上級行政庁（以下この条において「上級行政庁」という。）があったものについての同法による不服申立てについては、施行日以後においても、当該処分庁に引き続き上級行政庁があるものとみなして、行政不服審査法の規定を適用する。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、当該処分庁の上級行政庁とみなされる行政庁は、施行日前に当該処分庁の上級行政庁であった行政庁とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の場合において、上級行政庁とみなされる行政庁が地方公共団体の機関であるときは、当該機関が行政不服審査法の規定により処理することとされる事務は、新地方自治法第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
@@ -1760,7 +1760,7 @@
       <Article Delete="false" Hide="false" Num="163">
         <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
         <ArticleTitle>第百六十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -1770,7 +1770,7 @@
       <Article Delete="false" Hide="false" Num="164">
         <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
         <ArticleTitle>第百六十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
@@ -1780,7 +1780,7 @@
       <Article Delete="false" Hide="false" Num="250">
         <ArticleCaption>（検討）</ArticleCaption>
         <ArticleTitle>第二百五十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">新地方自治法第二条第九項第一号に規定する第一号法定受託事務については、できる限り新たに設けることのないようにするとともに、新地方自治法別表第一に掲げるもの及び新地方自治法に基づく政令に示すものについては、地方分権を推進する観点から検討を加え、適宜、適切な見直しを行うものとする。</Sentence>
@@ -1789,7 +1789,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="251">
         <ArticleTitle>第二百五十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、地方公共団体が事務及び事業を自主的かつ自立的に執行できるよう、国と地方公共団体との役割分担に応じた地方税財源の充実確保の方途について、経済情勢の推移等を勘案しつつ検討し、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
@@ -1797,12 +1797,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
+    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。</Sentence>
@@ -1822,12 +1822,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年六月二九日法律第九二号" Extract="true">
+    <SupplProvision AmendLawId="413092" AmendLawNum="平成一三年六月二九日法律第九二号" Extract="true" Id="d988a977-4003-467a-b1a7-bfd2a3cfe45a">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、平成十四年四月一日から施行する。</Sentence>
@@ -1835,12 +1835,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一四年二月八日法律第一号" Extract="true">
+    <SupplProvision AmendLawId="414001" AmendLawNum="平成一四年二月八日法律第一号" Extract="true" Id="44f98b8f-9dd3-4181-983d-73d86a669e8d">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -1848,12 +1848,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年六月九日法律第九四号" Extract="true">
+    <SupplProvision AmendLawId="416094" AmendLawNum="平成一六年六月九日法律第九四号" Extract="true" Id="d517492b-308a-4d30-a072-fcf5bb4c40c1">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、平成十七年四月一日から施行する。</Sentence>
@@ -1861,12 +1861,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年七月六日法律第八二号" Extract="true">
+    <SupplProvision AmendLawId="417082" AmendLawNum="平成一七年七月六日法律第八二号" Extract="true" Id="7eae207e-9261-49da-9846-2b71d091bd3e">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、平成十九年四月一日から施行する。</Sentence>
@@ -1874,12 +1874,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一八年六月七日法律第五三号" Extract="true">
+    <SupplProvision AmendLawId="418053" AmendLawNum="平成一八年六月七日法律第五三号" Extract="true" Id="7a7ac945-219a-4893-a112-e94cdecffe81">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、平成十九年四月一日から施行する。</Sentence>
@@ -1887,12 +1887,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一九年三月三一日法律第二三号" Extract="true">
+    <SupplProvision AmendLawId="419023" AmendLawNum="平成一九年三月三一日法律第二三号" Extract="true" Id="4fa23a22-47dd-11e5-8ec1-4b863ea2dd54">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十九年四月一日から施行し、平成十九年度の予算から適用する。</Sentence>
@@ -1914,7 +1914,7 @@
       <Article Delete="false" Hide="false" Num="391">
         <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
         <ArticleTitle>第三百九十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -1924,7 +1924,7 @@
       <Article Delete="false" Hide="false" Num="392">
         <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
         <ArticleTitle>第三百九十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第二条から第六十五条まで、第六十七条から第二百五十九条まで及び第三百八十二条から前条までに定めるもののほか、この法律の施行に関し必要となる経過措置は、政令で定める。</Sentence>
@@ -1932,12 +1932,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二三年八月三〇日法律第一〇五号" Extract="true">
+    <SupplProvision AmendLawId="423105" AmendLawNum="平成二三年八月三〇日法律第一〇五号" Extract="true" Id="cb96a4b0-d3b6-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -1947,7 +1947,7 @@
       <Article Delete="false" Hide="false" Num="81">
         <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
         <ArticleTitle>第八十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -1957,7 +1957,7 @@
       <Article Delete="false" Hide="false" Num="82">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第八十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
@@ -1965,12 +1965,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二四年六月二七日法律第四二号" Extract="true">
+    <SupplProvision AmendLawId="424042" AmendLawNum="平成二四年六月二七日法律第四二号" Extract="true" Id="f6b71752-d3bf-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、平成二十五年四月一日から施行する。</Sentence>
@@ -1978,12 +1978,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二五年一一月二二日法律第七六号" Extract="true">
+    <SupplProvision AmendLawId="425076" AmendLawNum="平成二五年一一月二二日法律第七六号" Extract="true" Id="9a399a92-3b08-4ea4-8e48-27c8ad489c1f">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、平成二十六年四月一日から施行し、この法律による改正後の特別会計に関する法律（以下「新特別会計法」という。）の規定は、平成二十六年度の予算から適用する。</Sentence>
@@ -1991,12 +1991,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true">
+    <SupplProvision AmendLawId="426069" AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true" Id="089695bd-1a35-40ad-aae2-abd96d597d6c">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、行政不服審査法（平成二十六年法律第六十八号）の施行の日から施行する。</Sentence>
@@ -2006,7 +2006,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（経過措置の原則）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">行政庁の処分その他の行為又は不作為についての不服申立てであってこの法律の施行前にされた行政庁の処分その他の行為又はこの法律の施行前にされた申請に係る行政庁の不作為に係るものについては、この附則に特別の定めがある場合を除き、なお従前の例による。</Sentence>
@@ -2016,19 +2016,19 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（訴訟に関する経過措置）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律による改正前の法律の規定により不服申立てに対する行政庁の裁決、決定その他の行為を経た後でなければ訴えを提起できないこととされる事項であって、当該不服申立てを提起しないでこの法律の施行前にこれを提起すべき期間を経過したもの（当該不服申立てが他の不服申立てに対する行政庁の裁決、決定その他の行為を経た後でなければ提起できないとされる場合にあっては、当該他の不服申立てを提起しないでこの法律の施行前にこれを提起すべき期間を経過したものを含む。）の訴えの提起については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の規定による改正前の法律の規定（前条の規定によりなお従前の例によることとされる場合を含む。）により異議申立てが提起された処分その他の行為であって、この法律の規定による改正後の法律の規定により審査請求に対する裁決を経た後でなければ取消しの訴えを提起することができないこととされるものの取消しの訴えの提起については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">不服申立てに対する行政庁の裁決、決定その他の行為の取消しの訴えであって、この法律の施行前に提起されたものについては、なお従前の例による。</Sentence>
@@ -2038,7 +2038,7 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前にした行為並びに附則第五条及び前二条の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -2048,7 +2048,7 @@
       <Article Delete="false" Hide="false" Num="10">
         <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第五条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
@@ -2056,9 +2056,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二九年六月二日法律第四五号" Type="Amend">
+    <SupplProvision AmendLawId="429045" AmendLawNum="平成二九年六月二日法律第四五号" Id="0764f7de-49d6-11e7-99a6-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、民法改正法の施行の日から施行する。</Sentence>

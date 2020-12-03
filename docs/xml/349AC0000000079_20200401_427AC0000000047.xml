@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="79" Year="49">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="79" Year="49">
   <LawNum>昭和四十九年法律第七十九号</LawNum>
   <LawBody>
     <LawTitle>電源開発促進税法</LawTitle>
@@ -35,7 +35,7 @@
         <Article Delete="false" Hide="false" Num="1">
           <ArticleCaption>（課税目的及び課税物件）</ArticleCaption>
           <ArticleTitle>第一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">原子力発電施設、水力発電施設、地熱発電施設等の設置の促進及び運転の円滑化を図る等のための財政上の措置並びにこれらの発電施設の利用の促進及び安全の確保並びにこれらの発電施設による電気の供給の円滑化を図る等のための措置に要する費用に充てるため、一般送配電事業者の販売電気には、この法律により、電源開発促進税を課する。</Sentence>
@@ -45,7 +45,7 @@
         <Article Delete="false" Hide="false" Num="2">
           <ArticleCaption>（定義）</ArticleCaption>
           <ArticleTitle>第二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
@@ -100,7 +100,7 @@
         <Article Delete="false" Hide="false" Num="3">
           <ArticleCaption>（納税義務者）</ArticleCaption>
           <ArticleTitle>第三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">一般送配電事業者は、その販売電気につき、電源開発促進税を納める義務がある。</Sentence>
@@ -110,7 +110,7 @@
         <Article Delete="false" Hide="false" Num="4">
           <ArticleCaption>（納税地）</ArticleCaption>
           <ArticleTitle>第四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">電源開発促進税の納税地は、当該一般送配電事業者の住所地とする。</Sentence>
@@ -123,13 +123,13 @@
         <Article Delete="false" Hide="false" Num="5">
           <ArticleCaption>（課税標準）</ArticleCaption>
           <ArticleTitle>第五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">電源開発促進税の課税標準は、一般送配電事業者の販売電気の電力量とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">一般送配電事業者の販売電気でその料金が定額をもつて定められているものについての前項の販売電気の電力量の計算に関し必要な事項は、政令で定める。</Sentence>
@@ -139,7 +139,7 @@
         <Article Delete="false" Hide="false" Num="6">
           <ArticleCaption>（税率）</ArticleCaption>
           <ArticleTitle>第六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">電源開発促進税の税率は、販売電気千キロワット時につき、三百七十五円とする。</Sentence>
@@ -152,7 +152,7 @@
         <Article Delete="false" Hide="false" Num="7">
           <ArticleCaption>（課税標準及び税額の申告）</ArticleCaption>
           <ArticleTitle>第七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">一般送配電事業者は、毎月、政令で定めるところにより、次に掲げる事項を記載した申告書を、翌月末日までに、その納税地を所轄する税務署長に提出しなければならない。</Sentence>
@@ -188,7 +188,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項第二号に掲げる電力量は、当該電力量として政令で定めるところにより計量した電力量に相当する電力量とする。</Sentence>
@@ -198,7 +198,7 @@
         <Article Delete="false" Hide="false" Num="8">
           <ArticleCaption>（電源開発促進税の期限内申告による納付）</ArticleCaption>
           <ArticleTitle>第八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前条第一項の規定による申告書を提出した一般送配電事業者は、当該申告書の提出期限内に、当該申告書に記載した納付すべき税額に相当する電源開発促進税を、国に納付しなければならない。</Sentence>
@@ -211,13 +211,13 @@
         <Article Delete="false" Hide="false" Num="9">
           <ArticleCaption>（一般送配電事業の開廃等の届出）</ArticleCaption>
           <ArticleTitle>第九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">一般送配電事業を開始し、廃止し、若しくは休止しようとする者又は当該一般送配電事業の許可を取り消された者は、政令で定めるところにより、その旨を納税地の所轄税務署長に届け出なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">電気事業法第十一条（承継）の規定により一般送配電事業者についてその地位の承継があつた場合（一般送配電事業の全部の譲渡し又は分割によりその地位の承継があつた場合を除く。第十一条第一項において同じ。）においては、当該地位を承継した者は、政令で定めるところにより、当該地位を承継した日から一月以内に、その旨を書面により、納税地の所轄税務署長に届け出なければならない。</Sentence>
@@ -228,7 +228,7 @@
         <Article Delete="false" Hide="false" Num="10">
           <ArticleCaption>（記帳義務）</ArticleCaption>
           <ArticleTitle>第十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">一般送配電事業者は、政令で定めるところにより、その販売電気の電力量、納付すべき税額その他これらに関する事項を帳簿に記載しなければならない。</Sentence>
@@ -238,7 +238,7 @@
         <Article Delete="false" Hide="false" Num="11">
           <ArticleCaption>（申告義務の承継等）</ArticleCaption>
           <ArticleTitle>第十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">電気事業法第十一条（承継）の規定により一般送配電事業者についてその地位の承継があつた場合においては、当該地位を承継した者は、当該一般送配電事業者の次に掲げる義務を承継する。</Sentence>
@@ -256,7 +256,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">一般送配電事業者が営む電気事業の譲渡しがあり、又は一般送配電事業者について分割があつた場合において、事業承継法人等（当該電気事業を譲り受けた者若しくは当該分割により電気事業を承継した法人又は当該譲渡し若しくは分割の後も引き続き電気事業を営む者をいう。）が一般送配電事業者でないときは、当該譲渡し又は分割に係る販売電気については、当該事業承継法人等を一般送配電事業者とみなす。</Sentence>
@@ -268,25 +268,25 @@
         <ChapterTitle>第五章　罰則</ChapterTitle>
         <Article Delete="false" Hide="false" Num="12">
           <ArticleTitle>第十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">偽りその他不正の行為により電源開発促進税を免れ、又は免れようとした者は、五年以下の懲役若しくは百万円以下の罰金に処し、又はこれを併科する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の犯罪に係る販売電気に対する電源開発促進税に相当する金額が百万円を超える場合には、情状により、同項の罰金は、百万円を超え当該電源開発促進税に相当する金額以下とすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項に規定するもののほか、第七条第一項の規定による申告書をその提出期限までに提出しないことにより電源開発促進税を免れた者は、三年以下の懲役若しくは五十万円以下の罰金に処し、又はこれを併科する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の犯罪に係る販売電気に対する電源開発促進税に相当する金額が五十万円を超える場合には、情状により、同項の罰金は、五十万円を超え当該電源開発促進税に相当する金額以下とすることができる。</Sentence>
@@ -295,7 +295,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="13">
           <ArticleTitle>第十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次の各号のいずれかに該当する者は、一年以下の懲役又は五十万円以下の罰金に処する。</Sentence>
@@ -316,13 +316,13 @@
         </Article>
         <Article Delete="false" Hide="false" Num="14">
           <ArticleTitle>第十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務又は財産に関して前二条の違反行為をしたときは、その行為者を罰するほか、その法人又は人に対して当該各条の罰金刑を科する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定により第十二条第一項の違反行為につき法人又は人に罰金刑を科する場合における時効の期間は、同項の罪についての時効の期間による。</Sentence>
@@ -333,7 +333,7 @@
     </MainProvision>
     <SupplProvision Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -341,54 +341,54 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五五年五月三一日法律第七三号">
+    <SupplProvision AmendLawId="355073" AmendLawNum="昭和五五年五月三一日法律第七三号" Id="b7e2d82a-1905-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日の翌日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">改正後の第六条の規定は、この法律の施行の日から起算して一月を経過した日以後に料金の支払を受ける権利が確定される電源開発促進税法第七条第一項第一号に規定する販売電気及び同日以後に同条第二項の計量がされる同条第一項第二号に規定する電気に対する電源開発促進税について適用し、同日前に料金の支払を受ける権利が確定される同項第一号に規定する販売電気及び同日前に同条第二項の計量がされる同条第一項第二号に規定する電気に対する電源開発促進税については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律の施行前にした行為及び前項の規定により従前の例によることとされる電源開発促進税に係るこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五八年五月二〇日法律第四七号">
+    <SupplProvision AmendLawId="358047" AmendLawNum="昭和五八年五月二〇日法律第四七号" Id="b80f3c1c-1905-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、昭和五十八年九月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">改正後の第六条の規定は、昭和五十八年十月一日以後に料金の支払を受ける権利が確定される電源開発促進税法第七条第一項第一号に規定する販売電気及び同日以後に同条第二項の計量がされる同条第一項第二号に規定する電気に対する電源開発促進税について適用し、同日前に料金の支払を受ける権利が確定される同項第一号に規定する販売電気及び同日前に同条第二項の計量がされる同条第一項第二号に規定する電気に対する電源開発促進税については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律の施行前にした行為及び前項の規定によりなお従前の例によることとされる電源開発促進税に係るこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成七年四月二一日法律第七五号" Extract="true">
+    <SupplProvision AmendLawId="407075" AmendLawNum="平成七年四月二一日法律第七五号" Extract="true" Id="776af2a1-ff70-49b4-b2d6-b25a38a6dba8">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して九月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -398,7 +398,7 @@
       <Article Delete="false" Hide="false" Num="11">
         <ArticleCaption>（罰則の適用）</ArticleCaption>
         <ArticleTitle>第十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">施行日前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -408,7 +408,7 @@
       <Article Delete="false" Hide="false" Num="12">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。</Sentence>
@@ -416,12 +416,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一一年五月二一日法律第五〇号" Extract="true">
+    <SupplProvision AmendLawId="411050" AmendLawNum="平成一一年五月二一日法律第五〇号" Extract="true" Id="10c78810-6a24-40b2-aa28-72fd06aa99c3">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、平成十二年三月二十一日から施行する。</Sentence>
@@ -429,12 +429,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年三月三〇日法律第六号" Extract="true">
+    <SupplProvision AmendLawId="413006" AmendLawNum="平成一三年三月三〇日法律第六号" Extract="true" Id="282e1396-1885-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十三年三月三十一日から施行する。</Sentence>
@@ -457,7 +457,7 @@
       <Article Delete="false" Hide="false" Num="10">
         <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる法人税に係るこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -467,7 +467,7 @@
       <Article Delete="false" Hide="false" Num="23">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第二十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の規定の施行に関し必要な経過措置は、政令で定める。</Sentence>
@@ -475,12 +475,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一五年三月三一日法律第八号" Extract="true">
+    <SupplProvision AmendLawId="415008" AmendLawNum="平成一五年三月三一日法律第八号" Extract="true" Id="8810aef4-a69a-404e-b0a7-95d271c43a14">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十五年四月一日から施行する。</Sentence>
@@ -520,7 +520,7 @@
       <Article Delete="false" Hide="false" Num="53">
         <ArticleCaption>（電源開発促進税法の一部改正に伴う一般的経過措置）</ArticleCaption>
         <ArticleTitle>第五十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第十条の規定の施行前に課した、又は課すべきであった電源開発促進税については、なお従前の例による。</Sentence>
@@ -530,7 +530,7 @@
       <Article Delete="false" Hide="false" Num="54">
         <ArticleCaption>（電源開発促進税の税率の特例）</ArticleCaption>
         <ArticleTitle>第五十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次の各号に掲げる期間内に、料金の支払を受ける権利が確定される電源開発促進税法第七条第一項第一号に規定する販売電気及び同条第二項の計量がされる同条第一項第二号に規定する電気に対する電源開発促進税の税率は、第十条の規定による改正後の電源開発促進税法第六条の規定にかかわらず、当該各号に掲げる税率とする。</Sentence>
@@ -562,7 +562,7 @@
       <Article Delete="false" Hide="false" Num="55">
         <ArticleCaption>（電源開発促進税法の一部改正に伴う罰則に係る経過措置）</ArticleCaption>
         <ArticleTitle>第五十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第十条の規定の施行前にした行為及び附則第五十三条の規定によりなお従前の例によることとされる電源開発促進税に係る第十条の規定の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -572,7 +572,7 @@
       <Article Delete="false" Hide="false" Num="136">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第百三十六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
@@ -580,12 +580,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一五年六月一八日法律第九二号" Extract="true">
+    <SupplProvision AmendLawId="415092" AmendLawNum="平成一五年六月一八日法律第九二号" Extract="true" Id="e79f77fc-c7b5-41cf-878d-fbe1896c28c0">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、平成十七年四月一日から施行する。</Sentence>
@@ -593,12 +593,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二二年三月三一日法律第六号" Extract="true">
+    <SupplProvision AmendLawId="422006" AmendLawNum="平成二二年三月三一日法律第六号" Extract="true" Id="041ac38b-777c-43df-9735-6878dfcc7bda">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十二年四月一日から施行する。</Sentence>
@@ -632,7 +632,7 @@
       <Article Delete="false" Hide="false" Num="146">
         <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
         <ArticleTitle>第百四十六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -642,7 +642,7 @@
       <Article Delete="false" Hide="false" Num="147">
         <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
         <ArticleTitle>第百四十七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
@@ -650,12 +650,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二三年三月三一日法律第一二号" Extract="true">
+    <SupplProvision AmendLawId="423012" AmendLawNum="平成二三年三月三一日法律第一二号" Extract="true" Id="96c66b87-f360-4246-83cd-0cbf68020a72">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十三年四月一日から施行する。</Sentence>
@@ -664,12 +664,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二三年六月三〇日法律第八二号" Extract="true">
+    <SupplProvision AmendLawId="423082" AmendLawNum="平成二三年六月三〇日法律第八二号" Extract="true" Id="09d48b0d-0f3a-4fad-87e0-bc59bd8e4350">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -703,7 +703,7 @@
       <Article Delete="false" Hide="false" Num="92">
         <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
         <ArticleTitle>第九十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -713,7 +713,7 @@
       <Article Delete="false" Hide="false" Num="93">
         <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
         <ArticleTitle>第九十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
@@ -721,12 +721,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二三年八月三〇日法律第一〇九号" Extract="true">
+    <SupplProvision AmendLawId="423109" AmendLawNum="平成二三年八月三〇日法律第一〇九号" Extract="true" Id="529e6bda-18a3-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -734,12 +734,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二三年一二月二日法律第一一四号" Extract="true">
+    <SupplProvision AmendLawId="423114" AmendLawNum="平成二三年一二月二日法律第一一四号" Extract="true" Id="86d7e7cb-8c3c-4029-b7bc-bbc544d420f3">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -779,13 +779,13 @@
       <Article Delete="false" Hide="false" Num="33">
         <ArticleCaption>（酒税法等の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第三十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical"/>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="8">
+        <Paragraph Hide="false" Num="8" OldStyle="false">
           <ParagraphNum>８</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">平成二十四年十二月三十一日以前に第十四条の規定による改正前の電源開発促進税法（以下「旧電源開発促進税法」という。）第十二条第一項に規定する一般電気事業者に対して行った同項（同条第三項において準用する場合を含む。以下この項において同じ。）の規定による質問又は検査（同日後引き続き行われる調査（同日以前に当該一般電気事業者に対して当該調査に係る同条第一項の規定による質問又は検査を行っていたものに限る。以下この項において「経過措置調査」という。）に係るものを含む。）及び同条第二項（同条第三項において準用する場合を含む。以下この項において同じ。）に規定する電気を供給したと認められる者その他自己の事業に関し当該一般電気事業者と取引があると認められる者に対して同日以前に行った同条第二項の規定による質問又は検査（当該経過措置調査に係るものを含む。）については、なお従前の例による。</Sentence>
@@ -795,7 +795,7 @@
       <Article Delete="false" Hide="false" Num="104">
         <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
         <ArticleTitle>第百四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -805,7 +805,7 @@
       <Article Delete="false" Hide="false" Num="104_2">
         <ArticleCaption>（この法律の公布の日が平成二十三年四月一日後となる場合における経過措置）</ArticleCaption>
         <ArticleTitle>第百四条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の公布の日が平成二十三年四月一日後となる場合におけるこの法律による改正後のそれぞれの法律の規定の適用に関し必要な事項（この附則の規定の読替えを含む。）その他のこの法律の円滑な施行に関し必要な経過措置は、政令で定める。</Sentence>
@@ -815,7 +815,7 @@
       <Article Delete="false" Hide="false" Num="105">
         <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
         <ArticleTitle>第百五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
@@ -825,7 +825,7 @@
       <Article Delete="false" Hide="false" Num="106">
         <ArticleCaption>（納税環境の整備に向けた検討）</ArticleCaption>
         <ArticleTitle>第百六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、国税に関する納税者の利益の保護に資するとともに、税務行政の適正かつ円滑な運営を確保する観点から、納税環境の整備に向け、引き続き検討を行うものとする。</Sentence>
@@ -833,12 +833,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二六年六月一八日法律第七二号" Extract="true">
+    <SupplProvision AmendLawId="426072" AmendLawNum="平成二六年六月一八日法律第七二号" Extract="true" Id="e8b9010a-14ee-49aa-8058-6a5f26215eaa">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して二年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -848,13 +848,13 @@
       <Article Delete="false" Hide="false" Num="61">
         <ArticleCaption>（電源開発促進税法の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第六十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">施行日前に課した、又は課すべきであった電源開発促進税については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">施行日以後に料金の支払を受ける権利が確定される前条の規定による改正前の電源開発促進税法（以下この項において「旧電源開発促進税法」という。）第七条第一項第一号に規定する販売電気については前条の規定による改正後の電源開発促進税法（以下この項において「新電源開発促進税法」という。）第七条第一項第一号に規定する販売電気と、施行日以後に同条第二項の計量がされる旧電源開発促進税法第七条第一項第二号に規定する電気については新電源開発促進税法第七条第一項第二号に規定する電気とそれぞれみなして、新電源開発促進税法の規定を適用する。</Sentence>
@@ -862,12 +862,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二七年六月二四日法律第四七号" Extract="true">
+    <SupplProvision AmendLawId="427047" AmendLawNum="平成二七年六月二四日法律第四七号" Extract="true" Id="fb5cb1cb-46f4-40ea-b28b-841b6cdf55d7">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成三十二年四月一日から施行する。</Sentence>
@@ -912,13 +912,13 @@
       <Article Delete="false" Hide="false" Num="89">
         <ArticleCaption>（電源開発促進税法の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第八十九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">施行日前に課した、又は課すべきであった電源開発促進税については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">施行日以後に料金の支払を受ける権利が確定される前条の規定（電源開発促進税法第二条第三号イの改正規定（「発電量調整供給」を「電力量調整供給」に改める部分を除く。）に限る。以下この条において同じ。）による改正前の同法第七条第一項第一号に規定する販売電気については、前条の規定による改正後の電源開発促進税法（以下この条において「新電源開発促進税法」という。）第七条第一項第一号に規定する販売電気とみなして、新電源開発促進税法の規定を適用する。</Sentence>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="61" Year="12">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="61" Year="12">
   <LawNum>平成十二年法律第六十一号</LawNum>
   <LawBody>
     <LawTitle>消費者契約法</LawTitle>
@@ -72,7 +72,7 @@
         <Article Delete="false" Hide="false" Num="1">
           <ArticleCaption>（目的）</ArticleCaption>
           <ArticleTitle>第一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律は、消費者と事業者との間の情報の質及び量並びに交渉力の格差に鑑み、事業者の一定の行為により消費者が誤認し、又は困惑した場合等について契約の申込み又はその承諾の意思表示を取り消すことができることとするとともに、事業者の損害賠償の責任を免除する条項その他の消費者の利益を不当に害することとなる条項の全部又は一部を無効とするほか、消費者の被害の発生又は拡大を防止するため適格消費者団体が事業者等に対し差止請求をすることができることとすることにより、消費者の利益の擁護を図り、もって国民生活の安定向上と国民経済の健全な発展に寄与することを目的とする。</Sentence>
@@ -82,25 +82,25 @@
         <Article Delete="false" Hide="false" Num="2">
           <ArticleCaption>（定義）</ArticleCaption>
           <ArticleTitle>第二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律において「消費者」とは、個人（事業として又は事業のために契約の当事者となる場合におけるものを除く。）をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律（第四十三条第二項第二号を除く。）において「事業者」とは、法人その他の団体及び事業として又は事業のために契約の当事者となる場合における個人をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律において「消費者契約」とは、消費者と事業者との間で締結される契約をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律において「適格消費者団体」とは、不特定かつ多数の消費者の利益のためにこの法律の規定による差止請求権を行使するのに必要な適格性を有する法人である消費者団体（消費者基本法（昭和四十三年法律第七十八号）第八条の消費者団体をいう。以下同じ。）として第十三条の定めるところにより内閣総理大臣の認定を受けた者をいう。</Sentence>
@@ -110,7 +110,7 @@
         <Article Delete="false" Hide="false" Num="3">
           <ArticleCaption>（事業者及び消費者の努力）</ArticleCaption>
           <ArticleTitle>第三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">事業者は、次に掲げる措置を講ずるよう努めなければならない。</Sentence>
@@ -128,7 +128,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消費者は、消費者契約を締結するに際しては、事業者から提供された情報を活用し、消費者の権利義務その他の消費者契約の内容について理解するよう努めるものとする。</Sentence>
@@ -143,7 +143,7 @@
           <Article Delete="false" Hide="false" Num="4">
             <ArticleCaption>（消費者契約の申込み又はその承諾の意思表示の取消し）</ArticleCaption>
             <ArticleTitle>第四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">消費者は、事業者が消費者契約の締結について勧誘をするに際し、当該消費者に対して次の各号に掲げる行為をしたことにより当該各号に定める誤認をし、それによって当該消費者契約の申込み又はその承諾の意思表示をしたときは、これを取り消すことができる。</Sentence>
@@ -171,14 +171,14 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">消費者は、事業者が消費者契約の締結について勧誘をするに際し、当該消費者に対してある重要事項又は当該重要事項に関連する事項について当該消費者の利益となる旨を告げ、かつ、当該重要事項について当該消費者の不利益となる事実（当該告知により当該事実が存在しないと消費者が通常考えるべきものに限る。）を故意又は重大な過失によって告げなかったことにより、当該事実が存在しないとの誤認をし、それによって当該消費者契約の申込み又はその承諾の意思表示をしたときは、これを取り消すことができる。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該事業者が当該消費者に対し当該事実を告げようとしたにもかかわらず、当該消費者がこれを拒んだときは、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">消費者は、事業者が消費者契約の締結について勧誘をするに際し、当該消費者に対して次に掲げる行為をしたことにより困惑し、それによって当該消費者契約の申込み又はその承諾の意思表示をしたときは、これを取り消すことができる。</Sentence>
@@ -244,14 +244,14 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">消費者は、事業者が消費者契約の締結について勧誘をするに際し、物品、権利、役務その他の当該消費者契約の目的となるものの分量、回数又は期間（以下この項において「分量等」という。）が当該消費者にとっての通常の分量等（消費者契約の目的となるものの内容及び取引条件並びに事業者がその締結について勧誘をする際の消費者の生活の状況及びこれについての当該消費者の認識に照らして当該消費者契約の目的となるものの分量等として通常想定される分量等をいう。以下この項において同じ。）を著しく超えるものであることを知っていた場合において、その勧誘により当該消費者契約の申込み又はその承諾の意思表示をしたときは、これを取り消すことができる。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">事業者が消費者契約の締結について勧誘をするに際し、消費者が既に当該消費者契約の目的となるものと同種のものを目的とする消費者契約（以下この項において「同種契約」という。）を締結し、当該同種契約の目的となるものの分量等と当該消費者契約の目的となるものの分量等とを合算した分量等が当該消費者にとっての通常の分量等を著しく超えるものであることを知っていた場合において、その勧誘により当該消費者契約の申込み又はその承諾の意思表示をしたときも、同様とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="5">
+            <Paragraph Hide="false" Num="5" OldStyle="false">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第一項第一号及び第二項の「重要事項」とは、消費者契約に係る次に掲げる事項（同項の場合にあっては、第三号に掲げるものを除く。）をいう。</Sentence>
@@ -275,7 +275,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="6">
+            <Paragraph Hide="false" Num="6" OldStyle="false">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第一項から第四項までの規定による消費者契約の申込み又はその承諾の意思表示の取消しは、これをもって善意でかつ過失がない第三者に対抗することができない。</Sentence>
@@ -285,14 +285,14 @@
           <Article Delete="false" Hide="false" Num="5">
             <ArticleCaption>（媒介の委託を受けた第三者及び代理人）</ArticleCaption>
             <ArticleTitle>第五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">前条の規定は、事業者が第三者に対し、当該事業者と消費者との間における消費者契約の締結について媒介をすることの委託（以下この項において単に「委託」という。）をし、当該委託を受けた第三者（その第三者から委託（二以上の段階にわたる委託を含む。）を受けた者を含む。以下「受託者等」という。）が消費者に対して同条第一項から第四項までに規定する行為をした場合について準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、同条第二項ただし書中「当該事業者」とあるのは、「当該事業者又は次条第一項に規定する受託者等」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">消費者契約の締結に係る消費者の代理人（復代理人（二以上の段階にわたり復代理人として選任された者を含む。）を含む。以下同じ。）、事業者の代理人及び受託者等の代理人は、前条第一項から第四項まで（前項において準用する場合を含む。次条から第七条までにおいて同じ。）の規定の適用については、それぞれ消費者、事業者及び受託者等とみなす。</Sentence>
@@ -302,7 +302,7 @@
           <Article Delete="false" Hide="false" Num="6">
             <ArticleCaption>（解釈規定）</ArticleCaption>
             <ArticleTitle>第六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第四条第一項から第四項までの規定は、これらの項に規定する消費者契約の申込み又はその承諾の意思表示に対する民法（明治二十九年法律第八十九号）第九十六条の規定の適用を妨げるものと解してはならない。</Sentence>
@@ -312,7 +312,7 @@
           <Article Delete="false" Hide="false" Num="6_2">
             <ArticleCaption>（取消権を行使した消費者の返還義務）</ArticleCaption>
             <ArticleTitle>第六条の二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">民法第百二十一条の二第一項の規定にかかわらず、消費者契約に基づく債務の履行として給付を受けた消費者は、第四条第一項から第四項までの規定により当該消費者契約の申込み又はその承諾の意思表示を取り消した場合において、給付を受けた当時その意思表示が取り消すことができるものであることを知らなかったときは、当該消費者契約によって現に利益を受けている限度において、返還の義務を負う。</Sentence>
@@ -322,14 +322,14 @@
           <Article Delete="false" Hide="false" Num="7">
             <ArticleCaption>（取消権の行使期間等）</ArticleCaption>
             <ArticleTitle>第七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第四条第一項から第四項までの規定による取消権は、追認をすることができる時から一年間行わないときは、時効によって消滅する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">当該消費者契約の締結の時から五年を経過したときも、同様とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">会社法（平成十七年法律第八十六号）その他の法律により詐欺又は強迫を理由として取消しをすることができないものとされている株式若しくは出資の引受け又は基金の拠出が消費者契約としてされた場合には、当該株式若しくは出資の引受け又は基金の拠出に係る意思表示については、第四条第一項から第四項までの規定によりその取消しをすることができない。</Sentence>
@@ -342,7 +342,7 @@
           <Article Delete="false" Hide="false" Num="8">
             <ArticleCaption>（事業者の損害賠償の責任を免除する条項等の無効）</ArticleCaption>
             <ArticleTitle>第八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">次に掲げる消費者契約の条項は、無効とする。</Sentence>
@@ -372,7 +372,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項第一号又は第二号に掲げる条項のうち、消費者契約が有償契約である場合において、引き渡された目的物が種類又は品質に関して契約の内容に適合しないとき（当該消費者契約が請負契約である場合には、請負人が種類又は品質に関して契約の内容に適合しない仕事の目的物を注文者に引き渡したとき（その引渡しを要しない場合には、仕事が終了した時に仕事の目的物が種類又は品質に関して契約の内容に適合しないとき。）。以下この項において同じ。）に、これにより消費者に生じた損害を賠償する事業者の責任を免除し、又は当該事業者にその責任の有無若しくは限度を決定する権限を付与するものについては、次に掲げる場合に該当するときは、同項の規定は、適用しない。</Sentence>
@@ -394,7 +394,7 @@
           <Article Delete="false" Hide="false" Num="8_2">
             <ArticleCaption>（消費者の解除権を放棄させる条項等の無効）</ArticleCaption>
             <ArticleTitle>第八条の二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">事業者の債務不履行により生じた消費者の解除権を放棄させ、又は当該事業者にその解除権の有無を決定する権限を付与する消費者契約の条項は、無効とする。</Sentence>
@@ -404,7 +404,7 @@
           <Article Delete="false" Hide="false" Num="8_3">
             <ArticleCaption>（事業者に対し後見開始の審判等による解除権を付与する条項の無効）</ArticleCaption>
             <ArticleTitle>第八条の三</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">事業者に対し、消費者が後見開始、保佐開始又は補助開始の審判を受けたことのみを理由とする解除権を付与する消費者契約（消費者が事業者に対し物品、権利、役務その他の消費者契約の目的となるものを提供することとされているものを除く。）の条項は、無効とする。</Sentence>
@@ -414,7 +414,7 @@
           <Article Delete="false" Hide="false" Num="9">
             <ArticleCaption>（消費者が支払う損害賠償の額を予定する条項等の無効）</ArticleCaption>
             <ArticleTitle>第九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">次の各号に掲げる消費者契約の条項は、当該各号に定める部分について、無効とする。</Sentence>
@@ -446,7 +446,7 @@
           <Article Delete="false" Hide="false" Num="10">
             <ArticleCaption>（消費者の利益を一方的に害する条項の無効）</ArticleCaption>
             <ArticleTitle>第十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">消費者の不作為をもって当該消費者が新たな消費者契約の申込み又はその承諾の意思表示をしたものとみなす条項その他の法令中の公の秩序に関しない規定の適用による場合に比して消費者の権利を制限し又は消費者の義務を加重する消費者契約の条項であって、民法第一条第二項に規定する基本原則に反して消費者の利益を一方的に害するものは、無効とする。</Sentence>
@@ -459,13 +459,13 @@
           <Article Delete="false" Hide="false" Num="11">
             <ArticleCaption>（他の法律の適用）</ArticleCaption>
             <ArticleTitle>第十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">消費者契約の申込み又はその承諾の意思表示の取消し及び消費者契約の条項の効力については、この法律の規定によるほか、民法及び商法（明治三十二年法律第四十八号）の規定による。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">消費者契約の申込み又はその承諾の意思表示の取消し及び消費者契約の条項の効力について民法及び商法以外の他の法律に別段の定めがあるときは、その定めるところによる。</Sentence>
@@ -481,14 +481,14 @@
           <Article Delete="false" Hide="false" Num="12">
             <ArticleCaption>（差止請求権）</ArticleCaption>
             <ArticleTitle>第十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">適格消費者団体は、事業者、受託者等又は事業者の代理人若しくは受託者等の代理人（以下「事業者等」と総称する。）が、消費者契約の締結について勧誘をするに際し、不特定かつ多数の消費者に対して第四条第一項から第四項までに規定する行為（同条第二項に規定する行為にあっては、同項ただし書の場合に該当するものを除く。次項において同じ。）を現に行い又は行うおそれがあるときは、その事業者等に対し、当該行為の停止若しくは予防又は当該行為に供した物の廃棄若しくは除去その他の当該行為の停止若しくは予防に必要な措置をとることを請求することができる。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、民法及び商法以外の他の法律の規定によれば当該行為を理由として当該消費者契約を取り消すことができないときは、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">適格消費者団体は、次の各号に掲げる者が、消費者契約の締結について勧誘をするに際し、不特定かつ多数の消費者に対して第四条第一項から第四項までに規定する行為を現に行い又は行うおそれがあるときは、当該各号に定める者に対し、当該各号に掲げる者に対する是正の指示又は教唆の停止その他の当該行為の停止又は予防に必要な措置をとることを請求することができる。</Sentence>
@@ -517,14 +517,14 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">適格消費者団体は、事業者又はその代理人が、消費者契約を締結するに際し、不特定かつ多数の消費者との間で第八条から第十条までに規定する消費者契約の条項（第八条第一項第一号又は第二号に掲げる消費者契約の条項にあっては、同条第二項の場合に該当するものを除く。次項において同じ。）を含む消費者契約の申込み又はその承諾の意思表示を現に行い又は行うおそれがあるときは、その事業者又はその代理人に対し、当該行為の停止若しくは予防又は当該行為に供した物の廃棄若しくは除去その他の当該行為の停止若しくは予防に必要な措置をとることを請求することができる。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、民法及び商法以外の他の法律の規定によれば当該消費者契約の条項が無効とされないときは、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">適格消費者団体は、事業者の代理人が、消費者契約を締結するに際し、不特定かつ多数の消費者との間で第八条から第十条までに規定する消費者契約の条項を含む消費者契約の申込み又はその承諾の意思表示を現に行い又は行うおそれがあるときは、当該代理人を自己の代理人とする事業者又は他の代理人に対し、当該代理人に対する是正の指示又は教唆の停止その他の当該行為の停止又は予防に必要な措置をとることを請求することができる。</Sentence>
@@ -535,7 +535,7 @@
           <Article Delete="false" Hide="false" Num="12_2">
             <ArticleCaption>（差止請求の制限）</ArticleCaption>
             <ArticleTitle>第十二条の二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前条、不当景品類及び不当表示防止法（昭和三十七年法律第百三十四号）第三十条第一項、特定商取引に関する法律（昭和五十一年法律第五十七号）第五十八条の十八から第五十八条の二十四まで又は食品表示法（平成二十五年法律第七十号）第十一条の規定による請求（以下「差止請求」という。）は、次に掲げる場合には、することができない。</Sentence>
@@ -572,7 +572,7 @@
                 </Subitem1>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項第二号本文の規定は、当該確定判決に係る訴訟の口頭弁論の終結後又は当該確定判決と同一の効力を有するものの成立後に生じた事由に基づいて同号本文に掲げる場合の当該差止請求をすることを妨げない。</Sentence>
@@ -587,19 +587,19 @@
             <Article Delete="false" Hide="false" Num="13">
               <ArticleCaption>（適格消費者団体の認定）</ArticleCaption>
               <ArticleTitle>第十三条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">差止請求関係業務（不特定かつ多数の消費者の利益のために差止請求権を行使する業務並びに当該業務の遂行に必要な消費者の被害に関する情報の収集並びに消費者の被害の防止及び救済に資する差止請求権の行使の結果に関する情報の提供に係る業務をいう。以下同じ。）を行おうとする者は、内閣総理大臣の認定を受けなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前項の認定を受けようとする者は、内閣総理大臣に認定の申請をしなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="3">
+              <Paragraph Hide="false" Num="3" OldStyle="false">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、前項の申請をした者が次に掲げる要件のすべてに適合しているときに限り、第一項の認定をすることができる。</Sentence>
@@ -696,14 +696,14 @@
                   </ItemSentence>
                 </Item>
               </Paragraph>
-              <Paragraph Hide="false" Num="4">
+              <Paragraph Hide="false" Num="4" OldStyle="false">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">前項第三号の業務規程には、差止請求関係業務の実施の方法、差止請求関係業務に関して知り得た情報の管理及び秘密の保持の方法その他の内閣府令で定める事項が定められていなければならない。</Sentence>
                   <Sentence Num="2" WritingMode="vertical">この場合において、業務規程に定める差止請求関係業務の実施の方法には、同項第五号の検討を行う部門における専門委員からの助言又は意見の聴取に関する措置及び役員、職員又は専門委員が差止請求に係る相手方と特別の利害関係を有する場合の措置その他業務の公正な実施の確保に関する措置が含まれていなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="5">
+              <Paragraph Hide="false" Num="5" OldStyle="false">
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">次のいずれかに該当する者は、第一項の認定を受けることができない。</Sentence>
@@ -767,7 +767,7 @@
             <Article Delete="false" Hide="false" Num="14">
               <ArticleCaption>（認定の申請）</ArticleCaption>
               <ArticleTitle>第十四条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前条第二項の申請は、次に掲げる事項を記載した申請書を内閣総理大臣に提出してしなければならない。</Sentence>
@@ -791,7 +791,7 @@
                   </ItemSentence>
                 </Item>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前項の申請書には、次に掲げる書類を添付しなければならない。</Sentence>
@@ -879,19 +879,19 @@
             <Article Delete="false" Hide="false" Num="15">
               <ArticleCaption>（認定の申請に関する公告及び縦覧等）</ArticleCaption>
               <ArticleTitle>第十五条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、前条の規定による認定の申請があった場合には、遅滞なく、内閣府令で定めるところにより、その旨並びに同条第一項第一号及び第二号に掲げる事項を公告するとともに、同条第二項各号（第六号ロ、第九号及び第十一号を除く。）に掲げる書類を、公告の日から二週間、公衆の縦覧に供しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、第十三条第一項の認定をしようとするときは、同条第三項第二号に規定する事由の有無について、経済産業大臣の意見を聴くものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="3">
+              <Paragraph Hide="false" Num="3" OldStyle="false">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、前条の規定による認定の申請をした者について第十三条第五項第三号、第四号又は第六号ハに該当する疑いがあると認めるときは、警察庁長官の意見を聴くものとする。</Sentence>
@@ -901,19 +901,19 @@
             <Article Delete="false" Hide="false" Num="16">
               <ArticleCaption>（認定の公示等）</ArticleCaption>
               <ArticleTitle>第十六条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、第十三条第一項の認定をしたときは、内閣府令で定めるところにより、当該適格消費者団体の名称及び住所、差止請求関係業務を行う事務所の所在地並びに当該認定をした日を公示するとともに、当該適格消費者団体に対し、その旨を書面により通知するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体は、内閣府令で定めるところにより、適格消費者団体である旨を、差止請求関係業務を行う事務所において見やすいように掲示しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="3">
+              <Paragraph Hide="false" Num="3" OldStyle="false">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体でない者は、その名称中に適格消費者団体であると誤認されるおそれのある文字を用い、又はその業務に関し、適格消費者団体であると誤認されるおそれのある表示をしてはならない。</Sentence>
@@ -923,38 +923,38 @@
             <Article Delete="false" Hide="false" Num="17">
               <ArticleCaption>（認定の有効期間等）</ArticleCaption>
               <ArticleTitle>第十七条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">第十三条第一項の認定の有効期間は、当該認定の日から起算して六年とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前項の有効期間の満了後引き続き差止請求関係業務を行おうとする適格消費者団体は、その有効期間の更新を受けなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="3">
+              <Paragraph Hide="false" Num="3" OldStyle="false">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Function="main" Num="1" WritingMode="vertical">前項の有効期間の更新を受けようとする適格消費者団体は、第一項の有効期間の満了の日の九十日前から六十日前までの間（以下この項において「更新申請期間」という。）に、内閣総理大臣に有効期間の更新の申請をしなければならない。</Sentence>
                   <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、災害その他やむを得ない事由により更新申請期間にその申請をすることができないときは、この限りでない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="4">
+              <Paragraph Hide="false" Num="4" OldStyle="false">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前項の申請があった場合において、第一項の有効期間の満了の日までにその申請に対する処分がされないときは、従前の認定は、同項の有効期間の満了後もその処分がされるまでの間は、なお効力を有する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="5">
+              <Paragraph Hide="false" Num="5" OldStyle="false">
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前項の場合において、第二項の有効期間の更新がされたときは、その認定の有効期間は、従前の認定の有効期間の満了の日の翌日から起算するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="6">
+              <Paragraph Hide="false" Num="6" OldStyle="false">
                 <ParagraphNum>６</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Function="main" Num="1" WritingMode="vertical">第十三条（第一項及び第五項第二号を除く。）、第十四条、第十五条及び前条第一項の規定は、第二項の有効期間の更新について準用する。</Sentence>
@@ -965,7 +965,7 @@
             <Article Delete="false" Hide="false" Num="18">
               <ArticleCaption>（変更の届出）</ArticleCaption>
               <ArticleTitle>第十八条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Function="main" Num="1" WritingMode="vertical">適格消費者団体は、第十四条第一項各号に掲げる事項又は同条第二項各号（第二号及び第十一号を除く。）に掲げる書類に記載した事項に変更があったときは、遅滞なく、内閣府令で定めるところにより、その旨を記載した届出書を内閣総理大臣に提出しなければならない。</Sentence>
@@ -976,50 +976,50 @@
             <Article Delete="false" Hide="false" Num="19">
               <ArticleCaption>（合併の届出及び認可等）</ArticleCaption>
               <ArticleTitle>第十九条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体である法人が他の適格消費者団体である法人と合併をしたときは、合併後存続する法人又は合併により設立された法人は、合併により消滅した法人のこの法律の規定による適格消費者団体としての地位を承継する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前項の規定により合併により消滅した法人のこの法律の規定による適格消費者団体としての地位を承継した法人は、遅滞なく、その旨を内閣総理大臣に届け出なければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="3">
+              <Paragraph Hide="false" Num="3" OldStyle="false">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体である法人が適格消費者団体でない法人と合併をした場合には、合併後存続する法人又は合併により設立された法人は、その合併について内閣総理大臣の認可がされたときに限り、合併により消滅した法人のこの法律の規定による適格消費者団体としての地位を承継する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="4">
+              <Paragraph Hide="false" Num="4" OldStyle="false">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Function="main" Num="1" WritingMode="vertical">前項の認可を受けようとする適格消費者団体は、その合併がその効力を生ずる日の九十日前から六十日前までの間（以下この項において「認可申請期間」という。）に、内閣総理大臣に認可の申請をしなければならない。</Sentence>
                   <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、災害その他やむを得ない事由により認可申請期間にその申請をすることができないときは、この限りでない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="5">
+              <Paragraph Hide="false" Num="5" OldStyle="false">
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前項の申請があった場合において、その合併がその効力を生ずる日までにその申請に対する処分がされないときは、合併後存続する法人又は合併により設立された法人は、その処分がされるまでの間は、合併により消滅した法人のこの法律の規定による適格消費者団体としての地位を承継しているものとみなす。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="6">
+              <Paragraph Hide="false" Num="6" OldStyle="false">
                 <ParagraphNum>６</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">第十三条（第一項を除く。）、第十四条、第十五条及び第十六条第一項の規定は、第三項の認可について準用する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="7">
+              <Paragraph Hide="false" Num="7" OldStyle="false">
                 <ParagraphNum>７</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体である法人は、適格消費者団体でない法人と合併をする場合において、第四項の申請をしないときは、その合併がその効力を生ずる日までに、その旨を内閣総理大臣に届け出なければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="8">
+              <Paragraph Hide="false" Num="8" OldStyle="false">
                 <ParagraphNum>８</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、第二項又は前項の規定による届出があったときは、内閣府令で定めるところにより、その旨を公示するものとする。</Sentence>
@@ -1029,50 +1029,50 @@
             <Article Delete="false" Hide="false" Num="20">
               <ArticleCaption>（事業の譲渡の届出及び認可等）</ArticleCaption>
               <ArticleTitle>第二十条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体である法人が他の適格消費者団体である法人に対し差止請求関係業務に係る事業の全部の譲渡をしたときは、その譲渡を受けた法人は、その譲渡をした法人のこの法律の規定による適格消費者団体としての地位を承継する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前項の規定によりその譲渡をした法人のこの法律の規定による適格消費者団体としての地位を承継した法人は、遅滞なく、その旨を内閣総理大臣に届け出なければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="3">
+              <Paragraph Hide="false" Num="3" OldStyle="false">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体である法人が適格消費者団体でない法人に対し差止請求関係業務に係る事業の全部の譲渡をした場合には、その譲渡を受けた法人は、その譲渡について内閣総理大臣の認可がされたときに限り、その譲渡をした法人のこの法律の規定による適格消費者団体としての地位を承継する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="4">
+              <Paragraph Hide="false" Num="4" OldStyle="false">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Function="main" Num="1" WritingMode="vertical">前項の認可を受けようとする適格消費者団体は、その譲渡の日の九十日前から六十日前までの間（以下この項において「認可申請期間」という。）に、内閣総理大臣に認可の申請をしなければならない。</Sentence>
                   <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、災害その他やむを得ない事由により認可申請期間にその申請をすることができないときは、この限りでない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="5">
+              <Paragraph Hide="false" Num="5" OldStyle="false">
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前項の申請があった場合において、その譲渡の日までにその申請に対する処分がされないときは、その譲渡を受けた法人は、その処分がされるまでの間は、その譲渡をした法人のこの法律の規定による適格消費者団体としての地位を承継しているものとみなす。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="6">
+              <Paragraph Hide="false" Num="6" OldStyle="false">
                 <ParagraphNum>６</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">第十三条（第一項を除く。）、第十四条、第十五条及び第十六条第一項の規定は、第三項の認可について準用する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="7">
+              <Paragraph Hide="false" Num="7" OldStyle="false">
                 <ParagraphNum>７</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体である法人は、適格消費者団体でない法人に対し差止請求関係業務に係る事業の全部の譲渡をする場合において、第四項の申請をしないときは、その譲渡の日までに、その旨を内閣総理大臣に届け出なければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="8">
+              <Paragraph Hide="false" Num="8" OldStyle="false">
                 <ParagraphNum>８</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、第二項又は前項の規定による届出があったときは、内閣府令で定めるところにより、その旨を公示するものとする。</Sentence>
@@ -1082,7 +1082,7 @@
             <Article Delete="false" Hide="false" Num="21">
               <ArticleCaption>（解散の届出等）</ArticleCaption>
               <ArticleTitle>第二十一条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体が次の各号に掲げる場合のいずれかに該当することとなったときは、当該各号に定める者は、遅滞なく、その旨を内閣総理大臣に届け出なければならない。</Sentence>
@@ -1121,7 +1121,7 @@
                   </ItemSentence>
                 </Item>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、前項の規定による届出があったときは、内閣府令で定めるところにより、その旨を公示するものとする。</Sentence>
@@ -1131,7 +1131,7 @@
             <Article Delete="false" Hide="false" Num="22">
               <ArticleCaption>（認定の失効）</ArticleCaption>
               <ArticleTitle>第二十二条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体について、次のいずれかに掲げる事由が生じたときは、第十三条第一項の認定は、その効力を失う。</Sentence>
@@ -1168,25 +1168,25 @@
             <Article Delete="false" Hide="false" Num="23">
               <ArticleCaption>（差止請求権の行使等）</ArticleCaption>
               <ArticleTitle>第二十三条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体は、不特定かつ多数の消費者の利益のために、差止請求権を適切に行使しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体は、差止請求権を濫用してはならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="3">
+              <Paragraph Hide="false" Num="3" OldStyle="false">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体は、事案の性質に応じて他の適格消費者団体と共同して差止請求権を行使するほか、差止請求関係業務について相互に連携を図りながら協力するように努めなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="4">
+              <Paragraph Hide="false" Num="4" OldStyle="false">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">適格消費者団体は、次に掲げる場合には、内閣府令で定めるところにより、遅滞なく、その旨を他の適格消費者団体に通知するとともに、その旨及びその内容その他内閣府令で定める事項を内閣総理大臣に報告しなければならない。</Sentence>
@@ -1259,13 +1259,13 @@
                   </ItemSentence>
                 </Item>
               </Paragraph>
-              <Paragraph Hide="false" Num="5">
+              <Paragraph Hide="false" Num="5" OldStyle="false">
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、前項の規定による報告を受けたときは、すべての適格消費者団体並びに内閣総理大臣及び経済産業大臣が電磁的方法を利用して同一の情報を閲覧することができる状態に置く措置その他の内閣府令で定める方法により、他の適格消費者団体及び経済産業大臣に当該報告の日時及び概要その他内閣府令で定める事項を伝達するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="6">
+              <Paragraph Hide="false" Num="6" OldStyle="false">
                 <ParagraphNum>６</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体について、第十二条の二第一項第二号本文の確定判決等で強制執行をすることができるものが存する場合には、当該適格消費者団体は、当該確定判決等に係る差止請求権を放棄することができない。</Sentence>
@@ -1275,7 +1275,7 @@
             <Article Delete="false" Hide="false" Num="24">
               <ArticleCaption>（消費者の被害に関する情報の取扱い）</ArticleCaption>
               <ArticleTitle>第二十四条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体は、差止請求権の行使（差止請求権不存在等確認請求に係る訴訟を含む。第二十八条において同じ。）に関し、消費者から収集した消費者の被害に関する情報をその相手方その他の第三者が当該被害に係る消費者を識別することができる方法で利用するに当たっては、あらかじめ、当該消費者の同意を得なければならない。</Sentence>
@@ -1285,7 +1285,7 @@
             <Article Delete="false" Hide="false" Num="25">
               <ArticleCaption>（秘密保持義務）</ArticleCaption>
               <ArticleTitle>第二十五条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体の役員、職員若しくは専門委員又はこれらの職にあった者は、正当な理由がなく、差止請求関係業務に関して知り得た秘密を漏らしてはならない。</Sentence>
@@ -1295,7 +1295,7 @@
             <Article Delete="false" Hide="false" Num="26">
               <ArticleCaption>（氏名等の明示）</ArticleCaption>
               <ArticleTitle>第二十六条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体の差止請求関係業務に従事する者は、その差止請求関係業務を行うに当たり、相手方の請求があったときは、当該適格消費者団体の名称、自己の氏名及び適格消費者団体における役職又は地位その他内閣府令で定める事項を、その相手方に明らかにしなければならない。</Sentence>
@@ -1305,7 +1305,7 @@
             <Article Delete="false" Hide="false" Num="27">
               <ArticleCaption>（判決等に関する情報の提供）</ArticleCaption>
               <ArticleTitle>第二十七条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体は、消費者の被害の防止及び救済に資するため、消費者に対し、差止請求に係る判決（確定判決と同一の効力を有するもの及び仮処分命令の申立てについての決定を含む。）又は裁判外の和解の内容その他必要な情報を提供するよう努めなければならない。</Sentence>
@@ -1315,7 +1315,7 @@
             <Article Delete="false" Hide="false" Num="28">
               <ArticleCaption>（財産上の利益の受領の禁止等）</ArticleCaption>
               <ArticleTitle>第二十八条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体は、次に掲げる場合を除き、その差止請求に係る相手方から、その差止請求権の行使に関し、寄附金、賛助金その他名目のいかんを問わず、金銭その他の財産上の利益を受けてはならない。</Sentence>
@@ -1345,31 +1345,31 @@
                   </ItemSentence>
                 </Item>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体の役員、職員又は専門委員は、適格消費者団体の差止請求に係る相手方から、その差止請求権の行使に関し、寄附金、賛助金その他名目のいかんを問わず、金銭その他の財産上の利益を受けてはならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="3">
+              <Paragraph Hide="false" Num="3" OldStyle="false">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体又はその役員、職員若しくは専門委員は、適格消費者団体の差止請求に係る相手方から、その差止請求権の行使に関し、寄附金、賛助金その他名目のいかんを問わず、金銭その他の財産上の利益を第三者に受けさせてはならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="4">
+              <Paragraph Hide="false" Num="4" OldStyle="false">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前三項に規定する差止請求に係る相手方からその差止請求権の行使に関して受け又は受けさせてはならない財産上の利益には、その相手方がその差止請求権の行使に関してした不法行為によって生じた損害の賠償として受け又は受けさせる財産上の利益は含まれない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="5">
+              <Paragraph Hide="false" Num="5" OldStyle="false">
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体は、第一項各号に規定する財産上の利益を受けたときは、これに相当する金額を積み立て、これを差止請求関係業務に要する費用に充てなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="6">
+              <Paragraph Hide="false" Num="6" OldStyle="false">
                 <ParagraphNum>６</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体は、その定款において、差止請求関係業務を廃止し、又は第十三条第一項の認定の失効（差止請求関係業務の廃止によるものを除く。）若しくは取消しにより差止請求関係業務を終了した場合において、積立金（前項の規定により積み立てられた金額をいう。）に残余があるときは、その残余に相当する金額を、他の適格消費者団体（第三十五条の規定により差止請求権を承継した適格消費者団体がある場合にあっては、当該適格消費者団体）があるときは当該他の適格消費者団体に、これがないときは第十三条第三項第二号に掲げる要件に適合する消費者団体であって内閣総理大臣が指定するもの又は国に帰属させる旨を定めておかなければならない。</Sentence>
@@ -1379,13 +1379,13 @@
             <Article Delete="false" Hide="false" Num="29">
               <ArticleCaption>（業務の範囲及び区分経理）</ArticleCaption>
               <ArticleTitle>第二十九条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体は、その行う差止請求関係業務に支障がない限り、定款の定めるところにより、差止請求関係業務以外の業務を行うことができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体は、次に掲げる業務に係る経理をそれぞれ区分して整理しなければならない。</Sentence>
@@ -1416,7 +1416,7 @@
             <Article Delete="false" Hide="false" Num="30">
               <ArticleCaption>（帳簿書類の作成及び保存）</ArticleCaption>
               <ArticleTitle>第三十条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体は、内閣府令で定めるところにより、その業務及び経理に関する帳簿書類を作成し、これを保存しなければならない。</Sentence>
@@ -1426,19 +1426,19 @@
             <Article Delete="false" Hide="false" Num="31">
               <ArticleCaption>（財務諸表等の作成、備置き、閲覧等及び提出等）</ArticleCaption>
               <ArticleTitle>第三十一条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体は、毎事業年度終了後三月以内に、その事業年度の財産目録、貸借対照表、収支計算書及び事業報告書（これらの作成に代えて電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下この条において同じ。）の作成がされている場合における当該電磁的記録を含む。以下「財務諸表等」という。）を作成しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体は、内閣府令で定めるところにより、毎事業年度、その差止請求関係業務その他の業務がこの法律の規定に従い適正に遂行されているかどうかについて、その業務の遂行の状況の調査に必要な学識経験を有する者が行う調査を受けなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="3">
+              <Paragraph Hide="false" Num="3" OldStyle="false">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体の事務所には、内閣府令で定めるところにより、次に掲げる書類を備え置かなければならない。</Sentence>
@@ -1492,7 +1492,7 @@
                   </ItemSentence>
                 </Item>
               </Paragraph>
-              <Paragraph Hide="false" Num="4">
+              <Paragraph Hide="false" Num="4" OldStyle="false">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Function="main" Num="1" WritingMode="vertical">何人も、適格消費者団体の業務時間内は、いつでも、次に掲げる請求をすることができる。</Sentence>
@@ -1523,13 +1523,13 @@
                   </ItemSentence>
                 </Item>
               </Paragraph>
-              <Paragraph Hide="false" Num="5">
+              <Paragraph Hide="false" Num="5" OldStyle="false">
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体は、前項各号に掲げる請求があったときは、正当な理由がある場合を除き、これを拒むことができない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="6">
+              <Paragraph Hide="false" Num="6" OldStyle="false">
                 <ParagraphNum>６</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体は、毎事業年度終了後三月以内に、第三項第三号から第六号まで及び第八号に掲げる書類を内閣総理大臣に提出しなければならない。</Sentence>
@@ -1539,19 +1539,19 @@
             <Article Delete="false" Hide="false" Num="32">
               <ArticleCaption>（報告及び立入検査）</ArticleCaption>
               <ArticleTitle>第三十二条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、この法律の実施に必要な限度において、適格消費者団体に対し、その業務若しくは経理の状況に関し報告をさせ、又はその職員に、適格消費者団体の事務所に立ち入り、業務の状況若しくは帳簿、書類その他の物件を検査させ、若しくは関係者に質問させることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前項の規定により職員が立ち入るときは、その身分を示す証明書を携帯し、関係者に提示しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="3">
+              <Paragraph Hide="false" Num="3" OldStyle="false">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">第一項に規定する立入検査の権限は、犯罪捜査のために認められたものと解してはならない。</Sentence>
@@ -1561,13 +1561,13 @@
             <Article Delete="false" Hide="false" Num="33">
               <ArticleCaption>（適合命令及び改善命令）</ArticleCaption>
               <ArticleTitle>第三十三条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、適格消費者団体が、第十三条第三項第二号から第七号までに掲げる要件のいずれかに適合しなくなったと認めるときは、当該適格消費者団体に対し、これらの要件に適合するために必要な措置をとるべきことを命ずることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、前項に定めるもののほか、適格消費者団体が第十三条第五項第三号から第六号までのいずれかに該当するに至ったと認めるとき、適格消費者団体又はその役員、職員若しくは専門委員が差止請求関係業務の遂行に関しこの法律の規定に違反したと認めるとき、その他適格消費者団体の業務の適正な運営を確保するため必要があると認めるときは、当該適格消費者団体に対し、人的体制の改善、違反の停止、業務規程の変更その他の業務の運営の改善に必要な措置をとるべきことを命ずることができる。</Sentence>
@@ -1577,7 +1577,7 @@
             <Article Delete="false" Hide="false" Num="34">
               <ArticleCaption>（認定の取消し等）</ArticleCaption>
               <ArticleTitle>第三十四条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、適格消費者団体について、次のいずれかに掲げる事由があるときは、第十三条第一項の認定を取り消すことができる。</Sentence>
@@ -1625,25 +1625,25 @@
                   </ItemSentence>
                 </Item>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体が、第二十三条第四項の規定に違反して同項の通知又は報告をしないで、差止請求に関し、同項第十号に規定する行為をしたときは、内閣総理大臣は、当該適格消費者団体について前項第四号に掲げる事由があるものとみなすことができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="3">
+              <Paragraph Hide="false" Num="3" OldStyle="false">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">第十二条の二第一項第二号本文に掲げる場合であって、当該他の適格消費者団体に係る第十三条第一項の認定が、第二十二条各号に掲げる事由により既に失効し、又は第一項各号に掲げる事由（当該確定判決等に係る訴訟等の手続に関する同項第四号に掲げる事由を除く。）若しくは消費者裁判手続特例法第八十六条第二項各号に掲げる事由により既に取り消されている場合においては、内閣総理大臣は、当該他の適格消費者団体につき当該確定判決等に係る訴訟等の手続に関し第一項第四号に掲げる事由があったと認められるとき（前項の規定により同号に掲げる事由があるものとみなすことができる場合を含む。）は、当該他の適格消費者団体であった法人について、その旨の認定をすることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="4">
+              <Paragraph Hide="false" Num="4" OldStyle="false">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前項に規定する場合における当該他の適格消費者団体であった法人は、清算が結了した後においても、同項の規定の適用については、なお存続するものとみなす。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="5">
+              <Paragraph Hide="false" Num="5" OldStyle="false">
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、第一項各号に掲げる事由により第十三条第一項の認定を取り消し、又は第三項の規定により第一項第四号に掲げる事由があった旨の認定をしたときは、内閣府令で定めるところにより、その旨及びその取消し又は認定をした日を公示するとともに、当該適格消費者団体又は当該他の適格消費者団体であった法人に対し、その旨を書面により通知するものとする。</Sentence>
@@ -1653,25 +1653,25 @@
             <Article Delete="false" Hide="false" Num="35">
               <ArticleCaption>（差止請求権の承継に係る指定等）</ArticleCaption>
               <ArticleTitle>第三十五条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体について、第十二条の二第一項第二号本文の確定判決等で強制執行をすることができるものが存する場合において、第十三条第一項の認定が、第二十二条各号に掲げる事由により失効し、若しくは前条第一項各号若しくは消費者裁判手続特例法第八十六条第二項各号に掲げる事由により取り消されるとき、又はこれらの事由により既に失効し、若しくは既に取り消されているときは、内閣総理大臣は、当該適格消費者団体の有する当該差止請求権を承継すべき適格消費者団体として他の適格消費者団体を指定するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前項の規定による指定がされたときは、同項の差止請求権は、その指定の時において（その認定の失効又は取消しの後にその指定がされた場合にあっては、その認定の失効又は取消しの時にさかのぼって）その指定を受けた適格消費者団体が承継する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="3">
+              <Paragraph Hide="false" Num="3" OldStyle="false">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前項の場合において、同項の規定により当該差止請求権を承継した適格消費者団体が当該差止請求権に基づく差止請求をするときは、第十二条の二第一項第二号本文の規定は、当該差止請求については、適用しない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="4">
+              <Paragraph Hide="false" Num="4" OldStyle="false">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、次のいずれかに掲げる事由が生じたときは、第一項、第六項又は第七項の規定による指定を受けた適格消費者団体（以下この項から第七項までにおいて「指定適格消費者団体」という。）に係る指定を取り消さなければならない。</Sentence>
@@ -1689,7 +1689,7 @@
                   </ItemSentence>
                 </Item>
               </Paragraph>
-              <Paragraph Hide="false" Num="5">
+              <Paragraph Hide="false" Num="5" OldStyle="false">
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、次のいずれかに掲げる事由が生じたときは、指定適格消費者団体に係る指定を取り消すことができる。</Sentence>
@@ -1707,31 +1707,31 @@
                   </ItemSentence>
                 </Item>
               </Paragraph>
-              <Paragraph Hide="false" Num="6">
+              <Paragraph Hide="false" Num="6" OldStyle="false">
                 <ParagraphNum>６</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、第四項第一号又は前項第一号に掲げる事由により指定適格消費者団体に係る指定を取り消し、又は既に取り消しているときは、当該指定適格消費者団体の承継していた差止請求権を承継すべき適格消費者団体として他の適格消費者団体を新たに指定するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="7">
+              <Paragraph Hide="false" Num="7" OldStyle="false">
                 <ParagraphNum>７</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、第四項第二号又は第五項第二号に掲げる事由により指定適格消費者団体に係る指定を取り消すときは、当該指定適格消費者団体の承継していた差止請求権を承継すべき適格消費者団体として当該従前の適格消費者団体を新たに指定するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="8">
+              <Paragraph Hide="false" Num="8" OldStyle="false">
                 <ParagraphNum>８</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前二項の規定による新たな指定がされたときは、前二項の差止請求権は、その新たな指定の時において（従前の指定の取消し後に新たな指定がされた場合にあっては、従前の指定の取消しの時（従前の適格消費者団体に係る第十三条第一項の認定の失効後に従前の指定の取消し及び新たな指定がされた場合にあっては、その認定の失効の時）にさかのぼって）その新たな指定を受けた適格消費者団体が承継する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="9">
+              <Paragraph Hide="false" Num="9" OldStyle="false">
                 <ParagraphNum>９</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">第三項の規定は、前項の場合において、同項の規定により当該差止請求権を承継した適格消費者団体が当該差止請求権に基づく差止請求をするときについて準用する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="10">
+              <Paragraph Hide="false" Num="10" OldStyle="false">
                 <ParagraphNum>１０</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第一項、第六項又は第七項の規定による指定をしたときは、内閣府令で定めるところにより、その旨及びその指定の日を公示するとともに、その指定を受けた適格消費者団体に対し、その旨を書面により通知するものとする。</Sentence>
@@ -1745,7 +1745,7 @@
             <Article Delete="false" Hide="false" Num="36">
               <ArticleCaption>（規律）</ArticleCaption>
               <ArticleTitle>第三十六条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">適格消費者団体は、これを政党又は政治的目的のために利用してはならない。</Sentence>
@@ -1755,7 +1755,7 @@
             <Article Delete="false" Hide="false" Num="37">
               <ArticleCaption>（官公庁等への協力依頼）</ArticleCaption>
               <ArticleTitle>第三十七条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、この法律の実施のため必要があると認めるときは、官庁、公共団体その他の者に照会し、又は協力を求めることができる。</Sentence>
@@ -1765,7 +1765,7 @@
             <Article Delete="false" Hide="false" Num="38">
               <ArticleCaption>（内閣総理大臣への意見）</ArticleCaption>
               <ArticleTitle>第三十八条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">次の各号に掲げる者は、適格消費者団体についてそれぞれ当該各号に定める事由があると疑うに足りる相当な理由があるため、内閣総理大臣が当該適格消費者団体に対して適当な措置をとることが必要であると認める場合には、内閣総理大臣に対し、その旨の意見を述べることができる。</Sentence>
@@ -1797,19 +1797,19 @@
             <Article Delete="false" Hide="false" Num="39">
               <ArticleCaption>（判決等に関する情報の公表）</ArticleCaption>
               <ArticleTitle>第三十九条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、消費者の被害の防止及び救済に資するため、適格消費者団体から第二十三条第四項第四号から第九号まで及び第十一号の規定による報告を受けたときは、インターネットの利用その他適切な方法により、速やかに、差止請求に係る判決（確定判決と同一の効力を有するもの及び仮処分命令の申立てについての決定を含む。）又は裁判外の和解の概要、当該適格消費者団体の名称及び当該差止請求に係る相手方の氏名又は名称その他内閣府令で定める事項を公表するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前項に規定する事項のほか、内閣総理大臣は、差止請求関係業務に関する情報を広く国民に提供するため、インターネットの利用その他適切な方法により、適格消費者団体の名称及び住所並びに差止請求関係業務を行う事務所の所在地その他内閣府令で定める必要な情報を公表することができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="3">
+              <Paragraph Hide="false" Num="3" OldStyle="false">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">内閣総理大臣は、独立行政法人国民生活センターに、前二項の情報の公表に関する業務を行わせることができる。</Sentence>
@@ -1819,13 +1819,13 @@
             <Article Delete="false" Hide="false" Num="40">
               <ArticleCaption>（適格消費者団体への協力等）</ArticleCaption>
               <ArticleTitle>第四十条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">独立行政法人国民生活センター及び地方公共団体は、内閣府令で定めるところにより、適格消費者団体の求めに応じ、当該適格消費者団体が差止請求権を適切に行使するために必要な限度において、当該適格消費者団体に対し、消費生活相談に関する情報で内閣府令で定めるものを提供することができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前項の規定により情報の提供を受けた適格消費者団体は、当該情報を当該差止請求権の適切な行使の用に供する目的以外の目的のために利用し、又は提供してはならない。</Sentence>
@@ -1839,20 +1839,20 @@
           <Article Delete="false" Hide="false" Num="41">
             <ArticleCaption>（書面による事前の請求）</ArticleCaption>
             <ArticleTitle>第四十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">適格消費者団体は、差止請求に係る訴えを提起しようとするときは、その訴えの被告となるべき者に対し、あらかじめ、請求の要旨及び紛争の要点その他の内閣府令で定める事項を記載した書面により差止請求をし、かつ、その到達した時から一週間を経過した後でなければ、その訴えを提起することができない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該被告となるべき者がその差止請求を拒んだときは、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の請求は、その請求が通常到達すべきであった時に、到達したものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前二項の規定は、差止請求に係る仮処分命令の申立てについて準用する。</Sentence>
@@ -1862,7 +1862,7 @@
           <Article Delete="false" Hide="false" Num="42">
             <ArticleCaption>（訴訟の目的の価額）</ArticleCaption>
             <ArticleTitle>第四十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">差止請求に係る訴えは、訴訟の目的の価額の算定については、財産権上の請求でない請求に係る訴えとみなす。</Sentence>
@@ -1872,13 +1872,13 @@
           <Article Delete="false" Hide="false" Num="43">
             <ArticleCaption>（管轄）</ArticleCaption>
             <ArticleTitle>第四十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">差止請求に係る訴訟については、民事訴訟法第五条（第五号に係る部分を除く。）の規定は、適用しない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">次の各号に掲げる規定による差止請求に係る訴えは、当該各号に定める行為があった地を管轄する裁判所にも提起することができる。</Sentence>
@@ -1932,7 +1932,7 @@
           <Article Delete="false" Hide="false" Num="44">
             <ArticleCaption>（移送）</ArticleCaption>
             <ArticleTitle>第四十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">裁判所は、差止請求に係る訴えが提起された場合であって、他の裁判所に同一又は同種の行為の差止請求に係る訴訟が係属している場合においては、当事者の住所又は所在地、尋問を受けるべき証人の住所、争点又は証拠の共通性その他の事情を考慮して、相当と認めるときは、申立てにより又は職権で、当該訴えに係る訴訟の全部又は一部について、当該他の裁判所又は他の管轄裁判所に移送することができる。</Sentence>
@@ -1942,14 +1942,14 @@
           <Article Delete="false" Hide="false" Num="45">
             <ArticleCaption>（弁論等の併合）</ArticleCaption>
             <ArticleTitle>第四十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">請求の内容及び相手方が同一である差止請求に係る訴訟が同一の第一審裁判所又は控訴裁判所に数個同時に係属するときは、その弁論及び裁判は、併合してしなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、審理の状況その他の事情を考慮して、他の差止請求に係る訴訟と弁論及び裁判を併合してすることが著しく不相当であると認めるときは、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項本文に規定する場合には、当事者は、その旨を裁判所に申し出なければならない。</Sentence>
@@ -1959,19 +1959,19 @@
           <Article Delete="false" Hide="false" Num="46">
             <ArticleCaption>（訴訟手続の中止）</ArticleCaption>
             <ArticleTitle>第四十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">内閣総理大臣は、現に係属する差止請求に係る訴訟につき既に他の適格消費者団体を当事者とする第十二条の二第一項第二号本文の確定判決等が存する場合において、当該他の適格消費者団体につき当該確定判決等に係る訴訟等の手続に関し第三十四条第一項第四号に掲げる事由があると疑うに足りる相当な理由がある場合（同条第二項の規定により同号に掲げる事由があるものとみなすことができる場合を含む。）であって、同条第一項の規定による第十三条第一項の認定の取消し又は第三十四条第三項の規定による認定（次項において「認定の取消し等」という。）をするかどうかの判断をするため相当の期間を要すると認めるときは、内閣府令で定めるところにより、当該差止請求に係る訴訟が係属する裁判所（以下この条において「受訴裁判所」という。）に対し、その旨及びその判断に要すると認められる期間を通知するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">内閣総理大臣は、前項の規定による通知をした場合には、その通知に係る期間内に、認定の取消し等をするかどうかの判断をし、その結果を受訴裁判所に通知するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第一項の規定による通知があった場合において、必要があると認めるときは、受訴裁判所は、その通知に係る期間を経過する日まで（その期間を経過する前に前項の規定による通知を受けたときは、その通知を受けた日まで）、訴訟手続を中止することができる。</Sentence>
@@ -1981,7 +1981,7 @@
           <Article Delete="false" Hide="false" Num="47">
             <ArticleCaption>（間接強制の支払額の算定）</ArticleCaption>
             <ArticleTitle>第四十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">差止請求権について民事執行法第百七十二条第一項に規定する方法により強制執行を行う場合において、同項又は同条第二項の規定により債務者が債権者に支払うべき金銭の額を定めるに当たっては、執行裁判所は、債務不履行により不特定かつ多数の消費者が受けるべき不利益を特に考慮しなければならない。</Sentence>
@@ -1995,7 +1995,7 @@
         <Article Delete="false" Hide="false" Num="48">
           <ArticleCaption>（適用除外）</ArticleCaption>
           <ArticleTitle>第四十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律の規定は、労働契約については、適用しない。</Sentence>
@@ -2005,7 +2005,7 @@
         <Article Delete="false" Hide="false" Num="48_2">
           <ArticleCaption>（権限の委任）</ArticleCaption>
           <ArticleTitle>第四十八条の二</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">内閣総理大臣は、前章の規定による権限（政令で定めるものを除く。）を消費者庁長官に委任する。</Sentence>
@@ -2017,32 +2017,32 @@
         <ChapterTitle>第五章　罰則</ChapterTitle>
         <Article Delete="false" Hide="false" Num="49">
           <ArticleTitle>第四十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">適格消費者団体の役員、職員又は専門委員が、適格消費者団体の差止請求に係る相手方から、寄附金、賛助金その他名目のいかんを問わず、当該適格消費者団体においてその差止請求権の行使をしないこと若しくはしなかったこと、その差止請求権の放棄をすること若しくはしたこと、その相手方との間でその差止請求に係る和解をすること若しくはしたこと又はその差止請求に係る訴訟その他の手続を他の事由により終了させること若しくは終了させたことの報酬として、金銭その他の財産上の利益を受け、又は第三者（当該適格消費者団体を含む。）に受けさせたときは、三年以下の懲役又は三百万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の利益を供与した者も、同項と同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第一項の場合において、犯人又は情を知った第三者が受けた財産上の利益は、没収する。</Sentence>
               <Sentence Num="2" WritingMode="vertical">その全部又は一部を没収することができないときは、その価額を追徴する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項の罪は、日本国外においてこれらの罪を犯した者にも適用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第二項の罪は、刑法（明治四十年法律第四十五号）第二条の例に従う。</Sentence>
@@ -2051,7 +2051,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="50">
           <ArticleTitle>第五十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次のいずれかに該当する者は、百万円以下の罰金に処する。</Sentence>
@@ -2072,7 +2072,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="51">
           <ArticleTitle>第五十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次のいずれかに該当する者は、五十万円以下の罰金に処する。</Sentence>
@@ -2105,13 +2105,13 @@
         </Article>
         <Article Delete="false" Hide="false" Num="52">
           <ArticleTitle>第五十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法人（法人でない団体で代表者又は管理人の定めのあるものを含む。以下この項において同じ。）の代表者若しくは管理人又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して、前三条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても、各本条の罰金刑を科する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法人でない団体について前項の規定の適用がある場合には、その代表者又は管理人が、その訴訟行為につき法人でない団体を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
@@ -2120,7 +2120,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="53">
           <ArticleTitle>第五十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次のいずれかに該当する者は、三十万円以下の過料に処する。</Sentence>
@@ -2197,16 +2197,16 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、平成十三年四月一日から施行し、この法律の施行後に締結された消費者契約について適用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年一一月二八日法律第一二九号" Extract="true">
+    <SupplProvision AmendLawId="413129" AmendLawNum="平成一三年一一月二八日法律第一二九号" Extract="true" Id="d806af09-5704-4418-accf-d078031bea90">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -2214,34 +2214,34 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true">
+    <SupplProvision AmendLawId="417087" AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true" Id="6227ae84-47dd-11e5-92b2-43af2fd23feb">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、会社法の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一八年六月二日法律第五〇号">
+    <SupplProvision AmendLawId="418050" AmendLawNum="平成一八年六月二日法律第五〇号" Id="994c58f6-0a18-11e8-af63-742b6287e916">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、一般社団・財団法人法の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一八年六月七日法律第五六号">
+    <SupplProvision AmendLawId="418056" AmendLawNum="平成一八年六月七日法律第五六号" Id="5f085547-857f-4890-b301-d79b5a38a8c1">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から起算して一年を経過した日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（検討）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -2249,9 +2249,9 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二〇年五月二日法律第二九号">
+    <SupplProvision AmendLawId="420029" AmendLawNum="平成二〇年五月二日法律第二九号" Id="a292f829-dec6-4d50-a798-d694002e308a">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -2259,26 +2259,26 @@
           <Sentence Num="2" WritingMode="vertical">ただし、第二条及び第四条の規定は、特定商取引に関する法律及び割賦販売法の一部を改正する法律（平成二十年法律第七十四号）の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">第一条又は第二条の規定の施行前にされた消費者契約法第十三条第一項の認定の申請並びに同法第十九条第三項及び第二十条第三項の認可の申請に係る認定及び認可に関する手続については、それぞれ第一条又は第二条の規定による改正後の同法の規定にかかわらず、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">第一条又は第二条の規定の施行前にした行為に対する罰則の適用については、それぞれ第一条又は第二条の規定による改正後の消費者契約法の規定にかかわらず、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二一年六月五日法律第四九号" Extract="true">
+    <SupplProvision AmendLawId="421049" AmendLawNum="平成二一年六月五日法律第四九号" Extract="true" Id="83541ddc-9861-4b80-ae32-aaca02b1f868">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律は、消費者庁及び消費者委員会設置法（平成二十一年法律第四十八号）の施行の日から施行する。</Sentence>
@@ -2300,19 +2300,19 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（処分等に関する経過措置）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前にこの法律による改正前のそれぞれの法律（これに基づく命令を含む。以下「旧法令」という。）の規定によりされた免許、許可、認可、承認、指定その他の処分又は通知その他の行為は、法令に別段の定めがあるもののほか、この法律の施行後は、この法律による改正後のそれぞれの法律（これに基づく命令を含む。以下「新法令」という。）の相当規定によりされた免許、許可、認可、承認、指定その他の処分又は通知その他の行為とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行の際現に旧法令の規定によりされている免許の申請、届出その他の行為は、法令に別段の定めがあるもののほか、この法律の施行後は、新法令の相当規定によりされた免許の申請、届出その他の行為とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前に旧法令の規定により報告、届出、提出その他の手続をしなければならない事項で、この法律の施行日前にその手続がされていないものについては、法令に別段の定めがあるもののほか、この法律の施行後は、これを、新法令の相当規定によりその手続がされていないものとみなして、新法令の規定を適用する。</Sentence>
@@ -2322,7 +2322,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（命令の効力に関する経過措置）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">旧法令の規定により発せられた内閣府設置法第七条第三項の内閣府令又は国家行政組織法第十二条第一項の省令は、法令に別段の定めがあるもののほか、この法律の施行後は、新法令の相当規定に基づいて発せられた相当の内閣府設置法第七条第三項の内閣府令又は国家行政組織法第十二条第一項の省令としての効力を有するものとする。</Sentence>
@@ -2332,7 +2332,7 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前にした行為及びこの法律の附則においてなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -2342,7 +2342,7 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
@@ -2350,12 +2350,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二三年六月二四日法律第七四号" Extract="true">
+    <SupplProvision AmendLawId="423074" AmendLawNum="平成二三年六月二四日法律第七四号" Extract="true" Id="64061518-04d8-4a9e-acc1-1ae4d12de2b1">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して二十日を経過した日から施行する。</Sentence>
@@ -2363,12 +2363,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二四年八月二二日法律第五九号" Extract="true">
+    <SupplProvision AmendLawId="424059" AmendLawNum="平成二四年八月二二日法律第五九号" Extract="true" Id="da48c45f-8784-4a27-92ca-5b18ddafab49">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -2376,12 +2376,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二五年六月二八日法律第七〇号" Extract="true">
+    <SupplProvision AmendLawId="425070" AmendLawNum="平成二五年六月二八日法律第七〇号" Extract="true" Id="54d48e64-47dd-11e5-9009-c7ac6a1bb739">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -2392,7 +2392,7 @@
       <Article Delete="false" Hide="false" Num="17">
         <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
         <ArticleTitle>第十七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -2402,7 +2402,7 @@
       <Article Delete="false" Hide="false" Num="18">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第十八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
@@ -2410,12 +2410,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二五年一二月一一日法律第九六号" Extract="true">
+    <SupplProvision AmendLawId="425096" AmendLawNum="平成二五年一二月一一日法律第九六号" Extract="true" Id="4c23b4e9-9368-c007-bccc-b2db7470db52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -2423,12 +2423,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二六年六月一三日法律第七一号" Extract="true">
+    <SupplProvision AmendLawId="426071" AmendLawNum="平成二六年六月一三日法律第七一号" Extract="true" Id="eded815d-1a8c-4b88-ad6b-eb3b933c3b4e">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -2454,12 +2454,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二六年一一月二七日法律第一一八号" Extract="true">
+    <SupplProvision AmendLawId="426118" AmendLawNum="平成二六年一一月二七日法律第一一八号" Extract="true" Id="b947147c-5187-4560-803b-7e2e6c5c6b95">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して一年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -2467,12 +2467,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二八年六月三日法律第六一号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawId="428061" AmendLawNum="平成二八年六月三日法律第六一号" Extract="true" Id="a8d57384-dd5c-41a1-951a-a710a625e926" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を経過した日から施行する。</Sentence>
@@ -2516,25 +2516,25 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律による改正後の消費者契約法（以下「新法」という。）第四条第四項及び第五項（第三号に係る部分に限る。）（これらの規定を新法第五条第一項において準用する場合を含む。）の規定は、この法律の施行前にされた消費者契約の申込み又はその承諾の意思表示については、適用しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前にされた消費者契約の申込み又はその承諾の意思表示に係る取消権については、新法第七条第一項の規定にかかわらず、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前に締結された消費者契約の条項については、新法第八条第一項第三号及び第四号の規定にかかわらず、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">新法第八条の二の規定は、この法律の施行前に締結された消費者契約の条項については、適用しない。</Sentence>
@@ -2543,7 +2543,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="3">
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第一条第二号に掲げる規定による改正後の消費者契約法第六条の二の規定は、同号に掲げる規定の施行前に消費者契約に基づく債務の履行として給付がされた場合におけるその給付を受けた消費者の返還の義務については、適用しない。</Sentence>
@@ -2553,7 +2553,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前二条に定めるもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
@@ -2563,7 +2563,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（検討）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、消費者の被害の状況、消費者の利益の擁護を図るための諸施策の実施の状況その他社会経済情勢の変化を勘案しつつ、新法の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
@@ -2571,12 +2571,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二九年六月二日法律第四三号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawId="429043" AmendLawNum="平成二九年六月二日法律第四三号" Extract="true" Id="ee1bb5b6-49a7-11e7-90bd-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十九年十月一日から施行する。</Sentence>
@@ -2587,7 +2587,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（消費者契約法の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行の際現に第二条の規定による改正前の消費者契約法第十三条第一項の認定を受けている者（次条において「既存適格消費者団体」という。）に係る当該認定の有効期間については、その満了の日までの間は、第二条の規定による改正後の消費者契約法第十七条第一項の規定にかかわらず、なお従前の例による。</Sentence>
@@ -2597,7 +2597,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -2607,7 +2607,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前三条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
@@ -2615,9 +2615,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二九年六月二日法律第四五号" Type="Amend">
+    <SupplProvision AmendLawId="429045" AmendLawNum="平成二九年六月二日法律第四五号" Id="0764f7de-49d6-11e7-99a6-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、民法改正法の施行の日から施行する。</Sentence>
@@ -2625,12 +2625,12 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三〇年六月一五日法律第五四号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawId="430054" AmendLawNum="平成三〇年六月一五日法律第五四号" Extract="true" Id="8b2f0802-72f7-11e8-b608-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を経過した日から施行する。</Sentence>
@@ -2641,25 +2641,25 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前にされた消費者契約の申込み又はその承諾の意思表示については、この法律による改正後の消費者契約法（以下「新法」という。）第四条第二項（新法第五条第一項において準用する場合を含む。）の規定にかかわらず、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">新法第四条第三項第三号から第八号まで（これらの規定を新法第五条第一項において準用する場合を含む。）の規定は、この法律の施行前にされた消費者契約の申込み又はその承諾の意思表示については、適用しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前に締結された消費者契約の条項については、新法第八条第一項及び第八条の二の規定にかかわらず、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">新法第八条の三の規定は、この法律の施行前に締結された消費者契約の条項については、適用しない。</Sentence>
@@ -2669,7 +2669,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前条に定めるもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
@@ -2679,7 +2679,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（検討）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、消費者の被害の状況、消費者の利益の擁護を図るための諸施策の実施の状況その他社会経済情勢の変化を勘案しつつ、新法の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="027" Year="29">
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="027" Year="29">
   <LawNum>平成二十九年経済産業省令第二十七号</LawNum>
   <LawBody>
     <LawTitle>株式会社日本貿易保険の会計に関する省令</LawTitle>
@@ -8,7 +8,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、貿易保険法（以下「法」という。）の規定により委任された株式会社日本貿易保険（以下「会社」という。）の会計に関する事項その他の事項について、必要な事項を定めることを目的とする。</Sentence>
@@ -18,13 +18,13 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（定義）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令において、「外国政府等」、「保険金等」、「銀行等」、「入札者等」又は「保証対象債務」とは、それぞれ法第二条第五項、第二十三条、第五十七条第一項又は第六十二条第二項に規定する外国政府等、保険金等、銀行等、入札者等又は保証対象債務をいう。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令において、「非常事故代位債権」とは、次に掲げる場合における保険金の支払に関して会社が法第四十二条の規定により取得した権利のうち金銭債権であって、債務繰延協定（当該債権に係る決済期限又は償還期限を延長することに関する国際約束をいう。）が締結されたもの（外国政府等に対するものに限る。）をいう。</Sentence>
@@ -42,7 +42,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令において、「信用事故代位債権」とは、次に掲げる場合における保険金の支払に関して会社が法第四十二条の規定により取得した権利のうち金銭債権であって、外国政府等以外の者に対するものをいう。</Sentence>
@@ -60,19 +60,19 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令において、「非常事故代位見込債権」とは、貿易保険法施行規則（平成十三年経済産業省令第百五号）第十一条第一項各号に掲げる保険金等の支払（第二項第一号又は第二号に掲げる場合におけるものに限る。）に関して会社が法第四十二条の規定により取得することが見込まれる権利のうち金銭債権であって、外国政府等に対するものをいう。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令において、「信用事故代位見込債権」とは、貿易保険法施行規則第十一条第一項各号に掲げる保険金等の支払（第三項第一号又は第二号に掲げる場合におけるものに限る。）に関して会社が法第四十二条の規定により取得することが見込まれる権利のうち金銭債権であって、外国政府等以外の者に対するものをいう。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="6">
+        <Paragraph Hide="false" Num="6" OldStyle="false">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令において、「譲受債権」とは、会社が保険契約者又は被保険者から譲り受けた外国政府等に対する金銭債権（貿易保険の保険契約に関するものに限る。）をいう。</Sentence>
@@ -82,7 +82,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（遵守義務）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">会社は、この省令の定めるところにより、その会計を整理しなければならない。</Sentence>
@@ -93,7 +93,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（会計原則）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">会社は、次に掲げる基準に従ってその会計を処理しなければならない。</Sentence>
@@ -133,7 +133,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（財務諸表の様式）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">会社は、別表第一の様式により貸借対照表、損益計算書、株主資本等変動計算書、個別注記表及びキャッシュ・フロー計算書を、別表第二の様式により連結貸借対照表、連結損益計算書、連結包括利益計算書、連結株主資本等変動計算書、連結注記表及び連結キャッシュ・フロー計算書をそれぞれ作成しなければならない。</Sentence>
@@ -143,7 +143,7 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（保険代位債権等）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">会社は、次に掲げる金銭債権を保険代位債権等として計上することができる。</Sentence>
@@ -189,7 +189,7 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十九年四月一日から施行する。</Sentence>

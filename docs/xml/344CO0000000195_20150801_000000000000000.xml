@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200608e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="195" Year="44">
+<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="195" Year="44">
   <LawNum>昭和四十四年政令第百九十五号</LawNum>
   <LawBody>
     <LawTitle>外航船舶建造融資利子補給臨時措置法施行令</LawTitle>
@@ -8,7 +8,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（一般金融機関の範囲）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">外航船舶建造融資利子補給臨時措置法（以下「法」という。）第二条の一般金融機関の範囲は、次に掲げるものとする。</Sentence>
@@ -36,7 +36,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（大蔵大臣との協議）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">運輸大臣は、法第二条の規定による利子補給金を支給する旨の契約（以下「利子補給契約」という。）を結ぼうとするときは、あらかじめ大蔵大臣に協議しなければならない。</Sentence>
@@ -46,7 +46,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（利子補給契約の締結の通知）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">運輸大臣は、利子補給契約を結んだときは、遅滞なく、当該利子補給契約に係る法第二条の申請をした会社にその旨を通知するものとする。</Sentence>
@@ -56,7 +56,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（納付金に関する利益の範囲）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第九条第一項の利益の範囲は、当期利益の額から第一号から第五号までに掲げる金額の合計額を控除し、その残額に第六号に掲げる金額を加算した金額とする。</Sentence>
@@ -98,7 +98,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">前項の当期利益の額は、当該決算期に係る利益として計上した金額とする。</Sentence>
@@ -193,13 +193,13 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項第七号又は第八号に掲げる場合における第一項の規定の適用については、当該各号に定めるところにより利益として計算された金額を基礎として計算される当該決算期についての法人税の額及び道府県民税、市町村民税又は都民税の法人税割額を、それぞれ同項第一号に掲げる法人税の額及び同項第二号に掲げる道府県民税、市町村民税又は都民税の法人税割額とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次の各号に掲げる場合においては、船舶建造積立金の額に相当する金額のうち当該各号に定める金額を、当該船舶建造積立金を積み立てた決算期に係る法第九条第一項の利益の額に加算して再計算する。</Sentence>
@@ -231,7 +231,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（納付金を納付する場合の利益の資本に対する率）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第九条第一項の政令で定める率は、年十三パーセントとする。</Sentence>
@@ -241,7 +241,7 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（納付金の額の算出の方法）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第九条第一項本文の政令で定める方法は、当該会社の資本に前条の率を乗じて算出した金額を超える利益の額を次の表の上欄に掲げる部分に区分し、それぞれの部分の金額に同表の下欄に掲げる率を乗じて算出した金額を合計するものとする。</Sentence>
@@ -287,7 +287,7 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（国庫納付義務残高を算出するための納付金の割当方法）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第九条第一項ただし書の政令で定める方法は、国庫に納付し、又は納付すべき金額に相当する金額を、同項ただし書の利子補給契約のうち結ばれた日の最も古いものに係る融資に割り当てるものとし、その割り当てた金額の累計額が当該融資に係る利子額から差し引いた金額の累計額に達したときは、順次に結ばれた日の古い利子補給契約に係る融資から割り当てるものとする。</Sentence>
@@ -297,7 +297,7 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（支給しない利子補給金の順序）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、法第九条第二項の規定により利子補給金を支給しないものとする場合は、結ばれた日の最も古い利子補給契約に係る利子補給金から順次に支給しないものとする。</Sentence>
@@ -307,7 +307,7 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（運輸省令への委任）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令に定めるもののほか、利子補給契約の締結の手続その他の法の実施のため必要な事項については、運輸省令で定める。</Sentence>
@@ -317,79 +317,79 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四九年一二月一二日政令第三八二号">
+    <SupplProvision AmendLawId="349382" AmendLawNum="昭和四九年一二月一二日政令第三八二号" Id="ff7121e4-19a8-11e8-a703-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五六年三月二五日政令第三七号">
+    <SupplProvision AmendLawId="356037" AmendLawNum="昭和五六年三月二五日政令第三七号" Id="ffa621b4-19a8-11e8-a703-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行し、改正後の第四条第一項第四号の規定は、この政令の施行の日の属する決算期以後の決算期に係る決算について適用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五七年三月二七日政令第四八号" Extract="true">
+    <SupplProvision AmendLawId="357048" AmendLawNum="昭和五七年三月二七日政令第四八号" Extract="true" Id="a585b8a8-189e-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、銀行法の施行の日（昭和五十七年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五八年三月二九日政令第四一号">
+    <SupplProvision AmendLawId="358041" AmendLawNum="昭和五八年三月二九日政令第四一号" Id="00101902-19a9-11e8-a703-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行し、改正後の第四条第一項の規定は、この政令の施行の日の属する決算期以後の決算期に係る決算について適用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和六〇年三月二三日政令第三九号">
+    <SupplProvision AmendLawId="360039" AmendLawNum="昭和六〇年三月二三日政令第三九号" Id="0044f596-19a9-11e8-a703-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">改正後の第五条の規定は、この政令の施行の日の属する決算期以後の決算期に係る決算について適用し、この政令の施行の日の属する決算期前の決算期に係る決算については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成七年一二月二二日政令第四二六号">
+    <SupplProvision AmendLawId="407426" AmendLawNum="平成七年一二月二二日政令第四二六号" Id="bb268509-73d3-41ee-be98-50a937eac30d">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、保険業法の施行の日（平成八年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一〇年一一月二〇日政令第三六九号" Extract="true">
+    <SupplProvision AmendLawId="410369" AmendLawNum="平成一〇年一一月二〇日政令第三六九号" Extract="true" Id="1b7d3304-d3b7-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、平成十年十二月一日から施行する。</Sentence>

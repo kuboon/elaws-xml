@@ -1,4 +1,4 @@
-#!/bin/env -S deno run --unstable --allow-net=elaws.e-gov.go.jp --allow-run=unzip --allow-read=. --allow-write=.
+#!/bin/env -S deno run --unstable --allow-net=elaws.e-gov.go.jp --allow-run=unzip --allow-read --allow-write
 import { fromStreamReader } from "https://deno.land/std@0.77.0/io/mod.ts";
 
 const ZipFileName = "xml_all.zip";
@@ -12,11 +12,11 @@ async function getZip() {
   await Deno.copy(reader, file).then(() => file.close());
 }
 async function main() {
-  await getZip()
-  Deno.run(
+  //await getZip()
+  await Deno.run(
     {
-      cmd: ["unzip", ZipFileName, "-d docs/xml", ZipFileName],
+      cmd: ["unzip", "-j", "-o", ZipFileName, "-d", "docs/xml"],
     },
-  );
+  ).status()
 }
-main();
+await main();

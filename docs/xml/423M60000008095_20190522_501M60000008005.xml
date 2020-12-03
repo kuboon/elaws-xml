@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200331e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="095" Year="23">
+<Law AmendmentId="501M60000008005" AmendmentNum="令和元年総務省令第五号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="095" Year="23">
   <LawNum>平成二十三年総務省令第九十五号</LawNum>
   <LawBody>
     <LawTitle>有線一般放送の品質に関する技術基準を定める省令</LawTitle>
@@ -47,7 +47,7 @@
         <Article Delete="false" Hide="false" Num="1">
           <ArticleCaption>（目的）</ArticleCaption>
           <ArticleTitle>第一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この省令は、放送法（昭和二十五年法律第百三十二号。以下「法」という。）第百三十六条第一項の規定に基づき、有線テレビジョン放送等（有線電気通信設備を用いて行われるラジオ放送（ラジオ放送の多重放送を受信し、これを再放送することを含む。）以外の有線一般放送をいう。以下同じ。）の業務に用いられる電気通信設備に適用される技術基準（同条第二項第二号に掲げるものに限る。）を定めることを目的とする。</Sentence>
@@ -57,7 +57,7 @@
         <Article Delete="false" Hide="false" Num="2">
           <ArticleCaption>（定義）</ArticleCaption>
           <ArticleTitle>第二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この省令において使用する用語は、法及び放送法施行規則（昭和二十五年電波監理委員会規則第十号）において使用する用語の例によるほか、次の定義に従うものとする。</Sentence>
@@ -156,7 +156,7 @@
           <Article Delete="false" Hide="false" Num="3">
             <ArticleCaption>（根拠）</ArticleCaption>
             <ArticleTitle>第三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">有線放送設備に適用される法第百三十六条第一項の総務省令で定める技術基準（同条第二項第二号に掲げるものに限る。）は、この章の定めるところによる。</Sentence>
@@ -166,7 +166,7 @@
           <Article Delete="false" Hide="false" Num="4">
             <ArticleCaption>（受信空中線）</ArticleCaption>
             <ArticleTitle>第四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">同時再放送を行うための受信空中線は、受信しようとする電波の受信の障害の少ない場所に設置するものでなければならない。</Sentence>
@@ -176,13 +176,13 @@
           <Article Delete="false" Hide="false" Num="5">
             <ArticleCaption>（使用する光の波長）</ArticleCaption>
             <ArticleTitle>第五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">有線放送設備のヘッドエンドから受信用光伝送装置（光伝送の方式における光信号を電気信号に変換する機能を有する装置であって、かつ、光ファイバを用いた線路に接続され、引込線に介在するものをいう。以下同じ。）までの間の線路に用いられる伝送方式が光伝送の方式のみである場合（第二十七条第一項第一号から第四号までに掲げる有線テレビジョン放送等を行う場合に限る。）にあっては、当該線路において有線テレビジョン放送等に使用する光の波長は、一、五三〇ナノメートル以上一、六二五ナノメートル以下としなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項に規定する光の波長について、複数の波長の光を多重して伝送する場合にあっては、それぞれの光が互いに映像、音声その他の音響又はデータに障害を与えないものでなければならない。</Sentence>
@@ -192,13 +192,13 @@
           <Article Delete="false" Hide="false" Num="6">
             <ArticleCaption>（受信者端子間分離度）</ArticleCaption>
             <ArticleTitle>第六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">受信者端子間分離度（一の受信設備から副次的に発する電磁波の当該一の受信設備に係る受信者端子におけるレベルと他の受信者端子における当該電磁波のレベルとの差をいう。）は、二五デシベル以上でなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の規定は、それぞれ異なる受信用光伝送装置に引込線を介して接続する受信者端子間については、適用しない。</Sentence>
@@ -208,7 +208,7 @@
           <Article Delete="false" Hide="false" Num="7">
             <ArticleCaption>（受信者端子におけるその他の条件）</ArticleCaption>
             <ArticleTitle>第七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">有線放送設備は、入力端子における電圧定在波比が三である受信設備を受信者端子に接続した場合において、当該受信設備による受信に障害を与えないものでなければならない。</Sentence>
@@ -218,7 +218,7 @@
           <Article Delete="false" Hide="false" Num="8">
             <ArticleCaption>（漏えい電界強度の許容値）</ArticleCaption>
             <ArticleTitle>第八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">有線放送設備から漏えいする電波の電界強度は、当該有線放送設備から三メートルの距離において、毎メートル〇・〇五ミリボルト以下でなければならない。</Sentence>
@@ -231,7 +231,7 @@
           <Article Delete="false" Hide="false" Num="9">
             <ArticleCaption>（入力信号の条件）</ArticleCaption>
             <ArticleTitle>第九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">デジタル有線テレビジョン放送方式による有線テレビジョン放送等を行う場合のヘッドエンドの主たる機器の入力端子（総務大臣が別に告示で定める箇所とする。第十三条、第十七条及び第二十条において同じ。）における入力信号は、次の表の上欄に掲げる入力信号の区別に従い、それぞれ同表の下欄に掲げる条件に適合するものでなければならない。</Sentence>
@@ -284,7 +284,7 @@
           <Article Delete="false" Hide="false" Num="10">
             <ArticleCaption>（搬送波の周波数）</ArticleCaption>
             <ArticleTitle>第十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">受信者端子において、送信の方式がデジタル有線テレビジョン放送方式となっており、かつ、九〇メガヘルツから七七〇メガヘルツまでの周波数を使用する有線テレビジョン放送等の搬送波の受信者端子における周波数（当該有線テレビジョン放送等に係る電磁波の占有する周波数帯の中央の周波数をいう。第十二条において同じ。）は、次の各号のいずれかでなければならない。</Sentence>
@@ -321,7 +321,7 @@
                 </Subitem1>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の周波数は、当該周波数の搬送波が当該受信者端子を含む有線放送設備で行われる他の有線一般放送の受信に障害を与えないものでなければならない。</Sentence>
@@ -331,7 +331,7 @@
           <Article Delete="false" Hide="false" Num="11">
             <ArticleCaption>（搬送波の変調等）</ArticleCaption>
             <ArticleTitle>第十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">搬送波の変調の型式は、次の各号のいずれかでなければならない。</Sentence>
@@ -349,14 +349,14 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">一の搬送波に係る電磁波の伝送に使用する周波数帯域の幅は、六メガヘルツでなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、直交周波数分割多重変調を用いて連続した周波数を選定する場合は、二メガヘルツ又は四メガヘルツを周波数帯域の幅とすることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">九〇メガヘルツから七七〇メガヘルツまでの周波数を使用する有線テレビジョン放送等のうちデジタル放送を行うための搬送波を変調する信号（以下「伝送信号」という。）は、次に掲げる条件に適合するものでなければならない。</Sentence>
@@ -382,13 +382,13 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項第二号の規定にかかわらず、自主放送を行う場合又はヘッドエンドにおいて伝送制御信号の変更を行う場合におけるデジタル放送の標準方式第三条第四項の伝送制御信号により伝送される記述子の構成については、総務大臣が別に告示するものであること。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="5">
+            <Paragraph Hide="false" Num="5" OldStyle="false">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">搬送波の帯域制限を行うろ波器の周波数特性は、別図第六に示すとおりとする。</Sentence>
@@ -398,7 +398,7 @@
           <Article Delete="false" Hide="false" Num="12">
             <ArticleCaption>（搬送波等の条件）</ArticleCaption>
             <ArticleTitle>第十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">受信者端子において、送信の方式がデジタル有線テレビジョン放送方式となっており、かつ、九〇メガヘルツから七七〇メガヘルツまでの周波数を使用する有線テレビジョン放送等の搬送波及びその搬送波に係る電磁波は、次の表の上欄に掲げる区別に従い、受信者端子においてそれぞれ同表の下欄に掲げる条件に適合するものでなければならない。</Sentence>
@@ -526,7 +526,7 @@
                 </Table>
               </TableStruct>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">受信者端子において、送信の方式がデジタル有線テレビジョン放送方式となっており、かつ、九〇メガヘルツから七七〇メガヘルツまでの周波数を使用する有線テレビジョン放送等の搬送波及びその搬送波に係る電磁波が、次の各号に掲げる端子のいずれかにおいて、それぞれ当該各号の表の上欄に掲げる区別に従い、当該各号の表の下欄に掲げる条件に適合する場合には、前項の表の四の項及び六の項の規定は、適用しない。</Sentence>
@@ -793,7 +793,7 @@
           <Article Delete="false" Hide="false" Num="13">
             <ArticleCaption>（入力信号の条件）</ArticleCaption>
             <ArticleTitle>第十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">標準デジタルテレビジョン放送方式による有線テレビジョン放送等を行う場合のヘッドエンドの主たる機器の入力端子における入力信号は、次の表の上欄に掲げる入力信号の区別に従い、それぞれ同表の下欄に掲げる復調後におけるビット誤り率の値以下でなければならない。</Sentence>
@@ -833,7 +833,7 @@
           <Article Delete="false" Hide="false" Num="14">
             <ArticleCaption>（搬送波の周波数）</ArticleCaption>
             <ArticleTitle>第十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">受信者端子において、送信の方式が標準デジタルテレビジョン放送方式となっており、かつ、九〇メガヘルツから七七〇メガヘルツまでの周波数を使用する有線テレビジョン放送等の搬送波の受信者端子における周波数（当該有線テレビジョン放送等に係る電磁波の占有する周波数帯の中央の周波数をいう。次条及び第十七条において同じ。）は、次に掲げる周波数に七分の一メガヘルツを加えたもののうちから選定しなければならない。</Sentence>
@@ -845,7 +845,7 @@
                 </ListSentence>
               </List>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の周波数は、当該周波数の搬送波が当該受信者端子を含む有線放送設備で行われる他の有線一般放送の受信に障害を与えないものでなければならない。</Sentence>
@@ -855,7 +855,7 @@
           <Article Delete="false" Hide="false" Num="15">
             <ArticleCaption>（搬送波等の条件）</ArticleCaption>
             <ArticleTitle>第十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">受信者端子において、送信の方式が標準デジタルテレビジョン放送方式となっており、かつ、九〇メガヘルツから七七〇メガヘルツまでの周波数を使用する有線テレビジョン放送等の搬送波及びその搬送波に係る電磁波は、次の表の上欄に掲げる区別に従い、受信者端子においてそれぞれ同表の下欄に掲げる条件に適合するものでなければならない。</Sentence>
@@ -958,7 +958,7 @@
                 </Table>
               </TableStruct>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">受信者端子において、送信の方式が標準デジタルテレビジョン放送方式となっており、かつ、九〇メガヘルツから七七〇メガヘルツまでの周波数を使用する有線テレビジョン放送等の搬送波及びその搬送波に係る電磁波が、次の各号に掲げる端子のいずれかにおいて、それぞれ当該各号の表の上欄に掲げる区別に従い、当該各号の表の下欄に掲げる条件に適合する場合には、前項の表の四の項及び六の項の規定は、適用しない。</Sentence>
@@ -1028,7 +1028,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="16">
             <ArticleTitle>第十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">受信者端子において、送信の方式が標準デジタルテレビジョン放送方式となっている有線テレビジョン放送等（九〇メガヘルツから七七〇メガヘルツまでの周波数を使用するものに限る。以下同じ。）と受信者端子において、送信の方式がデジタル有線テレビジョン放送方式となっている有線テレビジョン放送等（九〇メガヘルツから七七〇メガヘルツまでの周波数を使用するものに限る。以下同じ。）とが隣接して同時に行われる場合における搬送波は、次の各号に掲げる条件に適合するものでなければならない。</Sentence>
@@ -1071,7 +1071,7 @@
           <Article Delete="false" Hide="false" Num="17">
             <ArticleCaption>（入力信号の条件）</ArticleCaption>
             <ArticleTitle>第十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">標準衛星デジタルテレビジョン放送方式又は広帯域伝送デジタル放送方式による有線テレビジョン放送等を行う場合のヘッドエンドの主たる機器の入力端子における入力信号の条件は、次の各号のいずれかでなければならない。</Sentence>
@@ -1117,7 +1117,7 @@
           <Article Delete="false" Hide="false" Num="18">
             <ArticleCaption>（搬送波の周波数）</ArticleCaption>
             <ArticleTitle>第十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">受信者端子において、送信の方式が標準衛星デジタルテレビジョン放送方式となっており、かつ、一、〇三二・二三メガヘルツから一、四八八・六九メガヘルツまで又は二、二二四・四一メガヘルツから二、六四二・五一メガヘルツまでの周波数を使用する有線テレビジョン放送等の搬送波の受信者端子における周波数は、次の周波数のうちから選定しなければならない。</Sentence>
@@ -1129,7 +1129,7 @@
                 </ListSentence>
               </List>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">受信者端子において、送信の方式が広帯域伝送デジタル放送方式となっており、かつ、一、五三二・七五メガヘルツから二、〇七〇・二五メガヘルツまで又は二、七〇八・七五メガヘルツから三、二二三・二五メガヘルツまでの周波数を使用する有線テレビジョン放送等の搬送波の受信者端子における周波数は、次の周波数のうちから選定しなければならない。</Sentence>
@@ -1145,7 +1145,7 @@
           <Article Delete="false" Hide="false" Num="19">
             <ArticleCaption>（搬送波等の条件）</ArticleCaption>
             <ArticleTitle>第十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">受信者端子において、送信の方式が標準衛星デジタルテレビジョン放送方式となっており、かつ、一、〇三二・二三メガヘルツから一、四八八・六九メガヘルツまで又は二、二二四・四一メガヘルツから二、六四二・五一メガヘルツまでの周波数を使用する有線テレビジョン放送等又は送信の方式が広帯域伝送デジタル放送方式となっており、かつ、一、五三二・七五メガヘルツから二、〇七〇・二五メガヘルツまで又は二、七〇八・七五メガヘルツから三、二二三・二五メガヘルツまでの周波数を使用する有線テレビジョン放送等の搬送波及びその搬送波に係る電磁波は、次の表の上欄に掲げる区別に従い、受信者端子においてそれぞれ同表の下欄に掲げる条件に適合するものでなければならない。</Sentence>
@@ -1227,7 +1227,7 @@
                 </Table>
               </TableStruct>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">受信者端子において、送信の方式が標準衛星デジタルテレビジョン放送方式となっており、かつ、一、〇三二・二三メガヘルツから一、四八八・六九メガヘルツまで又は二、二二四・四一メガヘルツから二、六四二・五一メガヘルツまでの周波数を使用する有線テレビジョン放送等又は送信の方式が広帯域伝送デジタル放送方式となっており、かつ、一、五三二・七五メガヘルツから二、〇七〇・二五メガヘルツまで又は二、七〇八・七五メガヘルツから三、二二三・二五メガヘルツまでの周波数を使用する有線テレビジョン放送等の搬送波及びその搬送波に係る電磁波が、次の各号に掲げる端子のいずれかにおいて、それぞれ当該各号の表の上欄に掲げる区別に従い、当該各号の表の下欄に掲げる条件に適合する場合には、前項の表の四の項の規定は、適用しない。</Sentence>
@@ -1300,7 +1300,7 @@
           <Article Delete="false" Hide="false" Num="20">
             <ArticleCaption>（入力信号の条件）</ArticleCaption>
             <ArticleTitle>第二十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第九条の規定は、ＩＰ放送方式によるＩＰ放送を行う場合のヘッドエンドの主たる機器の入力端子における入力信号について準用する。</Sentence>
@@ -1311,7 +1311,7 @@
           <Article Delete="false" Hide="false" Num="21">
             <ArticleCaption>（パケットのＩＰアドレス）</ArticleCaption>
             <ArticleTitle>第二十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">ＩＰ放送の用に供するＩＰアドレスは、総務大臣が別に告示するものとする。</Sentence>
@@ -1321,14 +1321,14 @@
           <Article Delete="false" Hide="false" Num="22">
             <ArticleCaption>（伝送信号の条件）</ArticleCaption>
             <ArticleTitle>第二十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第十一条第三項第二号の規定は、ＩＰ放送の用に供する伝送信号の技術的条件について準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において「九〇メガヘルツから七七〇メガヘルツまでの周波数を使用する有線テレビジョン放送等のうちデジタル放送を行うための搬送波を変調する信号」とあるのは、「ＩＰ放送方式によりＩＰ放送を行うための信号」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項に規定する伝送信号は、ＴＳパケット、ＴＬＶパケット、分割ＴＬＶパケット又はＭＭＴＰパケットによる情報について、ＩＰパケットにより伝送するものとする。</Sentence>
@@ -1338,7 +1338,7 @@
           <Article Delete="false" Hide="false" Num="23">
             <ArticleCaption>（総合品質）</ArticleCaption>
             <ArticleTitle>第二十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">ＩＰ放送の用に供するネットワーク（ヘッドエンドから受信者端子までインターネットプロトコルによる伝送を行うものをいう。以下「ＩＰ放送ネットワーク」という。）におけるパケット損失率（受信設備において誤り訂正機能を有する場合においては、誤り訂正後のパケット損失率）は、〇・〇〇〇〇〇〇一以下でなければならない。</Sentence>
@@ -1348,7 +1348,7 @@
           <Article Delete="false" Hide="false" Num="24">
             <ArticleCaption>（ネットワーク品質）</ArticleCaption>
             <ArticleTitle>第二十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">ＩＰ放送ネットワークは、次の各号に掲げる条件を満たすものでなければならない。</Sentence>
@@ -1380,7 +1380,7 @@
           <Article Delete="false" Hide="false" Num="25">
             <ArticleCaption>（安定品質）</ArticleCaption>
             <ArticleTitle>第二十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">ＩＰ放送ネットワークは、次の各号に掲げる措置のうちいずれかの措置が講じられているものでなければならない。</Sentence>
@@ -1404,7 +1404,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">ＩＰ放送ネットワークは、次の各号に掲げるところによりＩＰ放送の用に供するＩＰパケットを伝送するために十分な通信容量を有するものでなければならない。</Sentence>
@@ -1426,7 +1426,7 @@
           <Article Delete="false" Hide="false" Num="26">
             <ArticleCaption>（適用除外）</ArticleCaption>
             <ArticleTitle>第二十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第六条及び第七条の規定は、ＩＰ放送方式については適用しない。</Sentence>
@@ -1440,7 +1440,7 @@
         <Article Delete="false" Hide="false" Num="27">
           <ArticleCaption>（使用する電磁波の条件）</ArticleCaption>
           <ArticleTitle>第二十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次の各号に掲げる有線テレビジョン放送等以外の用途に使用する電磁波の周波数、レベル及び周波数帯幅は、当該電磁波が当該電磁波を使用する有線放送設備で行われる他の有線一般放送の受信に障害を与えないものでなければならない。</Sentence>
@@ -1476,7 +1476,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項各号に掲げる有線テレビジョン放送等以外の用途に使用する電磁波の周波数、レベル及び周波数帯幅は、前項の規定によるほか、総務大臣が別に告示する技術的条件に基づき、受信者端子において当該電磁波が当該電磁波を使用する有線放送設備で行われる前項各号に掲げる有線テレビジョン放送等の受信に検知される影響を与えないものでなければならない。</Sentence>
@@ -1487,23 +1487,23 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、放送法等の一部を改正する法律（平成二十二年法律第六十五号）の施行の日（平成二十三年六月三十日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二五年二月二〇日総務省令第七号" Extract="true">
+    <SupplProvision AmendLawId="425007" AmendLawNum="平成二五年二月二〇日総務省令第七号" Extract="true" Id="c3920758-1884-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
@@ -1511,34 +1511,34 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二五年一二月一〇日総務省令第一一三号">
+    <SupplProvision AmendLawId="425113" AmendLawNum="平成二五年一二月一〇日総務省令第一一三号" Id="1a49fefa-1931-11e8-a703-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二六年七月三日総務省令第六一号">
+    <SupplProvision AmendLawId="426061" AmendLawNum="平成二六年七月三日総務省令第六一号" Id="1a7a5c76-1931-11e8-a703-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二七年三月二〇日総務省令第一七号" Extract="true">
+    <SupplProvision AmendLawId="427017" AmendLawNum="平成二七年三月二〇日総務省令第一七号" Extract="true" Id="1aaab844-1931-11e8-a703-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -1546,25 +1546,25 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三〇年五月三一日総務省令第三二号" Type="Amend">
+    <SupplProvision AmendLawId="430032" AmendLawNum="平成三〇年五月三一日総務省令第三二号" Id="a6c0c094-98bd-412b-a6f4-49364a8d0d12" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三一年一月二二日総務省令第三号" Type="Amend">
+    <SupplProvision AmendLawId="431003" AmendLawNum="平成三一年一月二二日総務省令第三号" Id="9603bd3e-1e02-11e9-9303-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -1572,11 +1572,11 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年五月一四日総務省令第五号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawId="501005" AmendLawNum="令和元年五月一四日総務省令第五号" Extract="true" Id="27f00eaa-7605-11e9-9d26-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、電気通信事業法及び国立研究開発法人情報通信研究機構法の一部を改正する法律（平成三十年法律第二十四号。以下「改正法」という。）附則第一条第二号に掲げる規定の施行の日から施行する。</Sentence>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="357" Year="46">
+<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="357" Year="46">
   <LawNum>昭和四十六年政令第三百五十七号</LawNum>
   <LawBody>
     <LawTitle>国の所有に属する自動車等の交換に関する法律施行令</LawTitle>
     <EnactStatement>内閣は、国の所有に属する自動車等の交換に関する法律（昭和二十九年法律第百九号）第一項の規定に基づき、国の所有に属する自動車の交換に関する法律施行令（昭和二十九年政令第二百三十七号）の全部を改正するこの政令を制定する。</EnactStatement>
     <MainProvision>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">国の所有に属する自動車等の交換に関する法律（以下「法」という。）第一項に規定する政令で定める物品は、次に掲げる物品（以下「自動車等」という。）とする。</Sentence>
@@ -53,7 +53,7 @@
           </ItemSentence>
         </Item>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">法第一項の規定による交換をすることができる場合は、次に掲げる場合とし、当該交換により取得することができる物品は、当該交換のため引き渡す自動車等と同種の自動車等とする。</Sentence>
@@ -75,19 +75,19 @@
     </MainProvision>
     <SupplProvision Extract="false" Type="New">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、昭和四十六年十一月三十日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年六月七日政令第三〇七号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawId="412307" AmendLawNum="平成一二年六月七日政令第三〇七号" Extract="true" Id="1b8b52d6-d3b7-11e9-a719-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、平成十三年一月六日から施行する。</Sentence>

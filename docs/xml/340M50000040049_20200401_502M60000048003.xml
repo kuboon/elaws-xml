@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200916e04k03m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="49" Year="40">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="49" Year="40">
   <LawNum>昭和四十年大蔵省令第四十九号</LawNum>
   <LawBody>
     <LawTitle>国税質問検査章規則</LawTitle>
@@ -691,7 +691,7 @@
               <Sentence WritingMode="vertical">別表第一から別表第五までの改正規定及び別表第七の改正規定</Sentence>
             </Column>
             <Column LineBreak="false" Num="2">
-              <Sentence WritingMode="vertical">平成三十一年七月一日</Sentence>
+              <Sentence WritingMode="vertical">令和元年七月一日</Sentence>
             </Column>
           </ItemSentence>
         </Item>
@@ -702,7 +702,7 @@
               <Sentence WritingMode="vertical">第二条第一項の改正規定（「第四十条の三の三第十一項」を「第四十条の三の三第十七項」に改める部分を除く。）</Sentence>
             </Column>
             <Column LineBreak="false" Num="2">
-              <Sentence WritingMode="vertical">平成三十二年四月一日</Sentence>
+              <Sentence WritingMode="vertical">令和二年四月一日</Sentence>
             </Column>
           </ItemSentence>
         </Item>
@@ -713,7 +713,7 @@
               <Sentence WritingMode="vertical">第二条第一項の改正規定（「第四十条の三の三第十一項」を「第四十条の三の三第十七項」に改める部分に限る。）</Sentence>
             </Column>
             <Column LineBreak="false" Num="2">
-              <Sentence WritingMode="vertical">平成三十三年一月一日</Sentence>
+              <Sentence WritingMode="vertical">令和三年一月一日</Sentence>
             </Column>
           </ItemSentence>
         </Item>
@@ -749,6 +749,61 @@
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日財務省令第二一号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">令和三年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">第二条の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ・ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="3:8">
+            <ItemTitle>三～八</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
     </SupplProvision>

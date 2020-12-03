@@ -8,7 +8,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（質権者の範囲）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">電話加入権質に関する臨時特例法（以下「法」という。）第二条の政令で定める金融機関は、銀行（日本銀行を除く。）及び労働金庫とする。</Sentence>
@@ -18,13 +18,13 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（電話加入権質原簿）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">電話加入権に係る契約に関する事務を取り扱う電話取扱局に、法第五条第一項の原簿として電話加入権質原簿を備える。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">電話加入権質原簿は、登録の請求書をつづつて調製し、つづつた請求書を登録用紙とする。</Sentence>
@@ -34,7 +34,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（質権の登録）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">電話加入権質原簿への登録は、電話加入権を目的とする質権の設定、変更、移転又は消滅について行う。</Sentence>
@@ -44,7 +44,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（管轄電話取扱局）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">電話加入権質原簿への登録に関する事務は、当該電話加入権に係る契約に関する事務を取り扱う電話取扱局が取り扱う。</Sentence>
@@ -54,7 +54,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（登録請求書の記載事項）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">登録の請求書には、次の各号に掲げる事項を記載しなければならない。</Sentence>
@@ -84,7 +84,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の請求書が質権の設定の登録に係るものであるときは、同項に掲げる事項のほか、次の各号に掲げる事項を記載しなければならない。</Sentence>
@@ -112,7 +112,7 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（登録の方法）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">登録は、電話加入権質原簿に登録請求書をつづり、これに登録を証する印を押してするものとする。</Sentence>
@@ -122,7 +122,7 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（電話加入権質原簿の閲覧）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">利害関係人は、電話加入権質原簿の利害関係のある部分の閲覧を請求することができる。</Sentence>
@@ -132,7 +132,7 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（総務省令への委任）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法及びこの政令で定めるもののほか、電話加入権質原簿及びその登録に関して必要な事項は、総務省令で定める。</Sentence>
@@ -142,28 +142,28 @@
     </MainProvision>
     <SupplProvision Extract="false" Type="New">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、法の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五八年三月二九日政令第三八号" Extract="false" Type="Amend">
+    <SupplProvision AmendLawId="358038" AmendLawNum="昭和五八年三月二九日政令第三八号" Extract="false" Id="0093980e-4a7e-4fc5-81e6-56fe3a6b9598" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和六〇年三月一五日政令第三一号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawId="360031" AmendLawNum="昭和六〇年三月一五日政令第三一号" Extract="true" Id="7e23aa98-47dd-11e5-9755-fb4e59ef9b5e" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、昭和六十年四月一日から施行する。</Sentence>
@@ -171,9 +171,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年六月七日政令第三〇四号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawId="412304" AmendLawNum="平成一二年六月七日政令第三〇四号" Extract="true" Id="7ae460e4-d3b5-11e9-ab6a-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。</Sentence>

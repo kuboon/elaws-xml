@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="004" Year="36">
+<Law AmendmentId="501M60000100020" AmendmentNum="令和元年厚生労働省令第二十号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="004" Year="36">
   <LawNum>昭和三十六年厚生省令第四号</LawNum>
   <LawBody>
     <LawTitle>放射性医薬品の製造及び取扱規則</LawTitle>
@@ -8,7 +8,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（定義）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
@@ -106,7 +106,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（製造業者の遵守すべき事項）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、作業を行うに当たつて、次の各号に掲げる事項を厳守しなければならない。</Sentence>
@@ -203,13 +203,13 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、その製造に係る放射性医薬品の品質について必ず試験検査を行わなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、作業所において次の各号に掲げる事項を厳守しなければならない。</Sentence>
@@ -234,7 +234,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、放射性物質を保管するに当たつて、次の各号に掲げる事項を厳守しなければならない。</Sentence>
@@ -270,7 +270,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、放射性物質等を廃棄するに当たつて、次の各号に掲げる事項を厳守しなければならない。</Sentence>
@@ -385,7 +385,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="6">
+        <Paragraph Hide="false" Num="6" OldStyle="false">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">製造業者は、製造所において放射性物質等の運搬を行うに当たつて、次の各号（管理区域内において行う運搬については、第四号及び第五号）に掲げる事項を厳守しなければならない。</Sentence>
@@ -483,7 +483,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="7">
+        <Paragraph Hide="false" Num="7" OldStyle="false">
           <ParagraphNum>７</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、製造所の外において放射性物質等（危険物船舶運送及び貯蔵規則（昭和三十二年運輸省令第三十号）第二条第一号トに該当しないもの（厚生労働大臣が定めるものを除く。）を除く。以下この項において同じ。）の運搬（船舶又は航空機によるものを除く。）を行うに当たつて、次の各号に掲げる事項を厳守しなければならない。</Sentence>
@@ -558,13 +558,13 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（廃棄の委託）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、放射性物質等の廃棄を、次条に定める位置、構造及び設備に係る技術上の基準に適合する放射性物質等の詰替えをする施設（以下「廃棄物詰替施設」という。）、放射性物質等を貯蔵する施設（以下「廃棄物貯蔵施設」という。）又は放射性物質等を廃棄する施設（以下「廃棄施設」という。）を有する者であつて別に厚生労働省令で指定するものに委託することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の指定を受けようとする者は、次の事項を記載した申請書を厚生労働大臣に提出しなければならない。</Sentence>
@@ -606,19 +606,19 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の指定には、条件を付することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の条件は、放射線障害を防止するため必要最小限度のものに限り、かつ、指定を受ける者に不当な業務を課することとならないものでなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">厚生労働大臣は、第一項の指定を受けた者が第三項の指定の条件に違反したときは、その指定を取り消すことができる。</Sentence>
@@ -627,7 +627,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="3_2">
         <ArticleTitle>第三条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">廃棄物詰替施設の位置、構造及び設備に係る技術上の基準は、次のとおりとする。</Sentence>
@@ -747,7 +747,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">廃棄物貯蔵施設の位置、構造及び設備に係る技術上の基準は、次のとおりとする。</Sentence>
@@ -837,7 +837,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">廃棄施設の位置、構造及び設備に係る技術上の基準は、次のとおりとする。</Sentence>
@@ -1019,14 +1019,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">前項第四号から第七号までに掲げる排気設備又は排水設備について、同項第四号イ又は第五号イに規定する能力を有する排気設備又は排水設備を設けることが著しく困難な場合において、廃棄事業所の境界の外における実効線量を厚生労働大臣が定める実効線量限度以下とする能力を排気設備又は排水設備が有することにつき厚生労働大臣の承認を受けた場合においては、同項第四号イ又は第五号イの規定は適用しない。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、排気口若しくは排気監視設備のある場所において排気中の放射性物質の数量及び濃度を監視し、又は排水口若しくは排水監視設備のある場所において排水中の放射性物質の数量及び濃度を監視することにより、廃棄事業所の境界の外における実効線量を厚生労働大臣が定める実効線量限度以下としなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の承認を受けた排気設備又は排水設備がその能力を有すると認められなくなつたときは、厚生労働大臣は当該承認を取り消すことができる。</Sentence>
@@ -1036,7 +1036,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（標識）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、別表第二の上欄に掲げる設備、場所等について、それぞれ同表の中欄に定める標識を同表の下欄に掲げる箇所に附さなければならない。</Sentence>
@@ -1046,7 +1046,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（測定）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、放射線障害のおそれのある場所について、放射線の量及び放射性物質による汚染の状況を次の各号に定めるところにより測定しなければならない。</Sentence>
@@ -1120,7 +1120,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、放射線障害のおそれのある場所に立ち入つた者について、その者の受けた放射線の量及び放射性物質による汚染の状況を次の各号に定めるところにより測定しなければならない。</Sentence>
@@ -1191,7 +1191,7 @@
             </Subitem1>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、前二項の測定の結果について記録の作成、保存等の措置を次の各号に定めるところにより講じなければならない。</Sentence>
@@ -1465,7 +1465,7 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（予防規定）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、放射性物質による障害の発生を防止するため、次の事項について、放射性物質による障害予防規定を定めなければならない。</Sentence>
@@ -1541,31 +1541,31 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（健康診断）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、放射性物質による障害を防止するため、放射線作業者（管理区域に一時的に立ち入る者は除く。以下同じ。）が初めて管理区域に立ち入る場合には、その立ち入る前に健康診断を行わなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、放射線作業者に対し、管理区域に立ち入つた後は一年を超えない期間ごとに健康診断を行わなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、前項の規定にかかわらず、放射線作業者が実効線量限度又は等価線量限度を超えて放射線に被ばくし、又は被ばくしたおそれのあるときその他その者が放射性物質による障害を受けたおそれがあると認めるときは、その者につき遅滞なく健康診断を行わなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">健康診断の方法は、問診及び検査又は検診とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">問診は、次の事項について行うこと。</Sentence>
@@ -1583,7 +1583,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="6">
+        <Paragraph Hide="false" Num="6" OldStyle="false">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">検査又は検診は、次の項目及び部位について行うこと。</Sentence>
@@ -1614,7 +1614,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="7">
+        <Paragraph Hide="false" Num="7" OldStyle="false">
           <ParagraphNum>７</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、前三項の規定による健康診断の結果について記録の作成、保存等の措置を次の各号に定めるところにより講じなければならない。</Sentence>
@@ -1672,7 +1672,7 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（保健指導及び立入りの制限）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、放射性物質による障害を受けた者又は受けたおそれのある者に対し、放射性物質による障害又は放射性物質による障害を受けたおそれの程度に応じ、必要な保健指導等を行なうとともに作業所等に立ち入る時間を短縮し、若しくはこれに立ち入ることを禁止し、又は放射線に被ばくするおそれが少ない業務に従事させなければならない。</Sentence>
@@ -1682,7 +1682,7 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（就業制限）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、次の各号に掲げる者を放射性物質の取扱いに従事させてはならない。</Sentence>
@@ -1704,7 +1704,7 @@
       <Article Delete="false" Hide="false" Num="10">
         <ArticleCaption>（危険時の措置）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、地震、火災その他の災害により、放射性物質による障害が発生した場合又は放射性物質による障害が発生するおそれがある場合は、次の措置を講じなければならない。</Sentence>
@@ -1740,14 +1740,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">前項各号に掲げる緊急作業を行う場合には、しやへい具、かん子又は保護具を用いること、放射線に被ばくする時間を短くすること等により、緊急作業に従事する者の被ばくする線量をできる限り少なくしなければならない。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、放射線作業者（女子については、妊娠する可能性がないと診断された者及び妊娠する意思がない旨を製造業者等に書面で申し出た者に限る。）にあつては、第二条第一項第五号の規定にかかわらず、厚生労働大臣が定める線量限度まで放射線に被ばくすることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、第一項の事態が生じた場合においては、遅滞なく、次の事項を厚生労働大臣に届け出なければならない。</Sentence>
@@ -1775,7 +1775,7 @@
       <Article Delete="false" Hide="false" Num="11">
         <ArticleCaption>（記録）</ArticleCaption>
         <ArticleTitle>第十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、放射性医薬品の製造につき、帳簿を備え、次の事項を記載しなければならない。</Sentence>
@@ -1841,7 +1841,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の帳簿は、最終の記載の日から五年間保存しなければならない。</Sentence>
@@ -1851,7 +1851,7 @@
       <Article Delete="false" Hide="false" Num="12">
         <ArticleCaption>（障害防止主任者）</ArticleCaption>
         <ArticleTitle>第十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、次の各号に掲げる者のうちから障害防止主任者を選任して、放射性物質による障害の防止に関する監督を行なわせなければならない。</Sentence>
@@ -1873,7 +1873,7 @@
       <Article Delete="false" Hide="false" Num="13">
         <ArticleCaption>（報告）</ArticleCaption>
         <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、次のいずれかに該当するときは、その旨を直ちに、その状況及びそれに対する処置を十日以内に厚生労働大臣に報告しなければならない。</Sentence>
@@ -1946,13 +1946,13 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造業者は、放射性医薬品の製造所を廃止した場合（放射性医薬品の製造のみを取り止めた場合を含む。）は、放射性物質による汚染の除去その他の講じた措置を三十日以内に厚生労働大臣に報告しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前二項に規定する場合のほか、製造業者は厚生労働大臣が次に掲げる事項について期間を定めて報告を求めたときは、当該事項を当該期間内に厚生労働大臣に報告しなければならない。</Sentence>
@@ -1980,7 +1980,7 @@
       <Article Delete="false" Hide="false" Num="14">
         <ArticleCaption>（適用除外）</ArticleCaption>
         <ArticleTitle>第十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">製造所において取り扱う放射性物質が厚生労働大臣が定める数量又は濃度以下である場合にあつては、第二条第一項第三号から第十二号まで、第四項第四号、第五項及び第六項、第四条から第十条まで、第十二条並びに第十三条の規定は、適用しない。</Sentence>
@@ -1990,7 +1990,7 @@
       <Article Delete="false" Hide="false" Num="15">
         <ArticleCaption>（準用）</ArticleCaption>
         <ArticleTitle>第十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">薬局開設者については、第一条第七号及び第八号、第二条、第三条第一項、第四条から第十四条まで（第十一条第一項第二号、第四号、第八号及び第九号を除く。）を準用する。</Sentence>
@@ -2218,7 +2218,7 @@
             </Table>
           </TableStruct>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">製造販売業者については、第一条第七号及び第八号、第二条（第二項及び第三項を除く。）、第三条第一項、第四条から第十四条まで（第五条第一項第三号の表放射性物質による汚染の状況の項ロ並びに第十一条第一項第二号、第四号、第五号及び第七号から第九号までを除く。）を準用する。</Sentence>
@@ -2361,7 +2361,7 @@
             </Table>
           </TableStruct>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">卸売販売業者については、第一条第七号及び第八号、第二条、第三条第一項、第四条から第十四条まで（第十一条第一項第二号、第四号、第八号及び第九号を除く。）を準用する。</Sentence>
@@ -2530,14 +2530,14 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、薬事法の施行の日（昭和三十六年二月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（放射性医薬品製造規則の廃止）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -2545,48 +2545,48 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四三年六月二一日厚生省令第二一号">
+    <SupplProvision AmendLawId="343021" AmendLawNum="昭和四三年六月二一日厚生省令第二一号" Id="5bdfd800-18ad-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四八年二月二三日厚生省令第四号">
+    <SupplProvision AmendLawId="348004" AmendLawNum="昭和四八年二月二三日厚生省令第四号" Id="94115478-18ef-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五二年九月一日厚生省令第三九号">
+    <SupplProvision AmendLawId="352039" AmendLawNum="昭和五二年九月一日厚生省令第三九号" Id="943b05ac-18ef-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和六三年四月八日厚生省令第二九号" Extract="true">
+    <SupplProvision AmendLawId="363029" AmendLawNum="昭和六三年四月八日厚生省令第二九号" Extract="true" Id="ebce744a-d3b8-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、精神衛生法等の一部を改正する法律の施行の日（昭和六十三年七月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成元年三月二四日厚生省令第一一号" Extract="true">
+    <SupplProvision AmendLawId="401011" AmendLawNum="平成元年三月二四日厚生省令第一一号" Extract="true" Id="6994a250-18ad-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成元年四月一日から施行する。</Sentence>
@@ -2596,7 +2596,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（放射性医薬品製造規則の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前条に規定する者に対するこの省令による改正後の放射性医薬品の製造及び取扱規則第四条（第十五条において準用する場合を含む。）の規定の適用については、平成元年九月三十日までは、なお従前の例によることができる。</Sentence>
@@ -2604,18 +2604,18 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成七年六月三〇日厚生省令第四七号" Extract="true">
+    <SupplProvision AmendLawId="407047" AmendLawNum="平成七年六月三〇日厚生省令第四七号" Extract="true" Id="ebf0c19e-d3b8-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成七年七月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年一〇月二〇日厚生省令第一二七号" Extract="true">
+    <SupplProvision AmendLawId="412127" AmendLawNum="平成一二年一〇月二〇日厚生省令第一二七号" Extract="true" Id="812c4dcc-d3b5-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -2623,16 +2623,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年一二月二六日厚生省令第一五〇号">
+    <SupplProvision AmendLawId="412150" AmendLawNum="平成一二年一二月二六日厚生省令第一五〇号" Id="91654234-18ef-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十三年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -2640,48 +2640,48 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年七月一三日厚生労働省令第一六八号">
+    <SupplProvision AmendLawId="413168" AmendLawNum="平成一三年七月一三日厚生労働省令第一六八号" Id="9535075a-18ef-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十三年七月十六日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年九月二八日厚生労働省令第一九九号">
+    <SupplProvision AmendLawId="413199" AmendLawNum="平成一三年九月二八日厚生労働省令第一九九号" Id="955eca2c-18ef-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一五年三月二七日厚生労働省令第五六号">
+    <SupplProvision AmendLawId="415056" AmendLawNum="平成一五年三月二七日厚生労働省令第五六号" Id="95888646-18ef-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十五年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年三月三一日厚生労働省令第六五号">
+    <SupplProvision AmendLawId="417065" AmendLawNum="平成一七年三月三一日厚生労働省令第六五号" Id="95b2599e-18ef-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、薬事法及び採血及び供血あつせん業取締法の一部を改正する法律の施行の日（平成十七年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年六月一日厚生労働省令第一〇一号" Extract="true">
+    <SupplProvision AmendLawId="417101" AmendLawNum="平成一七年六月一日厚生労働省令第一〇一号" Extract="true" Id="80fa2244-18ad-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成十七年六月一日から施行する。</Sentence>
@@ -2691,7 +2691,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この省令の施行の際現に放射性医薬品の製造及び取扱規則第三条第一項の指定を受けている者又は指定を申請している者の当該指定又は申請に係る廃棄施設についてのこの省令による改正後の放射性医薬品の製造及び取扱規則第三条の二第三項第四号ただし書の規定の適用については、なお従前の例による。</Sentence>
@@ -2700,12 +2700,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年一一月二四日厚生労働省令第一六四号" Extract="true">
+    <SupplProvision AmendLawId="417164" AmendLawNum="平成一七年一一月二四日厚生労働省令第一六四号" Extract="true" Id="9605bdd2-18ef-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成十七年十二月一日から施行する。</Sentence>
@@ -2713,30 +2713,30 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一九年七月三一日厚生労働省令第九九号">
+    <SupplProvision AmendLawId="419099" AmendLawNum="平成一九年七月三一日厚生労働省令第九九号" Id="962f854a-18ef-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二〇年六月一八日厚生労働省令第一一六号">
+    <SupplProvision AmendLawId="420116" AmendLawNum="平成二〇年六月一八日厚生労働省令第一一六号" Id="965990b0-18ef-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二一年二月六日厚生労働省令第一〇号" Extract="true">
+    <SupplProvision AmendLawId="421010" AmendLawNum="平成二一年二月六日厚生労働省令第一〇号" Extract="true" Id="136e05ca-d3bd-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成二十一年六月一日から施行する。</Sentence>
@@ -2744,12 +2744,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二三年一二月二一日厚生労働省令第一五〇号" Extract="true">
+    <SupplProvision AmendLawId="423150" AmendLawNum="平成二三年一二月二一日厚生労働省令第一五〇号" Extract="true" Id="07e39ba2-d3b3-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、平成二十四年四月一日から施行する。</Sentence>
@@ -2758,12 +2758,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二六年七月三〇日厚生労働省令第八七号" Extract="true">
+    <SupplProvision AmendLawId="426087" AmendLawNum="平成二六年七月三〇日厚生労働省令第八七号" Extract="true" Id="c78f8ba6-d3b2-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、薬事法等の一部を改正する法律（以下「改正法」という。）の施行の日（平成二十六年十一月二十五日）から施行する。</Sentence>
@@ -2771,30 +2771,30 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二六年一二月二六日厚生労働省令第一四三号">
+    <SupplProvision AmendLawId="426143" AmendLawNum="平成二六年一二月二六日厚生労働省令第一四三号" Id="9700315e-18ef-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十七年一月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二八年三月二八日厚生労働省令第四六号">
+    <SupplProvision AmendLawId="428046" AmendLawNum="平成二八年三月二八日厚生労働省令第四六号" Id="9729dc34-18ef-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年六月二八日厚生労働省令第二〇号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawId="501020" AmendLawNum="令和元年六月二八日厚生労働省令第二〇号" Extract="true" Id="7532914a-9e20-11e9-92bf-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="84" Year="04">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="84" Year="04">
   <LawNum>平成四年法律第八十四号</LawNum>
   <LawBody>
     <LawTitle>少年の保護事件に係る補償に関する法律</LawTitle>
@@ -7,7 +7,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（趣旨）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、少年法（昭和二十三年法律第百六十八号）第二章に定める少年の保護事件（以下「保護事件」という。）に関する手続において同法第三条第一項各号に掲げる審判に付すべき少年に該当する事由（以下「審判事由」という。）の存在が認められるに至らなかった少年等に対し、その身体の自由の拘束等による補償を行う措置を定めるものとする。</Sentence>
@@ -17,7 +17,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（補償の要件）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">少年法第二章に規定する保護事件を終結させるいずれかの決定においてその全部又は一部の審判事由の存在が認められないことにより当該全部又は一部の審判事由につき審判を開始せず又は保護処分に付さない旨の判断がされ、その決定が確定した場合において、その決定を受けた者が当該全部又は一部の審判事由に関して次に掲げる身体の自由の拘束を受けたものであるときは、国は、その者に対し、この法律の定めるところにより、当該身体の自由の拘束による補償をするものとする。</Sentence>
@@ -35,7 +35,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">審判事由の存在が認められないことにより少年法第二十七条の二第一項又は第二項の規定による保護処分の取消しの決定が確定した場合において、当該決定を受けた者が前項各号に掲げる身体の自由の拘束又は同法第二十四条の二の規定による没取を受けたものであるときも、同項と同様とする。</Sentence>
@@ -45,7 +45,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（補償をしないことができる場合）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次の各号のいずれかに該当するときは、前条の規定にかかわらず、補償の全部又は一部をしないことができる。</Sentence>
@@ -73,13 +73,13 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（補償の内容）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">身体の自由の拘束による補償においては、その拘束の日数に応じて、刑事補償法第四条第一項に定める一日当たりの割合の範囲内で、相当と認められる額の補償金を交付する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">没取による補償においては、没取に係る物を返付し、これを返付することができないときは、その物の時価に等しい額の補償金を交付する。</Sentence>
@@ -89,19 +89,19 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（補償に関する決定）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">補償の要否及び補償の内容についての判断は、第二条に規定する決定をした家庭裁判所が、決定をもって行う。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の補償に関する決定は、第二条に規定する決定が確定した日から三十日以内にするように努めなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">家庭裁判所は、第一項の補償に関する決定の告知をした日から十四日以内に本人からその変更をすべき旨の申出があった場合において、相当と認めるときは、決定をもって、これを変更することができる。</Sentence>
@@ -111,20 +111,20 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（特別関係者に対する補償）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前条第一項の補償に関する決定を受ける前に本人が死亡した場合において、その特別関係者（本人の配偶者（婚姻の届出をしていないが事実上婚姻関係と同様の事情にあった者を含む。）、子、父母、祖父母若しくは兄弟姉妹であって本人の死亡の当時本人と生計を同じくしていたもの又はこれらの者以外の者であって第二条に規定する決定の当時本人の保護者（少年法第二条第二項に規定する者をいう。）であったものをいう。以下同じ。）から申出があり、かつ、補償をすることが相当と認められるときは、国は、前条第一項の家庭裁判所の決定により、本人が生存していたとしたならば受けたものと認められる補償と同一の補償をすることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">前項の場合において、二人以上の特別関係者に補償をするときは、これを等分する。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、等分することが相当でないと認められる特別の事情があるときは、これと異なる配分を定めることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の申出は、本人が死亡した日から六十日以内にしなければならない。</Sentence>
@@ -134,7 +134,7 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（調査）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">家庭裁判所は、補償に関する決定をするに当たっては、必要な調査を行い、又は家庭裁判所調査官に命じて必要な調査を行わせることができる。</Sentence>
@@ -145,7 +145,7 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（補償の払渡し）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">補償金の払渡し及び没取に係る物の返付（以下「補償の払渡し」という。）は、第五条第一項又は第六条第一項の決定をした家庭裁判所が行う。</Sentence>
@@ -155,7 +155,7 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（準用）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">刑事補償法第五条の規定はこの法律による補償と他の法律による損害賠償との関係について、同法第二十二条の規定は補償の払渡しについて、刑事訴訟法第五十五条第一項及び第三項の規定はこの法律に定める期間の計算について準用する。</Sentence>
@@ -165,7 +165,7 @@
       <Article Delete="false" Hide="false" Num="10">
         <ArticleCaption>（最高裁判所の規則）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律に定めるもののほか、決定の告知及び補償の払渡しの方法その他補償の実施に関して必要な事項は、最高裁判所が定める。</Sentence>
@@ -175,7 +175,7 @@
     </MainProvision>
     <SupplProvision Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -183,12 +183,12 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年一二月六日法律第一四二号" Extract="true">
+    <SupplProvision AmendLawId="412142" AmendLawNum="平成一二年一二月六日法律第一四二号" Extract="true" Id="82493256-188b-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、平成十三年四月一日から施行する。</Sentence>
@@ -196,12 +196,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一九年六月一五日法律第八八号" Extract="true">
+    <SupplProvision AmendLawId="419088" AmendLawNum="平成一九年六月一五日法律第八八号" Extract="true" Id="534abd20-47dd-11e5-8f91-433c3936ba92">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -209,9 +209,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二六年六月一一日法律第六〇号">
+    <SupplProvision AmendLawId="426060" AmendLawNum="平成二六年六月一一日法律第六〇号" Id="dc28dc00-188a-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、少年院法（平成二十六年法律第五十八号）の施行の日から施行する。</Sentence>

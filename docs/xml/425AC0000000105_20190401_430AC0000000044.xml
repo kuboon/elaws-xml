@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="105" Year="25">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="105" Year="25">
   <LawNum>平成二十五年法律第百五号</LawNum>
   <LawBody>
     <LawTitle>生活困窮者自立支援法</LawTitle>
@@ -35,7 +35,7 @@
         <Article Delete="false" Hide="false" Num="1">
           <ArticleCaption>（目的）</ArticleCaption>
           <ArticleTitle>第一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律は、生活困窮者自立相談支援事業の実施、生活困窮者住居確保給付金の支給その他の生活困窮者に対する自立の支援に関する措置を講ずることにより、生活困窮者の自立の促進を図ることを目的とする。</Sentence>
@@ -61,13 +61,13 @@
         <Article Delete="false" Hide="false" Num="3">
           <ArticleCaption>（定義）</ArticleCaption>
           <ArticleTitle>第三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律において「生活困窮者」とは、就労の状況、心身の状況、地域社会との関係性その他の事情により、現に経済的に困窮し、最低限度の生活を維持することができなくなるおそれのある者をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律において「生活困窮者自立相談支援事業」とは、次に掲げる事業をいう。</Sentence>
@@ -91,13 +91,13 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律において「生活困窮者住居確保給付金」とは、生活困窮者のうち離職又はこれに準ずるものとして厚生労働省令で定める事由により経済的に困窮し、居住する住宅の所有権若しくは使用及び収益を目的とする権利を失い、又は現に賃借して居住する住宅の家賃を支払うことが困難となったものであって、就職を容易にするため住居を確保する必要があると認められるものに対し支給する給付金をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律において「生活困窮者就労準備支援事業」とは、雇用による就業が著しく困難な生活困窮者（当該生活困窮者及び当該生活困窮者と同一の世帯に属する者の資産及び収入の状況その他の事情を勘案して厚生労働省令で定めるものに限る。）に対し、厚生労働省令で定める期間にわたり、就労に必要な知識及び能力の向上のために必要な訓練を行う事業をいう。</Sentence>
@@ -167,13 +167,13 @@
         <Article Delete="false" Hide="false" Num="4">
           <ArticleCaption>（市及び福祉事務所を設置する町村等の責務）</ArticleCaption>
           <ArticleTitle>第四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">市（特別区を含む。）及び福祉事務所（社会福祉法（昭和二十六年法律第四十五号）に規定する福祉に関する事務所をいう。以下同じ。）を設置する町村（以下「市等」という。）は、この法律の実施に関し、関係機関との緊密な連携を図りつつ、適切に生活困窮者自立相談支援事業及び生活困窮者住居確保給付金の支給を行う責務を有する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県は、この法律の実施に関し、次に掲げる責務を有する。</Sentence>
@@ -191,7 +191,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国は、都道府県及び市等（以下「都道府県等」という。）が行う生活困窮者自立相談支援事業及び生活困窮者住居確保給付金の支給、生活困窮者就労準備支援事業及び生活困窮者家計改善支援事業並びに生活困窮者一時生活支援事業、子どもの学習・生活支援事業及びその他の生活困窮者の自立の促進を図るために必要な事業が適正かつ円滑に行われるよう、都道府県等に対する必要な助言、情報の提供その他の援助を行わなければならない。</Sentence>
@@ -216,19 +216,19 @@
         <Article Delete="false" Hide="false" Num="5">
           <ArticleCaption>（生活困窮者自立相談支援事業）</ArticleCaption>
           <ArticleTitle>第五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県等は、生活困窮者自立相談支援事業を行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県等は、生活困窮者自立相談支援事業の事務の全部又は一部を当該都道府県等以外の厚生労働省令で定める者に委託することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定による委託を受けた者若しくはその役員若しくは職員又はこれらの者であった者は、その委託を受けた事務に関して知り得た秘密を漏らしてはならない。</Sentence>
@@ -238,13 +238,13 @@
         <Article Delete="false" Hide="false" Num="6">
           <ArticleCaption>（生活困窮者住居確保給付金の支給）</ArticleCaption>
           <ArticleTitle>第六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県等は、その設置する福祉事務所の所管区域内に居住地を有する生活困窮者のうち第三条第三項に規定するもの（当該生活困窮者及び当該生活困窮者と同一の世帯に属する者の資産及び収入の状況その他の事情を勘案して厚生労働省令で定めるものに限る。）に対し、生活困窮者住居確保給付金を支給するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項に規定するもののほか、生活困窮者住居確保給付金の額及び支給期間その他生活困窮者住居確保給付金の支給に関し必要な事項は、厚生労働省令で定める。</Sentence>
@@ -260,7 +260,7 @@
               <Sentence>都道府県等は、生活困窮者自立相談支援事業及び生活困窮者住居確保給付金の支給のほか、生活困窮者就労準備支援事業及び生活困窮者家計改善支援事業を行うように努めるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県等は、前項に規定するもののほか、次に掲げる事業を行うことができる。</Sentence>
@@ -284,7 +284,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第五条第二項及び第三項の規定は、前二項の規定により都道府県等が行う事業について準用する。</Sentence>
@@ -400,7 +400,7 @@
         <Article Delete="false" Hide="false" Num="12">
           <ArticleCaption>（市等の支弁）</ArticleCaption>
           <ArticleTitle>第十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次に掲げる費用は、市等の支弁とする。</Sentence>
@@ -434,7 +434,7 @@
         <Article Delete="false" Hide="false" Num="13">
           <ArticleCaption>（都道府県の支弁）</ArticleCaption>
           <ArticleTitle>第十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次に掲げる費用は、都道府県の支弁とする。</Sentence>
@@ -484,7 +484,7 @@
         <Article Delete="false" Hide="false" Num="15">
           <ArticleCaption>（国の負担及び補助）</ArticleCaption>
           <ArticleTitle>第十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国は、政令で定めるところにより、次に掲げるものの四分の三を負担する。</Sentence>
@@ -514,7 +514,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国は、予算の範囲内において、政令で定めるところにより、次に掲げるものを補助することができる。</Sentence>
@@ -550,19 +550,19 @@
         <ChapterTitle>第三章　生活困窮者就労訓練事業の認定</ChapterTitle>
         <Article Delete="false" Hide="false" Num="16">
           <ArticleTitle>第十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">雇用による就業を継続して行うことが困難な生活困窮者に対し、就労の機会を提供するとともに、就労に必要な知識及び能力の向上のために必要な訓練その他の厚生労働省令で定める便宜を供与する事業（以下この条において「生活困窮者就労訓練事業」という。）を行う者は、厚生労働省令で定めるところにより、当該生活困窮者就労訓練事業が生活困窮者の就労に必要な知識及び能力の向上のための基準として厚生労働省令で定める基準に適合していることにつき、都道府県知事の認定を受けることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、生活困窮者就労訓練事業が前項の基準に適合していると認めるときは、同項の認定をするものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、第一項の認定に係る生活困窮者就労訓練事業（次項及び第二十一条第二項において「認定生活困窮者就労訓練事業」という。）が第一項の基準に適合しないものとなったと認めるときは、同項の認定を取り消すことができる。</Sentence>
@@ -581,25 +581,25 @@
         <Article Delete="false" Hide="false" Num="17">
           <ArticleCaption>（雇用の機会の確保）</ArticleCaption>
           <ArticleTitle>第十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国及び地方公共団体は、生活困窮者の雇用の機会の確保を図るため、職業訓練の実施、就職のあっせんその他の必要な措置を講ずるように努めるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国及び地方公共団体は、生活困窮者の雇用の機会の確保を図るため、国の講ずる措置と地方公共団体の講ずる措置が密接な連携の下に円滑かつ効果的に実施されるように相互に連絡し、及び協力するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公共職業安定所は、生活困窮者の雇用の機会の確保を図るため、求人に関する情報の収集及び提供、生活困窮者を雇用する事業主に対する援助その他必要な措置を講ずるように努めるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公共職業安定所は、生活困窮者の雇用の機会の確保を図るため、職業安定法（昭和二十二年法律第百四十一号）第二十九条第一項の規定により無料の職業紹介事業を行う都道府県等が求人に関する情報の提供を希望するときは、当該都道府県等に対して、当該求人に関する情報を電磁的方法（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法をいう。）その他厚生労働省令で定める方法により提供するものとする。</Sentence>
@@ -609,13 +609,13 @@
         <Article Delete="false" Hide="false" Num="18">
           <ArticleCaption>（不正利得の徴収）</ArticleCaption>
           <ArticleTitle>第十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">偽りその他不正の手段により生活困窮者住居確保給付金の支給を受けた者があるときは、都道府県等は、その者から、その支給を受けた生活困窮者住居確保給付金の額に相当する金額の全部又は一部を徴収することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定による徴収金は、地方自治法（昭和二十二年法律第六十七号）第二百三十一条の三第三項に規定する法律で定める歳入とする。</Sentence>
@@ -625,7 +625,7 @@
         <Article Delete="false" Hide="false" Num="19">
           <ArticleCaption>（受給権の保護）</ArticleCaption>
           <ArticleTitle>第十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">生活困窮者住居確保給付金の支給を受けることとなった者の当該支給を受ける権利は、譲り渡し、担保に供し、又は差し押さえることができない。</Sentence>
@@ -635,7 +635,7 @@
         <Article Delete="false" Hide="false" Num="20">
           <ArticleCaption>（公課の禁止）</ArticleCaption>
           <ArticleTitle>第二十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">租税その他の公課は、生活困窮者住居確保給付金として支給を受けた金銭を標準として課することができない。</Sentence>
@@ -645,25 +645,25 @@
         <Article Delete="false" Hide="false" Num="21">
           <ArticleCaption>（報告等）</ArticleCaption>
           <ArticleTitle>第二十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県等は、生活困窮者住居確保給付金の支給に関して必要があると認めるときは、この法律の施行に必要な限度において、当該生活困窮者住居確保給付金の支給を受けた生活困窮者又は生活困窮者であった者に対し、報告若しくは文書その他の物件の提出若しくは提示を命じ、又は当該職員に質問させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県知事は、この法律の施行に必要な限度において、認定生活困窮者就労訓練事業を行う者又は認定生活困窮者就労訓練事業を行っていた者に対し、報告を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項の規定による質問を行う場合においては、当該職員は、その身分を示す証明書を携帯し、かつ、関係者の請求があるときは、これを提示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項の規定による権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
@@ -673,13 +673,13 @@
         <Article Delete="false" Hide="false" Num="22">
           <ArticleCaption>（資料の提供等）</ArticleCaption>
           <ArticleTitle>第二十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県等は、生活困窮者住居確保給付金の支給又は生活困窮者就労準備支援事業若しくは生活困窮者一時生活支援事業（第三条第六項第一号に掲げる事業に限る。）の実施に関して必要があると認めるときは、生活困窮者、生活困窮者の配偶者若しくは生活困窮者の属する世帯の世帯主その他その世帯に属する者又はこれらの者であった者の資産又は収入の状況につき、官公署に対し必要な文書の閲覧若しくは資料の提供を求め、又は銀行、信託会社その他の機関若しくは生活困窮者の雇用主その他の関係者に報告を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">都道府県等は、生活困窮者住居確保給付金の支給に関して必要があると認めるときは、当該生活困窮者住居確保給付金の支給を受ける生活困窮者若しくは当該生活困窮者に対し当該生活困窮者が居住する住宅を賃貸する者若しくはその役員若しくは職員又はこれらの者であった者に、当該住宅の状況につき、報告を求めることができる。</Sentence>
@@ -699,7 +699,7 @@
         <Article Delete="false" Hide="false" Num="24">
           <ArticleCaption>（町村の一部事務組合等）</ArticleCaption>
           <ArticleTitle>第二十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">町村が一部事務組合又は広域連合を設けて福祉事務所を設置した場合には、この法律の適用については、その一部事務組合又は広域連合を福祉事務所を設置する町村とみなす。</Sentence>
@@ -709,7 +709,7 @@
         <Article Delete="false" Hide="false" Num="25">
           <ArticleCaption>（大都市等の特例）</ArticleCaption>
           <ArticleTitle>第二十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">この法律中都道府県が処理することとされている事務で政令で定めるものは、地方自治法第二百五十二条の十九第一項の指定都市（以下この条において「指定都市」という。）及び同法第二百五十二条の二十二第一項の中核市（以下この条において「中核市」という。）においては、政令の定めるところにより、指定都市又は中核市が処理するものとする。</Sentence>
@@ -720,7 +720,7 @@
         <Article Delete="false" Hide="false" Num="26">
           <ArticleCaption>（実施規定）</ArticleCaption>
           <ArticleTitle>第二十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律に特別の規定があるものを除くほか、この法律の実施のための手続その他その執行について必要な細則は、厚生労働省令で定める。</Sentence>
@@ -732,7 +732,7 @@
         <ChapterTitle>第五章　罰則</ChapterTitle>
         <Article Delete="false" Hide="false" Num="27">
           <ArticleTitle>第二十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">偽りその他不正の手段により生活困窮者住居確保給付金の支給を受け、又は他人をして受けさせた者は、三年以下の懲役又は百万円以下の罰金に処する。</Sentence>
@@ -742,7 +742,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="28">
           <ArticleTitle>第二十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第五条第三項（第七条第三項及び第十一条第二項において準用する場合を含む。）又は第九条第五項の規定に違反して秘密を漏らした者は、一年以下の懲役又は百万円以下の罰金に処する。</Sentence>
@@ -751,7 +751,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="29">
           <ArticleTitle>第二十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次の各号のいずれかに該当する者は、三十万円以下の罰金に処する。</Sentence>
@@ -772,7 +772,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="30">
           <ArticleTitle>第三十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して第二十七条又は前条第二号の違反行為をしたときは、行為者を罰するほか、その法人又は人に対して各本条の罰金刑を科する。</Sentence>
@@ -786,7 +786,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、平成二十七年四月一日から施行する。</Sentence>
@@ -796,7 +796,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（検討）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、この法律の施行後三年を目途として、この法律の施行の状況を勘案し、生活困窮者に対する自立の支援に関する措置の在り方について総合的に検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
@@ -804,12 +804,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二八年五月二〇日法律第四七号" Type="Amend">
+    <SupplProvision AmendLawId="428047" AmendLawNum="平成二八年五月二〇日法律第四七号" Id="7351006c-7a3a-6fcd-dbe6-d90c545fec84" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十九年四月一日から施行する。</Sentence>
@@ -840,7 +840,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三〇年六月八日法律第四四号" Extract="true">
+    <SupplProvision AmendLawId="430044" AmendLawNum="平成三〇年六月八日法律第四四号" Extract="true" Id="e1f4e014-6b1b-11e8-8c82-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

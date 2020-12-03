@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200831e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="121" Year="15">
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="121" Year="15">
   <LawNum>平成十五年政令第百二十一号</LawNum>
   <LawBody>
     <LawTitle>会社更生法施行令</LawTitle>
@@ -8,13 +8,13 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（担保権に係る登記の抹消の嘱託の添付情報等）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">会社更生法（以下「法」という。）第百八条第四項の規定による消滅した担保権に係る登記の抹消の嘱託をする場合には、法第百四条第一項の決定があったことを証する情報をその嘱託情報と併せて登記所に提供しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項に規定する消滅した担保権に係る登録の抹消の嘱託書には、法第百四条第四項の裁判書の謄本を添付しなければならない。</Sentence>
@@ -24,7 +24,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（更生計画の遂行による会社の登記の嘱託書等の添付書面の通則）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の遂行により登記すべき事項が生じた場合における会社の登記の嘱託書又は申請書に添付すべき書面に関しては、次条から第十四条までに定めるもののほか、嘱託書に添付すべき書面については商業登記法（昭和三十八年法律第百二十五号）第三章第五節から第八節までの規定中申請書の添付書面に関する規定を準用し、申請書に添付すべき書面についてはこれらの規定の定めるところによる。</Sentence>
@@ -34,13 +34,13 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（認可決定謄本等）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の遂行により登記すべき事項が生じた場合には、会社の登記の嘱託書又は申請書には、更生計画の認可の決定の裁判書の謄本（以下「認可決定謄本」という。）を添付しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の場合には、更生会社又は法第百八十三条に規定する条項により設立される株式会社の登記の嘱託書又は申請書には、商業登記法第四十六条の規定により申請書に添付すべきものとされている書面の添付を要しない。</Sentence>
@@ -50,13 +50,13 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（取締役等の就任による変更の登記の嘱託書等の添付書面）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の定めにより取締役（更生会社が監査等委員会設置会社である場合にあっては、監査等委員（会社法（平成十七年法律第八十六号）第三十八条第二項に規定する監査等委員をいう。）である取締役又はそれ以外の取締役）、会計参与、監査役、代表取締役、各委員会（同法第四百条第一項に規定する各委員会をいう。）の委員、執行役、代表執行役又は会計監査人（以下この条において「取締役等」という。）が就任した場合において、当該更生計画が当該取締役等の氏名又は名称を定めたものであるときは、その就任による変更の登記の嘱託書又は申請書には、商業登記法第五十四条第一項に規定する書面又は同条第二項第一号に掲げる書面の添付を要しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の定めにより取締役等が就任した場合において、当該更生計画が取締役等について法第百七十三条第一項各号若しくは第二項第三号に規定する選任の方法又は同条第一項第二号から第四号まで若しくは第八号に規定する選定の方法を定めたものであるときは、前項の嘱託書又は申請書には、その選任又は選定に関する書面をも添付しなければならない。</Sentence>
@@ -66,7 +66,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（清算人の登記の嘱託書等の添付書面）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の定めにより清算人（代表清算人を含む。以下この条において同じ。）が就任した場合において、当該更生計画が清算人について法第百七十三条第二項第一号若しくは第二号に規定する選任の方法又は同号に規定する選定の方法を定めたものであるときは、清算人の登記の嘱託書又は申請書には、就任を承諾したことを証する書面及びその選任又は選定に関する書面をも添付しなければならない。</Sentence>
@@ -76,7 +76,7 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（資本金の額の減少による変更の登記の嘱託書等の添付書面）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の定めにより資本金の額の減少をしたときは、当該資本金の額の減少による変更の登記の嘱託書又は申請書には、商業登記法第七十条に規定する書面の添付を要しない。</Sentence>
@@ -86,7 +86,7 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（募集株式の発行による変更の登記の嘱託書等の添付書面）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">更生計画の定めにより募集株式（会社法第百九十九条第一項に規定する募集株式をいう。以下この条において同じ。）の発行をしたときは、当該募集株式の発行による変更の登記の嘱託書又は申請書には、商業登記法第五十六条第三号から第五号までに掲げる書面の添付を要しない。</Sentence>
@@ -97,7 +97,7 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（新株予約権の発行による変更の登記の嘱託書等の添付書面）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">更生計画の定めにより新株予約権（新株予約権付社債に付されたものを含む。以下この条において同じ。）の発行をしたときは、当該新株予約権の発行による変更の登記の嘱託書又は申請書には、商業登記法第六十五条第三号に掲げる書面の添付を要しない。</Sentence>
@@ -130,7 +130,7 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（組織変更による登記の嘱託書等の添付書面）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の定めにより持分会社への組織変更をしたときは、当該組織変更後の持分会社についてする登記の嘱託書又は申請書には、商業登記法第七十七条第三号に掲げる書面の添付を要しない。</Sentence>
@@ -140,31 +140,31 @@
       <Article Delete="false" Hide="false" Num="10">
         <ArticleCaption>（合併による登記の嘱託書等の添付書面）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の定めにより吸収合併（更生会社が消滅する吸収合併であって、吸収合併後存続する会社（次項及び第三項において「吸収合併存続会社」という。）が株式会社であるものに限る。）をしたときは、当該吸収合併による変更の登記の申請書には、商業登記法第八十条第四号に掲げる書面並びに更生会社に関する同条第六号及び第八号に掲げる書面の添付を要しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の定めにより吸収合併（更生会社が消滅する吸収合併であって、吸収合併存続会社が持分会社であるものに限る。）をしたときは、当該吸収合併による変更の登記の申請書には、商業登記法第百八条第一項第二号（同法第百十五条第一項及び第百二十四条において準用する場合を含む。）に掲げる書面のうち、更生会社に関する同法第八十条第六号及び第八号に掲げるものの添付を要しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の定めにより吸収合併（更生会社が吸収合併存続会社となるものに限る。）をしたときは、当該吸収合併による変更の登記の嘱託書又は申請書には、商業登記法第八十条第二号から第四号までに掲げる書面の添付を要しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の定めにより新設合併（更生会社が消滅する新設合併であって、新設合併により設立する会社（次項において「新設合併設立会社」という。）が株式会社であるものに限る。）をしたときは、当該新設合併による設立の登記の嘱託書又は申請書には、商業登記法第八十一条第四号に掲げる書面並びに更生会社に関する同条第六号及び第八号に掲げる書面の添付を要しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の定めにより新設合併（更生会社が消滅する新設合併であって、新設合併設立会社が持分会社であるものに限る。）をしたときは、当該新設合併による設立の登記の嘱託書又は申請書には、商業登記法第百八条第二項第三号（同法第百十五条第一項及び第百二十四条において準用する場合を含む。）に掲げる書面のうち更生会社に関する同法第八十一条第八号に掲げるもの及び更生会社に関する同法第百八条第二項第四号（同法第百十五条第一項及び第百二十四条において準用する場合を含む。）に掲げる書面の添付を要しない。</Sentence>
@@ -174,31 +174,31 @@
       <Article Delete="false" Hide="false" Num="11">
         <ArticleCaption>（会社分割による登記の嘱託書等の添付書面）</ArticleCaption>
         <ArticleTitle>第十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の定めにより吸収分割（更生会社が吸収分割をする会社となる吸収分割であって、吸収分割をする会社がその事業に関して有する権利義務の全部又は一部を当該会社から承継する会社（以下この項から第三項までにおいて「吸収分割承継会社」という。）が株式会社であるものに限る。）をしたときは、吸収分割承継会社がする当該吸収分割による変更の登記の嘱託書又は申請書には、商業登記法第八十五条第四号に掲げる書面並びに更生会社に関する同条第六号及び第八号に掲げる書面の添付を要しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の定めにより吸収分割（更生会社が吸収分割をする会社となる吸収分割であって、吸収分割承継会社が持分会社であるものに限る。）をしたときは、吸収分割承継会社がする当該吸収分割による変更の登記の嘱託書又は申請書には、商業登記法第百九条第一項第二号（同法第百十六条第一項及び第百二十五条において準用する場合を含む。）に掲げる書面のうち、更生会社に関する同法第八十五条第六号及び第八号に掲げるものの添付を要しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の定めにより吸収分割（更生会社が吸収分割承継会社となるものに限る。）をしたときは、吸収分割承継会社がする当該吸収分割による変更の登記の嘱託書又は申請書には、商業登記法第八十五条第二号から第四号までに掲げる書面の添付を要しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の定めにより新設分割（新設分割により設立する会社（次項において「新設分割設立会社」という。）が株式会社であるものに限る。）をしたときは、当該新設分割による設立の登記の嘱託書又は申請書には、商業登記法第八十六条第四号に掲げる書面並びに更生会社に関する同条第六号及び第八号に掲げる書面の添付を要しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の定めにより新設分割（新設分割設立会社が持分会社であるものに限る。）をしたときは、当該新設分割による設立の登記の嘱託書又は申請書には、商業登記法第百九条第二項第三号（同法第百十六条第一項及び第百二十五条において準用する場合を含む。）に掲げる書面のうち、更生会社に関する同法第八十六条第六号及び第八号に掲げるものの添付を要しない。</Sentence>
@@ -208,19 +208,19 @@
       <Article Delete="false" Hide="false" Num="12">
         <ArticleCaption>（株式交換による変更の登記の嘱託書等の添付書面）</ArticleCaption>
         <ArticleTitle>第十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の定めにより株式交換（更生会社が株式交換をする株式会社（次項において「株式交換完全子会社」という。）となる株式交換であって、その発行済株式の全部を取得する会社（以下この条において「株式交換完全親会社」という。）が株式会社であるものに限る。）をしたときは、株式交換完全親会社がする当該株式交換による変更の登記の申請書には、商業登記法第八十九条第四号に掲げる書面並びに更生会社に関する同条第六号及び第七号に掲げる書面の添付を要しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の定めにより株式交換（更生会社が株式交換完全子会社となる株式交換であって、株式交換完全親会社が合同会社であるものに限る。）をしたときは、株式交換完全親会社がする当該株式交換による変更の登記の申請書には、商業登記法第百二十六条第一項第二号に掲げる書面のうち、同法第八十九条第六号及び第七号に掲げるものの添付を要しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の定めにより株式交換（更生会社が株式交換完全親会社となるものに限る。）をしたときは、株式交換完全親会社がする当該株式交換による変更の登記の嘱託書又は申請書には、商業登記法第八十九条第二号から第四号までに掲げる書面の添付を要しない。</Sentence>
@@ -230,7 +230,7 @@
       <Article Delete="false" Hide="false" Num="13">
         <ArticleCaption>（株式移転による設立の登記の嘱託書等の添付書面）</ArticleCaption>
         <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の定めにより株式移転をしたときは、当該株式移転による設立の登記の嘱託書又は申請書には、商業登記法第九十条第四号に掲げる書面並びに更生会社に関する同条第六号及び第七号に掲げる書面の添付を要しない。</Sentence>
@@ -240,7 +240,7 @@
       <Article Delete="false" Hide="false" Num="14">
         <ArticleCaption>（新会社の設立による設立の登記の嘱託書等の添付書面）</ArticleCaption>
         <ArticleTitle>第十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">更生計画の定めにより法第百八十三条の株式会社の設立をしたときは、当該設立の登記の嘱託書又は申請書には、商業登記法第四十七条第二項第三号、第四号及び第七号から第九号までに掲げる書面並びに同条第三項に規定する書面（更生計画に定めがある事項に関するものに限る。）の添付を要しない。</Sentence>
@@ -269,7 +269,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生計画の定めにより法第百八十三条の株式会社の設立をした場合において、当該更生計画が設立時取締役等について同条第八号若しくは第九号ロからホまでに規定する選任の方法又は同号イ若しくはホに規定する選定の方法を定めたものであるときは、前項の嘱託書又は申請書には、その選任又は選定に関する書面をも添付しなければならない。</Sentence>
@@ -279,7 +279,7 @@
       <Article Delete="false" Hide="false" Num="15">
         <ArticleCaption>（更生手続開始の登記等の嘱託書の添付書面）</ArticleCaption>
         <ArticleTitle>第十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次の表の上欄に掲げる登記の嘱託書には、それぞれ同表の下欄に掲げる書面を添付しなければならない。</Sentence>
@@ -364,13 +364,13 @@
       <Article Delete="false" Hide="false" Num="16">
         <ArticleCaption>（更生会社の機関の権限の回復に関する登記の嘱託書の添付書面）</ArticleCaption>
         <ArticleTitle>第十六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第二百五十九条第一項の登記の嘱託書には、法第七十二条第五項の決定、法第二百三十三条第一項の規定による更生計画の変更の決定若しくは同条第二項の規定による変更計画の認可の決定の裁判書の謄本又は認可決定謄本を添付しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第二百五十九条第二項において準用する同条第一項の登記の嘱託書には、法第七十二条第六項の規定による取消しの決定、法第二百三十三条第一項の規定による更生計画の変更の決定又は同条第二項の規定による変更計画の認可の決定の裁判書の謄本を添付しなければならない。</Sentence>
@@ -380,25 +380,25 @@
       <Article Delete="false" Hide="false" Num="17">
         <ArticleCaption>（保全処分の登記等の嘱託の添付情報）</ArticleCaption>
         <ArticleTitle>第十七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第二百六十条第一項の保全処分の登記の嘱託をする場合には、同項各号に規定する保全処分があったことを証する情報をその嘱託情報と併せて登記所に提供しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第二百六十条第二項において準用する同条第一項の規定による登記の嘱託をする場合には、同項に規定する保全処分を変更し、若しくは取り消す旨の決定があったことを証する情報又は当該保全処分が効力を失ったことを証する情報をその嘱託情報と併せて登記所に提供しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第二百六十条第三項の登記の抹消の嘱託をする場合には、更生手続の開始の決定があったことを証する情報をその嘱託情報と併せて登記所に提供しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第二百六十条第四項の登記の回復の嘱託をする場合には、更生手続の開始の決定を取り消す決定があったことを証する情報をその嘱託情報と併せて登記所に提供しなければならない。</Sentence>
@@ -408,7 +408,7 @@
       <Article Delete="false" Hide="false" Num="18">
         <ArticleCaption>（更生計画の遂行による権利の得喪等に関する登記の嘱託の添付情報）</ArticleCaption>
         <ArticleTitle>第十八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第二百六十一条第六項において準用する法第二百六十条第一項の規定による登記の嘱託をする場合には、更生計画の認可の決定があったことを証する情報をその嘱託情報と併せて登記所に提供しなければならない。</Sentence>
@@ -418,13 +418,13 @@
       <Article Delete="false" Hide="false" Num="19">
         <ArticleCaption>（否認の登記の抹消の嘱託の添付情報）</ArticleCaption>
         <ArticleTitle>第十九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第二百六十二条第四項の否認の登記の抹消の嘱託をする場合には、更生計画の認可の決定があったことを証する情報をその嘱託情報と併せて登記所に提供しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第二百六十二条第六項の否認の登記の抹消の嘱託をする場合には、更生手続の開始の決定を取り消す決定、更生計画の不認可の決定又は更生手続の廃止の決定があったことを証する情報をその嘱託情報と併せて登記所に提供しなければならない。</Sentence>
@@ -434,7 +434,7 @@
       <Article Delete="false" Hide="false" Num="20">
         <ArticleCaption>（登録のある権利への準用）</ArticleCaption>
         <ArticleTitle>第二十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前三条の規定は、登録のある権利について準用する。</Sentence>
@@ -447,7 +447,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、法の施行の日（平成十五年四月一日）から施行する。</Sentence>
@@ -455,12 +455,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年九月八日政令第二六六号" Extract="true">
+    <SupplProvision AmendLawId="416266" AmendLawNum="平成一六年九月八日政令第二六六号" Extract="true" Id="af9b6288-4b01-4e83-8ce8-5755684ba36d">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、株式等の取引に係る決済の合理化を図るための社債等の振替に関する法律等の一部を改正する法律（以下「改正法」という。）の一部の施行の日（平成十六年十月一日）から施行する。</Sentence>
@@ -468,9 +468,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年一〇月二〇日政令第三一八号" Extract="true">
+    <SupplProvision AmendLawId="416318" AmendLawNum="平成一六年一〇月二〇日政令第三一八号" Extract="true" Id="ee1b0430-b84c-42c6-994b-c36301a9ac6b">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -478,21 +478,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年一二月三日政令第三八五号">
+    <SupplProvision AmendLawId="416385" AmendLawNum="平成一六年一二月三日政令第三八五号" Id="425ea27d-49f0-42f9-a2d9-ebc988939a11">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、電子公告制度の導入のための商法等の一部を改正する法律の施行の日（平成十七年二月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年二月一八日政令第二四号" Extract="true">
+    <SupplProvision AmendLawId="417024" AmendLawNum="平成一七年二月一八日政令第二四号" Extract="true" Id="0f16e356-d3b4-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、不動産登記法の施行の日（平成十七年三月七日）から施行する。</Sentence>
@@ -500,18 +500,18 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年一二月一四日政令第三六六号">
+    <SupplProvision AmendLawId="417366" AmendLawNum="平成一七年一二月一四日政令第三六六号" Id="9c50fcc9-86ba-439e-aa9e-ce2a489f571c">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、会社法の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二七年一月二三日政令第一七号">
+    <SupplProvision AmendLawId="427017" AmendLawNum="平成二七年一月二三日政令第一七号" Id="dc653558-1928-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律（平成二十六年法律第九十一号）の施行の日（平成二十七年五月一日）から施行する。</Sentence>

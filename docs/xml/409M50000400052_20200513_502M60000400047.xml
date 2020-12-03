@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="52" Year="09">
+<Law AmendmentId="502M60000400047" AmendmentNum="令和二年経済産業省令第四十七号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="52" Year="09">
   <LawNum>平成九年通商産業省令第五十二号</LawNum>
   <LawBody>
     <LawTitle>電気設備に関する技術基準を定める省令</LawTitle>
@@ -114,7 +114,7 @@
           <Article Delete="false" Hide="false" Num="1">
             <ArticleCaption>（用語の定義）</ArticleCaption>
             <ArticleTitle>第一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">この省令において、次の各号に掲げる用語の定義は、それぞれ当該各号に定めるところによる。</Sentence>
@@ -232,7 +232,7 @@
           <Article Delete="false" Hide="false" Num="2">
             <ArticleCaption>（電圧の種別等）</ArticleCaption>
             <ArticleTitle>第二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">電圧は、次の区分により低圧、高圧及び特別高圧の三種とする。</Sentence>
@@ -271,7 +271,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">高圧又は特別高圧の多線式電路（中性線を有するものに限る。）の中性線と他の一線とに電気的に接続して施設する電気設備については、その使用電圧又は最大使用電圧がその多線式電路の使用電圧又は最大使用電圧に等しいものとして、この省令の規定を適用する。</Sentence>
@@ -284,25 +284,25 @@
           <Article Delete="false" Hide="false" Num="3">
             <ArticleCaption>（適用除外）</ArticleCaption>
             <ArticleTitle>第三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">この省令は、原子力発電工作物については、適用しない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">鉄道営業法（明治三十三年法律第六十五号）、軌道法（大正十年法律第七十六号）又は鉄道事業法（昭和六十一年法律第九十二号）が適用され又は準用される電気設備であって、鉄道、索道又は軌道の専用敷地内に施設するもの（直流変成器又は交流き電用変成器を施設する変電所（以下「電気鉄道用変電所」という。）相互を接続する送電用の電線路以外の送電用の電線路を除く。）については、第十九条第十三項、第二十条、第二十一条、第二十三条第二項、第二十四条から第二十六条まで、第二十七条第一項及び第二項、第二十七条の二、第二十八条から第三十二条、第三十四条、第三十六条から第三十九条まで、第四十七条、第四十八条第二項及び第三項並びに第五十三条第一項の規定を適用せず、鉄道営業法、軌道法又は鉄道事業法の相当規定の定めるところによる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">鉄道営業法、軌道法又は鉄道事業法が適用され又は準用される電車線等（電車線又はこれと電気的に接続するちょう架線、ブラケット若しくはスパン線をいう。以下同じ。）及びレールについては、第二十条、第二十五条第一項、第二十八条、第二十九条及び第三十二条第一項の規定を適用せず、鉄道営業法、軌道法又は鉄道事業法の相当規定の定めるところによる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">鉄道営業法、軌道法又は鉄道事業法が適用され又は準用される電気鉄道用変電所については、第二十七条の二第二項及び第四十六条第二項の規定を適用せず、鉄道営業法、軌道法又は鉄道事業法の相当規定の定めるところによる。</Sentence>
@@ -317,7 +317,7 @@
             <Article Delete="false" Hide="false" Num="4">
               <ArticleCaption>（電気設備における感電、火災等の防止）</ArticleCaption>
               <ArticleTitle>第四条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">電気設備は、感電、火災その他人体に危害を及ぼし、又は物件に損傷を与えるおそれがないように施設しなければならない。</Sentence>
@@ -327,20 +327,20 @@
             <Article Delete="false" Hide="false" Num="5">
               <ArticleCaption>（電路の絶縁）</ArticleCaption>
               <ArticleTitle>第五条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Function="main" Num="1" WritingMode="vertical">電路は、大地から絶縁しなければならない。</Sentence>
                   <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、構造上やむを得ない場合であって通常予見される使用形態を考慮し危険のおそれがない場合、又は混触による高電圧の侵入等の異常が発生した際の危険を回避するための接地その他の保安上必要な措置を講ずる場合は、この限りでない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前項の場合にあっては、その絶縁性能は、第二十二条及び第五十八条の規定を除き、事故時に想定される異常電圧を考慮し、絶縁破壊による危険のおそれがないものでなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="3">
+              <Paragraph Hide="false" Num="3" OldStyle="false">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">変成器内の巻線と当該変成器内の他の巻線との間の絶縁性能は、事故時に想定される異常電圧を考慮し、絶縁破壊による危険のおそれがないものでなければならない。</Sentence>
@@ -350,7 +350,7 @@
             <Article Delete="false" Hide="false" Num="6">
               <ArticleCaption>（電線等の断線の防止）</ArticleCaption>
               <ArticleTitle>第六条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">電線、支線、架空地線、弱電流電線等（弱電流電線及び光ファイバケーブルをいう。以下同じ。）その他の電気設備の保安のために施設する線は、通常の使用状態において断線のおそれがないように施設しなければならない。</Sentence>
@@ -360,7 +360,7 @@
             <Article Delete="false" Hide="false" Num="7">
               <ArticleCaption>（電線の接続）</ArticleCaption>
               <ArticleTitle>第七条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">電線を接続する場合は、接続部分において電線の電気抵抗を増加させないように接続するほか、絶縁性能の低下（裸電線を除く。）及び通常の使用状態において断線のおそれがないようにしなければならない。</Sentence>
@@ -370,7 +370,7 @@
             <Article Delete="false" Hide="false" Num="8">
               <ArticleCaption>（電気機械器具の熱的強度）</ArticleCaption>
               <ArticleTitle>第八条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">電路に施設する電気機械器具は、通常の使用状態においてその電気機械器具に発生する熱に耐えるものでなければならない。</Sentence>
@@ -380,14 +380,14 @@
             <Article Delete="false" Hide="false" Num="9">
               <ArticleCaption>（高圧又は特別高圧の電気機械器具の危険の防止）</ArticleCaption>
               <ArticleTitle>第九条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Function="main" Num="1" WritingMode="vertical">高圧又は特別高圧の電気機械器具は、取扱者以外の者が容易に触れるおそれがないように施設しなければならない。</Sentence>
                   <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、接触による危険のおそれがない場合は、この限りでない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Function="main" Num="1" WritingMode="vertical">高圧又は特別高圧の開閉器、遮断器、避雷器その他これらに類する器具であって、動作時にアークを生ずるものは、火災のおそれがないよう、木製の壁又は天井その他の可燃性の物から離して施設しなければならない。</Sentence>
@@ -398,7 +398,7 @@
             <Article Delete="false" Hide="false" Num="10">
               <ArticleCaption>（電気設備の接地）</ArticleCaption>
               <ArticleTitle>第十条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Function="main" Num="1" WritingMode="vertical">電気設備の必要な箇所には、異常時の電位上昇、高電圧の侵入等による感電、火災その他人体に危害を及ぼし、又は物件への損傷を与えるおそれがないよう、接地その他の適切な措置を講じなければならない。</Sentence>
@@ -409,7 +409,7 @@
             <Article Delete="false" Hide="false" Num="11">
               <ArticleCaption>（電気設備の接地の方法）</ArticleCaption>
               <ArticleTitle>第十一条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">電気設備に接地を施す場合は、電流が安全かつ確実に大地に通ずることができるようにしなければならない。</Sentence>
@@ -422,14 +422,14 @@
             <Article Delete="false" Hide="false" Num="12">
               <ArticleCaption>（特別高圧電路等と結合する変圧器等の火災等の防止）</ArticleCaption>
               <ArticleTitle>第十二条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Function="main" Num="1" WritingMode="vertical">高圧又は特別高圧の電路と低圧の電路とを結合する変圧器は、高圧又は特別高圧の電圧の侵入による低圧側の電気設備の損傷、感電又は火災のおそれがないよう、当該変圧器における適切な箇所に接地を施さなければならない。</Sentence>
                   <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、施設の方法又は構造によりやむを得ない場合であって、変圧器から離れた箇所における接地その他の適切な措置を講ずることにより低圧側の電気設備の損傷、感電又は火災のおそれがない場合は、この限りでない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">変圧器によって特別高圧の電路に結合される高圧の電路には、特別高圧の電圧の侵入による高圧側の電気設備の損傷、感電又は火災のおそれがないよう、接地を施した放電装置の施設その他の適切な措置を講じなければならない。</Sentence>
@@ -439,7 +439,7 @@
             <Article Delete="false" Hide="false" Num="13">
               <ArticleCaption>（特別高圧を直接低圧に変成する変圧器の施設制限）</ArticleCaption>
               <ArticleTitle>第十三条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">特別高圧を直接低圧に変成する変圧器は、次の各号のいずれかに掲げる場合を除き、施設してはならない。</Sentence>
@@ -467,7 +467,7 @@
             <Article Delete="false" Hide="false" Num="14">
               <ArticleCaption>（過電流からの電線及び電気機械器具の保護対策）</ArticleCaption>
               <ArticleTitle>第十四条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">電路の必要な箇所には、過電流による過熱焼損から電線及び電気機械器具を保護し、かつ、火災の発生を防止できるよう、過電流遮断器を施設しなければならない。</Sentence>
@@ -477,7 +477,7 @@
             <Article Delete="false" Hide="false" Num="15">
               <ArticleCaption>（地絡に対する保護対策）</ArticleCaption>
               <ArticleTitle>第十五条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Function="main" Num="1" WritingMode="vertical">電路には、地絡が生じた場合に、電線若しくは電気機械器具の損傷、感電又は火災のおそれがないよう、地絡遮断器の施設その他の適切な措置を講じなければならない。</Sentence>
@@ -488,7 +488,7 @@
             <Article Delete="false" Hide="false" Num="15_2">
               <ArticleCaption>（サイバーセキュリティの確保）</ArticleCaption>
               <ArticleTitle>第十五条の二</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">電気工作物（一般送配電事業、送電事業、特定送配電事業及び発電事業の用に供するものに限る。）の運転を管理する電子計算機は、当該電気工作物が人体に危害を及ぼし、又は物件に損傷を与えるおそれ及び一般送配電事業に係る電気の供給に著しい支障を及ぼすおそれがないよう、サイバーセキュリティ（サイバーセキュリティ基本法（平成二十六年法律第百四号）第二条に規定するサイバーセキュリティをいう。）を確保しなければならない。</Sentence>
@@ -501,7 +501,7 @@
             <Article Delete="false" Hide="false" Num="16">
               <ArticleCaption>（電気設備の電気的、磁気的障害の防止）</ArticleCaption>
               <ArticleTitle>第十六条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">電気設備は、他の電気設備その他の物件の機能に電気的又は磁気的な障害を与えないように施設しなければならない。</Sentence>
@@ -511,7 +511,7 @@
             <Article Delete="false" Hide="false" Num="17">
               <ArticleCaption>（高周波利用設備への障害の防止）</ArticleCaption>
               <ArticleTitle>第十七条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">高周波利用設備（電路を高周波電流の伝送路として利用するものに限る。以下この条において同じ。）は、他の高周波利用設備の機能に継続的かつ重大な障害を及ぼすおそれがないように施設しなければならない。</Sentence>
@@ -524,13 +524,13 @@
             <Article Delete="false" Hide="false" Num="18">
               <ArticleCaption>（電気設備による供給支障の防止）</ArticleCaption>
               <ArticleTitle>第十八条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">高圧又は特別高圧の電気設備は、その損壊により一般送配電事業者の電気の供給に著しい支障を及ぼさないように施設しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">高圧又は特別高圧の電気設備は、その電気設備が一般送配電事業の用に供される場合にあっては、その電気設備の損壊によりその一般送配電事業に係る電気の供給に著しい支障を生じないように施設しなければならない。</Sentence>
@@ -544,92 +544,92 @@
           <Article Delete="false" Hide="false" Num="19">
             <ArticleCaption>（公害等の防止）</ArticleCaption>
             <ArticleTitle>第十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">発電用火力設備に関する技術基準を定める省令（平成九年通商産業省令第五十一号）第四条第一項及び第二項の規定は、変電所、開閉所若しくはこれらに準ずる場所に設置する電気設備又は電力保安通信設備に附属する電気設備について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">水質汚濁防止法（昭和四十五年法律第百三十八号）第二条第二項の規定による特定施設を設置する発電所又は変電所、開閉所若しくはこれらに準ずる場所から排出される排出水は、同法第三条第一項及び第三項の規定による規制基準に適合しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">水質汚濁防止法第四条の五第一項に規定する指定地域内事業場から排出される排出水にあっては、前項の規定によるほか、同法第四条の二第一項に規定する指定項目で表示した汚濁負荷量が同法第四条の五第一項又は第二項の規定に基づいて定められた総量規制基準に適合しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">水質汚濁防止法第二条第八項に規定する有害物質使用特定施設（次項において「有害物質使用特定施設」という。）を設置する発電所又は変電所、開閉所若しくはこれらに準ずる場所から地下に浸透される同項に規定する特定地下浸透水（次項において「特定地下浸透水」という。）は、同法第八条第一項の環境省令で定める要件に該当してはならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="5">
+            <Paragraph Hide="false" Num="5" OldStyle="false">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">発電所又は変電所、開閉所若しくはこれらに準ずる場所に設置する有害物質使用特定施設は、水質汚濁防止法第十二条の四の環境省令で定める基準に適合しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、発電所又は変電所、開閉所若しくはこれらに準ずる場所から特定地下浸透水を浸透させる場合は、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="6">
+            <Paragraph Hide="false" Num="6" OldStyle="false">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">発電所又は変電所、開閉所若しくはこれらに準ずる場所に設置する水質汚濁防止法第五条第三項に規定する有害物質貯蔵指定施設は、同法第十二条の四の環境省令で定める基準に適合しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="7">
+            <Paragraph Hide="false" Num="7" OldStyle="false">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">水質汚濁防止法第二条第四項の規定による指定施設を設置する発電所又は変電所、開閉所若しくはこれらに準ずる場所には、指定施設の破損その他の事故が発生し、有害物質又は指定物質を含む水が当該設置場所から公共用水域に排出され、又は地下に浸透したことにより人の健康又は生活環境に係る被害を生ずるおそれがないよう、適切な措置を講じなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="8">
+            <Paragraph Hide="false" Num="8" OldStyle="false">
               <ParagraphNum>８</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">水質汚濁防止法第二条第五項の規定による貯油施設等を設置する発電所又は変電所、開閉所若しくはこれらに準ずる場所には、貯油施設等の破損その他の事故が発生し、油を含む水が当該設置場所から公共用水域に排出され、又は地下に浸透したことにより生活環境に係る被害を生ずるおそれがないよう、適切な措置を講じなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="9">
+            <Paragraph Hide="false" Num="9" OldStyle="false">
               <ParagraphNum>９</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">特定水道利水障害の防止のための水道水源水域の水質の保全に関する特別措置法（平成六年法律第九号）第二条第六項の規定による特定施設等を設置する発電所又は変電所、開閉所若しくはこれらに準ずる場所から排出される排出水は、同法第九条第一項の規定による規制基準に適合しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="10">
+            <Paragraph Hide="false" Num="10" OldStyle="false">
               <ParagraphNum>１０</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">中性点直接接地式電路に接続する変圧器を設置する箇所には、絶縁油の構外への流出及び地下への浸透を防止するための措置が施されていなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="11">
+            <Paragraph Hide="false" Num="11" OldStyle="false">
               <ParagraphNum>１１</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">騒音規制法（昭和四十三年法律第九十八号）第二条第一項の規定による特定施設を設置する発電所又は変電所、開閉所若しくはこれらに準ずる場所であって同法第三条第一項の規定により指定された地域内に存するものにおいて発生する騒音は、同法第四条第一項又は第二項の規定による規制基準に適合しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="12">
+            <Paragraph Hide="false" Num="12" OldStyle="false">
               <ParagraphNum>１２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">振動規制法（昭和五十一年法律第六十四号）第二条第一項の規定による特定施設を設置する発電所又は変電所、開閉所若しくはこれらに準ずる場所であって同法第三条第一項の規定により指定された地域内に存するものにおいて発生する振動は、同法第四条第一項又は第二項の規定による規制基準に適合しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="13">
+            <Paragraph Hide="false" Num="13" OldStyle="false">
               <ParagraphNum>１３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">急傾斜地の崩壊による災害の防止に関する法律（昭和四十四年法律第五十七号）第三条第一項の規定により指定された急傾斜地崩壊危険区域（以下「急傾斜地崩壊危険区域」という。）内に施設する発電所又は変電所、開閉所若しくはこれらに準ずる場所の電気設備、電線路又は電力保安通信設備は、当該区域内の急傾斜地（同法第二条第一項の規定によるものをいう。）の崩壊を助長し又は誘発するおそれがないように施設しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="14">
+            <Paragraph Hide="false" Num="14" OldStyle="false">
               <ParagraphNum>１４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">ポリ塩化ビフェニルを含有する絶縁油を使用する電気機械器具及び電線は、電路に施設してはならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="15">
+            <Paragraph Hide="false" Num="15" OldStyle="false">
               <ParagraphNum>１５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">水質汚濁防止法第二条第五項の規定による貯油施設等が一般用電気工作物である場合には、当該貯油施設等を設置する場所において、貯油施設等の破損その他の事故が発生し、油を含む水が当該設置場所から公共用水域に排出され、又は地下に浸透したことにより生活環境に係る被害を生ずるおそれがないよう、適切な措置を講じなければならない。</Sentence>
@@ -645,7 +645,7 @@
           <Article Delete="false" Hide="false" Num="20">
             <ArticleCaption>（電線路等の感電又は火災の防止）</ArticleCaption>
             <ArticleTitle>第二十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">電線路又は電車線路は、施設場所の状況及び電圧に応じ、感電又は火災のおそれがないように施設しなければならない。</Sentence>
@@ -655,14 +655,14 @@
           <Article Delete="false" Hide="false" Num="21">
             <ArticleCaption>（架空電線及び地中電線の感電の防止）</ArticleCaption>
             <ArticleTitle>第二十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">低圧又は高圧の架空電線には、感電のおそれがないよう、使用電圧に応じた絶縁性能を有する絶縁電線又はケーブルを使用しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、通常予見される使用形態を考慮し、感電のおそれがない場合は、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">地中電線（地中電線路の電線をいう。以下同じ。）には、感電のおそれがないよう、使用電圧に応じた絶縁性能を有するケーブルを使用しなければならない。</Sentence>
@@ -672,7 +672,7 @@
           <Article Delete="false" Hide="false" Num="22">
             <ArticleCaption>（低圧電線路の絶縁性能）</ArticleCaption>
             <ArticleTitle>第二十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">低圧電線路中絶縁部分の電線と大地との間及び電線の線心相互間の絶縁抵抗は、使用電圧に対する漏えい電流が最大供給電流の二千分の一を超えないようにしなければならない。</Sentence>
@@ -682,13 +682,13 @@
           <Article Delete="false" Hide="false" Num="23">
             <ArticleCaption>（発電所等への取扱者以外の者の立入の防止）</ArticleCaption>
             <ArticleTitle>第二十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">高圧又は特別高圧の電気機械器具、母線等を施設する発電所又は変電所、開閉所若しくはこれらに準ずる場所には、取扱者以外の者に電気機械器具、母線等が危険である旨を表示するとともに、当該者が容易に構内に立ち入るおそれがないように適切な措置を講じなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">地中電線路に施設する地中箱は、取扱者以外の者が容易に立ち入るおそれがないように施設しなければならない。</Sentence>
@@ -698,7 +698,7 @@
           <Article Delete="false" Hide="false" Num="24">
             <ArticleCaption>（架空電線路の支持物の昇塔防止）</ArticleCaption>
             <ArticleTitle>第二十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">架空電線路の支持物には、感電のおそれがないよう、取扱者以外の者が容易に昇塔できないように適切な措置を講じなければならない。</Sentence>
@@ -708,13 +708,13 @@
           <Article Delete="false" Hide="false" Num="25">
             <ArticleCaption>（架空電線等の高さ）</ArticleCaption>
             <ArticleTitle>第二十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">架空電線、架空電力保安通信線及び架空電車線は、接触又は誘導作用による感電のおそれがなく、かつ、交通に支障を及ぼすおそれがない高さに施設しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">支線は、交通に支障を及ぼすおそれがない高さに施設しなければならない。</Sentence>
@@ -724,14 +724,14 @@
           <Article Delete="false" Hide="false" Num="26">
             <ArticleCaption>（架空電線による他人の電線等の作業者への感電の防止）</ArticleCaption>
             <ArticleTitle>第二十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">架空電線路の支持物は、他人の設置した架空電線路又は架空弱電流電線路若しくは架空光ファイバケーブル線路の電線又は弱電流電線若しくは光ファイバケーブルの間を貫通して施設してはならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その他人の承諾を得た場合は、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">架空電線は、他人の設置した架空電線路、電車線路又は架空弱電流電線路若しくは架空光ファイバケーブル線路の支持物を挟んで施設してはならない。</Sentence>
@@ -742,20 +742,20 @@
           <Article Delete="false" Hide="false" Num="27">
             <ArticleCaption>（架空電線路からの静電誘導作用又は電磁誘導作用による感電の防止）</ArticleCaption>
             <ArticleTitle>第二十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">特別高圧の架空電線路は、通常の使用状態において、静電誘導作用により人による感知のおそれがないよう、地表上一メートルにおける電界強度が三キロボルト毎メートル以下になるように施設しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、田畑、山林その他の人の往来が少ない場所において、人体に危害を及ぼすおそれがないように施設する場合は、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">特別高圧の架空電線路は、電磁誘導作用により弱電流電線路（電力保安通信設備を除く。）を通じて人体に危害を及ぼすおそれがないように施設しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">電力保安通信設備は、架空電線路からの静電誘導作用又は電磁誘導作用により人体に危害を及ぼすおそれがないように施設しなければならない。</Sentence>
@@ -765,14 +765,14 @@
           <Article Delete="false" Hide="false" Num="27_2">
             <ArticleCaption>（電気機械器具等からの電磁誘導作用による人の健康影響の防止）</ArticleCaption>
             <ArticleTitle>第二十七条の二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">変圧器、開閉器その他これらに類するもの又は電線路を発電所、変電所、開閉所及び需要場所以外の場所に施設するに当たっては、通常の使用状態において、当該電気機械器具等からの電磁誘導作用により人の健康に影響を及ぼすおそれがないよう、当該電気機械器具等のそれぞれの付近において、人によって占められる空間に相当する空間の磁束密度の平均値が、商用周波数において二百マイクロテスラ以下になるように施設しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、田畑、山林その他の人の往来が少ない場所において、人体に危害を及ぼすおそれがないように施設する場合は、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">変電所又は開閉所は、通常の使用状態において、当該施設からの電磁誘導作用により人の健康に影響を及ぼすおそれがないよう、当該施設の付近において、人によって占められる空間に相当する空間の磁束密度の平均値が、商用周波数において二百マイクロテスラ以下になるように施設しなければならない。</Sentence>
@@ -786,7 +786,7 @@
           <Article Delete="false" Hide="false" Num="28">
             <ArticleCaption>（電線の混触の防止）</ArticleCaption>
             <ArticleTitle>第二十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">電線路の電線、電力保安通信線又は電車線等は、他の電線又は弱電流電線等と接近し、若しくは交さする場合又は同一支持物に施設する場合には、他の電線又は弱電流電線等を損傷するおそれがなく、かつ、接触、断線等によって生じる混触による感電又は火災のおそれがないように施設しなければならない。</Sentence>
@@ -796,7 +796,7 @@
           <Article Delete="false" Hide="false" Num="29">
             <ArticleCaption>（電線による他の工作物等への危険の防止）</ArticleCaption>
             <ArticleTitle>第二十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">電線路の電線又は電車線等は、他の工作物又は植物と接近し、又は交さする場合には、他の工作物又は植物を損傷するおそれがなく、かつ、接触、断線等によって生じる感電又は火災のおそれがないように施設しなければならない。</Sentence>
@@ -806,7 +806,7 @@
           <Article Delete="false" Hide="false" Num="30">
             <ArticleCaption>（地中電線等による他の電線及び工作物への危険の防止）</ArticleCaption>
             <ArticleTitle>第三十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">地中電線、屋側電線及びトンネル内電線その他の工作物に固定して施設する電線は、他の電線、弱電流電線等又は管（他の電線等という。以下この条において同じ。）と接近し、又は交さする場合には、故障時のアーク放電により他の電線等を損傷するおそれがないように施設しなければならない。</Sentence>
@@ -817,13 +817,13 @@
           <Article Delete="false" Hide="false" Num="31">
             <ArticleCaption>（異常電圧による架空電線等への障害の防止）</ArticleCaption>
             <ArticleTitle>第三十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">特別高圧の架空電線と低圧又は高圧の架空電線又は電車線を同一支持物に施設する場合は、異常時の高電圧の侵入により低圧側又は高圧側の電気設備に障害を与えないよう、接地その他の適切な措置を講じなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">特別高圧架空電線路の電線の上方において、その支持物に低圧の電気機械器具を施設する場合は、異常時の高電圧の侵入により低圧側の電気設備へ障害を与えないよう、接地その他の適切な措置を講じなければならない。</Sentence>
@@ -836,14 +836,14 @@
           <Article Delete="false" Hide="false" Num="32">
             <ArticleCaption>（支持物の倒壊の防止）</ArticleCaption>
             <ArticleTitle>第三十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">架空電線路又は架空電車線路の支持物の材料及び構造（支線を施設する場合は、当該支線に係るものを含む。）は、その支持物が支持する電線等による引張荷重、十分間平均で風速四十メートル毎秒の風圧荷重及び当該設置場所において通常想定される地理的条件、気象の変化、振動、衝撃その他の外部環境の影響を考慮し、倒壊のおそれがないよう、安全なものでなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、人家が多く連なっている場所に施設する架空電線路にあっては、その施設場所を考慮して施設する場合は、十分間平均で風速四十メートル毎秒の風圧荷重の二分の一の風圧荷重を考慮して施設することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">架空電線路の支持物は、構造上安全なものとすること等により連鎖的に倒壊のおそれがないように施設しなければならない。</Sentence>
@@ -856,7 +856,7 @@
           <Article Delete="false" Hide="false" Num="33">
             <ArticleCaption>（ガス絶縁機器等の危険の防止）</ArticleCaption>
             <ArticleTitle>第三十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">発電所又は変電所、開閉所若しくはこれらに準ずる場所に施設するガス絶縁機器（充電部分が圧縮絶縁ガスにより絶縁された電気機械器具をいう。以下同じ。）及び開閉器又は遮断器に使用する圧縮空気装置は、次の各号により施設しなければならない。</Sentence>
@@ -902,7 +902,7 @@
           <Article Delete="false" Hide="false" Num="34">
             <ArticleCaption>（加圧装置の施設）</ArticleCaption>
             <ArticleTitle>第三十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">圧縮ガスを使用してケーブルに圧力を加える装置は、次の各号により施設しなければならない。</Sentence>
@@ -930,7 +930,7 @@
           <Article Delete="false" Hide="false" Num="35">
             <ArticleCaption>（水素冷却式発電機等の施設）</ArticleCaption>
             <ArticleTitle>第三十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">水素冷却式の発電機若しくは調相設備又はこれに附属する水素冷却装置は、次の各号により施設しなければならない。</Sentence>
@@ -973,7 +973,7 @@
           <Article Delete="false" Hide="false" Num="36">
             <ArticleCaption>（油入開閉器等の施設制限）</ArticleCaption>
             <ArticleTitle>第三十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">絶縁油を使用する開閉器、断路器及び遮断器は、架空電線路の支持物に施設してはならない。</Sentence>
@@ -983,7 +983,7 @@
           <Article Delete="false" Hide="false" Num="37">
             <ArticleCaption>（屋内電線路等の施設の禁止）</ArticleCaption>
             <ArticleTitle>第三十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">屋内を貫通して施設する電線路、屋側に施設する電線路、屋上に施設する電線路又は地上に施設する電線路は、当該電線路より電気の供給を受ける者以外の者の構内に施設してはならない。</Sentence>
@@ -994,7 +994,7 @@
           <Article Delete="false" Hide="false" Num="38">
             <ArticleCaption>（連接引込線の禁止）</ArticleCaption>
             <ArticleTitle>第三十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">高圧又は特別高圧の連接引込線は、施設してはならない。</Sentence>
@@ -1005,7 +1005,7 @@
           <Article Delete="false" Hide="false" Num="39">
             <ArticleCaption>（電線路のがけへの施設の禁止）</ArticleCaption>
             <ArticleTitle>第三十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">電線路は、がけに施設してはならない。</Sentence>
@@ -1016,7 +1016,7 @@
           <Article Delete="false" Hide="false" Num="40">
             <ArticleCaption>（特別高圧架空電線路の市街地等における施設の禁止）</ArticleCaption>
             <ArticleTitle>第四十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">特別高圧の架空電線路は、その電線がケーブルである場合を除き、市街地その他人家の密集する地域に施設してはならない。</Sentence>
@@ -1027,7 +1027,7 @@
           <Article Delete="false" Hide="false" Num="41">
             <ArticleCaption>（市街地に施設する電力保安通信線の特別高圧電線に添架する電力保安通信線との接続の禁止）</ArticleCaption>
             <ArticleTitle>第四十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">市街地に施設する電力保安通信線は、特別高圧の電線路の支持物に添架された電力保安通信線と接続してはならない。</Sentence>
@@ -1041,13 +1041,13 @@
           <Article Delete="false" Hide="false" Num="42">
             <ArticleCaption>（通信障害の防止）</ArticleCaption>
             <ArticleTitle>第四十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">電線路又は電車線路は、無線設備の機能に継続的かつ重大な障害を及ぼす電波を発生するおそれがないように施設しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">電線路又は電車線路は、弱電流電線路に対し、誘導作用により通信上の障害を及ぼさないように施設しなければならない。</Sentence>
@@ -1058,7 +1058,7 @@
           <Article Delete="false" Hide="false" Num="43">
             <ArticleCaption>（地球磁気観測所等に対する障害の防止）</ArticleCaption>
             <ArticleTitle>第四十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">直流の電線路、電車線路及び帰線は、地球磁気観測所又は地球電気観測所に対して観測上の障害を及ぼさないように施設しなければならない。</Sentence>
@@ -1071,13 +1071,13 @@
           <Article Delete="false" Hide="false" Num="44">
             <ArticleCaption>（発変電設備等の損傷による供給支障の防止）</ArticleCaption>
             <ArticleTitle>第四十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">発電機、燃料電池又は常用電源として用いる蓄電池には、当該電気機械器具を著しく損壊するおそれがあり、又は一般送配電事業に係る電気の供給に著しい支障を及ぼすおそれがある異常が当該電気機械器具に生じた場合に自動的にこれを電路から遮断する装置を施設しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">特別高圧の変圧器又は調相設備には、当該電気機械器具を著しく損壊するおそれがあり、又は一般送配電事業に係る電気の供給に著しい支障を及ぼすおそれがある異常が当該電気機械器具に生じた場合に自動的にこれを電路から遮断する装置の施設その他の適切な措置を講じなければならない。</Sentence>
@@ -1087,19 +1087,19 @@
           <Article Delete="false" Hide="false" Num="45">
             <ArticleCaption>（発電機等の機械的強度）</ArticleCaption>
             <ArticleTitle>第四十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">発電機、変圧器、調相設備並びに母線及びこれを支持するがいしは、短絡電流により生ずる機械的衝撃に耐えるものでなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">水車又は風車に接続する発電機の回転する部分は、負荷を遮断した場合に起こる速度に対し、蒸気タービン、ガスタービン又は内燃機関に接続する発電機の回転する部分は、非常調速装置及びその他の非常停止装置が動作して達する速度に対し、耐えるものでなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">発電用火力設備に関する技術基準を定める省令（平成九年通商産業省令第五十一号）第十三条第二項の規定は、蒸気タービンに接続する発電機について準用する。</Sentence>
@@ -1109,13 +1109,13 @@
           <Article Delete="false" Hide="false" Num="46">
             <ArticleCaption>（常時監視をしない発電所等の施設）</ArticleCaption>
             <ArticleTitle>第四十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">異常が生じた場合に人体に危害を及ぼし、若しくは物件に損傷を与えるおそれがないよう、異常の状態に応じた制御が必要となる発電所、又は一般送配電事業に係る電気の供給に著しい支障を及ぼすおそれがないよう、異常を早期に発見する必要のある発電所であって、発電所の運転に必要な知識及び技能を有する者が当該発電所又はこれと同一の構内において常時監視をしないものは、施設してはならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項に掲げる発電所以外の発電所又は変電所（これに準ずる場所であって、十万ボルトを超える特別高圧の電気を変成するためのものを含む。以下この条において同じ。）であって、発電所又は変電所の運転に必要な知識及び技能を有する者が当該発電所若しくはこれと同一の構内又は変電所において常時監視をしない発電所又は変電所は、非常用予備電源を除き、異常が生じた場合に安全かつ確実に停止することができるような措置を講じなければならない。</Sentence>
@@ -1125,13 +1125,13 @@
           <Article Delete="false" Hide="false" Num="47">
             <ArticleCaption>（地中電線路の保護）</ArticleCaption>
             <ArticleTitle>第四十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">地中電線路は、車両その他の重量物による圧力に耐え、かつ、当該地中電線路を埋設している旨の表示等により掘削工事からの影響を受けないように施設しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">地中電線路のうちその内部で作業が可能なものには、防火措置を講じなければならない。</Sentence>
@@ -1141,20 +1141,20 @@
           <Article Delete="false" Hide="false" Num="48">
             <ArticleCaption>（特別高圧架空電線路の供給支障の防止）</ArticleCaption>
             <ArticleTitle>第四十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">使用電圧が十七万ボルト以上の特別高圧架空電線路は、市街地その他人家の密集する地域に施設してはならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該地域からの火災による当該電線路の損壊によって一般送配電事業に係る電気の供給に著しい支障を及ぼすおそれがないように施設する場合は、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">使用電圧が十七万ボルト以上の特別高圧架空電線と建造物との水平距離は、当該建造物からの火災による当該電線の損壊等によって一般送配電事業に係る電気の供給に著しい支障を及ぼすおそれがないよう、三メートル以上としなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">使用電圧が十七万ボルト以上の特別高圧架空電線が、建造物、道路、歩道橋その他の工作物の下方に施設されるときの相互の水平離隔距離は、当該工作物の倒壊等による当該電線の損壊によって一般送配電事業に係る電気の供給に著しい支障を及ぼすおそれがないよう、三メートル以上としなければならない。</Sentence>
@@ -1164,7 +1164,7 @@
           <Article Delete="false" Hide="false" Num="49">
             <ArticleCaption>（高圧及び特別高圧の電路の避雷器等の施設）</ArticleCaption>
             <ArticleTitle>第四十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">雷電圧による電路に施設する電気設備の損壊を防止できるよう、当該電路中次の各号に掲げる箇所又はこれに近接する箇所には、避雷器の施設その他の適切な措置を講じなければならない。</Sentence>
@@ -1193,13 +1193,13 @@
           <Article Delete="false" Hide="false" Num="50">
             <ArticleCaption>（電力保安通信設備の施設）</ArticleCaption>
             <ArticleTitle>第五十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">発電所、変電所、開閉所、給電所（電力系統の運用に関する指令を行う所をいう。）、技術員駐在所その他の箇所であって、一般送配電事業に係る電気の供給に対する著しい支障を防ぎ、かつ、保安を確保するために必要なものの相互間には、電力保安通信用電話設備を施設しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">電力保安通信線は、機械的衝撃、火災等により通信の機能を損なうおそれがないように施設しなければならない。</Sentence>
@@ -1209,7 +1209,7 @@
           <Article Delete="false" Hide="false" Num="51">
             <ArticleCaption>（災害時における通信の確保）</ArticleCaption>
             <ArticleTitle>第五十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">電力保安通信設備に使用する無線通信用アンテナ又は反射板（以下この条において「無線用アンテナ等」という。）を施設する支持物の材料及び構造は、十分間平均で風速四十メートル毎秒の風圧荷重を考慮し、倒壊により通信の機能を損なうおそれがないように施設しなければならない。</Sentence>
@@ -1223,26 +1223,26 @@
           <Article Delete="false" Hide="false" Num="52">
             <ArticleCaption>（電車線路の施設制限）</ArticleCaption>
             <ArticleTitle>第五十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">直流の電車線路の使用電圧は、低圧又は高圧としなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">交流の電車線路の使用電圧は、二万五千ボルト以下としなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">電車線路は、電気鉄道の専用敷地内に施設しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、感電のおそれがない場合は、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の専用敷地は、電車線路が、サードレール式である場合等人がその敷地内に立ち入った場合に感電のおそれがあるものである場合には、高架鉄道等人が容易に立ち入らないものでなければならない。</Sentence>
@@ -1252,13 +1252,13 @@
           <Article Delete="false" Hide="false" Num="53">
             <ArticleCaption>（架空絶縁帰線等の施設）</ArticleCaption>
             <ArticleTitle>第五十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第二十条、第二十一条第一項、第二十五条第一項、第二十六条第二項、第二十八条、第二十九条、第三十二条、第三十六条、第三十八条及び第四十一条の規定は、架空絶縁帰線に準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第六条、第七条、第十条、第十一条、第二十五条、第二十六条、第二十八条、第二十九条、第三十二条第一項及び第四十二条第二項の規定は、架空で施設する排流線に準用する。</Sentence>
@@ -1268,7 +1268,7 @@
           <Article Delete="false" Hide="false" Num="54">
             <ArticleCaption>（電食作用による障害の防止）</ArticleCaption>
             <ArticleTitle>第五十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">直流帰線は、漏れ電流によって生じる電食作用による障害のおそれがないように施設しなければならない。</Sentence>
@@ -1278,7 +1278,7 @@
           <Article Delete="false" Hide="false" Num="55">
             <ArticleCaption>（電圧不平衡による障害の防止）</ArticleCaption>
             <ArticleTitle>第五十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">交流式電気鉄道は、その単相負荷による電圧不平衡により、交流式電気鉄道の変電所の変圧器に接続する電気事業の用に供する発電機、調相設備、変圧器その他の電気機械器具に障害を及ぼさないように施設しなければならない。</Sentence>
@@ -1294,19 +1294,19 @@
           <Article Delete="false" Hide="false" Num="56">
             <ArticleCaption>（配線の感電又は火災の防止）</ArticleCaption>
             <ArticleTitle>第五十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">配線は、施設場所の状況及び電圧に応じ、感電又は火災のおそれがないように施設しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">移動電線を電気機械器具と接続する場合は、接続不良による感電又は火災のおそれがないように施設しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">特別高圧の移動電線は、第一項及び前項の規定にかかわらず、施設してはならない。</Sentence>
@@ -1317,20 +1317,20 @@
           <Article Delete="false" Hide="false" Num="57">
             <ArticleCaption>（配線の使用電線）</ArticleCaption>
             <ArticleTitle>第五十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">配線の使用電線（裸電線及び特別高圧で使用する接触電線を除く。）には、感電又は火災のおそれがないよう、施設場所の状況及び電圧に応じ、使用上十分な強度及び絶縁性能を有するものでなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">配線には、裸電線を使用してはならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、施設場所の状況及び電圧に応じ、使用上十分な強度を有し、かつ、絶縁性がないことを考慮して、配線が感電又は火災のおそれがないように施設する場合は、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">特別高圧の配線には、接触電線を使用してはならない。</Sentence>
@@ -1340,7 +1340,7 @@
           <Article Delete="false" Hide="false" Num="58">
             <ArticleCaption>（低圧の電路の絶縁性能）</ArticleCaption>
             <ArticleTitle>第五十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">電気使用場所における使用電圧が低圧の電路の電線相互間及び電路と大地との間の絶縁抵抗は、開閉器又は過電流遮断器で区切ることのできる電路ごとに、次の表の上欄に掲げる電路の使用電圧の区分に応じ、それぞれ同表の下欄に掲げる値以上でなければならない。</Sentence>
@@ -1389,14 +1389,14 @@
           <Article Delete="false" Hide="false" Num="59">
             <ArticleCaption>（電気使用場所に施設する電気機械器具の感電、火災等の防止）</ArticleCaption>
             <ArticleTitle>第五十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">電気使用場所に施設する電気機械器具は、充電部の露出がなく、かつ、人体に危害を及ぼし、又は火災が発生するおそれがある発熱がないように施設しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、電気機械器具を使用するために充電部の露出又は発熱体の施設が必要不可欠である場合であって、感電その他人体に危害を及ぼし、又は火災が発生するおそれがないように施設する場合は、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">燃料電池発電設備が一般用電気工作物である場合には、運転状態を表示する装置を施設しなければならない。</Sentence>
@@ -1406,7 +1406,7 @@
           <Article Delete="false" Hide="false" Num="60">
             <ArticleCaption>（特別高圧の電気集じん応用装置等の施設の禁止）</ArticleCaption>
             <ArticleTitle>第六十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">使用電圧が特別高圧の電気集じん装置、静電塗装装置、電気脱水装置、電気選別装置その他の電気集じん応用装置及びこれに特別高圧の電気を供給するための電気設備は、第五十六条及び前条の規定にかかわらず、屋側又は屋外には、施設してはならない。</Sentence>
@@ -1417,7 +1417,7 @@
           <Article Delete="false" Hide="false" Num="61">
             <ArticleCaption>（非常用予備電源の施設）</ArticleCaption>
             <ArticleTitle>第六十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">常用電源の停電時に使用する非常用予備電源（需要場所に施設するものに限る。）は、需要場所以外の場所に施設する電路であって、常用電源側のものと電気的に接続しないように施設しなければならない。</Sentence>
@@ -1430,13 +1430,13 @@
           <Article Delete="false" Hide="false" Num="62">
             <ArticleCaption>（配線による他の配線等又は工作物への危険の防止）</ArticleCaption>
             <ArticleTitle>第六十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">配線は、他の配線、弱電流電線等と接近し、又は交さする場合は、混触による感電又は火災のおそれがないように施設しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">配線は、水道管、ガス管又はこれらに類するものと接近し、又は交さする場合は、放電によりこれらの工作物を損傷するおそれがなく、かつ、漏電又は放電によりこれらの工作物を介して感電又は火災のおそれがないように施設しなければならない。</Sentence>
@@ -1449,14 +1449,14 @@
           <Article Delete="false" Hide="false" Num="63">
             <ArticleCaption>（過電流からの低圧幹線等の保護措置）</ArticleCaption>
             <ArticleTitle>第六十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">低圧の幹線、低圧の幹線から分岐して電気機械器具に至る低圧の電路及び引込口から低圧の幹線を経ないで電気機械器具に至る低圧の電路（以下この条において「幹線等」という。）には、適切な箇所に開閉器を施設するとともに、過電流が生じた場合に当該幹線等を保護できるよう、過電流遮断器を施設しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該幹線等における短絡事故により過電流が生じるおそれがない場合は、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">交通信号灯、出退表示灯その他のその損傷により公共の安全の確保に支障を及ぼすおそれがあるものに電気を供給する電路には、過電流による過熱焼損からそれらの電線及び電気機械器具を保護できるよう、過電流遮断器を施設しなければならない。</Sentence>
@@ -1466,7 +1466,7 @@
           <Article Delete="false" Hide="false" Num="64">
             <ArticleCaption>（地絡に対する保護措置）</ArticleCaption>
             <ArticleTitle>第六十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">ロードヒーティング等の電熱装置、プール用水中照明灯その他の一般公衆の立ち入るおそれがある場所又は絶縁体に損傷を与えるおそれがある場所に施設するものに電気を供給する電路には、地絡が生じた場合に、感電又は火災のおそれがないよう、地絡遮断器の施設その他の適切な措置を講じなければならない。</Sentence>
@@ -1476,7 +1476,7 @@
           <Article Delete="false" Hide="false" Num="65">
             <ArticleCaption>（電動機の過負荷保護）</ArticleCaption>
             <ArticleTitle>第六十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">屋内に施設する電動機（出力が〇・二キロワット以下のものを除く。この条において同じ。）には、過電流による当該電動機の焼損により火災が発生するおそれがないよう、過電流遮断器の施設その他の適切な措置を講じなければならない。</Sentence>
@@ -1487,13 +1487,13 @@
           <Article Delete="false" Hide="false" Num="66">
             <ArticleCaption>（異常時における高圧の移動電線及び接触電線における電路の遮断）</ArticleCaption>
             <ArticleTitle>第六十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">高圧の移動電線又は接触電線（電車線を除く。以下同じ。）に電気を供給する電路には、過電流が生じた場合に、当該高圧の移動電線又は接触電線を保護できるよう、過電流遮断器を施設しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の電路には、地絡が生じた場合に、感電又は火災のおそれがないよう、地絡遮断器の施設その他の適切な措置を講じなければならない。</Sentence>
@@ -1506,7 +1506,7 @@
           <Article Delete="false" Hide="false" Num="67">
             <ArticleCaption>（電気機械器具又は接触電線による無線設備への障害の防止）</ArticleCaption>
             <ArticleTitle>第六十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">電気使用場所に施設する電気機械器具又は接触電線は、電波、高周波電流等が発生することにより、無線設備の機能に継続的かつ重大な障害を及ぼすおそれがないように施設しなければならない。</Sentence>
@@ -1519,7 +1519,7 @@
           <Article Delete="false" Hide="false" Num="68">
             <ArticleCaption>（粉じんにより絶縁性能等が劣化することによる危険のある場所における施設）</ArticleCaption>
             <ArticleTitle>第六十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">粉じんの多い場所に施設する電気設備は、粉じんによる当該電気設備の絶縁性能又は導電性能が劣化することに伴う感電又は火災のおそれがないように施設しなければならない。</Sentence>
@@ -1529,7 +1529,7 @@
           <Article Delete="false" Hide="false" Num="69">
             <ArticleCaption>（可燃性のガス等により爆発する危険のある場所における施設の禁止）</ArticleCaption>
             <ArticleTitle>第六十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">次の各号に掲げる場所に施設する電気設備は、通常の使用状態において、当該電気設備が点火源となる爆発又は火災のおそれがないように施設しなければならない。</Sentence>
@@ -1563,7 +1563,7 @@
           <Article Delete="false" Hide="false" Num="70">
             <ArticleCaption>（腐食性のガス等により絶縁性能等が劣化することによる危険のある場所における施設）</ArticleCaption>
             <ArticleTitle>第七十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">腐食性のガス又は溶液の発散する場所（酸類、アルカリ類、塩素酸カリ、さらし粉、染料若しくは人造肥料の製造工場、銅、亜鉛等の製錬所、電気分銅所、電気めっき工場、開放形蓄電池を設置した蓄電池室又はこれらに類する場所をいう。）に施設する電気設備には、腐食性のガス又は溶液による当該電気設備の絶縁性能又は導電性能が劣化することに伴う感電又は火災のおそれがないよう、予防措置を講じなければならない。</Sentence>
@@ -1573,7 +1573,7 @@
           <Article Delete="false" Hide="false" Num="71">
             <ArticleCaption>（火薬庫内における電気設備の施設の禁止）</ArticleCaption>
             <ArticleTitle>第七十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">照明のための電気設備（開閉器及び過電流遮断器を除く。）以外の電気設備は、第六十九条の規定にかかわらず、火薬庫内には、施設してはならない。</Sentence>
@@ -1584,7 +1584,7 @@
           <Article Delete="false" Hide="false" Num="72">
             <ArticleCaption>（特別高圧の電気設備の施設の禁止）</ArticleCaption>
             <ArticleTitle>第七十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">特別高圧の電気設備は、第六十八条及び第六十九条の規定にかかわらず、第六十八条及び第六十九条各号に規定する場所には、施設してはならない。</Sentence>
@@ -1595,20 +1595,20 @@
           <Article Delete="false" Hide="false" Num="73">
             <ArticleCaption>（接触電線の危険場所への施設の禁止）</ArticleCaption>
             <ArticleTitle>第七十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">接触電線は、第六十九条の規定にかかわらず、同条各号に規定する場所には、施設してはならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">接触電線は、第六十八条の規定にかかわらず、同条に規定する場所には、施設してはならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、展開した場所において、低圧の接触電線及びその周囲に粉じんが集積することを防止するための措置を講じ、かつ、綿、麻、絹その他の燃えやすい繊維の粉じんが存在する場所にあっては、低圧の接触電線と当該接触電線に接触する集電装置とが使用状態において離れ難いように施設する場合は、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">高圧接触電線は、第七十条の規定にかかわらず、同条に規定する場所には、施設してはならない。</Sentence>
@@ -1621,7 +1621,7 @@
           <Article Delete="false" Hide="false" Num="74">
             <ArticleCaption>（電気さくの施設の禁止）</ArticleCaption>
             <ArticleTitle>第七十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">電気さく（屋外において裸電線を固定して施設したさくであって、その裸電線に充電して使用するものをいう。）は、施設してはならない。</Sentence>
@@ -1632,7 +1632,7 @@
           <Article Delete="false" Hide="false" Num="75">
             <ArticleCaption>（電撃殺虫器、エックス線発生装置の施設場所の禁止）</ArticleCaption>
             <ArticleTitle>第七十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">電撃殺虫器又はエックス線発生装置は、第六十八条から第七十条までに規定する場所には、施設してはならない。</Sentence>
@@ -1642,7 +1642,7 @@
           <Article Delete="false" Hide="false" Num="76">
             <ArticleCaption>（パイプライン等の電熱装置の施設の禁止）</ArticleCaption>
             <ArticleTitle>第七十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">パイプライン等（導管等により液体の輸送を行う施設の総体をいう。）に施設する電熱装置は、第六十八条から第七十条までに規定する場所には、施設してはならない。</Sentence>
@@ -1653,7 +1653,7 @@
           <Article Delete="false" Hide="false" Num="77">
             <ArticleCaption>（電気浴器、銀イオン殺菌装置の施設）</ArticleCaption>
             <ArticleTitle>第七十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">電気浴器（浴槽の両端に板状の電極を設け、その電極相互間に微弱な交流電圧を加えて入浴者に電気的刺激を与える装置をいう。）又は銀イオン殺菌装置（浴槽内に電極を収納したイオン発生器を設け、その電極相互間に微弱な直流電圧を加えて銀イオンを発生させ、これにより殺菌する装置をいう。）は、第五十九条の規定にかかわらず、感電による人体への危害又は火災のおそれがない場合に限り、施設することができる。</Sentence>
@@ -1663,7 +1663,7 @@
           <Article Delete="false" Hide="false" Num="78">
             <ArticleCaption>（電気防食施設の施設）</ArticleCaption>
             <ArticleTitle>第七十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">電気防食施設は、他の工作物に電食作用による障害を及ぼすおそれがないように施設しなければならない。</Sentence>
@@ -1675,74 +1675,74 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成九年六月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この省令の施行の際現に設置され、又は設置のための工事に着手している電気工作物については、なお従前の例による。</Sentence>
           <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、この省令の施行の際現に設置され、又は設置のための工事に着手しているもののうち、別に告示する電気工作物であって、ポリ塩化ビフェニルを含有する絶縁油（当該絶縁油に含まれるポリ塩化ビフェニルの重量の割合が〇・五パーセントを超えるものに限る。）を使用するものについては、別に告示する期限（以下この項において単に「期限」という。）の翌日（期限から一年を超えない期間に当該電気工作物を廃止することが明らかな場合は、期限から一年を経過した日）以後、第十九条第十四項の規定を適用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">改正前の電気設備に関する技術基準を定める省令中深海底鉱山保安規則（昭和五十七年通商産業省令第三十五号）又は鉱山保安規則（平成六年通商産業省令第十三号）の規定により準用され、又はその例によるものとされているものについては、その範囲内において、なお当分の間その例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年六月三〇日通商産業省令第一二二号">
+    <SupplProvision AmendLawId="412122" AmendLawNum="平成一二年六月三〇日通商産業省令第一二二号" Id="f84b5016-1916-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十二年七月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年九月二〇日通商産業省令第一八九号">
+    <SupplProvision AmendLawId="412189" AmendLawNum="平成一二年九月二〇日通商産業省令第一八九号" Id="f8799d72-1916-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年三月二一日経済産業省令第二七号">
+    <SupplProvision AmendLawId="413027" AmendLawNum="平成一三年三月二一日経済産業省令第二七号" Id="f8a7ec36-1916-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十三年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年六月二九日経済産業省令第一八〇号">
+    <SupplProvision AmendLawId="413180" AmendLawNum="平成一三年六月二九日経済産業省令第一八〇号" Id="f8d646ee-1916-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十三年七月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年七月二二日経済産業省令第七九号">
+    <SupplProvision AmendLawId="416079" AmendLawNum="平成一六年七月二二日経済産業省令第七九号" Id="f904a674-1916-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年三月一〇日経済産業省令第一八号">
+    <SupplProvision AmendLawId="417018" AmendLawNum="平成一七年三月一〇日経済産業省令第一八号" Id="f9330c9e-1916-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
@@ -1750,21 +1750,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一九年三月二八日経済産業省令第二一号">
+    <SupplProvision AmendLawId="419021" AmendLawNum="平成一九年三月二八日経済産業省令第二一号" Id="f96150ea-1916-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二〇年四月七日経済産業省令第三一号" Extract="true">
+    <SupplProvision AmendLawId="420031" AmendLawNum="平成二〇年四月七日経済産業省令第三一号" Extract="true" Id="f5081788-1888-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成二十年五月一日から施行する。</Sentence>
@@ -1772,18 +1772,18 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二三年三月三一日経済産業省令第一四号">
+    <SupplProvision AmendLawId="423014" AmendLawNum="平成二三年三月三一日経済産業省令第一四号" Id="f5e7fcf4-1888-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十三年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二三年三月三一日経済産業省令第一五号">
+    <SupplProvision AmendLawId="423015" AmendLawNum="平成二三年三月三一日経済産業省令第一五号" Id="f9ebfe70-1916-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、平成二十三年十月一日から施行する。</Sentence>
@@ -1791,12 +1791,12 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二四年六月一日経済産業省令第四四号">
+    <SupplProvision AmendLawId="424044" AmendLawNum="平成二四年六月一日経済産業省令第四四号" Id="f6452ef6-1888-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成二十四年六月一日から施行する。</Sentence>
@@ -1806,7 +1806,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の際現に発電所又は変電所、開閉所若しくはこれらに準ずる場所に設置している水質汚濁防止法（昭和四十五年法律第百三十八号）第二条第八項に規定する有害物質使用特定施設（同法第五条第二項に該当する場合を除き、設置の工事をしている場合を含む。）及び同法第五条第三項に規定する有害物質貯蔵指定施設（設置の工事をしている場合を含む。）については、この省令の施行の日から起算して三年を経過するまでの間は、この省令による改正後の電気設備に関する技術基準を定める省令第十九条第五項及び第六項の規定は、適用しない。</Sentence>
@@ -1814,43 +1814,43 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二四年七月二日経済産業省令第四八号">
+    <SupplProvision AmendLawId="424048" AmendLawNum="平成二四年七月二日経済産業省令第四八号" Id="fa48add2-1916-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十四年八月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二四年九月一四日経済産業省令第六八号">
+    <SupplProvision AmendLawId="424068" AmendLawNum="平成二四年九月一四日経済産業省令第六八号" Id="feb53586-d3b2-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、原子力規制委員会設置法の施行の日（平成二十四年九月十九日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二八年三月二三日経済産業省令第二七号">
+    <SupplProvision AmendLawId="428027" AmendLawNum="平成二八年三月二三日経済産業省令第二七号" Id="afba682c-1886-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、電気事業法等の一部を改正する法律の施行の日（平成二十八年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二八年九月二三日経済産業省令第九一号" Extract="true">
+    <SupplProvision AmendLawId="428091" AmendLawNum="平成二八年九月二三日経済産業省令第九一号" Extract="true" Id="fad38740-1916-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十八年九月二十四日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="4">
+      <Paragraph Hide="false" Num="4" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>４</ParagraphNum>
         <ParagraphSentence>
@@ -1858,19 +1858,19 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二九年三月三一日経済産業省令第三二号" Extract="true">
+    <SupplProvision AmendLawId="429032" AmendLawNum="平成二九年三月三一日経済産業省令第三二号" Extract="true" Id="769823a2-d3b2-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、電気事業法等の一部を改正する等の法律（平成二十七年法律第四十七号）附則第一条第五号に掲げる規定の施行の日（平成二十九年四月一日）から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>

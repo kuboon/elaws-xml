@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200514e03k04m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="003" Year="13">
+<Law AmendmentId="502M60000010011" AmendmentNum="令和二年法務省令第十一号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="003" Year="13">
   <LawNum>平成十三年法務省令第三号</LawNum>
   <LawBody>
     <LawTitle>刑務所、少年刑務所及び拘置所組織規則</LawTitle>
@@ -10,7 +10,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（名称及び位置）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">刑務所、少年刑務所及び拘置所（以下「刑務所等」という。）の名称及び位置は、別表第一のとおりとする。</Sentence>
@@ -20,13 +20,13 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（所長）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">刑務所等に、所長を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">所長は、刑務所等の事務を掌理する。</Sentence>
@@ -36,7 +36,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（刑務所等に置く部等）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次の表の上欄に掲げる刑務所等に、それぞれ同表の下欄に掲げる部及び室を置く。</Sentence>
@@ -142,7 +142,7 @@
             </Table>
           </TableStruct>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項に掲げる部及び室のほか、喜連川社会復帰促進センター、播磨社会復帰促進センター、島根あさひ社会復帰促進センター及び美祢社会復帰促進センターに、それぞれ更生支援企画官一人を置く。</Sentence>
@@ -152,7 +152,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（総務部の所掌事務）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">総務部は、次に掲げる事務をつかさどる。</Sentence>
@@ -234,7 +234,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（総務部に置く課及び所掌事務）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次の表の上欄に掲げる刑務所等の総務部に、同表の中欄に掲げる課を置き、これらの課の所掌事務は、それぞれ同表の下欄に掲げるとおりとする。</Sentence>
@@ -304,7 +304,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="6">
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -313,7 +313,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="7">
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -322,7 +322,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="8">
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -332,13 +332,13 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（総務部の調査官）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第五条に掲げる課のほか、東京拘置所の総務部に調査官二人を、栃木刑務所、喜連川社会復帰促進センター、東日本成人矯正医療センター、府中刑務所、川越少年刑務所、笠松刑務所、名古屋刑務所、大阪刑務所、加古川刑務所、播磨社会復帰促進センター、和歌山刑務所、島根あさひ社会復帰促進センター、岩国刑務所、美祢社会復帰促進センター、福岡刑務所、麓刑務所及び大阪拘置所の総務部にそれぞれ調査官一人を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">調査官は、命を受けて、総務部の所掌事務のうち特定事項に係るものを調査し、企画する事務をつかさどる。</Sentence>
@@ -348,7 +348,7 @@
       <Article Delete="false" Hide="false" Num="10">
         <ArticleCaption>（処遇部及び矯正処遇部の所掌事務）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">処遇部及び矯正処遇部は、次に掲げる事務をつかさどる。</Sentence>
@@ -388,13 +388,13 @@
       <Article Delete="false" Hide="false" Num="11">
         <ArticleCaption>（処遇部及び矯正処遇部の首席矯正処遇官）</ArticleCaption>
         <ArticleTitle>第十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">各処遇部（加古川刑務所及び長崎刑務所を除く。）及び播磨社会復帰促進センターの矯正処遇部にそれぞれ首席矯正処遇官二人を、喜連川社会復帰促進センター及び島根あさひ社会復帰促進センターの矯正処遇部にそれぞれ首席矯正処遇官四人を、加古川刑務所及び長崎刑務所の処遇部並びに美祢社会復帰促進センターの矯正処遇部にそれぞれ首席矯正処遇官三人を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次の表の上欄に掲げる刑務所等の処遇部又は矯正処遇部に置かれる首席矯正処遇官の事務の分担は、同表の中欄に掲げる担当区分のとおりとし、その所掌事務は、それぞれ同表の下欄に掲げるとおりとする。</Sentence>
@@ -611,13 +611,13 @@
       <Article Delete="false" Hide="false" Num="12">
         <ArticleCaption>（処遇部及び矯正処遇部の次席矯正処遇官）</ArticleCaption>
         <ArticleTitle>第十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">東京拘置所の処遇部に次席矯正処遇官二人を、宮城刑務所、千葉刑務所、府中刑務所、横浜刑務所、名古屋刑務所、京都刑務所、大阪刑務所、神戸刑務所、福岡刑務所及び大阪拘置所の処遇部並びに喜連川社会復帰促進センター及び島根あさひ社会復帰促進センターの矯正処遇部にそれぞれ次席矯正処遇官一人を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次席矯正処遇官は、命を受けて、処遇担当の首席矯正処遇官を助け、その事務のうち、所長の指定に係る事務を整理する。</Sentence>
@@ -627,7 +627,7 @@
       <Article Delete="false" Hide="false" Num="13">
         <ArticleCaption>（教育部の所掌事務）</ArticleCaption>
         <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">教育部は、改善指導、教科指導及び余暇活動に関する事務をつかさどる。</Sentence>
@@ -637,13 +637,13 @@
       <Article Delete="false" Hide="false" Num="14">
         <ArticleCaption>（教育部の首席矯正処遇官）</ArticleCaption>
         <ArticleTitle>第十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">教育部に、それぞれ首席矯正処遇官一人を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">教育部に置かれる首席矯正処遇官は、前条に規定する事務をつかさどる。</Sentence>
@@ -653,7 +653,7 @@
       <Article Delete="false" Hide="false" Num="15">
         <ArticleCaption>（分類審議室及び分類部の所掌事務）</ArticleCaption>
         <ArticleTitle>第十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">分類審議室及び分類部は、鑑別、分類、作業の指定並びに仮釈放及び仮出場の審査並びに保護に関する事務をつかさどる。</Sentence>
@@ -663,13 +663,13 @@
       <Article Delete="false" Hide="false" Num="16">
         <ArticleCaption>（分類審議室及び分類部の首席矯正処遇官）</ArticleCaption>
         <ArticleTitle>第十六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">分類審議室及び分類部に、それぞれ首席矯正処遇官一人を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">分類審議室又は分類部に置かれる首席矯正処遇官は、前条に規定する事務をつかさどる。</Sentence>
@@ -679,7 +679,7 @@
       <Article Delete="false" Hide="false" Num="17">
         <ArticleCaption>（分類教育部の所掌事務）</ArticleCaption>
         <ArticleTitle>第十七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">分類教育部は、第十三条及び第十五条に規定する事務をつかさどる。</Sentence>
@@ -689,13 +689,13 @@
       <Article Delete="false" Hide="false" Num="18">
         <ArticleCaption>（分類教育部の首席矯正処遇官）</ArticleCaption>
         <ArticleTitle>第十八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">分類教育部に、それぞれ首席矯正処遇官一人を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">分類教育部に置かれる首席矯正処遇官は、前条に規定する事務をつかさどる。</Sentence>
@@ -705,7 +705,7 @@
       <Article Delete="false" Hide="false" Num="19">
         <ArticleCaption>（国際対策室の所掌事務）</ArticleCaption>
         <ArticleTitle>第十九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">国際対策室は、外国人被収容者の処遇に関する翻訳及び通訳並びに外国人被収容者の処遇に関する調査及び関係機関との連絡調整に関する事務をつかさどる。</Sentence>
@@ -715,13 +715,13 @@
       <Article Delete="false" Hide="false" Num="20">
         <ArticleCaption>（国際対策室の首席矯正処遇官）</ArticleCaption>
         <ArticleTitle>第二十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">国際対策室に、それぞれ首席矯正処遇官一人を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">国際対策室に置かれる首席矯正処遇官は、前条に規定する事務をつかさどる。</Sentence>
@@ -731,7 +731,7 @@
       <Article Delete="false" Hide="false" Num="21">
         <ArticleCaption>（医務部及び医療部の所掌事務）</ArticleCaption>
         <ArticleTitle>第二十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">医務部及び医療部は、保健、衛生、防疫、医療及び薬剤に関する事務（准看護師養成部の所掌に属するものを除く。）をつかさどる。</Sentence>
@@ -741,7 +741,7 @@
       <Article Delete="false" Hide="false" Num="22">
         <ArticleCaption>（医務部及び医療部に置く課並びに所掌事務）</ArticleCaption>
         <ArticleTitle>第二十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次の表の上欄に掲げる刑務所等の医務部及び医療部に、同表の中欄に掲げる課を置き、これらの課の所掌事務は、それぞれ同表の下欄に掲げるとおりとする。</Sentence>
@@ -976,7 +976,7 @@
       <Article Delete="false" Hide="false" Num="22_2">
         <ArticleCaption>（医療第一部の所掌事務）</ArticleCaption>
         <ArticleTitle>第二十二条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">医療第一部は、第二十一条に規定する事務（医療第二部の所掌に属するものを除く。）をつかさどる。</Sentence>
@@ -986,7 +986,7 @@
       <Article Delete="false" Hide="false" Num="22_3">
         <ArticleCaption>（医療第一部に置く課及び所掌事務）</ArticleCaption>
         <ArticleTitle>第二十二条の三</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次の表の上欄に掲げる刑務所の医療第一部に、同表の中欄に掲げる課を置き、これらの課の所掌事務は、それぞれ同表の下欄に掲げるとおりとする。</Sentence>
@@ -1048,7 +1048,7 @@
       <Article Delete="false" Hide="false" Num="22_5">
         <ArticleCaption>（医療第二部に置く課及び所掌事務）</ArticleCaption>
         <ArticleTitle>第二十二条の五</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次の表の上欄に掲げる刑務所の医療第二部に、同表の中欄に掲げる課を置き、これらの課の所掌事務は、それぞれ同表の下欄に掲げるとおりとする。</Sentence>
@@ -1163,7 +1163,7 @@
       <Article Delete="false" Hide="false" Num="23_2">
         <ArticleCaption>（准看護師養成部の所掌事務）</ArticleCaption>
         <ArticleTitle>第二十三条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">准看護師養成部は、准看護師の養成並びにこれに係る保健、衛生、防疫、医療及び薬剤に関する事務をつかさどる。</Sentence>
@@ -1173,7 +1173,7 @@
       <Article Delete="false" Hide="false" Num="24">
         <ArticleCaption>（更生支援企画官の職務）</ArticleCaption>
         <ArticleTitle>第二十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">更生支援企画官は、命を受けて、刑務所等の所掌事務のうち特定事項に係るものを調査し、企画する事務をつかさどる。</Sentence>
@@ -1183,7 +1183,7 @@
       <Article Delete="false" Hide="false" Num="25">
         <ArticleCaption>（所長の代理）</ArticleCaption>
         <ArticleTitle>第二十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">総務部長は、所長に事故のあるとき、又は所長が欠けたときは、その職務を代理する。</Sentence>
@@ -1193,7 +1193,7 @@
       <Article Delete="false" Hide="false" Num="26">
         <ArticleCaption>（支所の名称及び位置）</ArticleCaption>
         <ArticleTitle>第二十六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">刑務所等の支所の名称及び位置は、別表第二のとおりとする。</Sentence>
@@ -1203,7 +1203,7 @@
       <Article Delete="false" Hide="false" Num="27">
         <ArticleCaption>（支所長）</ArticleCaption>
         <ArticleTitle>第二十七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">支所に、支所長を置く。</Sentence>
@@ -1213,13 +1213,13 @@
       <Article Delete="false" Hide="false" Num="28">
         <ArticleCaption>（支所の次長）</ArticleCaption>
         <ArticleTitle>第二十八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">札幌刑務支所、札幌拘置支所、釧路刑務支所、福島刑務支所、横須賀刑務支所、横浜拘置支所、豊橋刑務支所、尾道刑務支所、さいたま拘置支所及び小倉拘置支所に、それぞれ次長一人を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次長は、支所長を助け、支所の事務を整理する。</Sentence>
@@ -1229,7 +1229,7 @@
       <Article Delete="false" Hide="false" Num="29">
         <ArticleCaption>（支所に置く課及び所掌事務）</ArticleCaption>
         <ArticleTitle>第二十九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次の表の上欄に掲げる支所に、同表の中欄に掲げる課を置き、これらの課の所掌事務は、それぞれ同表の下欄に掲げるとおりとする。</Sentence>
@@ -1286,19 +1286,19 @@
       <Article Delete="false" Hide="false" Num="30">
         <ArticleCaption>（支所の首席矯正処遇官）</ArticleCaption>
         <ArticleTitle>第三十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前条に掲げる課のほか、札幌刑務支所及び福島刑務支所にそれぞれ首席矯正処遇官二人を、札幌拘置支所、釧路刑務支所、仙台拘置支所、横須賀刑務支所、横浜拘置支所、豊橋刑務支所及び小倉拘置支所にそれぞれ首席矯正処遇官一人を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">支所の首席矯正処遇官（札幌刑務支所及び福島刑務支所に置かれるものを除く。）は、第十条各号に掲げる事務をつかさどる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">札幌刑務支所及び福島刑務支所の首席矯正処遇官二人は、それぞれ処遇担当及び企画担当とし、処遇担当の首席矯正処遇官は第十条第一号及び第五号に掲げる事務を、企画担当の首席矯正処遇官は同条第二号から第四号までに掲げる事務をつかさどる。</Sentence>
@@ -1308,13 +1308,13 @@
       <Article Delete="false" Hide="false" Num="31">
         <ArticleCaption>（統括矯正処遇官）</ArticleCaption>
         <ArticleTitle>第三十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">刑務所等及びそれらの支所を通じて統括矯正処遇官六百二十八人以内を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">統括矯正処遇官の配置及び事務の担当区分並びに統括矯正処遇官が分担する所掌事務の範囲は、法務大臣が定める。</Sentence>
@@ -1324,13 +1324,13 @@
       <Article Delete="false" Hide="false" Num="32">
         <ArticleCaption>（雑則）</ArticleCaption>
         <ArticleTitle>第三十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令に定めるもののほか、刑務所等に関し必要な事項は、所長が定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">所長は、前項の規定に基づき、事務分掌その他組織の細目を定めようとするときは、法務大臣の承認を受けなければならない。</Sentence>
@@ -1340,14 +1340,14 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この中央省庁等改革推進本部令（次項において「本部令」という。）は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（この本部令の効力）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -1355,99 +1355,99 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年三月三〇日法務省令第四〇号">
+    <SupplProvision AmendLawId="413040" AmendLawNum="平成一三年三月三〇日法務省令第四〇号" Id="0da5707c-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令中第一条の規定は平成十三年四月一日から、第二条の規定は平成十三年五月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一五年四月一六日法務省令第四一号">
+    <SupplProvision AmendLawId="415041" AmendLawNum="平成一五年四月一六日法務省令第四一号" Id="0dc6f148-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十五年四月二十一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年二月二五日法務省令第九号">
+    <SupplProvision AmendLawId="416009" AmendLawNum="平成一六年二月二五日法務省令第九号" Id="0de80504-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十六年三月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年七月一六日法務省令第五〇号">
+    <SupplProvision AmendLawId="416050" AmendLawNum="平成一六年七月一六日法務省令第五〇号" Id="0e090d9e-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十六年八月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年九月三日法務省令第六〇号">
+    <SupplProvision AmendLawId="416060" AmendLawNum="平成一六年九月三日法務省令第六〇号" Id="0e2a26b4-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十六年九月二十一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年一〇月二九日法務省令第七三号">
+    <SupplProvision AmendLawId="416073" AmendLawNum="平成一六年一〇月二九日法務省令第七三号" Id="0e4b2e4a-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十六年十一月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年三月二二日法務省令第三九号">
+    <SupplProvision AmendLawId="417039" AmendLawNum="平成一七年三月二二日法務省令第三九号" Id="0e6c37de-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年四月一日法務省令第五〇号">
+    <SupplProvision AmendLawId="417050" AmendLawNum="平成一七年四月一日法務省令第五〇号" Id="0e8d4d2a-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年四月八日法務省令第六一号">
+    <SupplProvision AmendLawId="417061" AmendLawNum="平成一七年四月八日法務省令第六一号" Id="0eae6f78-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十七年四月十日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年九月二九日法務省令第九七号">
+    <SupplProvision AmendLawId="417097" AmendLawNum="平成一七年九月二九日法務省令第九七号" Id="0ecf96b2-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十七年十月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年一二月二八日法務省令第一一〇号">
+    <SupplProvision AmendLawId="417110" AmendLawNum="平成一七年一二月二八日法務省令第一一〇号" Id="0ef0e290-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、平成十八年一月一日から施行する。</Sentence>
@@ -1455,45 +1455,45 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一八年三月二〇日法務省令第二三号">
+    <SupplProvision AmendLawId="418023" AmendLawNum="平成一八年三月二〇日法務省令第二三号" Id="0f121118-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十八年三月二十日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一八年五月二日法務省令第五五号">
+    <SupplProvision AmendLawId="418055" AmendLawNum="平成一八年五月二日法務省令第五五号" Id="0f331444-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一八年五月二三日法務省令第五八号">
+    <SupplProvision AmendLawId="418058" AmendLawNum="平成一八年五月二三日法務省令第五八号" Id="0f5423c8-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、刑事施設及び受刑者の処遇等に関する法律（平成十七年法律第五十号）の施行の日（平成十八年五月二十四日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一九年三月三〇日法務省令第一六号">
+    <SupplProvision AmendLawId="419016" AmendLawNum="平成一九年三月三〇日法務省令第一六号" Id="0f75226c-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十九年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二〇年三月三一日法務省令第一六号">
+    <SupplProvision AmendLawId="420016" AmendLawNum="平成二〇年三月三一日法務省令第一六号" Id="0f962886-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、平成二十年四月一日から施行する。</Sentence>
@@ -1501,9 +1501,9 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二一年三月三一日法務省令第一二号">
+    <SupplProvision AmendLawId="421012" AmendLawNum="平成二一年三月三一日法務省令第一二号" Id="0fb71bfe-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、平成二十一年四月一日から施行する。</Sentence>
@@ -1511,72 +1511,72 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二一年一二月二五日法務省令第四八号">
+    <SupplProvision AmendLawId="421048" AmendLawNum="平成二一年一二月二五日法務省令第四八号" Id="0fd81638-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十二年一月四日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二三年三月三一日法務省令第九号">
+    <SupplProvision AmendLawId="423009" AmendLawNum="平成二三年三月三一日法務省令第九号" Id="0ff90bc2-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十三年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二四年四月六日法務省令第一五号">
+    <SupplProvision AmendLawId="424015" AmendLawNum="平成二四年四月六日法務省令第一五号" Id="1019f616-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二五年五月一六日法務省令第六号">
+    <SupplProvision AmendLawId="425006" AmendLawNum="平成二五年五月一六日法務省令第六号" Id="103af974-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二六年三月二八日法務省令第七号">
+    <SupplProvision AmendLawId="426007" AmendLawNum="平成二六年三月二八日法務省令第七号" Id="105bfda4-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十六年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二七年四月一〇日法務省令第一八号">
+    <SupplProvision AmendLawId="427018" AmendLawNum="平成二七年四月一〇日法務省令第一八号" Id="107d4bda-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二八年三月三一日法務省令第二一号">
+    <SupplProvision AmendLawId="428021" AmendLawNum="平成二八年三月三一日法務省令第二一号" Id="109e45ec-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十八年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二九年三月三一日法務省令第八号">
+    <SupplProvision AmendLawId="429008" AmendLawNum="平成二九年三月三一日法務省令第八号" Id="10bf40da-189f-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、平成二十九年四月一日から施行する。</Sentence>
@@ -1584,27 +1584,27 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三〇年三月三〇日法務省令第八号" Type="Amend">
+    <SupplProvision AmendLawId="430008" AmendLawNum="平成三〇年三月三〇日法務省令第八号" Id="13209304-08b4-4937-a1a0-8ac9c1a36d8e" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成三十年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三一年三月二九日法務省令第一九号" Type="Amend">
+    <SupplProvision AmendLawId="431019" AmendLawNum="平成三一年三月二九日法務省令第一九号" Id="1514507a-5c06-11e9-902f-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成三十一年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和二年三月三〇日法務省令第一一号" Type="Amend">
+    <SupplProvision AmendLawId="502011" AmendLawNum="令和二年三月三〇日法務省令第一一号" Id="fa67e25c-757a-11ea-91c2-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>

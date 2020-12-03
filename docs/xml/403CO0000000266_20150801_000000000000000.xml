@@ -8,7 +8,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（免許証の再交付手数料）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">救急救命士法（以下「法」という。）第十一条の政令で定める手数料の額は、五千円とする。</Sentence>
@@ -18,7 +18,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（免許に関する事項の登録等の手数料）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第十六条第二項の政令で定める手数料の額は、次の各号に掲げる者の区分に応じ、それぞれ当該各号に定める額とする。</Sentence>
@@ -50,26 +50,26 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（救急救命士試験委員）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第三十二条第一項の救急救命士試験委員（以下「委員」という。）は、救急救命士国家試験を行うについて必要な学識経験のある者のうちから、厚生労働大臣が任命する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">委員の数は、五十人以内とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">委員の任期は、二年とする。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、補欠の委員の任期は、前任者の残任期間とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">委員は、非常勤とする。</Sentence>
@@ -79,7 +79,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（受験手数料）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第三十六条第一項の政令で定める受験手数料の額は、三万三百円とする。</Sentence>
@@ -89,7 +89,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（指定試験機関に関する読替え）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第四十一条の規定による技術的読替えは、次の表のとおりとする。</Sentence>
@@ -302,7 +302,7 @@
     </MainProvision>
     <SupplProvision Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -310,12 +310,12 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成六年九月一九日政令第三〇三号" Extract="true">
+    <SupplProvision AmendLawId="406303" AmendLawNum="平成六年九月一九日政令第三〇三号" Extract="true" Id="eb6202e7-e563-41ad-a67c-41cf64614c93">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、行政手続法の施行の日（平成六年十月一日）から施行する。</Sentence>
@@ -323,9 +323,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成九年三月二四日政令第五七号">
+    <SupplProvision AmendLawId="409057" AmendLawNum="平成九年三月二四日政令第五七号" Id="c8ea2fc0-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -333,18 +333,18 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年三月一七日政令第六五号">
+    <SupplProvision AmendLawId="412065" AmendLawNum="平成一二年三月一七日政令第六五号" Id="400b157c-a4c1-4a5f-9e44-005a2bd89d99">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、平成十二年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年六月七日政令第三〇九号" Extract="true">
+    <SupplProvision AmendLawId="412309" AmendLawNum="平成一二年六月七日政令第三〇九号" Extract="true" Id="12fb4fbe-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -352,9 +352,9 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二一年三月四日政令第二八号">
+    <SupplProvision AmendLawId="421028" AmendLawNum="平成二一年三月四日政令第二八号" Id="f8f2aa9e-1977-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、平成二十一年四月一日から施行する。</Sentence>

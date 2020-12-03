@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200828e03k03m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="83" Year="32">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="83" Year="32">
   <LawNum>昭和三十二年総理府令第八十三号</LawNum>
   <LawBody>
     <LawTitle>試験研究の用に供する原子炉等の設置、運転等に関する規則</LawTitle>
@@ -1232,8 +1232,7 @@
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="3_3">
-        <ArticleCaption>（使用前確認の申請）
-</ArticleCaption>
+        <ArticleCaption>（使用前確認の申請）</ArticleCaption>
         <ArticleTitle>第三条の三</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
@@ -1273,29 +1272,23 @@
           <Item Delete="false" Hide="false" Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">申請に係る試験研究用等原子炉施設の使用の開始の予定時期</Sentence>
+              <Sentence WritingMode="vertical">法第二十三条第一項若しくは第二十六条第一項の許可を受けたところ又は同条第二項の規定により届け出たところによる熱出力（使用しようとする熱出力がこれらの熱出力未満であるときは、その使用しようとする最大の熱出力。次号において「最大使用熱出力」という。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="7">
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">法第二十三条第一項若しくは第二十六条第一項の許可を受けたところ又は同条第二項の規定により届け出たところによる熱出力（使用しようとする熱出力がこれらの熱出力未満であるときは、その使用しようとする最大の熱出力。次号において「最大使用熱出力」という。）</Sentence>
+              <Sentence WritingMode="vertical">最大使用熱出力に到達させるまでの期間の熱出力の増加の計画</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="8">
             <ItemTitle>八</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">最大使用熱出力に到達させるまでの期間の熱出力の増加の計画</Sentence>
+              <Sentence WritingMode="vertical">申請に係る試験研究用等原子炉施設の使用の開始の予定時期</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="9">
             <ItemTitle>九</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">申請に係る試験研究用等原子炉施設の使用の開始の予定時期</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="10">
-            <ItemTitle>十</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">原子炉本体を試験のために使用するとき又は試験研究用等原子炉施設の一部が完成した場合であつてその完成した部分を使用しなければならない特別の理由があるときにあつては、その使用の期間及び方法</Sentence>
             </ItemSentence>

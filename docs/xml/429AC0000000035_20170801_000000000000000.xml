@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="035" Year="29">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="035" Year="29">
   <LawNum>平成二十九年法律第三十五号</LawNum>
   <LawBody>
     <LawTitle>農業競争力強化支援法</LawTitle>
@@ -80,7 +80,7 @@
         <Article Delete="false" Hide="false" Num="1">
           <ArticleCaption>（目的）</ArticleCaption>
           <ArticleTitle>第一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律は、我が国の農業が将来にわたって持続的に発展していくためには、経済社会情勢の変化に対応してその構造改革を推進することと併せて、良質かつ低廉な農業資材の供給及び農産物流通等の合理化の実現を図ることが重要であることに鑑み、これらに関し、国の責務及び国が講ずべき施策等を定め、当該施策の一環として事業再編又は事業参入を促進するための措置を講ずること等により、農業者による農業の競争力の強化の取組を支援し、もって農業及び農業生産関連事業の健全な発展に寄与することを目的とする。</Sentence>
@@ -90,31 +90,31 @@
         <Article Delete="false" Hide="false" Num="2">
           <ArticleCaption>（定義）</ArticleCaption>
           <ArticleTitle>第二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律において「農業資材事業」とは、農業資材の生産又は販売の事業であって、農業者が行うもの以外のものをいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律において「農産物流通等」とは、農産物（農産物を原材料として製造し、又は加工したものを含む。以下同じ。）の卸売若しくは小売又は農産物を原材料として使用する製造若しくは加工をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律において「農産物流通等事業」とは、農産物流通等の事業であって、農業者が行うもの以外のものをいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律において「農業生産関連事業」とは、農業資材事業又は農産物流通等事業をいい、「農業生産関連事業者」とは、農業生産関連事業を行う事業者をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律において「事業再編」とは、良質かつ低廉な農業資材の供給又は農産物流通等の合理化に資することを目的として農業生産関連事業者が行う事業活動であって、次の各号のいずれにも該当するものをいう。</Sentence>
@@ -132,19 +132,19 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="6">
+          <Paragraph Hide="false" Num="6" OldStyle="false">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律において「事業参入」とは、良質かつ低廉な農業資材の供給又は農産物流通等の合理化に資することを目的として、農業生産関連事業を新たに行うことをいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="7">
+          <Paragraph Hide="false" Num="7" OldStyle="false">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律において「事業再編促進対象事業」とは、農業生産関連事業のうち、その事業の属する事業分野の相当部分を担う事業者の生産性が低いことその他の事情により、事業再編の促進が特に必要と認められる事業分野として主務省令で定めるものに属する事業をいい、「事業再編促進対象事業者」とは、事業再編促進対象事業を行う事業者をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="8">
+          <Paragraph Hide="false" Num="8" OldStyle="false">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律において「事業参入促進対象事業」とは、農業生産関連事業のうち、その事業の属する事業分野の事業者の数が少数であることその他の事情により、事業参入の促進が特に必要と認められる事業分野として主務省令で定めるものに属する事業をいい、「事業参入促進対象事業者」とは、事業参入促進対象事業を新たに行おうとする事業者をいう。</Sentence>
@@ -154,7 +154,7 @@
         <Article Delete="false" Hide="false" Num="3">
           <ArticleCaption>（国の責務）</ArticleCaption>
           <ArticleTitle>第三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国は、農業者による農業の競争力の強化の取組を支援するため、国内外における農業資材の供給及び農産物流通等の状況を踏まえ、良質かつ低廉な農業資材の供給及び農産物流通等の合理化を実現するための施策を総合的に策定し、並びにこれを着実に実施する責務を有する。</Sentence>
@@ -164,19 +164,19 @@
         <Article Delete="false" Hide="false" Num="4">
           <ArticleCaption>（農業生産関連事業者等の努力）</ArticleCaption>
           <ArticleTitle>第四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">農業生産関連事業者は、我が国の農業が将来にわたって持続的に発展することが、農業生産関連事業の発展につながることを踏まえ、良質かつ低廉な農業資材の供給及び農産物流通等の合理化の実現に資するよう取り組むとともに、その取組を持続的に行うよう努めるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">政府関係金融機関及び株式会社農林漁業成長産業化支援機構（以下「支援機構」という。）は、前項の取組を促進する観点から、農業生産関連事業者に対する資金供給を行うよう努めるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">政府関係金融機関及び支援機構が前項の資金供給を行う場合においては、民間金融機関と連携するよう努めるものとする。</Sentence>
@@ -186,19 +186,19 @@
         <Article Delete="false" Hide="false" Num="5">
           <ArticleCaption>（農業者等の努力）</ArticleCaption>
           <ArticleTitle>第五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">農業者は、農業資材の調達を行い、又は農産物の出荷若しくは販売を行うに際し、有利な条件を提示する農業生産関連事業者との取引を通じて、農業経営の改善に取り組むよう努めるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">農業者の組織する団体であって農業経営の改善のための支援を行うものは、前項の取組を促進する観点から、支援を行うよう努めるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">農業者の組織する団体であって農業生産関連事業を行うもの（以下「農業者団体」という。）は、前条第一項の取組を行うに当たっては、農業者の農業所得の増大に最大限の配慮をするよう努めるものとする。</Sentence>
@@ -208,7 +208,7 @@
         <Article Delete="false" Hide="false" Num="6">
           <ArticleCaption>（関係行政機関の連携協力）</ArticleCaption>
           <ArticleTitle>第六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">主務大臣及び関係行政機関の長（当該行政機関が合議制の機関である場合にあっては、当該行政機関。第十七条第四項において同じ。）は、良質かつ低廉な農業資材の供給及び農産物流通等の合理化を実現するための施策が円滑かつ効果的に実施されるよう、相互に連携を図りながら協力するものとする。</Sentence>
@@ -218,7 +218,7 @@
         <Article Delete="false" Hide="false" Num="7">
           <ArticleCaption>（留意事項）</ArticleCaption>
           <ArticleTitle>第七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国は、良質かつ低廉な農業資材の供給又は農産物流通等の合理化を実現するための施策を講ずるに当たっては、農業生産関連事業者の自主的な努力を支援することにより、民間事業者の活力の発揮を促進し、適正な競争の下で農業生産関連事業の健全な発展を図ることに留意するものとする。</Sentence>
@@ -233,7 +233,7 @@
           <Article Delete="false" Hide="false" Num="8">
             <ArticleCaption>（農業資材事業に係る事業環境の整備）</ArticleCaption>
             <ArticleTitle>第八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">国は、良質かつ低廉な農業資材の供給を実現する上で必要な事業環境の整備のため、次に掲げる措置その他の措置を講ずるものとする。</Sentence>
@@ -267,7 +267,7 @@
           <Article Delete="false" Hide="false" Num="9">
             <ArticleCaption>（農業資材事業に係る事業再編又は事業参入の促進等）</ArticleCaption>
             <ArticleTitle>第九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">国は、良質かつ低廉な農業資材の供給を実現するため、農業資材事業について、適正な競争の下で高い生産性が確保されることとなるよう、事業再編又は事業参入を促進することその他の必要な措置を講ずるものとする。</Sentence>
@@ -277,7 +277,7 @@
           <Article Delete="false" Hide="false" Num="10">
             <ArticleCaption>（農業資材の調達に必要な情報の入手の円滑化）</ArticleCaption>
             <ArticleTitle>第十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">国は、良質かつ低廉な農業資材の供給を実現するため、農業者が農業資材の調達を行い、又は農業者団体が農業者に供給する農業資材の調達を行うに際し、有利な条件を提示する農業生産関連事業者を選択するための情報を容易に入手することができるようにするための措置を、民間事業者の知見を活用しつつ、講ずるものとする。</Sentence>
@@ -290,7 +290,7 @@
           <Article Delete="false" Hide="false" Num="11">
             <ArticleCaption>（農産物流通等事業に係る事業環境の整備）</ArticleCaption>
             <ArticleTitle>第十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">国は、農産物流通等の合理化を実現する上で必要な事業環境の整備のため、次に掲げる措置その他の措置を講ずるものとする。</Sentence>
@@ -318,7 +318,7 @@
           <Article Delete="false" Hide="false" Num="12">
             <ArticleCaption>（農産物流通等事業に係る事業再編又は事業参入の促進等）</ArticleCaption>
             <ArticleTitle>第十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">国は、農産物流通等の合理化を実現するため、農産物流通等事業について、次に掲げる措置その他の必要な措置を講ずるものとする。</Sentence>
@@ -336,7 +336,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">国は、前項各号に掲げる措置を講ずるに当たっては、農業の健全な発展に資するため、農産物の取引の安定が確保されるよう配慮するものとする。</Sentence>
@@ -346,7 +346,7 @@
           <Article Delete="false" Hide="false" Num="13">
             <ArticleCaption>（農産物の直接の販売の促進）</ArticleCaption>
             <ArticleTitle>第十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">国は、農産物流通等の合理化を実現するため、農業者又は農業者団体による農産物の消費者への直接の販売を促進するための措置を講ずるものとする。</Sentence>
@@ -356,7 +356,7 @@
           <Article Delete="false" Hide="false" Num="14">
             <ArticleCaption>（農産物の出荷等に必要な情報の入手の円滑化）</ArticleCaption>
             <ArticleTitle>第十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">国は、農産物流通等の合理化を実現するため、農業者又は農業者団体が農産物の出荷又は販売を行うに際し、有利な条件を提示する農業生産関連事業者を選択するための情報を容易に入手することができるようにするための措置を、民間事業者の知見を活用しつつ、講ずるものとする。</Sentence>
@@ -366,7 +366,7 @@
           <Article Delete="false" Hide="false" Num="15">
             <ArticleCaption>（農産物の品質等についての適切な評価）</ArticleCaption>
             <ArticleTitle>第十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">国は、農産物流通等の合理化を実現するため、農産物の取引又は消費に際し、その品質、生産又は流通の方法その他の特性が適切に評価されるようにするための措置を講ずるものとする。</Sentence>
@@ -378,13 +378,13 @@
           <SectionTitle>第三節　施策の検討</SectionTitle>
           <Article Delete="false" Hide="false" Num="16">
             <ArticleTitle>第十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">政府は、おおむね五年ごとに、国内外における農業資材の供給及び農産物流通等の状況に関する調査を行い、これらの結果を公表するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">政府は、おおむね五年ごとに、前二節に定める施策を含め、良質かつ低廉な農業資材の供給又は農産物流通等の合理化を実現するための施策の在り方について、農業者による農業の競争力の強化の取組を支援する観点から検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
@@ -399,13 +399,13 @@
           <SectionTitle>第一節　事業再編又は事業参入の促進の実施に関する指針</SectionTitle>
           <Article Delete="false" Hide="false" Num="17">
             <ArticleTitle>第十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">主務大臣は、事業再編又は事業参入の促進の実施に関する指針（以下「実施指針」という。）を定めるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">実施指針には、次に掲げる事項を定めるものとする。</Sentence>
@@ -471,19 +471,19 @@
                 </Subitem1>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">主務大臣は、経済事情の変動により必要が生じたときは、実施指針を変更するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">主務大臣は、実施指針を定め、又はこれを変更しようとするときは、あらかじめ、関係行政機関の長に協議するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="5">
+            <Paragraph Hide="false" Num="5" OldStyle="false">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">主務大臣は、実施指針を定め、又はこれを変更したときは、遅滞なく、これを公表するものとする。</Sentence>
@@ -496,19 +496,19 @@
           <Article Delete="false" Hide="false" Num="18">
             <ArticleCaption>（事業再編計画の認定）</ArticleCaption>
             <ArticleTitle>第十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">事業再編促進対象事業者は、その実施しようとする事業再編に関する計画（以下「事業再編計画」という。）を作成し、主務省令で定めるところにより、これを主務大臣に提出して、その認定を受けることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">二以上の事業再編促進対象事業者がその事業再編を共同して実施する場合にあっては、当該二以上の事業再編促進対象事業者は、共同して事業再編計画を作成し、前項の認定を受けることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">事業再編計画には、次に掲げる事項を記載するものとする。</Sentence>
@@ -538,19 +538,19 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項第二号に掲げる事項には、事業再編の実施と併せて、施設の撤去又は設備の廃棄を行う場合にあっては当該施設又は設備の種類を、事業再編促進設備等の導入を行う場合にあっては当該事業再編促進設備等の種類を、それぞれ記載することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="5">
+            <Paragraph Hide="false" Num="5" OldStyle="false">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の「事業再編促進設備等」とは、農業資材又は農産物の生産又は販売の用に供する設備等であって、事業再編の促進に特に資するものとして主務省令で定めるものをいう。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="6">
+            <Paragraph Hide="false" Num="6" OldStyle="false">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">主務大臣は、第一項の認定の申請があった場合において、次の各号のいずれにも該当すると認めるときは、その認定をするものとする。</Sentence>
@@ -592,7 +592,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="7">
+            <Paragraph Hide="false" Num="7" OldStyle="false">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">主務大臣は、第一項の認定をしたときは、主務省令で定めるところにより、当該認定に係る事業再編計画の内容を公表するものとする。</Sentence>
@@ -602,31 +602,31 @@
           <Article Delete="false" Hide="false" Num="19">
             <ArticleCaption>（事業再編計画の変更等）</ArticleCaption>
             <ArticleTitle>第十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前条第一項の認定を受けた事業再編促進対象事業者（当該認定に係る事業再編計画に従って設立された法人を含む。以下「認定事業再編事業者」という。）は、当該認定に係る事業再編計画を変更しようとするときは、主務省令で定めるところにより、主務大臣の認定を受けるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">主務大臣は、認定事業再編事業者が当該認定に係る事業再編計画（前項の規定による変更の認定があったときは、その変更後のもの。以下「認定事業再編計画」という。）に従って事業再編を実施していないと認めるときは、その認定を取り消すことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">主務大臣は、認定事業再編計画が前条第六項各号のいずれかに該当しないものとなったと認めるときは、認定事業再編事業者に対して、当該認定事業再編計画の変更を指示し、又はその認定を取り消すことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">主務大臣は、前二項の規定による認定の取消しをしたときは、その旨を公表するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="5">
+            <Paragraph Hide="false" Num="5" OldStyle="false">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前条第六項及び第七項の規定は、第一項の規定による変更の認定について準用する。</Sentence>
@@ -636,19 +636,19 @@
           <Article Delete="false" Hide="false" Num="20">
             <ArticleCaption>（公正取引委員会との関係）</ArticleCaption>
             <ArticleTitle>第二十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">主務大臣は、第十八条第一項の認定（前条第一項の規定による変更の認定を含む。第三項において同じ。）をしようとする場合において、当該認定に係る申請を行う事業再編促進対象事業者の事業再編が、当該事業再編促進対象事業者の行う事業再編促進対象事業の属する事業分野における適正な競争を阻害するおそれがあるものとして政令で定めるものに該当するときは、あらかじめ、公正取引委員会に、当該認定に係る申請書の写しを送付し、協議するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">主務大臣及び公正取引委員会は、前項の規定による協議に当たっては、手続の迅速かつ適確な実施を図るため、相互に緊密に連絡するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">主務大臣及び公正取引委員会は、第一項の規定による送付に係る事業再編計画であって主務大臣が第十八条第一項の認定をしたものに従ってする行為について、当該認定後の経済事情の変動により事業再編促進対象事業者間の適正な競争を阻害し、並びに一般消費者及び他の事業者の利益を不当に害することとならないよう、相互に緊密に連絡するものとする。</Sentence>
@@ -661,19 +661,19 @@
           <Article Delete="false" Hide="false" Num="21">
             <ArticleCaption>（事業参入計画の認定）</ArticleCaption>
             <ArticleTitle>第二十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">事業参入促進対象事業者は、その実施しようとする事業参入に関する計画（以下「事業参入計画」という。）を作成し、主務省令で定めるところにより、これを主務大臣に提出して、その認定を受けることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">二以上の事業参入促進対象事業者がその事業参入を共同して実施する場合にあっては、当該二以上の事業参入促進対象事業者は、共同して事業参入計画を作成し、前項の認定を受けることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">事業参入計画には、次に掲げる事項を記載するものとする。</Sentence>
@@ -697,7 +697,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">主務大臣は、第一項の認定の申請があった場合において、次の各号のいずれにも該当すると認めるときは、その認定をするものとする。</Sentence>
@@ -721,7 +721,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="5">
+            <Paragraph Hide="false" Num="5" OldStyle="false">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">主務大臣は、第一項の認定をしたときは、主務省令で定めるところにより、当該認定に係る事業参入計画の内容を公表するものとする。</Sentence>
@@ -731,31 +731,31 @@
           <Article Delete="false" Hide="false" Num="22">
             <ArticleCaption>（事業参入計画の変更等）</ArticleCaption>
             <ArticleTitle>第二十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前条第一項の認定を受けた事業参入促進対象事業者（当該認定に係る事業参入計画に従って設立された法人を含む。以下「認定事業参入事業者」という。）は、当該認定に係る事業参入計画を変更しようとするときは、主務省令で定めるところにより、主務大臣の認定を受けるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">主務大臣は、認定事業参入事業者が当該認定に係る事業参入計画（前項の規定による変更の認定があったときは、その変更後のもの。以下「認定事業参入計画」という。）に従って事業参入を実施していないと認めるときは、その認定を取り消すことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">主務大臣は、認定事業参入計画が前条第四項各号のいずれかに該当しないものとなったと認めるときは、認定事業参入事業者に対して、当該認定事業参入計画の変更を指示し、又はその認定を取り消すことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">主務大臣は、前二項の規定による認定の取消しをしたときは、その旨を公表するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="5">
+            <Paragraph Hide="false" Num="5" OldStyle="false">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前条第四項及び第五項の規定は、第一項の規定による変更の認定について準用する。</Sentence>
@@ -769,25 +769,25 @@
             <SubsectionTitle>第一款　事業の譲渡の場合の債権者の異議の催告等</SubsectionTitle>
             <Article Delete="false" Hide="false" Num="23">
               <ArticleTitle>第二十三条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">農業生産関連事業者であって株式会社であるもの（以下この項及び第四項において「会社」という。）は、認定事業再編計画に従って行われる事業の全部又は一部の譲渡について株主総会若しくは取締役会の決議又は執行役の決定がされたときは、当該決議又は決定の日から二週間以内に、特定債権者（当該会社に対する債権を有する者のうち、当該事業の全部又は一部の譲渡に伴い、当該事業の全部又は一部を譲り受ける者に対する債権を有することとなり、当該債権を当該会社に対して有しないこととなる者をいう。第三項及び第四項において同じ。）に対して各別に、当該事業の全部又は一部の譲渡の要領を通知し、かつ、当該事業の全部又は一部の譲渡に異議のある場合には一定の期間内に異議を述べるべき旨を催告することができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前項の期間は、一月を下ってはならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="3">
+              <Paragraph Hide="false" Num="3" OldStyle="false">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">第一項の規定による催告を受けた特定債権者が同項の期間内に異議を述べなかったときは、当該特定債権者は、当該事業の全部又は一部の譲渡を承認したものとみなす。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="4">
+              <Paragraph Hide="false" Num="4" OldStyle="false">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Function="main" Num="1" WritingMode="vertical">特定債権者が第一項の期間内に異議を述べたときは、当該会社は、弁済し、又は相当の担保を提供し、若しくは特定債権者に弁済を受けさせることを目的として信託会社若しくは信託業務を営む金融機関に相当の財産を信託しなければならない。</Sentence>
@@ -800,7 +800,7 @@
             <SubsectionTitle>第二款　独立行政法人中小企業基盤整備機構の行う事業再編等促進業務</SubsectionTitle>
             <Article Delete="false" Hide="false" Num="24">
               <ArticleTitle>第二十四条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">独立行政法人中小企業基盤整備機構は、次の各号に掲げる者が当該各号に定める資金を調達するために発行する社債（社債、株式等の振替に関する法律（平成十三年法律第七十五号）第六十六条第一号に規定する短期社債を除く。第二十七条第七号において同じ。）及び当該資金の借入れに係る債務の保証の業務を行う。</Sentence>
@@ -835,7 +835,7 @@
             <Article Delete="false" Hide="false" Num="25">
               <ArticleCaption>（資金の貸付け）</ArticleCaption>
               <ArticleTitle>第二十五条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">株式会社日本政策金融公庫（以下「公庫」という。）は、株式会社日本政策金融公庫法（平成十九年法律第五十七号。以下「公庫法」という。）第十一条に規定する業務のほか、次の各号に掲げる者に対し、農業の健全な発展に資する長期かつ低利の資金であって当該各号に定めるもの（他の金融機関が融通することを困難とするものに限る。）のうち農林水産大臣及び財務大臣が指定するものの貸付けの業務を行うことができる。</Sentence>
@@ -863,13 +863,13 @@
                   </ItemSentence>
                 </Item>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前項に規定する資金の貸付けの利率、償還期限及び据置期間については、政令で定める範囲内で、公庫が定める。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="3">
+              <Paragraph Hide="false" Num="3" OldStyle="false">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">第一項の規定により公庫が行う同項に規定する資金の貸付けについての公庫法第十一条第一項第六号、第十二条第一項、第三十一条第二項第一号ロ、第四十一条第二号、第五十三条、第五十八条、第五十九条第一項、第六十四条第一項第四号、第七十三条第三号及び別表第二第九号の規定の適用については、次の表の上欄に掲げる公庫法の規定中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
@@ -987,7 +987,7 @@
             <Article Delete="false" Hide="false" Num="26">
               <ArticleCaption>（債務の保証）</ArticleCaption>
               <ArticleTitle>第二十六条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">公庫は、公庫法第十一条の規定にかかわらず、次に掲げる業務を行うことができる。</Sentence>
@@ -1005,7 +1005,7 @@
                   </ItemSentence>
                 </Item>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">前項の規定による債務の保証は、公庫法の適用については、公庫法第十一条第一項第二号の規定による公庫法別表第二第四号の下欄に掲げる業務とみなす。</Sentence>
@@ -1018,7 +1018,7 @@
             <Article Delete="false" Hide="false" Num="27">
               <ArticleCaption>（出資等）</ArticleCaption>
               <ArticleTitle>第二十七条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">支援機構は、株式会社農林漁業成長産業化支援機構法（平成二十四年法律第八十三号。第三十条において「支援機構法」という。）第二十一条第一項第一号から第十五号までに掲げる業務のほか、次に掲げる業務を営むことができる。</Sentence>
@@ -1106,25 +1106,25 @@
             <Article Delete="false" Hide="false" Num="28">
               <ArticleCaption>（事業再編等支援基準）</ArticleCaption>
               <ArticleTitle>第二十八条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">農林水産大臣は、支援機構が事業再編等事業活動の支援（前条第一号から第七号までに掲げる業務によりされるものに限る。以下「事業再編等支援」という。）の対象となる認定事業再編等事業者又は事業再編等支援団体及び当該事業再編等支援の内容を決定するに当たって従うべき基準（以下「事業再編等支援基準」という。）を定めるものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">事業再編等支援基準は、良質かつ低廉な農業資材の供給及び農産物流通等の合理化の実現に資することを旨として定めるものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="3">
+              <Paragraph Hide="false" Num="3" OldStyle="false">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">農林水産大臣は、事業再編等支援基準を定めようとするときは、あらかじめ、事業再編等支援の対象となる活動に係る事業を所管する大臣（次条第三項及び第四項において「事業所管大臣」という。）の意見を聴くものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="4">
+              <Paragraph Hide="false" Num="4" OldStyle="false">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">農林水産大臣は、事業再編等支援基準を定めたときは、これを公表するものとする。</Sentence>
@@ -1134,25 +1134,25 @@
             <Article Delete="false" Hide="false" Num="29">
               <ArticleCaption>（支援決定）</ArticleCaption>
               <ArticleTitle>第二十九条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">支援機構は、事業再編等支援を行おうとするときは、事業再編等支援基準に従って、その対象となる認定事業再編等事業者又は事業再編等支援団体及び当該事業再編等支援の内容を決定するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">支援機構は、事業再編等支援をするかどうかを決定しようとするときは、あらかじめ、農林水産大臣の認可を受けるものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="3">
+              <Paragraph Hide="false" Num="3" OldStyle="false">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">農林水産大臣は、前項の認可の申請があったときは、遅滞なく、その内容を事業所管大臣に通知するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="4">
+              <Paragraph Hide="false" Num="4" OldStyle="false">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">事業所管大臣は、前項の規定による通知を受けた場合において、当該認定事業再編等事業者又は事業再編等支援団体の属する事業分野の実態を考慮して必要があると認めるときは、農林水産大臣に対して意見を述べることができる。</Sentence>
@@ -1162,7 +1162,7 @@
             <Article Delete="false" Hide="false" Num="30">
               <ArticleCaption>（支援機構法の適用）</ArticleCaption>
               <ArticleTitle>第三十条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">第二十七条の規定により支援機構が営む同条各号に掲げる業務についての支援機構法第六条第一項第六号、第十五条第一項第一号及び第二号並びに第三項、第二十一条第一項第十六号、第二十四条、第二十五条第一項及び第二項、第二十六条、第二十七条、第三十四条、第三十七条、第三十九条第一項、第二項及び第五項、第四十条、第四十六条、第四十七条並びに第四十八条第九号の規定の適用については、次の表の上欄に掲げる支援機構法の規定中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とし、支援機構法第十五条第二項の規定は、適用しない。</Sentence>
@@ -1416,7 +1416,7 @@
           <Article Delete="false" Hide="false" Num="31">
             <ArticleCaption>（情報の収集、整理及び提供）</ArticleCaption>
             <ArticleTitle>第三十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">国は、事業再編又は事業参入の促進に資するよう、これらの取組に関する情報の収集、整理及び提供を行うものとする。</Sentence>
@@ -1426,31 +1426,31 @@
           <Article Delete="false" Hide="false" Num="32">
             <ArticleCaption>（雇用の安定等）</ArticleCaption>
             <ArticleTitle>第三十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">認定事業再編事業者は、認定事業再編計画に従って事業再編を実施するに当たっては、その雇用する労働者の理解と協力を得るとともに、当該労働者について、失業の予防その他雇用の安定を図るために必要な措置を講ずるよう努めるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">国は、認定事業再編事業者の雇用する労働者について、失業の予防その他雇用の安定を図るために必要な措置を講ずるよう努めるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">国は、認定事業再編事業者に雇用されていた労働者について、就職のあっせんその他その職業及び生活の安定に資するために必要な措置を講ずるよう努めるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">国は、前二項の労働者について、職業訓練の実施その他の能力の開発及び向上を図るために必要な措置を講ずるよう努めるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="5">
+            <Paragraph Hide="false" Num="5" OldStyle="false">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">国は、認定事業再編事業者の関連中小企業者について、その新たな経済的環境への適応の円滑化に資するために必要な措置を講ずるよう努めるものとする。</Sentence>
@@ -1460,7 +1460,7 @@
           <Article Delete="false" Hide="false" Num="33">
             <ArticleCaption>（指導及び助言）</ArticleCaption>
             <ArticleTitle>第三十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">国は、認定事業再編事業者又は認定事業参入事業者に対し、事業再編又は事業参入の適確な実施に必要な指導及び助言を行うものとする。</Sentence>
@@ -1470,7 +1470,7 @@
           <Article Delete="false" Hide="false" Num="34">
             <ArticleCaption>（報告の徴収）</ArticleCaption>
             <ArticleTitle>第三十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">主務大臣は、認定事業再編事業者又は認定事業参入事業者に対し、認定事業再編計画又は認定事業参入計画の実施状況について報告を求めることができる。</Sentence>
@@ -1484,7 +1484,7 @@
         <Article Delete="false" Hide="false" Num="35">
           <ArticleCaption>（主務大臣等）</ArticleCaption>
           <ArticleTitle>第三十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">この法律における主務大臣は、次の各号に掲げる事項の区分に応じ、当該各号に定める大臣とする。</Sentence>
@@ -1513,7 +1513,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律における主務省令は、農林水産大臣及び農業生産関連事業を所管する大臣の共同で発する命令とする。</Sentence>
@@ -1523,7 +1523,7 @@
         <Article Delete="false" Hide="false" Num="36">
           <ArticleCaption>（権限の委任）</ArticleCaption>
           <ArticleTitle>第三十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律に規定する主務大臣の権限は、主務省令で定めるところにより、地方支分部局の長に委任することができる。</Sentence>
@@ -1535,13 +1535,13 @@
         <ChapterTitle>第五章　罰則</ChapterTitle>
         <Article Delete="false" Hide="false" Num="37">
           <ArticleTitle>第三十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第三十四条の規定による報告をせず、又は虚偽の報告をしたときは、その違反行為をした者は、三十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、前項の違反行為をしたときは、行為者を罰するほか、その法人又は人に対して同項の刑を科する。</Sentence>
@@ -1550,7 +1550,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="38">
           <ArticleTitle>第三十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第二十九条第二項の規定に違反して、農林水産大臣の認可を受けなかった場合には、その違反行為をした支援機構の取締役、会計参与若しくはその職務を行うべき社員又は監査役は、百万円以下の過料に処する。</Sentence>
@@ -1564,7 +1564,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -1575,13 +1575,13 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第十六条第一項の規定による最初の調査は、この法律の施行の日からおおむね一年以内に行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第十六条第二項の規定による最初の検討は、この法律の施行の日からおおむね二年以内に行うものとする。</Sentence>
@@ -1591,7 +1591,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200903e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="075" Year="28">
+<Law AmendmentId="501M60000002009" AmendmentNum="令和元年内閣府令第九号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="075" Year="28">
   <LawNum>昭和二十八年大蔵省令第七十五号</LawNum>
   <LawBody>
     <LawTitle>金融商品取引法第百六十一条の二に規定する取引及びその保証金に関する内閣府令</LawTitle>
@@ -8,25 +8,25 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（定義）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令において「信用取引」とは、金融商品取引業者（金融商品取引法（昭和二十三年法律第二十五号。以下「法」という。）第二条第九項に規定する金融商品取引業者をいう。以下同じ。）が顧客（金融商品取引業者が顧客である場合における金融商品取引業者を含む。以下同じ。）に信用を供与して行う有価証券の売買その他の取引をいう。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令において「発行日取引」とは、金融商品取引業者が顧客のために行う未発行の有価証券の売買その他の取引であつて、当該有価証券の発行日（当該有価証券を引換えに取得することができる証書が作成された場合には、当該証書の最初の作成の日。以下同じ。）から一定の日を経過した日までに当該有価証券又は当該証書をもつて受渡しをするものをいう。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令において「未決済勘定」とは、信用取引について顧客が金融商品取引業者から供与された信用に係る債務をいう。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令において「対当売買」とは、発行日取引による買付けに係る有価証券の受渡しの終了前において、当該有価証券と同一銘柄の対当する数量の有価証券を売付けし、又は発行日取引による売付けに係る有価証券の受渡しの前において、当該有価証券と同一銘柄の対当する数量の有価証券を買付けする売買をいう。</Sentence>
@@ -36,7 +36,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（有価証券の時価に乗ずべき率等）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第百六十一条の二第一項に規定する取引及び同項の規定により当該取引に係る有価証券の時価に乗ずべき率は、次の各号に掲げる取引及び率とする。</Sentence>
@@ -64,13 +64,13 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項第一号に掲げる信用取引に係る有価証券の時価に乗ずべき率の規定は、信用取引が株券に係る法第二条第二十一項第三号に掲げる取引に係る権利行使によるものであり、当該信用取引を当該株券と同一銘柄の対当する数量の反対売買により決済するもの（受渡日が当該信用取引と同一日となる場合に限る。）である場合における当該信用取引については、これを適用しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項第二号に掲げる発行日取引に係る有価証券の時価に乗ずべき率の規定は、発行日取引が対当売買又は有価証券等清算取次ぎによるものである場合における当該発行日取引については、これを適用しない。</Sentence>
@@ -80,7 +80,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（保証金の額）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">金融商品取引業者が法第百六十一条の二第一項の規定により前条第一項各号に掲げる取引について顧客から預託を受けるべき金銭（以下「保証金」という。）の額は、当該取引に係る有価証券の約定価額に当該各号に掲げる率を乗じた額（以下「通常の最低限度額」という。）を下らない額とする。</Sentence>
@@ -103,7 +103,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（保証金の預託）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">金融商品取引業者は、その顧客のために信用取引又は発行日取引を行つたときは、その行つた日から起算して三日（休業日があるときは、その日数を加算した日数。）以内に、当該顧客から当該取引に係る保証金の預託を受けなければならない。</Sentence>
@@ -113,7 +113,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（預託を受ける場合の保証金の計算）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">金融商品取引業者が、前条の規定により顧客から保証金として預託を受ける金銭の額については、信用取引について、当該顧客に対し当該信用取引に係る有価証券の約定価額に相当する額の信用供与以外に信用を供与したときは、その信用供与額、発行日取引について当該顧客に対し信用を供与したときは、その信用供与額を控除して、計算するものとする。</Sentence>
@@ -123,13 +123,13 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（保証金代用有価証券）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">金融商品取引業者がその預託を受けるべき保証金の全部又は一部が法第百六十一条の二第二項の規定により有価証券をもつて代用される場合におけるその代用価格（以下「代用価格」という。）は、預託する日の前日の時価（取引所金融商品市場（法第二条第十七項に規定する取引所金融商品市場をいう。以下この項において同じ。）においては金融商品取引所（同条第十六項に規定する金融商品取引所をいう。以下この項において同じ。）が法第百四十九条第一項の規定に基づき金融庁長官の認可を得て定める時価、店頭売買有価証券市場（法第六十七条第二項に規定する店頭売買有価証券市場をいう。以下この項において同じ。）においては法第六十七条の十一第一項の規定により登録する認可金融商品取引業協会（法第二条第十三項に規定する認可金融商品取引業協会をいう。以下この項において同じ。）が法第六十七条の十二の規定に基づき金融庁長官の認可を得て定める時価、私設取引システム（金融商品取引法施行令（昭和四十年政令第三百二十一号）第二十六条の二の二第七項に規定する私設取引システムをいう。以下この項において同じ。）においては法第三十条第一項の認可を受けた金融商品取引業者が同項又は法第三十一条第六項の規定に基づき所管金融庁長官等（金融商品取引業等に関する内閣府令（平成十九年内閣府令第五十二号）第一条第四項第四号に規定する所管金融庁長官等をいう。以下この項において同じ。）の認可を得て定める時価をいう。以下同じ。）に株券については百分の八十、その他の有価証券については金融庁長官の認可を得て定める率（取引所金融商品市場においては金融商品取引所が法第百四十九条第一項の規定に基づき金融庁長官の認可を得て定める率、店頭売買有価証券市場においては法第六十七条の十一第一項の規定により登録する認可金融商品取引業協会が法第六十七条の十二の規定に基づき金融庁長官の認可を得て定める率、私設取引システムにおいては法第三十条第一項の認可を受けた金融商品取引業者が同項又は法第三十一条第六項の規定に基づき所管金融庁長官等の認可を得て定める率）を乗じた額を超えない額とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">金融商品取引業者は、その預託を受けるべき保証金の全部又は一部が法第百六十一条の二第二項の規定により社債、株式等の振替に関する法律（平成十三年法律第七十五号）第二条第一項に規定する社債等で同条第二項に規定する振替機関が取り扱うもの（以下この項において「振替社債等」という。）をもつて代用される場合であつて、当該金融商品取引業者の口座における保有欄（同法に規定する保有欄をいう。）に当該振替社債等に係る記載又は記録を受けるときは、当該金融商品取引業者の取引のための欄と区分しなければならない。</Sentence>
@@ -139,7 +139,7 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（保証金の引出し等）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">金融商品取引業者は、顧客から信用取引に係る保証金として預託を受けた金銭又は有価証券については、第一号に掲げる額から第二号に掲げる額を控除した額に対応する範囲内において、これを引き出させることができる。</Sentence>
@@ -157,7 +157,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定によるもののほか、金融商品取引業者は、顧客から信用取引に係る保証金として預託を受けた金銭又は有価証券については、次に掲げる場合に限り、これを引き出させることができる。</Sentence>
@@ -211,7 +211,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">金融商品取引業者は、その顧客のために新たな信用取引を行つたときは、第一号に掲げる額から第二号及び第三号に掲げる額の合計額を控除した額に対応する範囲内において、当該顧客から信用取引に係る保証金として預託を受けた金銭又は有価証券を第四条の規定により当該新たな信用取引に係る保証金として預託を受けるべき金銭の額に充当することができる。</Sentence>
@@ -235,13 +235,13 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項第二号、第二項第一号ロ及び第二号ロ、前項第二号並びに次条第三項の約定価額は、信用取引に係る一切の有価証券のうち権利落ち後の有価証券があり、権利の価額を当該有価証券の売付代金又は買付代金から控除することにより未決済勘定の決済を行う場合（第一項第二号、第二項第一号ロ及び第二号ロ並びに前項第二号の約定価額（当該権利落ちに伴い顧客が有価証券を引き受ける場合において、権利の価額に相当する金銭の交付を受けていないときを除く。）並びに同条第三項の約定価額は、顧客が金融商品取引業者と当該決済を行うことを約している場合を含む。）には、権利の価額を控除した価額とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">金融商品取引業者は、顧客から発行日取引に係る保証金として預託を受けた金銭又は有価証券については、第一号に掲げる額から第二号に掲げる額を控除した額に対応する範囲内において、これを引き出させることができる。</Sentence>
@@ -259,7 +259,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="6">
+        <Paragraph Hide="false" Num="6" OldStyle="false">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定によるもののほか、金融商品取引業者は、顧客から発行日取引に係る保証金として預託を受けた金銭又は有価証券については、次に掲げる場合に限り、これを引き出させることができる。</Sentence>
@@ -313,7 +313,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="7">
+        <Paragraph Hide="false" Num="7" OldStyle="false">
           <ParagraphNum>７</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">金融商品取引業者は、その顧客のために新たな発行日取引を行つたときは、第一号に掲げる額から第二号に掲げる額を控除した額に対応する範囲内において、当該顧客から発行日取引に係る保証金として預託を受けた金銭又は有価証券を第四条の規定により当該新たな発行日取引に係る保証金として預託を受けるべき金銭の額に充当することができる。</Sentence>
@@ -335,7 +335,7 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（受入保証金の総額の計算）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">第三条第二号並びに前条第一項第一号、第二項第一号イ及び第二号イ並びに第三項第一号に規定する受入保証金の総額又は同条第五項第一号、第六項第一号イ及び第二号イ並びに第七項第一号に規定する受入保証金の総額については、次に掲げる額のうち信用取引に係るもの又は発行日取引に係るものをそれぞれ差し引いて、計算するものとする。</Sentence>
@@ -366,25 +366,25 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項に規定する受入保証金の総額の計算については、当該顧客の信用取引又は発行日取引に係る保証金の全部又は一部が有価証券をもつて代用されている場合におけるその代用価格は、第六条の規定にかかわらず、計算する日の前日の当該有価証券の時価に同条に規定する率を乗じた額によるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の当該顧客の信用取引又は発行日取引に係る有価証券の相場の変動に基づく損益は、当該有価証券の約定価額と計算する日の前日の時価（前日の時価がないときは、その直近の日の時価）により評価した価額との差損益とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">反対売買による利益額が生じた場合において、当該利益額に相当する金銭を当該反対売買による未決済勘定の決済の時に顧客から信用取引に係る保証金として預託を受けることとしているときは、第三条第二号並びに前条第一項第一号、第二項第一号イ及び第二号イ並びに第三項第一号に規定する受入保証金の総額については、当該利益額に相当する額を加えて計算することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定により同項の利益額に相当する額を加えて前条第三項第一号に規定する受入保証金の総額を計算する場合においては、当該利益額に相当する金銭を顧客から信用取引に係る保証金として預託を受けた金銭とみなして、同項の規定を適用する。</Sentence>
@@ -394,13 +394,13 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（利益計算額の引出の制限）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">金融商品取引業者は、その顧客の信用取引又は発行日取引に係る有価証券の相場の変動により利益計算となる額を生じた場合において、その利益計算となる額に相当する金銭又は有価証券を、当該顧客に対し交付し、又は第四条の規定により保証金として預託を受けるべき金銭の額に充当してはならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">金融商品取引業者は、その顧客が対当売買を行つた場合において当該対当売買を行つたことにより利益計算となる額に相当する金銭又は有価証券を、当該顧客に対し当該売買及び当該対当売買の受渡しの終了前に交付し、又は第四条の規定により保証金として預託を受けるべき金銭の額に充当してはならない。</Sentence>
@@ -410,13 +410,13 @@
       <Article Delete="false" Hide="false" Num="10">
         <ArticleCaption>（信用取引を行うことを明示しない取引）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">金融商品取引業者は、顧客が信用取引を行うことを有価証券の売買の注文と同時に明示しない取引については、当該顧客が当該取引による買付け又は売付けに係る有価証券について、これと対当する有価証券の売付け又は買付けにより、これを決済する取引を行つてはならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定は、第二条第二項に規定する場合については、これを適用しない。</Sentence>
@@ -426,91 +426,91 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和二十八年九月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">証券取引法第四十九条第一項の規定により有価証券の時価に乗ずべき率を定める省令（昭和二十三年大蔵省令第五十三号）及び有価証券の売買その他の取引についての信用供与に関する報告書に関する省令（昭和二十六年大蔵省令第四十六号）は、廃止する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四〇年九月三〇日大蔵省令第五二号" Extract="true">
+    <SupplProvision AmendLawId="340052" AmendLawNum="昭和四〇年九月三〇日大蔵省令第五二号" Extract="true" Id="4ece15dc-189e-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和四十年十月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四一年八月二六日大蔵省令第四九号">
+    <SupplProvision AmendLawId="341049" AmendLawNum="昭和四一年八月二六日大蔵省令第四九号" Id="c36f8b32-1970-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和四十一年九月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四二年七月二〇日大蔵省令第四三号">
+    <SupplProvision AmendLawId="342043" AmendLawNum="昭和四二年七月二〇日大蔵省令第四三号" Id="c3a39238-1970-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和四十二年八月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">改正後の証券取引法第四十九条に規定する取引及びその保証金に関する省令第二条の二、第三条及び第七条（同令第二条の二第二号に規定する受入保証金の総額に係る部分に限る。）の規定は、この省令の施行の日以後に行なわれる信用取引又は発行日取引に係る保証金について適用し、同日前に行なわれた信用取引又は発行日取引に係る保証金については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行前に証券会社が顧客のために行なつた信用取引に係る保証金の引出し又は充当については、当該証券会社がこの省令の施行の日以後最初に当該顧客のために信用取引を行なうまでの間は、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四六年八月二五日大蔵省令第六一号" Extract="true">
+    <SupplProvision AmendLawId="346061" AmendLawNum="昭和四六年八月二五日大蔵省令第六一号" Extract="true" Id="c3d7a582-1970-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和四十六年九月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五〇年七月八日大蔵省令第三一号">
+    <SupplProvision AmendLawId="350031" AmendLawNum="昭和五〇年七月八日大蔵省令第三一号" Id="c40ba486-1970-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和五十年八月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">改正後の証券取引法第四十九条に規定する取引及びその保証金に関する省令第二条の二の規定は、この省令の施行の日以後に行われる信用取引に係る保証金について適用し、同日前に行われた信用取引に係る保証金については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行前に証券会社が顧客のために行つた信用取引に係る保証金の引出し又は充当については、当該証券会社がこの省令の施行の日以後最初に当該顧客のために信用取引を行うまでの間は、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五七年九月二八日大蔵省令第五四号" Extract="true">
+    <SupplProvision AmendLawId="357054" AmendLawNum="昭和五七年九月二八日大蔵省令第五四号" Extract="true" Id="c43fd56c-1970-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -518,9 +518,9 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一〇年六月一八日大蔵省令第九七号" Extract="true">
+    <SupplProvision AmendLawId="410097" AmendLawNum="平成一〇年六月一八日大蔵省令第九七号" Extract="true" Id="efdffea2-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -528,54 +528,54 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一〇年一一月二〇日大蔵省令第一三四号">
+    <SupplProvision AmendLawId="410134" AmendLawNum="平成一〇年一一月二〇日大蔵省令第一三四号" Id="c4a7f4d0-1970-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、金融システム改革のための関係法律の整備等に関する法律の施行の日（平成十年十二月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年六月二六日総理府令第六五号" Extract="true">
+    <SupplProvision AmendLawId="412065" AmendLawNum="平成一二年六月二六日総理府令第六五号" Extract="true" Id="efed69a2-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、平成十二年七月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年一〇月一〇日総理府令第一一六号" Extract="true">
+    <SupplProvision AmendLawId="412116" AmendLawNum="平成一二年一〇月一〇日総理府令第一一六号" Extract="true" Id="eff0d128-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">中央省庁等改革のための内閣関係政令等の整備に関する政令（平成十二年政令第三百三号）第九十三条の規定による改正前の企業会計審議会により公表された基準は、同条の規定による改正後の企業会計審議会により公表された基準とみなして、この府令による改正後の財務諸表等の監査証明に関する内閣府令第三条第三項、財務諸表等の用語、様式及び作成方法に関する規則第一条第二項、連結財務諸表の用語、様式及び作成方法に関する規則第一条第二項、中間財務諸表等の用語、様式及び作成方法に関する規則第一条第二項及び中間連結財務諸表の用語、様式及び作成方法に関する規則第一条第二項の規定を適用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年三月二九日内閣府令第二二号">
+    <SupplProvision AmendLawId="413022" AmendLawNum="平成一三年三月二九日内閣府令第二二号" Id="c5442f3a-1970-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年九月二五日内閣府令第七六号" Extract="true">
+    <SupplProvision AmendLawId="413076" AmendLawNum="平成一三年九月二五日内閣府令第七六号" Extract="true" Id="efff26ce-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令は、商法等の一部を改正する等の法律の施行の日（平成十三年十月一日、以下「施行日」という。）から施行する。</Sentence>
@@ -585,7 +585,7 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -593,39 +593,39 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一四年六月二八日内閣府令第五三号">
+    <SupplProvision AmendLawId="414053" AmendLawNum="平成一四年六月二八日内閣府令第五三号" Id="c5ac57f4-1970-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、平成十四年七月二十九日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一四年一二月六日内閣府令第七七号">
+    <SupplProvision AmendLawId="414077" AmendLawNum="平成一四年一二月六日内閣府令第七七号" Id="f00e3394-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、平成十五年一月六日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年一月三〇日内閣府令第三号" Extract="true">
+    <SupplProvision AmendLawId="416003" AmendLawNum="平成一六年一月三〇日内閣府令第三号" Extract="true" Id="4156d8e0-d3b8-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、平成十六年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一八年四月二〇日内閣府令第四九号" Extract="true">
+    <SupplProvision AmendLawId="418049" AmendLawNum="平成一八年四月二〇日内閣府令第四九号" Extract="true" Id="94e05716-1884-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令は、会社法の施行の日から施行する。</Sentence>
@@ -633,12 +633,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一九年八月七日内閣府令第五六号" Extract="true">
+    <SupplProvision AmendLawId="419056" AmendLawNum="平成一九年八月七日内閣府令第五六号" Extract="true" Id="4936ec58-1889-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令は、平成十九年九月三十日から施行する。</Sentence>
@@ -646,36 +646,36 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二〇年七月四日内閣府令第四三号" Extract="true">
+    <SupplProvision AmendLawId="420043" AmendLawNum="平成二〇年七月四日内閣府令第四三号" Extract="true" Id="de417cda-d3b5-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、株式等の取引に係る決済の合理化を図るための社債等の振替に関する法律等の一部を改正する法律の施行の日（以下「施行日」という。）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二二年一月二二日内閣府令第一号" Extract="true">
+    <SupplProvision AmendLawId="422001" AmendLawNum="平成二二年一月二二日内閣府令第一号" Extract="true" Id="df851d7a-1888-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、信託法の施行に伴う関係法律の整備等に関する法律附則第三号に掲げる規定の施行の日（平成二十二年七月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二四年九月二五日内閣府令第六三号">
+    <SupplProvision AmendLawId="424063" AmendLawNum="平成二四年九月二五日内閣府令第六三号" Id="c718c532-1970-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、平成二十五年一月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年六月五日内閣府令第九号" Type="Amend">
+    <SupplProvision AmendLawId="501009" AmendLawNum="令和元年六月五日内閣府令第九号" Id="1719d054-8b1b-11e9-a502-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="7" Year="34">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="7" Year="34">
   <LawNum>昭和三十四年法律第七号</LawNum>
   <LawBody>
     <LawTitle>未帰還者に関する特別措置法</LawTitle>
@@ -7,7 +7,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（この法律の目的）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、未帰還者のうち、国がその状況に関し調査究明した結果、なおこれを明らかにすることができない者について、特別の措置を講ずることを目的とする。</Sentence>
@@ -17,25 +17,25 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（民法第三十条の宣告の請求等の特例）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">未帰還者留守家族等援護法（昭和二十八年法律第百六十一号）第二条第一項に規定する未帰還者（以下「未帰還者」という。）に係る民法（明治二十九年法律第八十九号）第三十条の宣告の請求は、厚生労働大臣も行うことができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の請求をする場合には、厚生労働大臣は、当該未帰還者の留守家族の意向を尊重して行わなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の規定による厚生労働大臣の請求に基く民法第三十条の宣告（以下「戦時死亡宣告」という。）の取消の請求は、厚生労働大臣も行うことができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">厚生労働大臣が第一項又は前項の規定により戦時死亡宣告の請求又はその取消の請求を行う場合には、民事訴訟費用等に関する法律（昭和四十六年法律第四十号）第三条第一項の規定にかかわらず、その申立ての手数料を納めることを要しない。</Sentence>
@@ -45,13 +45,13 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（弔慰料の支給）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">未帰還者が戦時死亡宣告を受けたときは、その遺族に対し、弔慰料を支給する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の弔慰料の支給は、これを受けようとする者の請求に基いて行う。</Sentence>
@@ -61,7 +61,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（弔慰料の支給を受けるべき遺族の範囲）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">弔慰料の支給を受けるべき遺族の範囲は、戦時死亡宣告により未帰還者が死亡したものとみなされる日におけるその者の配偶者（婚姻の届出をしていないが、事実上婚姻関係と同様の事情にある者を含む。以下同じ。）、子、父母、孫、祖父母及び兄弟姉妹並びにこれらの者以外の三親等内の親族（未帰還者が死亡したものとみなされる日において帰還していたとすれば、その者によつて生計を維持し、又はその者と生計をともにしていたと認められる者に限る。）とする。</Sentence>
@@ -72,7 +72,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（弔慰料の支給を受けるべき遺族の順位）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">弔慰料の支給を受けるべき遺族の順位は、次に掲げる順序による。</Sentence>
@@ -145,7 +145,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定により弔慰料の支給を受けるべき順位にある遺族が、基準日において生死不明であり、かつ、その日以後引き続き二年以上（その者が基準日までに二年以上生死不明であるときは、一年以上）生死不明である場合において、他に同順位者がないときは、次順位者の請求により、その次順位者（その次順位者と同順位の他の遺族があるときは、そのすべての同順位者）を弔慰料の支給を受けるべき順位の遺族とみなすことができる。</Sentence>
@@ -155,7 +155,7 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（弔慰料の額）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">弔慰料の額は、戦時死亡宣告を受けた者一人につき三万円（当該戦時死亡宣告を受けた者が第十三条第一項の規定の適用を受ける者である場合においては、二万円）とする。</Sentence>
@@ -165,7 +165,7 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（同順位者が数人ある場合）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">弔慰料の支給を受けるべき同順位の遺族が数人あるときは、その一人のした弔慰料の支給の請求は、全員のためその全額につきしたものとみなし、その一人に対してした弔慰料の支給は、全員に対してしたものとみなす。</Sentence>
@@ -175,13 +175,13 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（弔慰料の支給を受ける権利を有する者が死亡した場合）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">弔慰料の支給を受ける権利を有する者が死亡した場合において、死亡した者がその死亡前に弔慰料の支給の請求をしていなかつたときは、死亡した者の相続人は、自己の名で、死亡した者の弔慰料の支給を請求することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前条の規定は、弔慰料の支給を受ける権利を有する者が死亡し、同順位の相続人が数人ある場合における弔慰料の支給の請求及びその支給について準用する。</Sentence>
@@ -191,7 +191,7 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（弔慰料の返還の免除）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">戦時死亡宣告の取消があつた場合において、弔慰料が支給されているときは、その支給された弔慰料は、国庫に返還させないことができる。</Sentence>
@@ -201,7 +201,7 @@
       <Article Delete="false" Hide="false" Num="10">
         <ArticleCaption>（時効）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">弔慰料の支給を受ける権利は、これを行使することができる時から三年間行使しないときは、時効によつて消滅する。</Sentence>
@@ -211,7 +211,7 @@
       <Article Delete="false" Hide="false" Num="11">
         <ArticleCaption>（譲渡等の禁止）</ArticleCaption>
         <ArticleTitle>第十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">弔慰料の支給を受ける権利は、譲渡し、担保に供し、又は差し押えることができない。</Sentence>
@@ -221,13 +221,13 @@
       <Article Delete="false" Hide="false" Num="12">
         <ArticleCaption>（非課税等）</ArticleCaption>
         <ArticleTitle>第十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">弔慰料として支給を受けた金銭を標準として、租税その他の公課を課することはできない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">弔慰料に関する書類には、印紙税を課さない。</Sentence>
@@ -237,7 +237,7 @@
       <Article Delete="false" Hide="false" Num="13">
         <ArticleCaption>（戦傷病者戦没者遺族等援護法等の適用）</ArticleCaption>
         <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">未帰還者であつて次の表の第一欄に掲げるものが戦時死亡宣告を受けたときは、それぞれ、同表の第二欄に掲げる法律の適用については、その者は、同表の第三欄に掲げる負傷又は疾病により同表の第四欄に掲げる日（同日後生存していたと認められる資料のある者については、戦時死亡宣告が、民法第三十条第一項の規定によるものであるときは同条同項の期間の初日の前日、同法同条第二項の規定によるものであるときは危難の去つた日）に死亡したものとみなす。</Sentence>
@@ -315,13 +315,13 @@
             </Table>
           </TableStruct>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">未帰還者であつて前項の規定の適用を受けるものが生存していること又は戦時死亡宣告により死亡したものとみなされた日と異なる日に死亡したことが判明したときは、当該未帰還者に関しては、はじめから前項の規定の適用がなかつたものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の場合において、戦傷病者戦没者遺族等援護法又は恩給法の規定による給付が行われており、かつ、当該未帰還者に関し新たに戦傷病者戦没者遺族等援護法若しくは恩給法又は未帰還者留守家族等援護法の規定による給付を行うべきときは、すでに行つた戦傷病者戦没者遺族等援護法又は恩給法の規定による給付は、新たに行うべき給付の内払とみなす。</Sentence>
@@ -331,7 +331,7 @@
       <Article Delete="false" Hide="false" Num="13_2">
         <ArticleCaption>（未帰還者とみなす者）</ArticleCaption>
         <ArticleTitle>第十三条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">次に掲げる者であつて未帰還者でないものは、この法律（前条を除く。）の適用については、未帰還者とみなす。</Sentence>
@@ -354,7 +354,7 @@
       <Article Delete="false" Hide="false" Num="14">
         <ArticleCaption>（都道府県が処理する事務）</ArticleCaption>
         <ArticleTitle>第十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律に規定する厚生労働大臣の権限に属する事務の一部は、政令で定めるところにより、都道府県知事が行うこととすることができる。</Sentence>
@@ -363,7 +363,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="15">
         <ArticleTitle>第十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -373,7 +373,7 @@
       <Article Delete="false" Hide="false" Num="16">
         <ArticleCaption>（省令への委任）</ArticleCaption>
         <ArticleTitle>第十六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律に特別の規定がある場合を除くほか、この法律の実施のための手続その他その執行について必要な細則は、厚生労働省令で定める。</Sentence>
@@ -383,7 +383,7 @@
     </MainProvision>
     <SupplProvision Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -391,9 +391,9 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三七年五月一〇日法律第一一五号" Extract="true">
+    <SupplProvision AmendLawId="337115" AmendLawNum="昭和三七年五月一〇日法律第一一五号" Extract="true" Id="43817192-1885-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -401,26 +401,26 @@
           <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条中戦傷病者戦没者遺族等援護法（以下「遺族援護法」という。）第八条第一項及び第四項並びに第二十六条の改正規定、第二条の規定、第三条中未帰還者留守家族等援護法（以下「留守家族援護法」という。）第八条の改正規定並びに附則第二項及び附則第四項から附則第九項までの規定は昭和三十七年十月一日から、第一条中遺族援護法第八条第三項の改正規定及び附則第三項の規定は昭和三十八年七月一日から施行し、改正後の留守家族援護法第十六条第一項（第二十五条において準用する場合を含む。）及び第十七条第一項の規定は昭和三十七年四月一日から、改正後の未帰還者に関する特別措置法第四条及び第五条の規定は、昭和三十四年四月一日から適用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="13">
+      <Paragraph Hide="false" Num="13" OldStyle="false">
         <ParagraphCaption>（未帰還者に関する特別措置法の一部改正に伴う経過措置）</ParagraphCaption>
         <ParagraphNum>１３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律の施行前に未帰還者に関する特別措置法（以下「特別措置法」という。）第二条第三項に規定する戦時死亡宣告（以下「戦時死亡宣告」という。）を受けた未帰還者に関し、改正前の特別措置法第四条及び第五条の規定により弔慰料の支給を受ける権利を有する者がある場合においては、弔慰料を受けるべき遺族の順位については、改正後の特別措置法第四条及び第五条の規定にかかわらず、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="14">
+      <Paragraph Hide="false" Num="14" OldStyle="false">
         <ParagraphNum>１４</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律の施行前に戦時死亡宣告を受けた未帰還者については、改正後の特別措置法第十三条の規定にかかわらず、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三八年四月一日法律第七四号" Extract="true">
+    <SupplProvision AmendLawId="338074" AmendLawNum="昭和三八年四月一日法律第七四号" Extract="true" Id="86615054-188a-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、昭和三十八年十月一日から施行する。</Sentence>
@@ -429,12 +429,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三九年七月九日法律第一五九号" Extract="true">
+    <SupplProvision AmendLawId="339159" AmendLawNum="昭和三九年七月九日法律第一五九号" Extract="true" Id="8674cfa8-188a-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、昭和三十九年十月一日から施行する。</Sentence>
@@ -442,9 +442,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四六年一二月三一日法律第一三〇号" Extract="true">
+    <SupplProvision AmendLawId="346130" AmendLawNum="昭和四六年一二月三一日法律第一三〇号" Extract="true" Id="2abb5bfa-1885-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -452,12 +452,12 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true">
+    <SupplProvision AmendLawId="411087" AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true" Id="8a6950aa-d3b6-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十二年四月一日から施行する。</Sentence>
@@ -479,7 +479,7 @@
       <Article Delete="false" Hide="false" Num="159">
         <ArticleCaption>（国等の事務）</ArticleCaption>
         <ArticleTitle>第百五十九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律による改正前のそれぞれの法律に規定するもののほか、この法律の施行前において、地方公共団体の機関が法律又はこれに基づく政令により管理し又は執行する国、他の地方公共団体その他公共団体の事務（附則第百六十一条において「国等の事務」という。）は、この法律の施行後は、地方公共団体が法律又はこれに基づく政令により当該地方公共団体の事務として処理するものとする。</Sentence>
@@ -489,13 +489,13 @@
       <Article Delete="false" Hide="false" Num="160">
         <ArticleCaption>（処分、申請等に関する経過措置）</ArticleCaption>
         <ArticleTitle>第百六十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律（附則第一条各号に掲げる規定については、当該各規定。以下この条及び附則第百六十三条において同じ。）の施行前に改正前のそれぞれの法律の規定によりされた許可等の処分その他の行為（以下この条において「処分等の行為」という。）又はこの法律の施行の際現に改正前のそれぞれの法律の規定によりされている許可等の申請その他の行為（以下この条において「申請等の行為」という。）で、この法律の施行の日においてこれらの行為に係る行政事務を行うべき者が異なることとなるものは、附則第二条から前条までの規定又は改正後のそれぞれの法律（これに基づく命令を含む。）の経過措置に関する規定に定めるものを除き、この法律の施行の日以後における改正後のそれぞれの法律の適用については、改正後のそれぞれの法律の相当規定によりされた処分等の行為又は申請等の行為とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前に改正前のそれぞれの法律の規定により国又は地方公共団体の機関に対し報告、届出、提出その他の手続をしなければならない事項で、この法律の施行の日前にその手続がされていないものについては、この法律及びこれに基づく政令に別段の定めがあるもののほか、これを、改正後のそれぞれの法律の相当規定により国又は地方公共団体の相当の機関に対して報告、届出、提出その他の手続をしなければならない事項についてその手続がされていないものとみなして、この法律による改正後のそれぞれの法律の規定を適用する。</Sentence>
@@ -505,14 +505,14 @@
       <Article Delete="false" Hide="false" Num="161">
         <ArticleCaption>（不服申立てに関する経過措置）</ArticleCaption>
         <ArticleTitle>第百六十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">施行日前にされた国等の事務に係る処分であって、当該処分をした行政庁（以下この条において「処分庁」という。）に施行日前に行政不服審査法に規定する上級行政庁（以下この条において「上級行政庁」という。）があったものについての同法による不服申立てについては、施行日以後においても、当該処分庁に引き続き上級行政庁があるものとみなして、行政不服審査法の規定を適用する。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、当該処分庁の上級行政庁とみなされる行政庁は、施行日前に当該処分庁の上級行政庁であった行政庁とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の場合において、上級行政庁とみなされる行政庁が地方公共団体の機関であるときは、当該機関が行政不服審査法の規定により処理することとされる事務は、新地方自治法第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
@@ -522,7 +522,7 @@
       <Article Delete="false" Hide="false" Num="164">
         <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
         <ArticleTitle>第百六十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
@@ -532,7 +532,7 @@
       <Article Delete="false" Hide="false" Num="250">
         <ArticleCaption>（検討）</ArticleCaption>
         <ArticleTitle>第二百五十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">新地方自治法第二条第九項第一号に規定する第一号法定受託事務については、できる限り新たに設けることのないようにするとともに、新地方自治法別表第一に掲げるもの及び新地方自治法に基づく政令に示すものについては、地方分権を推進する観点から検討を加え、適宜、適切な見直しを行うものとする。</Sentence>
@@ -541,7 +541,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="251">
         <ArticleTitle>第二百五十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、地方公共団体が事務及び事業を自主的かつ自立的に執行できるよう、国と地方公共団体との役割分担に応じた地方税財源の充実確保の方途について、経済情勢の推移等を勘案しつつ検討し、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
@@ -549,12 +549,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
+    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。</Sentence>
@@ -574,18 +574,18 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二三年五月二五日法律第五三号">
+    <SupplProvision AmendLawId="423053" AmendLawNum="平成二三年五月二五日法律第五三号" Id="f6b9778e-d3b2-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、新非訟事件手続法の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二九年六月二日法律第四五号" Type="Amend">
+    <SupplProvision AmendLawId="429045" AmendLawNum="平成二九年六月二日法律第四五号" Id="0764f7de-49d6-11e7-99a6-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、民法改正法の施行の日から施行する。</Sentence>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="32" Year="47">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="32" Year="47">
   <LawNum>昭和四十七年労働省令第三十二号</LawNum>
   <LawBody>
     <LawTitle>労働安全衛生規則</LawTitle>
@@ -15667,41 +15667,24 @@
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">鋼材の許容座屈応力の値は、次の式により計算を行つて得た値以下とすること。</Sentence>
-</ItemSentence>
-                   <List>
-<ListSentence>
+                    <Sentence Num="1" WritingMode="vertical">鋼材の許容座屈応力の値は、次の式により計算を行つて得た値以下とすること。</Sentence></ItemSentence>
+                   <List><ListSentence>
                     <Sentence Num="2" WritingMode="vertical">
-                      <ArithFormula>ｌ／ｉ≦Λ</ArithFormula>の場合</Sentence>
-</ListSentence>
-</List>
-                   <List>
-<ListSentence>
+                      <ArithFormula>ｌ／ｉ≦Λ</ArithFormula>の場合</Sentence></ListSentence></List>
+                   <List><ListSentence>
                     <Sentence Num="3" WritingMode="vertical">
                       <ArithFormula>бｃ＝（（１－０．４（（ｌ／ｉ）／Λ）<Sup>２</Sup>）／ν）Ｆ</ArithFormula>
-                    </Sentence>
-</ListSentence>
-</List>
-                   <List>
-<ListSentence>
+                    </Sentence></ListSentence></List>
+                   <List><ListSentence>
                     <Sentence Num="4" WritingMode="vertical">
-                      <ArithFormula>ｌ／ｉ＞Λ</ArithFormula>の場合</Sentence>
-</ListSentence>
-</List>
-                   <List>
-<ListSentence>
+                      <ArithFormula>ｌ／ｉ＞Λ</ArithFormula>の場合</Sentence></ListSentence></List>
+                   <List><ListSentence>
                     <Sentence Num="5" WritingMode="vertical">
                       <ArithFormula>бｃ＝（０．２９／（（ｌ／ｉ）／Λ）<Sup>２</Sup>）Ｆ</ArithFormula>
-                    </Sentence>
-</ListSentence>
-</List>
-                   <List>
-<ListSentence>
-                    <Sentence Num="6" WritingMode="vertical">（これらの式において、ｌ、ｉ、<ArithFormula>Λ</ArithFormula>、<ArithFormula>бｃ</ArithFormula>、<ArithFormula>ν</ArithFormula>及びＦは、それぞれ次の値を表すものとする。</Sentence>
-</ListSentence>
-</List>
-                   <List>
-<ListSentence>
+                    </Sentence></ListSentence></List>
+                   <List><ListSentence>
+                    <Sentence Num="6" WritingMode="vertical">（これらの式において、ｌ、ｉ、<ArithFormula>Λ</ArithFormula>、<ArithFormula>бｃ</ArithFormula>、<ArithFormula>ν</ArithFormula>及びＦは、それぞれ次の値を表すものとする。</Sentence></ListSentence></List>
+                   <List><ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">ｌ</Sentence>
                     </Column>
@@ -15710,11 +15693,8 @@
                     </Column>
                     <Column Num="3">
                       <Sentence Num="1" WritingMode="vertical">センチメートル）</Sentence>
-                    </Column>
-</ListSentence>
-</List>
-                   <List>
-<ListSentence>
+                    </Column></ListSentence></List>
+                   <List><ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">ｉ</Sentence>
                     </Column>
@@ -15723,11 +15703,8 @@
                     </Column>
                     <Column Num="3">
                       <Sentence Num="1" WritingMode="vertical">センチメートル）</Sentence>
-                    </Column>
-</ListSentence>
-</List>
-                   <List>
-<ListSentence>
+                    </Column></ListSentence></List>
+                   <List><ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">
                         <ArithFormula>Λ</ArithFormula>
@@ -15737,21 +15714,15 @@
                       <Sentence Num="1" WritingMode="vertical">
                         <ArithFormula>限界細長比＝√（π<Sup>２</Sup>Ｅ／０．６Ｆ）</ArithFormula>
                       </Sentence>
-                    </Column>
-</ListSentence>
-</List>
-                   <List>
-<ListSentence>
+                    </Column></ListSentence></List>
+                   <List><ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">ただし、π</Sentence>
                     </Column>
                     <Column Num="2">
                       <Sentence Num="1" WritingMode="vertical">円周率</Sentence>
-                    </Column>
-</ListSentence>
-</List>
-                   <List>
-<ListSentence>
+                    </Column></ListSentence></List>
+                   <List><ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">Ｅ</Sentence>
                     </Column>
@@ -15760,11 +15731,8 @@
                     </Column>
                     <Column Num="3">
                       <Sentence Num="1" WritingMode="vertical">ニュートン毎平方センチメートル）</Sentence>
-                    </Column>
-</ListSentence>
-</List>
-                   <List>
-<ListSentence>
+                    </Column></ListSentence></List>
+                   <List><ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">
                         <ArithFormula>бｃ</ArithFormula>
@@ -15775,11 +15743,8 @@
                     </Column>
                     <Column Num="3">
                       <Sentence Num="1" WritingMode="vertical">ニュートン毎平方センチメートル）</Sentence>
-                    </Column>
-</ListSentence>
-</List>
-                   <List>
-<ListSentence>
+                    </Column></ListSentence></List>
+                   <List><ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">
                         <ArithFormula>ν</ArithFormula>
@@ -15790,11 +15755,8 @@
                         <ArithFormula>安全率＝１．５＋０．５７（（ｌ／ｉ）／Λ）<Sup>２</Sup>
                         </ArithFormula>
                       </Sentence>
-                    </Column>
-</ListSentence>
-</List>
-                   <List>
-<ListSentence>
+                    </Column></ListSentence></List>
+                   <List><ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">Ｆ</Sentence>
                     </Column>
@@ -15803,9 +15765,7 @@
                     </Column>
                     <Column Num="3">
                       <Sentence Num="1" WritingMode="vertical">ニュートン毎平方センチメートル））</Sentence>
-                    </Column>
-</ListSentence>
-</List>
+                    </Column></ListSentence></List>
                   </Item>
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
@@ -15895,10 +15855,8 @@
                 <Item Num="5">
                   <ItemTitle>五</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">木材の繊維方向の許容座屈応力の値は、次の式により計算を行つて得た値以下とすること。</Sentence>
-</ItemSentence>
-                   <List>
-<ListSentence>
+                    <Sentence Num="1" WritingMode="vertical">木材の繊維方向の許容座屈応力の値は、次の式により計算を行つて得た値以下とすること。</Sentence></ItemSentence>
+                   <List><ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">
                         <ArithFormula>ｌ<Sub>ｋ</Sub>／ｉ≦１００</ArithFormula>の場合</Sentence>
@@ -15907,11 +15865,8 @@
                       <Sentence Num="1" WritingMode="vertical">
                         <ArithFormula>ｆ<Sub>ｋ</Sub>＝ｆ<Sub>ｃ</Sub>（１－０．００７（ｌ<Sub>ｋ</Sub>／ｉ））</ArithFormula>
                       </Sentence>
-                    </Column>
-</ListSentence>
-</List>
-                   <List>
-<ListSentence>
+                    </Column></ListSentence></List>
+                   <List><ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">
                         <ArithFormula>ｌ<Sub>ｋ</Sub>／ｉ＞１００</ArithFormula>の場合</Sentence>
@@ -15922,11 +15877,8 @@
                         </ArithFormula>
                       </Sentence>
                       <Sentence Num="2" WritingMode="vertical"> （これらの式において、ｌ<Sub>ｋ</Sub>、ｉ、ｆ<Sub>ｃ</Sub>及びｆ<Sub>ｋ</Sub>は、それぞれ次の値を表すものとする。</Sentence>
-                    </Column>
-</ListSentence>
-</List>
-                   <List>
-<ListSentence>
+                    </Column></ListSentence></List>
+                   <List><ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">ｌ<Sub>ｋ</Sub>
                       </Sentence>
@@ -15936,11 +15888,8 @@
                     </Column>
                     <Column Num="3">
                       <Sentence Num="1" WritingMode="vertical">センチメートル）</Sentence>
-                    </Column>
-</ListSentence>
-</List>
-                   <List>
-<ListSentence>
+                    </Column></ListSentence></List>
+                   <List><ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">ｉ</Sentence>
                     </Column>
@@ -15949,11 +15898,8 @@
                     </Column>
                     <Column Num="3">
                       <Sentence Num="1" WritingMode="vertical">センチメートル）</Sentence>
-                    </Column>
-</ListSentence>
-</List>
-                   <List>
-<ListSentence>
+                    </Column></ListSentence></List>
+                   <List><ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">ｆ<Sub>ｃ</Sub>
                       </Sentence>
@@ -15963,11 +15909,8 @@
                     </Column>
                     <Column Num="3">
                       <Sentence Num="1" WritingMode="vertical">ニュートン毎平方センチメートル）</Sentence>
-                    </Column>
-</ListSentence>
-</List>
-                   <List>
-<ListSentence>
+                    </Column></ListSentence></List>
+                   <List><ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">ｆ<Sub>ｋ</Sub>
                       </Sentence>
@@ -15977,9 +15920,7 @@
                     </Column>
                     <Column Num="3">
                       <Sentence Num="1" WritingMode="vertical">ニュートン毎平方センチメートル））</Sentence>
-                    </Column>
-</ListSentence>
-</List>
+                    </Column></ListSentence></List>
                   </Item>
               </Paragraph>
             </Article>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="181129e04k03m01" Era="Showa" Lang="ja" LawType="Act" Num="27" Year="23">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="27" Year="23">
   <LawNum>昭和二十三年法律第二十七号</LawNum>
   <LawBody>
     <LawTitle>財政法第三条の特例に関する法律</LawTitle>
     <MainProvision>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">政府は、現在の経済緊急事態の存続する間に限り、財政法（昭和二十二年法律第三十四号）第三条に規定する価格、料金等は、法律の定め又は国会の議決を経なくても、これを決定し、又は改定することができる。</Sentence>
@@ -13,28 +13,28 @@
     </MainProvision>
     <SupplProvision Extract="false" Type="New">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>○１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律施行の期日は、その成立の日から十日を超えない期間内において、政令でこれを定める。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>○２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、物価統制令の廃止とともに、その効力を失う。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>○３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">財政法第三条の規定施行の際現に効力を有するこの法律の本則各号に掲げる定価、料金及び基本賃率は、財政法第三条の規定施行の日において、同条の規定に基いて定められたものとみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四一年三月二五日法律第八号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawId="341008" AmendLawNum="昭和四一年三月二五日法律第八号" Extract="true" Id="83d84ca4-d3c6-11e9-ab6a-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -42,12 +42,12 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五九年八月一〇日法律第七一号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawId="359071" AmendLawNum="昭和五九年八月一〇日法律第七一号" Extract="true" Id="f5e8256e-d3bf-11e9-ab6a-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、昭和六十年四月一日から施行する。</Sentence>
@@ -55,12 +55,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五九年一二月二五日法律第八七号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawId="359087" AmendLawNum="昭和五九年一二月二五日法律第八七号" Extract="true" Id="f5ec2d08-d3bf-11e9-ab6a-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、昭和六十年四月一日から施行する。</Sentence>
@@ -68,12 +68,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和六一年一二月四日法律第九三号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawId="361093" AmendLawNum="昭和六一年一二月四日法律第九三号" Extract="true" Id="655b0f10-47dd-11e5-9356-631b6858fb32" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、昭和六十二年四月一日から施行する。</Sentence>
@@ -81,12 +81,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一四年七月三一日法律第九八号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawId="414098" AmendLawNum="平成一四年七月三一日法律第九八号" Extract="true" Id="9171d2c4-d3b5-11e9-ab6a-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公社法の施行の日から施行する。</Sentence>
@@ -108,7 +108,7 @@
       <Article Delete="false" Hide="false" Num="39">
         <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
         <ArticleTitle>第三十九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律に規定するもののほか、公社法及びこの法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Reiwa" Lang="ja" LawType="Rule" Num="011" Year="02">
+<Law AmendmentId="" AmendmentNum="" Era="Reiwa" Lang="ja" LawType="Rule" Num="011" Year="02">
   <LawNum>令和二年原子力規制委員会規則第十一号</LawNum>
   <LawBody>
     <LawTitle>使用施設等の技術基準に関する規則</LawTitle>
@@ -28,7 +28,7 @@
         <Article Delete="false" Hide="false" Num="1">
           <ArticleCaption>（適用範囲）</ArticleCaption>
           <ArticleTitle>第一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この規則は、核原料物質、核燃料物質及び原子炉の規制に関する法律（以下「法」という。）第五十五条の二第一項の検査の対象となる使用施設等について適用する。</Sentence>
@@ -38,13 +38,13 @@
         <Article Delete="false" Hide="false" Num="2">
           <ArticleCaption>（定義）</ArticleCaption>
           <ArticleTitle>第二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この規則において使用する用語は、法において使用する用語の例による。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この規則において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
@@ -142,13 +142,13 @@
         <Article Delete="false" Hide="false" Num="3">
           <ArticleCaption>（特殊な設計による使用施設等）</ArticleCaption>
           <ArticleTitle>第三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">特別の理由により原子力規制委員会の認可を受けた場合は、この規則の規定によらないで使用施設等を設置することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の認可を受けようとする者は、その理由及び設置方法を記載した申請書に関係図面を添付して申請しなければならない。</Sentence>
@@ -161,7 +161,7 @@
         <Article Delete="false" Hide="false" Num="4">
           <ArticleCaption>（核燃料物質の臨界防止）</ArticleCaption>
           <ArticleTitle>第四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等は、核燃料物質の臨界を防止するため、次に掲げる措置が講じられたものでなければならない。</Sentence>
@@ -189,7 +189,7 @@
         <Article Delete="false" Hide="false" Num="5">
           <ArticleCaption>（使用施設等の地盤）</ArticleCaption>
           <ArticleTitle>第五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等は、使用許可基準規則第八条第一項の地震力が作用した場合においても当該使用施設等を十分に支持することができる地盤に設置されたものでなければならない。</Sentence>
@@ -199,19 +199,19 @@
         <Article Delete="false" Hide="false" Num="6">
           <ArticleCaption>（地震による損傷の防止）</ArticleCaption>
           <ArticleTitle>第六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等は、これに作用する地震力（使用許可基準規則第九条第二項の規定により算定する地震力をいう。）による損壊により公衆に放射線障害を及ぼすことがないものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">耐震重要施設（使用許可基準規則第八条第一項に規定する耐震重要施設をいう。以下この条において同じ。）は、使用許可基準規則第九条第三項の地震力に対してその安全機能が損なわれるおそれがないものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">耐震重要施設は、使用許可基準規則第九条第三項の地震により生ずる斜面の崩壊によりその安全機能が損なわれるおそれがないよう、防護措置その他の適切な措置が講じられたものでなければならない。</Sentence>
@@ -221,7 +221,7 @@
         <Article Delete="false" Hide="false" Num="7">
           <ArticleCaption>（津波による損傷の防止）</ArticleCaption>
           <ArticleTitle>第七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等は、その供用中に当該使用施設等に大きな影響を及ぼすおそれがある津波によりその安全機能が損なわれるおそれがないよう、防護措置その他の適切な措置が講じられたものでなければならない。</Sentence>
@@ -231,13 +231,13 @@
         <Article Delete="false" Hide="false" Num="8">
           <ArticleCaption>（外部からの衝撃による損傷の防止）</ArticleCaption>
           <ArticleTitle>第八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等は、想定される自然現象（地震及び津波を除く。）によりその安全機能を損なうおそれがある場合には、防護措置その他の適切な措置が講じられたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等は、周辺監視区域に隣接する地域に事業所、鉄道、道路その他の外部からの衝撃が発生するおそれがある要因がある場合には、事業所における火災又は爆発事故、危険物を搭載した車両、船舶又は航空機の事故その他の敷地及び敷地周辺の状況から想定される事象であって人為によるもの（故意によるものを除く。）により使用施設等の安全性が損なわれないよう、防護措置その他の適切な措置が講じられたものでなければならない。</Sentence>
@@ -247,7 +247,7 @@
         <Article Delete="false" Hide="false" Num="9">
           <ArticleCaption>（立入りの防止）</ArticleCaption>
           <ArticleTitle>第九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等は、人がみだりに管理区域内及び周辺監視区域内に立ち入らないような次に掲げる措置が講じられたものでなければならない。</Sentence>
@@ -270,13 +270,13 @@
         <Article Delete="false" Hide="false" Num="10">
           <ArticleCaption>（使用施設等への人の不法な侵入等の防止）</ArticleCaption>
           <ArticleTitle>第十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等を設置する工場又は事業所（以下「工場等」という。）は、使用施設等への人の不法な侵入、使用施設等に不正に爆発性又は易燃性を有する物件その他人に危害を与え、又は他の物件を損傷するおそれがある物件が持ち込まれることを防止するため、適切な措置が講じられたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">工場等は、必要に応じて、不正アクセス行為（不正アクセス行為の禁止等に関する法律（平成十一年法律第百二十八号）第二条第四項に規定する不正アクセス行為をいう。）を防止するため、適切な措置が講じられたものでなければならない。</Sentence>
@@ -286,7 +286,7 @@
         <Article Delete="false" Hide="false" Num="11">
           <ArticleCaption>（閉じ込めの機能）</ArticleCaption>
           <ArticleTitle>第十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等は、次に掲げるところにより、核燃料物質又は核燃料物質によって汚染された物（以下「核燃料物質等」という。）を限定された区域に閉じ込める機能を保持するように設置されたものでなければならない。</Sentence>
@@ -344,7 +344,7 @@
         <Article Delete="false" Hide="false" Num="12">
           <ArticleCaption>（火災等による損傷の防止）</ArticleCaption>
           <ArticleTitle>第十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等は、火災及び爆発の発生を防止することができ、かつ、火災及び爆発の影響を軽減するために次に掲げる措置が講じられたものでなければならない。</Sentence>
@@ -385,7 +385,7 @@
           <ArticleCaption>（<Ruby>溢<Rt>いつ</Rt>
 </Ruby>水による損傷の防止）</ArticleCaption>
           <ArticleTitle>第十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等は、その施設内における<Ruby>溢<Rt>いつ</Rt>
@@ -396,7 +396,7 @@
         <Article Delete="false" Hide="false" Num="14">
           <ArticleCaption>（化学薬品の漏えいによる損傷の防止）</ArticleCaption>
           <ArticleTitle>第十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等は、その施設内における化学薬品の漏えいによりその安全機能を損なうおそれがある場合は、防護措置その他の適切な措置が講じられたものでなければならない。</Sentence>
@@ -406,7 +406,7 @@
         <Article Delete="false" Hide="false" Num="15">
           <ArticleCaption>（安全避難通路等）</ArticleCaption>
           <ArticleTitle>第十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等には、次に掲げる設備が設けられていなければならない。</Sentence>
@@ -434,25 +434,25 @@
         <Article Delete="false" Hide="false" Num="16">
           <ArticleCaption>（使用施設等の機能）</ArticleCaption>
           <ArticleTitle>第十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等は、通常時及び設計評価事故時に想定される全ての環境条件において、その安全機能を発揮することができるように設置されたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等は、当該使用施設等の安全機能を確認するための検査又は試験及び当該安全機能を健全に維持するための保守又は修理ができるように設置されたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等に属する設備であって、機器又は配管の損壊に伴う飛散物により損傷を受け、使用施設等の安全機能を損なうことが想定されるものは、防護措置その他の適切な措置が講じられたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等は、他の原子力施設又は同一の工場等内の他の使用施設等と共用する場合には、使用施設等の安全性を損なわないように設置されたものでなければならない。</Sentence>
@@ -462,7 +462,7 @@
         <Article Delete="false" Hide="false" Num="17">
           <ArticleCaption>（材料及び構造）</ArticleCaption>
           <ArticleTitle>第十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等に属する容器及び管並びにこれらを支持する構造物のうち、使用施設等の安全性を確保する上で重要なもの（以下この項において「容器等」という。）の材料及び構造は、次に掲げるところによらなければならない。</Sentence>
@@ -504,7 +504,7 @@
               </Subitem1>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等に属する容器及び管のうち、使用施設等の安全性を確保する上で重要なものは、適切な耐圧試験又は漏えい試験を行ったとき、これに耐え、かつ、著しい漏えいがないように設置されたものでなければならない。</Sentence>
@@ -514,7 +514,7 @@
         <Article Delete="false" Hide="false" Num="18">
           <ArticleCaption>（貯蔵施設）</ArticleCaption>
           <ArticleTitle>第十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">貯蔵施設は、次に掲げるところにより設置されたものでなければならない。</Sentence>
@@ -542,7 +542,7 @@
         <Article Delete="false" Hide="false" Num="19">
           <ArticleCaption>（汚染を検査するための設備）</ArticleCaption>
           <ArticleTitle>第十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等には、密封されていない核燃料物質を使用する場合にあっては、管理区域内の放射性物質により汚染されるおそれのある場所から退出する者の放射性物質による汚染を検査するために必要な設備が備えられていなければならない。</Sentence>
@@ -552,7 +552,7 @@
         <Article Delete="false" Hide="false" Num="20">
           <ArticleCaption>（放射線管理設備）</ArticleCaption>
           <ArticleTitle>第二十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">工場等には、次に掲げる事項を計測する放射線管理設備が備えられていなければならない。</Sentence>
@@ -581,7 +581,7 @@
         <Article Delete="false" Hide="false" Num="21">
           <ArticleCaption>（安全回路）</ArticleCaption>
           <ArticleTitle>第二十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等には、その設備の機能の喪失、誤操作その他の要因により使用施設等の安全性を著しく損なうおそれが生じたときに、核燃料物質等を限定された区域に閉じ込める能力の維持、熱的、化学的若しくは核的制限値の維持又は火災若しくは爆発の防止のための設備を速やかに作動させる必要がある場合には、当該設備の作動を速やかに、かつ、自動的に開始させる回路が設けられていなければならない。</Sentence>
@@ -591,7 +591,7 @@
         <Article Delete="false" Hide="false" Num="22">
           <ArticleCaption>（廃棄施設）</ArticleCaption>
           <ArticleTitle>第二十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">廃棄施設は、次に掲げる要件を備えていなければならない。</Sentence>
@@ -656,7 +656,7 @@
         <Article Delete="false" Hide="false" Num="23">
           <ArticleCaption>（核燃料物質等による汚染の防止）</ArticleCaption>
           <ArticleTitle>第二十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等のうち人が頻繁に出入りする建物内部の壁、床その他の部分であって、核燃料物質等により汚染されるおそれがあり、かつ、人が触れるおそれがあるものの表面は、核燃料物質等による汚染を除去しやすいものでなければならない。</Sentence>
@@ -666,7 +666,7 @@
         <Article Delete="false" Hide="false" Num="24">
           <ArticleCaption>（遮蔽）</ArticleCaption>
           <ArticleTitle>第二十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等は、放射線障害を防止するため、次に掲げる措置が講じられたものでなければならない。</Sentence>
@@ -689,7 +689,7 @@
         <Article Delete="false" Hide="false" Num="25">
           <ArticleCaption>（非常用電源設備）</ArticleCaption>
           <ArticleTitle>第二十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等には、次に掲げる非常用電源設備が設けられていなければならない。</Sentence>
@@ -711,25 +711,25 @@
         <Article Delete="false" Hide="false" Num="26">
           <ArticleCaption>（警報装置等）</ArticleCaption>
           <ArticleTitle>第二十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等には、その設備の機能の喪失、誤操作その他の要因により使用施設等の安全性を著しく損なうおそれが生じたとき、第二十二条第一号の放射性物質の濃度が著しく上昇したとき又は液体状の放射性廃棄物の廃棄施設から液体状の放射性物質が著しく漏えいするおそれが生じたときに、これらを確実に検知して速やかに警報する設備が設けられていなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">工場等には、設計評価事故が発生した場合において工場等内の人に対し必要な指示ができるよう、警報装置及び通信連絡設備が設けられていなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">工場等には、設計評価事故が発生した場合において使用施設等の外の通信連絡をする必要がある場所と通信連絡ができるよう、専用通信回線が設けられていなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の専用通信回線は、必要に応じて多様性を有するものでなければならない。</Sentence>
@@ -739,7 +739,7 @@
         <Article Delete="false" Hide="false" Num="27">
           <ArticleCaption>（多量の放射性物質等を放出する事故の拡大の防止）</ArticleCaption>
           <ArticleTitle>第二十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用施設等は、発生頻度が設計評価事故より低い事故であって、当該使用施設等から多量の放射性物質又は放射線を放出するおそれがあるものが発生した場合において、当該事故の拡大を防止するために必要な措置が講じられたものでなければならない。</Sentence>
@@ -752,7 +752,7 @@
         <Article Delete="false" Hide="false" Num="28">
           <ArticleCaption>（電磁的記録媒体による手続）</ArticleCaption>
           <ArticleTitle>第二十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第三条第二項の申請書の提出については、当該申請書の提出に代えて、当該申請書に記載すべきこととされている事項を記録した電磁的記録媒体（電磁的記録（電子的方法、磁気的方法その他の人の知覚によって認識することができない方法で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。）に係る記録媒体をいう。以下同じ。）及び別記様式の電磁的記録媒体提出票を提出することにより行うことができる。</Sentence>
@@ -766,7 +766,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則は、原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律第三条の規定の施行の日（令和二年四月一日）から施行する。</Sentence>

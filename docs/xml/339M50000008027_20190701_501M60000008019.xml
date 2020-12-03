@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="027" Year="39">
+<Law AmendmentId="501M60000008019" AmendmentNum="令和元年総務省令第十九号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="027" Year="39">
   <LawNum>昭和三十九年自治省令第二十七号</LawNum>
   <LawBody>
     <LawTitle>消火器の技術上の規格を定める省令</LawTitle>
@@ -36,7 +36,7 @@
         <Article Delete="false" Hide="false" Num="1">
           <ArticleCaption>（趣旨）</ArticleCaption>
           <ArticleTitle>第一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この省令は、消火器の技術上の規格を定めるものとする。</Sentence>
@@ -46,7 +46,7 @@
         <Article Delete="false" Hide="false" Num="1_2">
           <ArticleCaption>（用語の意義）</ArticleCaption>
           <ArticleTitle>第一条の二</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この省令において次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
@@ -213,7 +213,7 @@
         <Article Delete="false" Hide="false" Num="2">
           <ArticleCaption>（能力単位）</ArticleCaption>
           <ArticleTitle>第二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">消火器（住宅用消火器以外の消火器（交換式消火器を除く。）をいう。以下この章において同じ。）は、次条又は第四条の規定により測定した能力単位の数値が一以上でなければならない。</Sentence>
@@ -224,13 +224,13 @@
         <Article Delete="false" Hide="false" Num="3">
           <ArticleCaption>（能力単位の測定）</ArticleCaption>
           <ArticleTitle>第三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器のＡ火災に対する能力単位の数値は、第一消火試験により測定するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の第一消火試験は第一号から第六号までに定めるところにより、その判定は第七号の規定により、行わなければならない。</Sentence>
@@ -313,7 +313,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定により第一消火試験を行つた消火器のＡ火災に対する能力単位の数値は、Ｓ個の第一模型を完全に消火したものにあつては二にＳを乗じた数値とし、Ｓ個の第一模型及び一個の第二模型を完全に消火したものにあつては二にＳを乗じた数値に一を加えた数値とする。</Sentence>
@@ -322,13 +322,13 @@
         </Article>
         <Article Delete="false" Hide="false" Num="4">
           <ArticleTitle>第四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器のＢ火災に対する能力単位の数値は、第二消火試験及び第三消火試験により測定するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の第二消火試験は第一号から第四号までに定めるところにより、その判定は第五号の規定により、行わなければならない。</Sentence>
@@ -570,7 +570,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項の第三消火試験は第一号から第六号までに定めるところにより、その判定は第七号の規定により、行なわなければならない。</Sentence>
@@ -619,7 +619,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前二項の規定により第二消火試験及び第三消火試験を行なつた消火器のＢ火災に対する能力単位の数値は、第二消火試験において完全に消火した模型の番号の数値と、第三消火試験において完全に消火した模型の番号の数値の合計数との算術平均値とする。</Sentence>
@@ -630,13 +630,13 @@
         <Article Delete="false" Hide="false" Num="5">
           <ArticleCaption>（操作の機構）</ArticleCaption>
           <ArticleTitle>第五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器は、その保持装置から取りはずす動作、背負う動作、安全栓をはずす動作及びホースをはずす動作を除き、一動作（化学泡消火器（泡消火器のうち消火薬剤の化学反応により生成される泡を放射して消火を行うものをいう。以下同じ。）、据置式の消火器（床面上に据え置いた状態でノズル部分を持ちホースを延長して使用できる消火器（車輪を有するものを除く。）をいう。以下同じ。）及び背負式の消火器（背負ひも等により、背負つて使用する消火器をいう。以下同じ。）にあつては二動作以内、車載式の消火器（運搬のための車輪を有する消火器をいう。以下同じ。）にあつては三動作以内）で容易に、かつ、確実に放射を開始することができるものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">消火器は、次の表の上欄に掲げる消火器の区分に応じ、それぞれ当該下欄で○印を附した操作方法のいずれか一の方法により作動して放射を開始することができるものでなければならない。</Sentence>
@@ -921,7 +921,7 @@
               </Table>
             </TableStruct>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器の安全栓、ハンドル、レバー、押ボタン等の操作部分には、操作方法を見やすい箇所に簡明に、かつ、消えないように表示しなければならない。</Sentence>
@@ -932,14 +932,14 @@
           <ArticleCaption>（耐食及び防<Ruby>錆<Rt>せい</Rt>
 </Ruby>）</ArticleCaption>
           <ArticleTitle>第六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器は、その各部分を良質の材料で造るとともに、充塡した消火剤に接触する部分をその消火剤に侵されない材料（以下「耐食性材料」という。）で造り、又は当該部分に耐食加工を施し、かつ、外気に接触する部分を容易にさびない材料で造り、又は当該部分に防<Ruby>錆<Rt>せい</Rt>
 </Ruby>加工を施さなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">消火器は、充塡した消火剤に接触する部分について三パーセントの塩化ナトリウム水溶液中に十四日間浸す腐食試験及び次の表の上欄に掲げる区分に応じ、それぞれ当該下欄に掲げる腐食試験を行なつた場合において、さびその他の異常を生じないものでなければならない。</Sentence>
@@ -974,7 +974,7 @@
               </Table>
             </TableStruct>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">充塡した消火剤に接触する部分に耐食塗装を施した消火器は、当該部分と同じ試験片について次の表の上欄に掲げる試験を行なつた場合において、それぞれ当該下欄に掲げる性能を有するものでなければならない。</Sentence>
@@ -1020,19 +1020,19 @@
         <Article Delete="false" Hide="false" Num="7">
           <ArticleCaption>（消火剤）</ArticleCaption>
           <ArticleTitle>第七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器（水消火器及び二酸化炭素消火器を除く。）に充塡された消火薬剤は、消火薬剤規格省令第一条の二から第八条までの規定に適合するものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">水消火器に充塡された水は、腐食性又は毒性を有せず、かつ、腐食性又は毒性のあるガスを発生しない純良なものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">二酸化炭素消火器に充塡された消火薬剤は、ＪＩＳ　Ｋ　一一〇六の二種又は三種に適合する液化二酸化炭素でなければならない。</Sentence>
@@ -1042,7 +1042,7 @@
         <Article Delete="false" Hide="false" Num="8">
           <ArticleCaption>（自動車用消火器）</ArticleCaption>
           <ArticleTitle>第八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">自動車に設置する消火器（以下「自動車用消火器」という。）は、強化液消火器（霧状の強化液を放射するものに限る。）、機械<Ruby>泡<Rt>あわ</Rt>
@@ -1055,7 +1055,7 @@
         <Article Delete="false" Hide="false" Num="9">
           <ArticleCaption>（大型消火器の消火剤）</ArticleCaption>
           <ArticleTitle>第九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">大型消火器に充塡された消火剤の量は、水消火器又は化学泡消火器にあつては八十リットル以上、機械泡消火器にあつては二十リットル以上、強化液消火器にあつては六十リットル以上、ハロゲン化物消火器にあつては三十キログラム以上、二酸化炭素消火器にあつては五十キログラム以上、粉末消火器にあつては二十キログラム以上でなければならない。</Sentence>
@@ -1065,7 +1065,7 @@
         <Article Delete="false" Hide="false" Num="10">
           <ArticleCaption>（放射性能）</ArticleCaption>
           <ArticleTitle>第十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器は、正常な操作方法で放射した場合において、次の各号に適合するものでなければならない。</Sentence>
@@ -1099,7 +1099,7 @@
         <Article Delete="false" Hide="false" Num="10_2">
           <ArticleCaption>（使用温度範囲）</ArticleCaption>
           <ArticleTitle>第十条の二</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器は、その種類に応じ、次の各号に掲げる温度範囲（十度単位で拡大した場合においてもなお正常に操作することができ、かつ、消火及び放射の機能を有効に発揮する性能を有する消火器にあつては、当該拡大した温度範囲。以下「使用温度範囲」という。）で使用した場合において、正常に操作することができ、かつ、消火及び放射の機能を有効に発揮することができるものでなければならない。</Sentence>
@@ -1131,7 +1131,7 @@
         <Article Delete="false" Hide="false" Num="11">
           <ArticleCaption>（本体容器の板厚）</ArticleCaption>
           <ArticleTitle>第十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次の表の上欄に掲げる消火器の本体容器は、それぞれ当該下欄に掲げる数値以上の板厚を有する堅ろうなものでなければならない。</Sentence>
@@ -1219,7 +1219,7 @@
         <Article Delete="false" Hide="false" Num="12">
           <ArticleCaption>（本体容器の耐圧）</ArticleCaption>
           <ArticleTitle>第十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器の本体容器（手動ポンプにより作動する水消火器にあつてはポンプ本体。以下この条において同じ。）の耐圧は、次の各号に適合するものでなければならない。</Sentence>
@@ -1463,7 +1463,7 @@
               </TableStruct>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項各号の表において、Ｐ及びＱは、それぞれ次の圧力値（単位メガパスカル）を表すものとする。</Sentence>
@@ -1503,7 +1503,7 @@
         <Article Delete="false" Hide="false" Num="12_2">
           <ArticleCaption>（蓄圧式の消火器の気密性）</ArticleCaption>
           <ArticleTitle>第十二条の二</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">蓄圧式の消火器は、消火剤を充塡した状態で、使用温度範囲の上限の温度に二十四時間放置してから使用温度範囲の下限の温度に二十四時間放置することを三回繰り返した後に温度二十度の空気中に二十四時間放置した場合において、圧縮ガス及び消火剤が漏れを生じないものでなければならない。</Sentence>
@@ -1513,7 +1513,7 @@
         <Article Delete="false" Hide="false" Num="13">
           <ArticleCaption>（キャップ、プラグ、口金及びパッキン）</ArticleCaption>
           <ArticleTitle>第十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器のキャップ、プラグ、口金及びパッキンは、次の各号に適合するものでなければならない。</Sentence>
@@ -1554,7 +1554,7 @@
         <Article Delete="false" Hide="false" Num="14">
           <ArticleCaption>（バルブ）</ArticleCaption>
           <ArticleTitle>第十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器のバルブは、次の各号に適合するものでなければならない。</Sentence>
@@ -1578,7 +1578,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">高圧ガス保安法（昭和二十六年法律第二百四号）の適用を受ける蓄圧式の消火器及び消火器の加圧用ガス容器（作動封板を設けたものを除く。）には、同法の適用を受けるバルブ（以下「容器弁」という。）を設け、かつ、当該容器弁は、次の各号に適合するものでなければならない。</Sentence>
@@ -1620,14 +1620,14 @@
         <Article Delete="false" Hide="false" Num="15">
           <ArticleCaption>（ホース）</ArticleCaption>
           <ArticleTitle>第十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">消火器には、ホースを取り付けなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、ハロゲン化物消火器でその消火剤の質量が四キログラム未満のもの又は粉末消火器でその消火剤の質量が一キログラム以下のものについては、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器のホースは、次の各号に適合するものでなければならない。</Sentence>
@@ -1661,14 +1661,14 @@
         <Article Delete="false" Hide="false" Num="16">
           <ArticleCaption>（ノズル）</ArticleCaption>
           <ArticleTitle>第十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">消火器（車載式の消火器を除く。）のノズルには、開閉式及び切替式の装置を設けてはならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、据置式の消火器及び背負式の消火器のノズルにあつては、開閉式の装置を設けることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器のノズルは、次の各号に適合するものでなければならない。</Sentence>
@@ -1709,7 +1709,7 @@
         <Article Delete="false" Hide="false" Num="17">
           <ArticleCaption>（ろ過網）</ArticleCaption>
           <ArticleTitle>第十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">手動ポンプにより作動する水消火器、ガラスびんを使用する酸アルカリ消火器若しくは強化液消火器又は化学泡消火器には、ノズル又はホースに通ずる薬剤導出管（薬剤導出管のない消火器にあつては、ノズル）の本体容器内における開口部に、次の各号に定めるところにより、ろ過網を設けなければならない。</Sentence>
@@ -1731,7 +1731,7 @@
         <Article Delete="false" Hide="false" Num="18">
           <ArticleCaption>（液面表示）</ArticleCaption>
           <ArticleTitle>第十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">手動ポンプにより作動する水消火器、酸アルカリ消火器及び化学泡消火器の本体容器の内面には、充塡された消火剤の液面を示す簡明な表示をしなければならない。</Sentence>
@@ -1741,7 +1741,7 @@
         <Article Delete="false" Hide="false" Num="19">
           <ArticleCaption>（衝撃強度等）</ArticleCaption>
           <ArticleTitle>第十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器は、運搬及び作動操作に伴う不時の落下、衝撃等に十分耐えることができるものであつて、かつ、耐久性を有する良質の材料を用いた堅ろうなものでなければならない。</Sentence>
@@ -1751,7 +1751,7 @@
         <Article Delete="false" Hide="false" Num="20">
           <ArticleCaption>（消火剤の漏出防止）</ArticleCaption>
           <ArticleTitle>第二十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">消火器には、温度上昇、振動等によつて充塡された消火剤の漏れを生じないように、漏出防止の装置を設けなければならない。</Sentence>
@@ -1762,20 +1762,20 @@
         <Article Delete="false" Hide="false" Num="21">
           <ArticleCaption>（安全栓）</ArticleCaption>
           <ArticleTitle>第二十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">消火器には、不時の作動を防止するため安全栓を設けなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、手動ポンプにより作動する水消火器又は転倒の一動作で作動する消火器については、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">安全栓は、一動作で容易に引き抜くことができ、かつ、その引き抜きに支障のない封が施されていなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">手さげ式の消火器（手にさげた状態で使用する消火器をいう。以下同じ。）のうち押し金具をたたく一動作及びふたをあけて転倒させる動作で作動するもの以外の消火器並びに据置式の消火器の安全栓については、前項の規定によるほか、次に定めるところによらなければならない。</Sentence>
@@ -1827,7 +1827,7 @@
         <Article Delete="false" Hide="false" Num="21_2">
           <ArticleCaption>（使用済の表示）</ArticleCaption>
           <ArticleTitle>第二十一条の二</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">手さげ式の消火器（指示圧力計のある蓄圧式の消火器、バルブを有しない消火器及び手動ポンプにより作動する水消火器を除く。）には、使用した場合、自動的に作動し、使用済であることが判別できる装置を設けなければならない。</Sentence>
@@ -1837,14 +1837,14 @@
         <Article Delete="false" Hide="false" Num="22">
           <ArticleCaption>（保持装置）</ArticleCaption>
           <ArticleTitle>第二十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">手さげ式の消火器（自動車用消火器を除く。）には、当該消火器を安定した状態に保たせるため保持装置を設けなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、鉛直に置くことができるものについては、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">保持装置は、消火器を容易に取りはずすことができる構造のものでなければならない。</Sentence>
@@ -1854,7 +1854,7 @@
         <Article Delete="false" Hide="false" Num="22_2">
           <ArticleCaption>（据置式の消火器の安定性）</ArticleCaption>
           <ArticleTitle>第二十二条の二</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">据置式の消火器は、ホースの延長その他の操作時において安定した状態を保つ構造のものでなければならない。</Sentence>
@@ -1864,13 +1864,13 @@
         <Article Delete="false" Hide="false" Num="23">
           <ArticleCaption>（携帯又は運搬の装置）</ArticleCaption>
           <ArticleTitle>第二十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器は、保持装置及び背負ひも又は車輪の質量を除く部分の質量が二十八キログラム以下のものにあつては手さげ式、据置式又は背負式に、二十八キログラムを超え三十五キログラム以下のものにあつては据置式、車載式又は背負式に、三十五キログラムを超えるものにあつては車載式にしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器の携帯又は運搬に用いる取手等、背負ひも又は車輪は、堅ろうで、かつ、消火器の携帯又は運搬及び作動に適した寸法及び形状のものでなければならない。</Sentence>
@@ -1880,7 +1880,7 @@
         <Article Delete="false" Hide="false" Num="24">
           <ArticleCaption>（安全弁）</ArticleCaption>
           <ArticleTitle>第二十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器の安全弁は、次の各号に適合するものでなければならない。</Sentence>
@@ -1924,7 +1924,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器の本体容器（高圧ガス保安法の適用を受けないものに限る。）又は容器弁以外のバルブに設ける安全弁は、次の表の上欄に掲げる当該安全弁を設ける消火器の区分に応じ、それぞれ当該下欄に掲げる作動圧力の範囲内で作動するものでなければならない。</Sentence>
@@ -2003,13 +2003,13 @@
               </Table>
             </TableStruct>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の表において、Ｐ及びＱは、第十二条第二項に規定する圧力値を表わし、Ｒは、本体容器内部の温度を四十度（消火器の使用温度範囲が四十度を超えるものにあつては、その最高温度）とした場合における放射中の本体容器の内部圧力の最大値を表すものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">容器弁に設ける安全弁は、次の各号に適合するものでなければならない。</Sentence>
@@ -2144,7 +2144,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の表において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
@@ -2201,7 +2201,7 @@
         <Article Delete="false" Hide="false" Num="25">
           <ArticleCaption>（加圧用ガス容器）</ArticleCaption>
           <ArticleTitle>第二十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">内容積が百立方センチメートルを超える加圧用ガス容器は、次の各号に適合するものでなければならない。</Sentence>
@@ -2237,7 +2237,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">内容積が百立方センチメートル以下の加圧用ガス容器は、前項第一号から第四号まで及び次の各号に適合するものでなければならない。</Sentence>
@@ -2265,7 +2265,7 @@
         <Article Delete="false" Hide="false" Num="26">
           <ArticleCaption>（圧力調整器）</ArticleCaption>
           <ArticleTitle>第二十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器の圧力調整器は、次の各号に適合するものでなければならない。</Sentence>
@@ -2301,7 +2301,7 @@
         <Article Delete="false" Hide="false" Num="27">
           <ArticleCaption>（ガス導入管）</ArticleCaption>
           <ArticleTitle>第二十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器のガス導入管は、第十二条第一項第一号及び第二号の表の上欄に掲げる加圧式の消火器の本体容器の区分に応じ、それぞれ当該下欄に掲げる圧力（加圧用ガス容器と本体容器との間に圧力調整器を有する消火器の加圧用ガス容器と圧力調整器との間のガス導入管又は加圧用ガス容器と本体容器との間に圧力調整器を有しないで開閉バルブを有する消火器の加圧用ガス容器と開閉バルブとの間のガス導入管については、二十メガパスカルの圧力）を水圧力で五分間加える試験を行つた場合において、漏れを生ぜず、かつ、著しい変形を生じないものでなければならない。</Sentence>
@@ -2311,7 +2311,7 @@
         <Article Delete="false" Hide="false" Num="28">
           <ArticleCaption>（指示圧力計）</ArticleCaption>
           <ArticleTitle>第二十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">蓄圧式の消火器（二酸化炭素消火器及びブロモトリフルオロメタン（以下「ハロン一三〇一」という。）消火器を除く。）には、次の各号に定めるところにより、指示圧力計を設けなければならない。</Sentence>
@@ -2413,7 +2413,7 @@
         <Article Delete="false" Hide="false" Num="29">
           <ArticleCaption>（放射圧力の圧力源たるガス等）</ArticleCaption>
           <ArticleTitle>第二十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器の放射圧力の圧力源として消火器に充塡されるガス又は化学薬品は、消火剤の性能又は性状に悪影響を与えないものでなければならない。</Sentence>
@@ -2423,7 +2423,7 @@
         <Article Delete="false" Hide="false" Num="30">
           <ArticleCaption>（自動車用消火器の振動試験）</ArticleCaption>
           <ArticleTitle>第三十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">自動車用消火器は、次の図に示す取付け方法で全振幅二ミリメートル、毎分二千回の上下振動を、図１及び図２にあつては二時間、図３にあつては四時間加える試験を行なつた場合において、漏れ、き裂、破断又は著しい変形を生じないものでなければならない。</Sentence>
@@ -2450,13 +2450,13 @@
         <Article Delete="false" Hide="false" Num="31">
           <ArticleCaption>（手動ポンプ）</ArticleCaption>
           <ArticleTitle>第三十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">手動ポンプにより作動する水消火器は、消火剤の放射が著しく脈動しない構造としなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">手動ポンプにより作動する水消火器で、ポンプのピストンに皮革製のわん皮を使用するものは、わん皮を潤滑油で浸潤する構造としなければならない。</Sentence>
@@ -2466,7 +2466,7 @@
         <Article Delete="false" Hide="false" Num="32">
           <ArticleCaption>（酸アルカリ消火器等の支持具等）</ArticleCaption>
           <ArticleTitle>第三十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">酸アルカリ消火器及び強化液消火器は、堅ろうな構造の支持具等を用いることによりその運搬、携帯その他の取扱いの際、消火剤を収納するびんに損傷を与えない構造でなければならない。</Sentence>
@@ -2476,7 +2476,7 @@
         <Article Delete="false" Hide="false" Num="33">
           <ArticleCaption>（作動軸等）</ArticleCaption>
           <ArticleTitle>第三十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">放射圧力の圧力源たるガスを消火器の本体容器内に導入するための作動軸及びガス導入管は、次の各号に適合するものでなければならない。</Sentence>
@@ -2499,7 +2499,7 @@
           <ArticleCaption>（化学<Ruby>泡<Rt>あわ</Rt>
 </Ruby>消火器の内筒）</ArticleCaption>
           <ArticleTitle>第三十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">化学<Ruby>泡<Rt>あわ</Rt>
@@ -2518,7 +2518,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">化学<Ruby>泡<Rt>あわ</Rt>
@@ -2559,13 +2559,13 @@
         <Article Delete="false" Hide="false" Num="35">
           <ArticleCaption>（二酸化炭素消火器等の充塡比等）</ArticleCaption>
           <ArticleTitle>第三十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">二酸化炭素消火器、ブロモクロロジフルオロメタン（以下「ハロン一二一一」という。）消火器及びハロン一三〇一消火器の本体容器の内容積は、充塡する液化炭酸、ハロン一二一一及びハロン一三〇一の質量一キログラムにつき、それぞれ千五百立方センチメートル、七百立方センチメートル及び九百立方センチメートル以上の容積としなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">二酸化炭素消火器、ハロン一二一一消火器及びハロン一三〇一消火器のホースは、第十五条第二項第一号の規定にかかわらず、次に掲げる試験を行つた場合において、漏れ、き裂、著しい変形その他の障害を生じないものでなければならない。</Sentence>
@@ -2583,19 +2583,19 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">二酸化炭素消火器の放射管は、その周囲を熱の不良導体で被覆しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">二酸化炭素消火器、ハロン一二一一消火器及びハロン一三〇一消火器の放射ホーンは、非吸湿性であり、かつ、電気絶縁性のある強じんな材料を用いて造られたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">二酸化炭素消火器、ハロン一二一一消火器及びハロン一三〇一消火器の放射管及び結合金具は、第二項第一号に規定する圧力を水圧力で五分間加える試験を行つた場合において、漏れ、離脱その他の障害を生じないものでなければならない。</Sentence>
@@ -2605,7 +2605,7 @@
         <Article Delete="false" Hide="false" Num="36">
           <ArticleCaption>（高圧ガス保安法の適用を受ける容器の特例）</ArticleCaption>
           <ArticleTitle>第三十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">高圧ガス保安法の適用を受ける本体容器、口金及び加圧用ガス容器については、第十二条及び第十三条の規定にかかわらず、同法及び容器保安規則の定めるところによる。</Sentence>
@@ -2616,7 +2616,7 @@
         <Article Delete="false" Hide="false" Num="37">
           <ArticleCaption>（塗色）</ArticleCaption>
           <ArticleTitle>第三十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器の外面は、その二十五パーセント以上を赤色仕上げとしなければならない。</Sentence>
@@ -2626,7 +2626,7 @@
         <Article Delete="false" Hide="false" Num="38">
           <ArticleCaption>（表示）</ArticleCaption>
           <ArticleTitle>第三十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器には、その見やすい位置に次の各号に掲げる事項を記載した簡明な表示をしなければならない。</Sentence>
@@ -2795,7 +2795,7 @@
               </Subitem1>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">ハロゲン化物消火器（ハロン一三〇一消火器を除く。）にあつては、前項の表示のほか、次の表示をしなければならない。</Sentence>
@@ -2805,7 +2805,7 @@
               <Fig src="./pict/S39F04301000027-009.jpg"/>
             </FigStruct>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">自動車用消火器にあつては、第一項の表示のほか、次の表示をしなければならない。</Sentence>
@@ -2815,7 +2815,7 @@
               <Fig src="./pict/S39F04301000027-010.jpg"/>
             </FigStruct>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">消火器には、その見やすい位置に次の各号に定めるところにより、表示をしなければならない。</Sentence>
@@ -2900,7 +2900,7 @@
         <Article Delete="false" Hide="false" Num="39">
           <ArticleCaption>（構造）</ArticleCaption>
           <ArticleTitle>第三十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">住宅用消火器（交換式消火器以外の住宅用消火器をいう。以下この章において同じ。）は、蓄圧式の消火器であつて、かつ、消火剤を再充塡できない構造でなければならない。</Sentence>
@@ -2910,7 +2910,7 @@
         <Article Delete="false" Hide="false" Num="40">
           <ArticleCaption>（消火性能）</ArticleCaption>
           <ArticleTitle>第四十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">住宅用消火器は、次の各号に掲げる消火性能を有するものであり、かつ、電気火災に適応するものでなければならない。</Sentence>
@@ -3026,7 +3026,7 @@
               </Subitem1>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項各号の消火試験は、次の各号に定めるところにより行わなければならない。</Sentence>
@@ -3048,13 +3048,13 @@
         <Article Delete="false" Hide="false" Num="41">
           <ArticleCaption>（操作の機構）</ArticleCaption>
           <ArticleTitle>第四十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">住宅用消火器は、その保持装置から取りはずす動作、安全栓をはずす動作及びホースをはずす動作を除き、一動作（据置式の住宅用消火器にあつては二動作以内）で容易に、かつ、確実に放射を開始することができるものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">住宅用消火器の安全栓、レバー等の操作部分には、操作方法を見やすい箇所に簡明に、かつ、消えないように表示しなければならない。</Sentence>
@@ -3064,13 +3064,13 @@
         <Article Delete="false" Hide="false" Num="42">
           <ArticleCaption>（消火剤）</ArticleCaption>
           <ArticleTitle>第四十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">住宅用消火器に充塡された消火剤は、ハロゲン化物消火薬剤又は液化二酸化炭素であつてはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第七条第一項及び第二項の規定は、住宅用消火器について準用する。</Sentence>
@@ -3080,7 +3080,7 @@
         <Article Delete="false" Hide="false" Num="43">
           <ArticleCaption>（キャップ、プラグ、口金及びパッキン）</ArticleCaption>
           <ArticleTitle>第四十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">住宅用消火器のキャップ、プラグ、口金及びパッキンは、第十三条第一号から第三号まで及び第五号の規定に適合し、かつ、溶接等により完全に口金に固定され、取りはずすことができない構造のものでなければならない。</Sentence>
@@ -3090,7 +3090,7 @@
         <Article Delete="false" Hide="false" Num="44">
           <ArticleCaption>（表示）</ArticleCaption>
           <ArticleTitle>第四十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">住宅用消火器には、その見やすい位置に次の各号に掲げる事項を記載した簡明な表示をしなければならない。</Sentence>
@@ -3241,7 +3241,7 @@
         <Article Delete="false" Hide="false" Num="45">
           <ArticleCaption>（準用）</ArticleCaption>
           <ArticleTitle>第四十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第六条、第十条から第十二条の二まで、第十四条、第十五条第二項、第十六条、第十九条、第二十一条、第二十二条から第二十四条まで、第二十八条、第二十九条及び第三十六条の規定は、住宅用消火器について準用する。</Sentence>
@@ -3303,7 +3303,7 @@
         <Article Delete="false" Hide="false" Num="46">
           <ArticleCaption>（住宅用消火器以外の消火器に係る交換式消火器の能力単位）</ArticleCaption>
           <ArticleTitle>第四十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">住宅用消火器以外の消火器に係る交換式消火器は、収納容器（当該交換式消火器に適合するものに限る。以下同じ。）に結合して使用する場合において、第三条及び第四条に規定する消火試験により測定した能力単位の数値が一以上でなければならない。</Sentence>
@@ -3314,7 +3314,7 @@
         <Article Delete="false" Hide="false" Num="47">
           <ArticleCaption>（住宅用消火器に係る交換式消火器の消火性能）</ArticleCaption>
           <ArticleTitle>第四十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">住宅用消火器に係る交換式消火器の消火性能は、交換式消火器を収納容器に結合して使用する場合において、第四十条の規定に適合するものでなければならない。</Sentence>
@@ -3324,7 +3324,7 @@
         <Article Delete="false" Hide="false" Num="48">
           <ArticleCaption>（放射性能）</ArticleCaption>
           <ArticleTitle>第四十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">交換式消火器は、収納容器に結合し正常な操作方法で放射した場合において、第十条各号の規定に適合するもの（住宅用消火器に係る交換式消火器にあつては、同条第一号から第三号までの規定に適合し、かつ、充塡された消火薬剤の容量又は質量の八十五パーセント以上の量を放射できるもの）でなければならない。</Sentence>
@@ -3334,7 +3334,7 @@
         <Article Delete="false" Hide="false" Num="49">
           <ArticleCaption>（使用温度範囲）</ArticleCaption>
           <ArticleTitle>第四十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">交換式消火器は、収納容器に結合して使用する場合において、その消火器の種類に応じ、第十条の二各号に規定する使用温度範囲で使用したとき、正常に操作することができ、かつ、消火及び放射の機能を有効に発揮することができるものでなければならない。</Sentence>
@@ -3344,7 +3344,7 @@
         <Article Delete="false" Hide="false" Num="50">
           <ArticleCaption>（自動車用消火器に係る交換式消火器の振動試験）</ArticleCaption>
           <ArticleTitle>第五十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">自動車用消火器に係る交換式消火器は、収納容器に結合する場合において、第三十条の規定に適合するものでなければならない。</Sentence>
@@ -3354,7 +3354,7 @@
         <Article Delete="false" Hide="false" Num="51">
           <ArticleCaption>（表示）</ArticleCaption>
           <ArticleTitle>第五十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">交換式消火器の本体容器には、次の各号に掲げる事項を記載した簡明な表示をしなければならない。</Sentence>
@@ -3418,14 +3418,14 @@
         <Article Delete="false" Hide="false" Num="52">
           <ArticleCaption>（準用）</ArticleCaption>
           <ArticleTitle>第五十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第六条から第九条まで、第十一条から第十四条まで、第十七条から第十九条まで、第二十四条、第二十八条、第二十九条及び第三十四条から第三十六条までの規定は、住宅用消火器以外の消火器に係る交換式消火器について準用する。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、「消火器」とあるのは「交換式消火器」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第六条、第十一条から第十二条の二まで、第十四条、第十九条、第二十四条、第二十八条、第二十九条、第三十六条、第三十九条、第四十二条及び第四十三条の規定は、住宅用消火器に係る交換式消火器について準用する。</Sentence>
@@ -3439,7 +3439,7 @@
         <Article Delete="false" Hide="false" Num="53">
           <ArticleCaption>（基準の特例）</ArticleCaption>
           <ArticleTitle>第五十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">新たな技術開発に係る消火器について、その形状、構造、材質及び性能から判断して、この省令の規定に適合するものと同等以上の性能があると総務大臣が認めた場合は、この省令の規定にかかわらず、総務大臣が定める技術上の規格によることができる。</Sentence>
@@ -3450,74 +3450,74 @@
     </MainProvision>
     <SupplProvision Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四四年一〇月二三日自治省令第二九号" Extract="true">
+    <SupplProvision AmendLawId="344029" AmendLawNum="昭和四四年一〇月二三日自治省令第二九号" Extract="true" Id="47006820-195a-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和四十五年一月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四八年一〇月一七日自治省令第二八号" Extract="true">
+    <SupplProvision AmendLawId="348028" AmendLawNum="昭和四八年一〇月一七日自治省令第二八号" Extract="true" Id="4733ebc8-195a-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和四十九年一月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五六年一〇月三〇日自治省令第二七号">
+    <SupplProvision AmendLawId="356027" AmendLawNum="昭和五六年一〇月三〇日自治省令第二七号" Id="476794fa-195a-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和五十六年十二月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の際、現に日本消防検定協会の行う消防用機械器具等についての試験を申請している消火器に係る試験については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五七年一一月一五日自治省令第二四号">
+    <SupplProvision AmendLawId="357024" AmendLawNum="昭和五七年一一月一五日自治省令第二四号" Id="479b303a-195a-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、昭和五十七年十二月一日から施行する。</Sentence>
           <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条の二の改正規定は、昭和五十八年一月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">昭和五十七年十二月一日において、現に日本消防検定協会の行う消防用機械器具等についての試験を申請している消火器に係る試験については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和六二年三月一八日自治省令第七号">
+    <SupplProvision AmendLawId="362007" AmendLawNum="昭和六二年三月一八日自治省令第七号" Id="fd1cc0ac-18f3-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成元年二月二〇日自治省令第三号" Extract="true">
+    <SupplProvision AmendLawId="401003" AmendLawNum="平成元年二月二〇日自治省令第三号" Extract="true" Id="2bc69548-1950-11e8-a703-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -3525,42 +3525,42 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成五年二月二四日自治省令第七号">
+    <SupplProvision AmendLawId="405007" AmendLawNum="平成五年二月二四日自治省令第七号" Id="4835f2a0-195a-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成五年三月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の際、現に日本消防検定協会又は自治大臣の指定する者の行う消防用機械器具等についての試験を申請している消火器に係る試験については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の際、現に型式承認を受けている消火器に係る型式承認は、改正後の消火器の技術上の規格を定める省令の規格による型式承認とみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成九年九月二九日自治省令第三六号">
+    <SupplProvision AmendLawId="409036" AmendLawNum="平成九年九月二九日自治省令第三六号" Id="48698a3e-195a-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成九年十月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一〇年九月二八日自治省令第三七号" Extract="true">
+    <SupplProvision AmendLawId="410037" AmendLawNum="平成一〇年九月二八日自治省令第三七号" Extract="true" Id="fd71282c-18f3-11e8-a136-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成十一年十月一日から施行する。</Sentence>
@@ -3570,14 +3570,14 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の際、現に日本消防検定協会の行う検定対象機械器具等についての試験を申請をしている消火器、消火薬剤、閉鎖型スプリンクラーヘッド、消防用ホース、一斉開放弁、<Ruby>泡<Rt>あわ</Rt>
 </Ruby>消火薬剤、感知器及び発信機、流水検知装置、差込式結合金具並びにねじ式結合金具に係る試験については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の際、現に型式承認を受けている消火器に係る型式承認及び前項の規定により従前の例によることとされた試験の結果に基づいて型式承認を受けた消火器に係る型式承認は、第一条の規定による改正後の消火器の技術上の規格を定める省令の規格による型式承認とみなす。</Sentence>
@@ -3585,21 +3585,21 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年九月一四日自治省令第四四号">
+    <SupplProvision AmendLawId="412044" AmendLawNum="平成一二年九月一四日自治省令第四四号" Id="8c15e2fc-d3b5-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二二年一二月二二日総務省令第一一一号">
+    <SupplProvision AmendLawId="422111" AmendLawNum="平成二二年一二月二二日総務省令第一一一号" Id="49042e86-195a-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成二十三年一月一日から施行する。</Sentence>
@@ -3609,13 +3609,13 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の際、現に日本消防検定協会又は消防法（昭和二十三年法律第百八十六号）第二十一条の三第一項に規定する法人であつて総務大臣の登録を受けた者が行う消防用機械器具等についての試験を申請している消火器に係る試験については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の際、現に型式承認を受けている消火器に係る型式承認及び前項の規定により従前の例によることとされた試験の結果に基づいて型式承認を受けた消火器に係る型式承認は、平成二十三年十二月三十一日までの間に限り、なおその効力を有する。</Sentence>
@@ -3623,12 +3623,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二五年三月二七日総務省令第二六号" Extract="true">
+    <SupplProvision AmendLawId="425026" AmendLawNum="平成二五年三月二七日総務省令第二六号" Extract="true" Id="98ef5f3a-f352-11e6-941f-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成二十六年四月一日から施行する。</Sentence>
@@ -3638,13 +3638,13 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の際、現に日本消防検定協会又は消防法第二十一条の三第一項に規定する法人であって総務大臣の登録を受けた者が行う検定対象機械器具等についての試験を申請している消火器に係る試験については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の際、現に型式承認を受けている消火器及び前項の規定により従前の例によることとされた試験の結果に基づいて型式承認を受けた消火器に係る型式承認は、附則第二条の規定による改正後の消火器の技術上の規格を定める省令の規格による型式承認とみなす。</Sentence>
@@ -3652,9 +3652,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年六月二八日総務省令第一九号" Type="Amend">
+    <SupplProvision AmendLawId="501019" AmendLawNum="令和元年六月二八日総務省令第一九号" Id="ef844ec2-9e19-11e9-92bf-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>

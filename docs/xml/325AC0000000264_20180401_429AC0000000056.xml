@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="264" Year="25">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="264" Year="25">
   <LawNum>昭和二十五年法律第二百六十四号</LawNum>
   <LawBody>
     <LawTitle>中小企業信用保険法</LawTitle>
@@ -7,7 +7,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、中小企業者に対する事業資金の融通を円滑にするため、中小企業者の債務の保証につき保険を行なう制度を確立し、もつて中小企業の振興を図ることを目的とする。</Sentence>
@@ -17,7 +17,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（定義）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律において「中小企業者」とは、次の各号のいずれかに該当する者をいう。</Sentence>
@@ -89,13 +89,13 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律において「電子記録債権の割引」とは、中小企業者がその有する債権である電子記録債権（電子記録債権法（平成十九年法律第百二号）第十五条に規定する電子記録債権をいう。以下同じ。）を当該電子記録債権に係る債務の支払期日の日前に次条第一項に規定する金融機関に譲渡することにより、当該電子記録債権の金額から一定の金額を控除して得た金額につき当該金融機関から資金の融通を受けることをいう。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律において「小規模企業者」とは、次の各号のいずれかに該当する者をいう。</Sentence>
@@ -143,7 +143,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律において「再生中小企業者」とは、次の各号のいずれにも該当する中小企業者をいう。</Sentence>
@@ -173,7 +173,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律において「特定中小企業者」とは、中小企業者であつて、次の各号のいずれかに該当することについてその住所地を管轄する市町村長又は特別区長の認定を受けたものをいう。</Sentence>
@@ -245,7 +245,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="6">
+        <Paragraph Hide="false" Num="6" OldStyle="false">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律において「特例中小企業者」とは、中小企業者であつて、内外の金融秩序の混乱その他の事象が突発的に生じたため我が国の中小企業に係る著しい信用の収縮が全国的に生じていると経済産業大臣が認める場合において、その信用の収縮の影響により銀行その他の金融機関からの借入れの減少その他経済産業大臣が定める事由が生じているためその経営の安定に支障を生じていることについて、その住所地を管轄する市町村長又は特別区長の認定を受けたものをいう。</Sentence>
@@ -255,31 +255,31 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（普通保険）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">株式会社日本政策金融公庫（以下「公庫」という。）は、事業年度の半期ごとに、信用保証協会を相手方として、当該信用保証協会が中小企業者の銀行、信用金庫、信用協同組合その他の政令で定める金融機関（第三条の十第一項及び第三条の十一第一項を除き、以下単に「金融機関」という。）からの借入れ（手形の割引又は電子記録債権の割引を受けることを含む。以下同じ。）による債務の保証（保証契約で定める期間内に生ずる債務について、当該中小企業者が履行しない場合に、利息及び費用その他の損害の賠償として履行する額を除いた額が保証契約で定める額（以下この項において「限度額」という。）に達するまで、その履行をする責めに任ずる保証（以下「特殊保証」という。）を含む。）をすることにより、中小企業者一人についての保険価額の合計額が二億円（その中小企業者が中小企業等協同組合、協業組合、商工組合、商工組合連合会、商店街振興組合、商店街振興組合連合会、生活衛生同業組合、生活衛生同業小組合、生活衛生同業組合連合会又は酒類業組合であるときは、四億円）を超えることができない保険（以下「普通保険」という。）について、借入金の額のうち保証をした額（手形の割引の場合は手形金額のうち保証をした額、電子記録債権の割引の場合は電子記録債権の金額のうち保証をした額、特殊保証の場合は限度額。第三項、次条第一項及び第三項、第三条の三第一項及び第二項並びに第三条の四第一項及び第二項において同じ。）の総額が一定の金額に達するまで、その保証につき、公庫と当該信用保証協会との間に保険関係が成立する旨を定める契約を締結することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の保険関係においては、保険価額に百分の七十を乗じて得た金額を保険金額とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の保険関係においては、借入金の額のうち保証をした額を保険価額とし、中小企業者に代わつてする借入金の弁済（手形の割引の場合は手形の支払、電子記録債権の割引の場合は電子記録債権に係る債務の支払）を保険事故とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の保険関係が成立する保証をした借入金（手形の割引の場合は手形の割引により融通を受けた資金、電子記録債権の割引の場合は電子記録債権の割引により融通を受けた資金）は、中小企業者の行う事業の振興に必要なものに限る。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項に規定する債務の保証に係る金融機関の債権が金融機関その他の政令で定める者以外の者に譲渡されたときは、当該債務の保証に係る同項の保険関係は、当該譲渡の時において消滅する。</Sentence>
@@ -289,25 +289,25 @@
       <Article Delete="false" Hide="false" Num="3_2">
         <ArticleCaption>（無担保保険）</ArticleCaption>
         <ArticleTitle>第三条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫は、事業年度の半期ごとに、信用保証協会を相手方として、当該信用保証協会が中小企業者の金融機関からの借入れによる債務の保証（特殊保証を含む。）であつてその保証について担保（保証人の保証を除く。）を提供させないものをすることにより、中小企業者一人についての保険価額の合計額が八千万円を超えることができない保険（以下「無担保保険」という。）について、借入金の額のうち保証をした額の総額が一定の金額に達するまで、その保証につき、公庫と当該信用保証協会との間に保険関係が成立する旨を定める契約を締結することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の保険関係においては、保険価額に百分の八十を乗じて得た金額を保険金額とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫と無担保保険の契約を締結し、かつ、普通保険、第三条の五第一項に規定する公害防止保険、第三条の六第一項に規定するエネルギー対策保険、第三条の七第一項に規定する海外投資関係保険又は第三条の八第一項に規定する新事業開拓保険の契約を締結している信用保証協会が第一項に規定する債務の保証（次条第一項に規定する特別小口保険又は第三条の九第一項に規定する事業再生保険の保険関係が成立するものを除く。）をした場合において、当該借入金の額のうち保証をした額が八千万円（当該債務者たる中小企業者について既に無担保保険の保険関係が成立している場合にあつては、八千万円から当該保険関係における保険価額の合計額を控除した残額）を超えないときは、当該保証については、無担保保険の保険関係が成立するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前条第三項から第五項までの規定は、第一項の保険関係に準用する。</Sentence>
@@ -317,26 +317,26 @@
       <Article Delete="false" Hide="false" Num="3_3">
         <ArticleCaption>（特別小口保険）</ArticleCaption>
         <ArticleTitle>第三条の三</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫は、事業年度の半期ごとに、信用保証協会を相手方として、当該信用保証協会が小規模企業者であつて経済産業省令で定める要件を備えているもの（その者に係る債務の保証について普通保険、無担保保険、次条第一項に規定する流動資産担保保険、第三条の五第一項に規定する公害防止保険、第三条の六第一項に規定するエネルギー対策保険、第三条の七第一項に規定する海外投資関係保険、第三条の八第一項に規定する新事業開拓保険、第三条の九第一項に規定する事業再生保険、第三条の十第一項に規定する特定社債保険又は第三条の十一第一項に規定する特定支払契約保険の保険関係が成立している者を除く。）の金融機関からの借入れによる債務の保証（特殊保証を含む。）であつてその保証について担保（保証人の保証を含む。）を提供させないものをすることにより、小規模企業者一人についての保険価額の合計額が二千万円を超えることができない保険（以下「特別小口保険」という。）について、借入金の額のうち保証をした額の総額が一定の金額に達するまで、その保証につき、公庫と当該信用保証協会との間に保険関係が成立する旨を定める契約を締結することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫と特別小口保険の契約を締結し、かつ、普通保険、無担保保険、第三条の五第一項に規定する公害防止保険、第三条の六第一項に規定するエネルギー対策保険、第三条の七第一項に規定する海外投資関係保険、第三条の八第一項に規定する新事業開拓保険又は第三条の九第一項に規定する事業再生保険の契約を締結している信用保証協会が前項に規定する債務の保証をした場合において、当該借入金の額のうち保証をした額が二千万円（当該債務者たる小規模企業者について既に特別小口保険の保険関係が成立している場合にあつては、二千万円から当該保険関係における保険価額の合計額を控除した残額）を超えないときは、当該保証については、特別小口保険の保険関係が成立するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">前項の信用保証協会がした第一項に規定する債務の保証について特別小口保険の保険関係が成立している場合において、当該信用保証協会が当該債務者たる中小企業者について第三条第一項、前条第一項、次条第一項、第三条の五第一項、第三条の六第一項、第三条の七第一項、第三条の八第一項、第三条の九第一項、第三条の十第一項又は第三条の十一第一項に規定する債務の保証（第一項の保険関係が成立するものを除く。）をしたときは、当該特別小口保険の保険関係は、当該保証の時において、公庫と無担保保険の契約を締結している信用保証協会にあつては、無担保保険の保険関係に、公庫と無担保保険の契約を締結していない信用保証協会にあつては、経済産業省令で定めるところにより普通保険、第三条の五第一項に規定する公害防止保険、第三条の六第一項に規定するエネルギー対策保険、第三条の七第一項に規定する海外投資関係保険、第三条の八第一項に規定する新事業開拓保険又は第三条の九第一項に規定する事業再生保険の保険関係に変更されるものとする。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、当該債務者たる中小企業者に係る債務の保証をしたことによる普通保険、無担保保険、次条第一項に規定する流動資産担保保険、第三条の五第一項に規定する公害防止保険、第三条の六第一項に規定するエネルギー対策保険、第三条の七第一項に規定する海外投資関係保険、第三条の八第一項に規定する新事業開拓保険、第三条の九第一項に規定する事業再生保険、第三条の十第一項に規定する特定社債保険又は第三条の十一第一項に規定する特定支払契約保険の保険関係の成立に関しては、当該保証前に当該変更があつたものとみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第三条第三項から第五項まで及び前条第二項の規定は、第一項の保険関係に準用する。</Sentence>
@@ -346,19 +346,19 @@
       <Article Delete="false" Hide="false" Num="3_4">
         <ArticleCaption>（流動資産担保保険）</ArticleCaption>
         <ArticleTitle>第三条の四</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫は、事業年度の半期ごとに、信用保証協会を相手方として、当該信用保証協会が中小企業者の金融機関からの借入れによる債務の保証（特殊保証を含む。）であつてその保証について当該中小企業者の流動資産（取引の相手方である事業者に対する売掛金債権その他の経済産業省令で定める債権及び棚卸資産に限る。以下同じ。）のみ（当該中小企業者が法人である場合にあつては、流動資産（必要に応じその法人の代表者である保証人の保証を含む。）のみ）を担保として提供させるものをすることにより、中小企業者一人についての保険価額の合計額が二億円を超えることができない保険（以下「流動資産担保保険」という。）について、借入金の額のうち保証をした額の総額が一定の金額に達するまで、その保証につき、公庫と当該信用保証協会との間に保険関係が成立する旨を定める契約を締結することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫と流動資産担保保険の契約を締結し、かつ、普通保険、次条第一項に規定する公害防止保険、第三条の六第一項に規定するエネルギー対策保険、第三条の七第一項に規定する海外投資関係保険又は第三条の八第一項に規定する新事業開拓保険の契約を締結している信用保証協会が前項に規定する債務の保証（第三条の九第一項に規定する事業再生保険の保険関係が成立するものを除く。）をした場合において、当該借入金の額のうち保証をした額が二億円（当該債務者たる中小企業者について既に流動資産担保保険の保険関係が成立している場合にあつては、二億円から当該保険関係における保険価額の合計額を控除した残額）を超えないときは、当該保証については、流動資産担保保険の保険関係が成立するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第三条第三項から第五項まで及び第三条の二第二項の規定は、第一項の保険関係に準用する。</Sentence>
@@ -368,19 +368,19 @@
       <Article Delete="false" Hide="false" Num="3_5">
         <ArticleCaption>（公害防止保険）</ArticleCaption>
         <ArticleTitle>第三条の五</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫は、事業年度の半期ごとに、信用保証協会を相手方として、当該信用保証協会が中小企業者の公害防止施設の設置の費用、工場又は事業場の公害防止のためにする移転の費用その他の公害防止に要する費用で経済産業省令で定めるものに充てるために必要な資金に係る金融機関からの借入れによる債務の保証をすることにより、中小企業者一人についての保険価額の合計額が五千万円（その中小企業者が中小企業等協同組合、協業組合、商工組合若しくは商工組合連合会又は特別の法律により設立された組合若しくはその連合会で政令で定めるものであるときは、一億円。次項において同じ。）を超えることができない保険（以下「公害防止保険」という。）について、借入金の額のうち保証をした額（手形の割引の場合は手形金額のうち保証をした額、電子記録債権の割引の場合は電子記録債権の金額のうち保証をした額。以下同じ。）の総額が一定の金額に達するまで、その保証につき、公庫と当該信用保証協会との間に保険関係が成立する旨を定める契約を締結することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫と公害防止保険の契約を締結し、かつ、普通保険の契約を締結している信用保証協会が前項に規定する債務の保証（無担保保険、特別小口保険、流動資産担保保険又は第三条の九第一項に規定する事業再生保険の保険関係が成立するものを除く。）をした場合において、当該借入金の額のうち保証をした額が五千万円（当該債務者たる中小企業者について既に公害防止保険の保険関係が成立している場合にあつては、五千万円から当該保険関係における保険価額の合計額を控除した残額）を超えないときは、当該保証については、公害防止保険の保険関係が成立するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第三条第三項及び第五項並びに第三条の二第二項の規定は、第一項の保険関係に準用する。</Sentence>
@@ -390,19 +390,19 @@
       <Article Delete="false" Hide="false" Num="3_6">
         <ArticleCaption>（エネルギー対策保険）</ArticleCaption>
         <ArticleTitle>第三条の六</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫は、事業年度の半期ごとに、信用保証協会を相手方として、当該信用保証協会が中小企業者のエネルギーの使用の合理化に資する施設又は非化石エネルギーを使用する施設の設置の費用で経済産業省令で定めるものに充てるために必要な資金（前条第一項に規定する公害防止に要する費用に充てるために必要な資金に該当するものを除く。）に係る金融機関からの借入れによる債務の保証をすることにより、中小企業者一人についての保険価額の合計額が二億円（その中小企業者が中小企業等協同組合、協業組合、商工組合若しくは商工組合連合会又は特別の法律により設立された組合若しくはその連合会で政令で定めるものであるときは、四億円。次項において同じ。）を超えることができない保険（以下「エネルギー対策保険」という。）について、借入金の額のうち保証をした額の総額が一定の金額に達するまで、その保証につき、公庫と当該信用保証協会との間に保険関係が成立する旨を定める契約を締結することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫とエネルギー対策保険の契約を締結し、かつ、普通保険の契約を締結している信用保証協会が前項に規定する債務の保証（無担保保険、特別小口保険、流動資産担保保険又は第三条の九第一項に規定する事業再生保険の保険関係が成立するものを除く。）をした場合において、当該借入金の額のうち保証をした額が二億円（当該債務者たる中小企業者について既にエネルギー対策保険の保険関係が成立している場合にあつては、二億円から当該保険関係における保険価額の合計額を控除した残額）を超えないときは、当該保証については、エネルギー対策保険の保険関係が成立するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第三条第三項及び第五項並びに第三条の二第二項の規定は、第一項の保険関係に準用する。</Sentence>
@@ -412,19 +412,19 @@
       <Article Delete="false" Hide="false" Num="3_7">
         <ArticleCaption>（海外投資関係保険）</ArticleCaption>
         <ArticleTitle>第三条の七</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫は、事業年度の半期ごとに、信用保証協会を相手方として、当該信用保証協会が中小企業者の外国法人と永続的な経済関係を持つための当該法人の株式その他の持分の取得その他の海外直接投資の事業に要する資金で経済産業省令で定めるもの（第三条の五第一項に規定する公害防止に要する費用又は前条第一項に規定するエネルギーの使用の合理化に資する施設若しくは非化石エネルギーを使用する施設の設置の費用に充てるために必要な資金に該当するものを除く。）に係る金融機関からの借入れによる債務の保証をすることにより、中小企業者一人についての保険価額の合計額が二億円（その中小企業者が中小企業等協同組合、協業組合、商工組合若しくは商工組合連合会又は特別の法律により設立された組合若しくはその連合会で政令で定めるものであるときは、四億円。次項において同じ。）を超えることができない保険（以下「海外投資関係保険」という。）について、借入金の額のうち保証をした額の総額が一定の金額に達するまで、その保証につき、公庫と当該信用保証協会との間に保険関係が成立する旨を定める契約を締結することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫と海外投資関係保険の契約を締結し、かつ、普通保険の契約を締結している信用保証協会が前項に規定する債務の保証（無担保保険、特別小口保険、流動資産担保保険又は第三条の九第一項に規定する事業再生保険の保険関係が成立するものを除く。）をした場合において、当該借入金の額のうち保証をした額が二億円（当該債務者たる中小企業者について既に海外投資関係保険の保険関係が成立している場合にあつては、二億円から当該保険関係における保険価額の合計額を控除した残額）を超えないときは、当該保証については、海外投資関係保険の保険関係が成立するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第三条第三項及び第五項並びに第三条の二第二項の規定は、第一項の保険関係に準用する。</Sentence>
@@ -434,19 +434,19 @@
       <Article Delete="false" Hide="false" Num="3_8">
         <ArticleCaption>（新事業開拓保険）</ArticleCaption>
         <ArticleTitle>第三条の八</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫は、事業年度の半期ごとに、信用保証協会を相手方として、当該信用保証協会が中小企業者の新商品又は新技術の研究開発又は企業化に要する費用、需要の開拓に要する費用その他の新たな事業の開拓に要する費用で経済産業省令で定めるものに充てるために必要な資金（第三条の五第一項に規定する公害防止に要する費用若しくは第三条の六第一項に規定するエネルギーの使用の合理化に資する施設若しくは非化石エネルギーを使用する施設の設置の費用に充てるために必要な資金又は前条第一項に規定する海外直接投資の事業に要する資金に該当するものを除く。）に係る金融機関からの借入れによる債務の保証をすることにより、中小企業者一人についての保険価額の合計額が二億円（その中小企業者が中小企業等協同組合、協業組合、商工組合若しくは商工組合連合会又は特別の法律により設立された組合若しくはその連合会で政令で定めるものであるときは、四億円。次項において同じ。）を超えることができない保険（以下「新事業開拓保険」という。）について、借入金の額のうち保証をした額の総額が一定の金額に達するまで、その保証につき、公庫と当該信用保証協会との間に保険関係が成立する旨を定める契約を締結することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫と新事業開拓保険の契約を締結し、かつ、普通保険の契約を締結している信用保証協会が前項に規定する債務の保証（無担保保険、特別小口保険、流動資産担保保険又は次条第一項に規定する事業再生保険の保険関係が成立するものを除く。）をした場合において、当該借入金の額のうち保証をした額が二億円（当該債務者たる中小企業者について既に新事業開拓保険の保険関係が成立している場合にあつては、二億円から当該保険関係における保険価額の合計額を控除した残額）を超えないときは、当該保証については、新事業開拓保険の保険関係が成立するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第三条第三項及び第五項並びに第三条の二第二項の規定は、第一項の保険関係に準用する。</Sentence>
@@ -456,19 +456,19 @@
       <Article Delete="false" Hide="false" Num="3_9">
         <ArticleCaption>（事業再生保険）</ArticleCaption>
         <ArticleTitle>第三条の九</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫は、事業年度の半期ごとに、信用保証協会を相手方として、当該信用保証協会が再生中小企業者の原材料の購入のための費用その他の事業の継続に欠くことができない費用で経済産業省令で定めるものに充てるために必要な資金に係る金融機関からの借入れによる債務の保証をすることにより、中小企業者一人についての保険価額の合計額が二億円を超えることができない保険（以下「事業再生保険」という。）について、借入金の額のうち保証をした額の総額が一定の金額に達するまで、その保証につき、公庫と当該信用保証協会との間に保険関係が成立する旨を定める契約を締結することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫と事業再生保険の契約を締結し、かつ、普通保険、無担保保険、流動資産担保保険、公害防止保険、エネルギー対策保険、海外投資関係保険又は新事業開拓保険の契約を締結している信用保証協会が前項に規定する債務の保証（特別小口保険の保険関係が成立するものを除く。）をした場合において、当該借入金の額のうち保証をした額が二億円（当該債務者たる中小企業者について既に事業再生保険の保険関係が成立している場合にあつては、二億円から当該保険関係における保険価額の合計額を控除した残額）を超えないときは、当該保証については、事業再生保険の保険関係が成立するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第三条第三項及び第五項並びに第三条の二第二項の規定は、第一項の保険関係に準用する。</Sentence>
@@ -478,31 +478,31 @@
       <Article Delete="false" Hide="false" Num="3_10">
         <ArticleCaption>（特定社債保険）</ArticleCaption>
         <ArticleTitle>第三条の十</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫は、事業年度の半期ごとに、信用保証協会を相手方として、当該信用保証協会が中小企業者（純資産の額が一定の額以上であることその他の経済産業省令で定める要件を備えているものに限る。以下この条において同じ。）が発行する社債（当該社債の発行が金融商品取引法（昭和二十三年法律第二十五号）第二条第三項に規定する有価証券の私募によるものに限り、社債、株式等の振替に関する法律（平成十三年法律第七十五号）第六十六条第一号に規定する短期社債を除く。以下同じ。）のうち政令で定める金融機関が引き受けるものに係る債務の保証をすることにより、中小企業者一人についての保険価額の合計額が四億五千万円を超えることができない保険（以下「特定社債保険」という。）について、社債に係る債務（利息に係るものを除く。以下この条において同じ。）の額のうち保証をした額の総額が一定の金額に達するまで、その保証につき、公庫と当該信用保証協会との間に保険関係が成立する旨を定める契約を締結することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項に規定する債務の保証を受けた中小企業者一人についての普通保険、無担保保険、特定社債保険又は次条第一項に規定する特定支払契約保険の保険関係であつて政令で指定するものの保険価額の合計額の限度額は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の保険関係においては、社債に係る債務の額のうち保証をした額を保険価額とし、中小企業者に代わつてする社債に係る債務の弁済を保険事故とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の保険関係が成立する保証をした社債により調達した資金は、中小企業者の行う事業の振興に必要なものに限る。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第三条第五項及び第三条の二第二項の規定は、第一項の保険関係に準用する。</Sentence>
@@ -512,19 +512,19 @@
       <Article Delete="false" Hide="false" Num="3_11">
         <ArticleCaption>（特定支払契約保険）</ArticleCaption>
         <ArticleTitle>第三条の十一</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫は、事業年度の半期ごとに、信用保証協会を相手方として、当該信用保証協会が中小企業者の特定支払契約（中小企業者に対する売掛金債権その他の経済産業省令で定める債権（以下この項において「売掛金債権等」という。）を有する事業者に対して金融機関その他の政令で定める者（以下この項において「金融機関等」という。）が当該売掛金債権等の譲受けその他の経済産業省令で定める行為に基づき金銭を支払うことを約し、かつ、当該中小企業者が当該金融機関等に対して当該売掛金債権等その他経済産業省令で定める債権の額を支払うことを約する契約をいう。）に基づき金融機関等に対して支払うべき債務のうち当該金融機関等が事業者に対して金銭を支払つた場合において当該中小企業者が支払うもの（以下「特定支払債務」という。）の保証をすることにより、中小企業者一人についての保険価額の合計額が十億円を超えることができない保険（以下「特定支払契約保険」という。）について、特定支払債務の額のうち保証をした額の総額が一定の金額に達するまで、その保証につき、公庫と当該信用保証協会との間に保険関係が成立する旨を定める契約を締結することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の保険関係においては、特定支払債務の額のうち保証をした額を保険価額とし、中小企業者に代わつてする特定支払債務の弁済を保険事故とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第三条第二項及び第五項並びに前条第二項の規定は、第一項の保険関係に準用する。</Sentence>
@@ -534,7 +534,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（保険料）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">保険料の額は、保険金額に年百分の三以内において政令で定める率を乗じて得た額とする。</Sentence>
@@ -544,7 +544,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（保険金）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫が普通保険、無担保保険、特別小口保険、流動資産担保保険、公害防止保険、エネルギー対策保険、海外投資関係保険、新事業開拓保険、事業再生保険、特定社債保険又は特定支払契約保険の保険関係に基づいて支払うべき保険金の額は、信用保証協会が中小企業者に代わつて弁済（手形の割引及び電子記録債権の割引の場合は、支払。以下同じ。）をした借入金（手形の割引の場合は手形債務、電子記録債権の割引の場合は電子記録債権に係る債務。以下同じ。）、社債に係る債務（利息に係るものを除く。以下同じ。）又は特定支払債務の額から信用保証協会がその支払の請求をする時までに中小企業者に対する求償権（弁済をした日以後の利息及び避けることができなかつた費用その他の損害の賠償に係る部分を除く。以下この条において同じ。）を行使して取得した額（次の各号に掲げる場合にあつては、当該各号に定める額）を控除した残額（第八条において「回収後残額」という。）に、百分の七十（無担保保険、特別小口保険、流動資産担保保険、公害防止保険、エネルギー対策保険、海外投資関係保険、新事業開拓保険、事業再生保険及び特定社債保険にあつては、百分の八十）を乗じて得た額とする。</Sentence>
@@ -586,13 +586,13 @@
       </Article>
       <Article Delete="false" Hide="false" Num="6">
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">信用保証協会は、保険事故の発生の日から一月を経過した後でなければ、保険金の支払の請求をすることができない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">信用保証協会は、保険事故の発生の日から一年六月を経過した後は、前項の請求をすることができない。</Sentence>
@@ -602,7 +602,7 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（求償）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">信用保証協会は、普通保険、無担保保険、特別小口保険、流動資産担保保険、公害防止保険、エネルギー対策保険、海外投資関係保険、新事業開拓保険、事業再生保険、特定社債保険又は特定支払契約保険の保険関係が成立した保証に基づき中小企業者に代わつて弁済をした場合には、その求償に努めなければならない。</Sentence>
@@ -612,7 +612,7 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（回収金の納付）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">保険金の支払を受けた信用保証協会は、その支払の請求をした後中小企業者に対する求償権（信用保証協会が当該中小企業者に代わつて弁済をした日以後保険金の支払を受けた日までの利息及び避けることができなかつた費用その他の損害の賠償に係る部分を除く。以下同じ。）を行使して取得した額（次の各号に掲げる場合にあつては、当該各号に定める額）に、支払を受けた保険金の額の回収後残額に対する割合を乗じて得た額を公庫に納付しなければならない。</Sentence>
@@ -655,7 +655,7 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（交付金）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫は、業務の方法の定めるところにより、信用保証協会が一事業年度内に普通保険、無担保保険、特別小口保険、流動資産担保保険、公害防止保険、エネルギー対策保険、海外投資関係保険、新事業開拓保険、事業再生保険、特定社債保険又は特定支払契約保険の保険関係に基づいて支払を受けた保険金の合計額が当該保険金に係る保険関係及び当該事業年度内に消滅した普通保険、無担保保険、特別小口保険、流動資産担保保険、公害防止保険、エネルギー対策保険、海外投資関係保険、新事業開拓保険、事業再生保険、特定社債保険又は特定支払契約保険の保険関係に基づいて支払つた保険料の合計額に満たないときは、その不足額の一部に相当する金額を当該信用保証協会に交付することができる。</Sentence>
@@ -664,7 +664,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="10">
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫は、業務の方法の定めるところにより、信用保証協会が普通保険、無担保保険、特別小口保険、流動資産担保保険、公害防止保険、エネルギー対策保険、海外投資関係保険、新事業開拓保険、事業再生保険、特定社債保険又は特定支払契約保険の保険関係に基づいて一事業年度内に支払を受けた保険金に係る第八条の規定により公庫に納付した金額の合計額が当該保険金の合計額に一定の率を乗じて得た額を超えるときは、その超える額の一部に相当する金額を当該信用保証協会に交付することができる。</Sentence>
@@ -674,7 +674,7 @@
       <Article Delete="false" Hide="false" Num="11">
         <ArticleCaption>（契約の解除等）</ArticleCaption>
         <ArticleTitle>第十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫は、信用保証協会がこの法律（これに基づく命令を含む。）の規定又は普通保険、無担保保険、特別小口保険、流動資産担保保険、公害防止保険、エネルギー対策保険、海外投資関係保険、新事業開拓保険、事業再生保険、特定社債保険若しくは特定支払契約保険の保険契約の条項に違反したときは、普通保険、無担保保険、特別小口保険、流動資産担保保険、公害防止保険、エネルギー対策保険、海外投資関係保険、新事業開拓保険、事業再生保険、特定社債保険若しくは特定支払契約保険の保険関係に基づく保険金の全部若しくは一部を支払わず、若しくは保険金の全部若しくは一部を返還させ、又は将来にわたつて当該保険契約を解除することができる。</Sentence>
@@ -693,7 +693,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="13">
         <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">普通保険の保険関係であつて、経営安定関連保証に係るものについての第三条第二項及び第五条の規定の適用については、第三条第二項中「百分の七十」とあり、及び第五条中「百分の七十（無担保保険、特別小口保険、流動資産担保保険、公害防止保険、エネルギー対策保険、海外投資関係保険、新事業開拓保険、事業再生保険及び特定社債保険にあつては、百分の八十）」とあるのは、「百分の八十」とする。</Sentence>
@@ -702,7 +702,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="14">
         <ArticleTitle>第十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">普通保険、無担保保険又は特別小口保険の保険関係であつて、経営安定関連保証に係るものについての保険料の額は、第四条の規定にかかわらず、保険金額に年百分の二以内において政令で定める率を乗じて得た額とする。</Sentence>
@@ -712,7 +712,7 @@
       <Article Delete="false" Hide="false" Num="15">
         <ArticleCaption>（危機関連保証の特例）</ArticleCaption>
         <ArticleTitle>第十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">普通保険、無担保保険又は特別小口保険の保険関係であつて、危機関連保証（第二条第六項の経済産業大臣が認める日から一年以内の期間（同項に定める信用の収縮の状況を勘案し、経済産業大臣が一年を限り当該期間を延長したときは、その延長した期間を含む。）において行われた特例中小企業者の経営の安定に必要な資金に係る第三条第一項、第三条の二第一項又は第三条の三第一項に規定する債務の保証をいう。以下同じ。）を受けた特例中小企業者に係るものについての第三条第一項、第三条の二第一項及び第三項並びに第三条の三第一項及び第二項の規定の適用については、第三条第一項中「保険価額の合計額が」とあるのは「危機関連保証（第十五条に規定する危機関連保証をいう。次条及び第三条の三において同じ。）に係る保険関係の保険価額の合計額とその他の保険関係の保険価額の合計額とがそれぞれ」と、第三条の二第一項及び第三条の三第一項中「保険価額の合計額が」とあるのは「危機関連保証に係る保険関係の保険価額の合計額とその他の保険関係の保険価額の合計額とがそれぞれ」と、第三条の二第三項及び第三条の三第二項中「当該借入金の額のうち」とあるのは「危機関連保証及びその他の保証ごとに、それぞれ当該借入金の額のうち」と、「当該債務者」とあるのは「危機関連保証及びその他の保証ごとに、当該債務者」とする。</Sentence>
@@ -721,7 +721,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="16">
         <ArticleTitle>第十六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">普通保険、無担保保険又は特別小口保険の保険関係であつて、危機関連保証に係るものについての第三条第二項、第三条の二第二項（第三条の三第四項において準用する場合を含む。以下この条において同じ。）及び第五条の規定の適用については、第三条第二項中「百分の七十」とあり、第三条の二第二項中「百分の八十」とあり、及び第五条中「百分の七十（無担保保険、特別小口保険、流動資産担保保険、公害防止保険、エネルギー対策保険、海外投資関係保険、新事業開拓保険、事業再生保険及び特定社債保険にあつては、百分の八十）」とあるのは、「百分の九十」とする。</Sentence>
@@ -730,7 +730,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="17">
         <ArticleTitle>第十七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">普通保険、無担保保険又は特別小口保険の保険関係であつて、危機関連保証に係るものについての保険料の額は、第四条の規定にかかわらず、保険金額に年百分の二以内において政令で定める率を乗じて得た額とする。</Sentence>
@@ -740,7 +740,7 @@
       <Article Delete="false" Hide="false" Num="18">
         <ArticleCaption>（経営安定関連保証及び危機関連保証に係る限度額）</ArticleCaption>
         <ArticleTitle>第十八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">経営安定関連保証及び危機関連保証を受けた中小企業者一人についての普通保険、無担保保険又は特別小口保険の保険関係であつて政令で指定するものの保険価額の合計額の限度額は、政令で定める。</Sentence>
@@ -750,13 +750,13 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、昭和二十五年十二月十五日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">昭和六十四年三月三十一日までの間において政令で定める日までに倒産関連保証（第三条の二第一項に規定する債務の保証であつて、第二条第三項第一号、第二号又は第五号に該当することについての認定を受けた中小企業者に係るものに限る。）を受けた中小企業者に係る無担保保険の保険関係についての次の表の上欄に掲げるこの法律の規定の適用については、第十二条の規定にかかわらず、これらの規定中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
@@ -796,7 +796,7 @@
           </Table>
         </TableStruct>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">昭和六十四年三月三十一日までの間において政令で定める日までに次の要件のいずれにも該当することについてその住所地を管轄する都道府県知事の認定を受けた中小企業者は、第十二条から第十四条まで及び前項の規定の適用については、第二条第三項第五号に該当することについての認定を受けたものとみなす。</Sentence>
@@ -814,13 +814,13 @@
           </ItemSentence>
         </Item>
       </Paragraph>
-      <Paragraph Hide="false" Num="4">
+      <Paragraph Hide="false" Num="4" OldStyle="false">
         <ParagraphNum>４</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">第二条第三項第七号に規定する破綻金融機関等には、破綻金融機関等の融資先である中堅事業者に係る信用保険の特例に関する臨時措置法（平成十年法律第百五十一号）の施行の日の一年前の日以後において破綻金融機関等であつたものを含むものとする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="5">
+      <Paragraph Hide="false" Num="5" OldStyle="false">
         <ParagraphNum>５</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">当分の間、経営安定関連保証（第二条第五項第六号に該当することについての認定を受けた中小企業者に係るものに限る。）を受けた中小企業者に係る保険関係についての次の表の上欄に掲げるこの法律の規定の適用については、第十二条及び第十三条の規定にかかわらず、同表の上欄に掲げるこの法律の規定中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
@@ -885,49 +885,49 @@
           </Table>
         </TableStruct>
       </Paragraph>
-      <Paragraph Hide="false" Num="6">
+      <Paragraph Hide="false" Num="6" OldStyle="false">
         <ParagraphNum>６</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">株式会社商工組合中央金庫法（平成十九年法律第七十四号）附則第二条の二に規定する危機対応業務として行う貸付けに係る債務の保証については、本法の規定は適用しない。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和二六年六月一五日法律第二三九号">
+    <SupplProvision AmendLawId="326239" AmendLawNum="昭和二六年六月一五日法律第二三九号" Id="78155f16-47dd-11e5-966e-2fec0d0004d6">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、信用金庫法施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和二六年六月二六日法律第二五〇号">
+    <SupplProvision AmendLawId="326250" AmendLawNum="昭和二六年六月二六日法律第二五〇号" Id="4185e5c4-47dd-11e5-8a45-8b524f115c34">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、新法の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和二六年一一月三〇日法律第二七五号" Extract="true">
+    <SupplProvision AmendLawId="326275" AmendLawNum="昭和二六年一一月三〇日法律第二七五号" Extract="true" Id="7d7d2974-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、昭和二十六年十二月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和二八年七月二四日法律第八〇号" Extract="true">
+    <SupplProvision AmendLawId="328080" AmendLawNum="昭和二八年七月二四日法律第八〇号" Extract="true" Id="7d7f2242-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この法律の施行前に成立している保険関係については、なお従前の例による。</Sentence>
@@ -935,18 +935,18 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和二八年七月三一日法律第一〇七号" Extract="true">
+    <SupplProvision AmendLawId="328107" AmendLawNum="昭和二八年七月三一日法律第一〇七号" Extract="true" Id="7d810f08-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律の施行期日は、公布の日から起算して六箇月をこえない期間内において、政令で定める。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和二八年八月一〇日法律第一九六号" Extract="true">
+    <SupplProvision AmendLawId="328196" AmendLawNum="昭和二八年八月一〇日法律第一九六号" Extract="true" Id="72b39966-47dd-11e5-9592-4b8b126ac4a1">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -954,24 +954,24 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和二九年三月三一日法律第二二号">
+    <SupplProvision AmendLawId="329022" AmendLawNum="昭和二九年三月三一日法律第二二号" Id="7d8352d6-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、昭和二十九年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三〇年七月五日法律第五二号">
+    <SupplProvision AmendLawId="330052" AmendLawNum="昭和三〇年七月五日法律第五二号" Id="7d8535d8-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この法律の施行前に成立している保険関係については、なお従前の例による。</Sentence>
@@ -979,18 +979,18 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三一年三月二六日法律第三〇号" Extract="true">
+    <SupplProvision AmendLawId="331030" AmendLawNum="昭和三一年三月二六日法律第三〇号" Extract="true" Id="7d8711e6-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、昭和三十一年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三二年六月三日法律第一六四号" Extract="true">
+    <SupplProvision AmendLawId="332164" AmendLawNum="昭和三二年六月三日法律第一六四号" Extract="true" Id="41cf3210-47dd-11e5-8a5f-4b99c6ce8432">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -998,43 +998,43 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三二年一一月二五日法律第一八七号">
+    <SupplProvision AmendLawId="332187" AmendLawNum="昭和三二年一一月二五日法律第一八七号" Id="29656784-d3c1-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、中小企業団体の組織に関する法律の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三三年四月二六日法律第九四号" Extract="true">
+    <SupplProvision AmendLawId="333094" AmendLawNum="昭和三三年四月二六日法律第九四号" Extract="true" Id="65dfab78-d3c3-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、中小企業信用保険公庫法（昭和三十三年法律第九十三号）附則第七条の規定の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三三年一一月一日法律第一七一号" Extract="true">
+    <SupplProvision AmendLawId="333171" AmendLawNum="昭和三三年一一月一日法律第一七一号" Extract="true" Id="2971e5cc-d3c1-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三六年三月三一日法律第三三号" Extract="true">
+    <SupplProvision AmendLawId="336033" AmendLawNum="昭和三六年三月三一日法律第三三号" Extract="true" Id="7d8a7ffc-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、昭和三十六年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -1042,21 +1042,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三七年三月二七日法律第二九号">
+    <SupplProvision AmendLawId="337029" AmendLawNum="昭和三七年三月二七日法律第二九号" Id="7d8c746a-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、昭和三十七年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三七年五月一七日法律第一四一号" Extract="true">
+    <SupplProvision AmendLawId="337141" AmendLawNum="昭和三七年五月一七日法律第一四一号" Extract="true" Id="73ef4636-47dd-11e5-95c6-9399e7426772">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して三月をこえない範囲内で政令で定める日から施行する。</Sentence>
@@ -1064,30 +1064,30 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三八年七月二〇日法律第一五六号">
+    <SupplProvision AmendLawId="338156" AmendLawNum="昭和三八年七月二〇日法律第一五六号" Id="7d8f2156-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三九年三月三一日法律第四五号">
+    <SupplProvision AmendLawId="339045" AmendLawNum="昭和三九年三月三一日法律第四五号" Id="7d91df54-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、昭和三十九年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三九年七月二日法律第一四〇号" Extract="true">
+    <SupplProvision AmendLawId="339140" AmendLawNum="昭和三九年七月二日法律第一四〇号" Extract="true" Id="7d943f24-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して三月をこえない範囲内において政令で定める日から施行する。</Sentence>
@@ -1095,12 +1095,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四〇年五月一日法律第五三号" Extract="true">
+    <SupplProvision AmendLawId="340053" AmendLawNum="昭和四〇年五月一日法律第五三号" Extract="true" Id="7d964b02-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -1110,7 +1110,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前に成立している改正前の中小企業信用保険法（以下「旧法」という。）第三条第一項に規定する小口保険の保険関係については、なお従前の例による。</Sentence>
@@ -1119,13 +1119,13 @@
       </Article>
       <Article Delete="false" Hide="false" Num="3">
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">中小企業信用保険公庫（以下「公庫」という。）と改正後の中小企業信用保険法（以下「新法」という。）第三条第一項に規定する第一種保険の契約を締結している信用保証協会が同項に規定する債務の保証をした場合において、当該債務者たる中小企業者について旧法第三条第一項に規定する小口保険の保険関係が成立しているときについての新法第三条第一項、第五項及び第六項の規定の適用については、同条第一項及び第五項中「百万円」とあるのは「百万円から当該中小企業者につきすでに成立した中小企業信用保険法の一部を改正する法律（昭和四十年法律第五十三号）による改正前の中小企業信用保険法第三条第一項に規定する小口保険の保険価額を控除した残額」と、同条第六項中「第一種保険の保険価額」とあるのは「中小企業信用保険法の一部を改正する法律（昭和四十年法律第五十三号）による改正前の中小企業信用保険法第三条第一項に規定する小口保険及び第一種保険の保険価額」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫と新法第三条の二第一項に規定する特別小口保険の契約を締結している信用保証協会が同項に規定する債務の保証をした場合において、当該債務者たる小企業者について旧法第三条第一項に規定する小口保険の保険関係が成立しているときについての新法第三条の二第一項及び第三項の規定の適用については、これらの規定中「百五十万円」とあるのは「百五十万円から当該小企業者につきすでに成立した中小企業信用保険法の一部を改正する法律（昭和四十年法律第五十三号）による改正前の中小企業信用保険法第三条第一項に規定する小口保険の保険価額の合計額を控除した残額」とする。</Sentence>
@@ -1133,27 +1133,27 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四〇年一二月二八日法律第一五二号" Extract="true">
+    <SupplProvision AmendLawId="340152" AmendLawNum="昭和四〇年一二月二八日法律第一五二号" Extract="true" Id="7d986874-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">改正後の中小企業信用保険法第三条の二第一項及び第三項並びに中小企業信用保険法の一部を改正する法律附則第三条第二項の規定は、昭和四十年十二月一日から適用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四一年三月三一日法律第二七号" Extract="true">
+    <SupplProvision AmendLawId="341027" AmendLawNum="昭和四一年三月三一日法律第二七号" Extract="true" Id="29a75400-d3c1-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、昭和四十一年四月一日から施行する。</Sentence>
@@ -1161,9 +1161,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四一年六月三〇日法律第九四号" Extract="true">
+    <SupplProvision AmendLawId="341094" AmendLawNum="昭和四一年六月三〇日法律第九四号" Extract="true" Id="29aec500-d3c1-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -1171,12 +1171,12 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四二年六月二六日法律第四三号" Extract="true">
+    <SupplProvision AmendLawId="342043" AmendLawNum="昭和四二年六月二六日法律第四三号" Extract="true" Id="7d9b0eda-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、昭和四十二年七月一日から施行する。</Sentence>
@@ -1186,7 +1186,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前に成立している改正前の中小企業信用保険法（以下「旧法」という。）第三条第一項に規定する第一種保険及び第二種保険の保険関係については、なお従前の例による。</Sentence>
@@ -1195,7 +1195,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="3">
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">中小企業信用保険公庫（以下「公庫」という。）と改正後の中小企業信用保険法（以下「新法」という。）第三条第一項に規定する普通保険の契約を締結している信用保証協会が同項に規定する債務の保証をした場合において、当該債務者たる中小企業者について旧法第三条第一項に規定する第一種保険又は第二種保険の保険関係が成立しているときについての新法第三条第一項の規定の適用については、同項中「七千万円」とあるのは「七千万円から当該中小企業者につき既に成立している中小企業信用保険法の一部を改正する法律（昭和四十二年法律第四十三号）による改正前の中小企業信用保険法第三条第一項に規定する第一種保険及び第二種保険の保険価額の合計額を控除した残額」と、「一億四千万円」とあるのは「一億四千万円から当該組合又は連合会につき既に成立している中小企業信用保険法の一部を改正する法律（昭和四十二年法律第四十三号）による改正前の中小企業信用保険法第三条第一項に規定する第一種保険及び第二種保険の保険価額の合計額を控除した残額」とする。</Sentence>
@@ -1204,7 +1204,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="4">
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫と新法第三条の二第一項に規定する無担保保険の契約を締結している信用保証協会が同項に規定する債務の保証をした場合において、当該債務者たる中小企業者について旧中小企業信用保険臨時措置法（昭和四十年法律第百五十三号）第五条第一項に規定する無担保保険の保険関係が成立しているときについての新法第三条の二第一項及び第三項の規定の適用については、同条第一項及び第三項中「千万円」とあるのは、「千万円から当該中小企業者につき既に成立している旧中小企業信用保険臨時措置法（昭和四十年法律第百五十三号）第五条第一項に規定する無担保保険の保険価額の合計額を控除した残額」とする。</Sentence>
@@ -1213,7 +1213,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="5">
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公庫と新法第三条の三第一項に規定する特別小口保険の契約を締結している信用保証協会が同項に規定する債務の保証をした場合において、当該債務者たる小企業者について旧法第三条第一項に規定する第一種保険若しくは第二種保険又は旧中小企業信用保険臨時措置法第五条第一項に規定する無担保保険の保険関係が成立しているときについての新法第三条の三第一項の規定の適用については、同項中「又は第三条の七第一項に規定する近代化保険」とあるのは、「、第三条の七第一項に規定する近代化保険、中小企業信用保険法の一部を改正する法律（昭和四十二年法律第四十三号）による改正前の中小企業信用保険法第三条第一項に規定する第一種保険若しくは第二種保険又は旧中小企業信用保険臨時措置法（昭和四十年法律第百五十三号）第五条第一項に規定する無担保保険」とする。</Sentence>
@@ -1221,12 +1221,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四二年七月一三日法律第五六号" Extract="true">
+    <SupplProvision AmendLawId="342056" AmendLawNum="昭和四二年七月一三日法律第五六号" Extract="true" Id="29b936b6-d3c1-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -1235,12 +1235,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四二年七月二九日法律第九八号" Extract="true">
+    <SupplProvision AmendLawId="342098" AmendLawNum="昭和四二年七月二九日法律第九八号" Extract="true" Id="7d9d69be-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して三月をこえない範囲内において政令で定める日から施行する。</Sentence>
@@ -1248,9 +1248,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四二年八月一九日法律第一三八号" Extract="true">
+    <SupplProvision AmendLawId="342138" AmendLawNum="昭和四二年八月一九日法律第一三八号" Extract="true" Id="7d9f5ca6-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -1258,18 +1258,18 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四五年一二月二六日法律第一四五号" Extract="true">
+    <SupplProvision AmendLawId="345145" AmendLawNum="昭和四五年一二月二六日法律第一四五号" Extract="true" Id="48901844-47dd-11e5-8cbc-7766c5c24296">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四六年三月三一日法律第一七号" Extract="true">
+    <SupplProvision AmendLawId="346017" AmendLawNum="昭和四六年三月三一日法律第一七号" Extract="true" Id="7da1c11c-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -1277,25 +1277,25 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四六年四月一〇日法律第四四号" Extract="true">
+    <SupplProvision AmendLawId="346044" AmendLawNum="昭和四六年四月一〇日法律第四四号" Extract="true" Id="7da3b350-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四八年七月五日法律第四六号" Extract="true">
+    <SupplProvision AmendLawId="348046" AmendLawNum="昭和四八年七月五日法律第四六号" Extract="true" Id="7da5aee4-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -1303,9 +1303,9 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四八年九月二九日法律第一〇一号" Extract="true">
+    <SupplProvision AmendLawId="348101" AmendLawNum="昭和四八年九月二九日法律第一〇一号" Extract="true" Id="5872c9f0-47dd-11e5-9108-4b1bd6e5cdf2">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -1313,9 +1313,9 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四八年一〇月一五日法律第一一五号" Extract="true">
+    <SupplProvision AmendLawId="348115" AmendLawNum="昭和四八年一〇月一五日法律第一一五号" Extract="true" Id="7da8207a-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -1323,9 +1323,9 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和四九年五月二日法律第四一号" Extract="true">
+    <SupplProvision AmendLawId="349041" AmendLawNum="昭和四九年五月二日法律第四一号" Extract="true" Id="7daa15ec-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -1338,12 +1338,12 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五〇年七月一日法律第五一号" Extract="true">
+    <SupplProvision AmendLawId="350051" AmendLawNum="昭和五〇年七月一日法律第五一号" Extract="true" Id="7dac3a34-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -1351,21 +1351,21 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五〇年一二月二二日法律第八八号" Extract="true">
+    <SupplProvision AmendLawId="350088" AmendLawNum="昭和五〇年一二月二二日法律第八八号" Extract="true" Id="7dae26a0-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五三年五月一日法律第三六号" Extract="true">
+    <SupplProvision AmendLawId="353036" AmendLawNum="昭和五三年五月一日法律第三六号" Extract="true" Id="42e335e8-47dd-11e5-8ac7-eb82caa83438">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -1373,9 +1373,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五三年七月一日法律第八四号" Extract="true">
+    <SupplProvision AmendLawId="353084" AmendLawNum="昭和五三年七月一日法律第八四号" Extract="true" Id="7db0b7f8-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -1383,9 +1383,9 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五四年四月一一日法律第一九号" Extract="true">
+    <SupplProvision AmendLawId="354019" AmendLawNum="昭和五四年四月一一日法律第一九号" Extract="true" Id="7db2bf58-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -1393,12 +1393,12 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五五年五月二〇日法律第五三号" Extract="true">
+    <SupplProvision AmendLawId="355053" AmendLawNum="昭和五五年五月二〇日法律第五三号" Extract="true" Id="2a2720d6-d3c1-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -1409,7 +1409,7 @@
       <Article Delete="false" Hide="false" Num="21">
         <ArticleCaption>（中小企業信用保険法の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第二十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前条の規定の施行前に改正前の中小企業信用保険法第二条第三項の近代化関係中小企業者であつて同項第六号から第八号までに掲げるものについて成立している同法第三条の七第一項に規定する近代化保険の保険関係については、なお従前の例による。</Sentence>
@@ -1417,9 +1417,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五五年五月三一日法律第七二号" Extract="true">
+    <SupplProvision AmendLawId="355072" AmendLawNum="昭和五五年五月三一日法律第七二号" Extract="true" Id="2a291c2e-d3c1-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -1427,12 +1427,12 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五五年六月一〇日法律第八〇号" Extract="true">
+    <SupplProvision AmendLawId="355080" AmendLawNum="昭和五五年六月一〇日法律第八〇号" Extract="true" Id="7db5cbe4-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -1440,12 +1440,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五七年五月一八日法律第五〇号" Extract="true">
+    <SupplProvision AmendLawId="357050" AmendLawNum="昭和五七年五月一八日法律第五〇号" Extract="true" Id="7db7cff2-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -1453,12 +1453,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五九年八月一〇日法律第七一号" Extract="true">
+    <SupplProvision AmendLawId="359071" AmendLawNum="昭和五九年八月一〇日法律第七一号" Extract="true" Id="f5e8256e-d3bf-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、昭和六十年四月一日から施行する。</Sentence>
@@ -1468,7 +1468,7 @@
       <Article Delete="false" Hide="false" Num="13">
         <ArticleCaption>（出資の受入れ、預り金及び金利等の取締りに関する法律等の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第二条に規定する塩業組合に関しては、この法律の規定による改正後の次に掲げる法律の規定にかかわらず、なお従前の例による。</Sentence>
@@ -1490,7 +1490,7 @@
       <Article Delete="false" Hide="false" Num="27">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第二十七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
@@ -1498,21 +1498,21 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和六一年一二月五日法律第九八号">
+    <SupplProvision AmendLawId="361098" AmendLawNum="昭和六一年一二月五日法律第九八号" Id="7dba7180-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和六三年三月三一日法律第一四号" Extract="true">
+    <SupplProvision AmendLawId="363014" AmendLawNum="昭和六三年三月三一日法律第一四号" Extract="true" Id="7dbc793a-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、昭和六十三年四月一日から施行する。</Sentence>
@@ -1522,13 +1522,13 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（中小企業信用保険法の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前に成立している改正前の中小企業信用保険法（以下「旧法」という。）第三条の六第一項に規定する新技術企業化保険の保険関係については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前に成立している旧法第三条の七第一項に規定する近代化保険の保険関係については、なお従前の例による。</Sentence>
@@ -1536,12 +1536,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成元年一二月一九日法律第八二号" Extract="true">
+    <SupplProvision AmendLawId="401082" AmendLawNum="平成元年一二月一九日法律第八二号" Extract="true" Id="3d9ea900-47dd-11e5-8843-47f73ceefc89">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -1549,12 +1549,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成四年六月二六日法律第八七号" Extract="true">
+    <SupplProvision AmendLawId="404087" AmendLawNum="平成四年六月二六日法律第八七号" Extract="true" Id="91136f9c-d3b8-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -1562,12 +1562,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成五年五月二一日法律第四九号" Extract="true">
+    <SupplProvision AmendLawId="405049" AmendLawNum="平成五年五月二一日法律第四九号" Extract="true" Id="7dbfcaae-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -1575,12 +1575,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成七年一一月一日法律第一二五号" Extract="true">
+    <SupplProvision AmendLawId="407125" AmendLawNum="平成七年一一月一日法律第一二五号" Extract="true" Id="7dc1daf6-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -1588,21 +1588,21 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一〇年六月五日法律第九五号">
+    <SupplProvision AmendLawId="410095" AmendLawNum="平成一〇年六月五日法律第九五号" Id="7dc3f39a-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一〇年一〇月一日法律第一一三号" Extract="true">
+    <SupplProvision AmendLawId="410113" AmendLawNum="平成一〇年一〇月一日法律第一一三号" Extract="true" Id="7dc60810-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -1610,16 +1610,16 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一〇年一〇月二一日法律第一四二号">
+    <SupplProvision AmendLawId="410142" AmendLawNum="平成一〇年一〇月二一日法律第一四二号" Id="7dc825c8-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から起算して一月を超えない範囲内において政令で定める日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（見直し）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -1627,9 +1627,9 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一〇年一二月一八日法律第一五一号" Extract="true">
+    <SupplProvision AmendLawId="410151" AmendLawNum="平成一〇年一二月一八日法律第一五一号" Extract="true" Id="56345960-47dd-11e5-906b-2706e9db0879">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -1637,12 +1637,12 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一一年三月三一日法律第一九号" Extract="true">
+    <SupplProvision AmendLawId="411019" AmendLawNum="平成一一年三月三一日法律第一九号" Extract="true" Id="2b42d690-d3c1-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十一年七月一日から施行する。</Sentence>
@@ -1653,7 +1653,7 @@
       <Article Delete="false" Hide="false" Num="59">
         <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
         <ArticleTitle>第五十九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
@@ -1661,12 +1661,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一一年一二月三日法律第一四六号" Extract="true">
+    <SupplProvision AmendLawId="411146" AmendLawNum="平成一一年一二月三日法律第一四六号" Extract="true" Id="e4764288-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -1676,7 +1676,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（中小企業信用保険法の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第五条の規定の施行前に成立している同条の規定による改正前の中小企業信用保険法に規定する保険関係については、なお従前の例による。</Sentence>
@@ -1686,7 +1686,7 @@
       <Article Delete="false" Hide="false" Num="15">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関して必要となる経過措置は、政令で定める。</Sentence>
@@ -1694,12 +1694,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
+    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。</Sentence>
@@ -1719,12 +1719,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第二二二号" Extract="true">
+    <SupplProvision AmendLawId="411222" AmendLawNum="平成一一年一二月二二日法律第二二二号" Extract="true" Id="e478b81a-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -1746,7 +1746,7 @@
       <Article Delete="false" Hide="false" Num="10">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関して必要となる経過措置は、政令で定める。</Sentence>
@@ -1756,7 +1756,7 @@
       <Article Delete="false" Hide="false" Num="11">
         <ArticleCaption>（検討）</ArticleCaption>
         <ArticleTitle>第十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、第一条の規定の施行後平成十七年三月三十一日までの間に、中小企業をめぐる金融の状況等を勘案しつつ、同条の規定による改正後の中小企業信用保険法第三条の八に規定する特定社債保険の制度について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
@@ -1764,12 +1764,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第二二五号" Extract="true">
+    <SupplProvision AmendLawId="411225" AmendLawNum="平成一一年一二月二二日法律第二二五号" Extract="true" Id="56744fac-47dd-11e5-907b-a3e9de6bb391">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -1779,7 +1779,7 @@
       <Article Delete="false" Hide="false" Num="25">
         <ArticleCaption>（民法等の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第二十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前に和議開始の申立てがあった場合又は当該申立てに基づきこの法律の施行前若しくは施行後に和議開始の決定があった場合においては、当該申立て又は決定に係る次の各号に掲げる法律の規定に定める事項に関する取扱いについては、この法律の附則の規定による改正後のこれらの規定にかかわらず、なお従前の例による。</Sentence>
@@ -1799,12 +1799,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年四月七日法律第三九号" Extract="true">
+    <SupplProvision AmendLawId="412039" AmendLawNum="平成一二年四月七日法律第三九号" Extract="true" Id="2b6a4626-d3c1-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -1813,12 +1813,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年一二月一日法律第一三六号" Extract="true">
+    <SupplProvision AmendLawId="412136" AmendLawNum="平成一二年一二月一日法律第一三六号" Extract="true" Id="7dce4aca-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -1851,13 +1851,13 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前に第一条の規定による改正前の中小企業信用保険法（以下「旧法」という。）第二条第三項の規定による倒産関連中小企業者の認定を受けた中小企業者は、第一条の規定による改正後の中小企業信用保険法（以下「新法」という。）第二条第三項の規定による特定中小企業者の認定を受けた中小企業者とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">旧法第十二条に規定する倒産関連保証及びその保証に係る保険関係は、新法第十二条に規定する経営安定関連保証及びその保証に係る保険関係とみなす。</Sentence>
@@ -1866,7 +1866,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="3">
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">平成十三年三月三十一日までに新法第十二条に規定する経営安定関連保証（新法第三条の二第一項に規定する債務の保証であって、新法第二条第三項第六号に該当することについての認定を受けた中小企業者（前条第一項の規定により新法第二条第三項第六号に該当することについての認定を受けた中小企業者とみなされる者を含む。以下「第六号関係特定中小企業者」という。）に係るものに限る。以下この項において同じ。）を受けた中小企業者に係る新法第三条の二第一項に規定する無担保保険の保険関係についての次の表の上欄に掲げる新法の規定の適用については、新法第十二条の規定にかかわらず、これらの規定中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
@@ -1909,7 +1909,7 @@
             </Table>
           </TableStruct>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">平成十三年三月三十一日までに新法第十二条に規定する経営安定関連保証（新法第三条の二第一項に規定する債務の保証であって、第六号関係特定中小企業者（新法第二条第三項各号（第六号を除く。）のいずれかに該当することについての認定を受けた中小企業者（前条第一項の規定により新法第二条第三項各号（第六号を除く。）のいずれかに該当することについての認定を受けた中小企業者とみなされる者を含む。）を除く。）に係るものに限る。）を受けた中小企業者一人についての新法第三条の二第一項に規定する無担保保険の保険関係（新法以外の法律に規定するものを除く。）の保険価額の合計額の限度額は、一億円とする。</Sentence>
@@ -1918,7 +1918,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="4">
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">中小企業総合事業団は、附則第一条本文に規定する施行日（以下この条において「施行日」という。）までに、施行日の属する半期における短期借入金の借入れの最高額を定め、主務大臣の認可を受けなければならない。</Sentence>
@@ -1928,7 +1928,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="5">
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">平成十三年三月三十一日までに第六号関係特定中小企業者について成立している新法第十二条に規定する経営安定関連保証に係る保険関係（附則第二条第二項の規定により新法第十二条に規定する経営安定関連保証に係る保険関係とみなされるものを含む。）については、なお従前の例による。</Sentence>
@@ -1938,7 +1938,7 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
@@ -1948,13 +1948,13 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（検討）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、新法第三条の二第一項の規定の施行後平成十七年三月三十一日までの間に、当該規定の施行後における中小企業をめぐる金融の状況等を踏まえ、同項に規定する無担保保険の保険関係の保険価額の合計額の限度額について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、附則第一条第二号に掲げる規定の施行後平成十五年三月三十一日までの間に、当該規定の施行後における中小企業をめぐる金融の状況等を踏まえ、新法附則第五項の規定に基づく措置について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
@@ -1962,12 +1962,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年六月二七日法律第七五号" Extract="true">
+    <SupplProvision AmendLawId="413075" AmendLawNum="平成一三年六月二七日法律第七五号" Extract="true" Id="9df38be4-93f2-11e9-83b1-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日等）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、平成十四年四月一日（以下「施行日」という。）から施行し、施行日以後に発行される短期社債等について適用する。</Sentence>
@@ -1977,7 +1977,7 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
@@ -1987,7 +1987,7 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（検討）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、この法律の施行後五年を経過した場合において、この法律の施行状況、社会経済情勢の変化等を勘案し、振替機関に係る制度について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
@@ -1995,12 +1995,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一三年一二月七日法律第一四六号" Extract="true">
+    <SupplProvision AmendLawId="413146" AmendLawNum="平成一三年一二月七日法律第一四六号" Extract="true" Id="e47b0930-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して二月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -2010,7 +2010,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前に成立している保険関係であって改正前の中小企業信用保険法第三条第一項に規定する給付を受けたことによる債務の保証に係るものについては、なお従前の例による。</Sentence>
@@ -2020,7 +2020,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前条に定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。</Sentence>
@@ -2030,7 +2030,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（検討）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、この法律の施行後平成十七年三月三十一日までの間に、中小企業をめぐる金融の状況等を勘案しつつ、この法律による改正後の中小企業信用保険法の規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
@@ -2038,12 +2038,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一四年六月一二日法律第六五号" Extract="true">
+    <SupplProvision AmendLawId="414065" AmendLawNum="平成一四年六月一二日法律第六五号" Extract="true" Id="ecba4da2-d3b3-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、平成十五年一月六日から施行する。</Sentence>
@@ -2053,7 +2053,7 @@
       <Article Delete="false" Hide="false" Num="85">
         <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
         <ArticleTitle>第八十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
@@ -2061,12 +2061,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一四年一一月二二日法律第一〇九号" Extract="true">
+    <SupplProvision AmendLawId="414109" AmendLawNum="平成一四年一一月二二日法律第一〇九号" Extract="true" Id="e47cf7cc-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -2077,7 +2077,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（検討）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、この法律の施行後平成十七年三月三十一日までの間に、中小企業をめぐる金融の状況等を勘案しつつ、この法律による改正後の中小企業信用保険法第二条第三項第七号及び第八号並びに第三条、第三条の二及び第三条の五から第三条の八までの規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
@@ -2085,12 +2085,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一五年四月九日法律第二八号" Extract="true">
+    <SupplProvision AmendLawId="415028" AmendLawNum="平成一五年四月九日法律第二八号" Extract="true" Id="7dd28798-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、株式会社産業再生機構法の施行の日から施行する。</Sentence>
@@ -2100,7 +2100,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（検討）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、この法律の施行後五年以内に、中小企業をめぐる金融の状況等を勘案しつつ、第一条の規定による改正後の中小企業信用保険法第二条第三項第八号の規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
@@ -2108,12 +2108,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年四月二一日法律第三五号" Extract="true">
+    <SupplProvision AmendLawId="416035" AmendLawNum="平成一六年四月二一日法律第三五号" Extract="true" Id="2bcf95f8-d3c1-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、次の各号に掲げる区分に応じ、当該各号に定める日又は時から施行する。</Sentence>
@@ -2138,12 +2138,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年六月二日法律第七六号" Extract="true">
+    <SupplProvision AmendLawId="416076" AmendLawNum="平成一六年六月二日法律第七六号" Extract="true" Id="ecbc3a7c-d3b3-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、破産法（平成十六年法律第七十五号。次条第八項並びに附則第三条第八項、第五条第八項、第十六項及び第二十一項、第八条第三項並びに第十三条において「新破産法」という。）の施行の日から施行する。</Sentence>
@@ -2153,7 +2153,7 @@
       <Article Delete="false" Hide="false" Num="14">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第二条から前条までに規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
@@ -2161,12 +2161,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年六月九日法律第八八号" Extract="true">
+    <SupplProvision AmendLawId="416088" AmendLawNum="平成一六年六月九日法律第八八号" Extract="true" Id="475e5bbe-d3b3-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して五年を超えない範囲内において政令で定める日（以下「施行日」という。）から施行する。</Sentence>
@@ -2174,21 +2174,21 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true">
+    <SupplProvision AmendLawId="417087" AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true" Id="6227ae84-47dd-11e5-92b2-43af2fd23feb">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、会社法の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年一〇月二一日法律第一〇二号" Extract="true">
+    <SupplProvision AmendLawId="417102" AmendLawNum="平成一七年一〇月二一日法律第一〇二号" Extract="true" Id="56cf48f4-7bb3-472a-922e-4a5d7ee5b3d8">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、郵政民営化法の施行の日から施行する。</Sentence>
@@ -2197,21 +2197,21 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一八年六月一四日法律第六六号" Extract="true">
+    <SupplProvision AmendLawId="418066" AmendLawNum="平成一八年六月一四日法律第六六号" Extract="true" Id="41ab7bcd-9aa8-e1dd-8198-d05c7d548a1d">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、平成十八年証券取引法改正法の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一九年五月二五日法律第五八号" Extract="true">
+    <SupplProvision AmendLawId="419058" AmendLawNum="平成一九年五月二五日法律第五八号" Extract="true" Id="0089dbfa-d3b8-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、平成二十年十月一日から施行する。</Sentence>
@@ -2221,7 +2221,7 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
@@ -2229,12 +2229,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一九年六月一日法律第七〇号" Extract="true">
+    <SupplProvision AmendLawId="419070" AmendLawNum="平成一九年六月一日法律第七〇号" Extract="true" Id="e486f808-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -2244,7 +2244,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前に成立しているこの法律による改正前の中小企業信用保険法第三条の四第一項に規定する売掛金債権担保保険の保険関係は、この法律による改正後の中小企業信用保険法第三条の四第一項に規定する流動資産担保保険の保険関係とみなす。</Sentence>
@@ -2254,7 +2254,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（検討）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、この法律の施行後五年以内に、中小企業をめぐる金融の状況等を勘案しつつ、この法律による改正後の中小企業信用保険法第三条の四及び第三条の九の規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
@@ -2262,12 +2262,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二〇年六月一一日法律第六一号" Extract="true">
+    <SupplProvision AmendLawId="420061" AmendLawNum="平成二〇年六月一一日法律第六一号" Extract="true" Id="7dd980fc-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -2277,7 +2277,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（検討）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、この法律の施行後五年以内に、中小企業をめぐる金融の状況等を勘案しつつ、この法律による改正後の中小企業信用保険法第三条の十一の規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
@@ -2285,12 +2285,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二一年七月八日法律第七〇号" Extract="true">
+    <SupplProvision AmendLawId="421070" AmendLawNum="平成二一年七月八日法律第七〇号" Extract="true" Id="7ddbcbaa-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -2300,7 +2300,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（中小企業信用保険法の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前に成立している改正前の中小企業信用保険法第三条の六第一項に規定するエネルギー対策保険の保険関係については、なお従前の例による。</Sentence>
@@ -2310,7 +2310,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
@@ -2320,7 +2320,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（検討）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、この法律の施行後五年を経過した場合において、この法律による改正後の非化石エネルギーの開発及び導入の促進に関する法律、中小企業信用保険法及び国立研究開発法人新エネルギー・産業技術総合開発機構法（平成十四年法律第百四十五号）の規定の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
@@ -2328,12 +2328,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二三年五月二〇日法律第四五号" Extract="true">
+    <SupplProvision AmendLawId="423045" AmendLawNum="平成二三年五月二〇日法律第四五号" Extract="true" Id="7dde0e42-d3c6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -2343,7 +2343,7 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前条に定めるもののほか、この法律の施行に際し必要な経過措置は、政令で定める。</Sentence>
@@ -2351,12 +2351,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二五年六月一九日法律第四五号" Extract="true">
+    <SupplProvision AmendLawId="425045" AmendLawNum="平成二五年六月一九日法律第四五号" Extract="true" Id="f6bf90f6-d3b2-11e9-a719-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -2389,7 +2389,7 @@
       <Article Delete="false" Hide="false" Num="37">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第三十七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第二条から第十五条まで及び前条に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
@@ -2399,7 +2399,7 @@
       <Article Delete="false" Hide="false" Num="38">
         <ArticleCaption>（検討）</ArticleCaption>
         <ArticleTitle>第三十八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この条において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
@@ -2407,12 +2407,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二五年六月二一日法律第五七号" Extract="true">
+    <SupplProvision AmendLawId="425057" AmendLawNum="平成二五年六月二一日法律第五七号" Extract="true" Id="b2c052b4-d3b2-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -2434,7 +2434,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関して必要となる経過措置は、政令で定める。</Sentence>
@@ -2444,7 +2444,7 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（検討）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後の規定の実施状況を勘案し、必要があると認めるときは、当該規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
@@ -2452,12 +2452,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二六年六月一三日法律第六七号" Extract="true">
+    <SupplProvision AmendLawId="426067" AmendLawNum="平成二六年六月一三日法律第六七号" Extract="true" Id="200c49da-d3b4-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、独立行政法人通則法の一部を改正する法律（平成二十六年法律第六十六号。以下「通則法改正法」という。）の施行の日から施行する。</Sentence>
@@ -2465,12 +2465,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二七年五月二七日法律第二九号" Extract="true">
+    <SupplProvision AmendLawId="427029" AmendLawNum="平成二七年五月二七日法律第二九号" Extract="true" Id="b2c4b39a-d3b2-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -2481,7 +2481,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（中小企業信用保険に関する経過措置）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第一条ただし書に規定する規定の施行前に成立している保険関係については、なお従前の例による。</Sentence>
@@ -2489,9 +2489,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二九年六月一四日法律第五六号" Type="Amend">
+    <SupplProvision AmendLawId="429056" AmendLawNum="平成二九年六月一四日法律第五六号" Id="cd221a90-50c2-11e7-8431-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>

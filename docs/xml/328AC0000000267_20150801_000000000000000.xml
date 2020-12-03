@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="267" Year="28">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="267" Year="28">
   <LawNum>昭和二十八年法律第二百六十七号</LawNum>
   <LawBody>
     <LawTitle>奄美群島の復帰に伴う法令の適用の暫定措置等に関する法律</LawTitle>
@@ -7,7 +7,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（この法律の趣旨）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、旧鹿児島県大島郡の区域で北緯二十九度以南にあるもの（以下「奄美群島」という。）の復帰に伴い、法令の適用についての必要な暫定措置等を定めるものとする。</Sentence>
@@ -17,7 +17,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（法令の施行の停止及びこれに伴う措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">奄美群島には、左の各号に掲げる法令は、それぞれ政令で定める日までは施行しない。</Sentence>
@@ -179,19 +179,19 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の政令で定める日は、特別の事情のある場合を除く外、この法律の施行の日から起算して六月を経過した日後とならないようにしなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行の際奄美群島に適用されていた法令（奄美群島内の従前の市町村の条例、規則その他の規程を除く。）の規定で、第一項各号に掲げる法令若しくはこれに基く命令の規定が規定している事項について定めているもの又は本邦の法令が規定していない事項について定めているもののうち政令で定めるものは、政令で定める日までは、奄美群島においては、法律としての効力を有するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">前項に規定する従前の法令については、政令で、奄美群島の復帰に伴う諸制度の変更に伴い当然必要とされる読替を定め、また、特別の必要がある場合においては、その適用を排除し、その他これに対する特例を設けることができる。</Sentence>
@@ -201,7 +201,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="3">
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -211,7 +211,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（国の行政事務の委任）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">当分の間、奄美群島における国の行政事務は、政令で定めるものを除く外、政令で定めるところにより、鹿児島県知事又は政令で定める鹿児島県の機関をして行わせるものとする。</Sentence>
@@ -221,7 +221,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="5">
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -230,7 +230,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="6">
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -240,13 +240,13 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（民事訴訟等に関する経過措置）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">民事訴訟その他裁判所（執行機関を含む。以下同じ。）の権限に属する事項に関し昭和二十一年一月二十九日以後奄美群島の地域に設立された裁判所（これらの裁判所に係属した事件に関しては、琉球上訴裁判所を含むものとし、以下「現地裁判所」という。）において従前の法令の規定によりなされた訴訟行為、裁判、処分その他の手続上の行為（刑事に関するものを除く。）は、当該事件につき裁判所法その他本邦の法令に照らし権限を有すべき本邦の裁判所においてこれらの事項に関する本邦の法令中の相当規定によりなされた訴訟行為、裁判、処分その他の手続上の行為とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">現地裁判所の確定の裁判で、公の秩序又は善良の風俗に反するものは、前項の規定にかかわらず、その効力を有しない。</Sentence>
@@ -256,20 +256,20 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（市町村及びその機関等に関する経過措置）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">奄美群島内の従前の市町村は、地方自治法（昭和二十二年法律第六十七号）の規定による市町村となるものとし、その議会の議員、長その他の職員は、当該市町村の議会の議員、長その他の相当の職員となるものとする。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、これらの職員のうち、従前の琉球政府の法令により任期が定められているもので、地方自治法の規定によつても任期の定のあるものの任期は、地方自治法の規定によるものとし、従前の法令の規定によりこれらの者が選挙され、又は選任された日から起算するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">奄美群島における従前の教育区の消滅に伴い必要な事項は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">奄美群島内の従前の市町村の条例、規則その他の規程で、法令及び鹿児島県の条例、規則その他の規程に<Ruby>て<Rt>ヽ</Rt>
@@ -282,7 +282,7 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（負担金又は補助金の特例）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">当分の間、奄美群島の振興に関し必要があるときは、他の法律の規定にかかわらず、国の負担金又は補助金等に関し、政令で特例を設けることができる。</Sentence>
@@ -292,7 +292,7 @@
       <Article Delete="false" Hide="false" Num="10">
         <ArticleCaption>（必要な経過措置等の政令等への委任）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第二条から前条までに規定するものの外、奄美群島に関し左に掲げる事項については、他の法律の規定にかかわらず、政令（日本国憲法第七十七条第一項に規定する事項については、最高裁判所規則）で必要な規定を設けることができる。</Sentence>
@@ -320,55 +320,55 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、政令で定める日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和二九年四月六日法律第六三号" Extract="true">
+    <SupplProvision AmendLawId="329063" AmendLawNum="昭和二九年四月六日法律第六三号" Extract="true" Id="15119398-18dd-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、昭和二十九年五月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律の施行前に従前の管轄裁判所で受理した事件は、その裁判所で完結する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="4">
+      <Paragraph Hide="false" Num="4" OldStyle="false">
         <ParagraphNum>４</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律により設立される簡易裁判所は、それぞれその名称を同じくする従前の簡易裁判所と同一のものとみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和二九年六月一七日法律第一八七号" Extract="true">
+    <SupplProvision AmendLawId="329187" AmendLawNum="昭和二九年六月一七日法律第一八七号" Extract="true" Id="7ea4d2fe-b722-4cb4-af53-8420aa77acfa">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三二年六月一四日法律第一七三号" Extract="true">
+    <SupplProvision AmendLawId="332173" AmendLawNum="昭和三二年六月一四日法律第一七三号" Extract="true" Id="25db1a8a-1885-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、昭和三十二年七月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三九年七月二日法律第一三二号" Extract="true">
+    <SupplProvision AmendLawId="339132" AmendLawNum="昭和三九年七月二日法律第一三二号" Extract="true" Id="3293e7aa-1896-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、次の総選挙から施行する。</Sentence>

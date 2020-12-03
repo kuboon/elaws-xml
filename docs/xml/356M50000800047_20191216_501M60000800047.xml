@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200604e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="047" Year="56">
+<Law AmendmentId="501M60000800047" AmendmentNum="令和元年国土交通省令第四十七号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="047" Year="56">
   <LawNum>昭和五十六年運輸省令第四十七号</LawNum>
   <LawBody>
     <LawTitle>船舶のトン数の測度に関する法律施行規則</LawTitle>
@@ -47,13 +47,13 @@
         <Article Delete="false" Hide="false" Num="1">
           <ArticleCaption>（定義）</ArticleCaption>
           <ArticleTitle>第一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この省令において使用する用語は、船舶のトン数の測度に関する法律（昭和五十五年法律第四十号。以下「法」という。）において使用する用語の例による。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この省令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
@@ -189,7 +189,7 @@
         <Article Delete="false" Hide="false" Num="2">
           <ArticleCaption>（上甲板）</ArticleCaption>
           <ArticleTitle>第二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第三条第二項の国土交通省令で定める基準は、次のとおりとする。</Sentence>
@@ -214,7 +214,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の基準に適合する甲板のうち最上層のものに階段部を有する船舶にあつては、当該甲板の暴露部の最下段の部分及びこれを当該甲板の上段の部分に平行に延長した部分を上甲板とみなす。</Sentence>
@@ -223,7 +223,7 @@
         </Article>
         <Article Delete="false" Hide="false" Num="3">
           <ArticleTitle>第三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前条第一項に規定する基準に適合する甲板を有しない船舶であつて次の各号に掲げるものについては、それぞれ当該各号に定めるものを上甲板とみなす。</Sentence>
@@ -269,19 +269,19 @@
         <Article Delete="false" Hide="false" Num="4">
           <ArticleCaption>（単位及び精度）</ArticleCaption>
           <ArticleTitle>第四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">長さ、幅、深さ及び高さは、メートルを単位とし、四捨五入により小数点以下二位までとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">厚さは、メートルを単位とし、四捨五入により小数点以下三位までとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">トン数は、十トン以上である場合にあつては小数点以下を切り捨て、十トン未満である場合にあつては小数点以下は一位にとどめ、小数点以下二位を切り捨てる。</Sentence>
@@ -292,7 +292,7 @@
         <Article Delete="false" Hide="false" Num="5">
           <ArticleCaption>（容積の測度）</ArticleCaption>
           <ArticleTitle>第五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">閉囲場所、貨物積載場所及び除外場所の容積は、外板の内面から内面まで（金属製外板以外の外板にあつては外面から外面まで）又は周縁の構造上の仕切り、隔壁、甲板若しくは覆いの内面から内面まで測度するものとする。</Sentence>
@@ -302,7 +302,7 @@
         <Article Delete="false" Hide="false" Num="6">
           <ArticleCaption>（形状が複雑な場所の面積又は容積の算定方法）</ArticleCaption>
           <ArticleTitle>第六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">面積又は容積を一区分として算定すべき場所のうち形状が複雑なものの面積又は容積は、計算上より精密な結果が得られると船舶測度官が認める場合にあつては、第十条から第三十一条まで、第三十四条及び第四十条から第四十五条までの規定にかかわらず、当該場所を二以上に区分し、各区分した場所ごとにこれらの規定に準じて算定することができるものとする。</Sentence>
@@ -312,7 +312,7 @@
         <Article Delete="false" Hide="false" Num="7">
           <ArticleCaption>（形状が正整な場所の面積又は容積の算定方法）</ArticleCaption>
           <ArticleTitle>第七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">形状が正整な場所の面積又は容積は、第十一条から第三十条まで、第三十四条、第四十一条から第四十三条まで、第四十五条、第五十三条から第五十五条まで及び第五十七条の規定にかかわらず、平均の長さ、幅、深さ又は高さにより算定することができるものとする。</Sentence>
@@ -322,7 +322,7 @@
         <Article Delete="false" Hide="false" Num="8">
           <ArticleCaption>（特殊な構造を有する船舶のトン数の算定方法）</ArticleCaption>
           <ArticleTitle>第八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">特殊な構造を有する船舶であつて、国土交通大臣がこの省令の規定を適用することが妥当でないと認める船舶のトン数の算定方法については、この省令の規定にかかわらず、国土交通大臣が告示で定めるものとする。</Sentence>
@@ -337,7 +337,7 @@
           <Article Delete="false" Hide="false" Num="9">
             <ArticleCaption>（国際総トン数の数値を算定する場合の係数）</ArticleCaption>
             <ArticleTitle>第九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第四条第二項の国土交通省令で定める係数は、次の算式により算定した数値とする。</Sentence>
@@ -362,19 +362,19 @@
           <Article Delete="false" Hide="false" Num="10">
             <ArticleCaption>（閉囲場所の合計容積の算定方法）</ArticleCaption>
             <ArticleTitle>第十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">閉囲場所の合計容積の算定に当たつては、上甲板下の閉囲場所及び上甲板上の閉囲場所についてそれぞれの合計容積を算定し、これらを合算するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">上甲板下の閉囲場所の合計容積の算定に当たつては、船の長さ二十四メートル以上の船舶にあつては船体主部、船体付加部及び付加物について、船の長さ二十四メートル未満の船舶にあつては船体（上甲板下の部分に限る。第十九条において同じ。）及び付加物についてそれぞれの容積を算定し、これらを合算するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">上甲板上の閉囲場所の合計容積の算定に当たつては、上部構造物についてそれぞれの容積を算定し、これらを合算するものとする。</Sentence>
@@ -384,7 +384,7 @@
           <Article Delete="false" Hide="false" Num="11">
             <ArticleCaption>（船体主部の容積の算定方法）</ArticleCaption>
             <ArticleTitle>第十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">船体主部の容積は、船体主部の各分長点の位置における横断面の面積に当該分長点の位置に係る別表第一の下欄に掲げる係数をそれぞれ乗じて得た値を合算し、これに垂線間長の三十分の一を乗じて算定するものとする。</Sentence>
@@ -393,7 +393,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="12">
             <ArticleTitle>第十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">船体主部の分長点は、基線上において別表第一の上欄に掲げる垂線間長の区分に応じ、後部垂線からの距離が同表の下欄に定める距離となる位置に設けるものとする。</Sentence>
@@ -402,13 +402,13 @@
           </Article>
           <Article Delete="false" Hide="false" Num="13">
             <ArticleTitle>第十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">船体主部の分深点は、当該船体主部の分長点における垂線上において、両船側における上甲板の下面を結んだ線との交点、基線との交点及び当該基線との交点を基点として別表第二の上欄に掲げる区分に応じ、それぞれ同表の下欄に定める間隔ごとに定まる位置（両船側における上甲板の下面を結んだ線との交点より下方の船体主部内に定まる位置に限る。）に設けるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">横断面の上端又は下端の位置が前項の規定により設けられた分深点と一致しないときは、同項の規定によるほか、当該上端又は下端に分深点を設けるものとする。</Sentence>
@@ -417,7 +417,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="14">
             <ArticleTitle>第十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">横断面の面積の算定に当たつては、当該横断面を分深点ごとに水平に区分し、各区分した面（次条において「部分横断面」という。）の面積を算定し、これらを合算するものとする。</Sentence>
@@ -426,13 +426,13 @@
           </Article>
           <Article Delete="false" Hide="false" Num="15">
             <ArticleTitle>第十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">部分横断面の面積は、当該部分横断面の下方及び上方の分深点における幅に一を、分深点間の中央における幅に四をそれぞれ乗じて得た値を合算し、これに分深点間隔の六分の一を乗じて算定するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">両船側における上甲板の下面を結んだ線より上方の部分横断面の面積は、前項の規定にかかわらず、当該部分横断面の下方の分深点における幅を四等分し、中央の等分点における高さに二を、それ以外の等分点における高さに四を、両船側における高さに一をそれぞれ乗じて得た値を合算し、これに等分点間隔の三分の一を乗じて算定するものとする。</Sentence>
@@ -442,7 +442,7 @@
           <Article Delete="false" Hide="false" Num="16">
             <ArticleCaption>（船体付加部の容積の算定方法）</ArticleCaption>
             <ArticleTitle>第十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">船体付加部の容積は、船体付加部の各分長点における横断面の面積に、後端から数えて偶数番目に当たる分長点における横断面については四を、前後両端を除き奇数番目に当たる分長点における横断面については二を、前後両端の分長点における横断面については一をそれぞれ乗じて得た値を合算し、これに分長点間隔の三分の一を乗じて算定するものとする。</Sentence>
@@ -451,7 +451,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="17">
             <ArticleTitle>第十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">船体付加部の分長点は、基線上において別表第三の上欄に掲げる長さ（当該船体付加部の前端から後端までの距離をいう。）の区分に応じ、同表の下欄に定める等分数により当該長さを等分した位置及び前後両端の位置に設けるものとする。</Sentence>
@@ -460,7 +460,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="18">
             <ArticleTitle>第十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">横断面の面積の算定については、第十三条から第十五条までの規定を準用する。</Sentence>
@@ -471,7 +471,7 @@
           <Article Delete="false" Hide="false" Num="19">
             <ArticleCaption>（船の長さ二十四メートル未満の船舶の船体の容積の算定方法）</ArticleCaption>
             <ArticleTitle>第十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">船の長さ二十四メートル未満の船舶の船体の容積は、第十一条から前条までの規定にかかわらず、次の算式により算定するものとする。</Sentence>
@@ -512,7 +512,7 @@
                 </ListSentence>
               </List>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">測度長の前端における垂線より前方又は測度長の後端における垂線より後方に船体の部分を有する船舶の容積の算定については、当該部分についてその最大の長さに平均の幅及び平均の深さを乗じて容積を算定し、これを前項の規定により算定した容積に加えるものとする。</Sentence>
@@ -522,7 +522,7 @@
           <Article Delete="false" Hide="false" Num="20">
             <ArticleCaption>（付加物の容積の算定方法）</ArticleCaption>
             <ArticleTitle>第二十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">付加物の容積の算定方法については、第十六条の規定を準用する。</Sentence>
@@ -532,7 +532,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="21">
             <ArticleTitle>第二十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">付加物の分長点は、別表第三の上欄に掲げる長さ（当該付加物の前端から後端までの距離をいう。）の区分に応じ、同表の下欄に定める等分数により当該長さを等分した位置及び前後両端の位置に設けるものとする。</Sentence>
@@ -541,7 +541,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="22">
             <ArticleTitle>第二十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">付加物の分深点は、当該付加物の分長点における垂線上において、別表第四の上欄に掲げる深さ（当該分長点における横断面の下端から上端までの距離をいう。）の区分に応じ、同表の下欄に定める等分数により当該深さを等分した位置及び上下両端の位置に設けるものとする。</Sentence>
@@ -550,7 +550,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="23">
             <ArticleTitle>第二十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">横断面の面積は、当該横断面の下端から数えて偶数番目に当たる分深点における幅に四を、上下両端を除き奇数番目に当たる分深点における幅に二を、上下両端の分深点における幅に一をそれぞれ乗じて得た値を合算し、これに分深点間隔の三分の一を乗じて算定するものとする。</Sentence>
@@ -560,7 +560,7 @@
           <Article Delete="false" Hide="false" Num="24">
             <ArticleCaption>（船の長さ二十四メートル未満の船舶の付加物の容積の算定方法）</ArticleCaption>
             <ArticleTitle>第二十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">船の長さ二十四メートル未満の船舶の付加物の容積の算定方法については、第二十条から前条までの規定にかかわらず、当該付加物の最大の長さに平均の幅及び平均の高さを乗じて算定するものとする。</Sentence>
@@ -570,13 +570,13 @@
           <Article Delete="false" Hide="false" Num="25">
             <ArticleCaption>（上部構造物の容積の算定方法）</ArticleCaption>
             <ArticleTitle>第二十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">上部構造物の容積の算定に当たつては、当該上部構造物の後端から数えて奇数番目に当たる分長点における横断面ごとに当該上部構造物を区分し、各区分した部分（次項において「部分構造物」という。）の容積を算定し、これらを合算するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">部分構造物の容積は、当該部分構造物における後端及び前端の横断面の面積に一を、中央の横断面の面積に四をそれぞれ乗じて得た値を合算し、これに分長点間隔の三分の一を乗じて算定するものとする。</Sentence>
@@ -585,13 +585,13 @@
           </Article>
           <Article Delete="false" Hide="false" Num="26">
             <ArticleTitle>第二十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">上部構造物の分長点は、別表第五の上欄に掲げる長さ（当該上部構造物の前端から後端までの距離をいう。）の区分に応じ、同表の下欄に定める等分数により当該長さを等分した位置及び前後両端の位置に設けるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">上部構造物の全部又は一部が次の各号に掲げる位置にあるときは、前項の規定によるほか、それぞれ当該各号に定める位置に分長点を設けるものとする。</Sentence>
@@ -622,7 +622,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="27">
             <ArticleTitle>第二十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">横断面の面積は、当該横断面の上端及び下端における幅に一を、当該横断面の高さの中央における幅に四をそれぞれ乗じて得た値を合算し、これに当該横断面の高さの六分の一を乗じて算定するものとする。</Sentence>
@@ -632,7 +632,7 @@
           <Article Delete="false" Hide="false" Num="28">
             <ArticleCaption>（船の長さ二十四メートル未満の船舶の上部構造物の容積の算定方法）</ArticleCaption>
             <ArticleTitle>第二十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">船の長さ二十四メートル未満の船舶の上部構造物の容積の算定方法については、前三条の規定にかかわらず、当該上部構造物の最大の長さに平均の幅及び平均の高さを乗じて算定するものとする。</Sentence>
@@ -642,34 +642,34 @@
           <Article Delete="false" Hide="false" Num="29">
             <ArticleCaption>（上甲板に階段部を有する船舶の上甲板下の閉囲場所の合計容積の算定方法）</ArticleCaption>
             <ArticleTitle>第二十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第三条の上甲板に階段部を有する船の長さ二十四メートル以上の船舶の上甲板下の閉囲場所の合計容積は、第十条第二項の規定にかかわらず、区分甲板により第三条の上甲板下の船体を区分し、区分甲板下の船体主部、区分甲板下の船体付加部又は区分甲板と第三条の上甲板との間の場所（以下この条及び次条において「上甲板下の船体上部」という。）についてそれぞれの容積を算定し、これらを合算したものに第二十条から第二十三条までの規定により算定した付加物の合計容積を加えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">区分甲板下の船体主部の容積の算定方法については、第十一条から第十五条までの規定を準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、第十一条、第十二条及び第十三条第一項中「船体主部」とあるのは「区分甲板下の船体主部」と、第十三条第一項及び第十五条第二項中「上甲板」とあるのは「区分甲板」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">区分甲板下の船体付加部の容積及び分長点については、第十六条及び第十七条の規定を準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、第十六条及び第十七条中「船体付加部」とあるのは、「区分甲板下の船体付加部」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">区分甲板下の横断面の面積の算定方法については、第十三条から第十五条までの規定を準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、第十三条第一項中「船体主部」とあるのは「区分甲板下の船体付加部」と、第十三条第一項及び第十五条第二項中「上甲板」とあるのは「区分甲板」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="5">
+            <Paragraph Hide="false" Num="5" OldStyle="false">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">上甲板下の船体上部の容積の算定方法については、第二十五条から第二十七条までの規定を準用する。</Sentence>
@@ -679,20 +679,20 @@
           </Article>
           <Article Delete="false" Hide="false" Num="30">
             <ArticleTitle>第三十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第三条の上甲板に階段部を有する船の長さ二十四メートル未満の船舶の上甲板下の閉囲場所の合計容積は、第十条第二項の規定にかかわらず、区分甲板により第三条の上甲板下の船体を区分し、区分甲板下の船体及び上甲板下の船体上部についてそれぞれの容積を算定し、これらを合算したものに第二十四条の規定により算定した付加物の合計容積を加えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">区分甲板下の船体の容積の算定方法については、第十九条の規定を準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、同条中「船体」とあるのは「区分甲板下の船体」と、同条第一項中「上甲板」とあるのは「区分甲板」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">上甲板下の船体上部の容積は、当該場所の最大の長さに平均の幅及び平均の深さを乗じて算定するものとする。</Sentence>
@@ -702,7 +702,7 @@
           <Article Delete="false" Hide="false" Num="30_2">
             <ArticleCaption>（閉囲場所の容積の算定方法の特例）</ArticleCaption>
             <ArticleTitle>第三十条の二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">閉囲場所の容積の算定方法に当たつては、第四条第一項、第十条から第十八条まで、第二十条から第二十三条まで、第二十五条から第二十七条まで及び第二十九条の規定にかかわらず、国土交通大臣がこれらの規定による算定方法と同等以上の精度を得ることができると認める算定方法によることができる。</Sentence>
@@ -712,7 +712,7 @@
           <Article Delete="false" Hide="false" Num="31">
             <ArticleCaption>（除外場所の合計容積の算定方法）</ArticleCaption>
             <ArticleTitle>第三十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">除外場所の合計容積の算定に当たつては、上部構造物における除外場所についてそれぞれの容積を算定し、これらを合算するものとする。</Sentence>
@@ -721,7 +721,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="32">
             <ArticleTitle>第三十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第四条第二項の国土交通省令で定める基準は、次の各号に掲げる開口（閉鎖装置を有しているもの及び構造上閉鎖することが可能なものを除く。）の区分に応じ、それぞれ当該各号に定めるとおりとする。</Sentence>
@@ -786,7 +786,7 @@
           </Article>
           <Article Delete="false" Hide="false" Num="33">
             <ArticleTitle>第三十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">除外場所の容積の算定に当たつては、上部構造物における次の各号に掲げる開口の区分に応じ、それぞれ当該各号に定める場所（貨物又は貯蔵品の保管のための棚その他の装置が設けられている場所を除く。）の容積を算定するものとする。</Sentence>
@@ -851,14 +851,14 @@
           </Article>
           <Article Delete="false" Hide="false" Num="34">
             <ArticleTitle>第三十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">除外場所の容積の算定方法については、第二十五条から第二十七条までの規定を準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、第二十五条第一項及び第二十六条中「上部構造物」とあるのは「除外場所」と、第二十五条中「部分構造物」とあるのは「部分除外場所」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">船の長さ二十四メートル未満の船舶の除外場所の容積の算定方法については、前項の規定にかかわらず、当該除外場所の最大の長さに平均の幅及び平均の高さを乗じて算定するものとする。</Sentence>
@@ -868,7 +868,7 @@
           <Article Delete="false" Hide="false" Num="34_2">
             <ArticleCaption>（除外場所の容積の算定方法の特例）</ArticleCaption>
             <ArticleTitle>第三十四条の二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">除外場所の容積の算定に当たつては、第四条第一項、第三十一条から第三十三条まで及び前条第一項の規定にかかわらず、国土交通大臣がこれらの規定による算定方法と同等以上の精度を得ることができると認める算定方法によることができる。</Sentence>
@@ -881,7 +881,7 @@
           <Article Delete="false" Hide="false" Num="35">
             <ArticleCaption>（総トン数の数値を算定する場合の係数）</ArticleCaption>
             <ArticleTitle>第三十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第五条第二項の国土交通省令で定める係数は、次の算式により算定した数値とする。</Sentence>
@@ -916,7 +916,7 @@
           <Article Delete="false" Hide="false" Num="36">
             <ArticleCaption>（法第五条第三項の国土交通省令で定める船舶）</ArticleCaption>
             <ArticleTitle>第三十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第五条第三項の国土交通省令で定める船舶は、船舶安全法第三条の規定により満載喫水線を標示することを要する船舶であつて、次に掲げる要件に適合しなければならない。</Sentence>
@@ -966,7 +966,7 @@
           <Article Delete="false" Hide="false" Num="37">
             <ArticleCaption>（法第五条第三項の国土交通省令で定める船舶の総トン数の数値を算定する場合の係数）</ArticleCaption>
             <ArticleTitle>第三十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第五条第三項の当該数値並びに上甲板及び上甲板から第二層にある甲板の位置を基準として国土交通省令で定める係数は、次の算式により算定した数値とする。</Sentence>
@@ -1014,7 +1014,7 @@
           <Article Delete="false" Hide="false" Num="38">
             <ArticleCaption>（純トン数の数値を算定する場合の係数）</ArticleCaption>
             <ArticleTitle>第三十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第六条第二項第一号の国土交通省令で定める係数は、次の算式により算定した数値とする。</Sentence>
@@ -1054,7 +1054,7 @@
           <Article Delete="false" Hide="false" Num="39">
             <ArticleCaption>（基準喫水線）</ArticleCaption>
             <ArticleTitle>第三十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第三条第四項の国土交通省令で定める喫水線は、次の各号に掲げる船舶の区分に応じ、それぞれ当該各号に定める喫水線とする。</Sentence>
@@ -1097,7 +1097,7 @@
           <Article Delete="false" Hide="false" Num="40">
             <ArticleCaption>（貨物積載場所の合計容積の算定方法）</ArticleCaption>
             <ArticleTitle>第四十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">貨物積載場所の合計容積の算定に当たつては、貨物積載場所についてそれぞれの容積を算定し、これらを合算するものとする。</Sentence>
@@ -1107,7 +1107,7 @@
           <Article Delete="false" Hide="false" Num="41">
             <ArticleCaption>（貨物積載場所の容積の算定方法）</ArticleCaption>
             <ArticleTitle>第四十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">貨物積載場所の容積の算定に当たつては、第二十五条及び第二十六条を準用する。</Sentence>
@@ -1117,13 +1117,13 @@
           </Article>
           <Article Delete="false" Hide="false" Num="42">
             <ArticleTitle>第四十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">横断面の面積は、当該横断面の上端及び下端における幅に一を、当該横断面の高さの中央における幅に四をそれぞれ乗じて得た値を合算し、これに当該横断面の高さの六分の一を乗じて算定するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">最下層の甲板（甲板一層を備える船舶にあつては、当該甲板。以下同じ。）下の貨物積載場所の分長点における横断面の面積の算定については、前項の規定にかかわらず、第十三条から第十五条までの規定を準用する。</Sentence>
@@ -1134,7 +1134,7 @@
           <Article Delete="false" Hide="false" Num="42_2">
             <ArticleCaption>（貨物積載場所の容積の算定方法の特例）</ArticleCaption>
             <ArticleTitle>第四十二条の二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">貨物積載場所の容積の算定に当たつては、第四条第一項及び第四十条から第四十二条までの規定にかかわらず、国土交通大臣がこれらの規定による算定方法と同等以上の精度を得ることができると認める算定方法によることができる。</Sentence>
@@ -1144,7 +1144,7 @@
           <Article Delete="false" Hide="false" Num="43">
             <ArticleCaption>（船の長さ二十四メートル未満の船舶の貨物積載場所の容積の算定方法）</ArticleCaption>
             <ArticleTitle>第四十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">船の長さ二十四メートル未満の船舶の貨物積載場所の容積の算定方法については、前二条の規定にかかわらず、当該貨物積載場所の最大の長さに平均の幅及び平均の高さを乗じて算定するものとする。</Sentence>
@@ -1154,7 +1154,7 @@
           <Article Delete="false" Hide="false" Num="44">
             <ArticleCaption>（貨物積載場所に含まれる除外場所の合計容積の算定方法）</ArticleCaption>
             <ArticleTitle>第四十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">貨物積載場所に含まれる除外場所の合計容積の算定に当たつては、上部構造物における貨物積載場所に含まれる除外場所についてそれぞれの容積を算定し、これらを合算するものとする。</Sentence>
@@ -1163,14 +1163,14 @@
           </Article>
           <Article Delete="false" Hide="false" Num="45">
             <ArticleTitle>第四十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">貨物積載場所に含まれる除外場所の容積の算定については、第二十五条から第二十七条までの規定を準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、第二十五条第一項及び第二十六条中「上部構造物」とあるのは「貨物積載場所に含まれる除外場所」と、第二十五条中「部分構造物」とあるのは「部分除外場所」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">船の長さ二十四メートル未満の船舶の貨物積載場所に含まれる除外場所の容積の算定方法については、前項の規定にかかわらず、当該貨物積載場所に含まれる除外場所の最大の長さに平均の幅及び平均の高さを乗じて算定するものとする。</Sentence>
@@ -1180,7 +1180,7 @@
           <Article Delete="false" Hide="false" Num="45_2">
             <ArticleCaption>（貨物積載場所に含まれる除外場所の容積の算定方法の特例）</ArticleCaption>
             <ArticleTitle>第四十五条の二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">貨物積載場所に含まれる除外場所の容積の算定に当たつては、第四条第一項、第四十四条及び前条第一項の規定にかかわらず、国土交通大臣がこれらの規定による算定方法と同等以上の精度を得ることができると認める算定方法によることができる。</Sentence>
@@ -1190,7 +1190,7 @@
           <Article Delete="false" Hide="false" Num="46">
             <ArticleCaption>（純トン数を算定するための数値）</ArticleCaption>
             <ArticleTitle>第四十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第六条第二項第二号の国土交通省令で定めるところにより算定した数値は、次の算式により算定した数値とする。</Sentence>
@@ -1225,7 +1225,7 @@
           <Article Delete="false" Hide="false" Num="47">
             <ArticleCaption>（純トン数の数値の算定について特例を定めることができる軽微な変更）</ArticleCaption>
             <ArticleTitle>第四十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第六条第三項の国土交通省令で定める軽微な変更とは、当該変更によつて閉囲場所、貨物積載場所又は除外場所の容積に変更を生じないものとする。</Sentence>
@@ -1235,7 +1235,7 @@
           <Article Delete="false" Hide="false" Num="48">
             <ArticleCaption>（純トン数の数値の算定についての特例）</ArticleCaption>
             <ArticleTitle>第四十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前条に規定する軽微な変更により純トン数の数値が減少することとなる船舶（巡礼者運送その他の特殊な運送において多数の無寝床旅客を輸送する旅客船を除く。）の純トン数の数値は、法第八条の規定により国際トン数証書又は国際トン数確認書が最初に交付された日（純トン数の変更に係る書換えを受けた場合にあつては、最後に書換えを受けた日）から起算して一年を経過する日までの間は、当該変更前の基準喫水線の位置又は旅客定員の数を用いて法第六条第二項及び第三十八条から第四十六条までの規定により算定するものとする。</Sentence>
@@ -1248,7 +1248,7 @@
           <Article Delete="false" Hide="false" Num="49">
             <ArticleCaption>（載貨重量トン数を算定する場合に積載しない物）</ArticleCaption>
             <ArticleTitle>第四十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第七条第二項の国土交通省令で定める物は、次に掲げる物とする。</Sentence>
@@ -1294,7 +1294,7 @@
           <Article Delete="false" Hide="false" Num="50">
             <ArticleCaption>（満載排水量）</ArticleCaption>
             <ArticleTitle>第五十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">比重一・〇二五の水面において基準喫水線に至るまで人又は物を積載するものとした場合（以下この条において「満載状態」という。）の船舶の排水量は、次の算式により算定するものとする。</Sentence>
@@ -1324,7 +1324,7 @@
           <Article Delete="false" Hide="false" Num="51">
             <ArticleCaption>（軽荷重量）</ArticleCaption>
             <ArticleTitle>第五十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">人、貨物又は第四十九条各号に掲げる物を積載しないものとした場合（以下この条において「軽荷状態」という。）の船舶の排水量は、次の算式により算定するものとする。</Sentence>
@@ -1354,13 +1354,13 @@
           <Article Delete="false" Hide="false" Num="52">
             <ArticleCaption>（排水容積の算定方法）</ArticleCaption>
             <ArticleTitle>第五十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">排水容積の算定に当たつては、船体の型排水容積、付加物の排水容積及び金属製外板を有する船舶にあつては外板の排水容積をそれぞれ算定し、これらを合算するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">船体の型排水容積の算定に当たつては、船体主部及び船体付加部についてそれぞれの型排水容積を算定し、これらを合算するものとする。</Sentence>
@@ -1370,7 +1370,7 @@
           <Article Delete="false" Hide="false" Num="53">
             <ArticleCaption>（船体主部の型排水容積の算定方法）</ArticleCaption>
             <ArticleTitle>第五十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">船体主部の型排水容積の算定方法については、第十一条から第十五条第一項までの規定を準用する。</Sentence>
@@ -1381,14 +1381,14 @@
           <Article Delete="false" Hide="false" Num="54">
             <ArticleCaption>（船体付加部の型排水容積の算定方法）</ArticleCaption>
             <ArticleTitle>第五十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">船体付加部の型排水容積の算定方法については、第十六条及び第十七条の規定を準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、第十六条中「容積」とあるのは「型排水容積」と、「横断面」とあるのは「喫水線下の横断面」と、第十七条中「船体付加部」とあるのは「喫水線下の船体付加部」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">喫水線下の横断面の面積の算定方法については、第十三条から第十五条第一項までの規定を準用する。</Sentence>
@@ -1399,14 +1399,14 @@
           <Article Delete="false" Hide="false" Num="55">
             <ArticleCaption>（付加物の排水容積の算定方法）</ArticleCaption>
             <ArticleTitle>第五十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">付加物の排水容積の算定方法については、第十六条の規定を準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、同条中「船体付加部」とあるのは「付加物」と、「容積」とあるのは「排水容積」と、「横断面」とあるのは「喫水線下の横断面」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">喫水線下の横断面の面積の算定方法については、第二十一条から第二十三条までの規定を準用する。</Sentence>
@@ -1417,7 +1417,7 @@
           <Article Delete="false" Hide="false" Num="56">
             <ArticleCaption>（外板の排水容積の算定方法）</ArticleCaption>
             <ArticleTitle>第五十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">外板の排水容積は、船体主部及び船体付加部についてそれぞれの外板の浸水面積を算定し、これらを合算したものに外板の平均の厚さを乗じて算定するものとする。</Sentence>
@@ -1426,13 +1426,13 @@
           </Article>
           <Article Delete="false" Hide="false" Num="57">
             <ArticleTitle>第五十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">船体主部の外板の浸水面積は、基線上において別表第一の上欄に掲げる垂線間長の区分に応じ、後部垂線からの距離が同表の下欄に定める距離となる位置における喫水線下のガース長さ（船体横断面上において外板の内面に沿つて測つた距離をいう。次項において同じ。）に当該位置に係る同表の下欄に定める係数をそれぞれ乗じて得た値を合算し、これに垂線間長の三十分の一を乗じて算定するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">船体付加部の外板の浸水面積は、基線上において別表第三の上欄に掲げる長さ（当該喫水線下の船体付加部の前端から後端までの距離をいう。）の区分に応じ、同表の下欄に定める等分数により当該長さを等分した位置及び前後両端の位置に設けられた各分長点における喫水線下のガース長さに、後端から数えて偶数番目に当たる分長点における喫水線下のガース長さについては四を、前後両端を除き奇数番目に当たる分長点における喫水線下のガース長さについては二を、前後両端の分長点における喫水線下のガース長さについては一をそれぞれ乗じて得た値を合算し、これに分長点間隔の三分の一を乗じて算定するものとする。</Sentence>
@@ -1442,7 +1442,7 @@
           <Article Delete="false" Hide="false" Num="58">
             <ArticleCaption>（排水容積の算定方法の特例）</ArticleCaption>
             <ArticleTitle>第五十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">排水容積の算定に当たつては、第四条第一項及び第五十二条から前条までの規定にかかわらず、国土交通大臣がこれらの規定による算定方法と同等以上の精度を得ることができると認める算定方法によることができる。</Sentence>
@@ -1456,13 +1456,13 @@
         <Article Delete="false" Hide="false" Num="59">
           <ArticleCaption>（国際トン数証書の交付の申請等）</ArticleCaption>
           <ArticleTitle>第五十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第八条第二項の規定により国際トン数証書の交付（以下単に「交付」という。）を受けようとする船舶所有者は、第一号様式による国際トン数証書交付申請書を当該船舶の所在地を管轄する地方運輸局長（運輸監理部長を含む。以下同じ。）又は運輸支局等（運輸支局（地方運輸局組織規則（平成十四年国土交通省令第七十三号）別表第二第一号に掲げる運輸支局（福岡運輸支局を除く。）を除く。）、同令別表第五第二号に掲げる海事事務所及び内閣府設置法（平成十一年法律第八十九号）第四十七条第一項の規定により沖縄総合事務局に置かれる事務所で地方運輸局において所掌することとされている事務のうち国土交通省組織令（平成十二年政令第二百五十五号）第二百十二条第二項に規定する事務を分掌するものをいう。以下同じ。）の長（以下「地方運輸局長等」という。）に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の申請書には、次に掲げる図面を添付しなければならない。</Sentence>
@@ -1498,7 +1498,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">地方運輸局長等は、交付のため必要があると認める場合は、前項に規定する図面のほか、必要な書類の提出を求めることができる。</Sentence>
@@ -1508,7 +1508,7 @@
         <Article Delete="false" Hide="false" Num="60">
           <ArticleCaption>（測度の準備）</ArticleCaption>
           <ArticleTitle>第六十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">交付の申請をした者は、地方運輸局長等が指示するところに従い国際総トン数及び純トン数の測度の準備をするものとする。</Sentence>
@@ -1518,13 +1518,13 @@
         <Article Delete="false" Hide="false" Num="61">
           <ArticleCaption>（国際総トン数及び純トン数の測度等）</ArticleCaption>
           <ArticleTitle>第六十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">地方運輸局長等は、交付の申請があつたときは、船舶測度官に、当該船舶に立ち入り、国際総トン数及び純トン数の測度を行わせ、かつ、国際トン数証書及び国際トン数計算書を作成させるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">船舶測度官は、前項の国際総トン数の測度を行う場合において、船舶法（明治三十二年法律第四十六号）及びこれに基づく命令の規定により法第五条に規定する総トン数の測度又は改測（これらに相当する処分を含む。）を受けた船舶については、当該総トン数の算定に用いた法第四条第二項の規定の例により算定した数値を用いるものとする。</Sentence>
@@ -1534,7 +1534,7 @@
         <Article Delete="false" Hide="false" Num="61_2">
           <ArticleCaption>（海上運送法第三十九条の六の確認を受けた者に係る交付の申請等の特例）</ArticleCaption>
           <ArticleTitle>第六十一条の二</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">海上運送法（昭和二十四年法律第百八十七号）第三十九条の六の確認を受けた者が交付の申請をする場合における前条第一項の規定の適用については、同項中「船舶測度官に、当該船舶に立ち入り、国際総トン数及び純トン数の測度を行わせ、かつ」とあるのは、「船舶測度官に」とする。</Sentence>
@@ -1545,13 +1545,13 @@
         <Article Delete="false" Hide="false" Num="62">
           <ArticleCaption>（国際トン数証書の書換えの申請等）</ArticleCaption>
           <ArticleTitle>第六十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第八条第三項の規定により国際トン数証書の書換え（以下単に「書換え」という。）を受けようとする船舶所有者は、第二号様式による国際トン数証書書換え申請書を当該船舶の所在地を管轄する地方運輸局長等（記載事項の変更が国際総トン数又は純トン数の変更以外の変更であるときは、当該船舶の船籍港を管轄する地方運輸局長等）に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の申請書には、次に掲げる書類を添付しなければならない。</Sentence>
@@ -1582,7 +1582,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第五十九条第三項の規定は、国際総トン数又は純トン数の変更に係る書換えの場合について準用する。</Sentence>
@@ -1592,7 +1592,7 @@
         <Article Delete="false" Hide="false" Num="63">
           <ArticleCaption>（準用）</ArticleCaption>
           <ArticleTitle>第六十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第六十条及び第六十一条の規定は、国際総トン数又は純トン数の変更に係る書換えの申請の場合について準用する。</Sentence>
@@ -1603,7 +1603,7 @@
         <Article Delete="false" Hide="false" Num="64">
           <ArticleCaption>（交付又は書換えの引継ぎ）</ArticleCaption>
           <ArticleTitle>第六十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">交付又は国際総トン数若しくは純トン数の変更に係る書換えを申請した者は、当該船舶が当該交付又は書換えを申請した地方運輸局長等以外の地方運輸局長等の管轄する区域内に移転した場合は、当該交付又は書換えを申請した地方運輸局長等に第三号様式による国際トン数証書交付（書換え）引継申請書を提出して、当該船舶の新たな所在地を管轄する地方運輸局長等への交付又は書換えの引継ぎを受けることができる。</Sentence>
@@ -1613,13 +1613,13 @@
         <Article Delete="false" Hide="false" Num="65">
           <ArticleCaption>（国際トン数証書の再交付）</ArticleCaption>
           <ArticleTitle>第六十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第八条第五項の規定により国際トン数証書の再交付を受けようとする船舶所有者は、第四号様式による国際トン数証書再交付申請書を当該船舶の船籍港を管轄する地方運輸局長等に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">地方運輸局長等は、法第八条第五項の規定による申請が正当であると認めるときは、国際トン数証書をその者に再交付するものとする。</Sentence>
@@ -1629,7 +1629,7 @@
         <Article Delete="false" Hide="false" Num="66">
           <ArticleCaption>（国際トン数証書の返還）</ArticleCaption>
           <ArticleTitle>第六十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第八条第六項の規定により国際トン数証書を返還するときは、当該船舶の船籍港を管轄する地方運輸局長等に対して行うものとする。</Sentence>
@@ -1639,7 +1639,7 @@
         <Article Delete="false" Hide="false" Num="67">
           <ArticleCaption>（国際トン数証書を返還することができない場合の届出）</ArticleCaption>
           <ArticleTitle>第六十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第八条第六項ただし書の規定により国際トン数証書を返還することができない旨の届出をしようとする船舶所有者は、次に掲げる事項を記載した届出書を当該船舶の船籍港を管轄する地方運輸局長等に提出しなければならない。</Sentence>
@@ -1667,7 +1667,7 @@
         <Article Delete="false" Hide="false" Num="67_2">
           <ArticleCaption>（行政区画の名称等の変更）</ArticleCaption>
           <ArticleTitle>第六十七条の二</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">行政区画又は土地の名称の変更があつたときは、国際トン数証書に記載した行政区画又は土地の名称は、変更後の行政区画又は土地の名称に変更されたものとみなす。</Sentence>
@@ -1677,7 +1677,7 @@
         <Article Delete="false" Hide="false" Num="68">
           <ArticleCaption>（国際トン数確認書）</ArticleCaption>
           <ArticleTitle>第六十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第五十九条から前条までの規定は、国際トン数確認書について準用する。</Sentence>
@@ -1688,7 +1688,7 @@
         <Article Delete="false" Hide="false" Num="69">
           <ArticleCaption>（国際トン数証書及び国際トン数確認書の様式）</ArticleCaption>
           <ArticleTitle>第六十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国際トン数証書及び国際トン数確認書の様式は、それぞれ第五号様式及び第六号様式によるものとする。</Sentence>
@@ -1698,7 +1698,7 @@
         <Article Delete="false" Hide="false" Num="70">
           <ArticleCaption>（外国における事務）</ArticleCaption>
           <ArticleTitle>第七十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">日本の領事官は、法第八条に規定する事務を行つたときは、遅滞なく、外務大臣を通じて、国土交通大臣に関係書類を送付しなければならない。</Sentence>
@@ -1708,19 +1708,19 @@
         <Article Delete="false" Hide="false" Num="71">
           <ArticleCaption>（手数料）</ArticleCaption>
           <ArticleTitle>第七十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第十条の国土交通省令で定める額は、別表第七に定める額（情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第六条第一項の規定により同項に規定する電子情報処理組織を使用して法第十条の申請をする場合にあつては、別表第七の二に定める額）とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定による手数料は、手数料の額に相当する収入印紙を第七号様式による手数料納付書に貼つて納付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">外国において日本の領事官に対し国際トン数証書又は国際トン数確認書の交付、書換え又は再交付を申請しようとする際の手数料は、前二項の規定にかかわらず、手数料納付書に外国貨幣換算率（予算決算及び会計令（昭和二十二年勅令第百六十五号）第百十四条の規定に基づき財務大臣が定める外国貨幣換算率をいう。）により換算した邦貨額が別表第八に定める額に相当する額の当該領事館所在国の通貨を添えて納付しなければならない。</Sentence>
@@ -1734,7 +1734,7 @@
         <Article Delete="false" Hide="false" Num="72">
           <ArticleCaption>（貨物積載場所の標示）</ArticleCaption>
           <ArticleTitle>第七十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国際航海に従事する日本船舶の船舶所有者は、当該船舶の貨物積載場所ごとの最も見やすい位置に、次に掲げる基準に適合する「ＣＣ」の文字を恒久的な方法で標示しなければならない。</Sentence>
@@ -1756,7 +1756,7 @@
         <Article Delete="false" Hide="false" Num="73">
           <ArticleCaption>（立入検査証）</ArticleCaption>
           <ArticleTitle>第七十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第十二条第二項の職員の身分を示す証明書は、第八号様式によるものとする。</Sentence>
@@ -1766,19 +1766,19 @@
         <Article Delete="false" Hide="false" Num="74">
           <ArticleCaption>（権限の委任）</ArticleCaption>
           <ArticleTitle>第七十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第八条及び第十二条に規定する国土交通大臣の権限は、当該船舶の所在地を管轄する地方運輸局長が行う。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定により地方運輸局長が行うこととされた権限は、当該船舶の所在地が運輸支局等の管轄区域内に存するときは、当該所在地を管轄する運輸支局等の長が行う。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第八条第三項（国際総トン数又は純トン数の変更に係る書換えを除く。）、第五項及び第六項（これらの規定を第八項において準用する場合を含む。）に規定する国土交通大臣の権限は、前二項の規定にかかわらず、当該船舶の船籍港を管轄する地方運輸局長（当該船舶の船籍港が運輸支局等の管轄区域内に存するときは、当該船籍港を管轄する運輸支局等の長）が行う。</Sentence>
@@ -1789,27 +1789,27 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、法の施行の日（昭和五十七年七月十八日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（船舶積量測度規程等の廃止等）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">船舶積量測度規程（大正三年逓信省令第十六号。次項において「旧測度規程」という。）及び簡易船舶積量測度規程（昭和七年逓信省令第十二号。次項において「旧簡易規程」という。）は、廃止する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">削除</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="4">
+      <Paragraph Hide="false" Num="4" OldStyle="false">
         <ParagraphCaption>（特定修繕の範囲）</ParagraphCaption>
         <ParagraphNum>４</ParagraphNum>
         <ParagraphSentence>
@@ -1835,12 +1835,12 @@
         </Item>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五七年四月六日運輸省令第八号" Extract="true">
+    <SupplProvision AmendLawId="357008" AmendLawNum="昭和五七年四月六日運輸省令第八号" Extract="true" Id="3a94262a-1884-11e8-b5d9-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
@@ -1872,16 +1872,16 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五九年三月一九日運輸省令第四号">
+    <SupplProvision AmendLawId="359004" AmendLawNum="昭和五九年三月一九日運輸省令第四号" Id="f77d8c0a-d3b7-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和五十九年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -1889,21 +1889,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五九年五月一七日運輸省令第一四号">
+    <SupplProvision AmendLawId="359014" AmendLawNum="昭和五九年五月一七日運輸省令第一四号" Id="6b230e5a-190b-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和五十九年五月二十日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和五九年六月二二日運輸省令第一八号" Extract="true">
+    <SupplProvision AmendLawId="359018" AmendLawNum="昭和五九年六月二二日運輸省令第一八号" Extract="true" Id="f77f7bdc-d3b7-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、昭和五十九年七月一日から施行する。</Sentence>
@@ -1913,7 +1913,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行前に次の表の上欄に掲げる行政庁が法律若しくはこれに基づく命令の規定によりした許可、認可その他の処分又は契約その他の行為（以下「処分等」という。）は、同表の下欄に掲げるそれぞれの行政庁がした処分等とみなし、この省令の施行前に同表の上欄に掲げる行政庁に対してした申請、届出その他の行為（以下「申請等」という。）は、同表の下欄に掲げるそれぞれの行政庁に対してした申請等とみなす。</Sentence>
@@ -2078,7 +2078,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="3">
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行前に海運局支局長が法律又はこれに基づく命令の規定によりした処分等は、相当の地方運輸局又は海運監理部の海運支局長がした処分等とみなし、この省令の施行前に海運局支局長に対してした申請等は、相当の地方運輸局又は海運監理部の海運支局長に対してした申請等とみなす。</Sentence>
@@ -2086,16 +2086,16 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和六二年三月二五日運輸省令第二五号" Extract="true">
+    <SupplProvision AmendLawId="362025" AmendLawNum="昭和六二年三月二五日運輸省令第二五号" Extract="true" Id="f788f87e-d3b7-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和六十二年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -2103,16 +2103,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成元年三月三一日運輸省令第一二号" Extract="true">
+    <SupplProvision AmendLawId="401012" AmendLawNum="平成元年三月三一日運輸省令第一二号" Extract="true" Id="f78ad3f6-d3b7-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成元年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
@@ -2120,25 +2120,25 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成元年七月二〇日運輸省令第二四号">
+    <SupplProvision AmendLawId="401024" AmendLawNum="平成元年七月二〇日運輸省令第二四号" Id="f78ca082-d3b7-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三年三月二二日運輸省令第二号">
+    <SupplProvision AmendLawId="403002" AmendLawNum="平成三年三月二二日運輸省令第二号" Id="f78e580a-d3b7-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成三年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -2146,12 +2146,12 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成五年三月二九日運輸省令第七号" Extract="true">
+    <SupplProvision AmendLawId="405007" AmendLawNum="平成五年三月二九日運輸省令第七号" Extract="true" Id="f7942190-d3b7-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成五年七月六日から施行する。</Sentence>
@@ -2159,16 +2159,16 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成六年三月二九日運輸省令第九号">
+    <SupplProvision AmendLawId="406009" AmendLawNum="平成六年三月二九日運輸省令第九号" Id="f797ca5c-d3b7-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成六年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -2176,25 +2176,25 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成六年三月三〇日運輸省令第一二号" Extract="true">
+    <SupplProvision AmendLawId="406012" AmendLawNum="平成六年三月三〇日運輸省令第一二号" Extract="true" Id="f799bfc4-d3b7-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成九年三月二一日運輸省令第一五号">
+    <SupplProvision AmendLawId="409015" AmendLawNum="平成九年三月二一日運輸省令第一五号" Id="f79d63fe-d3b7-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成九年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -2202,25 +2202,25 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成九年一二月一五日運輸省令第八三号">
+    <SupplProvision AmendLawId="409083" AmendLawNum="平成九年一二月一五日運輸省令第八三号" Id="f7a12d22-d3b7-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十年一月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年三月二二日運輸省令第九号">
+    <SupplProvision AmendLawId="412009" AmendLawNum="平成一二年三月二二日運輸省令第九号" Id="f7a4d012-d3b7-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十二年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -2228,12 +2228,12 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年一一月二九日運輸省令第三九号" Extract="true">
+    <SupplProvision AmendLawId="412039" AmendLawNum="平成一二年一一月二九日運輸省令第三九号" Extract="true" Id="07452690-d3b6-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成十三年一月六日から施行する。</Sentence>
@@ -2241,21 +2241,21 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一四年三月一二日国土交通省令第二〇号">
+    <SupplProvision AmendLawId="414020" AmendLawNum="平成一四年三月一二日国土交通省令第二〇号" Id="6d6e3478-190b-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十四年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一四年六月二八日国土交通省令第七九号">
+    <SupplProvision AmendLawId="414079" AmendLawNum="平成一四年六月二八日国土交通省令第七九号" Id="ec431f88-d3b4-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成十四年七月一日から施行する。</Sentence>
@@ -2265,7 +2265,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の様式又は書式による申請書、証明書その他の文書は、この省令による改正後のそれぞれの様式又は書式にかかわらず、当分の間、なおこれを使用することができる。</Sentence>
@@ -2273,12 +2273,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年二月二六日国土交通省令第六号" Extract="true">
+    <SupplProvision AmendLawId="416006" AmendLawNum="平成一六年二月二六日国土交通省令第六号" Extract="true" Id="f7afa37a-d3b7-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成十六年三月一日から施行する。</Sentence>
@@ -2286,25 +2286,25 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年三月三一日国土交通省令第三四号">
+    <SupplProvision AmendLawId="416034" AmendLawNum="平成一六年三月三一日国土交通省令第三四号" Id="f7b18ca8-d3b7-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一七年三月二八日国土交通省令第一九号">
+    <SupplProvision AmendLawId="417019" AmendLawNum="平成一七年三月二八日国土交通省令第一九号" Id="f7b5da06-d3b7-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十七年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -2312,12 +2312,12 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一八年三月三一日国土交通省令第二八号">
+    <SupplProvision AmendLawId="418028" AmendLawNum="平成一八年三月三一日国土交通省令第二八号" Id="6e4fd702-190b-11e8-ab74-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成十八年四月一日から施行する。</Sentence>
@@ -2327,7 +2327,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この省令の施行前に建造され、又は建造に着手された船舶（船舶のトン数の測度に関する法律附則第三条第一項の規定の適用があるものを除く。以下「現存船」という。）については、この省令の規定による改正後の船舶のトン数の測度に関する法律施行規則第十条第二項、第十九条第一項、第二十四条、第二十八条、第二十九条第一項、第三十条第一項、第三十四条第二項、第四十三条及び第四十五条第二項の規定にかかわらず、なお従前の例による。</Sentence>
@@ -2348,12 +2348,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一八年三月三一日国土交通省令第三〇号">
+    <SupplProvision AmendLawId="418030" AmendLawNum="平成一八年三月三一日国土交通省令第三〇号" Id="f7bba74c-d3b7-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成十八年四月一日から施行する。</Sentence>
@@ -2363,7 +2363,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の様式による申請書、証明書その他の文書は、この省令による改正後のそれぞれの様式にかかわらず、当分の間、なおこれを使用することができる。</Sentence>
@@ -2371,12 +2371,12 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二〇年一〇月二九日国土交通省令第八八号" Extract="true">
+    <SupplProvision AmendLawId="420088" AmendLawNum="平成二〇年一〇月二九日国土交通省令第八八号" Extract="true" Id="9058f454-188a-11e8-a242-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成二十一年一月一日（以下「施行日」という。）から施行する。</Sentence>
@@ -2384,9 +2384,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二四年一二月一一日国土交通省令第八七号" Extract="true">
+    <SupplProvision AmendLawId="424087" AmendLawNum="平成二四年一二月一一日国土交通省令第八七号" Extract="true" Id="fae6dfc2-d3b2-11e9-ab6a-005056b30d52">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -2394,21 +2394,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年六月二八日国土交通省令第二〇号" Type="Amend">
+    <SupplProvision AmendLawId="501020" AmendLawNum="令和元年六月二八日国土交通省令第二〇号" Id="222a98e6-9e1e-11e9-92bf-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年一二月一六日国土交通省令第四七号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawId="501047" AmendLawNum="令和元年一二月一六日国土交通省令第四七号" Extract="true" Id="618a0fe0-2077-11ea-b6ae-005056b30d52" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行の日（令和元年十二月十六日）から施行する。</Sentence>
