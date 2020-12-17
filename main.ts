@@ -1,15 +1,33 @@
-#!/bin/env -S deno run --unstable
-
-import { walk } from "https://deno.land/std@0.77.0/fs/mod.ts";
-import { SAXParser } from "https://deno.land/x/sax_ts@v1.2.10/src/sax.ts";
+#!/bin/env -S deno run --unstable --allow-net=elaws.e-gov.go.jp --allow-run=unzip --allow-read --allow-write
 import {
   fromStreamReader,
   fromStreamWriter,
-} from "https://deno.land/std/io/mod.ts";
+} from "https://deno.land/std@0.77.0/io/mod.ts";
+import { walk } from "https://deno.land/std@0.77.0/fs/mod.ts";
+import { SAXParser } from "https://deno.land/x/sax_ts@v1.2.10/src/sax.ts";
+import { readLines } from "https://deno.land/std@0.77.0/io/bufio.ts";
+
+const ZipFileName = "xml_all.zip";
+
+async function getZip() {
+  const res = await fetch(
+    "https://elaws.e-gov.go.jp/download?file_section=1&only_xml_flag=true",
+  );
+  if (res.status != 200) throw res;
+  const file = await Deno.open(ZipFileName, { create: true, write: true });
+  const reader = fromStreamReader(res.body!.getReader());
+  await Deno.copy(reader, file).then(() => file.close());
+}
+async function unzip() {
+  await Deno.run(
+    {
+      cmd: ["unzip", "-j", "-o", ZipFileName, "-d", "docs/xml"],
+    },
+  ).status();
+}
 
 const Nop = () => undefined;
 function parserFactory(ret: any) {
-  const decoder = new TextDecoder("utf-8");
   const parser = new SAXParser(true, {});
   const tagopen = (tag: any) => {
     switch (tag.name) {
@@ -34,26 +52,20 @@ function parserFactory(ret: any) {
     console.error(e);
   };
   parser.onopentag = tagopen;
-  const st = new WritableStream({
-    write(chunk): void {
-      const decoded = decoder.decode(chunk);
-      parser.write(decoded);
-    },
-    close() {
-      parser.close();
-    },
-  });
-  return fromStreamWriter(st.getWriter());
+  return parser;
 }
 async function buildIndex() {
   const index: any = {};
   for await (const entry of walk("docs/xml")) {
     if (entry.isDirectory) continue;
-    const file = await Deno.open(entry.path, { read: true });
     const props: any = {};
-    console.log(entry.path);
-    await Deno.copy(file, parserFactory(props));
+    const parser = parserFactory(props);
+    const file = await Deno.open(entry.path, { read: true });
+    for await (let line of readLines(file)) {
+      parser.write(line);
+    }
     file.close();
+    console.log(entry.path);
     if (!props.name) Deno.exit(1);
     index[props.name] = {
       name: entry.name,
@@ -76,7 +88,7 @@ function buildHtml(index: any) {
   });
   return fromStreamReader(st.getReader());
 }
-async function main() {
+async function index() {
   let index: any;
   let res = await Deno.permissions.request(
     { name: "write", path: "docs/index.json" },
@@ -102,4 +114,6 @@ async function main() {
     html.close();
   }
 }
-await main();
+await getZip()
+await unzip()
+//await index();

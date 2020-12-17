@@ -1,0 +1,13 @@
+[package]
+name = "parse-index"
+version = "0.1.0"
+authors = ["ohkubo kohei <kuboon@trick-with.net>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+encoding_rs = "0.8.26"
+csv = "1.1"
+serde = { version="1.0.118", features = ["derive"] }
+serde_json = "1.0"
