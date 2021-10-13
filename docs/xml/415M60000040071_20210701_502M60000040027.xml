@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="502M60000040027" AmendmentNum="令和二年財務省令第二十七号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="071" Year="15">
+<Law AmendmentId="502M60000040027" AmendmentNum="令和二年財務省令第二十七号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="071" Year="15" PromulgateMonth="03" PromulgateDay="31">
   <LawNum>平成十五年財務省令第七十一号</LawNum>
   <LawBody>
-    <LawTitle>国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令</LawTitle>
+    <LawTitle Kana="こくぜいかんけいほうれいにかかるじょうほうつうしんぎじゅつをかつようしたぎょうせいのすいしんとうにかんするしょうれい" Abbrev="国税関係法令行政手続オンライン化法に関する省令,国税関係法令行政手続ＩＴ利用法に関する省令" AbbrevKana="こ,こ">国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令</LawTitle>
     <EnactStatement>行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）第三条第一項及び第四項並びに第四条第一項及び第四項並びに国税通則法（昭和三十七年法律第六十六号）第三十四条第一項の規定に基づき、並びに行政手続等における情報通信の技術の利用に関する法律及び国税関係法令を実施するため、国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -104,7 +104,7 @@
           <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">情報通信技術活用法第六条第一項に規定する主務省令で定める電子情報処理組織は、国税庁の使用に係る電子計算機と申請等を行う者の使用に係る電子計算機（次条第八項及び第五条第一項において「特定電子計算機」という。）とを電気通信回線で接続した電子情報処理組織とする。</Sentence>
+              <Sentence WritingMode="vertical">情報通信技術活用法第六条第一項に規定する主務省令で定める電子情報処理組織は、国税庁の使用に係る電子計算機と申請等を行う者の使用に係る電子計算機（次条第九項、第五条第一項及び第二項並びに第五条の二第一項において「特定電子計算機」という。）とを電気通信回線で接続した電子情報処理組織とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2" OldStyle="false">
@@ -120,7 +120,7 @@
           <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">電子情報処理組織を使用する方法により申請等を行おうとする者（次条第一項ただし書（第一号に係る部分に限る。）の規定により申請等を行おうとする者を除く。）又は電子情報処理組織を使用する方法により国税の納付を行おうとする者（第八条第一項ただし書の規定により国税の納付を行おうとする者を除く。）は、次に掲げる事項をあらかじめ税務署長に届け出なければならない。</Sentence>
+              <Sentence WritingMode="vertical">電子情報処理組織を使用する方法により申請等を行おうとする者（次条第一項ただし書（第一号に係る部分に限るものとし、同条第二項後段において準用する場合を含む。）の規定により申請等を行おうとする者を除く。）又は電子情報処理組織を使用する方法により国税の納付を行おうとする者（第八条第一項ただし書の規定により国税の納付を行おうとする者を除く。）は、次に掲げる事項をあらかじめ税務署長に届け出なければならない。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -150,7 +150,7 @@
           <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">税務署長は、次条第一項ただし書（第一号に係る部分に限る。）の規定により申請等を行おうとする者及び第八条第一項ただし書の規定により国税の納付を行おうとする者に対し、第一項の申請等又は国税の納付手続に利用することができる入出力用プログラムを提供するものとする。</Sentence>
+              <Sentence WritingMode="vertical">税務署長は、次条第一項ただし書（第一号に係る部分に限るものとし、同条第二項後段において準用する場合を含む。）の規定により申請等を行おうとする者及び第八条第一項ただし書の規定により国税の納付を行おうとする者に対し、第一項の申請等又は国税の納付手続に利用することができる入出力用プログラムを提供するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="4" OldStyle="false">
@@ -230,7 +230,7 @@
           <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">電子情報処理組織を使用する方法により申請等（前条第一項又は第六項（第一号に係る部分に限る。）の規定による届出を除く。）を行う者は、同条第二項の入出力用プログラム又はこれと同様の機能を有するものを用いて、特定電子計算機から、当該申請等につき規定した法令の規定において書面等に記載すべきこととされている事項並びに同条の規定により通知された識別符号及び暗証符号を入力して、当該申請等の情報に電子署名を行い、当該電子署名に係る電子証明書と併せてこれらを送信することにより、当該申請等を行わなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">電子情報処理組織を使用する方法により申請等（前条第一項又は第六項（第一号に係る部分に限る。）の届出を除く。以下この条において同じ。）を行う者は、前条第二項の入出力用プログラム又はこれと同様の機能を有するものを用いて、特定電子計算機から、当該申請等につき規定した法令の規定において書面等に記載すべきこととされている事項（次項及び第四項において「申請書面等記載事項」という。）並びに同条の規定により通知された識別符号及び暗証符号を入力して、当該申請等の情報に電子署名を行い、当該電子署名に係る電子証明書と併せてこれらを送信することにより、当該申請等を行わなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる場合には、当該各号に定める行為をすることを要しない。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
@@ -259,61 +259,68 @@
           <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">前項の申請等を行う者は、同項の規定にかかわらず、当該申請等につき規定した法令の規定に基づき添付すべきこととされている書面等（以下この条において「添付書面等」という。）に記載されている事項又は記載すべき事項（以下この項及び次項において「添付書面等記載事項」という。）を次に掲げる方法により送信し、又は提出することをもって、当該添付書面等の提出に代えることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">電子情報処理組織を使用する方法により申請等を行う者は、前項の規定により申請書面等記載事項を入力して送信する方法につき国税庁の使用に係る電子計算機において用いることができない場合には、同項の規定にかかわらず、前条第二項の入出力用プログラム又はこれと同様の機能を有するものを用いて、特定電子計算機から、同条の規定により通知された識別符号及び暗証符号を入力して、申請書面等記載事項をスキャナにより読み取る方法その他これに類する方法により作成した電磁的記録（次に掲げる要件を満たすように読み取り、又は作成したものに限る。）に記録された当該申請等の情報に電子署名を行い、当該電子署名に係る電子証明書と併せてこれらを送信することにより、当該申請等を行うことができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、前項ただし書の規定を準用する。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">当該添付書面等記載事項を当該申請等に併せて入力して送信し、又は提出する方法</Sentence>
+                <Sentence WritingMode="vertical">解像度が、日本産業規格（産業標準化法（昭和二十四年法律第百八十五号）第二十条第一項に規定する日本産業規格をいう。）Ｚ六〇一六附属書ＡのＡ・一・二に規定する一般文書のスキャニング時の解像度である二十五・四ミリメートル当たり二百ドット以上であること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">当該添付書面等記載事項をスキャナにより読み取る方法その他これに類する方法により作成した電磁的記録（次に掲げる要件を満たすように読み取り、又は作成したものに限る。）を当該申請等と併せて送信し、又は提出する方法（前号に掲げる方法につき国税庁の使用に係る電子計算機において用いることができない場合に限る。）</Sentence>
-              </ItemSentence>
-              <Subitem1 Delete="false" Hide="false" Num="1">
-                <Subitem1Title>イ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">解像度が、日本産業規格（産業標準化法（昭和二十四年法律第百八十五号）第二十条第一項に規定する日本産業規格をいう。）Ｚ六〇一六附属書ＡのＡ・一・二に規定する一般文書のスキャニング時の解像度である二十五・四ミリメートル当たり二百ドット以上であること。</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Delete="false" Hide="false" Num="2">
-                <Subitem1Title>ロ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">赤色、緑色及び青色の階調がそれぞれ二百五十六階調以上であること。</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-            </Item>
-            <Item Delete="false" Hide="false" Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">当該添付書面等記載事項（国税庁長官が定める添付書面等に係るものに限る。）が記録された電磁的記録であって、当該添付書面等を交付すべき者から提供を受けたもの（当該添付書面等を交付すべき者により当該電磁的記録に記録された情報に電子署名が行われ、かつ、当該電子署名に係る電子証明書が当該情報と併せて提供されているものその他これに類するものとして国税庁長官が定めるものに限る。）を当該申請等と併せて送信し、又は提出する方法</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">当該添付書面等記載事項（国税庁長官が定める添付書面等に係るものに限る。）の電磁的記録（当該電磁的記録をスキャナにより読み取る方法その他これに類する方法により作成した場合にあっては、第二号イ及びロに掲げる要件を満たすように読み取り、又は作成したものに限る。）を記録した光ディスク、磁気テープ又は磁気ディスクを提出する方法</Sentence>
+                <Sentence WritingMode="vertical">赤色、緑色及び青色の階調がそれぞれ二百五十六階調以上であること。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
           <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">第一項の書面等に記載すべきこととされている事項又は添付書面等記載事項を前二項に規定する方法により送信し、又は提出する場合におけるその送信又は提出に関するファイル形式については、国税庁長官が定める。</Sentence>
+              <Sentence WritingMode="vertical">前二項の申請等を行う者は、これらの規定にかかわらず、当該申請等につき規定した法令の規定に基づき添付すべきこととされている書面等（以下この条において「添付書面等」という。）に記載されている事項又は記載すべき事項（以下この項及び次項において「添付書面等記載事項」という。）を次に掲げる方法（前項の申請等を行う場合には、第二号に掲げる方法）により送信し、又は提出することをもって、当該添付書面等の提出に代えることができる。</Sentence>
             </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該添付書面等記載事項を当該申請等に併せて入力して送信する方法</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該添付書面等記載事項をスキャナにより読み取る方法その他これに類する方法により作成した電磁的記録（前項各号に掲げる要件を満たすように読み取り、又は作成したものに限る。）を当該申請等と併せて送信する方法（前号に掲げる方法につき国税庁の使用に係る電子計算機において用いることができない場合に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該添付書面等記載事項（国税庁長官が定める添付書面等に係るものに限る。）が記録された電磁的記録であって、当該添付書面等を交付すべき者から提供を受けたもの（当該添付書面等を交付すべき者により当該電磁的記録に記録された情報に電子署名が行われ、かつ、当該電子署名に係る電子証明書が当該情報と併せて提供されているものその他これに類するものとして国税庁長官が定めるものに限る。）を当該申請等と併せて送信する方法</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該添付書面等記載事項（国税庁長官が定める添付書面等に係るものに限る。）の電磁的記録（当該電磁的記録をスキャナにより読み取る方法その他これに類する方法により作成した場合にあっては、前項各号に掲げる要件を満たすように読み取り、又は作成したものに限る。）を記録した光ディスク、磁気テープ又は磁気ディスクを提出する方法</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">第二項（第一号に係る部分に限る。）の場合において、国税庁長官が定める添付書面等に記載されている事項又は記載すべき事項を送信するときは、税務署長等は、国税庁長官が定める期間、当該送信に係る事項の確認のために必要があるときは、当該添付書面等を提示又は提出させることができる。</Sentence>
+              <Sentence WritingMode="vertical">申請書面等記載事項又は添付書面等記載事項を前三項に規定する方法により送信し、又は提出する場合におけるその送信又は提出に関するファイル形式については、国税庁長官が定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">第二項（第一号に係る部分に限る。）の規定は、申請等を行った者が前項の規定による提示又は提出に応じない場合には、当該提示又は提出に応じない添付書面等については、適用しない。</Sentence>
+              <Sentence WritingMode="vertical">第三項（第一号に係る部分に限る。）の場合において、国税庁長官が定める添付書面等に記載されている事項又は記載すべき事項を送信するときは、税務署長等は、国税庁長官が定める期間、当該送信に係る事項の確認のために必要があるときは、当該添付書面等を提示又は提出させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6" OldStyle="false">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第三項（第一号に係る部分に限る。）の規定は、申請等を行った者が前項の規定による提示又は提出に応じない場合には、当該提示又は提出に応じない添付書面等については、適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -379,10 +386,10 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="10">
+        <Article Delete="false" Hide="false" Num="10">
           <ArticleCaption>（電子情報処理組織による処分通知等）</ArticleCaption>
           <ArticleTitle>第十条</ArticleTitle>
-          <Paragraph Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">税務署長等は、電子情報処理組織を使用する方法により前条第二項の処分通知等（以下第十二条までにおいて「処分通知等」という。）を行うときは、当該処分通知等につき規定した法令の規定において書面等に記載すべきこととされている事項を国税庁の使用に係る電子計算機から入力して、当該処分通知等の情報に電子署名を行い、当該電子署名に係る電子証明書と併せてこれらを特定電子計算機に備えられたファイルに、当該処分通知等を受ける者が入手可能な状態で記録しなければならない。</Sentence>
@@ -406,7 +413,7 @@
           <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">処分通知等において記載すべき事項とされた署名等に代わるものであって、情報通信技術活用法第七条第四項に規定する主務省令で定めるものは、電子情報処理組織を使用する方法により行う処分通知等の情報に電子署名を行い、当該電子署名に係る電子証明書を当該処分通知等と併せて特定電子計算機に備えられたファイルに記録すること又は第十条ただし書に規定する措置を行うことをいう。</Sentence>
+              <Sentence WritingMode="vertical">処分通知等において記載すべき事項とされた署名等に代わる措置であって、情報通信技術活用法第七条第四項に規定する主務省令で定めるものは、電子情報処理組織を使用する方法により行う処分通知等の情報に電子署名を行い、当該電子署名に係る電子証明書を当該処分通知等と併せて特定電子計算機に備えられたファイルに記録すること又は第十条ただし書に規定する措置を行うこととする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -446,7 +453,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416031" AmendLawNum="平成一六年三月三一日財務省令第三一号" Extract="true" Id="87b0fedc-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年三月三一日財務省令第三一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -459,7 +466,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416051" AmendLawNum="平成一六年七月七日財務省令第五一号" Id="87beac62-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年七月七日財務省令第五一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -468,7 +475,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417008" AmendLawNum="平成一七年三月四日財務省令第八号" Extract="true" Id="87cc4d4a-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年三月四日財務省令第八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -477,7 +484,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417045" AmendLawNum="平成一七年四月一三日財務省令第四五号" Id="87d9fa26-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年四月一三日財務省令第四五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -486,7 +493,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417084" AmendLawNum="平成一七年一二月二日財務省令第八四号" Id="87e79a00-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年一二月二日財務省令第八四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -495,7 +502,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418076" AmendLawNum="平成一八年一二月二七日財務省令第七六号" Id="87f536ce-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年一二月二七日財務省令第七六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -504,7 +511,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="419022" AmendLawNum="平成一九年三月三〇日財務省令第二二号" Id="8802d568-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年三月三〇日財務省令第二二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -514,7 +521,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="419067" AmendLawNum="平成一九年一二月二七日財務省令第六七号" Id="88108276-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年一二月二七日財務省令第六七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -529,7 +536,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="420033" AmendLawNum="平成二〇年四月三〇日財務省令第三三号" Id="881e2ff2-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年四月三〇日財務省令第三三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -544,7 +551,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="420078" AmendLawNum="平成二〇年一二月一日財務省令第七八号" Extract="true" Id="882bd35a-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年一二月一日財務省令第七八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -559,7 +566,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="422001" AmendLawNum="平成二二年三月三一日／総務省／財務省／令第一号" Extract="true" Id="8839b61e-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二二年三月三一日／総務省／財務省／令第一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -572,7 +579,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423020" AmendLawNum="平成二三年四月二七日財務省令第二〇号" Extract="true" Id="9a966162-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年四月二七日財務省令第二〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -585,7 +592,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424002" AmendLawNum="平成二四年一月六日財務省令第二号" Extract="true" Id="88550d9c-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年一月六日財務省令第二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -598,7 +605,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424007" AmendLawNum="平成二四年一月二五日財務省令第七号" Extract="true" Id="97185a18-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年一月二五日財務省令第七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -611,7 +618,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426022" AmendLawNum="平成二六年三月三一日財務省令第二二号" Extract="true" Id="9e9bd1b6-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年三月三一日財務省令第二二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -624,7 +631,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426063" AmendLawNum="平成二六年七月九日財務省令第六三号" Id="887e3ad2-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年七月九日財務省令第六三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -639,7 +646,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427040" AmendLawNum="平成二七年三月三一日財務省令第四〇号" Id="888bde76-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年三月三一日財務省令第四〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -648,7 +655,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427079" AmendLawNum="平成二七年一〇月二日財務省令第七九号" Id="8899787e-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年一〇月二日財務省令第七九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -663,7 +670,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428029" AmendLawNum="平成二八年三月三一日財務省令第二九号" Id="88a71678-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二八年三月三一日財務省令第二九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -672,7 +679,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428005" AmendLawNum="平成二八年六月一〇日／総務省／財務省／令第五号" Extract="true" Id="88b4b6a2-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二八年六月一〇日／総務省／財務省／令第五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -685,7 +692,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="429030" AmendLawNum="平成二九年三月三一日財務省令第三〇号" Id="88c25c08-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二九年三月三一日財務省令第三〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -731,7 +738,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="430032" AmendLawNum="平成三〇年三月三一日財務省令第三二号" Extract="true" Id="5ef4fcbd-f366-44f6-872e-1606b92250fb" Type="Amend">
+    <SupplProvision AmendLawNum="平成三〇年三月三一日財務省令第三二号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -823,7 +830,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="430039" AmendLawNum="平成三〇年四月一八日財務省令第三九号" Extract="true" Id="33a5d4d3-73c1-48a6-8099-7dce7095e91a" Type="Amend">
+    <SupplProvision AmendLawNum="平成三〇年四月一八日財務省令第三九号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -836,7 +843,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="431024" AmendLawNum="平成三一年三月二九日財務省令第二四号" Extract="true" Id="877cdce8-5c08-11e9-902f-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成三一年三月二九日財務省令第二四号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -876,7 +883,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501036" AmendLawNum="令和元年一二月一三日財務省令第三六号" Extract="true" Id="6ca86bea-2074-11ea-b6ae-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年一二月一三日財務省令第三六号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -889,7 +896,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502027" AmendLawNum="令和二年三月三一日財務省令第二七号" Id="0f365eaa-75b4-11ea-a6bb-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和二年三月三一日財務省令第二七号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -912,6 +919,77 @@
           <Sentence WritingMode="vertical">新令第十条及び第十二条の規定は、令和三年七月一日以後に行う新令第十条に規定する処分通知等について適用し、同日前に行った旧令第十条に規定する処分通知等については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年三月三一日財務省令第三二号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和三年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">次条第三項の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">令和三年七月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">次条第二項の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">令和三年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第四条の改正規定（同条第一項中「限る」の下に「ものとし、同条第二項後段において準用する場合を含む」を加える部分及び同条第三項に係る部分を除く。）、第五条の見出しを削り、同条の前に見出しを付する改正規定、同条第一項の改正規定（「第六項」を「第七項」に改める部分及び同項第一号に係る部分に限る。）、同条の次に一条を加える改正規定、第六条の改正規定及び第八条第二項の改正規定並びに附則第三条（地方法人税法施行規則（平成二十六年財務省令第二十二号）第八条第一項の改正規定及び同条第七項の改正規定に限る。）の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">令和四年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令の施行の日から令和三年十二月三十一日までの間における改正後の国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令（以下「新令」という。）第三条第一項の規定の適用については、同項中「次条第九項、第五条第一項及び第二項並びに第五条の二第一項」とあるのは、「次条第八項並びに第五条第一項及び第二項」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新令第五条の二第一項の規定により同項に規定する申請等を行おうとする者は、令和四年一月一日前においても、新令第四条第五項の規定の例により、同項の届出その他必要な行為をすることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同項の規定の例によりされた当該届出は、同日において同項の規定により行われたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新令第五条の二第一項の認定を受けようとする者並びに同条第五項、第六項及び第十項の国税庁長官は、令和四年一月一日前においても、同条第四項から第六項まで及び第十項の規定の例により、同条第四項の申請、同条第五項の認定又は却下、同条第六項の公表、同条第十項の通知その他必要な行為をすることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、これらの規定の例によりされた当該申請、認定、却下、公表及び通知は、同日においてこれらの規定により行われたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

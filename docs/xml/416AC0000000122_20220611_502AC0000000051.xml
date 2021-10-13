@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="122" Year="16">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="122" Year="16" PromulgateMonth="06" PromulgateDay="12" ScheduledEnforcementDate="2022/06/11">
   <LawNum>平成十六年法律第百二十二号</LawNum>
   <LawBody>
-    <LawTitle>公益通報者保護法</LawTitle>
+    <LawTitle Kana="こうえきつうほうしゃほごほう" Abbrev="" AbbrevKana="">公益通報者保護法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -139,7 +139,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>内閣府、宮内庁、内閣府設置法（平成十一年法律第八十九号）第四十九条第一項若しくは第二項に規定する機関、国家行政組織法（昭和二十三年法律第百二十号）第三条第二項に規定する機関、法律の規定に基づき内閣の所轄の下に置かれる機関若しくはこれらに置かれる機関又はこれらの機関の職員であって法律上独立に権限を行使することを認められた職員</Sentence>
+                <Sentence>内閣府、宮内庁、内閣府設置法（平成十一年法律第八十九号）第四十九条第一項若しくは第二項に規定する機関、デジタル庁、国家行政組織法（昭和二十三年法律第百二十号）第三条第二項に規定する機関、法律の規定に基づき内閣の所轄の下に置かれる機関若しくはこれらに置かれる機関又はこれらの機関の職員であって法律上独立に権限を行使することを認められた職員</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -632,7 +632,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418066" AmendLawNum="平成一八年六月一四日法律第六六号" Extract="true" Id="41ab7bcd-9aa8-e1dd-8198-d05c7d548a1d">
+    <SupplProvision AmendLawNum="平成一八年六月一四日法律第六六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -641,7 +641,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="419128" AmendLawNum="平成一九年一二月五日法律第一二八号" Extract="true" Id="42b60e88-47dd-11e5-8ab3-4f0213911dd9">
+    <SupplProvision AmendLawNum="平成一九年一二月五日法律第一二八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -654,7 +654,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424027" AmendLawNum="平成二四年四月六日法律第二七号" Extract="true" Id="53cc7c5c-53fb-4ec6-94e4-74aff1034cfe">
+    <SupplProvision AmendLawNum="平成二四年四月六日法律第二七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -667,7 +667,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="425070" AmendLawNum="平成二五年六月二八日法律第七〇号" Extract="true" Id="54d48e64-47dd-11e5-9009-c7ac6a1bb739">
+    <SupplProvision AmendLawNum="平成二五年六月二八日法律第七〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -680,7 +680,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="429070" AmendLawNum="平成二九年六月二三日法律第七〇号" Extract="true" Id="ad4bb33a-57dd-11e7-9f19-005056b30d52">
+    <SupplProvision AmendLawNum="平成二九年六月二三日法律第七〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -703,7 +703,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502051" AmendLawNum="令和二年六月一二日法律第五一号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年六月一二日法律第五一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -758,6 +758,62 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>政府は、この法律の施行後三年を目途として、新法の施行の状況を勘案し、新法第二条第一項に規定する公益通報をしたことを理由とする同条第二項に規定する公益通報者に対する不利益な取扱いの是正に関する措置の在り方及び裁判手続における請求の取扱いその他新法の規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月一九日法律第三六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和三年九月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、附則第六十条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="57">
+        <ArticleCaption>（処分等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にこの法律による改正前のそれぞれの法律（これに基づく命令を含む。以下この条及び次条において「旧法令」という。）の規定により従前の国の機関がした認定等の処分その他の行為は、法令に別段の定めがあるもののほか、この法律の施行後は、この法律による改正後のそれぞれの法律（これに基づく命令を含む。以下この条及び次条において「新法令」という。）の相当規定により相当の国の機関がした認定等の処分その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この法律の施行の際現に旧法令の規定により従前の国の機関に対してされている申請、届出その他の行為は、法令に別段の定めがあるもののほか、この法律の施行後は、新法令の相当規定により相当の国の機関に対してされた申請、届出その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前に旧法令の規定により従前の国の機関に対して申請、届出その他の手続をしなければならない事項で、この法律の施行の日前に従前の国の機関に対してその手続がされていないものについては、法令に別段の定めがあるもののほか、この法律の施行後は、これを、新法令の相当規定により相当の国の機関に対してその手続がされていないものとみなして、新法令の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="58">
+        <ArticleCaption>（命令の効力に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>旧法令の規定により発せられた内閣府設置法第七条第三項の内閣府令又は国家行政組織法第十二条第一項の省令は、法令に別段の定めがあるもののほか、この法律の施行後は、新法令の相当規定に基づいて発せられた相当の第七条第三項のデジタル庁令又は国家行政組織法第十二条第一項の省令としての効力を有するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="60">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第六十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第十五条、第十六条、第五十一条及び前三条に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

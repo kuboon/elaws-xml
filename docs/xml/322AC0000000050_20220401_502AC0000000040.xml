@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="50" Year="22">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="50" Year="22" PromulgateMonth="06" PromulgateDay="05">
   <LawNum>昭和二十二年法律第五十号</LawNum>
   <LawBody>
-    <LawTitle>労働者災害補償保険法</LawTitle>
+    <LawTitle Kana="ろうどうしゃさいがいほしょうほけんほう" Abbrev="労災法,労災保険法" AbbrevKana="ろ,ろ">労働者災害補償保険法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Delete="false" Num="1">
@@ -102,8 +102,8 @@
               <Sentence WritingMode="vertical">この法律においては、労働者を使用する事業を適用事業とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定にかかわらず、国の直営事業及び官公署の事業（労働基準法（昭和二十二年法律第四十九号）別表第一に掲げる事業を除く。）については、この法律は、適用しない。</Sentence>
             </ParagraphSentence>
@@ -176,8 +176,8 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項第三号の通勤とは、労働者が、就業に関し、次に掲げる移動を、合理的な経路及び方法により行うことをいい、業務の性質を有するものを除くものとする。</Sentence>
               </ParagraphSentence>
@@ -200,8 +200,8 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">労働者が、前項各号に掲げる移動の経路を逸脱し、又は同項各号に掲げる移動を中断した場合においては、当該逸脱又は中断の間及びその後の同項各号に掲げる移動は、第一項第三号の通勤としない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該逸脱又は中断が、日常生活上必要な行為であつて厚生労働省令で定めるものをやむを得ない事由により行うための最小限度のものである場合は、当該逸脱又は中断の間を除き、この限りでない。</Sentence>
@@ -217,14 +217,14 @@
                 <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項の平均賃金を算定すべき事由の発生した日は、前条第一項第一号から第三号までに規定する負傷若しくは死亡の原因である事故が発生した日又は診断によつて同項第一号から第三号までに規定する疾病の発生が確定した日（以下「算定事由発生日」という。）とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">労働基準法第十二条の平均賃金に相当する額を給付基礎日額とすることが適当でないと認められるときは、前項の規定にかかわらず、厚生労働省令で定めるところによつて政府が算定する額を給付基礎日額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>前二項の規定にかかわらず、複数事業労働者の業務上の事由、複数事業労働者の二以上の事業の業務を要因とする事由又は複数事業労働者の通勤による負傷、疾病、障害又は死亡により、当該複数事業労働者、その遺族その他厚生労働省令で定める者に対して保険給付を行う場合における給付基礎日額は、前二項に定めるところにより当該複数事業労働者を使用する事業ごとに算定した給付基礎日額に相当する額を合算した額を基礎として、厚生労働省令で定めるところによつて政府が算定する額とする。</Sentence>
               </ParagraphSentence>
@@ -250,8 +250,8 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">休業補償給付等を支給すべき事由が生じた日が当該休業補償給付等に係る療養を開始した日から起算して一年六箇月を経過した日以後の日である場合において、次の各号に掲げる場合に該当するときは、前項の規定にかかわらず、当該各号に定める額を休業給付基礎日額とする。</Sentence>
               </ParagraphSentence>
@@ -278,14 +278,14 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項第一号の厚生労働大臣が定める額は、毎年、年齢階層ごとに、厚生労働省令で定めるところにより、当該年齢階層に属するすべての労働者を、その受けている一月当たりの賃金の額（以下この項において「賃金月額」という。）の高低に従い、二十の階層に区分し、その区分された階層のうち最も低い賃金月額に係る階層に属する労働者の受けている賃金月額のうち最も高いものを基礎とし、労働者の年齢階層別の就業状態その他の事情を考慮して定めるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4" OldStyle="false">
-              <ParagraphNum>○４</ParagraphNum>
+            <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">前項の規定は、第二項第二号の厚生労働大臣が定める額について準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、前項中「最も低い賃金月額に係る」とあるのは、「最も高い賃金月額に係る階層の直近下位の」と読み替えるものとする。</Sentence>
@@ -312,8 +312,8 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">前条第二項から第四項までの規定は、年金給付基礎日額について準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、同条第二項中「休業補償給付等を支給すべき事由が生じた日が当該休業補償給付等に係る療養を開始した日から起算して一年六箇月を経過した日以後の日である」とあるのは「年金たる保険給付を支給すべき事由がある」と、「前項」とあるのは「次条第一項」と、「休業給付基礎日額」とあるのは「年金給付基礎日額」と、同項第一号中「休業補償給付等」とあるのは「年金たる保険給付」と、「支給すべき事由が生じた日」とあるのは「支給すべき月」と、「四半期の初日（次号」とあるのは「年度の八月一日（当該月が四月から七月までの月に該当する場合にあつては、当該年度の前年度の八月一日。以下この項」と、「年齢の」とあるのは「年齢（遺族補償年金、複数事業労働者遺族年金又は遺族年金を支給すべき場合にあつては、当該支給をすべき事由に係る労働者の死亡がなかつたものとして計算した場合に得られる当該労働者の基準日における年齢。次号において同じ。）の」と、同項第二号中「休業補償給付等」とあるのは「年金たる保険給付」と読み替えるものとする。</Sentence>
@@ -347,14 +347,14 @@
                 <Sentence WritingMode="vertical">年金たる保険給付の支給は、支給すべき事由が生じた月の翌月から始め、支給を受ける権利が消滅した月で終わるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">年金たる保険給付は、その支給を停止すべき事由が生じたときは、その事由が生じた月の翌月からその事由が消滅した月までの間は、支給しない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">年金たる保険給付は、毎年二月、四月、六月、八月、十月及び十二月の六期に、それぞれその前月分までを支払う。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、支給を受ける権利が消滅した場合におけるその期の年金たる保険給付は、支払期月でない月であつても、支払うものとする。</Sentence>
@@ -379,20 +379,20 @@
                 <Sentence WritingMode="vertical">この法律に基づく保険給付を受ける権利を有する者が死亡した場合において、その死亡した者に支給すべき保険給付でまだその者に支給しなかつたものがあるときは、その者の配偶者（婚姻の届出をしていないが、事実上婚姻関係と同様の事情にあつた者を含む。以下同じ。）、子、父母、孫、祖父母又は兄弟姉妹であつて、その者の死亡の当時その者と生計を同じくしていたもの（遺族補償年金については当該遺族補償年金を受けることができる他の遺族、複数事業労働者遺族年金については当該複数事業労働者遺族年金を受けることができる他の遺族、遺族年金については当該遺族年金を受けることができる他の遺族）は、自己の名で、その未支給の保険給付の支給を請求することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の場合において、死亡した者が死亡前にその保険給付を請求していなかつたときは、同項に規定する者は、自己の名で、その保険給付を請求することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">未支給の保険給付を受けるべき者の順位は、第一項に規定する順序（遺族補償年金については第十六条の二第三項に、複数事業労働者遺族年金については第二十条の六第三項において準用する第十六条の二第三項に、遺族年金については第二十二条の四第三項において準用する第十六条の二第三項に規定する順序）による。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4" OldStyle="false">
-              <ParagraphNum>○４</ParagraphNum>
+            <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">未支給の保険給付を受けるべき同順位者が二人以上あるときは、その一人がした請求は、全員のためその全額につきしたものとみなし、その一人に対してした支給は、全員に対してしたものとみなす。</Sentence>
               </ParagraphSentence>
@@ -407,15 +407,15 @@
                 <Sentence Num="2" WritingMode="vertical">年金たる保険給付を減額して改定すべき事由が生じたにもかかわらず、その事由が生じた月の翌月以後の分として減額しない額の年金たる保険給付が支払われた場合における当該年金たる保険給付の当該減額すべきであつた部分についても、同様とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">同一の業務上の事由、複数事業労働者の二以上の事業の業務を要因とする事由又は通勤による負傷又は疾病（以下この条において「同一の傷病」という。）に関し、年金たる保険給付（遺族補償年金、複数事業労働者遺族年金及び遺族年金を除く。以下この項において「乙年金」という。）を受ける権利を有する労働者が他の年金たる保険給付（遺族補償年金、複数事業労働者遺族年金及び遺族年金を除く。以下この項において「甲年金」という。）を受ける権利を有することとなり、かつ、乙年金を受ける権利が消滅した場合において、その消滅した月の翌月以後の分として乙年金が支払われたときは、その支払われた乙年金は、甲年金の内払とみなす。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">同一の傷病に関し、年金たる保険給付（遺族補償年金、複数事業労働者遺族年金及び遺族年金を除く。）を受ける権利を有する労働者が休業補償給付、複数事業労働者休業給付若しくは休業給付又は障害補償一時金、複数事業労働者障害一時金若しくは障害一時金を受ける権利を有することとなり、かつ、当該年金たる保険給付を受ける権利が消滅した場合において、その消滅した月の翌月以後の分として当該年金たる保険給付が支払われたときも、同様とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">同一の傷病に関し、休業補償給付、複数事業労働者休業給付又は休業給付を受けている労働者が障害補償給付若しくは傷病補償年金、複数事業労働者障害給付若しくは複数事業労働者傷病年金又は障害給付若しくは傷病年金を受ける権利を有することとなり、かつ、休業補償給付、複数事業労働者休業給付又は休業給付を行わないこととなつた場合において、その後も休業補償給付、複数事業労働者休業給付又は休業給付が支払われたときは、その支払われた休業補償給付、複数事業労働者休業給付又は休業給付は、当該障害補償給付若しくは傷病補償年金、複数事業労働者障害給付若しくは複数事業労働者傷病年金又は障害給付若しくは傷病年金の内払とみなす。</Sentence>
               </ParagraphSentence>
@@ -438,8 +438,8 @@
                 <Sentence WritingMode="vertical">労働者が、故意に負傷、疾病、障害若しくは死亡又はその直接の原因となつた事故を生じさせたときは、政府は、保険給付を行わない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">労働者が故意の犯罪行為若しくは重大な過失により、又は正当な理由がなくて療養に関する指示に従わないことにより、負傷、疾病、障害若しくは死亡若しくはこれらの原因となつた事故を生じさせ、又は負傷、疾病若しくは障害の程度を増進させ、若しくはその回復を妨げたときは、政府は、保険給付の全部又は一部を行わないことができる。</Sentence>
               </ParagraphSentence>
@@ -453,14 +453,14 @@
                 <Sentence WritingMode="vertical">偽りその他不正の手段により保険給付を受けた者があるときは、政府は、その保険給付に要した費用に相当する金額の全部又は一部をその者から徴収することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の場合において、事業主（徴収法第八条第一項又は第二項の規定により元請負人が事業主とされる場合にあつては、当該元請負人。以下同じ。）が虚偽の報告又は証明をしたためその保険給付が行なわれたものであるときは、政府は、その事業主に対し、保険給付を受けた者と連帯して前項の徴収金を納付すべきことを命ずることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">徴収法第二十七条、第二十九条、第三十条及び第四十一条の規定は、前二項の規定による徴収金について準用する。</Sentence>
               </ParagraphSentence>
@@ -474,8 +474,8 @@
                 <Sentence WritingMode="vertical">政府は、保険給付の原因である事故が第三者の行為によつて生じた場合において、保険給付をしたときは、その給付の価額の限度で、保険給付を受けた者が第三者に対して有する損害賠償の請求権を取得する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の場合において、保険給付を受けるべき者が当該第三者から同一の事由について損害賠償を受けたときは、政府は、その価額の限度で保険給付をしないことができる。</Sentence>
               </ParagraphSentence>
@@ -489,8 +489,8 @@
                 <Sentence WritingMode="vertical">保険給付を受ける権利は、労働者の退職によつて変更されることはない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">保険給付を受ける権利は、譲り渡し、担保に供し、又は差し押さえることができない。</Sentence>
               </ParagraphSentence>
@@ -567,14 +567,14 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の保険給付（傷病補償年金及び介護補償給付を除く。）は、労働基準法第七十五条から第七十七条まで、第七十九条及び第八十条に規定する災害補償の事由又は船員法（昭和二十二年法律第百号）第八十九条第一項、第九十一条第一項、第九十二条本文、第九十三条及び第九十四条に規定する災害補償の事由（同法第九十一条第一項にあつては、労働基準法第七十六条第一項に規定する災害補償の事由に相当する部分に限る。）が生じた場合に、補償を受けるべき労働者若しくは遺族又は葬祭を行う者に対し、その請求に基づいて行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">傷病補償年金は、業務上負傷し、又は疾病にかかつた労働者が、当該負傷又は疾病に係る療養の開始後一年六箇月を経過した日において次の各号のいずれにも該当するとき、又は同日後次の各号のいずれにも該当することとなつたときに、その状態が継続している間、当該労働者に対して支給する。</Sentence>
               </ParagraphSentence>
@@ -591,8 +591,8 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="4" OldStyle="false">
-              <ParagraphNum>○４</ParagraphNum>
+            <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">介護補償給付は、障害補償年金又は傷病補償年金を受ける権利を有する労働者が、その受ける権利を有する障害補償年金又は傷病補償年金の支給事由となる障害であつて厚生労働省令で定める程度のものにより、常時又は随時介護を要する状態にあり、かつ、常時又は随時介護を受けているときに、当該介護を受けている間（次に掲げる間を除く。）、当該労働者に対し、その請求に基づいて行う。</Sentence>
               </ParagraphSentence>
@@ -624,8 +624,8 @@
                 <Sentence WritingMode="vertical">療養補償給付は、療養の給付とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の療養の給付の範囲は、次の各号（政府が必要と認めるものに限る。）による。</Sentence>
               </ParagraphSentence>
@@ -666,8 +666,8 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">政府は、第一項の療養の給付をすることが困難な場合その他厚生労働省令で定める場合には、療養の給付に代えて療養の費用を支給することができる。</Sentence>
               </ParagraphSentence>
@@ -682,8 +682,8 @@
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、労働者が業務上の負傷又は疾病による療養のため所定労働時間のうちその一部分についてのみ労働する日若しくは賃金が支払われる休暇（以下この項において「部分算定日」という。）又は複数事業労働者の部分算定日に係る休業補償給付の額は、給付基礎日額（第八条の二第二項第二号に定める額（以下この項において「最高限度額」という。）を給付基礎日額とすることとされている場合にあつては、同号の規定の適用がないものとした場合における給付基礎日額）から部分算定日に対して支払われる賃金の額を控除して得た額（当該控除して得た額が最高限度額を超える場合にあつては、最高限度額に相当する額）の百分の六十に相当する額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">休業補償給付を受ける労働者が同一の事由について厚生年金保険法（昭和二十九年法律第百十五号）の規定による障害厚生年金又は国民年金法（昭和三十四年法律第百四十一号）の規定による障害基礎年金を受けることができるときは、当該労働者に支給する休業補償給付の額は、前項の規定にかかわらず、同項の額に別表第一第一号から第三号までに規定する場合に応じ、それぞれ同表第一号から第三号までの政令で定める率のうち傷病補償年金について定める率を乗じて得た額（その額が政令で定める額を下回る場合には、当該政令で定める額）とする。</Sentence>
               </ParagraphSentence>
@@ -718,8 +718,8 @@
                 <Sentence WritingMode="vertical">障害補償給付は、厚生労働省令で定める障害等級に応じ、障害補償年金又は障害補償一時金とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">障害補償年金又は障害補償一時金の額は、それぞれ、別表第一又は別表第二に規定する額とする。</Sentence>
               </ParagraphSentence>
@@ -776,14 +776,14 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">労働者の死亡の当時胎児であつた子が出生したときは、前項の規定の適用については、将来に向かつて、その子は、労働者の死亡の当時その収入によつて生計を維持していた子とみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">遺族補償年金を受けるべき遺族の順位は、配偶者、子、父母、孫、祖父母及び兄弟姉妹の順序とする。</Sentence>
               </ParagraphSentence>
@@ -797,20 +797,20 @@
                 <Sentence WritingMode="vertical">遺族補償年金の額は、別表第一に規定する額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">遺族補償年金を受ける権利を有する者が二人以上あるときは、遺族補償年金の額は、前項の規定にかかわらず、別表第一に規定する額をその人数で除して得た額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">遺族補償年金の額の算定の基礎となる遺族の数に増減を生じたときは、その増減を生じた月の翌月から、遺族補償年金の額を改定する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4" OldStyle="false">
-              <ParagraphNum>○４</ParagraphNum>
+            <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">遺族補償年金を受ける権利を有する遺族が妻であり、かつ、当該妻と生計を同じくしている遺族補償年金を受けることができる遺族がない場合において、当該妻が次の各号の一に該当するに至つたときは、その該当するに至つた月の翌月から、遺族補償年金の額を改定する。</Sentence>
               </ParagraphSentence>
@@ -873,8 +873,8 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">遺族補償年金を受けることができる遺族が前項各号の一に該当するに至つたときは、その者は、遺族補償年金を受けることができる遺族でなくなる。</Sentence>
               </ParagraphSentence>
@@ -889,14 +889,14 @@
                 <Sentence Num="2" WritingMode="vertical">この場合において、同順位者がないときは、その間、次順位者を先順位者とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の規定により遺族補償年金の支給を停止された遺族は、いつでも、その支給の停止の解除を申請することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第十六条の三第三項の規定は、第一項の規定により遺族補償年金の支給が停止され、又は前項の規定によりその停止が解除された場合に準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、同条第三項中「増減を生じた月」とあるのは、「支給が停止され、又はその停止が解除された月」と読み替えるものとする。</Sentence>
@@ -923,8 +923,8 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項第二号に規定する遺族補償年金の額の合計額を計算する場合には、同号に規定する権利が消滅した日の属する年度（当該権利が消滅した日の属する月が四月から七月までの月に該当する場合にあつては、その前年度。以下この項において同じ。）の七月以前の分として支給された遺族補償年金の額については、その現に支給された額に当該権利が消滅した日の属する年度の前年度の平均給与額を当該遺族補償年金の支給の対象とされた月の属する年度の前年度（当該月が四月から七月までの月に該当する場合にあつては、前々年度）の平均給与額で除して得た率を基準として厚生労働大臣が定める率を乗じて得た額により算定するものとする。</Sentence>
               </ParagraphSentence>
@@ -956,8 +956,8 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">遺族補償一時金を受けるべき遺族の順位は、前項各号の順序により、同項第二号及び第三号に掲げる者のうちにあつては、それぞれ、当該各号に掲げる順序による。</Sentence>
               </ParagraphSentence>
@@ -971,8 +971,8 @@
                 <Sentence WritingMode="vertical">遺族補償一時金の額は、別表第二に規定する額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第十六条の三第二項の規定は、遺族補償一時金の額について準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、同項中「別表第一」とあるのは、「別表第二」と読み替えるものとする。</Sentence>
@@ -987,28 +987,28 @@
                 <Sentence WritingMode="vertical">労働者を故意に死亡させた者は、遺族補償給付を受けることができる遺族としない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">労働者の死亡前に、当該労働者の死亡によつて遺族補償年金を受けることができる先順位又は同順位の遺族となるべき者を故意に死亡させた者は、遺族補償年金を受けることができる遺族としない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">遺族補償年金を受けることができる遺族を故意に死亡させた者は、遺族補償一時金を受けることができる遺族としない。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">労働者の死亡前に、当該労働者の死亡によつて遺族補償年金を受けることができる遺族となるべき者を故意に死亡させた者も、同様とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4" OldStyle="false">
-              <ParagraphNum>○４</ParagraphNum>
+            <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">遺族補償年金を受けることができる遺族が、遺族補償年金を受けることができる先順位又は同順位の他の遺族を故意に死亡させたときは、その者は、遺族補償年金を受けることができる遺族でなくなる。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、その者が遺族補償年金を受ける権利を有する者であるときは、その権利は、消滅する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="5" OldStyle="false">
-              <ParagraphNum>○５</ParagraphNum>
+            <Paragraph Hide="false" Num="5" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項後段の場合には、第十六条の四第一項後段の規定を準用する。</Sentence>
               </ParagraphSentence>
@@ -1031,8 +1031,8 @@
                 <Sentence WritingMode="vertical">傷病補償年金は、第十二条の八第三項第二号の厚生労働省令で定める傷病等級に応じ、別表第一に規定する額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">傷病補償年金を受ける者には、休業補償給付は、行わない。</Sentence>
               </ParagraphSentence>
@@ -1136,8 +1136,8 @@
                 <Sentence>複数事業労働者療養給付は、複数事業労働者がその従事する二以上の事業の業務を要因として負傷し、又は疾病（厚生労働省令で定めるものに限る。以下この節において同じ。）にかかつた場合に、当該複数事業労働者に対し、その請求に基づいて行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>第十三条の規定は、複数事業労働者療養給付について準用する。</Sentence>
               </ParagraphSentence>
@@ -1151,8 +1151,8 @@
                 <Sentence>複数事業労働者休業給付は、複数事業労働者がその従事する二以上の事業の業務を要因とする負傷又は疾病による療養のため労働することができないために賃金を受けない場合に、当該複数事業労働者に対し、その請求に基づいて行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>第十四条及び第十四条の二の規定は、複数事業労働者休業給付について準用する。この場合において、第十四条第一項中「労働者が業務上の」とあるのは「複数事業労働者がその従事する二以上の事業の業務を要因とする」と、同条第二項中「別表第一第一号から第三号までに規定する場合に応じ、それぞれ同表第一号から第三号までの政令で定める率のうち傷病補償年金について定める率」とあるのは「第二十条の八第二項において準用する別表第一第一号から第三号までに規定する場合に応じ、それぞれ同表第一号から第三号までの政令で定める率のうち複数事業労働者傷病年金について定める率」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
@@ -1166,14 +1166,14 @@
                 <Sentence>複数事業労働者障害給付は、複数事業労働者がその従事する二以上の事業の業務を要因として負傷し、又は疾病にかかり、治つたとき身体に障害が存する場合に、当該複数事業労働者に対し、その請求に基づいて行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>複数事業労働者障害給付は、第十五条第一項の厚生労働省令で定める障害等級に応じ、複数事業労働者障害年金又は複数事業労働者障害一時金とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>第十五条第二項及び第十五条の二並びに別表第一（障害補償年金に係る部分に限る。）及び別表第二（障害補償一時金に係る部分に限る。）の規定は、複数事業労働者障害給付について準用する。この場合において、これらの規定中「障害補償年金」とあるのは「複数事業労働者障害年金」と、「障害補償一時金」とあるのは「複数事業労働者障害一時金」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
@@ -1187,14 +1187,14 @@
                 <Sentence>複数事業労働者遺族給付は、複数事業労働者がその従事する二以上の事業の業務を要因として死亡した場合に、当該複数事業労働者の遺族に対し、その請求に基づいて行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>複数事業労働者遺族給付は、複数事業労働者遺族年金又は複数事業労働者遺族一時金とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>第十六条の二から第十六条の九まで並びに別表第一（遺族補償年金に係る部分に限る。）及び別表第二（遺族補償一時金に係る部分に限る。）の規定は、複数事業労働者遺族給付について準用する。この場合において、これらの規定中「遺族補償年金」とあるのは「複数事業労働者遺族年金」と、「遺族補償一時金」とあるのは「複数事業労働者遺族一時金」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
@@ -1208,8 +1208,8 @@
                 <Sentence>複数事業労働者葬祭給付は、複数事業労働者がその従事する二以上の事業の業務を要因として死亡した場合に、葬祭を行う者に対し、その請求に基づいて行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>第十七条の規定は、複数事業労働者葬祭給付について準用する。</Sentence>
               </ParagraphSentence>
@@ -1235,8 +1235,8 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>第十八条、第十八条の二及び別表第一（傷病補償年金に係る部分に限る。）の規定は、複数事業労働者傷病年金について準用する。この場合において、第十八条第二項中「休業補償給付」とあるのは「複数事業労働者休業給付」と、同表中「傷病補償年金」とあるのは「複数事業労働者傷病年金」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
@@ -1268,8 +1268,8 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>第十九条の二の規定は、複数事業労働者介護給付について準用する。</Sentence>
               </ParagraphSentence>
@@ -1346,8 +1346,8 @@
                 <Sentence WritingMode="vertical">療養給付は、労働者が通勤（第七条第一項第三号の通勤をいう。以下同じ。）により負傷し、又は疾病（厚生労働省令で定めるものに限る。以下この節において同じ。）にかかつた場合に、当該労働者に対し、その請求に基づいて行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第十三条の規定は、療養給付について準用する。</Sentence>
               </ParagraphSentence>
@@ -1361,15 +1361,15 @@
                 <Sentence WritingMode="vertical">休業給付は、労働者が通勤による負傷又は疾病に係る療養のため労働することができないために賃金を受けない場合に、当該労働者に対し、その請求に基づいて行なう。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第十四条及び第十四条の二の規定は、休業給付について準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、第十四条第一項中「業務上の」とあるのは「通勤による」と、同条第二項中「別表第一第一号から第三号までに規定する場合に応じ、それぞれ同表第一号から第三号までの政令で定める率のうち傷病補償年金について定める率」とあるのは「第二十三条第二項において準用する別表第一第一号から第三号までに規定する場合に応じ、それぞれ同表第一号から第三号までの政令で定める率のうち傷病年金について定める率」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">療養給付を受ける労働者（第三十一条第二項の厚生労働省令で定める者を除く。）に支給する休業給付であつて最初に支給すべき事由の生じた日に係るものの額は、前項において準用する第十四条第一項の規定にかかわらず、同項の額から第三十一条第二項の厚生労働省令で定める額に相当する額を減じた額とする。</Sentence>
               </ParagraphSentence>
@@ -1383,14 +1383,14 @@
                 <Sentence WritingMode="vertical">障害給付は、労働者が通勤により負傷し、又は疾病にかかり、なおつたとき身体に障害が存する場合に、当該労働者に対し、その請求に基づいて行なう。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">障害給付は、第十五条第一項の厚生労働省令で定める障害等級に応じ、障害年金又は障害一時金とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第十五条第二項及び第十五条の二並びに別表第一（障害補償年金に係る部分に限る。）及び別表第二（障害補償一時金に係る部分に限る。）の規定は、障害給付について準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、これらの規定中「障害補償年金」とあるのは「障害年金」と、「障害補償一時金」とあるのは「障害一時金」と読み替えるものとする。</Sentence>
@@ -1405,14 +1405,14 @@
                 <Sentence WritingMode="vertical">遺族給付は、労働者が通勤により死亡した場合に、当該労働者の遺族に対し、その請求に基づいて行なう。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">遺族給付は、遺族年金又は遺族一時金とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第十六条の二から第十六条の九まで並びに別表第一（遺族補償年金に係る部分に限る。）及び別表第二（遺族補償一時金に係る部分に限る。）の規定は、遺族給付について準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、これらの規定中「遺族補償年金」とあるのは「遺族年金」と、「遺族補償一時金」とあるのは「遺族一時金」と読み替えるものとする。</Sentence>
@@ -1427,8 +1427,8 @@
                 <Sentence WritingMode="vertical">葬祭給付は、労働者が通勤により死亡した場合に、葬祭を行なう者に対し、その請求に基づいて行なう。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第十七条の規定は、葬祭給付について準用する。</Sentence>
               </ParagraphSentence>
@@ -1454,8 +1454,8 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第十八条、第十八条の二及び別表第一（傷病補償年金に係る部分に限る。）の規定は、傷病年金について準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、第十八条第二項中「休業補償給付」とあるのは「休業給付」と、同表中「傷病補償年金」とあるのは「傷病年金」と読み替えるものとする。</Sentence>
@@ -1488,8 +1488,8 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第十九条の二の規定は、介護給付について準用する。</Sentence>
               </ParagraphSentence>
@@ -1515,8 +1515,8 @@
                 <Sentence WritingMode="vertical">二次健康診断等給付は、労働安全衛生法（昭和四十七年法律第五十七号）第六十六条第一項の規定による健康診断又は当該健康診断に係る同条第五項ただし書の規定による健康診断のうち、直近のもの（以下この項において「一次健康診断」という。）において、血圧検査、血液検査その他業務上の事由による脳血管疾患及び心臓疾患の発生にかかわる身体の状態に関する検査であつて、厚生労働省令で定めるものが行われた場合において、当該検査を受けた労働者がそのいずれの項目にも異常の所見があると診断されたときに、当該労働者（当該一次健康診断の結果その他の事情により既に脳血管疾患又は心臓疾患の症状を有すると認められるものを除く。）に対し、その請求に基づいて行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">二次健康診断等給付の範囲は、次のとおりとする。</Sentence>
               </ParagraphSentence>
@@ -1533,8 +1533,8 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">政府は、二次健康診断の結果その他の事情により既に脳血管疾患又は心臓疾患の症状を有すると認められる労働者については、当該二次健康診断に係る特定保健指導を行わないものとする。</Sentence>
               </ParagraphSentence>
@@ -1588,14 +1588,14 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項各号に掲げる事業の実施に関して必要な基準は、厚生労働省令で定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">政府は、第一項の社会復帰促進等事業のうち、独立行政法人労働者健康安全機構法（平成十四年法律第百七十一号）第十二条第一項に掲げるものを独立行政法人労働者健康安全機構に行わせるものとする。</Sentence>
             </ParagraphSentence>
@@ -1639,21 +1639,21 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">政府は、療養給付を受ける労働者（厚生労働省令で定める者を除く。）から、二百円を超えない範囲内で厚生労働省令で定める額を一部負担金として徴収する。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二十二条の二第三項の規定により減額した休業給付の支給を受けた労働者については、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">政府は、前項の労働者から徴収する同項の一部負担金に充てるため、厚生労働省令で定めるところにより、当該労働者に支払うべき保険給付の額から当該一部負担金の額に相当する額を控除することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4" OldStyle="false">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">徴収法第二十七条、第二十九条、第三十条及び第四十一条の規定は、第一項又は第二項の規定による徴収金について準用する。</Sentence>
             </ParagraphSentence>
@@ -1755,20 +1755,20 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前条第一号の事業主は、前項の承認があつた後においても、政府の承認を受けて、同号及び同条第二号に掲げる者を包括して保険給付を受けることができる者としないこととすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">政府は、前条第一号の事業主がこの法律若しくは徴収法又はこれらの法律に基づく厚生労働省令の規定に違反したときは、第一項の承認を取り消すことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4" OldStyle="false">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前条第一号及び第二号に掲げる者の保険給付を受ける権利は、第二項の規定による承認又は前項の規定による第一項の承認の取消しによつて変更されない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">これらの者が同条第一号及び第二号に掲げる者でなくなつたことによつても、同様とする。</Sentence>
@@ -1826,26 +1826,26 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">一の団体に係る第三十三条第三号から第五号までに掲げる者として前項第三号の規定により労働者とみなされている者は、同一の種類の事業又は同一の種類の作業に関しては、他の団体に関し重ねて同号の規定により労働者とみなされることはない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項の団体は、同項の承認があつた後においても、政府の承認を受けて、当該団体についての保険関係を消滅させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4" OldStyle="false">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">政府は、第一項の団体がこの法律若しくは徴収法又はこれらの法律に基づく厚生労働省令の規定に違反したときは、当該団体についての保険関係を消滅させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5" OldStyle="false">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Hide="false" Num="5" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第三十三条第三号から第五号までに掲げる者の保険給付を受ける権利は、同条第三号又は第五号に掲げる者が第一項の団体から脱退することによつて変更されない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">同条第三号から第五号までに掲げる者がこれらの規定に掲げる者でなくなつたことによつても、同様とする。</Sentence>
@@ -1879,8 +1879,8 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第三十四条第二項及び第三項の規定は前項の承認を受けた第三十三条第六号の団体又は同条第七号の事業主について、第三十四条第四項の規定は第三十三条第六号又は第七号に掲げる者の保険給付を受ける権利について準用する。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、これらの規定中「前項の承認」とあり、及び「第一項の承認」とあるのは「第三十六条第一項の承認」と、第三十四条第二項中「同号及び同条第二号に掲げる者を包括して」とあるのは「同条第六号又は第七号に掲げる者を」と、同条第四項中「同条第一号及び第二号」とあるのは「第三十三条第六号又は第七号」と読み替えるものとする。</Sentence>
@@ -1907,14 +1907,14 @@
               <Sentence WritingMode="vertical">保険給付に関する決定に不服のある者は、労働者災害補償保険審査官に対して審査請求をし、その決定に不服のある者は、労働保険審査会に対して再審査請求をすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の審査請求をしている者は、審査請求をした日から三箇月を経過しても審査請求についての決定がないときは、労働者災害補償保険審査官が審査請求を棄却したものとみなすことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項の審査請求及び再審査請求は、時効の完成猶予及び更新に関しては、これを裁判上の請求とみなす。</Sentence>
             </ParagraphSentence>
@@ -1958,8 +1958,8 @@
               <Sentence WritingMode="vertical">療養補償給付、休業補償給付、葬祭料、介護補償給付、複数事業労働者療養給付、複数事業労働者休業給付、複数事業労働者葬祭給付、複数事業労働者介護給付、療養給付、休業給付、葬祭給付、介護給付及び二次健康診断等給付を受ける権利は、これらを行使することができる時から二年を経過したとき、障害補償給付、遺族補償給付、複数事業労働者障害給付、複数事業労働者遺族給付、障害給付及び遺族給付を受ける権利は、これらを行使することができる時から五年を経過したときは、時効によつて消滅する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第八条の二第一項第二号の規定による四半期ごとの平均給与額又は第八条の三第一項第二号の規定による年度の平均給与額が修正されたことにより、第八条の二第一項第二号、第八条の三第一項第二号又は第十六条の六第二項（第二十条の六第三項若しくは第二十二条の四第三項において準用する場合又は第五十八条第一項、第六十条の二第一項若しくは第六十一条第一項の規定によりその例によることとされる場合を含む。）に規定する厚生労働大臣が定める率を厚生労働大臣が、第八条第二項に規定する政府が算定する額を政府がそれぞれ変更した場合において、当該変更に伴いその額が再び算定された保険給付があるときは、当該保険給付に係る第十一条の規定による未支給の保険給付の支給を受ける権利については、会計法（昭和二十二年法律第三十五号）第三十一条第一項の規定を適用しない。</Sentence>
             </ParagraphSentence>
@@ -2036,14 +2036,14 @@
               <Sentence WritingMode="vertical">行政庁は、この法律の施行に必要な限度において、当該職員に、適用事業の事業場、労働保険事務組合若しくは第三十五条第一項に規定する団体の事務所、労働者派遣法第四十四条第一項に規定する派遣先の事業の事業場又は船員派遣の役務の提供を受ける者の事業場に立ち入り、関係者に質問させ、又は帳簿書類その他の物件を検査させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定により立入検査をする職員は、その身分を示す証明書を携帯し、関係者に提示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項の規定による立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
             </ParagraphSentence>
@@ -2057,8 +2057,8 @@
               <Sentence WritingMode="vertical">行政庁は、保険給付に関して必要があると認めるときは、厚生労働省令で定めるところによつて、保険給付を受け、又は受けようとする者（遺族補償年金、複数事業労働者遺族年金又は遺族年金の額の算定の基礎となる者を含む。）の診療を担当した医師その他の者に対して、その行つた診療に関する事項について、報告若しくは診療録、帳簿書類その他の物件の提示を命じ、又は当該職員に、これらの物件を検査させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前条第二項の規定は前項の規定による検査について、同条第三項の規定は前項の規定による権限について準用する。</Sentence>
             </ParagraphSentence>
@@ -2190,8 +2190,8 @@
               <Sentence WritingMode="vertical">法人（法人でない労働保険事務組合及び第三十五条第一項に規定する団体を含む。以下この項において同じ。）の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して、第五十一条又は前条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても、各本条の罰金刑を科する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定により法人でない労働保険事務組合又は第三十五条第一項に規定する団体を処罰する場合においては、その代表者が訴訟行為につきその労働保険事務組合又は団体を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
             </ParagraphSentence>
@@ -2218,26 +2218,26 @@
             <Sentence WritingMode="vertical">労働者災害扶助責任保険法は、これを廃止する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律施行前に発生した事故に対する保険給付及びこの法律施行前の期間に属する保険料に関しては、なお旧法による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律施行前の旧法の罰則を適用すべきであつた者についての処罰については、なお旧法による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4" OldStyle="false">
-          <ParagraphNum>○４</ParagraphNum>
+        <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律施行の際、労働者災害扶助責任保険につき現に政府と保険契約を締結してゐる者が既に払込んだこの法律施行後の期間に属する保険料は、この保険の保険料に、これを充当することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5" OldStyle="false">
-          <ParagraphNum>○５</ParagraphNum>
+        <Paragraph Hide="false" Num="5" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前三項に定めるものの外、旧法廃止の際必要な事項は、命令で、これを定める。</Sentence>
           </ParagraphSentence>
@@ -2319,8 +2319,8 @@
             </Table>
           </TableStruct>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">障害補償年金差額一時金を受けることができる遺族は、次の各号に掲げる者とする。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、障害補償年金差額一時金を受けるべき遺族の順位は、次の各号の順序により、当該各号に掲げる者のうちにあつては、それぞれ、当該各号に掲げる順序による。</Sentence>
@@ -2338,20 +2338,20 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">障害補償年金差額一時金の支給を受ける権利は、これを行使することができる時から五年を経過したときは、時効によつて消滅する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4" OldStyle="false">
-          <ParagraphNum>○４</ParagraphNum>
+        <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">障害補償年金差額一時金は、遺族補償給付とみなして第十条の規定を、第十六条の六第一項第二号の場合に支給される遺族補償一時金とみなして徴収法第十二条第三項及び第二十条第一項の規定を適用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5" OldStyle="false">
-          <ParagraphNum>○５</ParagraphNum>
+        <Paragraph Hide="false" Num="5" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第十六条の三第二項並びに第十六条の九第一項及び第二項の規定は、障害補償年金差額一時金について準用する。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、第十六条の三第二項中「前項」とあるのは「第五十八条第一項」と、「別表第一」とあるのは「同項」と読み替えるものとする。</Sentence>
@@ -2366,32 +2366,32 @@
             <Sentence WritingMode="vertical">政府は、当分の間、労働者が業務上負傷し、又は疾病にかかり、治つたとき身体に障害が存する場合における当該障害に関しては、障害補償年金を受ける権利を有する者に対し、その請求に基づき、保険給付として、障害補償年金前払一時金を支給する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">障害補償年金前払一時金の額は、前条第一項の表の上欄に掲げる当該障害補償年金に係る障害等級に応じ、それぞれ同表の下欄に掲げる額（算定事由発生日の属する年度の翌々年度の八月以後に前項の請求があつた場合にあつては、当該障害補償年金前払一時金を障害補償一時金とみなして第八条の四の規定を適用したときに得られる給付基礎日額を同表の給付基礎日額とした場合に得られる額）を限度として厚生労働省令で定める額とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">障害補償年金前払一時金が支給される場合には、当該労働者の障害に係る障害補償年金は、各月に支給されるべき額の合計額が厚生労働省令で定める算定方法に従い当該障害補償年金前払一時金の額に達するまでの間、その支給を停止する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4" OldStyle="false">
-          <ParagraphNum>○４</ParagraphNum>
+        <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">障害補償年金前払一時金の支給を受ける権利は、これを行使することができる時から二年を経過したときは、時効によつて消滅する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5" OldStyle="false">
-          <ParagraphNum>○５</ParagraphNum>
+        <Paragraph Hide="false" Num="5" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">障害補償年金前払一時金は、障害補償年金とみなして、徴収法第十二条第三項及び第二十条第一項の規定を適用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="6" OldStyle="false">
-          <ParagraphNum>○６</ParagraphNum>
+        <Paragraph Hide="false" Num="6" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">障害補償年金前払一時金の支給を受けた者に支給されるべき障害補償年金の支給が第三項の規定により停止されている間は、当該障害補償年金については、国民年金法第三十六条の二第二項及び国民年金法等の一部を改正する法律（昭和六十年法律第三十四号。以下この項及び次条第七項において「昭和六十年法律第三十四号」という。）附則第三十二条第十一項の規定によりなおその効力を有するものとされた昭和六十年法律第三十四号第一条の規定による改正前の国民年金法（以下この項及び次条第七項において「旧国民年金法」という。）第六十五条第二項（昭和六十年法律第三十四号附則第二十八条第十項においてその例による場合及び昭和六十年法律第三十四号附則第三十二条第十一項の規定によりなおその効力を有するものとされた旧国民年金法第七十九条の二第五項において準用する場合を含む。次条第七項において同じ。）、児童扶養手当法（昭和三十六年法律第二百三十八号）第十三条の二第二項第一号ただし書並びに特別児童扶養手当等の支給に関する法律（昭和三十九年法律第百三十四号）第三条第三項第二号ただし書及び第十七条第一号ただし書の規定は、適用しない。</Sentence>
           </ParagraphSentence>
@@ -2405,38 +2405,38 @@
             <Sentence WritingMode="vertical">政府は、当分の間、労働者が業務上の事由により死亡した場合における当該死亡に関しては、遺族補償年金を受ける権利を有する遺族に対し、その請求に基づき、保険給付として、遺族補償年金前払一時金を支給する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">遺族補償年金前払一時金の額は、給付基礎日額（算定事由発生日の属する年度の翌々年度の八月以後に前項の請求があつた場合にあつては、当該遺族補償年金前払一時金を遺族補償一時金とみなして第八条の四の規定を適用したときに得られる給付基礎日額に相当する額）の千日分に相当する額を限度として厚生労働省令で定める額とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">遺族補償年金前払一時金が支給される場合には、当該労働者の死亡に係る遺族補償年金は、各月に支給されるべき額の合計額が厚生労働省令で定める算定方法に従い当該遺族補償年金前払一時金の額に達するまでの間、その支給を停止する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4" OldStyle="false">
-          <ParagraphNum>○４</ParagraphNum>
+        <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">遺族補償年金前払一時金が支給された場合における第十六条の六の規定の適用については、同条第一項第二号中「遺族補償年金の額」とあるのは、「遺族補償年金の額及び遺族補償年金前払一時金の額（当該遺族補償年金前払一時金を支給すべき事由が当該権利が消滅した日の属する年度（当該権利が消滅した日の属する月が四月から七月までの月に該当する場合にあつては、その前年度）の七月以前に生じたものである場合にあつては、厚生労働省令で定めるところにより次項の規定による遺族補償年金の額の算定の方法に準じ算定して得た額）」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5" OldStyle="false">
-          <ParagraphNum>○５</ParagraphNum>
+        <Paragraph Hide="false" Num="5" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">遺族補償年金前払一時金の支給を受ける権利は、これを行使することができる時から二年を経過したときは、時効によつて消滅する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="6" OldStyle="false">
-          <ParagraphNum>○６</ParagraphNum>
+        <Paragraph Hide="false" Num="6" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">遺族補償年金前払一時金は、遺族補償年金とみなして、徴収法第十二条第三項及び第二十条第一項の規定を適用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="7" OldStyle="false">
-          <ParagraphNum>○７</ParagraphNum>
+        <Paragraph Hide="false" Num="7" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">遺族補償年金前払一時金の支給を受けた者に支給されるべき遺族補償年金の支給が第三項の規定により停止されている間は、当該遺族補償年金については、国民年金法第三十六条の二第二項及び昭和六十年法律第三十四号附則第三十二条第十一項の規定によりなおその効力を有するものとされた旧国民年金法第六十五条第二項並びに児童扶養手当法第十三条の二第一項第一号ただし書及び第二項第一号ただし書の規定は、適用しない。</Sentence>
           </ParagraphSentence>
@@ -2450,8 +2450,8 @@
             <Sentence>政府は、当分の間、複数事業労働者障害年金を受ける権利を有する者が死亡した場合において、その者に支給された当該複数事業労働者障害年金の額（当該複数事業労働者障害年金のうち当該死亡した日の属する年度（当該死亡した日の属する月が四月から七月までの月に該当する場合にあつては、その前年度。以下この項において同じ。）の七月以前の分として支給された複数事業労働者障害年金にあつては、厚生労働省令で定めるところにより第十六条の六第二項の規定の例により算定して得た額）及び当該複数事業労働者障害年金に係る複数事業労働者障害年金前払一時金の額（当該複数事業労働者障害年金前払一時金を支給すべき事由が当該死亡した日の属する年度の七月以前に生じたものである場合にあつては、厚生労働省令で定めるところにより同項の規定による遺族補償年金の額の算定の方法に準じ算定して得た額）の合計額が第五十八条第一項の表の上欄に掲げる当該複数事業労働者障害年金に係る障害等級に応じ、それぞれ同表の下欄に掲げる額（当該死亡した日が算定事由発生日の属する年度の翌々年度の八月一日以後の日である場合にあつては、厚生労働省令で定めるところにより第八条の四において準用する第八条の三第一項の規定の例により算定して得た額を同表の給付基礎日額とした場合に得られる額）に満たないときは、その者の遺族に対し、その請求に基づき、保険給付として、その差額に相当する額の複数事業労働者障害年金差額一時金を支給する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Num="2" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>第十六条の三第二項、第十六条の九第一項及び第二項並びに第五十八条第二項及び第三項の規定は、複数事業労働者障害年金差額一時金について準用する。この場合において、第十六条の三第二項中「前項」とあるのは「第六十条の二第一項」と、「別表第一」とあるのは「同項」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
@@ -2465,14 +2465,14 @@
             <Sentence>政府は、当分の間、複数事業労働者がその従事する二以上の事業の業務を要因として負傷し、又は疾病にかかり、治つたとき身体に障害が存する場合における当該障害に関しては、複数事業労働者障害年金を受ける権利を有する者に対し、その請求に基づき、保険給付として、複数事業労働者障害年金前払一時金を支給する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Num="2" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>複数事業労働者障害年金前払一時金の額は、第五十八条第一項の表の上欄に掲げる当該複数事業労働者障害年金に係る障害等級に応じ、第五十九条第二項に規定する厚生労働省令で定める額とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="3">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Num="3" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1">第五十九条第三項、第四項及び第六項の規定は、複数事業労働者障害年金前払一時金について準用する。</Sentence>
             <Sentence Num="2">この場合において、同条第三項及び第六項中「障害補償年金」とあるのは、「複数事業労働者障害年金」と読み替えるものとする。</Sentence>
@@ -2487,20 +2487,20 @@
             <Sentence>政府は、当分の間、複数事業労働者がその従事する二以上の事業の業務を要因として死亡した場合における当該死亡に関しては、複数事業労働者遺族年金を受ける権利を有する遺族に対し、その請求に基づき、保険給付として、複数事業労働者遺族年金前払一時金を支給する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Num="2" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>複数事業労働者遺族年金前払一時金の額は、第六十条第二項に規定する厚生労働省令で定める額とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="3">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Num="3" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>複数事業労働者遺族年金前払一時金が支給された場合における第二十条の六第三項の規定により読み替えられた第十六条の六の規定の適用については、同条第一項第二号中「複数事業労働者遺族年金の額」とあるのは、「複数事業労働者遺族年金の額及び複数事業労働者遺族年金前払一時金の額（当該複数事業労働者遺族年金前払一時金を支給すべき事由が当該権利が消滅した日の属する年度（当該権利が消滅した日の属する月が四月から七月までの月に該当する場合にあつては、その前年度）の七月以前に生じたものである場合にあつては、厚生労働省令で定めるところにより次項の規定による複数事業労働者遺族年金の額の算定の方法に準じ算定して得た額）」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="4">
-          <ParagraphNum>○４</ParagraphNum>
+        <Paragraph Num="4" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1">第六十条第三項、第五項及び第七項の規定は、複数事業労働者遺族年金前払一時金について準用する。</Sentence>
             <Sentence Num="2">この場合において、同条第三項中「遺族補償年金は」とあるのは「複数事業労働者遺族年金は」と、同条第七項中「遺族補償年金の」とあるのは「複数事業労働者遺族年金の」と、「当該遺族補償年金」とあるのは「当該複数事業労働者遺族年金」と読み替えるものとする。</Sentence>
@@ -2515,14 +2515,14 @@
             <Sentence WritingMode="vertical">政府は、当分の間、障害年金を受ける権利を有する者が死亡した場合において、その者に支給された当該障害年金の額（当該障害年金のうち当該死亡した日の属する年度（当該死亡した日の属する月が四月から七月までの月に該当する場合にあつては、その前年度。以下この項において同じ。）の七月以前の分として支給された障害年金にあつては、厚生労働省令で定めるところにより第十六条の六第二項の規定の例により算定して得た額）及び当該障害年金に係る障害年金前払一時金の額（当該障害年金前払一時金を支給すべき事由が当該死亡した日の属する年度の七月以前に生じたものである場合にあつては、厚生労働省令で定めるところにより同項の規定による遺族補償年金の額の算定の方法に準じ算定して得た額）の合計額が第五十八条第一項の表の上欄に掲げる当該障害年金に係る障害等級に応じ、それぞれ同表の下欄に掲げる額（当該死亡した日が算定事由発生日の属する年度の翌々年度の八月一日以後の日である場合にあつては、厚生労働省令で定めるところにより第八条の四において準用する第八条の三第一項の規定の例により算定して得た額を同表の給付基礎日額とした場合に得られる額）に満たないときは、その者の遺族に対し、その請求に基づき、保険給付として、その差額に相当する額の障害年金差額一時金を支給する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">障害年金差額一時金は、遺族給付とみなして、第十条の規定を適用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第十六条の三第二項、第十六条の九第一項及び第二項並びに第五十八条第二項及び第三項の規定は、障害年金差額一時金について準用する。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、第十六条の三第二項中「前項」とあるのは「第六十一条第一項」と、「別表第一」とあるのは「同項」と読み替えるものとする。</Sentence>
@@ -2537,14 +2537,14 @@
             <Sentence WritingMode="vertical">政府は、当分の間、労働者が通勤により負傷し、又は疾病にかかり、治つたとき身体に障害が存する場合における当該障害に関しては、障害年金を受ける権利を有する者に対し、その請求に基づき、保険給付として、障害年金前払一時金を支給する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">障害年金前払一時金の額は、第五十八条第一項の表の上欄に掲げる当該障害年金に係る障害等級に応じ、第五十九条第二項に規定する厚生労働省令で定める額とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第五十九条第三項、第四項及び第六項の規定は、障害年金前払一時金について準用する。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、同条第三項及び第六項中「障害補償年金」とあるのは、「障害年金」と読み替えるものとする。</Sentence>
@@ -2559,14 +2559,14 @@
             <Sentence WritingMode="vertical">政府は、当分の間、労働者が通勤により死亡した場合における当該死亡に関しては、遺族年金を受ける権利を有する遺族に対し、その請求に基づき、保険給付として、遺族年金前払一時金を支給する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">遺族年金前払一時金の額は、第六十条第二項に規定する厚生労働省令で定める額とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第六十条第三項から第五項まで及び第七項の規定は、遺族年金前払一時金について準用する。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、同条第三項中「遺族補償年金は」とあるのは「遺族年金は」と、同条第四項中「第十六条の六」とあるのは「第二十二条の四第三項の規定により読み替えられた第十六条の六」と、「遺族補償年金の額」とあるのは「遺族年金の額」と、同条第七項中「遺族補償年金の」とあるのは「遺族年金の」と、「当該遺族補償年金」とあるのは「当該遺族年金」と読み替えるものとする。</Sentence>
@@ -2593,8 +2593,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">労働者又はその遺族が、当該労働者を使用している事業主又は使用していた事業主から損害賠償を受けることができる場合であつて、保険給付を受けるべきときに、同一の事由について、損害賠償（当該保険給付によつて塡補される損害を塡補する部分に限る。）を受けたときは、政府は、労働政策審議会の議を経て厚生労働大臣が定める基準により、その価額の限度で、保険給付をしないことができる。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、前項に規定する年金給付を受けるべき場合において、次に掲げる保険給付については、この限りでない。</Sentence>
@@ -2620,22 +2620,22 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="323071" AmendLawNum="昭和二三年六月三〇日法律第七一号" Id="430c9590-188d-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二三年六月三〇日法律第七一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
-        <ParagraphNum>○１</ParagraphNum>
+      <Paragraph Hide="false" Num="1" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、昭和二十三年七月一日から、これを施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2" OldStyle="false">
-        <ParagraphNum>○２</ParagraphNum>
+      <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律施行前に発生した事故に対する災害補償に関しては、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="324082" AmendLawNum="昭和二四年五月一九日法律第八二号" Id="43222658-188d-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二四年五月一九日法律第八二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -2651,7 +2651,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="324166" AmendLawNum="昭和二四年五月三一日法律第一六六号" Id="12db2bdc-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二四年五月三一日法律第一六六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -2660,7 +2660,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="325125" AmendLawNum="昭和二五年五月一日法律第一二五号" Id="434cda24-188d-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二五年五月一日法律第一二五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -2670,7 +2670,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="325290" AmendLawNum="昭和二五年一二月二〇日法律第二九〇号" Id="5dce8038-47dd-11e5-920e-739df3c89db1">
+    <SupplProvision AmendLawNum="昭和二五年一二月二〇日法律第二九〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -2679,7 +2679,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="326046" AmendLawNum="昭和二六年三月二九日法律第四六号" Id="43778508-188d-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二六年三月二九日法律第四六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -2688,7 +2688,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="326078" AmendLawNum="昭和二六年三月三一日法律第七八号" Extract="true" Id="f2a73a8e-1886-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二六年三月三一日法律第七八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -2703,7 +2703,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="327287" AmendLawNum="昭和二七年七月三一日法律第二八七号" Extract="true" Id="fbc9512e-188b-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二七年七月三一日法律第二八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -2718,7 +2718,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="330131" AmendLawNum="昭和三〇年八月五日法律第一三一号" Extract="true" Id="43b78392-188d-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三〇年八月五日法律第一三一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -2753,7 +2753,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="331126" AmendLawNum="昭和三一年六月四日法律第一二六号" Extract="true" Id="76e4341e-47dd-11e5-9641-f7065d5aa0aa">
+    <SupplProvision AmendLawNum="昭和三一年六月四日法律第一二六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -2802,7 +2802,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="332126" AmendLawNum="昭和三二年五月二〇日法律第一二六号" Extract="true" Id="82e32792-d3c6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三二年五月二〇日法律第一二六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2815,7 +2815,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="334148" AmendLawNum="昭和三四年四月二〇日法律第一四八号" Extract="true" Id="f578bfee-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三四年四月二〇日法律第一四八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -2832,7 +2832,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="335029" AmendLawNum="昭和三五年三月三一日法律第二九号" Extract="true" Id="440cfee4-188d-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三五年三月三一日法律第二九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2993,7 +2993,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="337067" AmendLawNum="昭和三七年四月二日法律第六七号" Extract="true" Id="29885e60-d3c1-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三七年四月二日法律第六七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3006,7 +3006,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="337140" AmendLawNum="昭和三七年五月一六日法律第一四〇号" Extract="true" Id="837815c8-d3c6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三七年五月一六日法律第一四〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -3060,7 +3060,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="337152" AmendLawNum="昭和三七年九月八日法律第一五二号" Extract="true" Id="40285b26-47dd-11e5-89b7-03e1b2402d43">
+    <SupplProvision AmendLawNum="昭和三七年九月八日法律第一五二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3073,7 +3073,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="337161" AmendLawNum="昭和三七年九月一五日法律第一六一号" Extract="true" Id="4d6c2670-d3be-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三七年九月一五日法律第一六一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -3126,7 +3126,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="339112" AmendLawNum="昭和三九年六月二三日法律第一一二号" Extract="true" Id="4477e362-188d-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三九年六月二三日法律第一一二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3139,7 +3139,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="339118" AmendLawNum="昭和三九年六月二九日法律第一一八号" Extract="true" Id="4cfbc7e8-47dd-11e5-8e0d-af5159b96839">
+    <SupplProvision AmendLawNum="昭和三九年六月二九日法律第一一八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3152,7 +3152,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="339152" AmendLawNum="昭和三九年七月六日法律第一五二号" Extract="true" Id="f5923cbc-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三九年七月六日法律第一五二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3165,7 +3165,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="340105" AmendLawNum="昭和四〇年六月一日法律第一〇五号" Extract="true" Id="f4e0e9bc-1886-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四〇年六月一日法律第一〇五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日等）</ArticleCaption>
@@ -3178,7 +3178,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="340130" AmendLawNum="昭和四〇年六月一一日法律第一三〇号" Extract="true" Id="43f89394-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四〇年六月一一日法律第一三〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3376,7 +3376,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="342095" AmendLawNum="昭和四二年七月二九日法律第九五号" Extract="true" Id="442d9850-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四二年七月二九日法律第九五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3389,7 +3389,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="344083" AmendLawNum="昭和四四年一二月九日法律第八三号" Extract="true" Id="2aa10eda-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四四年一二月九日法律第八三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3447,7 +3447,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="344085" AmendLawNum="昭和四四年一二月九日法律第八五号" Id="6ec162d4-47dd-11e5-94e3-1f2f570372aa">
+    <SupplProvision AmendLawNum="昭和四四年一二月九日法律第八五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -3456,7 +3456,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="344086" AmendLawNum="昭和四四年一二月一〇日法律第八六号" Extract="true" Id="84307884-d3c6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四四年一二月一〇日法律第八六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日等）</ArticleCaption>
@@ -3469,7 +3469,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="345013" AmendLawNum="昭和四五年四月一日法律第一三号" Id="5177a4a4-47dd-11e5-8f30-2b3854bcf21e">
+    <SupplProvision AmendLawNum="昭和四五年四月一日法律第一三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3482,7 +3482,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="345088" AmendLawNum="昭和四五年五月二二日法律第八八号" Extract="true" Id="b9cceda8-188b-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四五年五月二二日法律第八八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3520,7 +3520,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="346013" AmendLawNum="昭和四六年三月三〇日法律第一三号" Extract="true" Id="447d98c8-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四六年三月三〇日法律第一三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3533,7 +3533,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="348085" AmendLawNum="昭和四八年九月二一日法律第八五号" Extract="true" Id="f5f63c08-1886-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四八年九月二一日法律第八五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3583,7 +3583,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="348093" AmendLawNum="昭和四八年九月二六日法律第九三号" Extract="true" Id="44984394-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四八年九月二六日法律第九三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3596,7 +3596,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="349115" AmendLawNum="昭和四九年一二月二八日法律第一一五号" Extract="true" Id="f647c8a2-1886-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四九年一二月二八日法律第一一五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日等）</ArticleCaption>
@@ -3684,7 +3684,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="351032" AmendLawNum="昭和五一年五月二七日法律第三二号" Extract="true" Id="f6789414-1886-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五一年五月二七日法律第三二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日等）</ArticleCaption>
@@ -3857,7 +3857,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="353054" AmendLawNum="昭和五三年五月二三日法律第五四号" Extract="true" Id="93215280-d3c8-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五三年五月二三日法律第五四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -3867,7 +3867,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="355104" AmendLawNum="昭和五五年一二月五日法律第一〇四号" Extract="true" Id="f73c0e44-1886-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五五年一二月五日法律第一〇四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日等）</ArticleCaption>
@@ -4106,7 +4106,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="357066" AmendLawNum="昭和五七年七月一六日法律第六六号" Id="f5dcbbde-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五七年七月一六日法律第六六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -4115,7 +4115,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="359087" AmendLawNum="昭和五九年一二月二五日法律第八七号" Extract="true" Id="f5ec2d08-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五九年一二月二五日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4138,7 +4138,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="360034" AmendLawNum="昭和六〇年五月一日法律第三四号" Extract="true" Id="f5ee4c0a-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六〇年五月一日法律第三四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4276,7 +4276,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="360048" AmendLawNum="昭和六〇年六月七日法律第四八号" Extract="true" Id="4545262c-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六〇年六月七日法律第四八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日等）</ArticleCaption>
@@ -4289,7 +4289,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="360105" AmendLawNum="昭和六〇年一二月二七日法律第一〇五号" Extract="true" Id="f5f43f48-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六〇年一二月二七日法律第一〇五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4302,7 +4302,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="360106" AmendLawNum="昭和六〇年一二月二七日法律第一〇六号" Extract="true" Id="f83069a8-1886-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六〇年一二月二七日法律第一〇六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4315,7 +4315,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="360107" AmendLawNum="昭和六〇年一二月二七日法律第一〇七号" Extract="true" Id="6062903e-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六〇年一二月二七日法律第一〇七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4328,7 +4328,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="360108" AmendLawNum="昭和六〇年一二月二七日法律第一〇八号" Extract="true" Id="f5f86276-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六〇年一二月二七日法律第一〇八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4341,7 +4341,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="361059" AmendLawNum="昭和六一年五月二三日法律第五九号" Extract="true" Id="bad5fcd0-188b-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六一年五月二三日法律第五九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4499,7 +4499,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="361093" AmendLawNum="昭和六一年一二月四日法律第九三号" Extract="true" Id="655b0f10-47dd-11e5-9356-631b6858fb32">
+    <SupplProvision AmendLawNum="昭和六一年一二月四日法律第九三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4522,7 +4522,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="402040" AmendLawNum="平成二年六月二二日法律第四〇号" Extract="true" Id="f8a1f79e-1886-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二年六月二二日法律第四〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4639,7 +4639,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="406056" AmendLawNum="平成六年六月二九日法律第五六号" Extract="true" Id="4d72be18-d3be-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成六年六月二九日法律第五六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4672,7 +4672,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="406095" AmendLawNum="平成六年一一月九日法律第九五号" Extract="true" Id="5a34301c-3dcf-4761-ab57-d5f07455f0b8">
+    <SupplProvision AmendLawNum="平成六年一一月九日法律第九五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日等）</ArticleCaption>
@@ -4703,7 +4703,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="407035" AmendLawNum="平成七年三月二三日法律第三五号" Extract="true" Id="f936b3c0-1886-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成七年三月二三日法律第三五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4749,7 +4749,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="408042" AmendLawNum="平成八年五月二二日法律第四二号" Extract="true" Id="a136abf6-1888-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成八年五月二二日法律第四二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4779,7 +4779,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="408082" AmendLawNum="平成八年六月一四日法律第八二号" Extract="true" Id="f618ccf0-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成八年六月一四日法律第八二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4900,7 +4900,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="409048" AmendLawNum="平成九年五月九日法律第四八号" Extract="true" Id="044d9ede-7b75-11e9-b479-005056b30d52">
+    <SupplProvision AmendLawNum="平成九年五月九日法律第四八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4933,7 +4933,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="410112" AmendLawNum="平成一〇年九月三〇日法律第一一二号" Extract="true" Id="504aa488-188b-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一〇年九月三〇日法律第一一二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4946,7 +4946,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411087" AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true" Id="8a6950aa-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5063,7 +5063,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411102" AmendLawNum="平成一一年七月一六日法律第一〇二号" Extract="true" Id="f62c9686-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第一〇二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5104,7 +5104,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5129,7 +5129,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412124" AmendLawNum="平成一二年一一月二二日法律第一二四号" Extract="true" Id="50872d72-188b-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年一一月二二日法律第一二四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5152,7 +5152,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="413101" AmendLawNum="平成一三年七月四日法律第一〇一号" Extract="true" Id="4b3147ee-4f45-4fda-9e33-480b40bf668b">
+    <SupplProvision AmendLawNum="平成一三年七月四日法律第一〇一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5175,7 +5175,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="413153" AmendLawNum="平成一三年一二月一二日法律第一五三号" Extract="true" Id="f647efda-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年一二月一二日法律第一五三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5208,7 +5208,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414171" AmendLawNum="平成一四年一二月一三日法律第一七一号" Extract="true" Id="69d01306-47dd-11e5-9416-1319ec10da67">
+    <SupplProvision AmendLawNum="平成一四年一二月一三日法律第一七一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5222,7 +5222,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417050" AmendLawNum="平成一七年五月二五日法律第五〇号" Extract="true" Id="7a2553e2-47dd-11e5-96c3-a3ad18a7275d">
+    <SupplProvision AmendLawNum="平成一七年五月二五日法律第五〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5235,7 +5235,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417108" AmendLawNum="平成一七年一一月二日法律第一〇八号" Extract="true" Id="bc3092ac-188b-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年一一月二日法律第一〇八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5296,7 +5296,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417123" AmendLawNum="平成一七年一一月七日法律第一二三号" Extract="true" Id="422f12a2-47dd-11e5-8a82-0b99763aa378">
+    <SupplProvision AmendLawNum="平成一七年一一月七日法律第一二三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5352,7 +5352,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419030" AmendLawNum="平成一九年四月二三日法律第三〇号" Extract="true" Id="56c72d3e-b5b2-4d5f-b93e-73d126fff301">
+    <SupplProvision AmendLawNum="平成一九年四月二三日法律第三〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5490,7 +5490,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419109" AmendLawNum="平成一九年七月六日法律第一〇九号" Extract="true" Id="3d4908cb-642e-6ce7-a549-b1212e4c7012">
+    <SupplProvision AmendLawNum="平成一九年七月六日法律第一〇九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5515,7 +5515,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419110" AmendLawNum="平成一九年七月六日法律第一一〇号" Extract="true" Id="f6902a34-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年七月六日法律第一一〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5577,7 +5577,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419111" AmendLawNum="平成一九年七月六日法律第一一一号" Extract="true" Id="803eb4e4-47dd-11e5-97a5-ef4aba890d01">
+    <SupplProvision AmendLawNum="平成一九年七月六日法律第一一一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5590,7 +5590,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="421036" AmendLawNum="平成二一年五月一日法律第三六号" Extract="true" Id="f69a40e6-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二一年五月一日法律第三六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5623,7 +5623,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="422015" AmendLawNum="平成二二年三月三一日法律第一五号" Extract="true" Id="75fa1d97-7bb9-4205-a24f-de6d9958ab08">
+    <SupplProvision AmendLawNum="平成二二年三月三一日法律第一五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5647,7 +5647,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="422071" AmendLawNum="平成二二年一二月一〇日法律第七一号" Extract="true" Id="1b2104c0-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="平成二二年一二月一〇日法律第七一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5678,7 +5678,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423040" AmendLawNum="平成二三年五月二日法律第四〇号" Extract="true" Id="68bab5b6-47dd-11e5-93ea-d3a9bfed6677">
+    <SupplProvision AmendLawNum="平成二三年五月二日法律第四〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5701,7 +5701,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424027" AmendLawNum="平成二四年四月六日法律第二七号" Extract="true" Id="53cc7c5c-53fb-4ec6-94e4-74aff1034cfe">
+    <SupplProvision AmendLawNum="平成二四年四月六日法律第二七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5778,7 +5778,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424051" AmendLawNum="平成二四年六月二七日法律第五一号" Extract="true" Id="1b662ea6-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年六月二七日法律第五一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5809,7 +5809,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424063" AmendLawNum="平成二四年八月二二日法律第六三号" Extract="true" Id="1ef39d96-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年八月二二日法律第六三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5864,7 +5864,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="425063" AmendLawNum="平成二五年六月二六日法律第六三号" Extract="true" Id="2e2cac29-771f-ce80-be8e-ac8fe2f16dfe">
+    <SupplProvision AmendLawNum="平成二五年六月二六日法律第六三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5909,7 +5909,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426028" AmendLawNum="平成二六年四月二三日法律第二八号" Extract="true" Id="11ad8ea8-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年四月二三日法律第二八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5940,7 +5940,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426042" AmendLawNum="平成二六年五月三〇日法律第四二号" Extract="true" Id="37ebbfb0-dbb6-4234-a110-f8be69da6be6">
+    <SupplProvision AmendLawNum="平成二六年五月三〇日法律第四二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5953,7 +5953,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426069" AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true" Id="089695bd-1a35-40ad-aae2-abd96d597d6c">
+    <SupplProvision AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6018,7 +6018,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="427017" AmendLawNum="平成二七年五月七日法律第一七号" Extract="true" Id="f6d2bd72-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年五月七日法律第一七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6031,7 +6031,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="429045" AmendLawNum="平成二九年六月二日法律第四五号" Id="0764f7de-49d6-11e7-99a6-005056b30d52">
+    <SupplProvision AmendLawNum="平成二九年六月二日法律第四五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6041,7 +6041,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="430031" AmendLawNum="平成三〇年五月二五日法律第三一号" Extract="true">
+    <SupplProvision AmendLawNum="平成三〇年五月二五日法律第三一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6075,7 +6075,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502014" AmendLawNum="令和二年三月三一日法律第一四号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第一四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6177,7 +6177,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502040" AmendLawNum="令和二年六月五日法律第四〇号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年六月五日法律第四〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

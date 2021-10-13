@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Taisho" Lang="ja" LawType="Act" Num="20" Year="11">
+<Law Era="Taisho" Lang="ja" LawType="Act" Num="20" Year="11" PromulgateMonth="03" PromulgateDay="30">
   <LawNum>大正十一年法律第二十号</LawNum>
   <LawBody>
-    <LawTitle>未成年者飲酒禁止法</LawTitle>
+    <LawTitle Kana="みせいねんしゃいんしゅきんしほう" Abbrev="" AbbrevKana="">未成年者飲酒禁止法</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -12,20 +12,20 @@
             <Sentence WritingMode="vertical">満二十年ニ至ラサル者ハ酒類ヲ飲用スルコトヲ得ス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">未成年者ニ対シテ親権ヲ行フ者若ハ親権者ニ代リテ之ヲ監督スル者未成年者ノ飲酒ヲ知リタルトキハ之ヲ制止スヘシ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">営業者ニシテ其ノ業態上酒類ヲ販売又ハ供与スル者ハ満二十年ニ至ラサル者ノ飲用ニ供スルコトヲ知リテ酒類ヲ販売又ハ供与スルコトヲ得ス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4" OldStyle="false">
-          <ParagraphNum>○４</ParagraphNum>
+        <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">営業者ニシテ其ノ業態上酒類ヲ販売又ハ供与スル者ハ満二十年ニ至ラザル者ノ飲酒ノ防止ニ資スル為年齢ノ確認其ノ他ノ必要ナル措置ヲ講ズルモノトス</Sentence>
           </ParagraphSentence>
@@ -48,8 +48,8 @@
             <Sentence WritingMode="vertical">第一条第三項ノ規定ニ違反シタル者ハ五十万円以下ノ罰金ニ処ス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一条第二項ノ規定ニ違反シタル者ハ科料ニ処ス</Sentence>
           </ParagraphSentence>
@@ -74,7 +74,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="322223" AmendLawNum="昭和二二年一二月二二日法律第二二三号" Extract="true" Id="631ce7b2-1b99-4a9b-aa91-7a9e79a40af5">
+    <SupplProvision AmendLawNum="昭和二二年一二月二二日法律第二二三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="29">
         <ArticleTitle>第二十九条</ArticleTitle>
@@ -86,7 +86,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411151" AmendLawNum="平成一一年一二月八日法律第一五一号" Extract="true" Id="8a6b58dc-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月八日法律第一五一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -124,7 +124,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412134" AmendLawNum="平成一二年一二月一日法律第一三四号" Id="b2aade64-18c6-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年一二月一日法律第一三四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -133,7 +133,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413152" AmendLawNum="平成一三年一二月一二日法律第一五二号" Extract="true" Id="b2d2516a-18c6-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年一二月一二日法律第一五二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>

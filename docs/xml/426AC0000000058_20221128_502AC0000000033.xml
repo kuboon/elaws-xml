@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="58" Year="26">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="58" Year="26" PromulgateMonth="05" PromulgateDay="29" ScheduledEnforcementDate="2022/11/28">
   <LawNum>平成二十六年法律第五十八号</LawNum>
   <LawBody>
-    <LawTitle>少年院法</LawTitle>
+    <LawTitle Kana="しょうねんいんほう" Abbrev="" AbbrevKana="">少年院法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -181,7 +181,7 @@
                   <Sentence>保護処分在院者</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>少年法（昭和二十三年法律第百六十八号）第二十四条第一項第三号の保護処分（第百三十八条第二項及び第四項（第百三十九条第三項において準用する場合を含む。）並びに第百三十九条第二項の規定による措置並びに更生保護法（平成十九年法律第八十八号）第七十二条第一項の規定による措置を含む。次条第一号及び第四条第一項第一号から第三号までにおいて単に「保護処分」という。）の執行を受けるため少年院に収容されている者をいう。</Sentence>
+                  <Sentence>少年法（昭和二十三年法律第百六十八号）第二十四条第一項第三号並びに第六十四条第一項第二号（同法第六十六条第一項の規定による決定を受けた場合に限る。）及び第三号の保護処分（第百三十八条第二項及び第四項（第百三十九条第三項において準用する場合を含む。）並びに第百三十九条第二項の規定による措置並びに更生保護法（平成十九年法律第八十八号）第七十二条第一項及び第七十三条の二第一項の規定による措置を含む。次条第一号及び第四条第一項第一号から第三号までにおいて単に「保護処分」という。）の執行を受けるため少年院に収容されている者をいう。</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -278,7 +278,7 @@
                   <Sentence>第一種</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>保護処分の執行を受ける者であって、心身に著しい障害がないおおむね十二歳以上二十三歳未満のもの（次号に定める者を除く。）</Sentence>
+                  <Sentence>保護処分の執行を受ける者（第五号に定める者を除く。次号及び第三号において同じ。）であって、心身に著しい障害がないおおむね十二歳以上二十三歳未満のもの（次号に定める者を除く。）</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -312,6 +312,17 @@
                 </Column>
                 <Column Num="2">
                   <Sentence>少年院において刑の執行を受ける者</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>第五種</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>少年法第六十四条第一項第二号の保護処分の執行を受け、かつ、同法第六十六条第一項の規定による決定を受けた者</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -905,19 +916,25 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>少年院の長は、第一項の規定により個人別矯正教育計画を策定したときは、速やかに、その内容を、在院者に告知し、及びその保護者その他相当と認める者に通知するものとする。</Sentence>
+                <Sentence>少年院の長は、第四条第一項第五号に規定する第五種の少年院に収容されている者（以下「第五種少年院在院者」という。）について、個人別矯正教育計画を策定しようとする場合には、前項に規定するもののほか、保護観察所の長の意見を踏まえ、策定するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>少年院の長は、必要があると認めるときは、在院者に係る第一項の個人別矯正教育計画を変更するものとする。</Sentence>
+                <Sentence>少年院の長は、第一項の規定により個人別矯正教育計画を策定したときは、速やかに、その内容を、在院者に告知し、及びその保護者その他相当と認める者（在院者が第五種少年院在院者である場合にあっては、相当と認める者及び保護観察所の長）に通知するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>第二項から第四項までの規定は、前項の規定による個人別矯正教育計画の変更について準用する。</Sentence>
+                <Sentence>少年院の長は、必要があると認めるときは、在院者に係る第一項の個人別矯正教育計画を変更するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第二項から第五項までの規定は、前項の規定による個人別矯正教育計画の変更について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -939,13 +956,13 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>少年院の長は、第一項の成績の評価を行ったときは、速やかに、その結果を、在院者に告知し、及びその保護者その他相当と認める者に通知するものとする。</Sentence>
+                <Sentence>少年院の長は、第一項の成績の評価を行ったときは、速やかに、その結果を、在院者に告知し、及びその保護者その他相当と認める者（在院者が第五種少年院在院者である場合にあっては、相当と認める者及び保護観察所の長）に通知するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>少年院の長は、前項に規定する通知をする場合その他適当と認める場合には、在院者の保護者その他相当と認める者に対し、その在院者の生活及び心身の状況を通知するものとする。</Sentence>
+                <Sentence>少年院の長は、前項の規定による通知をする場合その他適当と認める場合には、在院者の保護者その他相当と認める者（在院者が第五種少年院在院者である場合にあっては、相当と認める者及び保護観察所の長）に対し、その在院者の生活及び心身の状況を通知するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -955,7 +972,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>少年院の長は、在院者について、第三十三条第一項の規定により指定された矯正教育課程（同条第二項の規定による変更があったときは、その変更後のもの。第百三十四条第二項において「指定矯正教育課程」という。）又は第三十四条第一項の規定により策定された個人別矯正教育計画（同条第五項の規定による変更があったときは、その変更後のもの）がその者にとって適切なものであるかどうかを確認するためその他必要があると認めるときは、その者に少年鑑別所の長による鑑別を受けさせることができる。</Sentence>
+                <Sentence>少年院の長は、在院者について、第三十三条第一項の規定により指定された矯正教育課程（同条第二項の規定による変更があったときは、その変更後のもの。第百三十四条第二項において「指定矯正教育課程」という。）又は第三十四条第一項の規定により策定された個人別矯正教育計画（同条第六項の規定による変更があったときは、その変更後のもの）がその者にとって適切なものであるかどうかを確認するためその他必要があると認めるときは、その者に少年鑑別所の長による鑑別を受けさせることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -2170,7 +2187,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>指定職員は、少年院の規律及び秩序を維持するため必要がある場合には、少年院内において、在院者以外の者（弁護士である付添人若しくは在院者若しくはその保護者の依頼により付添人となろうとする弁護士又は弁護人等（弁護人又は刑事訴訟法（昭和二十三年法律第百三十一号）第三十九条第一項に規定する弁護人となろうとする者をいう。以下同じ。）を除く。）の着衣及び携帯品を検査し、並びにその者の携帯品を取り上げて一時保管することができる。</Sentence>
+              <Sentence>指定職員は、少年院の規律及び秩序を維持するため必要がある場合には、少年院内において、在院者以外の者（弁護士である付添人若しくは在院者若しくはその保護者、法定代理人、保佐人、配偶者、直系の親族若しくは兄弟姉妹の依頼により付添人となろうとする弁護士又は弁護人等（弁護人又は刑事訴訟法（昭和二十三年法律第百三十一号）第三十九条第一項に規定する弁護人となろうとする者をいう。以下同じ。）を除く。）の着衣及び携帯品を検査し、並びにその者の携帯品を取り上げて一時保管することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -2497,7 +2514,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1">少年院の長は、その指名する職員に、在院者の面会（付添人等（付添人又は在院者若しくはその保護者の依頼により付添人となろうとする弁護士をいう。以下同じ。）又は弁護人等との面会を除く。）に立ち会わせ、又はその面会の状況を録音させ、若しくは録画させるものとする。</Sentence>
+                <Sentence Function="main" Num="1">少年院の長は、その指名する職員に、在院者の面会（付添人等（付添人又は在院者若しくはその保護者、法定代理人、保佐人、配偶者、直系の親族若しくは兄弟姉妹の依頼により付添人となろうとする弁護士をいう。以下同じ。）又は弁護人等との面会を除く。）に立ち会わせ、又はその面会の状況を録音させ、若しくは録画させるものとする。</Sentence>
                 <Sentence Function="proviso" Num="2">ただし、少年院の規律及び秩序を害する結果を生じ、又は在院者の矯正教育の適切な実施に支障を生ずるおそれがないと認める場合には、その立会い並びに録音及び録画（次項において「立会い等」という。）をさせないことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -3607,23 +3624,33 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>少年院の長は、保護処分在院者について、第十六条に規定する処遇の段階が最高段階に達し、仮に退院を許すのが相当であると認めるときは、地方更生保護委員会に対し、仮退院を許すべき旨の申出をしなければならない。</Sentence>
+              <Sentence>少年院の長は、第五種少年院在院者以外の保護処分在院者について、第十六条に規定する処遇の段階が最高段階に達し、仮に退院を許すのが相当であると認めるときは、地方更生保護委員会に対し、仮退院を許すべき旨の申出をしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="136">
-          <ArticleCaption>（退院の申出等）</ArticleCaption>
+          <ArticleCaption>（第五種少年院在院者以外の保護処分在院者の退院の申出等）</ArticleCaption>
           <ArticleTitle>第百三十六条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>少年院の長は、保護処分在院者について、第二十三条第一項に規定する目的を達したと認めるときは、地方更生保護委員会に対し、退院を許すべき旨の申出をしなければならない。</Sentence>
+              <Sentence>少年院の長は、第五種少年院在院者以外の保護処分在院者について、第二十三条第一項に規定する目的を達したと認めるときは、地方更生保護委員会に対し、退院を許すべき旨の申出をしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>少年院の長は、保護処分在院者が地方更生保護委員会から更生保護法第四十六条第一項の規定による退院を許す旨の決定の告知を受けたときは、その者がその告知を受けた日から起算して七日を超えない範囲内において、その者を出院させるべき日を指定するものとする。</Sentence>
+              <Sentence>少年院の長は、第五種少年院在院者以外の保護処分在院者が地方更生保護委員会から更生保護法第四十六条第一項の規定による退院を許す旨の決定の告知を受けたときは、その者がその告知を受けた日から起算して七日を超えない範囲内において、その者を出院させるべき日を指定するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="136_2">
+          <ArticleCaption>（第五種少年院在院者の退院の申出）</ArticleCaption>
+          <ArticleTitle>第百三十六条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>少年院の長は、第五種少年院在院者について、第十六条に規定する処遇の段階が最高段階に達し、退院を許すのが相当であると認めるときは、地方更生保護委員会に対し、退院を許すべき旨の申出をしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3633,7 +3660,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1">少年院の長は、保護処分在院者が二十歳に達したときは退院させるものとし、二十歳に達した日の翌日にその者を出院させなければならない。</Sentence>
+              <Sentence Function="main" Num="1">少年院の長は、少年法第二十四条第一項第三号の保護処分（更生保護法第七十二条第一項の規定による措置を含む。）の執行を受けるため少年院に収容されている保護処分在院者が二十歳に達したときは退院させるものとし、二十歳に達した日の翌日にその者を出院させなければならない。</Sentence>
               <Sentence Function="proviso" Num="2">ただし、少年法第二十四条第一項第三号の保護処分に係る同項の決定のあった日から起算して一年を経過していないときは、その日から起算して一年間に限り、その収容を継続することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -3697,7 +3724,7 @@
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>前三項に定めるもののほか、第二項の決定に係る事件の手続は、その性質に反しない限り、少年の保護処分に係る事件の手続の例による。</Sentence>
+              <Sentence>前三項に定めるもののほか、第二項の決定に係る事件の手続は、その性質に反しない限り、十八歳に満たない少年の保護処分に係る事件の手続の例による。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3773,7 +3800,7 @@
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>第百三十七条第一項ただし書の規定により少年院に収容することができる期間又は家庭裁判所が第百三十八条第二項、前条第二項、少年法第二十六条の四第二項若しくは更生保護法第六十八条第三項若しくは第七十二条第二項若しくは第三項の規定により定めた少年院に収容する期間の満了による場合</Sentence>
+                  <Sentence>第百三十七条第一項ただし書の規定により少年院に収容することができる期間又は家庭裁判所が第百三十八条第二項、前条第二項、少年法第二十六条の四第二項若しくは第六十四条第二項若しくは第三項若しくは更生保護法第六十八条第三項若しくは第七十二条第二項若しくは第三項の規定により定めた少年院に収容する期間若しくは収容することができる期間の満了による場合</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence>当該期間の末日の翌日の午前中</Sentence>
@@ -3817,7 +3844,7 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">少年院の長は、出院させるべき在院者が負傷又は疾病により重態であるとき、その他その者の利益のためにやむを得ない事由があるときは、その願い出により、その者が少年院に一時とどまることを許すことができる。</Sentence>
-              <Sentence Num="2">この場合において、その者が更生保護法第四十一条の規定による仮退院を許す旨の決定又は同法第四十六条第一項の規定による退院を許す旨の決定を受けた者であるときは、速やかに、その者が少年院に一時とどまることを許した旨をその仮退院又は退院を許す旨の決定をした地方更生保護委員会に報告しなければならない。</Sentence>
+              <Sentence Num="2">この場合において、その者が更生保護法第四十一条の規定による仮退院を許す旨の決定又は同法第四十六条第一項若しくは第四十七条の二の規定による退院を許す旨の決定を受けた者であるときは、速やかに、その者が少年院に一時とどまることを許した旨をその仮退院又は退院を許す旨の決定をした地方更生保護委員会に報告しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -4108,7 +4135,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502033" AmendLawNum="令和二年五月二九日法律第三三号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年五月二九日法律第三三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4117,6 +4144,29 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この法律は、公布の日から起算して二年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision Extract="true" AmendLawNum="令和三年五月二八日法律第四七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、令和四年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後五年を経過した場合において、この法律による改正後の規定及び民法の一部を改正する法律（平成三十年法律第五十九号）による改正後の規定の施行の状況並びにこれらの規定の施行後の社会情勢及び国民の意識の変化等を踏まえ、罪を犯した十八歳以上二十歳未満の者に係る事件の手続及び処分並びにその者に対する処遇に関する制度の在り方等について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

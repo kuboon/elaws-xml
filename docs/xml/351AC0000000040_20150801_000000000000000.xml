@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="40" Year="51">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="40" Year="51" PromulgateMonth="05" PromulgateDay="29">
   <LawNum>昭和五十一年法律第四十号</LawNum>
   <LawBody>
-    <LawTitle>米州開発銀行への加盟に伴う措置に関する法律</LawTitle>
+    <LawTitle Kana="べいしゅうかいはつぎんこうへのかめいにともなうそちにかんするほうりつ" Abbrev="" AbbrevKana="">米州開発銀行への加盟に伴う措置に関する法律</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -73,7 +73,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="354027" AmendLawNum="昭和五四年五月七日法律第二七号" Id="d852be5a-1904-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五四年五月七日法律第二七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -82,7 +82,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="404018" AmendLawNum="平成四年三月三一日法律第一八号" Id="e16e5b9e-18e5-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成四年三月三一日法律第一八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -91,7 +91,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="409089" AmendLawNum="平成九年六月一八日法律第八九号" Extract="true" Id="3caa344c-47dd-11e5-8803-3ff30d9d42dc">
+    <SupplProvision AmendLawNum="平成九年六月一八日法律第八九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="20" Year="03">
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="20" Year="03" PromulgateMonth="04" PromulgateDay="01">
   <LawNum>平成三年大蔵省令第二十号</LawNum>
   <LawBody>
-    <LawTitle>基礎年金の支払事務の取扱いに関する省令</LawTitle>
+    <LawTitle Kana="きそねんきんのしはらいじむのとりあつかいにかんするしょうれい" Abbrev="" AbbrevKana="">基礎年金の支払事務の取扱いに関する省令</LawTitle>
     <EnactStatement>国民年金法施行令（昭和三十四年政令第百八十四号）第十六条第三項の規定に基づき、この省令を制定する。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -127,7 +127,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="409065" AmendLawNum="平成九年八月二二日大蔵省令第六五号" Extract="true" Id="90a7f292-18cc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成九年八月二二日大蔵省令第六五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -148,7 +148,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412075" AmendLawNum="平成一二年九月二九日大蔵省令第七五号" Extract="true" Id="98856092-18f1-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年九月二九日大蔵省令第七五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -157,7 +157,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="415048" AmendLawNum="平成一五年三月三一日財務省令第四八号" Extract="true" Id="909d8d34-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年三月三一日財務省令第四八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -170,7 +170,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417022" AmendLawNum="平成一七年三月三〇日財務省令第二二号" Extract="true" Id="fb927c4a-18c6-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年三月三〇日財務省令第二二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

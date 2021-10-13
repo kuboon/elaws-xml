@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="62" Year="61">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="62" Year="61" PromulgateMonth="05" PromulgateDay="23">
   <LawNum>昭和六十一年法律第六十二号</LawNum>
   <LawBody>
-    <LawTitle>特定商品等の預託等取引契約に関する法律</LawTitle>
+    <LawTitle Kana="とくていしょうひんとうのよたくとうとりひきけいやくにかんするほうりつ" Abbrev="預託法,預託等取引契約法,特定商品預託法,特定商品等預託法" AbbrevKana="よ,よ,と,と">特定商品等の預託等取引契約に関する法律</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -402,7 +402,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -427,7 +427,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="421049" AmendLawNum="平成二一年六月五日法律第四九号" Extract="true" Id="f626d1ae-f82a-44e4-b4cf-b13f67c27485">
+    <SupplProvision AmendLawNum="平成二一年六月五日法律第四九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

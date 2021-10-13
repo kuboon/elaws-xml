@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="501M60000400001" AmendmentNum="令和元年経済産業省令第一号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="055" Year="40">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="055" Year="40">
   <LawNum>昭和四十年通商産業省令第五十五号</LawNum>
   <LawBody>
     <LawTitle>発電水力流量測定規則</LawTitle>
@@ -8,7 +8,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（測水所の指定）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">水力を原動力とする発電用の電気工作物を設置している者であつて経済産業大臣が指定するもの（以下「測定義務者」という。）は、その電気工作物を設置している河川について、経済産業大臣が指定する測定箇所（以下「測水所」という。）において、その毎日の平均の流量（以下「日平均流量」という。）を測定するものとする。</Sentence>
@@ -18,13 +18,13 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（水位流量曲線の作成）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">測定義務者は、日平均流量の測定にあたり、前条の測水所の水位測定横断線拠標を含む横断面（以下「水位測定横断面」という。）における水位と流量の関係を示す曲線（以下「水位流量曲線」という。）を作成するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
+        <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">測定義務者は、洪水その他の原因により水位測定横断面に変化が生じたと認められるときには、水位流量曲線を修正するものとする。</Sentence>
@@ -34,7 +34,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（水位の測定）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">測定義務者は、水位測定横断面における水位の測定を毎日一時間ごとに行うものとする。</Sentence>
@@ -45,7 +45,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（測水所の日平均流量の測定）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">測水所の日平均流量の測定は、第二条の規定により作成した水位流量曲線と前条の規定により測定した水位に基づき算定することにより行うものとする。</Sentence>
@@ -55,14 +55,14 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（測水所が水力発電所の設置の場所等に属する場合の特則）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">水力発電所（発電機、水車その他の機械器具を施設して電気を発生させる所をいう。以下同じ。）の設置の場所に属する測水所については、第二条から前条までの規定は、適用しない。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、測水所の日平均流量の測定は、当該測水所に係る水力発電所の水車を通過する流量に基づき算定することにより行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
+        <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">管路の設置の場所に属する測水所については、第二条から前条までの規定は、適用しない。</Sentence>
@@ -72,7 +72,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="6">
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -81,7 +81,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="7">
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -90,7 +90,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="8">
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -99,7 +99,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="9">
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -108,7 +108,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="10">
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -117,7 +117,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="11">
         <ArticleTitle>第十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -126,7 +126,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="12">
         <ArticleTitle>第十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -136,7 +136,7 @@
       <Article Delete="false" Hide="false" Num="13">
         <ArticleCaption>（測定の結果の報告）</ArticleCaption>
         <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">測定義務者は、毎年の日平均流量の測定の結果に関し、翌年の九月末日までに、次の各号に掲げる書類をその測水所の設置の場所を管轄する経済産業局長に提出しなければならない。</Sentence>
@@ -155,7 +155,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
+        <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の場合において、経済産業大臣がそれぞれの流量を合計すべきものとして二以上の測水所を指定したときは、同項第一号及び第二号に掲げる書類のほか、当該測水所における合計流量により作成した同項第二号に掲げる書類を提出しなければならない。</Sentence>
@@ -165,7 +165,7 @@
       <Article Delete="false" Hide="false" Num="14">
         <ArticleCaption>（測水所調書）</ArticleCaption>
         <ArticleTitle>第十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">測定義務者は、流量の測定を開始したときは、様式第三の測水所調書を、当該測水所調書の記載事項に変更があつたときは、変更があつた事項を、遅滞なく、その測水所の設置の場所を管轄する経済産業局長に届け出なければならない。</Sentence>
@@ -175,7 +175,7 @@
       <Article Delete="false" Hide="false" Num="15">
         <ArticleCaption>（フレキシブルディスクによる手続）</ArticleCaption>
         <ArticleTitle>第十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第十三条第一項又は第二項の書類の提出については、これらの書類に代えて、当該書類の作成に必要となる事項を様式第四により記録したフレキシブルディスク及び様式第五により作成したフレキシブルディスク提出票を提出することにより行うことができる。</Sentence>
@@ -185,7 +185,7 @@
       <Article Delete="false" Hide="false" Num="16">
         <ArticleCaption>（フレキシブルディスクの構造）</ArticleCaption>
         <ArticleTitle>第十六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前条のフレキシブルディスクは、次の各号の一に該当するものでなければならない。</Sentence>
@@ -207,7 +207,7 @@
       <Article Delete="false" Hide="false" Num="17">
         <ArticleCaption>（フレキシブルディスクの記録方式）</ArticleCaption>
         <ArticleTitle>第十七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第十五条のフレキシブルディスクへの記録は、次に掲げる方式に従つてしなければならない。</Sentence>
@@ -229,7 +229,7 @@
       <Article Delete="false" Hide="false" Num="18">
         <ArticleCaption>（フレキシブルディスクにはり付ける書面）</ArticleCaption>
         <ArticleTitle>第十八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第十五条のフレキシブルディスクには、日本工業規格Ｘ六二二一号（昭和六十二年）又はＸ六二二三号（昭和六十二年）に規定するラベル領域に、次に掲げる事項を記載した書面をはり付けなければならない。</Sentence>
@@ -251,25 +251,25 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
+      <Paragraph Hide="false" Num="1">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、電気事業法の施行の日（昭和四十年七月一日）から施行し、第十三条の規定は、提出期限が昭和四十一年九月末日である書類から適用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2" OldStyle="false">
+      <Paragraph Hide="false" Num="2">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の際現に流量調査基準（昭和三十六年公第六千七百十七号。以下「基準」という。）第二条第三号に規定する調査義務者（水力を原動力とする電気工作物を設置している河川に係るものに限る。）は測定義務者と、同条第二号に規定する測水所（一の測水所内に流量の調査をしている箇所が二以上ある場合は、それぞれの箇所）は第一条に規定する測水所とみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3" OldStyle="false">
+      <Paragraph Hide="false" Num="3">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">第十三条の規定の適用については、基準の規定によりした流量の調査の結果は、この省令の規定によりした測定の結果とみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="4" OldStyle="false">
+      <Paragraph Hide="false" Num="4">
         <ParagraphNum>４</ParagraphNum>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">第十四条の規定の適用については、第二項の規定により測水所とみなされた場所に係る基準様式第二による書類は、同条第一項の測水所調書とみなす。</Sentence>
@@ -277,62 +277,62 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="354024" AmendLawNum="昭和五四年三月二八日通商産業省令第二四号" Id="bb060d7c-18fd-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五四年三月二八日通商産業省令第二四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
+      <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="401061" AmendLawNum="平成元年九月一日通商産業省令第六一号" Id="bb312962-18fd-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成元年九月一日通商産業省令第六一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
+      <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="406029" AmendLawNum="平成六年三月三〇日通商産業省令第二九号" Id="bb5c4598-18fd-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成六年三月三〇日通商産業省令第二九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
+      <Paragraph Hide="false" Num="1">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成六年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2" OldStyle="false">
+      <Paragraph Hide="false" Num="2">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">流速計係数試験規則（大正十年逓信省令第五十二号）は、廃止する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="407086" AmendLawNum="平成七年一〇月一八日通商産業省令第八六号" Id="bb878794-18fd-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成七年一〇月一八日通商産業省令第八六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
+      <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、電気事業法の一部を改正する法律（平成七年法律第七十五号）の施行の日（平成七年十二月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="408024" AmendLawNum="平成八年三月二九日通商産業省令第二四号" Id="bbb27e36-18fd-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成八年三月二九日通商産業省令第二四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
+      <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="410034" AmendLawNum="平成一〇年三月三〇日通商産業省令第三四号" Extract="true" Id="5560f2ae-d3b7-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一〇年三月三〇日通商産業省令第三四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成十年四月一日から施行する。</Sentence>
@@ -340,27 +340,27 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411052" AmendLawNum="平成一一年四月一日通商産業省令第五二号" Id="bc08a14e-18fd-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年四月一日通商産業省令第五二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
+      <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十一年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412310" AmendLawNum="平成一二年一〇月三一日通商産業省令第三一〇号" Id="bc33bef6-18fd-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年一〇月三一日通商産業省令第三一〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
+      <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十三年一月六日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501001" AmendLawNum="令和元年五月七日経済産業省令第一号" Id="a43ad55a-7239-11e9-9807-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年五月七日経済産業省令第一号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
+      <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>

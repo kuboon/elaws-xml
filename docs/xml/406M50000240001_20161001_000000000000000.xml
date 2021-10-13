@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="1" Year="06">
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="1" Year="06" PromulgateMonth="03" PromulgateDay="25">
   <LawNum>平成六年大蔵省・農林水産省令第一号</LawNum>
   <LawBody>
-    <LawTitle>農水産業協同組合の優先出資に関する命令</LawTitle>
+    <LawTitle Kana="のうすいさんぎょうきょうどうくみあいのゆうせんしゅっしにかんするめいれい" Abbrev="" AbbrevKana="">農水産業協同組合の優先出資に関する命令</LawTitle>
     <EnactStatement>協同組織金融機関の優先出資に関する法律施行令（平成五年政令第三百九十八号）第一条から第五条まで、第八条及び第九条の規定に基づき、農林中央金庫の優先出資に関する省令を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -1448,7 +1448,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412010" AmendLawNum="平成一二年六月二六日総理府・大蔵省・農林水産省令第一〇号" Id="d3c8e314-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年六月二六日総理府・大蔵省・農林水産省令第一〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1457,7 +1457,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412003" AmendLawNum="平成一二年六月三〇日総理府・農林水産省令第三号" Extract="true" Id="7e5ea528-1907-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年六月三〇日総理府・農林水産省令第三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1470,7 +1470,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="413021" AmendLawNum="平成一三年一二月二七日内閣府・農林水産省令第二一号" Id="f5a8c752-1912-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年一二月二七日内閣府・農林水産省令第二一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1479,7 +1479,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414013" AmendLawNum="平成一四年一二月二七日内閣府・農林水産省令第一三号" Extract="true" Id="08e8b958-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年一二月二七日内閣府・農林水産省令第一三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1492,7 +1492,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415005" AmendLawNum="平成一五年四月三〇日内閣府・農林水産省令第五号" Id="d4802920-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年四月三〇日内閣府・農林水産省令第五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1501,7 +1501,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417002" AmendLawNum="平成一七年三月二九日内閣府・農林水産省令第二号" Id="08eb580c-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年三月二九日内閣府・農林水産省令第二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1510,7 +1510,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418008" AmendLawNum="平成一八年四月二八日内閣府・農林水産省令第八号" Id="d4dbeaee-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年四月二八日内閣府・農林水産省令第八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1519,7 +1519,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="419009" AmendLawNum="平成一九年八月一五日内閣府・農林水産省令第九号" Extract="true" Id="97ed079a-1890-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年八月一五日内閣府・農林水産省令第九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1532,7 +1532,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="420003" AmendLawNum="平成二〇年二月二八日内閣府・農林水産省令第三号" Id="08f33a90-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年二月二八日内閣府・農林水産省令第三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1541,7 +1541,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="420007" AmendLawNum="平成二〇年一〇月一日内閣府・農林水産省令第七号" Id="98765b6c-1890-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年一〇月一日内閣府・農林水産省令第七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1550,7 +1550,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="420012" AmendLawNum="平成二〇年一二月一一日内閣府・農林水産省令第一二号" Id="98badea4-1890-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年一二月一一日内閣府・農林水産省令第一二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1559,7 +1559,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="422003" AmendLawNum="平成二二年四月一五日内閣府・農林水産省令第三号" Id="99cd3c38-1890-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二二年四月一五日内閣府・農林水産省令第三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -1574,7 +1574,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427006" AmendLawNum="平成二七年四月二八日内閣府・農林水産省令第六号" Extract="true" Id="08fac94a-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年四月二八日内閣府・農林水産省令第六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

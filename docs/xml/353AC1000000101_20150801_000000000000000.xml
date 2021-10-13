@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="101" Year="53">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="101" Year="53" PromulgateMonth="11" PromulgateDay="11">
   <LawNum>昭和五十三年法律第百一号</LawNum>
   <LawBody>
-    <LawTitle>無限連鎖講の防止に関する法律</LawTitle>
+    <LawTitle Kana="むげんれんさこうのぼうしにかんするほうりつ" Abbrev="ネズミ講防止法" AbbrevKana="ネ">無限連鎖講の防止に関する法律</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -82,7 +82,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="363024" AmendLawNum="昭和六三年五月二日法律第二四号" Extract="false" Id="1b1203e8-b8dc-48c0-91c4-71ae82d5cd7a" Type="Amend">
+    <SupplProvision AmendLawNum="昭和六三年五月二日法律第二四号" Extract="false" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>

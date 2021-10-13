@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="122" Year="42">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="122" Year="42" PromulgateMonth="05" PromulgateDay="29" ScheduledEnforcementDate="2022/11/28">
   <LawNum>昭和四十二年法律第百二十二号</LawNum>
   <LawBody>
-    <LawTitle>通関業法</LawTitle>
+    <LawTitle Kana="つうかんぎょうほう" Abbrev="" AbbrevKana="">通関業法</LawTitle>
     <EnactStatement>税関貨物取扱人法（明治三十四年法律第二十八号）の全部を改正する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -190,7 +190,7 @@
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>第一項の規定は、弁護士法（昭和二十四年法律第二百五号）第三条第一項の規定により弁護士が行う職務、同法第三十条の五の規定により弁護士法人が行う業務若しくは外国弁護士による法律事務の取扱い等に関する法律（昭和六十一年法律第六十六号）第七十一条の規定により弁護士・外国法事務弁護士共同法人が行う業務又は弁理士法（平成十二年法律第四十九号）第四条第二項（第一号に係る部分に限る。）の規定により弁理士が行う業務若しくは同法第四十条の規定により特許業務法人が行う業務（同法第四条第二項第一号に掲げる事務に係るものに限る。）については、適用しない。</Sentence>
+                <Sentence>第一項の規定は、弁護士法（昭和二十四年法律第二百五号）第三条第一項の規定により弁護士が行う職務、同法第三十条の五の規定により弁護士法人が行う業務若しくは外国弁護士による法律事務の取扱い等に関する法律（昭和六十一年法律第六十六号）第七十一条の規定により弁護士・外国法事務弁護士共同法人が行う業務又は弁理士法（平成十二年法律第四十九号）第四条第二項（第一号に係る部分に限る。）の規定により弁理士が行う業務若しくは同法第四十条の規定により弁理士法人が行う業務（同法第四条第二項第一号に掲げる事務に係るものに限る。）については、適用しない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -568,7 +568,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>通関業者は、他人の依頼に応じて税関官署に提出する通関書類のうち政令で定めるもの（通関士が通関業務に従事している営業所における通関業務に係るものに限る。）については、通関士にその内容を審査させ、かつ、これに記名押印させなければならない。</Sentence>
+                <Sentence>通関業者は、他人の依頼に応じて税関官署に提出する通関書類のうち政令で定めるもの（通関士が通関業務に従事している営業所における通関業務に係るものに限る。）については、通関士にその内容を審査させ、かつ、これに記名させなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -635,12 +635,12 @@
             </Paragraph>
           </Article>
           <Article Num="21">
-            <ArticleCaption>（押印等の効力）</ArticleCaption>
+            <ArticleCaption>（記名等の効力）</ArticleCaption>
             <ArticleTitle>第二十一条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>第十四条の規定による通関士の記名押印又は第十五条若しくは第十六条の規定による税関長の措置の有無は、これらの条に規定する通関書類又は更正若しくは検査に係る処分の効力に影響を及ぼすものと解してはならない。</Sentence>
+                <Sentence>第十四条の規定による通関士の記名又は第十五条若しくは第十六条の規定による税関長の措置の有無は、これらの条に規定する通関書類又は更正若しくは検査に係る処分の効力に影響を及ぼすものと解してはならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1232,7 +1232,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="359023" AmendLawNum="昭和五九年五月一日法律第二三号" Extract="true" Id="65f507c2-a103-4c54-85c3-85675b1e47d3">
+    <SupplProvision AmendLawNum="昭和五九年五月一日法律第二三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -1242,7 +1242,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="404017" AmendLawNum="平成四年三月三一日法律第一七号" Extract="true" Id="4d01be34-18ad-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成四年三月三一日法律第一七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1255,7 +1255,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="405089" AmendLawNum="平成五年一一月一二日法律第八九号" Extract="true" Id="ca5fc5b8-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成五年一一月一二日法律第八九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1308,7 +1308,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="406025" AmendLawNum="平成六年三月三一日法律第二五号" Extract="true" Id="4d49ca12-18ad-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成六年三月三一日法律第二五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1341,7 +1341,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="407091" AmendLawNum="平成七年五月一二日法律第九一号" Extract="true" Id="8a5eef48-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成七年五月一二日法律第九一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1354,7 +1354,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="409059" AmendLawNum="平成九年五月二三日法律第五九号" Extract="true" Id="ca61cb42-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成九年五月二三日法律第五九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1367,7 +1367,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411151" AmendLawNum="平成一一年一二月八日法律第一五一号" Extract="true" Id="8a6b58dc-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月八日法律第一五一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1399,7 +1399,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1424,7 +1424,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412026" AmendLawNum="平成一二年三月三一日法律第二六号" Extract="true" Id="b58c9e1e-1886-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年三月三一日法律第二六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1438,7 +1438,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="413021" AmendLawNum="平成一三年三月三一日法律第二一号" Extract="true" Id="446298bc-1889-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年三月三一日法律第二一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1451,7 +1451,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="413041" AmendLawNum="平成一三年六月八日法律第四一号" Extract="true" Id="2b75884a-d3b9-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年六月八日法律第四一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1464,7 +1464,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414152" AmendLawNum="平成一四年一二月一三日法律第一五二号" Extract="true" Id="05927a91-7c2c-479d-bfdd-e815d30bf24e">
+    <SupplProvision AmendLawNum="平成一四年一二月一三日法律第一五二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1497,7 +1497,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416076" AmendLawNum="平成一六年六月二日法律第七六号" Extract="true" Id="ecbc3a7c-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月二日法律第七六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1530,7 +1530,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416150" AmendLawNum="平成一六年一二月一日法律第一五〇号" Extract="true" Id="bcf3cdbc-612f-4b1c-b1a5-3f6d51b898fa">
+    <SupplProvision AmendLawNum="平成一六年一二月一日法律第一五〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1553,7 +1553,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417022" AmendLawNum="平成一七年三月三一日法律第二二号" Extract="true" Id="4a7017ba-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年三月三一日法律第二二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1584,7 +1584,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418017" AmendLawNum="平成一八年三月三一日法律第一七号" Extract="true" Id="eea5688e-d3ba-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年三月三一日法律第一七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1609,7 +1609,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419020" AmendLawNum="平成一九年三月三一日法律第二〇号" Extract="true" Id="eea767e2-d3ba-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年三月三一日法律第二〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1651,7 +1651,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419091" AmendLawNum="平成一九年六月二〇日法律第九一号" Extract="true" Id="eea95a7a-d3ba-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年六月二〇日法律第九一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1664,7 +1664,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="421014" AmendLawNum="平成二一年三月三一日法律第一四号" Extract="true" Id="eeab3124-d3ba-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二一年三月三一日法律第一四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1695,7 +1695,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426069" AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true" Id="089695bd-1a35-40ad-aae2-abd96d597d6c">
+    <SupplProvision AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1760,7 +1760,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="428016" AmendLawNum="平成二八年三月三一日法律第一六号" Extract="true" Id="00c0b260-4a5d-cc60-bffe-b9af4c0338f4">
+    <SupplProvision AmendLawNum="平成二八年三月三一日法律第一六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1884,7 +1884,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="429002" AmendLawNum="平成二九年三月三一日法律第二号" Extract="true" Id="f0bafd32-19d6-11e7-9ad8-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成二九年三月三一日法律第二号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1925,7 +1925,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="429004" AmendLawNum="平成二九年三月三一日法律第四号" Extract="true" Id="af9825fc-19f7-11e7-bb35-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成二九年三月三一日法律第四号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1978,7 +1978,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501037" AmendLawNum="令和元年六月一四日法律第三七号" Extract="true" Id="336d780c-93f2-11e9-83b1-005056b30d52">
+    <SupplProvision AmendLawNum="令和元年六月一四日法律第三七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2033,7 +2033,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502033" AmendLawNum="令和二年五月二九日法律第三三号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年五月二九日法律第三三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2042,6 +2042,74 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この法律は、公布の日から起算して二年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision Extract="true" AmendLawNum="令和三年五月一九日法律第三七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和三年九月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第二十七条（住民基本台帳法別表第一から別表第五までの改正規定に限る。）、第四十五条、第四十七条及び第五十五条（行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一及び別表第二の改正規定（同表の二十七の項の改正規定を除く。）に限る。）並びに附則第八条第一項、第五十九条から第六十三条まで、第六十七条及び第七十一条から第七十三条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="71">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="72">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="73">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第七十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、行政機関等に係る申請、届出、処分の通知その他の手続において、個人の氏名を平仮名又は片仮名で表記したものを利用して当該個人を識別できるようにするため、個人の氏名を平仮名又は片仮名で表記したものを戸籍の記載事項とすることを含め、この法律の公布後一年以内を目途としてその具体的な方策について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision Extract="true" AmendLawNum="令和三年五月二一日法律第四二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

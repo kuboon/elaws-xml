@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="25" Year="21">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="25" Year="21" PromulgateMonth="06" PromulgateDay="22">
   <LawNum>平成二十一年法律第二十五号</LawNum>
   <LawBody>
-    <LawTitle>米穀の新用途への利用の促進に関する法律</LawTitle>
+    <LawTitle Kana="べいこくのしんようとへのりようのそくしんにかんするほうりつ" Abbrev="米粉・エサ米法,米粉・飼料用米法" AbbrevKana="こ,こ">米穀の新用途への利用の促進に関する法律</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -623,7 +623,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="422023" AmendLawNum="平成二二年四月九日法律第二三号" Extract="true" Id="c48dcff5-a472-41ec-819f-45a8c3cbaf79" Type="Amend">
+    <SupplProvision AmendLawNum="平成二二年四月九日法律第二三号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -658,7 +658,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="425076" AmendLawNum="平成二五年一一月二二日法律第七六号" Extract="true" Id="31fa62ee-96fc-4076-a37d-ab7746cc1807" Type="Amend">
+    <SupplProvision AmendLawNum="平成二五年一一月二二日法律第七六号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -671,7 +671,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430062" AmendLawNum="平成三〇年六月二二日法律第六二号" Extract="true" Id="f57ab41a-79c6-11e8-a9b8-005056b30d52">
+    <SupplProvision AmendLawNum="平成三〇年六月二二日法律第六二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

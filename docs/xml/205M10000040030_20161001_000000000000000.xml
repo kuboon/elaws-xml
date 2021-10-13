@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Taisho" Lang="ja" LawType="MinisterialOrdinance" Num="030" Year="05">
+<Law Era="Taisho" Lang="ja" LawType="MinisterialOrdinance" Num="030" Year="05" PromulgateMonth="12" PromulgateDay="21">
   <LawNum>大正五年大蔵省令第三十号</LawNum>
   <LawBody>
-    <LawTitle>大正五年大蔵省令第三十号（歳入納付ニ使用スル証券ニ関スル件ニ依ル証券ノ納付ニ関スル制限ノ件）</LawTitle>
+    <LawTitle Kana="さいにゅうのうふにしようするしょうけんにかんするけんによるしょうけんののうふにかんするせいげんのけん" Abbrev="" AbbrevKana="">大正五年大蔵省令第三十号（歳入納付ニ使用スル証券ニ関スル件ニ依ル証券ノ納付ニ関スル制限ノ件）</LawTitle>
     <Preamble>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -20,8 +20,8 @@
             <Sentence>政府若ハ地方公共団体ノ振出シタル小切手又ハ日本銀行の公庫預託金取扱規程（昭和二十五年大蔵省令第三十一号）第一条の二ニ規定スル公庫ノ振出シタル小切手ニシテ同規程第三条ノ適用ヲ受クルモノハ其ノ振出日付ヨリ一年ヲ経過セサルモノニシテ且指図禁止ノ旨ノ記載ナキモノナルコトヲ要ス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Num="2" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>前項ニ規定スル小切手以外ノ小切手ハ手形交換所ニ加入シタル金融機関又ハ当該金融機関ニ手形交換ヲ委託シタル金融機関ニ宛テタルモノニシテソノ呈示期間内ニ支払ノタメ呈示スルコトヲ得ルモノナルコトヲ要ス</Sentence>
           </ParagraphSentence>
@@ -53,14 +53,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Num="2" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>納入ノ告知ヲ為ス官署ハ保証人又ハ担保物アル租税及歳入ニシテ其ノ告知額ヲ納付スルモ直ニ保証証書又ハ担保物ノ返還ヲ要セサルモノニ限リ前項第三号ノ承認ヲ与フルコトヲ得</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="3">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Num="3" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>出納官吏ニ於テ第一項第一号ニ依リ証券ヲ受領シタルトキハ遅滞ナク其ノ支払人ニ呈示シ其ノ支払ヲ受ケタル後之ヲ日本銀行ニ払込ムベシ</Sentence>
           </ParagraphSentence>
@@ -85,7 +85,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="211034" AmendLawNum="大正一一年四月一日大蔵省令第三四号" Id="daf6bcae-1938-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="大正一一年四月一日大蔵省令第三四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -94,7 +94,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="215031" AmendLawNum="大正一五年八月二八日大蔵省令第三一号" Id="db279356-1938-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="大正一五年八月二八日大蔵省令第三一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -103,7 +103,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="315052" AmendLawNum="昭和一五年七月一三日大蔵省令第五二号" Id="db59a35a-1938-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和一五年七月一三日大蔵省令第五二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -112,7 +112,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="329040" AmendLawNum="昭和二九年五月三一日大蔵省令第四〇号" Extract="true" Id="d854c422-18c6-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二九年五月三一日大蔵省令第四〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -121,7 +121,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="339063" AmendLawNum="昭和三九年九月四日大蔵省令第六三号" Id="d87b14b0-18c6-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三九年九月四日大蔵省令第六三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -130,7 +130,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="343052" AmendLawNum="昭和四三年一〇月七日大蔵省令第五二号" Extract="true" Id="fd623510-18c6-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四三年一〇月七日大蔵省令第五二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -139,7 +139,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="352049" AmendLawNum="昭和五二年一一月一六日大蔵省令第四九号" Id="e5d85d70-18d5-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五二年一一月一六日大蔵省令第四九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -148,7 +148,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="362012" AmendLawNum="昭和六二年三月二七日大蔵省令第一二号" Extract="true" Id="ce60d490-d3bb-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六二年三月二七日大蔵省令第一二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -161,7 +161,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411062" AmendLawNum="平成一一年六月三〇日大蔵省令第六二号" Extract="true" Id="911c4b74-18cc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年六月三〇日大蔵省令第六二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -174,7 +174,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416048" AmendLawNum="平成一六年六月三〇日財務省令第四八号" Extract="true" Id="92788014-18cc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月三〇日財務省令第四八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

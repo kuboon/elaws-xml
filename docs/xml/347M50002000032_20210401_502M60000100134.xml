@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="32" Year="47">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="32" Year="47" PromulgateMonth="07" PromulgateDay="01">
   <LawNum>昭和四十七年労働省令第三十二号</LawNum>
   <LawBody>
-    <LawTitle>労働安全衛生規則</LawTitle>
+    <LawTitle Kana="ろうどうあんぜんえいせいきそく" Abbrev="安衛則" AbbrevKana="あ">労働安全衛生規則</LawTitle>
     <EnactStatement>労働安全衛生法（昭和四十七年法律第五十七号）及び労働安全衛生法施行令（昭和四十七年政令第三百十八号）の規定に基づき、並びに同法を実施するため、労働安全衛生規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -15640,146 +15640,45 @@
                   <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">鋼材の許容座屈応力の値は、次の式により計算を行つて得た値以下とすること。</Sentence>
                   </ItemSentence>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">
-                          <ArithFormula>ｌ／ｉ≦Λ</ArithFormula>の場合</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">
-                          <ArithFormula>бｃ＝（（１－０．４（（ｌ／ｉ）／Λ）<Sup>２</Sup>）／ν）Ｆ</ArithFormula>
-                        </Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">
-                          <ArithFormula>ｌ／ｉ＞Λ</ArithFormula>の場合</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">
-                          <ArithFormula>бｃ＝（０．２９／（（ｌ／ｉ）／Λ）<Sup>２</Sup>）Ｆ</ArithFormula>
-                        </Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Sentence Num="6" WritingMode="vertical">（これらの式において、ｌ、ｉ、<ArithFormula>Λ</ArithFormula>、<ArithFormula>бｃ</ArithFormula>、<ArithFormula>ν</ArithFormula>及びＦは、それぞれ次の値を表すものとする。</Sentence>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">ｌ</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">支柱の長さ（支柱が水平方向の変位を拘束されているときは、拘束点間の長さのうちの最大の長さ）（単位</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">センチメートル）</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">ｉ</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">支柱の最小断面二次半径（単位</Sentence>
-                      </Column>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">センチメートル）</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">
-                          <ArithFormula>Λ</ArithFormula>
-                        </Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">
-                          <ArithFormula>限界細長比＝√（π<Sup>２</Sup>Ｅ／０．６Ｆ）</ArithFormula>
-                        </Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">　ただし、π</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">円周率</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">　　　　Ｅ</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">当該鋼材のヤング係数（単位</Sentence>
-                      </Column>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">ニュートン毎平方センチメートル）</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">
-                          <ArithFormula>бｃ</ArithFormula>
-                        </Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">許容座屈応力の値（単位</Sentence>
-                      </Column>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">ニュートン毎平方センチメートル）</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">
-                          <ArithFormula>ν</ArithFormula>
-                        </Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">
-                          <ArithFormula>安全率＝１．５＋０．５７（（ｌ／ｉ）／Λ）<Sup>２</Sup></ArithFormula>
-                        </Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">Ｆ</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">当該鋼材の降伏強さの値又は引張強さの値の四分の三の値のうちのいずれか小さい値（単位</Sentence>
-                      </Column>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">ニュートン毎平方センチメートル））</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
+                    <List><ListSentence><Sentence Num="2" WritingMode="vertical">
+                      <ArithFormula>ｌ／ｉ≦Λ</ArithFormula>の場合　<ArithFormula>бｃ＝（（１－０．４（（ｌ／ｉ）／Λ）<Sup>２</Sup>）／ν）Ｆ</ArithFormula>
+                    </Sentence>
+                    </ListSentence></List>
+<List><ListSentence><Sentence Num="4" WritingMode="vertical">
+                      <ArithFormula>ｌ／ｉ＞Λ</ArithFormula>の場合　<ArithFormula>бｃ＝（０．２９／（（ｌ／ｉ）／Λ）<Sup>２</Sup>）Ｆ</ArithFormula>
+                    </Sentence>
+                    </ListSentence></List>
+<List><ListSentence><Sentence Num="6" WritingMode="vertical">（これらの式において、ｌ、ｉ、<ArithFormula>Λ</ArithFormula>、<ArithFormula>бｃ</ArithFormula>、<ArithFormula>ν</ArithFormula>及びＦは、それぞれ次の値を表すものとする。</Sentence>
+                    </ListSentence></List>
+<List><ListSentence>
+                      <Sentence Num="1" WritingMode="vertical">ｌ　支柱の長さ（支柱が水平方向の変位を拘束されているときは、拘束点間の長さのうちの最大の長さ）（単位　センチメートル）</Sentence>
+                    </ListSentence></List>
+<List><ListSentence>
+                      <Sentence Num="1" WritingMode="vertical">ｉ　支柱の最小断面二次半径（単位　センチメートル）</Sentence>
+                    </ListSentence></List>
+<List><ListSentence>
+                      <Sentence Num="1" WritingMode="vertical">
+                        <ArithFormula>Λ</ArithFormula>　<ArithFormula>限界細長比＝√（π<Sup>２</Sup>Ｅ／０．６Ｆ）</ArithFormula>
+                      </Sentence>
+                    </ListSentence></List>
+<List><ListSentence>
+                      <Sentence Num="1" WritingMode="vertical">ただし、π　円周率</Sentence>
+                    </ListSentence></List>
+<List><ListSentence>
+                      <Sentence Num="1" WritingMode="vertical">Ｅ　当該鋼材のヤング係数（単位　ニュートン毎平方センチメートル）</Sentence>
+                    </ListSentence></List>
+<List><ListSentence>
+                      <Sentence Num="1" WritingMode="vertical">
+                        <ArithFormula>бｃ</ArithFormula>　許容座屈応力の値（単位　ニュートン毎平方センチメートル）</Sentence>
+                    </ListSentence></List>
+<List><ListSentence>
+                      <Sentence Num="1" WritingMode="vertical">
+                        <ArithFormula>ν</ArithFormula>　<ArithFormula>安全率＝１．５＋０．５７（（ｌ／ｉ）／Λ）<Sup>２</Sup></ArithFormula>
+                      </Sentence>
+                    </ListSentence></List>
+<List><ListSentence>
+                      <Sentence Num="1" WritingMode="vertical">Ｆ　当該鋼材の降伏強さの値又は引張強さの値の四分の三の値のうちのいずれか小さい値（単位　ニュートン毎平方センチメートル））</Sentence>
+                    </ListSentence></List>
                 </Item>
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
@@ -15871,89 +15770,30 @@
                   <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">木材の繊維方向の許容座屈応力の値は、次の式により計算を行つて得た値以下とすること。</Sentence>
                   </ItemSentence>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">
-                          <ArithFormula>ｌ<Sub>ｋ</Sub>／ｉ≦１００</ArithFormula>の場合</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">
-                          <ArithFormula>ｆ<Sub>ｋ</Sub>＝ｆ<Sub>ｃ</Sub>（１－０．００７（ｌ<Sub>ｋ</Sub>／ｉ））</ArithFormula>
-                        </Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">
-                          <ArithFormula>ｌ<Sub>ｋ</Sub>／ｉ＞１００</ArithFormula>の場合</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">
-                          <ArithFormula>ｆ<Sub>ｋ</Sub>＝０．３ｆ<Sub>ｃ</Sub>／（ｌ<Sub>ｋ</Sub>／１００ｉ）<Sup>２</Sup></ArithFormula>
-                        </Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Sentence Num="2" WritingMode="vertical">（これらの式において、ｌ<Sub>ｋ</Sub>、ｉ、ｆ<Sub>ｃ</Sub>及びｆ<Sub>ｋ</Sub>は、それぞれ次の値を表すものとする。</Sentence>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">ｌ<Sub>ｋ</Sub></Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">支柱の長さ（支柱が水平方向の変位を拘束されているときは、拘束点間の長さのうち最大の長さ）（単位</Sentence>
-                      </Column>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">センチメートル）</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">ｉ</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">支柱の最小断面二次半径（単位</Sentence>
-                      </Column>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">センチメートル）</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">ｆ<Sub>ｃ</Sub></Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">許容圧縮応力の値（単位</Sentence>
-                      </Column>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">ニュートン毎平方センチメートル）</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">ｆ<Sub>ｋ</Sub></Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">許容座屈応力の値（単位</Sentence>
-                      </Column>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">ニュートン毎平方センチメートル））</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
+                    <List><ListSentence>
+                      <Sentence Num="1" WritingMode="vertical">
+                        <ArithFormula>ｌ<Sub>ｋ</Sub>／ｉ≦１００</ArithFormula>の場合　<ArithFormula>ｆ<Sub>ｋ</Sub>＝ｆ<Sub>ｃ</Sub>（１－０．００７（ｌ<Sub>ｋ</Sub>／ｉ））</ArithFormula>
+                      </Sentence>
+                    </ListSentence></List>
+<List><ListSentence>
+                      <Sentence Num="1" WritingMode="vertical">
+                        <ArithFormula>ｌ<Sub>ｋ</Sub>／ｉ＞１００</ArithFormula>の場合　<ArithFormula>ｆ<Sub>ｋ</Sub>＝０．３ｆ<Sub>ｃ</Sub>／（ｌ<Sub>ｋ</Sub>／１００ｉ）<Sup>２</Sup></ArithFormula>
+                      </Sentence>
+                      </ListSentence></List>
+<List><ListSentence><Sentence Num="2" WritingMode="vertical">（これらの式において、ｌ<Sub>ｋ</Sub>、ｉ、ｆ<Sub>ｃ</Sub>及びｆ<Sub>ｋ</Sub>は、それぞれ次の値を表すものとする。</Sentence>
+                    </ListSentence></List>
+<List><ListSentence>
+                      <Sentence Num="1" WritingMode="vertical">ｌ<Sub>ｋ</Sub>　支柱の長さ（支柱が水平方向の変位を拘束されているときは、拘束点間の長さのうち最大の長さ）（単位　センチメートル）</Sentence>
+                    </ListSentence></List>
+<List><ListSentence>
+                      <Sentence Num="1" WritingMode="vertical">ｉ　支柱の最小断面二次半径（単位　センチメートル）</Sentence>
+                    </ListSentence></List>
+<List><ListSentence>
+                      <Sentence Num="1" WritingMode="vertical">ｆ<Sub>ｃ</Sub>　許容圧縮応力の値（単位　ニュートン毎平方センチメートル）</Sentence>
+                    </ListSentence></List>
+<List><ListSentence>
+                      <Sentence Num="1" WritingMode="vertical">ｆ<Sub>ｋ</Sub>　許容座屈応力の値（単位　ニュートン毎平方センチメートル））</Sentence>
+                    </ListSentence></List>
                 </Item>
               </Paragraph>
             </Article>
@@ -30448,12 +30288,106 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">昭和六十三年十月一日から昭和六十四年九月三十日までの間における新安衛則様式第十一号及び第十二号の適用については、新安衛則様式第十一号（表面）中「
-          <QuoteStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="solid" BorderRight="solid"><Sentence Num="1" WritingMode="vertical">二　衛生管理</Sentence></TableColumn></TableRow><TableRow><TableColumn BorderBottom="solid" BorderRight="solid"><Sentence Num="1" WritingMode="vertical">一　衛生管理</Sentence></TableColumn></TableRow></Table></QuoteStruct>」とあるのは「
-          <QuoteStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="solid" BorderRight="solid"><Sentence Num="1" WritingMode="vertical">衛生管理</Sentence></TableColumn></TableRow></Table></QuoteStruct>」と、新安衛則様式第十二号（１）中「
-          <QuoteStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="solid" BorderRight="solid"><Sentence Num="1" WritingMode="vertical">二　衛生管理</Sentence></TableColumn></TableRow><TableRow><TableColumn BorderBottom="solid" BorderRight="solid"><Sentence Num="1" WritingMode="vertical">一　衛生管理</Sentence></TableColumn></TableRow></Table></QuoteStruct>」とあるのは「
-          <QuoteStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="solid" BorderRight="solid"><Sentence Num="1" WritingMode="vertical">衛生管理</Sentence></TableColumn></TableRow></Table></QuoteStruct>」と、同様式（２）中「
-          <QuoteStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="solid" BorderRight="solid"><Sentence Num="1" WritingMode="vertical">５０</Sentence></TableColumn><TableColumn BorderBottom="solid" BorderRight="solid"><Sentence Num="1" WritingMode="vertical">第一種衛生管理者</Sentence></TableColumn></TableRow><TableRow><TableColumn BorderBottom="solid" BorderRight="solid"><Sentence Num="1" WritingMode="vertical">５１</Sentence></TableColumn><TableColumn BorderBottom="solid" BorderRight="solid"><Sentence Num="1" WritingMode="vertical">衛生工学衛生管理者</Sentence></TableColumn></TableRow><TableRow><TableColumn BorderBottom="solid" BorderRight="solid"><Sentence Num="1" WritingMode="vertical">５２</Sentence></TableColumn><TableColumn BorderBottom="solid" BorderRight="solid"><Sentence Num="1" WritingMode="vertical">第二種衛生管理者</Sentence></TableColumn></TableRow></Table></QuoteStruct>」とあるのは「
-          <QuoteStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="solid" BorderRight="solid"><Sentence Num="1" WritingMode="vertical">５０</Sentence></TableColumn><TableColumn BorderBottom="solid" BorderRight="solid"><Sentence Num="1" WritingMode="vertical">衛生管理者</Sentence></TableColumn></TableRow><TableRow><TableColumn BorderBottom="solid" BorderRight="solid"><Sentence Num="1" WritingMode="vertical">５１</Sentence></TableColumn><TableColumn BorderBottom="solid" BorderRight="solid"><Sentence Num="1" WritingMode="vertical">衛生工学衛生管理者</Sentence></TableColumn></TableRow></Table></QuoteStruct>」とする。</Sentence>
+          <QuoteStruct>
+            <Table WritingMode="vertical">
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <Sentence Num="1" WritingMode="vertical">二　衛生管理</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <Sentence Num="1" WritingMode="vertical">一　衛生管理</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </QuoteStruct>
+          」とあるのは「
+          <QuoteStruct>
+            <Table WritingMode="vertical">
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <Sentence Num="1" WritingMode="vertical">衛生管理</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </QuoteStruct>
+          」と、新安衛則様式第十二号（１）中「
+          <QuoteStruct>
+            <Table WritingMode="vertical">
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <Sentence Num="1" WritingMode="vertical">二　衛生管理</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <Sentence Num="1" WritingMode="vertical">一　衛生管理</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </QuoteStruct>
+          」とあるのは「
+          <QuoteStruct>
+            <Table WritingMode="vertical">
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <Sentence Num="1" WritingMode="vertical">衛生管理</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </QuoteStruct>
+          」と、同様式（２）中「
+          <QuoteStruct>
+            <Table WritingMode="vertical">
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <Sentence Num="1" WritingMode="vertical">５０</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <Sentence Num="1" WritingMode="vertical">第一種衛生管理者</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <Sentence Num="1" WritingMode="vertical">５１</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <Sentence Num="1" WritingMode="vertical">衛生工学衛生管理者</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <Sentence Num="1" WritingMode="vertical">５２</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <Sentence Num="1" WritingMode="vertical">第二種衛生管理者</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </QuoteStruct>
+          」とあるのは「
+          <QuoteStruct>
+            <Table WritingMode="vertical">
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <Sentence Num="1" WritingMode="vertical">５０</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <Sentence Num="1" WritingMode="vertical">衛生管理者</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <Sentence Num="1" WritingMode="vertical">５１</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <Sentence Num="1" WritingMode="vertical">衛生工学衛生管理者</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </QuoteStruct>
+          」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -34066,7 +34000,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">新石綿則第五条第一項に掲げる作業又は第三条の規定による改正後の労働安全衛生規則（以下この項及び次項において「新安衛則」という。）第九十条第五号の二若しくは第五号の三に掲げる仕事であって、施行日前に開始されるものについては、新石綿則第五条第一項及び新安衛則第九十条の規定は適用せず、旧石綿則第五条第一項及び第三条の規定による改正前の労働安全衛生規則第九十条第五号の二の規定は、なおその効力を有する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">新石綿則第五条第一項第一号若しくは第二号に掲げる作業又は第三条の規定による改正後の労働安全衛生規則（以下この項及び次項において「新安衛則」という。）第九十条第五号の二若しくは第五号の三に掲げる仕事であって、施行日前に開始されるものについては、新石綿則第五条第一項及び新安衛則第九十条の規定は適用せず、旧石綿則第五条第一項及び第三条の規定による改正前の労働安全衛生規則第九十条第五号の二の規定は、なおその効力を有する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -34083,6 +34017,100 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この省令（附則第一条各号に掲げる規定については、当該各規定。以下この条において同じ。）の施行前にした行為並びに附則第二条第一項、第三条及び第四条第一項の規定によりなおその効力を有することとされる場合におけるこの省令の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年八月二八日厚生労働省令第一五四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にこの省令による改正前のそれぞれの省令（次項において「旧省令」という。）の規定によりされている報告は、この省令による改正後のそれぞれの省令の規定による報告とみなす。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にある旧省令に定める様式による用紙については、合理的に必要と認められる範囲内で、当分の間、これを取り繕って使用することができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一二月二日厚生労働省令第一九三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、労働安全衛生法施行令の一部を改正する政令（令和二年政令第三百四十号）の施行の日（令和三年一月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一二月一五日厚生労働省令第二〇〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（計画の作成に参画する者の資格等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令による改正後の労働安全衛生規則別表第九の規定の適用については、建築士法の一部を改正する法律（平成三十年法律第九十三号）の施行の日（令和二年三月一日）前に建築士法（昭和二十五年法律第二百二号）第十二条第一項の一級建築士試験に合格した者（次項において「施行前一級建築士試験合格者」という。）は、建築士法の一部を改正する法律による改正後の建築士法第四条第二項に規定する一級建築士の免許を受けることができる者（次項において「一級建築士免許権利者」という。）とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一条の規定の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一二月二五日厚生労働省令第二〇八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の様式（次項において「旧様式」という。）により使用されている書類は、この省令による改正後の様式によるものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -40745,6 +40773,17 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">ベンジルアルコール</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">一パーセント未満</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">一パーセント未満</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical">ベンゼン</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
@@ -43675,7 +43714,7 @@
               <Sentence Num="1" WritingMode="vertical">一　次のイ及びロのいずれにも該当する者</Sentence>
               <Sentence Num="2" WritingMode="vertical">イ　次のいずれかに該当する者</Sentence>
               <Sentence Num="3" WritingMode="vertical">（１）　型枠支保工に係る工事の設計監理又は施工管理の実務に三年以上従事した経験を有すること。</Sentence>
-              <Sentence Num="4" WritingMode="vertical">（２）　建築士法（昭和二十五年法律第二百二号）第十二条の一級建築士試験に合格したこと。</Sentence>
+              <Sentence Num="4" WritingMode="vertical">（２）　建築士法（昭和二十五年法律第二百二号）第四条第二項に規定する一級建築士の免許を受けることができる者であること。</Sentence>
               <Sentence Num="5" WritingMode="vertical">（３）　建設業法施行令第二十七条の三に規定する一級土木施工管理技術検定又は一級建築施工管理技術検定に合格したこと。</Sentence>
               <Sentence Num="6" WritingMode="vertical">ロ　工事における安全衛生の実務に三年以上従事した経験を有すること又は厚生労働大臣の登録を受けた者が行う研修を修了したこと。</Sentence>
               <Sentence Num="7" WritingMode="vertical">二　労働安全コンサルタント試験に合格した者で、その試験の区分が土木又は建築であるもの</Sentence>
@@ -43690,7 +43729,7 @@
               <Sentence Num="1" WritingMode="vertical">一　次のイ及びロのいずれにも該当する者</Sentence>
               <Sentence Num="2" WritingMode="vertical">イ　次のいずれかに該当する者</Sentence>
               <Sentence Num="3" WritingMode="vertical">（１）　足場に係る工事の設計監理又は施工管理の実務に三年以上従事した経験を有すること。</Sentence>
-              <Sentence Num="4" WritingMode="vertical">（２）　建築士法第十二条の一級建築士試験に合格したこと。</Sentence>
+              <Sentence Num="4" WritingMode="vertical">（２）　建築士法第四条第二項に規定する一級建築士の免許を受けることができる者であること。</Sentence>
               <Sentence Num="5" WritingMode="vertical">（３）　建設業法施行令第二十七条の三に規定する一級土木施工管理技術検定又は一級建築施工管理技術検定に合格したこと。</Sentence>
               <Sentence Num="6" WritingMode="vertical">ロ　工事における安全衛生の実務に三年以上従事した経験を有すること又は厚生労働大臣の登録を受けた者が行う研修を修了したこと。</Sentence>
               <Sentence Num="7" WritingMode="vertical">二　労働安全コンサルタント試験に合格した者で、その試験の区分が土木又は建築であるもの</Sentence>
@@ -43706,7 +43745,7 @@
               <Sentence Num="2" WritingMode="vertical">イ　次のいずれかに該当すること。</Sentence>
               <Sentence Num="3" WritingMode="vertical">（１）　学校教育法による大学又は高等専門学校において理科系統の正規の課程を修めて卒業し（大学改革支援・学位授与機構により学士の学位を授与された者（当該課程を修めた者に限る。）若しくはこれと同等以上の学力を有すると認められる者又は当該課程を修めて専門職大学前期課程を修了した者である場合を含む。次項第一号イ（１）において同じ。）、その後十年以上建築工事の設計監理又は施工管理の実務に従事した経験を有すること。</Sentence>
               <Sentence Num="4" WritingMode="vertical">（２）　学校教育法による高等学校又は中等教育学校において理科系統の正規の学科を修めて卒業し、その後十五年以上建築工事の設計監理又は施工管理の実務に従事した経験を有すること。</Sentence>
-              <Sentence Num="5" WritingMode="vertical">（３）　建築士法第十二条の一級建築士試験に合格したこと。</Sentence>
+              <Sentence Num="5" WritingMode="vertical">（３）　建築士法第四条第二項に規定する一級建築士の免許を受けることができる者であること。</Sentence>
               <Sentence Num="6" WritingMode="vertical">ロ　建設工事における安全衛生の実務に三年以上従事した経験を有すること又は厚生労働大臣の登録を受けた者が行う研修を修了したこと。</Sentence>
               <Sentence Num="7" WritingMode="vertical">二　労働安全コンサルタント試験に合格した者で、その試験の区分が建築であるもの</Sentence>
               <Sentence Num="8" WritingMode="vertical">三　その他厚生労働大臣が定める者</Sentence>
@@ -43799,7 +43838,7 @@
       <RelatedArticleNum>（第５１条関係）（１）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3FH00000035035.pdf"/>
+          <Fig src="./pict/2FH00000035130.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -43808,7 +43847,7 @@
       <RelatedArticleNum>（第５２条関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000032214.pdf"/>
+          <Fig src="./pict/2FH00000035101.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -43817,7 +43856,7 @@
       <RelatedArticleNum>（第５２条の２１関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025749.pdf"/>
+          <Fig src="./pict/2FH00000035132.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -43844,7 +43883,7 @@
       <RelatedArticleNum>（第５７条関係）（１）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000032221.pdf"/>
+          <Fig src="./pict/2FH00000035103.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

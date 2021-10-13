@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="136" Year="23">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="136" Year="23" PromulgateMonth="07" PromulgateDay="12">
   <LawNum>昭和二十三年法律第百三十六号</LawNum>
   <LawBody>
-    <LawTitle>警察官職務執行法</LawTitle>
+    <LawTitle Kana="けいさつかんしょくむしっこうほう" Abbrev="警職法" AbbrevKana="け">警察官職務執行法</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（この法律の目的）</ArticleCaption>
@@ -164,7 +164,7 @@
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">死刑又は無期若しくは長期三年以上の懲役若しくは禁こにあたる兇悪な罪を現に犯し、若しくは既に犯したと疑うに足りる充分な理由のある者がその者に対する警察官の職務の執行に対して抵抗し、若しくは逃亡しようとするとき又は第三者がその者を逃がそうとして警察官に抵抗するとき、これを防ぎ、又は逮捕するために他に手段がないと警察官において信ずるに足りる相当な理由のある場合。</Sentence>
+              <Sentence WritingMode="vertical">死刑又は無期若しくは長期三年以上の懲役若しくは禁<Ruby>こ<Rt>ヽ</Rt></Ruby>にあたる兇悪な罪を現に犯し、若しくは既に犯したと疑うに足りる充分な理由のある者がその者に対する警察官の職務の執行に対して抵抗し、若しくは逃亡しようとするとき又は第三者がその者を逃がそうとして警察官に抵抗するとき、これを防ぎ、又は逮捕するために他に手段がないと警察官において信ずるに足りる相当な理由のある場合。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -195,7 +195,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="329163" AmendLawNum="昭和二九年六月八日法律第一六三号" Extract="true" Id="f041f621-7608-4504-9440-6dee7e4eea83">
+    <SupplProvision AmendLawNum="昭和二九年六月八日法律第一六三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -205,7 +205,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418094" AmendLawNum="平成一八年六月二三日法律第九四号" Id="af4715e8-188b-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年六月二三日法律第九四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>

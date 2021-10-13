@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="99" Year="10">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="99" Year="10" PromulgateMonth="06" PromulgateDay="10">
   <LawNum>平成十年法律第九十九号</LawNum>
   <LawBody>
-    <LawTitle>美術品の美術館における公開の促進に関する法律</LawTitle>
+    <LawTitle Kana="びじゅつひんのびじゅつかんにおけるこうかいのそくしんにかんするほうりつ" Abbrev="美術品公開促進法" AbbrevKana="び">美術品の美術館における公開の促進に関する法律</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -347,7 +347,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -372,7 +372,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412091" AmendLawNum="平成一二年五月三一日法律第九一号" Extract="true" Id="2803295b-2ddd-40b1-b03a-47b68dc318b2">
+    <SupplProvision AmendLawNum="平成一二年五月三一日法律第九一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>

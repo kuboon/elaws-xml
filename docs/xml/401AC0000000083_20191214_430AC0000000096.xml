@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="83" Year="01">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="83" Year="01" PromulgateMonth="12" PromulgateDay="14">
   <LawNum>平成元年法律第八十三号</LawNum>
   <LawBody>
-    <LawTitle>貨物自動車運送事業法</LawTitle>
+    <LawTitle Kana="かもつじどうしゃうんそうじぎょうほう" Abbrev="" AbbrevKana="">貨物自動車運送事業法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -3102,7 +3102,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
@@ -3130,7 +3130,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（行政庁の行為等に関する経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律（前条各号に掲げる規定にあっては、当該規定。以下この条及び次条において同じ。）の施行の日前に、この法律による改正前の法律又はこれに基づく命令の規定（欠格条項その他の権利の制限に係る措置を定めるものに限る。）に基づき行われた行政庁の処分その他の行為及び当該規定により生じた失職の効力については、なお従前の例による。</Sentence>
@@ -3140,7 +3140,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>

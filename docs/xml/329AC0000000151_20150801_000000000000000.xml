@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="151" Year="29">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="151" Year="29" PromulgateMonth="06" PromulgateDay="01">
   <LawNum>昭和二十九年法律第百五十一号</LawNum>
   <LawBody>
-    <LawTitle>日本国における国際連合の軍隊の地位に関する協定の実施に伴う刑事特別法</LawTitle>
+    <LawTitle Kana="にほんこくにおけるこくさいれんごうのぐんたいのちいにかんするきょうていのじっしにともなうけいじとくべつほう" Abbrev="刑事特別法,刑特法" AbbrevKana="け,け">日本国における国際連合の軍隊の地位に関する協定の実施に伴う刑事特別法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Delete="false" Num="1">
@@ -93,7 +93,7 @@
           <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">死刑又は無期若しくは長期三年以上の懲役若しくは禁こにあたる罪に係る現行犯人を追跡して前項の施設内で逮捕する場合には、同項の同意を得ることを要しない。</Sentence>
+              <Sentence WritingMode="vertical">死刑又は無期若しくは長期三年以上の懲役若しくは禁<Ruby>こ<Rt>ヽ</Rt></Ruby>にあたる罪に係る現行犯人を追跡して前項の施設内で逮捕する場合には、同項の同意を得ることを要しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -309,7 +309,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="404084" AmendLawNum="平成四年六月二六日法律第八四号" Extract="true" Id="6a806fa8-47dd-11e5-9435-87814a937c94" Type="Amend">
+    <SupplProvision AmendLawNum="平成四年六月二六日法律第八四号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
@@ -319,7 +319,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423074" AmendLawNum="平成二三年六月二四日法律第七四号" Extract="true" Id="64061518-04d8-4a9e-acc1-1ae4d12de2b1" Type="Amend">
+    <SupplProvision AmendLawNum="平成二三年六月二四日法律第七四号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

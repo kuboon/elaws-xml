@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="104" Year="12">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="104" Year="12" PromulgateMonth="06" PromulgateDay="04">
   <LawNum>平成十二年法律第百四号</LawNum>
   <LawBody>
-    <LawTitle>建設工事に係る資材の再資源化等に関する法律</LawTitle>
+    <LawTitle Kana="けんせつこうじにかかるしざいのさいしげんかとうにかんするほうりつ" Abbrev="建設リサイクル法,建設資材再資源化法" AbbrevKana="け,け">建設工事に係る資材の再資源化等に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Delete="false" Num="1">
@@ -1349,7 +1349,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1374,7 +1374,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412126" AmendLawNum="平成一二年一一月二七日法律第一二六号" Extract="true" Id="d6d5bbf6-91e7-4c81-a738-168d1b942413">
+    <SupplProvision AmendLawNum="平成一二年一一月二七日法律第一二六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1397,7 +1397,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414045" AmendLawNum="平成一四年五月二九日法律第四五号" Extract="true" Id="1ace5a87-34df-427d-b2be-5c7ac53af2db">
+    <SupplProvision AmendLawNum="平成一四年五月二九日法律第四五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -1407,7 +1407,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="415096" AmendLawNum="平成一五年六月一八日法律第九六号" Extract="true" Id="d72b8fb4-1884-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年六月一八日法律第九六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1420,7 +1420,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416076" AmendLawNum="平成一六年六月二日法律第七六号" Extract="true" Id="ecbc3a7c-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月二日法律第七六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1459,7 +1459,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416147" AmendLawNum="平成一六年一二月一日法律第一四七号" Extract="true" Id="f14e18bc-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年一二月一日法律第一四七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1472,7 +1472,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416154" AmendLawNum="平成一六年一二月三日法律第一五四号" Extract="true" Id="7cc44bc6-47dd-11e5-9728-b7732dfb5558">
+    <SupplProvision AmendLawNum="平成一六年一二月三日法律第一五四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1485,7 +1485,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423061" AmendLawNum="平成二三年六月三日法律第六一号" Extract="true" Id="f1575a30-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年六月三日法律第六一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1498,7 +1498,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423105" AmendLawNum="平成二三年八月三〇日法律第一〇五号" Extract="true" Id="140b7f54-b9a2-4ada-9885-3ce3b7d8b48e">
+    <SupplProvision AmendLawNum="平成二三年八月三〇日法律第一〇五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1531,7 +1531,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426055" AmendLawNum="平成二六年六月四日法律第五五号" Extract="true" Id="e8070030-18a1-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年六月四日法律第五五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="24" Year="21">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="24" Year="21" PromulgateMonth="09" PromulgateDay="25">
   <LawNum>昭和二十一年法律第二十四号</LawNum>
   <LawBody>
-    <LawTitle>昭和二十一年法律第二十四号（法人に対する政府の財政援助の制限に関する法律）</LawTitle>
+    <LawTitle Kana="ほうじんにたいするせいふのざいせいえんじょのせいげんにかんするほうりつ" Abbrev="財政援助制限法" AbbrevKana="ざ">昭和二十一年法律第二十四号（法人に対する政府の財政援助の制限に関する法律）</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -21,8 +21,8 @@
             <Sentence WritingMode="vertical">政府は、他の法令又は契約にかかはらず、会社その他の法人に対し、毎事業年度における配当又は分配することができる利益又は剰余金の額を払込済株金額又は出資金額に対して一定の割合に達せしめるための補給金は、これを交付しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定によつて補給金の交付を受けることのできない会社その他の法人について、法令、契約又は定款に特別の配当準備のための積立をすることを必要とする旨の規定があるときは、その規定は効力を失ふ。</Sentence>
           </ParagraphSentence>
@@ -41,26 +41,26 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
-        <ParagraphNum>○１</ParagraphNum>
+      <Paragraph Hide="false" Num="1" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から、これを施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2" OldStyle="false">
-        <ParagraphNum>○２</ParagraphNum>
+      <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">第二条の規定は、昭和二十年四月一日以後に終了する事業年度の分から、これを適用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3" OldStyle="false">
-        <ParagraphNum>○３</ParagraphNum>
+      <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">第二条第二項に規定する会社その他の法人について、この法律施行の際、現に同項に規定する配当準備の為の積立金があるときは、その積立金は、同項に規定する法令、契約又は定款に規定する目的以外の目的にも、これを使用することができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="338099" AmendLawNum="昭和三八年六月八日法律第九九号" Extract="true" Id="838f6d54-d3c6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三八年六月八日法律第九九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日及び適用区分）</ArticleCaption>
@@ -73,7 +73,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="182" Year="24">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="182" Year="24" PromulgateMonth="06" PromulgateDay="01">
   <LawNum>昭和二十四年法律第百八十二号</LawNum>
   <LawBody>
-    <LawTitle>中小企業等協同組合法施行法　抄</LawTitle>
+    <LawTitle Kana="ちゅうしょうきぎょうとうきょうどうくみあいほうせこうほう　しょう" Abbrev="中協法施行法　抄" AbbrevKana="ち">中小企業等協同組合法施行法　抄</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（商工協同組合法等の廃止）</ArticleCaption>
@@ -461,7 +461,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="342036" AmendLawNum="昭和四二年六月一二日法律第三六号" Extract="true" Id="29b7599a-d3c1-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四二年六月一二日法律第三六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -470,7 +470,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="355079" AmendLawNum="昭和五五年六月九日法律第七九号" Extract="true" Id="bdedb958-18a9-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五五年六月九日法律第七九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

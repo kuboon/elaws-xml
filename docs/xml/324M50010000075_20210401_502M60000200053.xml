@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="502M60000200053" AmendmentNum="令和二年農林水産省令第五十三号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="75" Year="24">
+<Law AmendmentId="502M60000200053" AmendmentNum="令和二年農林水産省令第五十三号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="75" Year="24" PromulgateMonth="07" PromulgateDay="15">
   <LawNum>昭和二十四年農林省令第七十五号</LawNum>
   <LawBody>
-    <LawTitle>土地改良法施行規則</LawTitle>
+    <LawTitle Kana="とちかいりょうほうせこうきそく" Abbrev="" AbbrevKana="">土地改良法施行規則</LawTitle>
     <EnactStatement>土地改良法（昭和二十四年法律第百九十五号）を実施するため、同法及び土地改良法施行法（昭和二十四年法律第百九十六号）に基き、土地改良法施行規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -402,14 +402,19 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第五条第二項及び第四項の規定による同意を得るには、同条第一項の一定の地域内にある土地につき法第三条に規定する資格を有する者の総数及び法第五条第四項の農用地外資格者の総数を記載した同意署名簿にその資格を有する者の署名（記名を含む。）及び押印を得なければならない。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同項の農用地外資格者の同意を得るときは、当該同意署名簿にその者が同項の農用地外資格者である旨を明記しておかなければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第五条第二項及び第四項の規定による同意を得る場合には、同条第一項の一定の地域内にある土地につき法第三条に規定する資格を有する者及び法第五条第四項の農用地外資格者から書面又は電磁的方法（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法をいう。以下同じ。）による同意を得なければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項の同意署名簿には、法第五条第二項の規定により公告した事項を記載した書面を添附しておかなければならない。</Sentence>
+            <Sentence WritingMode="vertical">前項の規定により法第五条第四項の農用地外資格者の同意を得る場合には、その者が農用地外資格者である旨を明示しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一項の規定により同意を得る場合には、法第五条第二項の規定により公告した事項を記載した書面又は電磁的記録（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式で作られる記録であつて、電子計算機による情報処理の用に供されるものをいう。以下同じ。）を添付しておかなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -724,7 +729,7 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">準用行政不服審査法施行令第十六条の農林水産省令で定める書類は、次に掲げるもの（電磁的記録（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式で作られる記録であつて、電子計算機による情報処理の用に供されるものをいう。）を含み、事件記録（準用行政不服審査法第四十一条第三項に規定する事件記録をいう。）に該当するものを除く。）とする。</Sentence>
+            <Sentence WritingMode="vertical">準用行政不服審査法施行令第十六条の農林水産省令で定める書類は、次に掲げるもの（電磁的記録を含み、事件記録（準用行政不服審査法第四十一条第三項に規定する事件記録をいう。）に該当するものを除く。）とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -1120,7 +1125,7 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">総会又は法第五十二条第五項（法第五十三条の四第二項において準用する場合を含む。）の会議の議長は、次に掲げる事項を記載した議事録を調製し、出席した組合員又はその会議の組織員のうち二人以上の者とともにこれに署名（記名を含む。）及び押印をしなければならない。</Sentence>
+            <Sentence WritingMode="vertical">総会又は法第五十二条第五項（法第五十三条の四第二項において準用する場合を含む。）の会議の議長は、次に掲げる事項を記載した議事録を調製し、出席した組合員又はその会議の組織員のうち二人以上の者とともにこれに記名しなければならない。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -1524,7 +1529,7 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法第四十八条第三項から第五項まで及び第七項の規定による同意を得る場合には、第九条の規定を準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「同条第一項の一定の地域内にある土地につき法第三条に規定する資格を有する者の総数」とあるのは「法第四十八条第三項各号に掲げる組合員の総数（同項第一号の場合には、同号に掲げる組合員の総数及び同号の改定地域内の土地のうち同号の現行地区内の土地以外の土地につき法第三条に規定する資格を有する者の総数、法第四十八条第四項の場合には、その変更により新たに当該土地改良事業の施行に係る地域の一部となる地域内にある土地につき法第三条に規定する資格を有する者の総数及びその変更によりその変更後のその土地改良事業の施行に係る地域に該当しないこととなる地域内の土地に係る組合員の総数、法第四十八条第五項の場合には、その施行に係る地域のうち同項の現行管理区域以外の地域内にある土地につき法第三条に規定する資格を有する者の総数）」と、「法第五条第四項」とあるのは「法第四十八条第七項」と、同条第二項中「法第五条第二項」とあるのは「法第四十八条第三項」と読み替える。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「同条第一項の一定の地域内にある土地につき法第三条に規定する資格を有する者」とあるのは「法第四十八条第三項各号に掲げる組合員（同項第一号の場合には、同号に掲げる組合員及び同号の改定地域内の土地のうち同号の現行地区内の土地以外の土地につき法第三条に規定する資格を有する者、法第四十八条第四項の場合には、その変更により新たに当該土地改良事業の施行に係る地域の一部となる地域内にある土地につき法第三条に規定する資格を有する者及びその変更によりその変更後のその土地改良事業の施行に係る地域に該当しないこととなる地域内の土地に係る組合員、法第四十八条第五項の場合には、その施行に係る地域のうち同項の現行管理区域以外の地域内にある土地につき法第三条に規定する資格を有する者）」と、同条第一項及び第二項中「法第五条第四項」とあるのは「法第四十八条第七項」と、同条第三項中「法第五条第二項」とあるのは「法第四十八条第三項」と読み替える。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2787,7 +2792,7 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法第八十五条第二項及び第三項の規定による同意を得る場合には、第九条の規定を準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「法第五条第四項」とあるのは「法第八十五条第三項」と、同条第二項中「法第五条第二項」とあるのは「法第八十五条第二項」と読み替える。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項及び第二項中「法第五条第四項」とあるのは「法第八十五条第三項」と、同条第三項中「法第五条第二項」とあるのは「法第八十五条第二項」と読み替える。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2900,7 +2905,7 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法第八十五条の二第二項及び第三項の規定による同意を得る場合には、第九条の規定を準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「法第五条第四項」とあるのは「法第八十五条の二第三項」と、同条第二項中「法第五条第二項」とあるのは「法第八十五条の二第二項」と読み替える。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項及び第二項中「法第五条第四項」とあるのは「法第八十五条の二第三項」と、同条第三項中「法第五条第二項」とあるのは「法第八十五条の二第二項」と読み替える。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -3033,13 +3038,13 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第八十五条の三第二項又は第三項の規定による同意を得る場合には、同条第二項第一号の場合にあつては同号に掲げる組合員の総数及び当該施設更新事業の施行に係る地域内の土地のうち同号の現行受益地内の土地以外の土地につき法第三条に規定する資格を有する者の総数、同項第二号の場合にあつては同号に掲げる組合員の総数、法第八十五条の三第三項の場合にあつては当該施設更新事業の施行に係る地域のうち同項の現行受益地以外の地域内にある土地につき法第三条に規定する資格を有する者の総数を記載した同意署名簿にその資格を有する者の署名（記名を含む。）及び押印を得なければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第八十五条の三第二項又は第三項の規定による同意を得る場合には、同条第二項第一号の場合にあつては同号に掲げる組合員及び当該施設更新事業の施行に係る地域内の土地のうち同号の現行受益地内の土地以外の土地につき法第三条に規定する資格を有する者、同項第二号の場合にあつては同号に掲げる組合員、法第八十五条の三第三項の場合にあつては当該施設更新事業の施行に係る地域のうち同項の現行受益地以外の地域内にある土地につき法第三条に規定する資格を有する者から書面又は電磁的方法による同意を得なければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項の同意署名簿には、法第八十五条の三第二項の規定により公告した事項を記載した書面を添付しておかなければならない。</Sentence>
+            <Sentence WritingMode="vertical">前項の規定により同意を得る場合には、法第八十五条の三第二項の規定により公告した事項を記載した書面又は電磁的記録を添付しておかなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -3127,14 +3132,14 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第八十五条の三第七項及び第八項の規定による同意を得る場合には、同条第七項第一号の場合にあつては同号に掲げる組合員の総数及び当該関連施行事業の施行に係る地域内の土地のうち同号の現行地区内の土地以外の土地につき法第三条に規定する資格を有する者の総数並びに法第八十五条の三第八項の農用地外資格者の総数、同条第七項第二号の場合にあつては同号に掲げる組合員の総数及び同条第八項の農用地外資格者の総数を記載した同意署名簿にその資格を有する者の署名（記名を含む。）及び押印を得なければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第八十五条の三第七項及び第八項の規定による同意を得る場合には、同条第七項第一号の場合にあつては同号に掲げる組合員及び当該関連施行事業の施行に係る地域内の土地のうち同号の現行地区内の土地以外の土地につき法第三条に規定する資格を有する者並びに法第八十五条の三第八項の農用地外資格者、同条第七項第二号の場合にあつては同号に掲げる組合員及び同条第八項の農用地外資格者から書面又は電磁的方法による同意を得なければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前項の場合には、第九条第一項後段及び第二項の規定を準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同項中「法第五条第二項」とあるのは、「法第八十五条の三第七項」と読み替えるものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前項の場合には、第九条第二項及び第三項の規定を準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、第二項中「法第五条第四項」とあるのは「法第八十五条の三第八項」と、第三項中「法第五条第二項」とあるのは「法第八十五条の三第七項」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -3363,8 +3368,8 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第八十七条の二第三項の規定による同意を得る場合には、第九条第一項前段及び第二項の規定を準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項前段中「同条第一項の一定の地域内にある土地につき法第三条に規定する資格を有する者の総数及び法第五条第四項の農用地外資格者の総数」とあるのは「当該土地改良事業の施行に係る地域内にある土地につき法第三条に規定する資格を有する者の総数」と、同条第二項中「法第五条第二項」とあるのは「法第八十七条の二第三項」と読み替える。</Sentence>
+            <Sentence Num="1">法第八十七条の二第三項の規定による同意を得る場合には、第九条第一項及び第三項の規定を準用する。</Sentence>
+            <Sentence Num="2">この場合において、同条第一項中「同条第一項の一定の地域内にある土地につき法第三条に規定する資格を有する者及び法第五条第四項の農用地外資格者」とあるのは「当該土地改良事業の施行に係る地域内にある土地につき法第三条に規定する資格を有する者」と、同条第三項中「法第五条第二項」とあるのは「法第八十七条の二第三項」と読み替える。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -3629,7 +3634,7 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法第八十八条第一項及び第二項の規定による同意を得る場合には、第九条の規定を準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「同条第一項の一定の地域内にある土地」とあるのは「法第八十八条第一項第一号に規定する変更後の土地改良事業計画に係る土地改良事業の施行に係る地域内にある土地又は同項第二号に規定する廃止に係る土地改良事業の施行に係る地域」と、「法第五条第四項」とあるのは「法第八十八条第二項」と、同条第二項中「法第五条第二項」とあるのは「法第八十八条第一項」と読み替えるものとする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「同条第一項の一定の地域内にある土地」とあるのは「法第八十八条第一項第一号に規定する変更後の土地改良事業計画に係る土地改良事業の施行に係る地域内にある土地又は同項第二号に規定する廃止に係る土地改良事業の施行に係る地域」と、同条第一項及び第二項中「法第五条第四項」とあるのは「法第八十八条第二項」と、同条第三項中「法第五条第二項」とあるのは「法第八十八条第一項」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -4051,8 +4056,8 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第九十条第七項の規定による同意を得る場合には、第九条第一項前段の規定を準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同項前段中「同条第一項の一定の地域内にある土地につき法第三条に規定する資格を有する者の総数及び法第五条第四項の農用地外資格者の総数」とあるのは、「当該土地改良事業の施行に係る地域内にある土地につき法第三条に規定する資格を有する者の総数」と読み替える。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第九十条第七項の規定による同意を得る場合には、第九条第一項の規定を準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同項中「同条第一項の一定の地域内にある土地につき法第三条に規定する資格を有する者及び法第五条第四項の農用地外資格者」とあるのは、「当該土地改良事業の施行に係る地域内にある土地につき法第三条に規定する資格を有する者」と読み替える。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -4103,8 +4108,8 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">令第五十三条第二項第三号又は第四号の規定による同意を得る場合には、第九条第一項前段の規定を準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同項前段中「同条第一項の一定の地域内にある土地につき法第三条に規定する資格を有する者の総数及び法第五条第四項の農用地外資格者の総数」とあるのは、「当該国営土地改良事業の施行に係る地域内にある土地につき法第三条に規定する資格を有する者の総数」と読み替える。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">令第五十三条第二項第三号又は第四号の規定による同意を得る場合には、第九条第一項の規定を準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同項中「同条第一項の一定の地域内にある土地につき法第三条に規定する資格を有する者及び法第五条第四項の農用地外資格者」とあるのは、「当該国営土地改良事業の施行に係る地域内にある土地につき法第三条に規定する資格を有する者」と読み替える。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -4145,8 +4150,8 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第九十一条第四項において準用する法第九十条第七項の規定による同意を得る場合には、第九条第一項前段の規定を準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同項前段中「同条第一項の一定の地域内にある土地につき法第三条に規定する資格を有する者の総数及び法第五条第四項の農用地外資格者の総数」とあるのは、「当該土地改良事業の施行に係る地域内にある土地につき法第三条に規定する資格を有する者の総数」と読み替える。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第九十一条第四項において準用する法第九十条第七項の規定による同意を得る場合には、第九条第一項の規定を準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同項中「同条第一項の一定の地域内にある土地につき法第三条に規定する資格を有する者及び法第五条第四項の農用地外資格者」とあるのは、「当該土地改良事業の施行に係る地域内にある土地につき法第三条に規定する資格を有する者」と読み替える。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -4706,8 +4711,8 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第九十五条第二項の規定による同意を得る場合には、第九条第一項前段及び第二項の規定を準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項前段中「同条第一項の一定の地域内にある土地につき法第三条に規定する資格を有する者の総数及び法第五条第四項の農用地外資格者の総数」とあるのは「当該土地改良事業の施行に係る地域内にある土地につき法第九十五条第二項に掲げる権利を有する者の総数」と、同条第二項中「法第五条第二項」とあるのは「法第九十五条第二項」と読み替える。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第九十五条第二項の規定による同意を得る場合には、第九条第一項及び第三項の規定を準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「同条第一項の一定の地域内にある土地につき法第三条に規定する資格を有する者及び法第五条第四項の農用地外資格者」とあるのは「当該土地改良事業の施行に係る地域内にある土地につき法第九十五条第二項に掲げる権利を有する者」と、同条第三項中「法第五条第二項」とあるのは「法第九十五条第二項」と読み替える。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -4834,8 +4839,8 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第九十五条の二第二項の規定による同意を得る場合には、第九条第一項前段及び第二項の規定を準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項前段中「同条第一項の一定の地域内にある土地につき法第三条に規定する資格を有する者の総数及び法第五条第四項の農用地外資格者の総数」とあるのは「法第九十五条の二第二項に規定する変更後の土地改良事業計画に係る土地改良事業の施行に係る地域内にある土地につき同項に掲げる権利を有する者の総数」と、同条第二項中「法第五条第二項」とあるのは「法第九十五条の二第二項」と読み替える。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第九十五条の二第二項の規定による同意を得る場合には、第九条第一項及び第三項の規定を準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「同条第一項の一定の地域内にある土地につき法第三条に規定する資格を有する者及び法第五条第四項の農用地外資格者」とあるのは「法第九十五条の二第二項に規定する変更後の土地改良事業計画に係る土地改良事業の施行に係る地域内にある土地につき同項に掲げる権利を有する者」と、同条第三項中「法第五条第二項」とあるのは「法第九十五条の二第二項」と読み替える。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -4851,13 +4856,13 @@
         <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第九十五条の二第三項において準用する法第四十八条第四項の規定による同意を得るには、法第九十五条の二第一項の規定による変更により新たに当該土地改良事業の施行に係る地域の一部となる地域内にある土地につき法第五条第七項に掲げる権利を有する者の総数及びその変更によりその変更後のその土地改良事業の施行に係る地域に該当しないこととなる地域内にある土地につき同項に掲げる権利を有する者の総数を記載した同意署名簿にこれらの者の署名（記名を含む。）及び押印を得なければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第九十五条の二第三項において準用する法第四十八条第四項の規定による同意を得る場合には、法第九十五条の二第一項の規定による変更により新たに当該土地改良事業の施行に係る地域の一部となる地域内にある土地につき法第五条第七項に掲げる権利を有する者及びその変更によりその変更後のその土地改良事業の施行に係る地域に該当しないこととなる地域内にある土地につき同項に掲げる権利を有する者から書面又は電磁的方法による同意を得なければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項の同意署名簿には、法第九十五条の二第二項の規定により公告した事項を記載した書面を添附しておかなければならない。</Sentence>
+            <Sentence WritingMode="vertical">前項の規定により同意を得る場合には、法第九十五条の二第二項の規定により公告した事項を記載した書面又は電磁的記録を添付しておかなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -4910,7 +4915,7 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法第九十六条の二第二項及び第三項の規定による同意を得る場合には、第九条の規定を準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「法第五条第四項」とあるのは「法第九十六条の二第三項」と、同条第二項中「法第五条第二項」とあるのは「法第九十六条の二第二項」と読み替えるものとする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項及び第二項中「法第五条第四項」とあるのは「法第九十六条の二第三項」と、同条第三項中「法第五条第二項」とあるのは「法第九十六条の二第二項」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -4981,8 +4986,8 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第九十六条の三第二項及び第三項の規定による同意を得る場合には、第九条の規定を準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「同条第一項の一定の地域内にある土地」とあるのは「法第九十六条の三第二項に規定する変更後の土地改良事業計画に係る土地改良事業の施行に係る地域内にある土地」と、「法第五条第四項」とあるのは「法第九十六条の三第三項」と、同条第二項中「法第五条第二項」とあるのは「法第九十六条の三第二項」と読み替えるものとする。</Sentence>
+            <Sentence Num="1">法第九十六条の三第二項及び第三項の規定による同意を得る場合には、第九条の規定を準用する。</Sentence>
+            <Sentence Num="2">この場合において、同条第一項中「同条第一項の一定の地域内にある土地」とあるのは「法第九十六条の三第二項に規定する変更後の土地改良事業計画に係る土地改良事業の施行に係る地域内にある土地」と、同条第一項及び第二項中「法第五条第四項」とあるのは「法第九十六条の三第三項」と、同条第三項中「法第五条第二項」とあるのは「法第九十六条の三第二項」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -5031,7 +5036,7 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第九十七条第一項の規定による同意を得るには、左に掲げる事項を記載した同意署名簿に署名（記名を含む。）及び押印を得てしなければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第九十七条第一項の規定による同意を得る場合には、左に掲げる事項を明示して書面又は電磁的方法による同意を得なければならない。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -5070,7 +5075,7 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第九十七条第一項の規定による請求をするには、その請求書に前条第一項の同意署名簿を添附しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第九十七条第一項の規定による請求をするには、その請求書に前条第一項の同意があつたことを証する書面を添付しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2" OldStyle="false">
@@ -5337,7 +5342,7 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第百十一条の十第二項第一号の農林水産省令で定める面積は、一万ヘクタールとする。</Sentence>
+            <Sentence WritingMode="vertical">法第百十一条の十第二項第一号の農林水産省令で定める面積は、おおむね三千ヘクタールとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -5924,7 +5929,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="326050" AmendLawNum="昭和二六年七月二〇日農林省令第五〇号" Extract="false" Id="aad72c44-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二六年七月二〇日農林省令第五〇号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -5933,7 +5938,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="328063" AmendLawNum="昭和二八年一一月五日農林省令第六三号" Extract="false" Id="ab0a34f4-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二八年一一月五日農林省令第六三号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5942,7 +5947,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="329037" AmendLawNum="昭和二九年六月二六日農林省令第三七号" Extract="false" Id="4d184bf6-1892-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二九年六月二六日農林省令第三七号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -5952,7 +5957,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="332040" AmendLawNum="昭和三二年八月九日農林省令第四〇号" Extract="false" Id="ab701e90-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三二年八月九日農林省令第四〇号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5961,7 +5966,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="333051" AmendLawNum="昭和三三年一〇月二一日農林省令第五一号" Extract="false" Id="aba32a9c-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三三年一〇月二一日農林省令第五一号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5970,7 +5975,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="337017" AmendLawNum="昭和三七年三月三一日農林省令第一七号" Extract="false" Id="abd63496-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三七年三月三一日農林省令第一七号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5979,7 +5984,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="337031" AmendLawNum="昭和三七年六月二九日農林省令第三一号" Extract="false" Id="4d756b6a-1892-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三七年六月二九日農林省令第三一号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -5988,7 +5993,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="337057" AmendLawNum="昭和三七年一〇月一日農林省令第五七号" Extract="false" Id="0defab5c-d3c3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三七年一〇月一日農林省令第五七号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -6004,7 +6009,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="337060" AmendLawNum="昭和三七年一〇月一九日農林省令第六〇号" Extract="false" Id="ac6f3b0a-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三七年一〇月一九日農林省令第六〇号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6013,7 +6018,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="339059" AmendLawNum="昭和三九年一一月三〇日農林省令第五九号" Extract="false" Id="4de96b82-1892-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三九年一一月三〇日農林省令第五九号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -6022,7 +6027,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="340049" AmendLawNum="昭和四〇年九月三〇日農林省令第四九号" Extract="false" Id="acd550e8-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四〇年九月三〇日農林省令第四九号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6031,7 +6036,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="341019" AmendLawNum="昭和四一年四月一日農林省令第一九号" Extract="false" Id="4e17f47a-1892-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四一年四月一日農林省令第一九号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -6040,7 +6045,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="347061" AmendLawNum="昭和四七年一一月二二日農林省令第六一号" Extract="false" Id="ad3b6bb2-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四七年一一月二二日農林省令第六一号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6049,7 +6054,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="351010" AmendLawNum="昭和五一年三月三一日農林省令第一〇号" Extract="false" Id="ad6eb9ea-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五一年三月三一日農林省令第一〇号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6058,7 +6063,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="353030" AmendLawNum="昭和五三年四月二二日農林省令第三〇号" Extract="false" Id="ada1ef0e-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五三年四月二二日農林省令第三〇号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6067,7 +6072,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="353049" AmendLawNum="昭和五三年七月五日農林省令第四九号" Extract="false" Id="105837d2-d3ba-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五三年七月五日農林省令第四九号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -6079,7 +6084,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="355036" AmendLawNum="昭和五五年八月二九日農林水産省令第三六号" Extract="false" Id="ae07e408-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五五年八月二九日農林水産省令第三六号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6088,7 +6093,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="355038" AmendLawNum="昭和五五年八月二九日農林水産省令第三八号" Extract="false" Id="4fe88634-1892-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五五年八月二九日農林水産省令第三八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -6097,7 +6102,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="356022" AmendLawNum="昭和五六年六月一日農林水産省令第二二号" Extract="false" Id="ae6e204c-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五六年六月一日農林水産省令第二二号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6106,7 +6111,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="359008" AmendLawNum="昭和五九年三月二三日農林水産省令第八号" Extract="false" Id="aea14954-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五九年三月二三日農林水産省令第八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6115,7 +6120,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="359045" AmendLawNum="昭和五九年一二月二一日農林水産省令第四五号" Extract="false" Id="aed46f1e-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五九年一二月二一日農林水産省令第四五号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6124,7 +6129,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="360036" AmendLawNum="昭和六〇年七月三〇日農林水産省令第三六号" Extract="false" Id="af078ef8-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六〇年七月三〇日農林水産省令第三六号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6133,7 +6138,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="361014" AmendLawNum="昭和六一年三月三一日農林水産省令第一四号" Extract="false" Id="af3ac0b6-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六一年三月三一日農林水産省令第一四号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6142,7 +6147,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="362003" AmendLawNum="昭和六二年三月二五日農林水産省令第三号" Extract="false" Id="e6a2893c-1949-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六二年三月二五日農林水産省令第三号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6151,7 +6156,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="401012" AmendLawNum="平成元年三月二七日農林水産省令第一二号" Extract="false" Id="e73d4af8-1949-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成元年三月二七日農林水産省令第一二号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6160,7 +6165,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="401030" AmendLawNum="平成元年七月七日農林水産省令第三〇号" Extract="false" Id="afd3a9e8-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成元年七月七日農林水産省令第三〇号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6169,7 +6174,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="403008" AmendLawNum="平成三年三月二〇日農林水産省令第八号" Extract="false" Id="e77025ea-1949-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成三年三月二〇日農林水産省令第八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6178,7 +6183,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="403045" AmendLawNum="平成三年一〇月一四日農林水産省令第四五号" Extract="false" Id="b039df1a-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成三年一〇月一四日農林水産省令第四五号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -6194,7 +6199,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="404040" AmendLawNum="平成四年七月一五日農林水産省令第四〇号" Extract="false" Id="b06d46de-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成四年七月一五日農林水産省令第四〇号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6203,7 +6208,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="405027" AmendLawNum="平成五年六月二二日農林水産省令第二七号" Extract="false" Id="b0a0d530-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成五年六月二二日農林水産省令第二七号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6212,7 +6217,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="405045" AmendLawNum="平成五年八月二日農林水産省令第四五号" Extract="false" Id="b0d4cc00-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成五年八月二日農林水産省令第四五号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6221,7 +6226,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="405058" AmendLawNum="平成五年一〇月二〇日農林水産省令第五八号" Extract="false" Id="b107eba8-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成五年一〇月二〇日農林水産省令第五八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6284,7 +6289,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="406004" AmendLawNum="平成六年二月一四日農林水産省令第四号" Extract="false" Id="b13b2612-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成六年二月一四日農林水産省令第四号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6293,7 +6298,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="406009" AmendLawNum="平成六年三月二四日農林水産省令第九号" Extract="false" Id="e7d5e9de-1949-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成六年三月二四日農林水産省令第九号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6302,7 +6307,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="409016" AmendLawNum="平成九年三月二八日農林水産省令第一六号" Extract="false" Id="e83b9d88-1949-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成九年三月二八日農林水産省令第一六号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6311,7 +6316,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411001" AmendLawNum="平成一一年一月一一日農林水産省令第一号" Extract="false" Id="9cb115d2-d3c4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一月一一日農林水産省令第一号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -6332,7 +6337,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412005" AmendLawNum="平成一二年一月三一日農林水産省令第五号" Extract="false" Id="c97875e2-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年一月三一日農林水産省令第五号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6345,7 +6350,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412030" AmendLawNum="平成一二年三月二四日農林水産省令第三〇号" Extract="false" Id="e939a59a-1949-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年三月二四日農林水産省令第三〇号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6354,7 +6359,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412071" AmendLawNum="平成一二年六月二七日農林水産省令第七一号" Extract="false" Id="44c7c400-18dc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年六月二七日農林水産省令第七一号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6363,7 +6368,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412082" AmendLawNum="平成一二年九月一日農林水産省令第八二号" Extract="false" Id="8d56eda0-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年九月一日農林水産省令第八二号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6376,7 +6381,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414002" AmendLawNum="平成一四年一月一八日農林水産省令第二号" Extract="false" Id="b2d3d9d8-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年一月一八日農林水産省令第二号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6385,7 +6390,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414008" AmendLawNum="平成一四年三月一日農林水産省令第八号" Extract="false" Id="b3070998-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年三月一日農林水産省令第八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6398,7 +6403,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414037" AmendLawNum="平成一四年四月五日農林水産省令第三七号" Extract="false" Id="b33a22ba-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年四月五日農林水産省令第三七号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6407,7 +6412,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="415097" AmendLawNum="平成一五年九月二五日農林水産省令第九七号" Extract="false" Id="b36d43e8-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年九月二五日農林水産省令第九七号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6416,7 +6421,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416018" AmendLawNum="平成一六年三月一八日農林水産省令第一八号" Extract="false" Id="c9804da8-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年三月一八日農林水産省令第一八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6425,7 +6430,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417018" AmendLawNum="平成一七年三月七日農林水産省令第一八号" Extract="false" Id="9cd22f92-d3c4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年三月七日農林水産省令第一八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6434,7 +6439,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418023" AmendLawNum="平成一八年三月三一日農林水産省令第二三号" Extract="false" Id="b40710cc-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年三月三一日農林水産省令第二三号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6444,7 +6449,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="419037" AmendLawNum="平成一九年四月一日農林水産省令第三七号" Extract="false" Id="b43a5f7c-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年四月一日農林水産省令第三七号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6453,7 +6458,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="420020" AmendLawNum="平成二〇年三月三一日農林水産省令第二〇号" Extract="false" Id="b46d77c2-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年三月三一日農林水産省令第二〇号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6477,7 +6482,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="421016" AmendLawNum="平成二一年三月二七日農林水産省令第一六号" Extract="false" Id="b4a090b2-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二一年三月二七日農林水産省令第一六号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6486,7 +6491,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="421064" AmendLawNum="平成二一年一二月一一日農林水産省令第六四号" Extract="false" Id="7fa4a01e-d3b3-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二一年一二月一一日農林水産省令第六四号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6499,7 +6504,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="422032" AmendLawNum="平成二二年四月一日農林水産省令第三二号" Extract="false" Id="b506ea9c-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二二年四月一日農林水産省令第三二号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6508,7 +6513,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423015" AmendLawNum="平成二三年三月三一日農林水産省令第一五号" Extract="false" Id="b53a45fe-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年三月三一日農林水産省令第一五号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6517,7 +6522,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423047" AmendLawNum="平成二三年七月二九日農林水産省令第四七号" Extract="false" Id="975b3d4e-d3b8-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年七月二九日農林水産省令第四七号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6526,7 +6531,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423062" AmendLawNum="平成二三年一一月二九日農林水産省令第六二号" Extract="false" Id="54e766d2-1892-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年一一月二九日農林水産省令第六二号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6535,7 +6540,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="424024" AmendLawNum="平成二四年三月三〇日農林水産省令第二四号" Extract="false" Id="b5d3ea56-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年三月三〇日農林水産省令第二四号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6544,7 +6549,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="424030" AmendLawNum="平成二四年四月六日農林水産省令第三〇号" Extract="false" Id="b6071cdc-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年四月六日農林水産省令第三〇号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6553,7 +6558,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="425040" AmendLawNum="平成二五年五月一六日農林水産省令第四〇号" Extract="false" Id="b63a431e-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二五年五月一六日農林水産省令第四〇号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6562,7 +6567,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="426015" AmendLawNum="平成二六年二月二八日農林水産省令第一五号" Extract="false" Id="9932af10-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年二月二八日農林水産省令第一五号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6575,7 +6580,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426024" AmendLawNum="平成二六年三月三一日農林水産省令第二四号" Extract="false" Id="9760dbbe-d3b8-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年三月三一日農林水産省令第二四号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6584,7 +6589,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427070" AmendLawNum="平成二七年九月一五日農林水産省令第七〇号" Extract="false" Id="879dfd14-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年九月一五日農林水産省令第七〇号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6607,7 +6612,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="428006" AmendLawNum="平成二八年一月二九日農林水産省令第六号" Extract="false" Id="879fef2a-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二八年一月二九日農林水産省令第六号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6620,7 +6625,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="428017" AmendLawNum="平成二八年三月二五日農林水産省令第一七号" Extract="false" Id="0bc0d032-18a2-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二八年三月二五日農林水産省令第一七号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6629,7 +6634,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428023" AmendLawNum="平成二八年三月三一日農林水産省令第二三号" Extract="false" Id="9efc3730-d3c5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二八年三月三一日農林水産省令第二三号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6638,7 +6643,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="429029" AmendLawNum="平成二九年五月一九日農林水産省令第二九号" Extract="false" Id="d2934e20-194b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二九年五月一九日農林水産省令第二九号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6647,7 +6652,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="429054" AmendLawNum="平成二九年九月二二日農林水産省令第五四号" Id="05eb0c28-aa02-43e6-b65f-490c03420179" Type="Amend">
+    <SupplProvision AmendLawNum="平成二九年九月二二日農林水産省令第五四号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6656,7 +6661,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="430068" AmendLawNum="平成三〇年一〇月一七日農林水産省令第六八号" Id="7260fcaa-d1e7-11e8-98f4-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成三〇年一〇月一七日農林水産省令第六八号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6679,7 +6684,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="431030" AmendLawNum="平成三一年三月二九日農林水産省令第三〇号" Id="9682b280-5c08-11e9-902f-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成三一年三月二九日農林水産省令第三〇号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6688,7 +6693,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501001" AmendLawNum="令和元年五月七日農林水産省令第一号" Id="b25f7f82-7239-11e9-9807-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年五月七日農林水産省令第一号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6717,7 +6722,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501028" AmendLawNum="令和元年九月一一日農林水産省令第二八号" Extract="true" Id="fb2562a4-d463-11e9-a419-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年九月一一日農林水産省令第二八号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6731,7 +6736,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501047" AmendLawNum="令和元年一二月一六日農林水産省令第四七号" Id="65f9efc2-2078-11ea-b6ae-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年一二月一六日農林水産省令第四七号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6740,7 +6745,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="502053" AmendLawNum="令和二年七月一五日農林水産省令第五三号" Id="6955cdf6-c7cd-11ea-bdea-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和二年七月一五日農林水産省令第五三号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6748,6 +6753,44 @@
           <Sentence WritingMode="vertical">この省令は、令和三年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一二月一八日農林水産省令第八二号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一二月二一日農林水産省令第八三号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の様式（次項において「旧様式」という。）により使用されている書類は、この省令による改正後の様式によるものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">附録</AppdxNoteTitle>
@@ -6769,7 +6812,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第２号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S24F00601000075_2007291107_003.pdf"/>
+          <Fig src="./pict/S24F00601000075_2101251030_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6777,7 +6820,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第３号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S24F00601000075_2007291107_004.pdf"/>
+          <Fig src="./pict/S24F00601000075_2101251030_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

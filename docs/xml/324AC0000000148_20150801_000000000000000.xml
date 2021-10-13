@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="148" Year="24">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="148" Year="24" PromulgateMonth="05" PromulgateDay="31">
   <LawNum>昭和二十四年法律第百四十八号</LawNum>
   <LawBody>
-    <LawTitle>教育職員免許法施行法　抄</LawTitle>
+    <LawTitle Kana="きょういくしょくいんめんきょほうせこうほうしょう" Abbrev="教育免許法施行法　抄" AbbrevKana="き">教育職員免許法施行法　抄</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（旧令による教員免許状を有する者についての特例）</ArticleCaption>
@@ -498,7 +498,7 @@
                   <Sentence WritingMode="vertical">二十二</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">旧盲学校及び聾唖学校令（大正十二年勅令第三百七十五号）に基く公立私立盲学校及聾唖学校規程（大正十二年文部省令第三十四号）（以下「旧公立私立盲学校及聾唖学校規程」という。）第十条第一項又は第十一条第一項の規定により、盲学校又はろうあ学校の教員となることができる者</Sentence>
+                  <Sentence WritingMode="vertical">旧盲学校及び聾唖学校令（大正十二年勅令第三百七十五号）に基く公立私立盲学校及聾唖学校規程（大正十二年文部省令第三十四号）（以下「旧公立私立盲学校及聾唖学校規程」という。）第十条第一項又は第十一条第一項の規定により、盲学校又は<Ruby>ろ<Rt>ヽ</Rt>う<Rt>ヽ</Rt>あ<Rt>ヽ</Rt></Ruby>学校の教員となることができる者</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence WritingMode="vertical">視覚障害者に関する教育又は聴覚障害者に関する教育の領域を定めた特別支援学校の教諭の二種免許状</Sentence>
@@ -509,7 +509,7 @@
                   <Sentence WritingMode="vertical">二十三</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">旧公立私立盲学校及聾唖学校規程第十条第二項又は第十一条第二項の規定により、盲学校初等部又はろうあ学校初等部の教員となることができる者</Sentence>
+                  <Sentence WritingMode="vertical">旧公立私立盲学校及聾唖学校規程第十条第二項又は第十一条第二項の規定により、盲学校初等部又は<Ruby>ろ<Rt>ヽ</Rt>う<Rt>ヽ</Rt>あ<Rt>ヽ</Rt></Ruby>学校初等部の教員となることができる者</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence WritingMode="vertical">視覚障害者に関する教育又は聴覚障害者に関する教育の領域を定めた特別支援学校の助教諭の臨時免許状</Sentence>
@@ -665,7 +665,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="325200" AmendLawNum="昭和二五年五月二三日法律第二〇〇号" Id="7ad05adc-19ca-11e8-a703-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二五年五月二三日法律第二〇〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -674,7 +674,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="325234" AmendLawNum="昭和二五年八月四日法律第二三四号" Id="7b054a94-19ca-11e8-a703-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二五年八月四日法律第二三四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -683,7 +683,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="326114" AmendLawNum="昭和二六年三月三一日法律第一一四号" Id="7b3a1e40-19ca-11e8-a703-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二六年三月三一日法律第一一四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -692,7 +692,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="328092" AmendLawNum="昭和二八年七月三〇日法律第九二号" Extract="true" Id="97166b54-189f-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二八年七月三〇日法律第九二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -701,7 +701,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="329159" AmendLawNum="昭和二九年六月三日法律第一五九号" Extract="true" Id="2823fd6e-1887-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二九年六月三日法律第一五九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -710,7 +710,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="332144" AmendLawNum="昭和三二年五月三一日法律第一四四号" Id="7bd85a60-19ca-11e8-a703-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三二年五月三一日法律第一四四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -719,7 +719,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="343094" AmendLawNum="昭和四三年六月一〇日法律第九四号" Extract="true" Id="0daad4a4-1886-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四三年六月一〇日法律第九四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -737,7 +737,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="357039" AmendLawNum="昭和五七年五月一日法律第三九号" Extract="true" Id="30780406-188c-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五七年五月一日法律第三九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -750,7 +750,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="361109" AmendLawNum="昭和六一年一二月二六日法律第一〇九号" Extract="true" Id="2ad3386c-ce5f-49ac-828c-f5ead6b3c39f">
+    <SupplProvision AmendLawNum="昭和六一年一二月二六日法律第一〇九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -781,7 +781,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="363106" AmendLawNum="昭和六三年一二月二八日法律第一〇六号" Extract="true" Id="9906e57e-189f-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六三年一二月二八日法律第一〇六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -806,8 +806,7 @@
             </TableRow>
             <TableRow>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-                <Sentence WritingMode="vertical">小学校教諭、中学校教諭、盲学校教諭、<Ruby>聾<Rt>ろう</Rt>
-</Ruby>学校教諭、養護学校教諭、幼稚園教諭及び養護教諭</Sentence>
+                <Sentence WritingMode="vertical">小学校教諭、中学校教諭、盲学校教諭、<Ruby>聾<Rt>ろう</Rt></Ruby>学校教諭、養護学校教諭、幼稚園教諭及び養護教諭</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical">一級普通免許状</Sentence>
@@ -876,7 +875,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="401067" AmendLawNum="平成元年一一月七日法律第六七号" Extract="true" Id="d8c848de-188a-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成元年一一月七日法律第六七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日等）</ArticleCaption>
@@ -889,7 +888,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="403023" AmendLawNum="平成三年四月二日法律第二三号" Extract="true" Id="29b40390-1887-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成三年四月二日法律第二三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -899,7 +898,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="403025" AmendLawNum="平成三年四月二日法律第二五号" Extract="true" Id="29c4ce00-1887-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成三年四月二日法律第二五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -909,7 +908,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -934,7 +933,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414060" AmendLawNum="平成一四年六月七日法律第六〇号" Extract="true" Id="93318560-d3c8-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年六月七日法律第六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -947,7 +946,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415117" AmendLawNum="平成一五年七月一六日法律第一一七号" Extract="true" Id="f657b2ee-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年七月一六日法律第一一七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -980,7 +979,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418080" AmendLawNum="平成一八年六月二一日法律第八〇号" Extract="true" Id="9564d638-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年六月二一日法律第八〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1028,9 +1027,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">
-<Ruby>聾<Rt>ろう</Rt>
-</Ruby>学校教諭二種免許状</Sentence>
+                  <Sentence WritingMode="vertical"><Ruby>聾<Rt>ろう</Rt></Ruby>学校教諭二種免許状</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence WritingMode="vertical">聴覚障害者に関する教育の領域を定めた特別支援学校教諭二種免許状</Sentence>
@@ -1038,9 +1035,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">
-<Ruby>聾<Rt>ろう</Rt>
-</Ruby>学校助教諭臨時免許状</Sentence>
+                  <Sentence WritingMode="vertical"><Ruby>聾<Rt>ろう</Rt></Ruby>学校助教諭臨時免許状</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence WritingMode="vertical">聴覚障害者に関する教育の領域を定めた特別支援学校助教諭臨時免許状</Sentence>
@@ -1063,7 +1058,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419098" AmendLawNum="平成一九年六月二七日法律第九八号" Extract="true" Id="4b560cf3-f941-47e0-bf06-37474a4a1437">
+    <SupplProvision AmendLawNum="平成一九年六月二七日法律第九八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="268" Year="24">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="268" Year="24" PromulgateMonth="12" PromulgateDay="15">
   <LawNum>昭和二十四年法律第二百六十八号</LawNum>
   <LawBody>
-    <LawTitle>漁業法施行法　抄</LawTitle>
+    <LawTitle Kana="ぎょぎょうほうせこうほう　しょう" Abbrev="" AbbrevKana="">漁業法施行法　抄</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（現存漁業権の存続）</ArticleCaption>
@@ -464,11 +464,6 @@
           <ParagraphSentence>
             <Sentence WritingMode="vertical">漁業財団抵当法（大正十四年法律第九号）の一部を次のように改正する。</Sentence>
           </ParagraphSentence>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence WritingMode="vertical">（「次のよう」略）</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
         </Paragraph>
         <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
@@ -543,7 +538,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="326093" AmendLawNum="昭和二六年三月三一日法律第九三号" Id="971d3c3e-188d-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二六年三月三一日法律第九三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>

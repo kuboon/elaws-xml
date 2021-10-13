@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="502M60000040016" AmendmentNum="令和二年財務省令第十六号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="53" Year="63">
+<Law AmendmentId="502M60000040016" AmendmentNum="令和二年財務省令第十六号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="53" Year="63" PromulgateMonth="03" PromulgateDay="31">
   <LawNum>昭和六十三年大蔵省令第五十三号</LawNum>
   <LawBody>
-    <LawTitle>消費税法施行規則</LawTitle>
+    <LawTitle Kana="しょうひぜいほうせこうきそく" Abbrev="" AbbrevKana="">消費税法施行規則</LawTitle>
     <EnactStatement>消費税法（昭和六十三年法律第百八号）及び消費税法施行令（昭和六十三年政令第三百六十号）の規定に基づき、消費税法施行規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -181,7 +181,7 @@
           <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第七条第二項に規定する財務省令で定めるところにより証明がされたものは、同条第一項に規定する課税資産の譲渡等のうち同項各号に掲げる資産の譲渡等に該当するものを行つた事業者が、当該課税資産の譲渡等につき、次の各号に掲げる場合の区分に応じ当該各号に定める書類又は帳簿を整理し、当該課税資産の譲渡等を行つた日の属する課税期間の末日の翌日から二月（清算中の法人（人格のない社団等を含む。以下同じ。）について残余財産が確定した場合には一月とする。第三項において同じ。）を経過した日から七年間、これを納税地又はその取引に係る事務所、事業所その他これらに準ずるもの（以下この項において「事務所等」という。）の所在地に保存することにより証明がされたものとする。</Sentence>
+              <Sentence WritingMode="vertical">法第七条第二項に規定する財務省令で定めるところにより証明がされたものは、同条第一項に規定する課税資産の譲渡等のうち同項各号に掲げる資産の譲渡等に該当するものを行つた事業者が、当該課税資産の譲渡等につき、次の各号に掲げる場合の区分に応じ当該各号に定める書類又は帳簿を整理し、当該課税資産の譲渡等を行つた日の属する課税期間の末日の翌日から二月（清算中の法人（人格のない社団等を含む。以下同じ。）について残余財産が確定した場合には一月とする。第三項において同じ。）を経過した日から七年間、これを納税地又はその取引に係る事務所、事業所その他これらに準ずるもの（第一号イにおいて「事務所等」という。）の所在地に保存することにより証明がされたものとする。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -196,7 +196,7 @@
               <Subitem1 Delete="false" Hide="false" Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">当該資産を輸出した事業者の氏名又は名称及び住所若しくは居所又は事務所等の所在地（以下この条において「住所等」という。）</Sentence>
+                  <Sentence WritingMode="vertical">当該資産を輸出した事業者の氏名又は名称及び住所若しくは居所又は事務所等の所在地（以下この項において「住所等」という。）</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="2">
@@ -225,9 +225,31 @@
                   <Sentence WritingMode="vertical">法第七条第一項第一号に掲げる輸出として行われる資産の譲渡又は貸付けで郵便物（関税法第七十六条第一項（郵便物の輸出入の簡易手続）に規定する郵便物に限る。以下この号において同じ。）として当該資産を輸出した場合</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">当該輸出した事業者が前号ロ及びハに掲げる事項並びに当該郵便物の受取人の氏名若しくは名称及び住所等を記載した帳簿又は当該郵便物の受取人から交付を受けた物品受領書その他の書類で同号イ及びハに掲げる事項並びに当該郵便物の受取人の氏名若しくは名称及び住所等並びに当該郵便物の受取りの年月日が記載されているもの</Sentence>
+                  <Sentence WritingMode="vertical">次に掲げる郵便物の種類の区分に応じそれぞれ次に定める書類</Sentence>
                 </Column>
               </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">万国郵便条約第一条に規定する小包郵便物又はＥＭＳ郵便物（イにおいて「小包郵便物等」という。）</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">日本郵便株式会社から交付を受けた当該小包郵便物等の引受けを証する書類及び当該小包郵便物等に貼り付け、又は添付した書類（前号イ及びハに掲げる事項、当該小包郵便物等の受取人の氏名又は名称及び住所等並びに日本郵便株式会社による当該小包郵便物等の引受けの年月日が記載されているものに限る。）の写し</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">万国郵便条約第一条に規定する通常郵便物</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">日本郵便株式会社から交付を受けた当該通常郵便物の引受けを証する書類で前号ハに掲げる記載事項に係る追記をしたもの</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
@@ -360,7 +382,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">当該一般物品を譲渡する基地内輸出物品販売場（令第十八条第二項第四号に規定する基地内輪出物品販売場をいう。次項第二号、第五項第二号及び第六項において同じ。）を経営する事業者の氏名又は名称</Sentence>
+                <Sentence WritingMode="vertical">当該一般物品を譲渡する基地内輸出物品販売場（令第十八条第二項第四号に規定する基地内輸出物品販売場をいう。次項第二号、第五項第二号及び第六項において同じ。）を経営する事業者の氏名又は名称</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -450,14 +472,14 @@
             <Item Delete="false" Hide="false" Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">当該運送契約を締結した国際第二種貨物利用運送事業者（令第十八条第二項第三号に規定する国際第二種貨物利用運送事業者をいう。第七項第五号、第七条の二及び第八条第三項において同じ。）の氏名又は名称及び納税地</Sentence>
+                <Sentence WritingMode="vertical">当該運送契約を締結した国際第二種貨物利用運送事業者（令第十八条第二項第三号に規定する国際第二種貨物利用運送事業者をいう。第七項第五号、第七条の二第二項及び第八条第三項において同じ。）の氏名又は名称及び納税地</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
           <Paragraph Hide="false" Num="6" OldStyle="false">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">前三項の規定により記載することとされている事項の全部又は一部が記載されている明細書等（基地内輸出物品販売場を経営する事業者が、令第十八条第二項第四号から第六号までに定める方法により免税対象物品を購入する者に対し、当該購入されるものの譲渡につき交付する領収書の写しその他これに類する書類で当該事業者の氏名又は名称が記載されたものをいう。）を前三項に規定する書類に貼り付け、かつ、当該明細書等と当該書類との間に当該事業者が割印した場合には、前三項の規定にかかわらず、当該全部又は一部の事項の当該書類への記載を省略することができる。</Sentence>
+              <Sentence WritingMode="vertical">前三項の規定により記載することとされている事項の全部又は一部が記載されている明細書等（基地内輸出物品販売場を経営する事業者が、令第十八条第二項第四号から第六号までに定める方法により免税対象物品を購入する者に対し、当該購入されるものの譲渡につき交付する領収書の写しその他これに類する書類で当該事業者の氏名又は名称が記載されたものをいう。）を前三項に規定する書類に貼り付けた場合には、これらの規定にかかわらず、当該全部又は一部の事項の当該書類への記載を省略することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="7" OldStyle="false">
@@ -655,7 +677,7 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">令第十八条第十一項に規定する財務省令で定める書類は、同条第二項第三号に規定する運送契約に係る契約書又は同項第六号に規定する運送契約に係る契約書で第六条第五項各号に掲げる事項を整然と、かつ、明瞭に記載した書類とする。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、当該運送契約に係る同項に規定する書類につき同条第六項の規定により当該事項の全部又は一部の記載が省略されているときは、当該事項に係る同項に規定する明細書等を当該契約書に貼り付け、かつ、当該明細書等と当該契約書との間に国際第二種貨物利用運送事業者（その代理人を含む。）が割印することにより、当該事項の記載を省略することができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該運送契約に係る同項に規定する書類につき同条第六項の規定により当該事項の全部又は一部の記載が省略されているときは、当該事項に係る同項に規定する明細書等を当該契約書に貼り付けることにより、当該事項の記載を省略することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2" OldStyle="false">
@@ -829,7 +851,7 @@
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
                 <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">一般型輸出物品販売場（令第十八条の二第二項第一号に規定する一般型輸出物品販売場をいう。第十条の三第一項第二号において同じ。）に係る法第八条第六項の許可</Sentence>
+                  <Sentence WritingMode="vertical">一般型輸出物品販売場（令第十八条の二第二項第一号に規定する一般型輸出物品販売場をいう。第十条の三第一項第二号、第十条の八第一項及び第十条の九第一項第一号において同じ。）に係る法第八条第六項の許可</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
                   <Sentence WritingMode="vertical">次に掲げる事項</Sentence>
@@ -1725,12 +1747,6 @@
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
-            <Item Delete="false" Hide="false" Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">削除</Sentence>
-              </ItemSentence>
-            </Item>
           </Paragraph>
           <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
@@ -1883,24 +1899,6 @@
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
-            <Item Delete="false" Hide="false" Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">削除</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">削除</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="5">
-              <ItemTitle>五</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">削除</Sentence>
-              </ItemSentence>
-            </Item>
           </Paragraph>
           <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
@@ -1946,12 +1944,10 @@
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">前項第二号に掲げる事業者
-</Sentence>
+                  <Sentence WritingMode="vertical">前項第二号に掲げる事業者</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">次に掲げる書類
-</Sentence>
+                  <Sentence WritingMode="vertical">次に掲げる書類</Sentence>
                 </Column>
               </ItemSentence>
               <Subitem1 Delete="false" Hide="false" Num="1">
@@ -1972,18 +1968,6 @@
                   <Sentence WritingMode="vertical">その他参考となるべき書類</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
-            </Item>
-            <Item Delete="false" Hide="false" Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">削除</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">削除</Sentence>
-              </ItemSentence>
             </Item>
           </Paragraph>
           <Paragraph Hide="false" Num="3" OldStyle="false">
@@ -2515,6 +2499,12 @@
             <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
+                <Sentence WritingMode="vertical">法第三十条第三項の規定の適用を受けようとする最初の課税期間の初日及び末日の年月日</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
                 <Sentence WritingMode="vertical">その他参考となるべき事項</Sentence>
               </ItemSentence>
             </Item>
@@ -2651,13 +2641,13 @@
               <Subitem1 Delete="false" Hide="false" Num="8">
                 <Subitem1Title>チ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">出入国管理及び難民認定法第十九条の三（中長期在留者）に規定する在留カード又は日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法（平成三年法律第七十一号）第七条第一項（特別永住者証明書の交付）に規定する特別永住者証明書で、その課税仕入れの日において有効なものの写し</Sentence>
+                  <Sentence WritingMode="vertical">日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法（平成三年法律第七十一号）第七条第一項（特別永住者証明書の交付）に規定する特別永住者証明書で、その課税仕入れの日において有効なものの写し</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="9">
                 <Subitem1Title>リ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">国税若しくは地方税の領収証書、納税証明書若しくは社会保険料（所得税法（昭和四十年法律第三十三号）第七十四条第二項（社会保険料控除）に規定する社会保険料をいう。）の領収証書（領収日付の押印又は発行年月日の記載のあるもので、その日がその課税仕入れの日前一年以内のものに限る。）又はこれらの書類の写し</Sentence>
+                  <Sentence WritingMode="vertical">国税若しくは地方税の領収証書、納税証明書若しくは社会保険料（所得税法（昭和四十年法律第三十三号）第七十四条第二項（社会保険料控除）に規定する社会保険料をいう。）の領収証書（領収日付又は発行年月日の記載のあるもので、その日がその課税仕入れの日前一年以内のものに限る。）又はこれらの書類の写し</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="10">
@@ -2674,7 +2664,7 @@
                   <Sentence WritingMode="vertical">国内に住所を有しない個人</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">当該個人の前号ハからヌまでに掲げるいずれかの書類</Sentence>
+                  <Sentence WritingMode="vertical">当該個人の前号ハからヘまで、チ又はリに掲げるいずれかの書類</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -2804,7 +2794,7 @@
           <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第三十一条第二項に規定する財務省令で定めるところにより証明がされたときは、同項に規定する資産の輸出をした事業者が、当該資産の輸出につき第五条第一項第一号に定める書類（関税法第七十六条第一項（郵便物の輸出入の簡易手続）に規定する郵便物として当該資産を輸出した場合には、第五条第一項第二号に定める帳簿又は書類）を整理し、当該資産の輸出をした日の属する課税期間の末日の翌日から二月を経過した日から七年間、これを納税地又はその取引に係る事務所等の所在地に保存することにより証明がされたときとする。</Sentence>
+              <Sentence WritingMode="vertical">法第三十一条第二項に規定する財務省令で定めるところにより証明がされたときは、同項に規定する資産の輸出をした事業者が、当該資産の輸出につき第五条第一項第一号に定める書類（関税法第七十六条第一項（郵便物の輸出入の簡易手続）に規定する郵便物として当該資産を輸出した場合には、第五条第一項第二号に定める書類）を整理し、当該資産の輸出をした日の属する課税期間の末日の翌日から二月を経過した日から七年間、これを納税地又はその取引に係る事務所等の所在地に保存することにより証明がされたときとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="3" OldStyle="false">
@@ -3480,8 +3470,7 @@
             <Item Delete="false" Hide="false" Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">相続人が二人以上ある場合には、法第四十五条第一項第四号に掲げる消費税額（同項第六号の規定に該当する場合には、同号に掲げる消費税額）を第二号の各相続人の相続分により<Ruby>按<Rt>あん</Rt>
-</Ruby>分して計算した金額に相当する消費税額</Sentence>
+                <Sentence WritingMode="vertical">相続人が二人以上ある場合には、法第四十五条第一項第四号に掲げる消費税額（同項第六号の規定に該当する場合には、同号に掲げる消費税額）を第二号の各相続人の相続分により<Ruby>按<Rt>あん</Rt></Ruby>分して計算した金額に相当する消費税額</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -3691,7 +3680,7 @@
               <Subitem1 Delete="false" Hide="false" Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">当該添付書類記載事項が記載された書類をスキャナにより読み取る方法その他これに類する方法により作成した情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第三条第七号（定義）に規定する電磁的記録（これらの方法により国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令第五条第二項第二号イ及びロ（電子情報処理組織による申請等）に掲げる要件を満たすように読み取り、又は作成したものに限る。）を電子情報処理組織を使用して送信する方法（イに掲げる方法につき国税庁の使用に係る電子計算機において用いることができない場合に限る。）</Sentence>
+                  <Sentence WritingMode="vertical">当該添付書類記載事項が記載された書類をスキャナにより読み取る方法その他これに類する方法により作成した情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第三条第七号（定義）に規定する電磁的記録（これらの方法により国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令第五条第二項各号（電子情報処理組織による申請等）に掲げる要件を満たすように読み取り、又は作成したものに限る。）を電子情報処理組織を使用して送信する方法（イに掲げる方法につき国税庁の使用に係る電子計算機において用いることができない場合に限る。）</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
@@ -4895,7 +4884,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="401031" AmendLawNum="平成元年三月三一日大蔵省令第三一号" Extract="false" Id="9e95a0ce-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成元年三月三一日大蔵省令第三一号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -4904,7 +4893,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="402008" AmendLawNum="平成二年三月三〇日大蔵省令第八号" Extract="false" Id="9ec58014-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二年三月三〇日大蔵省令第八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -4913,7 +4902,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="403005" AmendLawNum="平成三年三月一五日大蔵省令第五号" Extract="false" Id="9ef351e2-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成三年三月一五日大蔵省令第五号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -4922,7 +4911,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="403022" AmendLawNum="平成三年四月三〇日大蔵省令第二二号" Extract="false" Id="9f212ebe-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成三年四月三〇日大蔵省令第二二号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -4937,7 +4926,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="403034" AmendLawNum="平成三年六月七日大蔵省令第三四号" Extract="false" Id="34be5300-188f-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成三年六月七日大蔵省令第三四号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -4988,7 +4977,7 @@
         </Item>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="407075" AmendLawNum="平成七年一一月二四日大蔵省令第七五号" Extract="false" Id="9f7d1828-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成七年一一月二四日大蔵省令第七五号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5021,7 +5010,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="408021" AmendLawNum="平成八年三月三一日大蔵省令第二一号" Extract="false" Id="9fab0724-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成八年三月三一日大蔵省令第二一号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -5044,7 +5033,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="408036" AmendLawNum="平成八年六月二六日大蔵省令第三六号" Extract="false" Id="9fd9f49e-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成八年六月二六日大蔵省令第三六号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5053,7 +5042,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="409016" AmendLawNum="平成九年三月二六日大蔵省令第一六号" Extract="false" Id="a007db66-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成九年三月二六日大蔵省令第一六号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5062,7 +5051,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="409097" AmendLawNum="平成九年一二月二六日大蔵省令第九七号" Extract="false" Id="a035af6e-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成九年一二月二六日大蔵省令第九七号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5071,7 +5060,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="410028" AmendLawNum="平成一〇年三月一九日大蔵省令第二八号" Extract="true" Id="efdcb396-d3b6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一〇年三月一九日大蔵省令第二八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5084,7 +5073,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="410154" AmendLawNum="平成一〇年一一月三〇日大蔵省令第一五四号" Extract="true" Id="af610062-189e-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一〇年一一月三〇日大蔵省令第一五四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5097,7 +5086,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411037" AmendLawNum="平成一一年三月三一日大蔵省令第三七号" Extract="false" Id="a0bf1ac4-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年三月三一日大蔵省令第三七号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5106,7 +5095,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412018" AmendLawNum="平成一二年三月二四日大蔵省令第一八号" Extract="false" Id="a0ecf822-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年三月二四日大蔵省令第一八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5115,7 +5104,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412065" AmendLawNum="平成一二年七月一二日大蔵省令第六五号" Extract="false" Id="356ddff0-188f-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年七月一二日大蔵省令第六五号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5124,7 +5113,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412069" AmendLawNum="平成一二年八月二一日大蔵省令第六九号" Extract="true" Id="7870dffe-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年八月二一日大蔵省令第六九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -5133,7 +5122,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413031" AmendLawNum="平成一三年三月三〇日財務省令第三一号" Extract="false" Id="a176575c-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年三月三〇日財務省令第三一号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5142,7 +5131,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413048" AmendLawNum="平成一三年六月二九日財務省令第四八号" Extract="false" Id="a1a4a288-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年六月二九日財務省令第四八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5151,7 +5140,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413061" AmendLawNum="平成一三年一一月二六日財務省令第六一号" Extract="false" Id="a1d29846-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年一一月二六日財務省令第六一号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5160,7 +5149,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414001" AmendLawNum="平成一四年一月一〇日財務省令第一号" Extract="false" Id="a20082ec-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年一月一〇日財務省令第一号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5169,7 +5158,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414028" AmendLawNum="平成一四年三月三一日財務省令第二八号" Extract="false" Id="a22e8b4c-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年三月三一日財務省令第二八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5178,7 +5167,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414042" AmendLawNum="平成一四年六月二八日財務省令第四二号" Extract="false" Id="a25c8f06-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年六月二八日財務省令第四二号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5187,7 +5176,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414050" AmendLawNum="平成一四年九月四日財務省令第五〇号" Extract="false" Id="a28a6a16-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年九月四日財務省令第五〇号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5196,7 +5185,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414072" AmendLawNum="平成一四年一二月二七日財務省令第七二号" Extract="true" Id="59d08992-189e-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年一二月二七日財務省令第七二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5209,7 +5198,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415032" AmendLawNum="平成一五年三月三一日財務省令第三二号" Extract="false" Id="a2e67590-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年三月三一日財務省令第三二号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5241,7 +5230,7 @@
         </Item>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="415092" AmendLawNum="平成一五年九月三〇日財務省令第九二号" Extract="false" Id="a3149f88-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年九月三〇日財務省令第九二号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5289,7 +5278,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416065" AmendLawNum="平成一六年一〇月七日財務省令第六五号" Extract="false" Id="a342a7a2-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年一〇月七日財務省令第六五号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5298,7 +5287,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416081" AmendLawNum="平成一六年一二月二八日財務省令第八一号" Extract="true" Id="5a76828e-189e-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年一二月二八日財務省令第八一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5307,7 +5296,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417036" AmendLawNum="平成一七年三月三一日財務省令第三六号" Extract="false" Id="a39e53d6-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年三月三一日財務省令第三六号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5317,7 +5306,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418024" AmendLawNum="平成一八年三月三一日財務省令第二四号" Extract="false" Id="a3cc3fbc-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年三月三一日財務省令第二四号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5341,7 +5330,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419053" AmendLawNum="平成一九年九月二七日財務省令第五三号" Extract="true" Id="5b9cdd2a-189e-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年九月二七日財務省令第五三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5354,7 +5343,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="420056" AmendLawNum="平成二〇年九月一九日財務省令第五六号" Extract="false" Id="bf471d72-18c1-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年九月一九日財務省令第五六号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5377,7 +5366,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="422016" AmendLawNum="平成二二年三月三一日財務省令第一六号" Extract="false" Id="a455c4d0-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二二年三月三一日財務省令第一六号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5387,7 +5376,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423034" AmendLawNum="平成二三年六月三〇日財務省令第三四号" Extract="false" Id="a483abde-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年六月三〇日財務省令第三四号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -5403,7 +5392,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423091" AmendLawNum="平成二三年一二月二日財務省令第九一号" Extract="false" Id="a4b193b4-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年一二月二日財務省令第九一号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5412,7 +5401,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="425006" AmendLawNum="平成二五年三月一八日財務省令第六号" Extract="false" Id="a4df6b5e-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二五年三月一八日財務省令第六号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -5427,7 +5416,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="425037" AmendLawNum="平成二五年五月三一日財務省令第三七号" Extract="false" Id="a50d60c2-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二五年五月三一日財務省令第三七号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5436,7 +5425,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="425045" AmendLawNum="平成二五年六月二八日財務省令第四五号" Extract="false" Id="a53b4f32-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二五年六月二八日財務省令第四五号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5445,7 +5434,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="426026" AmendLawNum="平成二六年三月三一日財務省令第二六号" Extract="false" Id="a5694b44-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年三月三一日財務省令第二六号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -5491,7 +5480,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="426058" AmendLawNum="平成二六年七月九日財務省令第五八号" Extract="false" Id="a5976790-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年七月九日財務省令第五八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5526,7 +5515,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="427027" AmendLawNum="平成二七年三月三一日財務省令第二七号" Extract="true" Id="a5c57a04-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年三月三一日財務省令第二七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5634,7 +5623,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="428020" AmendLawNum="平成二八年三月三一日財務省令第二〇号" Extract="false" Id="a5f38f16-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二八年三月三一日財務省令第二〇号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5983,7 +5972,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="428079" AmendLawNum="平成二八年一一月二八日財務省令第七九号" Extract="false" Id="a621f4aa-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二八年一一月二八日財務省令第七九号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -5992,7 +5981,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="429021" AmendLawNum="平成二九年三月三一日財務省令第二一号" Extract="false" Id="e5085358-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二九年三月三一日財務省令第二一号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6001,7 +5990,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="430018" AmendLawNum="平成三〇年三月三一日財務省令第一八号" Extract="true" Id="2d854b2c-f7c2-4782-a2a7-b56b8052ba7e" Type="Amend">
+    <SupplProvision AmendLawNum="平成三〇年三月三一日財務省令第一八号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6038,7 +6027,7 @@
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">第一条中消費税法施行規則第一条第一項の改正規定、同条の次に一条を加える改正規定、同令第六条に一項を加える改正規定、同令第十二条の改正規定（同条第七項の改正規定を除く。）、同令第十五条第一項第一号の改正規定、同令第十五条の四の改正規定、同条を同令第十五条の七とする改正規定、同令第十五条の三の改正規定（「第五十条第一項に」を「第五十条第一項ただし書に」に改める部分を除く。）、同条を同令第十五条の六とする改正規定、同令第十五条の二の次に三条を加える改正規定、同令第十七条第五項の改正規定、同令第二十一条第三項第一号及び第二十二条第四項第一号の改正規定、同令第二十六条の次に八条を加える改正規定、同令第二十七条の改正規定（同条第六項の改正規定を除く。）並びに同令第二十九条の改正規定（「、第十条の四」の下に「、第十条の六第一項」を加える部分及び「及び第十条の四」を「、第十条の四及び第十条の六第一項」に改める部分を除く。）並びに第三条中消費税法施行規則等の一部を改正する省令（平成二十七年財務省令第二十七号）附則第二条及び第三条の改正規定</Sentence>
+                <Sentence WritingMode="vertical">第一条中消費税法施行規則第一条第一項の改正規定、同条の次に一条を加える改正規定、同令第六条に一項を加える改正規定、同令第十二条の改正規定（同条第七項の改正規定を除く。）、同令第十五条第一項第一号の改正規定、同令第十五条の四の改正規定、同条を同令第十五条の七とする改正規定、同令第十五条の三の改正規定（「第五十条第一項に」を「第五十条第一項ただし書に」に改める部分を除く。）、同条を同令第十五条の六とする改正規定、同令第十五条の二の次に三条を加える改正規定、同令第十七条第五項の改正規定、同令第二十一条第三項第一号及び第二十二条第四項第一号の改正規定、同令第二十六条の次に八条を加える改正規定、同令第二十七条の改正規定（同条第六項の改正規定を除く。）、同令第二十七条の二の改正規定並びに同令第二十九条の改正規定（「、第十条の四」の下に「、第十条の六第一項」を加える部分及び「及び第十条の四」を「、第十条の四及び第十条の六第一項」に改める部分を除く。）並びに第三条中消費税法施行規則等の一部を改正する省令（平成二十七年財務省令第二十七号）附則第二条及び第三条の改正規定</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">令和五年十月一日</Sentence>
@@ -6102,7 +6091,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="431010" AmendLawNum="平成三一年三月二九日財務省令第一〇号" Extract="true" Id="48225f20-5c06-11e9-902f-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成三一年三月二九日財務省令第一〇号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6149,7 +6138,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501034" AmendLawNum="令和元年一一月二九日財務省令第三四号" Id="5ff5f3c4-1276-11ea-bac6-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年一一月二九日財務省令第三四号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6158,7 +6147,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501036" AmendLawNum="令和元年一二月一三日財務省令第三六号" Extract="true" Id="6ca86bea-2074-11ea-b6ae-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年一二月一三日財務省令第三六号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6169,6 +6158,12 @@
             <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行の日（令和元年十二月十六日）から施行する。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
@@ -6182,23 +6177,8 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="10">
-        <ArticleCaption>（消費税法施行規則等の一部を改正する省令の一部改正）</ArticleCaption>
-        <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">消費税法施行規則等の一部を改正する省令（平成三十年財務省令第十八号）の一部を次のように改正する。</Sentence>
-          </ParagraphSentence>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence WritingMode="vertical">附則第三条中「国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令」を「国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令」に改める。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-        </Paragraph>
-      </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502016" AmendLawNum="令和二年三月三一日財務省令第一六号" Id="b3e8fc60-75b3-11ea-a6bb-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和二年三月三一日財務省令第一六号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6265,58 +6245,60 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年三月三一日財務省令第一八号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和三年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第一条中消費税法施行規則第五条第一項第二号の改正規定、同令第十五条の四第一項第一号チの改正規定、同項第二号の改正規定及び同令第十六条第二項の改正規定並びに次条及び附則第三条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">令和三年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第一条中消費税法施行規則第七条第二項の改正規定、同令第十条の六第二項の改正規定、同令第十五条の四第三項の改正規定、同令第二十三条の四第一項の改正規定、同条第六項の改正規定及び同令第二十七条の次に二条を加える改正規定並びに第二条中消費税法施行規則等の一部を改正する省令附則第二条（見出しを含む。）の改正規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">令和四年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（輸出取引等の証明に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一条の規定による改正後の消費税法施行規則（次条において「新規則」という。）第五条第一項第二号及び第十六条第二項の規定は、令和三年十月一日以後にする同号に規定する輸出として行われる資産の譲渡若しくは貸付け又は同項に規定する資産の輸出に係る証明について適用し、同日前にした第一条の規定による改正前の消費税法施行規則（以下この条において「旧規則」という。）第五条第一項第二号に規定する輸出として行われる資産の譲渡若しくは貸付け又は旧規則第十六条第二項に規定する資産の輸出に係る証明については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Delete="false" Hide="false" Num="3">
-        <ArticleCaption>（消費税法施行規則等の一部を改正する省令の一部改正）</ArticleCaption>
+        <ArticleCaption>（本人確認書類の範囲等に関する経過措置）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">消費税法施行規則等の一部を改正する省令（平成二十八年財務省令第二十号）の一部を次のように改正する。</Sentence>
+            <Sentence WritingMode="vertical">新規則第十五条の四第一項第一号チ及び第二号の規定は、令和三年十月一日以後に国内において事業者（消費税法第二条第一項第四号に規定する事業者をいう。以下この条において同じ。）が行う課税仕入れ（同法第三十条第十一項に規定する課税仕入れをいう。以下この条において同じ。）について適用し、同日前に国内において事業者が行った課税仕入れについては、なお従前の例による。</Sentence>
           </ParagraphSentence>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence WritingMode="vertical">附則第七条中「三十一年軽減対象資産の譲渡等」を「元年軽減対象資産の譲渡等」に改める。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence WritingMode="vertical">附則第九条第一項中「三十一年適用日」を「元年適用日」に、「三十一年軽減対象資産の譲渡等」を「元年軽減対象資産の譲渡等」に改め、同条第二項及び第三項中「三十一年軽減対象資産の譲渡等」を「元年軽減対象資産の譲渡等」に改める。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence WritingMode="vertical">附則第十条の見出し中「小規模事業者」を「小規模事業者等」に改め、同条中「三十一年適用日」を「元年適用日」に、「三十一年軽減対象資産の譲渡等」を「元年軽減対象資産の譲渡等」に改める。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence WritingMode="vertical">附則第十一条中「三十一年適用日」を「元年適用日」に、「三十一年軽減対象資産の譲渡等」を「元年軽減対象資産の譲渡等」に改める。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence WritingMode="vertical">附則第十二条第一項中「三十一年適用日」を「元年適用日」に、「三十一年軽減対象資産の譲渡等」を「元年軽減対象資産の譲渡等」に改め、同条第二項中「三十一年適用日」を「元年適用日」に改める。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="4">
-        <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">消費税法施行規則等の一部を改正する省令（平成三十年財務省令第十八号）の一部を次のように改正する。</Sentence>
-          </ParagraphSentence>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence WritingMode="vertical">第一条のうち、消費税法施行規則第一条第一項の改正規定中「国外事業者」」を」の下に「、「被合併法人」」の下に「、「分割法人」」を」を、「第四号の二」に改め」の下に「、「第五号の二」の下に「、第六号」を」を加え、「第九号の二」を」を「第九号の二」を加え、「第十一号」を「第十一号、第十二号」に改め」に改め、「国外事業者」を」の下に「、「、被合併法人」の下に「、分割法人」を」を加え、同令第十五条の四の改正規定中「第三十条第十項」を「第三十条第十一項」に、「同条第十項」を「同条第十一項」に改め、「より行われる場合」の下に「及び金融商品取引法第二条第十七項（定義）に規定する取引所金融商品市場（同条第二十四項第三号の三に規定する商品に係る同条第二十一項に規定する市場デリバティブ取引が行われるものに限る。）における取引により行われる場合」を加え、同令第十五条の二の次に三条を加える改正規定中「いずれかの措置」を「措置のいずれか」に改め、同令第二十六条の次に八条を加える改正規定中「法第二条第一項第六号に規定する」を削り、「いずれかの措置」を「措置のいずれか」に改める。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence WritingMode="vertical">附則第三条中「所得税法等の一部を改正する法律（平成三十年法律第七号）第五条の規定による改正後の消費税法」を「同法」に、「消費税法第九条第一項本文」を「同法第九条第一項本文」に改め、「第一条の規定による改正後の」を削り、「第二十三条の二第一項」を「第二十三条の四第一項」に改める。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
         </Paragraph>
       </Article>
     </SupplProvision>

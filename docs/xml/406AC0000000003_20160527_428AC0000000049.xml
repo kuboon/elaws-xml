@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="3" Year="06">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="3" Year="06" PromulgateMonth="05" PromulgateDay="27">
   <LawNum>平成六年法律第三号</LawNum>
   <LawBody>
-    <LawTitle>衆議院議員選挙区画定審議会設置法</LawTitle>
+    <LawTitle Kana="しゅうぎいんぎいんせんきょくがていしんぎかいせっちほう" Abbrev="区画審設置法,政治改革関連四法" AbbrevKana="く,せ">衆議院議員選挙区画定審議会設置法</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（設置）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">内閣府に、衆議院議員選挙区画定審議会（以下「審議会」という。）を置く。</Sentence>
@@ -17,7 +17,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（所掌事務）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">審議会は、衆議院小選挙区選出議員の選挙区の改定に関し、調査審議し、必要があると認めるときは、その改定案を作成して内閣総理大臣に勧告するものとする。</Sentence>
@@ -27,19 +27,19 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（改定案の作成の基準）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前条の規定による改定案の作成は、各選挙区の人口（最近の国勢調査（統計法（平成十九年法律第五十三号）第五条第二項の規定により行われる国勢調査に限る。）の結果による日本国民の人口をいう。以下この条において同じ。）の均衡を図り、各選挙区の人口のうち、その最も多いものを最も少ないもので除して得た数が二以上とならないようにすることとし、行政区画、地勢、交通等の事情を総合的に考慮して合理的に行わなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次条第一項の規定による勧告に係る前項の改定案の作成に当たっては、各都道府県の区域内の衆議院小選挙区選出議員の選挙区の数は、各都道府県の人口を小選挙区基準除数（その除数で各都道府県の人口を除して得た数（一未満の端数が生じたときは、これを一に切り上げるものとする。）の合計数が公職選挙法（昭和二十五年法律第百号）第四条第一項に規定する衆議院小選挙区選出議員の定数に相当する数と合致することとなる除数をいう。）で除して得た数（一未満の端数が生じたときは、これを一に切り上げるものとする。）とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次条第二項の規定による勧告に係る第一項の改定案の作成に当たっては、各都道府県の区域内の衆議院小選挙区選出議員の選挙区の数は、変更しないものとする。</Sentence>
@@ -49,13 +49,13 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（勧告の期限等）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第二条の規定による勧告は、国勢調査（統計法第五条第二項本文の規定により十年ごとに行われる国勢調査に限る。）の結果による人口が最初に官報で公示された日から一年以内に行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定にかかわらず、審議会は、各選挙区の国勢調査（統計法第五条第二項ただし書の規定により、前項の国勢調査が行われた年から五年目に当たる年に行われる国勢調査に限る。）の結果による日本国民の人口のうち、その最も多いものを最も少ないもので除して得た数が二以上となったときは、当該国勢調査の結果による人口が最初に官報で公示された日から一年以内に、第二条の規定による勧告を行うものとする。</Sentence>
@@ -65,7 +65,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（国会への報告）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">内閣総理大臣は、審議会から第二条の規定による勧告を受けたときは、これを国会に報告するものとする。</Sentence>
@@ -75,52 +75,52 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（組織）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">審議会は、委員七人をもって組織する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">委員は、国会議員以外の者であって、識見が高く、かつ、衆議院小選挙区選出議員の選挙区の改定に関し公正な判断をすることができるもののうちから、両議院の同意を得て、内閣総理大臣が任命する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">委員の任期が満了し、又は欠員を生じた場合において、国会の閉会又は衆議院の解散のために両議院の同意を得ることができないときは、内閣総理大臣は、前項の規定にかかわらず、同項に定める資格を有する者のうちから、委員を任命することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">前項の場合においては、任命後最初の国会で両議院の事後の承認を得なければならない。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、両議院の事後の承認を得られないときは、内閣総理大臣は、直ちにその委員を罷免しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">委員の任期は、五年とする。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、補欠の委員の任期は、前任者の残任期間とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="6">
+        <Paragraph Hide="false" Num="6" OldStyle="false">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">内閣総理大臣は、委員が心身の故障のため職務の執行ができないと認める場合又は委員に職務上の義務違反その他委員たるに適しない非行があると認める場合においては、両議院の同意を得て、これを罷免することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="7">
+        <Paragraph Hide="false" Num="7" OldStyle="false">
           <ParagraphNum>７</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">委員は、職務上知ることのできた秘密を漏らしてはならない。</Sentence>
             <Sentence Num="2" WritingMode="vertical">その職を退いた後も、同様とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="8">
+        <Paragraph Hide="false" Num="8" OldStyle="false">
           <ParagraphNum>８</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">委員は、非常勤とする。</Sentence>
@@ -130,19 +130,19 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（会長）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">審議会に、会長を置き、委員の互選によりこれを定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">会長は、会務を総理し、審議会を代表する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">会長に事故があるときは、あらかじめその指名する委員が、その職務を代理する。</Sentence>
@@ -152,7 +152,7 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（資料提出その他の協力）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">審議会は、その所掌事務を遂行するため必要があると認めるときは、行政機関及び地方公共団体の長に対して、資料の提出、意見の開陳、説明その他の必要な協力を求めることができる。</Sentence>
@@ -162,7 +162,7 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律に定めるもののほか、審議会の組織及び運営その他この法律を実施するため必要な事項は、政令で定める。</Sentence>
@@ -175,7 +175,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公職選挙法の一部を改正する法律の一部を改正する法律（平成六年法律第十号）の公布の日から施行する。</Sentence>
@@ -185,19 +185,19 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（所掌事務等の特例）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">審議会は、第二条に規定する事務をつかさどるほか、公職選挙法の一部を改正する法律（平成六年法律第二号）による改正後の公職選挙法の規定の施行の準備のため衆議院小選挙区選出議員の選挙区の画定に関し、調査審議し、その画定案を作成して内閣総理大臣に勧告するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定による勧告は、委員が任命された日から六月以内に行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第三条の規定は第一項の規定による画定案の作成について、第五条の規定は同項の規定による勧告があった場合について準用する。</Sentence>
@@ -207,7 +207,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成六年三月一一日法律第一一号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -219,7 +219,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日から施行する。</Sentence>
@@ -247,7 +247,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（職員の身分引継ぎ）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行の際現に従前の総理府、法務省、外務省、大蔵省、文部省、厚生省、農林水産省、通商産業省、運輸省、郵政省、労働省、建設省又は自治省（以下この条において「従前の府省」という。）の職員（国家行政組織法（昭和二十三年法律第百二十号）第八条の審議会等の会長又は委員長及び委員、中央防災会議の委員、日本工業標準調査会の会長及び委員並びに　これらに類する者として政令で定めるものを除く。）である者は、別に辞令を発せられない限り、同一の勤務条件をもって、この法律の施行後の内閣府、総務省、法務省、外務省、財務省、文部科学省、厚生労働省、農林水産省、経済産業省、国土交通省若しくは環境省（以下この条において「新府省」という。）又はこれに置かれる部局若しくは機関のうち、この法律の施行の際現に当該職員が属する従前の府省又はこれに置かれる部局若しくは機関の相当の新府省又はこれに置かれる部局若しくは機関として政令で定めるものの相当の職員となるものとする。</Sentence>
@@ -257,14 +257,14 @@
       <Article Delete="false" Hide="false" Num="12">
         <ArticleCaption>（衆議院議員選挙区画定審議会設置法の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に従前の総理府の衆議院議員選挙区画定審議会の委員である者は、この法律の施行の日に、第二十六条の規定による改正後の衆議院議員選挙区画定審議会設置法（以下この条において「新選挙区画定審議会法」という。）第六条第二項の規定により、内閣府の衆議院議員選挙区画定審議会の委員として任命されたものとみなす。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、その任命されたものとみなされる者の任期は、新選挙区画定審議会法第六条第五項の規定にかかわらず、同日における従前の総理府の衆議院議員選挙区画定審議会の委員としての任期の残任期間と同一の期間とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行の際現に従前の総理府の衆議院議員選挙区画定審議会の会長である者は、この法律の施行の日に、新選挙区画定審議会法第七条第一項の規定により、内閣府の衆議院議員選挙区画定審議会の会長として定められたものとみなす。</Sentence>
@@ -274,7 +274,7 @@
       <Article Delete="false" Hide="false" Num="30">
         <ArticleCaption>（別に定める経過措置）</ArticleCaption>
         <ArticleTitle>第三十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第二条から前条までに規定するもののほか、この法律の施行に伴い必要となる経過措置は、別に法律で定める。</Sentence>
@@ -287,7 +287,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
@@ -300,7 +300,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -779,7 +779,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -790,13 +790,13 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（平成二十七年の国勢調査の結果に基づく改定案の作成及び勧告並びに法制上の措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">衆議院議員選挙区画定審議会は、第一条の規定による改正後の衆議院議員選挙区画定審議会設置法（以下この条において「新選挙区画定審議会法」という。）第四条の規定にかかわらず、平成二十七年の国勢調査の結果に基づく新選挙区画定審議会法第二条の規定による改定案（以下この条において「平成二十七年の国勢調査の結果に基づく改定案」という。）の作成及び勧告を行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定による平成二十七年の国勢調査の結果に基づく改定案の作成に当たっては、新選挙区画定審議会法第三条の規定にかかわらず、各都道府県の区域内の衆議院小選挙区選出議員の選挙区（以下この項及び次項において「小選挙区」という。）の数は、次の各号に掲げる都道府県の区分に応じ、当該各号に定める数とする。</Sentence>
@@ -824,7 +824,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の規定による平成二十七年の国勢調査の結果に基づく改定案の作成は、新選挙区画定審議会法第三条の規定にかかわらず、次に掲げる基準によって行わなければならない。</Sentence>
@@ -879,13 +879,13 @@
             </Subitem1>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">新選挙区画定審議会法第二条の規定による平成二十七年の国勢調査の結果に基づく改定案の勧告は、新選挙区画定審議会法第四条の規定にかかわらず、この法律の施行の日から一年以内においてできるだけ速やかに行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、平成二十七年の国勢調査の結果に基づく改定案に係る新選挙区画定審議会法第二条の規定による勧告があったときは、当該勧告に基づき、速やかに、必要な法制上の措置を講ずるものとする。</Sentence>
@@ -895,7 +895,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（新公職選挙法別表第二に規定する各選挙区の議員数）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">新公職選挙法第十三条第一項に規定する法律で定める新公職選挙法別表第二に規定する各選挙区（以下この条において「比例選挙区」という。）の議員数は、次の各号に掲げる比例選挙区の区分に応じ、当該各号に定める数とする。</Sentence>
@@ -927,7 +927,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（適用区分）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">新公職選挙法の規定は、一部施行日以後初めてその期日を公示される衆議院議員の総選挙（以下この条において「一部施行日以後の初回の総選挙」という。）から適用し、一部施行日の前日までにその期日を公示された衆議院議員の総選挙及び一部施行日以後の初回の総選挙の期日の公示の日の前日までにその期日を告示される衆議院議員の選挙については、なお従前の例による。</Sentence>
@@ -937,7 +937,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（不断の見直し）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行後においても、全国民を代表する国会議員を選出するための望ましい選挙制度の在り方については、民意の集約と反映を基本としその間の適正なバランスに配慮しつつ、公正かつ効果的な代表という目的が実現されるよう、不断の見直しが行われるものとする。</Sentence>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="335" Year="03">
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="335" Year="03" PromulgateMonth="10" PromulgateDay="25">
   <LawNum>平成三年政令第三百三十五号</LawNum>
   <LawBody>
-    <LawTitle>暴力団員による不当な行為の防止等に関する法律施行令</LawTitle>
+    <LawTitle Kana="ぼうりょくだんいんによるふとうなこういのぼうしとうにかんするほうりつせこうれい" Abbrev="暴対法施行令,暴力団対策法施行令" AbbrevKana="ぼ,ぼ">暴力団員による不当な行為の防止等に関する法律施行令</LawTitle>
     <EnactStatement>内閣は、暴力団員による不当な行為の防止等に関する法律（平成三年法律第七十七号）第三条第二号、第二十七条第三項、第二十九条及び第三十条の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -537,7 +537,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="405208" AmendLawNum="平成五年六月二三日政令第二〇八号" Extract="false" Id="0b31bdba-7352-496a-9d6c-241cef4128b8" Type="Amend">
+    <SupplProvision AmendLawNum="平成五年六月二三日政令第二〇八号" Extract="false" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -546,7 +546,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411321" AmendLawNum="平成一一年一〇月一四日政令第三二一号" Extract="false" Id="74844bd7-d7e2-4d5c-badd-a6b6aedde738" Type="Amend">
+    <SupplProvision AmendLawNum="平成一一年一〇月一四日政令第三二一号" Extract="false" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -555,7 +555,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="420171" AmendLawNum="平成二〇年五月二日政令第一七一号" Extract="false" Id="a0e6a738-a79d-412f-9736-03a5c85c5e25" Type="Amend">
+    <SupplProvision AmendLawNum="平成二〇年五月二日政令第一七一号" Extract="false" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -564,7 +564,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="424258" AmendLawNum="平成二四年一〇月一七日政令第二五八号" Extract="true" Id="03c6f93b-1d4b-41ff-b403-172dba081424" Type="Amend">
+    <SupplProvision AmendLawNum="平成二四年一〇月一七日政令第二五八号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -574,7 +574,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="424261" AmendLawNum="平成二四年一〇月一九日政令第二六一号" Extract="false" Id="c3fe915c-8bdc-4160-9b46-7b3ed840566d" Type="Amend">
+    <SupplProvision AmendLawNum="平成二四年一〇月一九日政令第二六一号" Extract="false" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="33" Year="20">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="33" Year="20" PromulgateMonth="05" PromulgateDay="29" ScheduledEnforcementDate="2022/11/28">
   <LawNum>平成二十年法律第三十三号</LawNum>
   <LawBody>
-    <LawTitle>中小企業における経営の承継の円滑化に関する法律</LawTitle>
+    <LawTitle Kana="ちゅうしょうきぎょうにおけるけいえいのしょうけいのえんかつかにかんするほうりつ" Abbrev="経営承継円滑化法,中小企業経営承継円滑化法" AbbrevKana="け,ち">中小企業における経営の承継の円滑化に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -15,11 +15,11 @@
       </TOCChapter>
       <TOCChapter Num="3">
         <ChapterTitle>第三章　支援措置</ChapterTitle>
-        <ArticleRange>（第十二条―第十五条）</ArticleRange>
+        <ArticleRange>（第十二条―第十六条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="4">
         <ChapterTitle>第四章　雑則</ChapterTitle>
-        <ArticleRange>（第十六条・第十七条）</ArticleRange>
+        <ArticleRange>（第十七条・第十八条）</ArticleRange>
       </TOCChapter>
       <TOCSupplProvision>
         <SupplProvisionLabel>附則</SupplProvisionLabel>
@@ -525,7 +525,7 @@
                   <Sentence>会社である中小企業者（金融商品取引法第二条第十六項に規定する金融商品取引所に上場されている株式又は同法第六十七条の十一第一項の店頭売買有価証券登録原簿に登録されている株式を発行している株式会社を除く。以下この項において同じ。）</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>次のイ又はロのいずれかに該当すること。</Sentence>
+                  <Sentence>次のいずれかに該当すること。</Sentence>
                 </Column>
               </ItemSentence>
               <Subitem1 Num="1">
@@ -537,7 +537,25 @@
               <Subitem1 Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence>当該中小企業者が、他の中小企業者の役員（当該他の中小企業者が法人である場合に限る。次号ロ及び第三号において同じ。）又は親族（他の中小企業者が法人である場合にあっては、当該他の中小企業者の代表者の親族を含む。次号ロ及び第三号において同じ。）の中から当該他の中小企業者の経営を承継しようとする者を確保することが困難であることその他経済産業省令で定める事由が生じていることにより、当該他の中小企業者の事業活動の継続に支障が生じている場合であって、当該他の中小企業者の経営の承継を行うため、当該承継に不可欠な資産の譲受けを行うものであると認められること。</Sentence>
+                  <Sentence>当該中小企業者（純資産の額が一定の額以上であることその他の経済産業省令で定める要件を備えているものを除く。）が、他の中小企業者の役員（当該他の中小企業者が法人である場合に限る。ハ、次号ロ及び第三号において同じ。）又は親族（他の中小企業者が法人である場合にあっては、当該他の中小企業者の代表者の親族を含む。ハ、次号ロ及び第三号において同じ。）の中から当該他の中小企業者の経営を承継しようとする者を確保することが困難であることその他経済産業省令で定める事由が生じていることにより、当該他の中小企業者の事業活動の継続に支障が生じている場合であって、当該他の中小企業者の経営の承継を行うため、当該承継に不可欠な資産の譲受けを行うものであると認められること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>当該中小企業者（純資産の額が一定の額以上であることその他の経済産業省令で定める要件を備えているものに限る。ニにおいて同じ。）が、他の中小企業者の役員又は親族の中から当該他の中小企業者の経営を承継しようとする者を確保することが困難であることその他経済産業省令で定める事由が生じていることにより、当該他の中小企業者の事業活動の継続に支障が生じている場合であって、当該他の中小企業者の経営の承継を行うため、当該承継に不可欠な資産の譲受けを行うものであると認められること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>当該中小企業者の代表者が当該中小企業者の金融機関（中小企業信用保険法（昭和二十五年法律第二百六十四号）第三条第一項に規定する金融機関をいう。次条第六項及び第十六条第三項において同じ。）からの借入れによる債務を保証していることその他当該中小企業者の経営の承継を妨げることとなるおそれがある事由として経済産業省令で定める事由が生じているため、当該中小企業者の事業活動の継続に支障が生じていると認められること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="5">
+                <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>当該中小企業者（株式会社に限る。）の代表者が年齢、健康状態その他の事情により、継続的かつ安定的に経営を行うことが困難であるため、当該中小企業者の事業活動の継続に支障が生じている場合であって、当該中小企業者の一部の株主の所在が不明であることにより、その経営を当該代表者以外の者（第十六条第二項において「株式会社事業後継者」という。）に円滑に承継させることが困難であると認められること。</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
@@ -589,7 +607,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>中小企業信用保険法（昭和二十五年法律第二百六十四号）第三条第一項に規定する普通保険、同法第三条の二第一項に規定する無担保保険又は同法第三条の三第一項に規定する特別小口保険の保険関係であって、経営承継関連保証（同法第三条第一項、第三条の二第一項又は第三条の三第一項に規定する債務の保証であって、前条第一項の認定を受けた中小企業者（同項第一号イ及び第二号イに該当する者に限る。以下この項において同じ。）の事業に必要な資金に係るものをいう。）を受けた当該中小企業者に係るものについての次の表の上欄に掲げる同法の規定の適用については、これらの規定中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
+              <Sentence>中小企業信用保険法第三条第一項に規定する普通保険（第三項、第四項及び第六項において「普通保険」という。）、同法第三条の二第一項に規定する無担保保険（第三項、第四項及び第六項において「無担保保険」という。）又は同法第三条の三第一項に規定する特別小口保険（第三項、第四項及び第六項において「特別小口保険」という。）の保険関係であって、経営承継関連保証（同法第三条第一項、第三条の二第一項又は第三条の三第一項に規定する債務の保証であって、前条第一項の認定を受けた中小企業者（同項第一号イ及び第二号イに該当する者に限る。以下この項において同じ。）の事業に必要な資金に係るものをいう。）を受けた当該中小企業者に係るものについての次の表の上欄に掲げる同法の規定の適用については、これらの規定中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
             </ParagraphSentence>
             <TableStruct>
               <Table>
@@ -646,7 +664,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>中小企業信用保険法第三条第一項に規定する普通保険、同法第三条の二第一項に規定する無担保保険又は同法第三条の三第一項に規定する特別小口保険の保険関係であって、経営承継準備関連保証（同法第三条第一項、第三条の二第一項又は第三条の三第一項に規定する債務の保証であって、前条第一項の認定を受けた中小企業者（同項第一号ロ及び第二号ロに該当する者に限る。以下この項において同じ。）が他の中小企業者の経営の承継に不可欠な資産を取得するために必要な資金に係るものをいう。）を受けた当該中小企業者に係るものについての次の表の上欄に掲げる同法の規定の適用については、これらの規定中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
+              <Sentence>普通保険、無担保保険又は特別小口保険の保険関係であって、経営承継準備関連保証（中小企業信用保険法第三条第一項、第三条の二第一項又は第三条の三第一項に規定する債務の保証であって、前条第一項の認定を受けた中小企業者（同項第一号ロ及びハ並びに第二号ロに該当する者に限る。）が他の中小企業者の経営の承継に不可欠な資産を取得するために必要な資金に係るものをいう。次項において同じ。）を受けた当該中小企業者（同条第一項第一号ロ又は第二号ロに該当する者として同項の認定を受けた者に限る。）に係るものについての次の表の上欄に掲げる同法の規定の適用については、これらの規定中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
             </ParagraphSentence>
             <TableStruct>
               <Table>
@@ -697,8 +715,148 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
+              <Sentence>普通保険、無担保保険又は特別小口保険の保険関係であって、経営承継準備関連保証を受けた中小企業者（前条第一項第一号ハに該当する者として同項の認定を受けた者に限る。）に係るものについての次の表の上欄に掲げる中小企業信用保険法の規定の適用については、これらの規定中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
+            </ParagraphSentence>
+            <TableStruct>
+              <Table>
+                <TableRow>
+                  <TableColumn Valign="top" rowspan="2">
+                    <Sentence>第三条第一項</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>含む。）</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>含む。）であつてその保証について保証人の保証を提供させないもの</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn Valign="top">
+                    <Sentence>保険価額の合計額が</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>中小企業における経営の承継の円滑化に関する法律第十三条第三項に規定する経営承継準備関連保証（以下「経営承継準備関連保証」という。）に係る保険関係の保険価額の合計額とその他の保険関係の保険価額の合計額とがそれぞれ</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn Valign="top">
+                    <Sentence>第三条の二第一項</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>保証人の保証を除く。</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>保証人の保証を含む。</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn Valign="top">
+                    <Sentence>第三条の二第一項及び第三条の三第一項</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>保険価額の合計額が</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>経営承継準備関連保証に係る保険関係の保険価額の合計額とその他の保険関係の保険価額の合計額とがそれぞれ</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn Valign="top" rowspan="2">
+                    <Sentence>第三条の二第三項及び第三条の三第二項</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>当該借入金の額のうち</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>経営承継準備関連保証及びその他の保証ごとに、それぞれ当該借入金の額のうち</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn Valign="top">
+                    <Sentence>当該債務者</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>経営承継準備関連保証及びその他の保証ごとに、当該債務者</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
               <Sentence>前条第一項の認定を受けた同項第三号に掲げる事業を営んでいない個人であって、特定経営承継準備関連保証（中小企業信用保険法第三条第一項、第三条の二第一項又は第三条の三第一項に規定する債務の保証であって、当該事業を営んでいない個人が他の中小企業者の経営の承継に不可欠な資産を取得するための資金に係るものをいう。）を受けたものについては、当該事業を営んでいない個人を同法第二条第一項の中小企業者とみなして、同法第三条から第三条の三まで及び第四条から第八条までの規定を適用する。</Sentence>
             </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>普通保険、無担保保険又は特別小口保険の保険関係であって、経営承継借換関連保証（中小企業信用保険法第三条第一項、第三条の二第一項又は第三条の三第一項に規定する債務の保証であって、前条第一項の認定を受けた中小企業者（同項第一号ニに該当する者に限る。以下この項において同じ。）の経営の承継に必要な資金のうち当該認定の日から経営の承継の日までの間における金融機関からの借入れの借換えのために要する資金に係るものをいう。）を受けた当該中小企業者に係るものについての次の表の上欄に掲げる同法の規定の適用については、これらの規定中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
+            </ParagraphSentence>
+            <TableStruct>
+              <Table>
+                <TableRow>
+                  <TableColumn Valign="top" rowspan="2">
+                    <Sentence>第三条第一項</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>含む。）</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>含む。）であつてその保証について保証人の保証を提供させないもの</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn Valign="top">
+                    <Sentence>保険価額の合計額が</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>中小企業における経営の承継の円滑化に関する法律第十三条第六項に規定する経営承継借換関連保証（以下「経営承継借換関連保証」という。）に係る保険関係の保険価額の合計額とその他の保険関係の保険価額の合計額とがそれぞれ</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn Valign="top">
+                    <Sentence>第三条の二第一項</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>保証人の保証を除く。</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>保証人の保証を含む。</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn Valign="top">
+                    <Sentence>第三条の二第一項及び第三条の三第一項</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>保険価額の合計額が</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>経営承継借換関連保証に係る保険関係の保険価額の合計額とその他の保険関係の保険価額の合計額とがそれぞれ</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn Valign="top" rowspan="2">
+                    <Sentence>第三条の二第三項及び第三条の三第二項</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>当該借入金の額のうち</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>経営承継借換関連保証及びその他の保証ごとに、それぞれ当該借入金の額のうち</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn Valign="top">
+                    <Sentence>当該債務者</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>経営承継借換関連保証及びその他の保証ごとに、当該債務者</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
           </Paragraph>
         </Article>
         <Article Num="14">
@@ -724,8 +882,55 @@
           </Paragraph>
         </Article>
         <Article Num="15">
-          <ArticleCaption>（指導及び助言）</ArticleCaption>
+          <ArticleCaption>（所在不明株主の株式の競売及び売却に関する特例）</ArticleCaption>
           <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第十二条第一項第一号ホに該当する者として同項の認定を受けた者（次項及び次条第五項において「特例株式会社」という。）についての会社法（平成十七年法律第八十六号）第百九十七条の規定の適用については、同条第一項第一号中「前条第一項又は第二百九十四条第二項の規定により通知及び催告をすることを要しない」とあるのは「する通知又は催告が一年以上継続して到達しない」と、同項第二号中「五年間」とあるのは「一年間」と、同条第五項第一号中「前条第三項において準用する同条第一項の規定により」とあるのは「当該登録株式質権者に対してする」と、「をすることを要しない」とあるのは「が一年以上継続して到達しない」と、同項第二号中「五年間」とあるのは「一年間」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">前項の規定により読み替えて適用する会社法第百九十七条第一項の規定による競売又は同条第二項の規定による売却をする場合には、特例株式会社は、同法第百九十八条第一項に定める手続に先立ち、前項の規定により読み替えて適用する同法第百九十七条第一項の株式の株主その他の利害関係人が一定の期間内に異議を述べることができる旨その他経済産業省令で定める事項を公告し、かつ、当該株式の株主及びその登録株式質権者（同法第百四十九条第一項に規定する登録株式質権者をいう。次項第三号において同じ。）には、各別にこれを催告しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、当該期間は、三月を下ることができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>次の各号のいずれかに該当する場合には、第一項の規定は適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>前項の期間が満了していない場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>前項の期間内に利害関係人が異議を述べた場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>前項の規定による催告が同項に規定する株式の株主又はその登録株式質権者に到達した場合</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>会社法第百九十八条第二項から第四項までの規定は、第二項の規定による催告について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleCaption>（指導及び助言等）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -735,22 +940,34 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>独立行政法人中小企業基盤整備機構は、中小企業者の経営の承継の円滑化を図るため、旧代表者（第三条第二項に規定する旧代表者をいう。）、会社事業後継者（同条第三項に規定する会社事業後継者をいう。）、旧個人事業者（同条第四項に規定する旧個人事業者をいう。）、個人事業後継者（同条第五項に規定する個人事業後継者をいう。）その他その経営に従事する者に対して、その経営の承継の円滑化に関し必要な助言を行うものとする。</Sentence>
+              <Sentence>独立行政法人中小企業基盤整備機構（以下この条において「機構」という。）は、中小企業者の経営の承継の円滑化を図るため、旧代表者（第三条第二項に規定する旧代表者をいう。）、会社事業後継者（同条第三項に規定する会社事業後継者をいう。）、旧個人事業者（同条第四項に規定する旧個人事業者をいう。）、個人事業後継者（同条第五項に規定する個人事業後継者をいう。）、株式会社事業後継者その他その経営に従事する者に対して、その経営の承継の円滑化に関し必要な助言を行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>独立行政法人中小企業基盤整備機構は、中小企業者の経営の承継の円滑化のため、商工会又は商工会議所の依頼に応じて、専門家の派遣その他必要な協力の業務を行う。</Sentence>
+              <Sentence>機構は、中小企業者の経営の承継の円滑化を図るため、第十三条第四項又は第六項の保険関係に係る債務の保証を受けようとする中小企業者に対して資金の貸付けを行おうとする金融機関の依頼に応じて、当該保証に関する情報の提供その他必要な協力の業務を行う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>機構は、中小企業者の経営の承継の円滑化を図るため、商工会又は商工会議所の依頼に応じて、専門家の派遣その他必要な協力の業務を行う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>機構は、中小企業者の経営の承継の円滑化を図るため、特例株式会社に対して前条第一項の規定により読み替えて適用する会社法第百九十七条第二項の規定により売却する株式の全部又は一部を同条第三項の規定により買い取るための資金の貸付けを行おうとする金融機関の依頼に応じて、その売却又は買取りの手続に関する情報の提供その他必要な協力の業務を行う。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
       </Chapter>
       <Chapter Num="4">
         <ChapterTitle>第四章　雑則</ChapterTitle>
-        <Article Num="16">
+        <Article Num="17">
           <ArticleCaption>（都道府県が処理する事務）</ArticleCaption>
-          <ArticleTitle>第十六条</ArticleTitle>
+          <ArticleTitle>第十七条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -758,9 +975,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="17">
+        <Article Num="18">
           <ArticleCaption>（権限の委任）</ArticleCaption>
-          <ArticleTitle>第十七条</ArticleTitle>
+          <ArticleTitle>第十八条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -804,7 +1021,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423053" AmendLawNum="平成二三年五月二五日法律第五三号" Id="f6b9778e-d3b2-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年五月二五日法律第五三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -813,7 +1030,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427029" AmendLawNum="平成二七年五月二七日法律第二九号" Extract="true" Id="b2c4b39a-d3b2-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年五月二七日法律第二九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -827,7 +1044,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="427050" AmendLawNum="平成二七年六月二六日法律第五〇号" Extract="true" Id="fc691afb-90e7-e17d-cf7b-bfcedc49aa77">
+    <SupplProvision AmendLawNum="平成二七年六月二六日法律第五〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -897,7 +1114,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="427061" AmendLawNum="平成二七年八月二八日法律第六一号" Extract="true" Id="63771aeb-dbad-4d96-ded5-b9afee27fd2e">
+    <SupplProvision AmendLawNum="平成二七年八月二八日法律第六一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -921,7 +1138,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="429056" AmendLawNum="平成二九年六月一四日法律第五六号" Id="cd221a90-50c2-11e7-8431-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成二九年六月一四日法律第五六号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -930,7 +1147,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="430026" AmendLawNum="平成三〇年五月二三日法律第二六号" Extract="true" Id="a3be7b24-5f41-11e8-ac6b-005056b30d52">
+    <SupplProvision AmendLawNum="平成三〇年五月二三日法律第二六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -985,7 +1202,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430072" AmendLawNum="平成三〇年七月一三日法律第七二号" Extract="true" Id="49a36c64-897e-11e8-812d-005056b30d52">
+    <SupplProvision AmendLawNum="平成三〇年七月一三日法律第七二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1020,7 +1237,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501021" AmendLawNum="令和元年六月五日法律第二一号" Extract="true" Id="52764baa-8b1b-11e9-a502-005056b30d52">
+    <SupplProvision AmendLawNum="令和元年六月五日法律第二一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1086,7 +1303,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501037" AmendLawNum="令和元年六月一四日法律第三七号" Extract="true" Id="336d780c-93f2-11e9-83b1-005056b30d52">
+    <SupplProvision AmendLawNum="令和元年六月一四日法律第三七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1131,7 +1348,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502033" AmendLawNum="令和二年五月二九日法律第三三号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年五月二九日法律第三三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1140,6 +1357,84 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この法律は、公布の日から起算して二年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一九日法律第五八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に定めるもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後五年を目途として、この法律による改正後の規定の実施状況を勘案し、必要があると認めるときは、当該規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年六月一六日法律第七〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中産業競争力強化法目次の改正規定（「事業活動における知的財産権」を「場所の定めのない株主総会等」に改める部分に限る。）及び同法第三章第四節の改正規定並びに附則第三条、第十九条及び第二十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後三年を目途として、経済社会情勢の変化を勘案しつつ、この法律による改正後の規定の施行の状況について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="20">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

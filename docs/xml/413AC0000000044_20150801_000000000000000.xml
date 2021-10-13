@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="44" Year="13">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="44" Year="13" PromulgateMonth="06" PromulgateDay="08">
   <LawNum>平成十三年法律第四十四号</LawNum>
   <LawBody>
-    <LawTitle>通信・放送融合技術の開発の促進に関する法律</LawTitle>
+    <LawTitle Kana="つうしんほうそうゆうごうぎじゅつのかいはつのそくしんにかんするほうりつ" Abbrev="通信・放送融合法" AbbrevKana="つ">通信・放送融合技術の開発の促進に関する法律</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -128,7 +128,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414134" AmendLawNum="平成一四年一二月六日法律第一三四号" Extract="true" Id="cb2f7cc4-70b6-462b-bfda-e1cdebebf58a">
+    <SupplProvision AmendLawNum="平成一四年一二月六日法律第一三四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -141,7 +141,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426067" AmendLawNum="平成二六年六月一三日法律第六七号" Extract="true" Id="200c49da-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年六月一三日法律第六七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="64" Year="20">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="64" Year="20" PromulgateMonth="06" PromulgateDay="11">
   <LawNum>平成二十年法律第六十四号</LawNum>
   <LawBody>
-    <LawTitle>領海等における外国船舶の航行に関する法律</LawTitle>
+    <LawTitle Kana="りょうかいとうにおけるがいこくせんぱくのこうこうにかんするほうりつ" Abbrev="領海外国船舶航行法" AbbrevKana="り">領海等における外国船舶の航行に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Delete="false" Num="1">
@@ -322,7 +322,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="424071" AmendLawNum="平成二四年九月五日法律第七一号" Extract="true" Id="8d735366-192e-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年九月五日法律第七一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="16" Year="24">
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="16" Year="24" PromulgateMonth="06" PromulgateDay="26">
   <LawNum>平成二十四年政令第十六号</LawNum>
   <LawBody>
-    <LawTitle>復興特別所得税に関する政令</LawTitle>
+    <LawTitle Kana="ふっこうとくべつしょとくぜいにかんするせいれい" Abbrev="" AbbrevKana="">復興特別所得税に関する政令</LawTitle>
     <EnactStatement>内閣は、東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法（平成二十三年法律第百十七号）第四章の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -305,15 +305,15 @@
                   <Sentence>法第百三十九条第三項若しくは</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence>特別措置法第十九条第七項において準用する法第百三十九条第三項若しくは特別措置法第二十三条第九項（更正等又は決定による源泉徴収特別税額等の還付等）において準用する法</Sentence>
+                  <Sentence>特別措置法第十九条第七項において準用する法第百三十九条第三項若しくは特別措置法第二十三条第七項（更正等による源泉徴収特別税額等の還付等）において準用する法</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>法第百三十九条第一項若しくは第百六十条第一項若しくは第二項</Sentence>
+                  <Sentence>法第百三十九条第一項若しくは第百六十条第一項</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence>特別措置法第十九条第三項若しくは第二十三条第四項若しくは第五項</Sentence>
+                  <Sentence>特別措置法第十九条第三項若しくは第二十三条第三項</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -348,10 +348,10 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>法第百三十九条第二項又は第百六十条第三項（更正等又は決定による予納税額の還付）</Sentence>
+                  <Sentence>法第百三十九条第二項又は第百六十条第二項（更正等による予納税額の還付）</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence>特別措置法第十九条第四項又は第二十三条第六項（更正等又は決定による源泉徴収特別税額等の還付等）</Sentence>
+                  <Sentence>特別措置法第十九条第四項又は第二十三条第四項（更正等による源泉徴収特別税額等の還付等）</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -359,10 +359,10 @@
                   <Sentence>第二百七十条第二号</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence>法第百三十九条第一項又は第百六十条第一項若しくは第二項</Sentence>
+                  <Sentence>法第百三十九条第一項又は第百六十条第一項</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence>特別措置法第十九条第三項又は第二十三条第四項若しくは第五項</Sentence>
+                  <Sentence>特別措置法第十九条第三項又は第二十三条第三項</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -375,7 +375,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>同項第五号</Sentence>
+                  <Sentence>同項第四号</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence>同項第三号</Sentence>
@@ -432,12 +432,12 @@
         </Paragraph>
       </Article>
       <Article Num="8">
-        <ArticleCaption>（更正等又は決定による源泉徴収特別税額等の還付等）</ArticleCaption>
+        <ArticleCaption>（更正等による源泉徴収特別税額等の還付等）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1">法第二十三条第一項、第二項又は第四項から第六項までの規定により還付する復興特別所得税については、所得税法施行令第二百七十七条及び第二百七十八条（これらの規定を同令第二百九十五条において準用する場合を含む。）の規定を準用する。</Sentence>
+            <Sentence Num="1">法第二十三条第一項、第三項又は第四項の規定により還付する復興特別所得税については、所得税法施行令第二百七十七条及び第二百七十八条（これらの規定を同令第二百九十五条において準用する場合を含む。）の規定を準用する。</Sentence>
             <Sentence Num="2">この場合において、これらの規定中「源泉徴収税額」とあるのは「源泉徴収特別税額」と読み替えるほか、次の表の上欄に掲げる同令の規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
@@ -455,10 +455,10 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>法第百五十九条第一項又は第二項</Sentence>
+                  <Sentence>法第百五十九条第一項</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence>東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法（以下「特別措置法」という。）第二十三条第一項又は第二項（更正等又は決定による源泉徴収特別税額等の還付等）</Sentence>
+                  <Sentence>東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法（以下「特別措置法」という。）第二十三条第一項（更正等による源泉徴収特別税額等の還付等）</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -466,10 +466,10 @@
                   <Sentence>第二百七十七条第三項</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence>法第百五十九条第一項又は第二項</Sentence>
+                  <Sentence>法第百五十九条第一項</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence>特別措置法第二十三条第一項又は第二項</Sentence>
+                  <Sentence>特別措置法第二十三条第一項</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -477,10 +477,10 @@
                   <Sentence>第二百七十八条第一項</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence>法第百六十条第三項（更正等又は決定による予納税額の還付）</Sentence>
+                  <Sentence>法第百六十条第二項（更正等による予納税額の還付）</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence>特別措置法第二十三条第六項（更正等又は決定による源泉徴収特別税額等の還付等）</Sentence>
+                  <Sentence>特別措置法第二十三条第四項（更正等による源泉徴収特別税額等の還付等）</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -488,15 +488,15 @@
                   <Sentence>第二百七十八条第一項第一号</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence>法第百六十条第一項又は第二項</Sentence>
+                  <Sentence>法第百六十条第一項</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence>特別措置法第二十三条第四項又は第五項</Sentence>
+                  <Sentence>特別措置法第二十三条第三項</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>法第百二十条第二項各号（予納税額の意義）</Sentence>
+                  <Sentence>法第百二十条第二項各号（確定所得申告）</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence>特別措置法第十七条第四項各号（課税標準及び税額の申告）</Sentence>
@@ -504,10 +504,10 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>法第百三十九条第二項（予納税額の還付）又は第百六十条第三項</Sentence>
+                  <Sentence>法第百三十九条第二項（予納税額の還付）又は第百六十条第二項</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence>特別措置法第十九条第四項（申告による源泉徴収特別税額等の還付等）又は第二十三条第六項</Sentence>
+                  <Sentence>特別措置法第十九条第四項（申告による源泉徴収特別税額等の還付等）又は第二十三条第四項</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -515,10 +515,10 @@
                   <Sentence>第二百七十八条第一項第二号</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence>法第百三十九条第一項又は第百六十条第一項若しくは第二項</Sentence>
+                  <Sentence>法第百三十九条第一項又は第百六十条第一項</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence>特別措置法第十九条第三項又は第二十三条第四項若しくは第五項</Sentence>
+                  <Sentence>特別措置法第十九条第三項又は第二十三条第三項</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -531,7 +531,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>同項第五号</Sentence>
+                  <Sentence>同項第四号</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence>同項第三号</Sentence>
@@ -550,10 +550,10 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>法第百六十条第一項から第三項まで</Sentence>
+                  <Sentence>法第百六十条第一項又は第二項</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence>特別措置法第二十三条第四項から第六項まで</Sentence>
+                  <Sentence>特別措置法第二十三条第三項又は第四項</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -566,10 +566,10 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>法第百六十条第一項又は第二項</Sentence>
+                  <Sentence>法第百六十条第一項</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence>特別措置法第二十三条第四項又は第五項</Sentence>
+                  <Sentence>特別措置法第二十三条第三項</Sentence>
                 </TableColumn>
               </TableRow>
             </Table>
@@ -578,7 +578,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>第四条第二項及び第三項の規定は、法第二十三条第八項の規定により還付があったものとされる復興特別所得税の額に一円未満の端数がある場合又はその全額が一円未満である場合について準用する。</Sentence>
+            <Sentence>第四条第二項及び第三項の規定は、法第二十三条第六項の規定により還付があったものとされる復興特別所得税の額に一円未満の端数がある場合又はその全額が一円未満である場合について準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -588,8 +588,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>第四条第二項及び第三項の規定は、法第二十四条第四項若しくは第五項（これらの規定を法第三十一条第三項において準用する場合を含む。）の規定により<Ruby>按<Rt>あん</Rt>
-</Ruby>分された復興特別所得税の額又は法第二十五条第二項（法第三十一条第三項において準用する場合を含む。）の規定により充当があったものとされる復興特別所得税の額に一円未満の端数がある場合又はその全額が一円未満である場合について準用する。</Sentence>
+            <Sentence>第四条第二項及び第三項の規定は、法第二十四条第四項若しくは第五項（これらの規定を法第三十一条第三項において準用する場合を含む。）の規定により<Ruby>按<Rt>あん</Rt></Ruby>分された復興特別所得税の額又は法第二十五条第二項（法第三十一条第三項において準用する場合を含む。）の規定により充当があったものとされる復興特別所得税の額に一円未満の端数がある場合又はその全額が一円未満である場合について準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -612,7 +611,7 @@
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1">次の各号に掲げる規定は、法第二十八条第一項、第五項又は第六項の規定により当該各号に定める所得税と併せて徴収及び納付又は還付をすべき復興特別所得税について、それぞれ準用する。</Sentence>
-            <Sentence Num="2">この場合において、租税特別措置法施行令第二十五条の十の十一第八項各号及び第十三項並びに第二十六条の十二第二項中「納付すべき金額」とあるのは、「納付すべき所得税の額に係る復興特別所得税の額」と読み替えるものとする。</Sentence>
+            <Sentence Num="2">この場合において、租税特別措置法施行令第二十五条の十の十一第九項各号及び第十四項並びに第二十六条の十二第二項中「納付すべき金額」とあるのは、「納付すべき所得税の額に係る復興特別所得税の額」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -640,7 +639,7 @@
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
               <Column Num="1">
-                <Sentence>租税特別措置法施行令第二十五条の十の十一第六項から第十一項まで及び第十三項の規定</Sentence>
+                <Sentence>租税特別措置法施行令第二十五条の十の十一第七項から第十二項まで及び第十四項の規定</Sentence>
               </Column>
               <Column Num="2">
                 <Sentence>租税特別措置法第三十七条の十一の四第一項又は第三項の規定により徴収及び納付又は還付をすべき所得税</Sentence>
@@ -1424,7 +1423,7 @@
                   <Sentence>第四条の六の二第十九項</Sentence>
                 </TableColumn>
                 <TableColumn Valign="top">
-                  <Sentence>法第九条の三の二第六項の規定により読み替えて適用される所得税法第百二十条第一項第五号及び法第九条の三の二第七項</Sentence>
+                  <Sentence>法第九条の三の二第六項の規定により読み替えて適用される所得税法第百二十条第一項第四号及び法第九条の三の二第七項</Sentence>
                 </TableColumn>
                 <TableColumn Valign="top">
                   <Sentence>特別措置法第三十三条第一項の規定により読み替えて適用される法第九条の三の二第七項</Sentence>
@@ -2359,7 +2358,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn Valign="top" rowspan="5">
-                  <Sentence>第二十五条の十の十一第十二項</Sentence>
+                  <Sentence>第二十五条の十の十一第十三項</Sentence>
                 </TableColumn>
                 <TableColumn Valign="top">
                   <Sentence>又は同条第三項</Sentence>
@@ -4252,7 +4251,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="424106" AmendLawNum="平成二四年三月三一日政令第一〇六号" Extract="true" Id="8972596e-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年三月三一日政令第一〇六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -4262,7 +4261,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="425169" AmendLawNum="平成二五年五月三一日政令第一六九号" Extract="true" Id="474a3c7e-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="平成二五年五月三一日政令第一六九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4287,7 +4286,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426150" AmendLawNum="平成二六年三月三一日政令第一五〇号" Id="898e2374-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年三月三一日政令第一五〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -4305,7 +4304,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427152" AmendLawNum="平成二七年三月三一日政令第一五二号" Id="899be284-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年三月三一日政令第一五二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -4398,7 +4397,7 @@
         </Item>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428165" AmendLawNum="平成二八年三月三一日政令第一六五号" Id="8e3cc916-b0b9-4411-ec6c-e3811751fc4c">
+    <SupplProvision AmendLawNum="平成二八年三月三一日政令第一六五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -4408,7 +4407,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428226" AmendLawNum="平成二八年五月二五日政令第二二六号" Extract="true" Id="526e66b7-3a61-e1db-f51a-b0704d2424c0">
+    <SupplProvision AmendLawNum="平成二八年五月二五日政令第二二六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4421,7 +4420,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="429106" AmendLawNum="平成二九年三月三一日政令第一〇六号" Extract="true" Id="af84db14-19f7-11e7-bb35-005056b30d52">
+    <SupplProvision AmendLawNum="平成二九年三月三一日政令第一〇六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4434,7 +4433,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="429114" AmendLawNum="平成二九年三月三一日政令第一一四号" Extract="true" Id="1bf68aae-1b60-11e7-954d-005056b30d52">
+    <SupplProvision AmendLawNum="平成二九年三月三一日政令第一一四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4465,7 +4464,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430149" AmendLawNum="平成三〇年三月三一日政令第一四九号" Id="cf721464-3bd4-11e8-8518-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成三〇年三月三一日政令第一四九号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -4497,7 +4496,7 @@
         </Item>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="430161" AmendLawNum="平成三〇年四月一八日政令第一六一号" Extract="true" Id="b0cbed4a-4382-11e8-abcb-005056b30d52">
+    <SupplProvision AmendLawNum="平成三〇年四月一八日政令第一六一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4510,7 +4509,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="431095" AmendLawNum="平成三一年三月二九日政令第九五号" Extract="true" Id="007c80f4-5c17-11e9-902f-005056b30d52">
+    <SupplProvision AmendLawNum="平成三一年三月二九日政令第九五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4541,7 +4540,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="431096" AmendLawNum="平成三一年三月二九日政令第九六号" Extract="true" Id="29b4069a-5c17-11e9-902f-005056b30d52">
+    <SupplProvision AmendLawNum="平成三一年三月二九日政令第九六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4566,7 +4565,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="431102" AmendLawNum="平成三一年三月二九日政令第一〇二号" Extract="true" Id="e77d8dcc-5c17-11e9-902f-005056b30d52">
+    <SupplProvision AmendLawNum="平成三一年三月二九日政令第一〇二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4597,7 +4596,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="431104" AmendLawNum="平成三一年三月二九日政令第一〇四号" Id="c0d3faac-5c1d-11e9-902f-005056b30d52">
+    <SupplProvision AmendLawNum="平成三一年三月二九日政令第一〇四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -4606,7 +4605,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501044" AmendLawNum="令和元年六月二八日政令第四四号" Extract="true">
+    <SupplProvision AmendLawNum="令和元年六月二八日政令第四四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4619,7 +4618,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501058" AmendLawNum="令和元年七月一二日政令第五八号" Extract="true">
+    <SupplProvision AmendLawNum="令和元年七月一二日政令第五八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4632,7 +4631,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502111" AmendLawNum="令和二年三月三一日政令第一一一号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年三月三一日政令第一一一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4645,7 +4644,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502121" AmendLawNum="令和二年三月三一日政令第一二一号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年三月三一日政令第一二一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4658,7 +4657,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502207" AmendLawNum="令和二年六月二六日政令第二〇七号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年六月二六日政令第二〇七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4670,6 +4669,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年三月三一日政令第一二六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、令和四年一月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>

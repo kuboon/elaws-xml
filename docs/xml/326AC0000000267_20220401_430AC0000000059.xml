@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="267" Year="26">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="267" Year="26" PromulgateMonth="06" PromulgateDay="20">
   <LawNum>昭和二十六年法律第二百六十七号</LawNum>
   <LawBody>
-    <LawTitle>旅券法</LawTitle>
+    <LawTitle Kana="りょけんほう" Abbrev="" AbbrevKana="">旅券法</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -51,7 +51,7 @@
                 <Sentence>各省各庁の長</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence Function="main" Num="1">本邦から公用旅券によつて外国に渡航する者（その者が同伴され、又は呼び寄せられる配偶者、子又は使用人である場合には、その者を同伴し、又は呼び寄せる者）が所属する各省各庁（衆議院、参議院、裁判所、会計検査院並びに内閣（内閣府を除く。）、内閣府及び各省をいう。以下同じ。）の長たる衆議院議長、参議院議長、最高裁判所長官、会計検査院長並びに内閣総理大臣及び各省大臣をいう。</Sentence>
+                <Sentence Function="main" Num="1">本邦から公用旅券によつて外国に渡航する者（その者が同伴され、又は呼び寄せられる配偶者、子又は使用人である場合には、その者を同伴し、又は呼び寄せる者）が所属する各省各庁（衆議院、参議院、裁判所、会計検査院並びに内閣（内閣府及びデジタル庁を除く。）、内閣府、デジタル庁及び各省をいう。以下同じ。）の長たる衆議院議長、参議院議長、最高裁判所長官、会計検査院長並びに内閣総理大臣及び各省大臣をいう。</Sentence>
                 <Sentence Function="proviso" Num="2">ただし、その者が各省各庁のいずれにも所属しない場合には、外務大臣とする。</Sentence>
               </Column>
             </ItemSentence>
@@ -1175,7 +1175,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="327008" AmendLawNum="昭和二七年二月一日政令第八号" Extract="true" Id="cec06b1c-18c3-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二七年二月一日政令第八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -1184,7 +1184,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="327218" AmendLawNum="昭和二七年六月三〇日法律第二一八号" Extract="true" Id="cee64fee-18c3-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二七年六月三〇日法律第二一八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -1193,7 +1193,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="327268" AmendLawNum="昭和二七年七月三一日法律第二六八号" Extract="true" Id="47c4106c-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二七年七月三一日法律第二六八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -1202,7 +1202,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="327284" AmendLawNum="昭和二七年七月三一日法律第二八四号" Extract="true" Id="13021242-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二七年七月三一日法律第二八四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -1211,7 +1211,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="337161" AmendLawNum="昭和三七年九月一五日法律第一六一号" Extract="true" Id="4d6c2670-d3be-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三七年九月一五日法律第一六一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -1264,7 +1264,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="342137" AmendLawNum="昭和四二年八月一七日法律第一三七号" Extract="true" Id="cf7df3c6-18c3-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四二年八月一七日法律第一三七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -1274,7 +1274,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="343083" AmendLawNum="昭和四三年六月一日法律第八三号" Extract="true" Id="6e034dc6-47dd-11e5-94c3-175bddd9bc00">
+    <SupplProvision AmendLawNum="昭和四三年六月一日法律第八三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1287,7 +1287,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="345105" AmendLawNum="昭和四五年五月二七日法律第一〇五号" Extract="true" Id="31bd8430-1887-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四五年五月二七日法律第一〇五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -1327,7 +1327,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="352082" AmendLawNum="昭和五二年一一月二九日法律第八二号" Id="cfef7bcc-18c3-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五二年一一月二九日法律第八二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1336,7 +1336,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="353027" AmendLawNum="昭和五三年四月二四日法律第二七号" Extract="true" Id="a8264240-1884-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五三年四月二四日法律第二七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -1366,7 +1366,7 @@
         </Item>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="357069" AmendLawNum="昭和五七年七月二三日法律第六九号" Extract="true" Id="37a42582-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五七年七月二三日法律第六九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
@@ -1383,7 +1383,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="401023" AmendLawNum="平成元年四月一八日法律第二三号" Id="d06121e6-18c3-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成元年四月一八日法律第二三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1478,7 +1478,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="404035" AmendLawNum="平成四年四月二四日法律第三五号" Id="d08729c2-18c3-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成四年四月二四日法律第三五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -1496,7 +1496,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="405089" AmendLawNum="平成五年一一月一二日法律第八九号" Extract="true" Id="ca5fc5b8-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成五年一一月一二日法律第八九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1519,7 +1519,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="407023" AmendLawNum="平成七年三月八日法律第二三号" Id="d0d2e27c-18c3-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成七年三月八日法律第二三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1614,7 +1614,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411087" AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true" Id="8a6950aa-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1741,7 +1741,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1766,7 +1766,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414152" AmendLawNum="平成一四年一二月一三日法律第一五二号" Extract="true" Id="f64feadc-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年一二月一三日法律第一五二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1799,7 +1799,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416098" AmendLawNum="平成一六年六月九日法律第九八号" Id="d16ac63c-18c3-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月九日法律第九八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1808,7 +1808,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417055" AmendLawNum="平成一七年六月一〇日法律第五五号" Extract="true" Id="3f7238e6-1887-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年六月一〇日法律第五五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1889,7 +1889,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="425069" AmendLawNum="平成二五年六月二八日法律第六九号" Extract="true" Id="46eac9bc-1887-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二五年六月二八日法律第六九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1931,7 +1931,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430059" AmendLawNum="平成三〇年六月二〇日法律第五九号" Extract="true" Id="57be6be4-7468-11e8-b9d9-005056b30d52">
+    <SupplProvision AmendLawNum="平成三〇年六月二〇日法律第五九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1955,7 +1955,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501016" AmendLawNum="令和元年五月三一日法律第一六号" Extract="true">
+    <SupplProvision AmendLawNum="令和元年五月三一日法律第一六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1964,6 +1964,72 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この法律は、公布の日から起算して九月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月一九日法律第三六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和三年九月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、附則第六十条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="57">
+        <ArticleCaption>（処分等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にこの法律による改正前のそれぞれの法律（これに基づく命令を含む。以下この条及び次条において「旧法令」という。）の規定により従前の国の機関がした認定等の処分その他の行為は、法令に別段の定めがあるもののほか、この法律の施行後は、この法律による改正後のそれぞれの法律（これに基づく命令を含む。以下この条及び次条において「新法令」という。）の相当規定により相当の国の機関がした認定等の処分その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この法律の施行の際現に旧法令の規定により従前の国の機関に対してされている申請、届出その他の行為は、法令に別段の定めがあるもののほか、この法律の施行後は、新法令の相当規定により相当の国の機関に対してされた申請、届出その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前に旧法令の規定により従前の国の機関に対して申請、届出その他の手続をしなければならない事項で、この法律の施行の日前に従前の国の機関に対してその手続がされていないものについては、法令に別段の定めがあるもののほか、この法律の施行後は、これを、新法令の相当規定により相当の国の機関に対してその手続がされていないものとみなして、新法令の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="58">
+        <ArticleCaption>（命令の効力に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>旧法令の規定により発せられた内閣府設置法第七条第三項の内閣府令又は国家行政組織法第十二条第一項の省令は、法令に別段の定めがあるもののほか、この法律の施行後は、新法令の相当規定に基づいて発せられた相当の第七条第三項のデジタル庁令又は国家行政組織法第十二条第一項の省令としての効力を有するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="59">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="60">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第六十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第十五条、第十六条、第五十一条及び前三条に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

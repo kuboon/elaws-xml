@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Meiji" Lang="ja" LawType="Act" Num="22" Year="42">
+<Law Era="Meiji" Lang="ja" LawType="Act" Num="22" Year="42" PromulgateMonth="04" PromulgateDay="05">
   <LawNum>明治四十二年法律第二十二号</LawNum>
   <LawBody>
-    <LawTitle>明治四十二年法律第二十二号（立木ニ関スル法律）</LawTitle>
+    <LawTitle Kana="りゅうぼくにかんするほうりつ" Abbrev="" AbbrevKana="">明治四十二年法律第二十二号（立木ニ関スル法律）</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -12,8 +12,8 @@
             <Sentence WritingMode="vertical">本法ニ於テ立木ト称スルハ一筆ノ土地又ハ一筆ノ土地ノ一部分ニ生立スル樹木ノ集団ニシテ其ノ所有者カ本法ニ依リ所有権保存ノ登記ヲ受ケタルモノヲ謂フ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項ノ樹木ノ集団ノ範囲ハ勅令ヲ以テ之ヲ定ム</Sentence>
           </ParagraphSentence>
@@ -27,14 +27,14 @@
             <Sentence WritingMode="vertical">立木ハ之ヲ不動産ト看做ス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">立木ノ所有者ハ土地ト分離シテ立木ヲ譲渡シ又ハ之ヲ以テ抵当権ノ目的ト為スコトヲ得</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">土地所有権又ハ地上権ノ処分ノ効力ハ立木ニ及ハス</Sentence>
           </ParagraphSentence>
@@ -57,26 +57,26 @@
             <Sentence WritingMode="vertical">立木ヲ目的トスル抵当権ハ前条ノ規定ニ依ル採取ノ場合ヲ除クノ外其ノ樹木カ土地ヨリ分離シタル後ト雖其ノ樹木ニ付之ヲ行フコトヲ得</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">抵当権者ハ債権ノ期限ノ到来前ト雖前項ノ樹木ヲ競売スルコトヲ得但シ其ノ代金ハ之ヲ供託スヘシ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">樹木ノ所有者ハ競売ヲ為スヘキ地ノ地方裁判所ニ相当ノ担保ヲ供託シテ競売ノ免除ヲ申立ツルコトヲ得</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4" OldStyle="false">
-          <ParagraphNum>○４</ParagraphNum>
+        <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">樹木ノ所有者ハ抵当権者ニ対シテ一箇月以上ノ期間ヲ定メ競売ヲ為スヘキ旨ヲ催告スルコトヲ得若抵当権者カ其ノ期間内ニ競売ヲ為ササルトキハ其ノ樹木ニ付抵当権ヲ行フコトヲ得ス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5" OldStyle="false">
-          <ParagraphNum>○５</ParagraphNum>
+        <Paragraph Hide="false" Num="5" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項ノ規定ハ民法第百九十二条乃至第百九十四条ノ規定ノ適用ヲ妨ケス</Sentence>
           </ParagraphSentence>
@@ -90,8 +90,8 @@
             <Sentence WritingMode="vertical">立木カ土地ノ所有者ニ属スル場合ニ於テ其ノ土地又ハ立木ノミカ抵当権ノ目的タルトキハ抵当権設定者ハ競売ノ場合ニ付地上権ヲ設定シタルモノト看做ス但シ其ノ存続期間及地代ハ当事者ノ請求ニ依リ地方ノ慣習ヲ斟酌シテ裁判所之ヲ定ム</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項ノ規定ハ土地及其ノ上ニ存スル立木ガ債務者ニ属スル場合ニ於テ其ノ土地又ハ立木ニ対シ強制競売ニ係ル差押ガアリ売却ニ因リ所有者ヲ異ニスルニ至リタルトキニ之ヲ準用ス</Sentence>
           </ParagraphSentence>
@@ -105,20 +105,20 @@
             <Sentence WritingMode="vertical">立木カ地上権者ニ属スル場合ニ於テ其ノ地上権又ハ立木ノミカ抵当権ノ目的タルトキハ抵当権設定者ハ競売ノ場合ニ付地上権ノ存続期間内ニ於テ其ノ土地ノ賃貸借ヲ為シタルモノト看做ス但シ其ノ存続期間及借賃ニ付テハ前条第一項但書ノ規定ヲ準用ス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項ノ場合ニ於テ地上権ノ存続期間ノ定ナキトキハ其ノ期間ハ当事者又ハ賃借人ノ請求ニ依リ地方ノ慣習ヲ斟酌シテ裁判所之ヲ定ム</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前二項ノ規定ハ地上権及其ノ目的タル土地ノ上ニ存スル立木ガ債務者ニ属スル場合ニ於テ其ノ地上権又ハ立木ニ対シ強制競売ニ係ル差押ガアリ売却ニ因リ権利者ヲ異ニスルニ至リタルトキニ之ヲ準用ス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4" OldStyle="false">
-          <ParagraphNum>○４</ParagraphNum>
+        <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">民法第六百四条及第六百十二条ノ規定ハ第一項（前項ニ於テ準用スル場合ヲ含ム）ノ賃貸借ニ之ヲ適用セス</Sentence>
           </ParagraphSentence>
@@ -150,14 +150,14 @@
             <Sentence WritingMode="vertical">立木カ抵当権ノ目的タル場合ニ於テ其ノ所有者カ樹木ノ運搬ノ為土地ヲ使用スル権利ヲ有スルトキハ立木ノ競売ノ買受人ハ其ノ権利ヲ行使スルコトヲ得此ノ場合ニ於テハ相当ノ対価ヲ支払フヘシ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項ノ規定ハ立木ニ対シ強制競売ニ係ル差押ガアリタル場合ニ於テ債務者ガ樹木ノ運搬ノ為土地ヲ使用スル権利ヲ有スルトキニ之ヲ準用ス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前二項ノ規定ハ水ノ使用ニ関スル権利ニ之ヲ準用ス</Sentence>
           </ParagraphSentence>
@@ -207,14 +207,14 @@
             <Sentence WritingMode="vertical">立木登記簿ハ其ノ一登記記録ヲ表題部及権利部ニ分ツ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">表題部ニハ立木ノ表示ニ関スル事項ヲ記録ス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">権利部ニハ所有権、先取特権及抵当権ニ関スル事項ヲ記録ス</Sentence>
           </ParagraphSentence>
@@ -240,8 +240,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">立木ニ関スル登記ヲ申請スル場合ニ於テハ法務省令ヲ以テ定ムル事項ノ外前項各号ニ掲ゲタル事項ヲ申請情報ノ内容トス</Sentence>
           </ParagraphSentence>
@@ -279,8 +279,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">所有権保存ノ登記ヲ申請スル場合ニ於テハ前項各号ノ内何レノ規定ニ依リテ登記ヲ申請スルモノナルカヲ申請情報ノ内容トス此ノ場合ニ於テハ其ノ申請情報ト併セテ登記原因ヲ証明スル情報ヲ提供スルコトヲ要セズ</Sentence>
           </ParagraphSentence>
@@ -303,8 +303,8 @@
             <Sentence WritingMode="vertical">所有権ノ登記アル土地ニ生立スル樹木ニ付所有権保存ノ登記ノ申請アリタル場合ニ於テ土地ノ登記記録中土地又ハ地上権ヲ目的トスル先取特権又ハ抵当権ノ登記アルトキハ立木登記簿ニ其ノ登記ヲ転写スヘシ但シ其ノ登記ニ抵当権カ樹木ニ及ハサル旨ノ記録アルトキハ此ノ限ニ在ラス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項ノ規定ニ依リ先取特権又ハ抵当権ノ登記ヲ転写スル場合ニ於テハ其ノ先取特権又ハ抵当権ノ登記ニ関シ既ニ共同担保目録アルトキヲ除キ登記官ハ共同担保目録ヲ作成スルコトヲ要ス</Sentence>
           </ParagraphSentence>
@@ -318,8 +318,8 @@
             <Sentence WritingMode="vertical">所有権保存ノ登記ヲ為シタルトキハ土地ノ登記記録中表題部ニ立木ノ登記記録ヲ表示シ登記官ヲ明カナラシムル措置ヲ為スベシ立木ノ区分ノ登記ヲ為シタルトキ亦同ジ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">立木ノ滅失ノ登記ヲシタルトキハ前項ノ規定ニ依ル表示ヲ抹消スル記号ヲ記録シ登記官ヲ明カナラシムル措置ヲ為スベシ</Sentence>
           </ParagraphSentence>
@@ -333,14 +333,14 @@
             <Sentence WritingMode="vertical">立木ノ分割若ハ合併若ハ滅失アリタルトキ又ハ第十五条第一項各号ニ掲ケタル事項ニ変更アリタルトキハ所有権ノ登記名義人ハ遅滞ナク其ノ登記ヲ申請スヘシ但シ樹木ノ発生若ハ成長又ハ第三条ノ施業方法ニ依ル変更ニ付テハ此ノ限ニ在ラス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">立木ノ存スル土地ノ地目、字、地番又ハ地積ニ変更アリタルトキ亦前項ニ同シ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前二項ノ登記ニ関シ必要ナル事項ハ法務省令ヲ以テ之ヲ定ム</Sentence>
           </ParagraphSentence>
@@ -354,8 +354,8 @@
             <Sentence WritingMode="vertical">立木ヲ目的トスル抵当権設定ノ登記ニ於テハ不動産登記法第五十九条各号、第八十三条第一項各号並ニ第八十八条第一項各号及第二項各号ニ掲ゲタル事項ノ外施業方法ヲ登記事項トス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項ノ登記ニ於テハ法務省令ヲ以テ定ムル事項ノ外同項ニ規定スル事項ヲ申請情報ノ内容トス</Sentence>
           </ParagraphSentence>
@@ -371,7 +371,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="306039" AmendLawNum="昭和六年四月一日法律第三九号" Id="ec930148-196a-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六年四月一日法律第三九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -380,7 +380,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="326150" AmendLawNum="昭和二六年四月二〇日法律第一五〇号" Extract="true" Id="d347e226-1951-11e8-a703-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二六年四月二〇日法律第一五〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -401,7 +401,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="335014" AmendLawNum="昭和三五年三月三一日法律第一四号" Extract="true" Id="83240b2c-d3c6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三五年三月三一日法律第一四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -442,7 +442,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="338126" AmendLawNum="昭和三八年七月九日法律第一二六号" Extract="true" Id="406bc01e-47dd-11e5-89d3-cb4064af503d">
+    <SupplProvision AmendLawNum="昭和三八年七月九日法律第一二六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -451,7 +451,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="339018" AmendLawNum="昭和三九年三月三〇日法律第一八号" Extract="true" Id="bdb33bbc-18c6-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三九年三月三〇日法律第一八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -461,7 +461,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="354005" AmendLawNum="昭和五四年三月三〇日法律第五号" Extract="true" Id="2b704696-d3b9-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五四年三月三〇日法律第五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -484,7 +484,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="363081" AmendLawNum="昭和六三年六月一一日法律第八一号" Extract="true" Id="ef1756ba-d3c4-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六三年六月一一日法律第八一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -507,7 +507,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416124" AmendLawNum="平成一六年六月一八日法律第一二四号" Extract="true" Id="ecbeb284-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月一八日法律第一二四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

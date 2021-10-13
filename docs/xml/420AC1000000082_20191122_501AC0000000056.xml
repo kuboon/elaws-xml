@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="82" Year="20">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="82" Year="20" PromulgateMonth="11" PromulgateDay="22">
   <LawNum>平成二十年法律第八十二号</LawNum>
   <LawBody>
-    <LawTitle>ハンセン病問題の解決の促進に関する法律</LawTitle>
+    <LawTitle Kana="はんせんびょうもんだいのかいけつのそくしんにかんするほうりつ" Abbrev="ハンセン病問題基本法,ハンセン病基本法,ハンセン病問題解決促進法" AbbrevKana="は,は,は">ハンセン病問題の解決の促進に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCPreambleLabel>前文</TOCPreambleLabel>
@@ -527,7 +527,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423053" AmendLawNum="平成二三年五月二五日法律第五三号" Id="f6b9778e-d3b2-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年五月二五日法律第五三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -536,7 +536,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="426121" AmendLawNum="平成二六年一一月二七日法律第一二一号" Id="163f6e92-d3b3-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年一一月二七日法律第一二一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

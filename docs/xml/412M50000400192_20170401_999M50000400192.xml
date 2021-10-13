@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="192" Year="12">
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="192" Year="12" PromulgateMonth="04" PromulgateDay="01">
   <LawNum>平成十二年通商産業省令第百九十二号</LawNum>
   <LawBody>
-    <LawTitle>中小企業診断士の登録等及び試験に関する規則</LawTitle>
+    <LawTitle Kana="ちゅうしょうきぎょうしんだんしのとうろくとうおよびしけんにかんするきそく" Abbrev="" AbbrevKana="">中小企業診断士の登録等及び試験に関する規則</LawTitle>
     <EnactStatement>中小企業指導法の一部を改正する法律（平成十二年法律第四十三号）の一部の施行に伴い、並びに中小企業支援法（昭和三十八年法律第百四十七号）第十一条第一項各号及び第二項並びに第十二条第二項及び第九項の規定に基づき、並びに同法を実施するため、中小企業診断士の登録及び試験に関する規則を次のように制定する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -2390,7 +2390,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412243" AmendLawNum="平成一二年一〇月一三日通商産業省令第二四三号" Extract="true" Id="429f74d4-1940-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年一〇月一三日通商産業省令第二四三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -2400,7 +2400,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413049" AmendLawNum="平成一三年三月二七日経済産業省令第四九号" Extract="true" Id="c55c47a2-1937-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年三月二七日経済産業省令第四九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2413,7 +2413,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414074" AmendLawNum="平成一四年四月一二日経済産業省令第七四号" Id="4301f92e-1940-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年四月一二日経済産業省令第七四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -2422,7 +2422,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416060" AmendLawNum="平成一六年四月一四日経済産業省令第六〇号" Id="43335122-1940-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年四月一四日経済産業省令第六〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2445,7 +2445,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416073" AmendLawNum="平成一六年六月三〇日経済産業省令第七三号" Extract="true" Id="7a0bc668-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月三〇日経済産業省令第七三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -2457,7 +2457,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417014" AmendLawNum="平成一七年三月四日経済産業省令第一四号" Id="b1f65602-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年三月四日経済産業省令第一四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -2466,7 +2466,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417079" AmendLawNum="平成一七年八月八日経済産業省令第七九号" Id="c5bdbe74-1937-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年八月八日経済産業省令第七九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2639,7 +2639,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418063" AmendLawNum="平成一八年四月二八日経済産業省令第六三号" Extract="true" Id="b1ff18d2-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年四月二八日経済産業省令第六三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2652,7 +2652,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419009" AmendLawNum="平成一九年三月九日経済産業省令第九号" Id="4429a702-1940-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年三月九日経済産業省令第九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2718,7 +2718,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="420082" AmendLawNum="平成二〇年一二月一日経済産業省令第八二号" Id="97b754ec-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年一二月一日経済産業省令第八二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -2727,7 +2727,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="421004" AmendLawNum="平成二一年一月三〇日経済産業省令第四号" Id="448c6a2c-1940-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二一年一月三〇日経済産業省令第四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2750,7 +2750,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424038" AmendLawNum="平成二四年五月一五日経済産業省令第三八号" Id="44bdc612-1940-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年五月一五日経済産業省令第三八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -2759,7 +2759,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428104" AmendLawNum="平成二八年一一月一日経済産業省令第一〇四号" Id="44ef056a-1940-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二八年一一月一日経済産業省令第一〇四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>

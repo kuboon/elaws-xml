@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="82" Year="25">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="82" Year="25" PromulgateMonth="08" PromulgateDay="22">
   <LawNum>平成二十五年法律第八十二号</LawNum>
   <LawBody>
-    <LawTitle>独立行政法人原子力安全基盤機構の解散に関する法律</LawTitle>
+    <LawTitle Kana="どくりつぎょうせいほうじんげんしりょくあんぜんきばんきこうのかいさんにかんするほうりつ" Abbrev="" AbbrevKana="">独立行政法人原子力安全基盤機構の解散に関する法律</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（独立行政法人原子力安全基盤機構の解散並びにその資産及び債務の承継）</ArticleCaption>
@@ -261,46 +261,8 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="23">
-        <ArticleTitle>第二十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">施行日が原子力規制委員会設置法附則第一条第六号に掲げる規定の施行の日以後である場合には、附則第二十一条（同法附則第十八条の改正規定に限る。）の規定は適用せず、附則第十三条のうち次の表の上欄に掲げる核原料物質、核燃料物質及び原子炉の規制に関する法律の改正規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
-          </ParagraphSentence>
-          <TableStruct>
-            <Table WritingMode="vertical">
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">第十六条の五第三項及び第四項を削る改正規定</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">第十六条の五第三項及び第四項を削る。</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">第十六条の五第三項及び第四項を削る。</Sentence>
-                  <Sentence WritingMode="vertical">第二十八条第三項を削る。</Sentence>
-                  <Sentence WritingMode="vertical">第二十九条第三項を削る。</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">第五十一条の十第三項を削る改正規定</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">第五十一条の十第三項を削る。</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">第五十一条の十第三項を削る。</Sentence>
-                  <Sentence WritingMode="vertical">第五十五条の二第三項を削る。</Sentence>
-                </TableColumn>
-              </TableRow>
-            </Table>
-          </TableStruct>
-        </Paragraph>
-      </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424063" AmendLawNum="平成二四年八月二二日法律第六三号" Extract="true" Id="7c132f46-52a7-4d4a-b4c8-20eb5d37ca35">
+    <SupplProvision AmendLawNum="平成二四年八月二二日法律第六三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

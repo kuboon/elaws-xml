@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="172" Year="18">
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="172" Year="18" PromulgateMonth="01" PromulgateDay="18">
   <LawNum>平成十八年厚生労働省令第百七十二号</LawNum>
   <LawBody>
-    <LawTitle>障害者の日常生活及び社会生活を総合的に支援するための法律に基づく指定障害者支援施設等の人員、設備及び運営に関する基準</LawTitle>
+    <LawTitle Kana="しょうがいしゃのにちじょうせいかつおよびしゃかいせいかつをそうごうてきにしえんするためのほうりつにもとづくしていしょうがいしゃしえんしせつとうのじんいん、せつびおよびうんえいにかんするきじゅん" Abbrev="障害者総合支援法に基づく指定障害者支援施設等の人員、設備及び運営に関する基準" AbbrevKana="し">障害者の日常生活及び社会生活を総合的に支援するための法律に基づく指定障害者支援施設等の人員、設備及び運営に関する基準</LawTitle>
     <EnactStatement>障害者自立支援法（平成十七年法律第百二十三号）第四十四条の規定に基づき、障害者自立支援法に基づく指定障害者支援施設等の人員、設備及び運営に関する基準を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -3059,7 +3059,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419043" AmendLawNum="平成一九年三月三〇日厚生労働省令第四三号" Extract="true" Id="5e77720e-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年三月三〇日厚生労働省令第四三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3072,7 +3072,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="420083" AmendLawNum="平成二〇年三月三一日厚生労働省令第八三号" Id="5ea3ca34-d3b3-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年三月三一日厚生労働省令第八三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -3081,7 +3081,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="421057" AmendLawNum="平成二一年三月三〇日厚生労働省令第五七号" Id="5ea5b93e-d3b3-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二一年三月三〇日厚生労働省令第五七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -3090,7 +3090,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423116" AmendLawNum="平成二三年九月二二日厚生労働省令第一一六号" Id="5e80e71c-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年九月二二日厚生労働省令第一一六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -3099,7 +3099,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423123" AmendLawNum="平成二三年九月三〇日厚生労働省令第一二三号" Id="5ea7e72c-d3b3-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年九月三〇日厚生労働省令第一二三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -3108,7 +3108,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423127" AmendLawNum="平成二三年一〇月七日厚生労働省令第一二七号" Extract="true" Id="5e82abba-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年一〇月七日厚生労働省令第一二七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3121,7 +3121,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424040" AmendLawNum="平成二四年三月二八日厚生労働省令第四〇号" Extract="true" Id="993c5d76-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年三月二八日厚生労働省令第四〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3134,7 +3134,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424132" AmendLawNum="平成二四年九月二四日厚生労働省令第一三二号" Extract="true" Id="997ccc08-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年九月二四日厚生労働省令第一三二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3147,7 +3147,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="425004" AmendLawNum="平成二五年一月一八日厚生労働省令第四号" Id="be03c886-d3b2-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二五年一月一八日厚生労働省令第四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -3156,7 +3156,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="425124" AmendLawNum="平成二五年一一月二二日厚生労働省令第一二四号" Extract="true" Id="be0733f4-d3b2-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二五年一一月二二日厚生労働省令第一二四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3169,7 +3169,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430002" AmendLawNum="平成三〇年一月一八日厚生労働省令第二号" Extract="true" Id="f159102d-302c-4a19-8676-46a4e76d82db">
+    <SupplProvision AmendLawNum="平成三〇年一月一八日厚生労働省令第二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>

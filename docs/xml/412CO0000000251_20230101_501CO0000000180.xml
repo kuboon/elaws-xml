@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="251" Year="12">
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="251" Year="12" PromulgateMonth="12" PromulgateDay="11">
   <LawNum>平成十二年政令第二百五十一号</LawNum>
   <LawBody>
-    <LawTitle>文部科学省組織令</LawTitle>
+    <LawTitle Kana="もんぶかがくしょうそしきれい" Abbrev="" AbbrevKana="">文部科学省組織令</LawTitle>
     <EnactStatement>内閣は、国家行政組織法（昭和二十三年法律第百二十号）及び文部科学省設置法（平成十一年法律第九十六号）の規定に基づき、この政令を制定する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -42,7 +42,7 @@
             </TOCDivision>
             <TOCDivision Num="5">
               <DivisionTitle>第五目　科学技術・学術政策局</DivisionTitle>
-              <ArticleRange>（第五十四条―第五十九条）</ArticleRange>
+              <ArticleRange>（第五十四条―第五十九条の二）</ArticleRange>
             </TOCDivision>
             <TOCDivision Num="6">
               <DivisionTitle>第六目　研究振興局</DivisionTitle>
@@ -353,83 +353,95 @@
                 <Item Num="31">
                   <ItemTitle>三十一</ItemTitle>
                   <ItemSentence>
-                    <Sentence>学校施設及び学校用家具の基準の設定に関すること。</Sentence>
+                    <Sentence>公立の社会教育施設の整備（災害復旧に係るものに限る。）のための補助に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="32">
                   <ItemTitle>三十二</ItemTitle>
                   <ItemSentence>
-                    <Sentence>学校環境の整備に関する指導及び助言に関すること。</Sentence>
+                    <Sentence>私立学校教育の振興のための学校法人その他の私立学校の設置者、地方公共団体及び関係団体に対する助成（学校施設の災害復旧に係るものに限る。）に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="33">
                   <ItemTitle>三十三</ItemTitle>
                   <ItemSentence>
-                    <Sentence>文教施設の防災に関する施策の基本方針の企画及び立案並びに調整に関すること。</Sentence>
+                    <Sentence>学校施設及び学校用家具の基準の設定に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="34">
                   <ItemTitle>三十四</ItemTitle>
                   <ItemSentence>
-                    <Sentence>教育、学術、スポーツ及び文化の直接の用に供する物資（学校給食用物資を除く。）並びに教育、学術、スポーツ及び文化の用に供する物資のうち国際的に供給の不足するもの（学校給食用物資を除く。）の入手又は利用に関する便宜の供与に関すること。</Sentence>
+                    <Sentence>学校環境の整備に関する指導及び助言に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="35">
                   <ItemTitle>三十五</ItemTitle>
                   <ItemSentence>
-                    <Sentence>学校施設の学校教育の目的以外の目的への使用の防止に係る返還命令及び移転命令に関すること。</Sentence>
+                    <Sentence>文教施設の防災に関する施策の基本方針の企画及び立案並びに調整に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="36">
                   <ItemTitle>三十六</ItemTitle>
                   <ItemSentence>
-                    <Sentence>国立の文教施設の整備に関すること（官公庁施設の建設等に関する法律（昭和二十六年法律第百八十一号）第十条第一項の規定に基づき国土交通大臣の行う営繕及び建設並びに土地又は借地権の取得を除く。）。</Sentence>
+                    <Sentence>教育、学術、スポーツ及び文化の直接の用に供する物資（学校給食用物資を除く。）並びに教育、学術、スポーツ及び文化の用に供する物資のうち国際的に供給の不足するもの（学校給食用物資を除く。）の入手又は利用に関する便宜の供与に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="37">
                   <ItemTitle>三十七</ItemTitle>
                   <ItemSentence>
-                    <Sentence>独立行政法人、国立大学法人（国立大学法人法（平成十五年法律第百十二号）第二条第一項に規定する国立大学法人をいう。以下同じ。）及び大学共同利用機関法人（同条第三項に規定する大学共同利用機関法人をいう。以下同じ。）が設置する文教施設の整備に関する長期計画の企画及び立案並びに連絡調整並びに予算案の準備に関すること。</Sentence>
+                    <Sentence>学校施設の学校教育の目的以外の目的への使用の防止に係る返還命令及び移転命令に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="38">
                   <ItemTitle>三十八</ItemTitle>
                   <ItemSentence>
-                    <Sentence>国立大学法人、大学共同利用機関法人、独立行政法人大学改革支援・学位授与機構及び独立行政法人国立高等専門学校機構が設置する文教施設の整備のための補助金の交付に関すること。</Sentence>
+                    <Sentence>国立の文教施設の整備に関すること（官公庁施設の建設等に関する法律（昭和二十六年法律第百八十一号）第十条第一項の規定に基づき国土交通大臣の行う営繕及び建設並びに土地又は借地権の取得を除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="39">
                   <ItemTitle>三十九</ItemTitle>
                   <ItemSentence>
-                    <Sentence>独立行政法人大学改革支援・学位授与機構の行う国立大学法人及び大学共同利用機関法人に対する土地の取得、施設の設置若しくは整備又は設備の設置に必要な資金の貸付けに関すること。</Sentence>
+                    <Sentence>独立行政法人、国立大学法人（国立大学法人法（平成十五年法律第百十二号）第二条第一項に規定する国立大学法人をいう。以下同じ。）及び大学共同利用機関法人（同条第三項に規定する大学共同利用機関法人をいう。以下同じ。）が設置する文教施設の整備に関する長期計画の企画及び立案並びに連絡調整並びに予算案の準備に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="40">
                   <ItemTitle>四十</ItemTitle>
                   <ItemSentence>
-                    <Sentence>独立行政法人大学改革支援・学位授与機構の行う国立大学法人、大学共同利用機関法人及び独立行政法人国立高等専門学校機構に対する土地の取得、施設の設置若しくは整備又は設備の設置に必要な資金の交付に関すること。</Sentence>
+                    <Sentence>国立大学法人、大学共同利用機関法人、独立行政法人大学改革支援・学位授与機構及び独立行政法人国立高等専門学校機構が設置する文教施設の整備のための補助金の交付に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="41">
                   <ItemTitle>四十一</ItemTitle>
                   <ItemSentence>
-                    <Sentence>独立行政法人、国立大学法人及び大学共同利用機関法人が設置する文教施設の整備に関する基準に関すること。</Sentence>
+                    <Sentence>独立行政法人大学改革支援・学位授与機構の行う国立大学法人及び大学共同利用機関法人に対する土地の取得、施設の設置若しくは整備又は設備の設置に必要な資金の貸付けに関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="42">
                   <ItemTitle>四十二</ItemTitle>
                   <ItemSentence>
-                    <Sentence>独立行政法人、国立大学法人及び大学共同利用機関法人が設置する文教施設の立地計画（独立行政法人、国立大学法人及び大学共同利用機関法人において土地又は借地権の取得を必要とすることとなるものに限る。）に関すること。</Sentence>
+                    <Sentence>独立行政法人大学改革支援・学位授与機構の行う国立大学法人、大学共同利用機関法人及び独立行政法人国立高等専門学校機構に対する土地の取得、施設の設置若しくは整備又は設備の設置に必要な資金の交付に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="43">
                   <ItemTitle>四十三</ItemTitle>
                   <ItemSentence>
-                    <Sentence>文部科学省設置法第三条第一項の任務に関連する特定の内閣の重要政策について、当該重要政策に関して閣議において決定された基本的な方針に基づいて、行政各部の施策の統一を図るために必要となる企画及び立案並びに総合調整に関すること。</Sentence>
+                    <Sentence>独立行政法人、国立大学法人及び大学共同利用機関法人が設置する文教施設の整備に関する基準に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="44">
                   <ItemTitle>四十四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>独立行政法人、国立大学法人及び大学共同利用機関法人が設置する文教施設の立地計画（独立行政法人、国立大学法人及び大学共同利用機関法人において土地又は借地権の取得を必要とすることとなるものに限る。）に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="45">
+                  <ItemTitle>四十五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>文部科学省設置法第三条第一項の任務に関連する特定の内閣の重要政策について、当該重要政策に関して閣議において決定された基本的な方針に基づいて、行政各部の施策の統一を図るために必要となる企画及び立案並びに総合調整に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="46">
+                  <ItemTitle>四十六</ItemTitle>
                   <ItemSentence>
                     <Sentence>前各号に掲げるもののほか、文部科学省の所掌事務で他の所掌に属しないものに関すること。</Sentence>
                   </ItemSentence>
@@ -438,7 +450,7 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>文教施設企画・防災部は、前項第二十八号から第四十二号までに掲げる事務をつかさどる。</Sentence>
+                  <Sentence>文教施設企画・防災部は、前項第二十八号から第四十四号までに掲げる事務をつかさどる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -573,7 +585,7 @@
                 <Item Num="21">
                   <ItemTitle>二十一</ItemTitle>
                   <ItemSentence>
-                    <Sentence>私立の専修学校及び各種学校における教育の振興のための学校法人その他の私立の専修学校及び各種学校の設置者、地方公共団体並びに関係団体に対する助成に関すること（スポーツ庁及び文化庁の所掌に属するものを除く。）。</Sentence>
+                    <Sentence>私立の専修学校及び各種学校における教育の振興のための学校法人その他の私立の専修学校及び各種学校の設置者、地方公共団体並びに関係団体に対する助成に関すること（スポーツ庁及び文化庁並びに大臣官房の所掌に属するものを除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="22">
@@ -597,13 +609,13 @@
                 <Item Num="25">
                   <ItemTitle>二十五</ItemTitle>
                   <ItemSentence>
-                    <Sentence>公立及び私立の社会教育施設の整備に関する指導及び助言に関すること（スポーツ庁及び文化庁の所掌に属するものを除く。）。</Sentence>
+                    <Sentence>公立及び私立の社会教育施設の整備（災害復旧に係るものを除く。）に関する指導及び助言に関すること（スポーツ庁及び文化庁の所掌に属するものを除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="26">
                   <ItemTitle>二十六</ItemTitle>
                   <ItemSentence>
-                    <Sentence>公立の社会教育施設の整備のための補助に関すること（スポーツ庁及び文化庁の所掌に属するものを除く。）。</Sentence>
+                    <Sentence>公立の社会教育施設の整備のための補助に関すること（スポーツ庁及び文化庁並びに大臣官房の所掌に属するものを除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="27">
@@ -799,7 +811,7 @@
                 <Item Num="17">
                   <ItemTitle>十七</ItemTitle>
                   <ItemSentence>
-                    <Sentence>私立学校教育の振興のための学校法人その他の私立学校の設置者、地方公共団体及び関係団体に対する助成（幼稚園及び幼保連携型認定こども園の施設並びに産業教育のための施設の整備に係るものに限る。）に関すること（スポーツ庁及び文化庁の所掌に属するものを除く。）。</Sentence>
+                    <Sentence>私立学校教育の振興のための学校法人その他の私立学校の設置者、地方公共団体及び関係団体に対する助成（幼稚園及び幼保連携型認定こども園の施設並びに産業教育のための施設の整備に係るものに限る。）に関すること（スポーツ庁及び文化庁並びに大臣官房の所掌に属するものを除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="18">
@@ -1019,7 +1031,7 @@
                 <Item Num="24">
                   <ItemTitle>二十四</ItemTitle>
                   <ItemSentence>
-                    <Sentence>私立学校教育の振興のための学校法人その他の私立学校の設置者、地方公共団体及び関係団体に対する助成に関すること（スポーツ庁及び文化庁並びに総合教育政策局及び初等中等教育局の所掌に属するものを除く。）。</Sentence>
+                    <Sentence>私立学校教育の振興のための学校法人その他の私立学校の設置者、地方公共団体及び関係団体に対する助成に関すること（スポーツ庁及び文化庁並びに大臣官房、総合教育政策局及び初等中等教育局の所掌に属するものを除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="25">
@@ -1113,7 +1125,7 @@
                 <Item Num="7">
                   <ItemTitle>七</ItemTitle>
                   <ItemSentence>
-                    <Sentence>科学技術の振興に関する年次報告に関すること。</Sentence>
+                    <Sentence>科学技術・イノベーション創出の振興に関する年次報告に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="8">
@@ -1588,12 +1600,12 @@
               </Paragraph>
             </Article>
             <Article Num="12">
-              <ArticleCaption>（総括審議官、サイバーセキュリティ・政策立案総括審議官、公文書監理官及び審議官）</ArticleCaption>
+              <ArticleCaption>（総括審議官、サイバーセキュリティ・政策立案総括審議官、公文書監理官、学習基盤審議官及び審議官）</ArticleCaption>
               <ArticleTitle>第十二条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence>大臣官房に、総括審議官一人、サイバーセキュリティ・政策立案総括審議官一人、公文書監理官一人（関係のある他の職を占める者をもって充てられるものとする。）及び審議官九人を置く。</Sentence>
+                  <Sentence>大臣官房に、総括審議官一人、サイバーセキュリティ・政策立案総括審議官一人、公文書監理官一人（関係のある他の職を占める者をもって充てられるものとする。）、学習基盤審議官一人及び審議官八人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -1616,6 +1628,12 @@
               </Paragraph>
               <Paragraph Num="5">
                 <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence>学習基盤審議官は、命を受けて、文部科学省の所掌事務に関する重要事項のうち教職員、教育費、教材、教育用品その他幼児、児童及び生徒の学習活動の基盤に関するものの企画及び立案に関する事務並びに関係事務を総括整理する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="6">
+                <ParagraphNum>６</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence>審議官は、命を受けて、文部科学省の所掌事務に関する重要事項についての企画及び立案に参画し、関係事務を総括整理する。</Sentence>
                 </ParagraphSentence>
@@ -2137,29 +2155,41 @@
                   <Item Num="2">
                     <ItemTitle>二</ItemTitle>
                     <ItemSentence>
-                      <Sentence>国立大学法人、大学共同利用機関法人、独立行政法人大学改革支援・学位授与機構及び独立行政法人国立高等専門学校機構が設置する文教施設の災害復旧に係る補助金の交付に関すること。</Sentence>
+                      <Sentence>公立の社会教育施設の整備（災害復旧に係るものに限る。）のための補助に関すること。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="3">
                     <ItemTitle>三</ItemTitle>
                     <ItemSentence>
-                      <Sentence>文教施設の防災に関する施策の基本方針の企画及び立案並びに調整に関すること。</Sentence>
+                      <Sentence>私立学校教育の振興のための学校法人その他の私立学校の設置者、地方公共団体及び関係団体に対する助成（学校施設の災害復旧に係るものに限る。）に関すること。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="4">
                     <ItemTitle>四</ItemTitle>
                     <ItemSentence>
-                      <Sentence>文教施設の防災その他保全に関する指導及び助言に関すること（スポーツ庁及び文化庁並びに他局の所掌に属するものを除く。）。</Sentence>
+                      <Sentence>国立大学法人、大学共同利用機関法人、独立行政法人大学改革支援・学位授与機構及び独立行政法人国立高等専門学校機構が設置する文教施設の災害復旧に係る補助金の交付に関すること。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="5">
                     <ItemTitle>五</ItemTitle>
                     <ItemSentence>
-                      <Sentence>国立の文教施設並びに独立行政法人、国立大学法人及び大学共同利用機関法人が設置する文教施設の整備に関する設計、積算、施工及び維持保全に係る技術的基準に関すること。</Sentence>
+                      <Sentence>文教施設の防災に関する施策の基本方針の企画及び立案並びに調整に関すること。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="6">
                     <ItemTitle>六</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>文教施設の防災その他保全に関する指導及び助言に関すること（スポーツ庁及び文化庁並びに他局の所掌に属するものを除く。）。</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="7">
+                    <ItemTitle>七</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>国立の文教施設並びに独立行政法人、国立大学法人及び大学共同利用機関法人が設置する文教施設の整備に関する設計、積算、施工及び維持保全に係る技術的基準に関すること。</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="8">
+                    <ItemTitle>八</ItemTitle>
                     <ItemSentence>
                       <Sentence>国立の文教施設の整備に関する建設計画、設計、積算及び施工管理の実施に関すること。</Sentence>
                     </ItemSentence>
@@ -2421,7 +2451,7 @@
                   <Item Num="5">
                     <ItemTitle>五</ItemTitle>
                     <ItemSentence>
-                      <Sentence>私立の専修学校及び各種学校における教育の振興のための学校法人その他の私立の専修学校及び各種学校の設置者、地方公共団体並びに関係団体に対する助成に関すること（スポーツ庁及び文化庁の所掌に属するものを除く。）。</Sentence>
+                      <Sentence>私立の専修学校及び各種学校における教育の振興のための学校法人その他の私立の専修学校及び各種学校の設置者、地方公共団体並びに関係団体に対する助成に関すること（スポーツ庁及び文化庁並びに大臣官房の所掌に属するものを除く。）。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="6">
@@ -2479,13 +2509,13 @@
                   <Item Num="3">
                     <ItemTitle>三</ItemTitle>
                     <ItemSentence>
-                      <Sentence>公立及び私立の社会教育施設の整備に関する指導及び助言に関すること（スポーツ庁及び文化庁並びに男女共同参画共生社会学習・安全課の所掌に属するものを除く。）。</Sentence>
+                      <Sentence>公立及び私立の社会教育施設の整備（災害復旧に係るものを除く。）に関する指導及び助言に関すること（スポーツ庁及び文化庁並びに男女共同参画共生社会学習・安全課の所掌に属するものを除く。）。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="4">
                     <ItemTitle>四</ItemTitle>
                     <ItemSentence>
-                      <Sentence>公立の社会教育施設の整備のための補助に関すること（スポーツ庁及び文化庁並びに男女共同参画共生社会学習・安全課の所掌に属するものを除く。）。</Sentence>
+                      <Sentence>公立の社会教育施設の整備のための補助に関すること（スポーツ庁及び文化庁並びに大臣官房並びに男女共同参画共生社会学習・安全課の所掌に属するものを除く。）。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="5">
@@ -2585,13 +2615,13 @@
                   <Item Num="4">
                     <ItemTitle>四</ItemTitle>
                     <ItemSentence>
-                      <Sentence>公立及び私立の女性教育施設の整備に関する指導及び助言に関すること。</Sentence>
+                      <Sentence>公立及び私立の女性教育施設の整備（災害復旧に係るものを除く。）に関する指導及び助言に関すること。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="5">
                     <ItemTitle>五</ItemTitle>
                     <ItemSentence>
-                      <Sentence>公立の女性教育施設の整備のための補助に関すること。</Sentence>
+                      <Sentence>公立の女性教育施設の整備（災害復旧に係るものを除く。）のための補助に関すること。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="6">
@@ -2933,7 +2963,7 @@
                   <Item Num="5">
                     <ItemTitle>五</ItemTitle>
                     <ItemSentence>
-                      <Sentence>私立学校教育の振興のための学校法人その他の私立学校の設置者、地方公共団体及び関係団体に対する助成（幼稚園及び幼保連携型認定こども園の施設の整備に係るものに限る。）に関すること（スポーツ庁及び文化庁の所掌に属するものを除く。）。</Sentence>
+                      <Sentence>私立学校教育の振興のための学校法人その他の私立学校の設置者、地方公共団体及び関係団体に対する助成（幼稚園及び幼保連携型認定こども園の施設の整備に係るものに限る。）に関すること（スポーツ庁及び文化庁並びに大臣官房の所掌に属するものを除く。）。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="6">
@@ -3175,7 +3205,7 @@
                   <Item Num="8">
                     <ItemTitle>八</ItemTitle>
                     <ItemSentence>
-                      <Sentence>私立学校教育の振興のための学校法人その他の私立学校の設置者、地方公共団体及び関係団体に対する助成（産業教育のための施設の整備に係るものに限る。）に関すること。</Sentence>
+                      <Sentence>私立学校教育の振興のための学校法人その他の私立学校の設置者、地方公共団体及び関係団体に対する助成（産業教育のための施設の整備に係るものに限る。）に関すること（大臣官房の所掌に属するものを除く。）。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="9">
@@ -3665,7 +3695,7 @@
                   <Item Num="1">
                     <ItemTitle>一</ItemTitle>
                     <ItemSentence>
-                      <Sentence>私立学校教育の振興のための学校法人その他の私立学校の設置者、地方公共団体及び関係団体に対する助成に関すること（スポーツ庁及び文化庁並びに総合教育政策局及び初等中等教育局並びに参事官の所掌に属するものを除く。）。</Sentence>
+                      <Sentence>私立学校教育の振興のための学校法人その他の私立学校の設置者、地方公共団体及び関係団体に対する助成に関すること（スポーツ庁及び文化庁並びに大臣官房、総合教育政策局及び初等中等教育局並びに参事官の所掌に属するものを除く。）。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="2">
@@ -3702,12 +3732,12 @@
             <Division Num="5">
               <DivisionTitle>第五目　科学技術・学術政策局</DivisionTitle>
               <Article Num="54">
-                <ArticleCaption>（科学技術・学術政策局に置く課）</ArticleCaption>
+                <ArticleCaption>（科学技術・学術政策局に置く課等）</ArticleCaption>
                 <ArticleTitle>第五十四条</ArticleTitle>
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence>科学技術・学術政策局に、次の五課を置く。</Sentence>
+                    <Sentence>科学技術・学術政策局に、次の五課及び参事官一人を置く。</Sentence>
                   </ParagraphSentence>
                   <List>
                     <ListSentence>
@@ -3753,13 +3783,13 @@
                   <Item Num="2">
                     <ItemTitle>二</ItemTitle>
                     <ItemSentence>
-                      <Sentence>科学技術に関する基本的な政策の企画及び立案並びに推進に関すること（内閣府並びに研究振興局及び研究開発局並びに他課の所掌に属するものを除く。）。</Sentence>
+                      <Sentence>科学技術に関する基本的な政策の企画及び立案並びに推進に関すること（内閣府並びに研究振興局及び研究開発局並びに他課及び参事官の所掌に属するものを除く。）。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="3">
                     <ItemTitle>三</ItemTitle>
                     <ItemSentence>
-                      <Sentence>科学技術に関する関係行政機関の事務の調整に関すること（内閣府並びに研究振興局及び研究開発局並びに人材政策課及び産業連携・地域支援課の所掌に属するものを除く。）。</Sentence>
+                      <Sentence>科学技術に関する関係行政機関の事務の調整に関すること（内閣府並びに研究振興局及び研究開発局並びに人材政策課、産業連携・地域支援課及び参事官の所掌に属するものを除く。）。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="4">
@@ -3771,47 +3801,23 @@
                   <Item Num="5">
                     <ItemTitle>五</ItemTitle>
                     <ItemSentence>
-                      <Sentence>科学技術に関する研究開発に係る国際交流の助成に関すること。</Sentence>
+                      <Sentence>資源の総合的利用に関すること（他の府省の所掌に属するものを除く。）。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="6">
                     <ItemTitle>六</ItemTitle>
                     <ItemSentence>
-                      <Sentence>文部科学省の所掌事務に係る国際交流に関する事務のうち科学技術に係るものの総括に関すること（国際統括官の所掌に属するものを除く。）。</Sentence>
+                      <Sentence>科学技術・学術審議会の庶務（研究計画・評価分科会、海洋開発分科会、測地学分科会及び技術士分科会に係るものを除く。）に関すること。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="7">
                     <ItemTitle>七</ItemTitle>
                     <ItemSentence>
-                      <Sentence>資源の総合的利用に関すること（他の府省の所掌に属するものを除く。）。</Sentence>
+                      <Sentence>科学技術・学術政策研究所の組織及び運営一般に関すること。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="8">
                     <ItemTitle>八</ItemTitle>
-                    <ItemSentence>
-                      <Sentence>学術の振興に係る国際文化交流の振興に関すること（外交政策に係るもの及び国際統括官の所掌に属するものを除く。）。</Sentence>
-                    </ItemSentence>
-                  </Item>
-                  <Item Num="9">
-                    <ItemTitle>九</ItemTitle>
-                    <ItemSentence>
-                      <Sentence>文部科学省の所掌事務に係る国際協力に関する事務のうち科学技術及び学術に係るものに関すること（研究開発局の所掌に属するものを除く。）。</Sentence>
-                    </ItemSentence>
-                  </Item>
-                  <Item Num="10">
-                    <ItemTitle>十</ItemTitle>
-                    <ItemSentence>
-                      <Sentence>科学技術・学術審議会の庶務（研究計画・評価分科会、海洋開発分科会、測地学分科会及び技術士分科会に係るものを除く。）に関すること。</Sentence>
-                    </ItemSentence>
-                  </Item>
-                  <Item Num="11">
-                    <ItemTitle>十一</ItemTitle>
-                    <ItemSentence>
-                      <Sentence>科学技術・学術政策研究所の組織及び運営一般に関すること。</Sentence>
-                    </ItemSentence>
-                  </Item>
-                  <Item Num="12">
-                    <ItemTitle>十二</ItemTitle>
                     <ItemSentence>
                       <Sentence>前各号に掲げるもののほか、科学技術・学術政策局の所掌事務で他の所掌に属しないものに関すること。</Sentence>
                     </ItemSentence>
@@ -3859,13 +3865,13 @@
                   <Item Num="6">
                     <ItemTitle>六</ItemTitle>
                     <ItemSentence>
-                      <Sentence>科学技術の振興に関する年次報告に関すること。</Sentence>
+                      <Sentence>科学技術・イノベーション創出の振興に関する年次報告に関すること。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="7">
                     <ItemTitle>七</ItemTitle>
                     <ItemSentence>
-                      <Sentence>科学技術に関する研究開発が経済社会及び国民生活に及ぼす影響に関し、評価を行うことその他の措置に関すること（研究振興局及び研究開発局の所掌に属するものを除く。）。</Sentence>
+                      <Sentence>科学技術に関する研究開発が経済社会及び国民生活に及ぼす影響に関し、評価を行うことその他の措置に関すること（研究振興局及び研究開発局並びに参事官の所掌に属するものを除く。）。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="8">
@@ -4022,6 +4028,58 @@
                     <ItemTitle>五</ItemTitle>
                     <ItemSentence>
                       <Sentence>科学技術に関する関係行政機関の事務の調整に関する事務のうち筑波研究学園都市に係るものに関すること。</Sentence>
+                    </ItemSentence>
+                  </Item>
+                </Paragraph>
+              </Article>
+              <Article Num="59_2">
+                <ArticleCaption>（参事官の職務）</ArticleCaption>
+                <ArticleTitle>第五十九条の二</ArticleTitle>
+                <Paragraph Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence>参事官は、次に掲げる事務をつかさどる。</Sentence>
+                  </ParagraphSentence>
+                  <Item Num="1">
+                    <ItemTitle>一</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>科学技術に関する国際交流（国際的な平和及び安全の維持を妨げることとなる科学技術に関する研究開発の成果の国外流出の防止に関することを含む。次号において同じ。）に関する基本的な政策の企画及び立案並びに推進に関すること（研究振興局及び研究開発局の所掌に属するものを除く。）。</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="2">
+                    <ItemTitle>二</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>科学技術に関する国際交流に関する関係行政機関の事務の調整に関すること（研究振興局及び研究開発局の所掌に属するものを除く。）。</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="3">
+                    <ItemTitle>三</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>科学技術に関する研究開発に係る国際交流の助成に関すること。</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="4">
+                    <ItemTitle>四</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>文部科学省の所掌事務に係る国際交流に関する事務のうち科学技術に係るものの総括に関すること（国際統括官の所掌に属するものを除く。）。</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="5">
+                    <ItemTitle>五</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>科学技術に関する研究開発が経済社会及び国民生活に及ぼす影響に関し、評価を行うことその他の措置に関する事務のうち、国際的な平和及び安全の維持を妨げることとなる科学技術に関する研究開発の成果の国外流出の防止に係るものに関すること。</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="6">
+                    <ItemTitle>六</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>学術の振興に係る国際文化交流の振興に関すること（外交政策に係るもの及び国際統括官の所掌に属するものを除く。）。</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="7">
+                    <ItemTitle>七</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>文部科学省の所掌事務に係る国際協力に関する事務のうち科学技術及び学術に係るものに関すること（研究開発局の所掌に属するものを除く。）。</Sentence>
                     </ItemSentence>
                   </Item>
                 </Paragraph>
@@ -5416,7 +5474,7 @@
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence>令和二年に開催される東京オリンピック競技大会及び東京パラリンピック競技大会に関すること。</Sentence>
+                    <Sentence>令和三年に開催される東京オリンピック競技大会及び東京パラリンピック競技大会に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
@@ -5468,19 +5526,19 @@
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
-                    <Sentence>公立及び私立のスポーツ施設の整備（公立の学校の体育施設の災害復旧に係るものを除く。）に関する指導及び助言に関すること。</Sentence>
+                    <Sentence>公立及び私立のスポーツ施設の整備（災害復旧に係るものを除く。）に関する指導及び助言に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="5">
                   <ItemTitle>五</ItemTitle>
                   <ItemSentence>
-                    <Sentence>公立のスポーツ施設の整備（学校の体育施設の災害復旧に係るものを除く。）のための補助に関すること。</Sentence>
+                    <Sentence>公立のスポーツ施設の整備（災害復旧に係るものを除く。）のための補助に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="6">
                   <ItemTitle>六</ItemTitle>
                   <ItemSentence>
-                    <Sentence>私立学校教育の振興のための学校法人（放送大学学園を除く。）その他の私立学校の設置者、地方公共団体及び関係団体に対する助成（体育施設の整備に係るものに限る。）に関すること。</Sentence>
+                    <Sentence>私立学校教育の振興のための学校法人（放送大学学園を除く。）その他の私立学校の設置者、地方公共団体及び関係団体に対する助成（体育施設の整備（災害復旧に係るものを除く。）に係るものに限る。）に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -5807,13 +5865,13 @@
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence>劇場、音楽堂、美術館その他の文化施設に関すること。</Sentence>
+                    <Sentence>劇場、音楽堂、美術館その他の文化施設に関すること（文化施設の災害復旧に係る指導及び助言に関すること並びに公立の文化施設の災害復旧に係る補助に関することを除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
-                    <Sentence>博物館による社会教育の振興に関すること。</Sentence>
+                    <Sentence>博物館による社会教育の振興に関すること（博物館の災害復旧に係る指導及び助言に関すること並びに公立の博物館の災害復旧に係る補助に関することを除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="5">
@@ -6229,21 +6287,28 @@
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="7">
-        <ParagraphCaption>（研究開発局参事官の設置期間の特例）</ParagraphCaption>
+        <ParagraphCaption>（科学技術・学術政策局参事官の設置期間の特例）</ParagraphCaption>
         <ParagraphNum>７</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>第五十四条の参事官は、令和八年三月三十一日まで置かれるものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="8">
+        <ParagraphCaption>（研究開発局参事官の設置期間の特例）</ParagraphCaption>
+        <ParagraphNum>８</ParagraphNum>
         <ParagraphSentence>
           <Sentence>第六十七条の参事官は、令和五年三月三十一日まで置かれるものとする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Num="8">
+      <Paragraph Num="9">
         <ParagraphCaption>（スポーツ庁オリンピック・パラリンピック課の設置期間の特例）</ParagraphCaption>
-        <ParagraphNum>８</ParagraphNum>
+        <ParagraphNum>９</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>スポーツ庁オリンピック・パラリンピック課は、令和三年三月三十一日まで置かれるものとする。</Sentence>
+          <Sentence>スポーツ庁オリンピック・パラリンピック課は、令和四年三月三十一日まで置かれるものとする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412333" AmendLawNum="平成一二年六月七日政令第三三三号" Extract="true" Id="33948d5e-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年六月七日政令第三三三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6253,7 +6318,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412506" AmendLawNum="平成一二年一二月八日政令第五〇六号" Id="1609aba8-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年一二月八日政令第五〇六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6262,7 +6327,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413092" AmendLawNum="平成一三年三月三〇日政令第九二号" Id="1616b73a-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年三月三〇日政令第九二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6271,7 +6336,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414004" AmendLawNum="平成一四年一月一七日政令第四号" Extract="true" Id="0d0f8968-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年一月一七日政令第四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6284,7 +6349,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415074" AmendLawNum="平成一五年三月二六日政令第七四号" Extract="true" Id="1630909c-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年三月二六日政令第七四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6297,7 +6362,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415098" AmendLawNum="平成一五年三月二八日政令第九八号" Extract="true" Id="b2142ebd-0388-48bf-975a-9c04963b50ad">
+    <SupplProvision AmendLawNum="平成一五年三月二八日政令第九八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6310,7 +6375,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415174" AmendLawNum="平成一五年四月一日政令第一七四号" Extract="true" Id="164aa2b6-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年四月一日政令第一七四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6323,7 +6388,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415365" AmendLawNum="平成一五年八月八日政令第三六五号" Extract="true" Id="527512e2-47dd-11e5-8f58-4374fa382a5e">
+    <SupplProvision AmendLawNum="平成一五年八月八日政令第三六五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6336,7 +6401,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415367" AmendLawNum="平成一五年八月八日政令第三六七号" Extract="true" Id="f167750a-2c02-4edf-ba8f-4722af39b049">
+    <SupplProvision AmendLawNum="平成一五年八月八日政令第三六七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6350,7 +6415,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415368" AmendLawNum="平成一五年八月八日政令第三六八号" Extract="true" Id="43e2e916-47dd-11e5-8b2e-c78711fcafa4">
+    <SupplProvision AmendLawNum="平成一五年八月八日政令第三六八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6364,7 +6429,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415369" AmendLawNum="平成一五年八月八日政令第三六九号" Extract="true" Id="43e668a2-47dd-11e5-8b2f-df35b3dbcdc5">
+    <SupplProvision AmendLawNum="平成一五年八月八日政令第三六九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6378,7 +6443,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415370" AmendLawNum="平成一五年八月八日政令第三七〇号" Extract="true" Id="52321c94-47dd-11e5-8f47-0ba7cf4b5f19">
+    <SupplProvision AmendLawNum="平成一五年八月八日政令第三七〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6392,7 +6457,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415439" AmendLawNum="平成一五年九月二五日政令第四三九号" Extract="true" Id="7eeb58ae-47dd-11e5-9773-8746e7046a56">
+    <SupplProvision AmendLawNum="平成一五年九月二五日政令第四三九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6405,7 +6470,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415440" AmendLawNum="平成一五年九月二五日政令第四四〇号" Extract="true" Id="7ef32f66-47dd-11e5-9774-3b2b38bce75d">
+    <SupplProvision AmendLawNum="平成一五年九月二五日政令第四四〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6419,7 +6484,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415441" AmendLawNum="平成一五年九月二五日政令第四四一号" Extract="true" Id="4418f786-47dd-11e5-8b43-cb27b76870da">
+    <SupplProvision AmendLawNum="平成一五年九月二五日政令第四四一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6432,7 +6497,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415551" AmendLawNum="平成一五年一二月二五日政令第五五一号" Extract="true" Id="0e63bad2-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年一二月二五日政令第五五一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6441,7 +6506,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416032" AmendLawNum="平成一六年三月五日政令第三二号" Extract="true" Id="4f24001c-47dd-11e5-8e9b-9741a1a7ca5d">
+    <SupplProvision AmendLawNum="平成一六年三月五日政令第三二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6455,7 +6520,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416128" AmendLawNum="平成一六年四月一日政令第一二八号" Extract="true" Id="16d92c3e-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年四月一日政令第一二八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6468,7 +6533,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416422" AmendLawNum="平成一六年一二月二七日政令第四二二号" Id="439b9613-ed16-4e1b-8c39-539ed242d89b">
+    <SupplProvision AmendLawNum="平成一六年一二月二七日政令第四二二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6477,7 +6542,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417115" AmendLawNum="平成一七年四月一日政令第一一五号" Extract="true" Id="81f03b37-5b71-42ea-baf1-48edd8b1ecd2">
+    <SupplProvision AmendLawNum="平成一七年四月一日政令第一一五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6490,7 +6555,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417192" AmendLawNum="平成一七年五月二七日政令第一九二号" Extract="true" Id="3dc186de-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年五月二七日政令第一九二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6503,7 +6568,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417224" AmendLawNum="平成一七年六月二四日政令第二二四号" Extract="true" Id="641b3a08-47dd-11e5-931b-a776d06b9119">
+    <SupplProvision AmendLawNum="平成一七年六月二四日政令第二二四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6517,7 +6582,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418094" AmendLawNum="平成一八年三月三〇日政令第九四号" Id="171a3328-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年三月三〇日政令第九四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6526,7 +6591,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418151" AmendLawNum="平成一八年三月三一日政令第一五一号" Extract="true" Id="c2009a4b-fbd7-4022-a2ee-637e71b1a2e0">
+    <SupplProvision AmendLawNum="平成一八年三月三一日政令第一五一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6536,7 +6601,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418220" AmendLawNum="平成一八年六月二一日政令第二二〇号" Id="17345118-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年六月二一日政令第二二〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6545,7 +6610,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="419055" AmendLawNum="平成一九年三月二二日政令第五五号" Extract="true" Id="ce8be683-6252-45b2-b08f-de39009af4b5">
+    <SupplProvision AmendLawNum="平成一九年三月二二日政令第五五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6558,7 +6623,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419059" AmendLawNum="平成一九年三月二六日政令第五九号" Extract="true" Id="174e2976-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年三月二六日政令第五九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6568,7 +6633,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="419110" AmendLawNum="平成一九年三月三〇日政令第一一〇号" Extract="true" Id="4f81dc78-47dd-11e5-8eb8-cf036fe73f4d">
+    <SupplProvision AmendLawNum="平成一九年三月三〇日政令第一一〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6577,7 +6642,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="419124" AmendLawNum="平成一九年三月三一日政令第一二四号" Extract="true" Id="7a5dca9c-47dd-11e5-96cc-3bcd20596740">
+    <SupplProvision AmendLawNum="平成一九年三月三一日政令第一二四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日等）</ArticleCaption>
@@ -6590,7 +6655,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419363" AmendLawNum="平成一九年一二月一二日政令第三六三号" Extract="true" Id="0f2163da-d3b4-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年一二月一二日政令第三六三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6599,7 +6664,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="421030" AmendLawNum="平成二一年三月六日政令第三〇号" Extract="true" Id="533002a0-47dd-11e5-8f8a-fb36f61ef92a">
+    <SupplProvision AmendLawNum="平成二一年三月六日政令第三〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6612,7 +6677,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="421053" AmendLawNum="平成二一年三月二五日政令第五三号" Extract="true" Id="a828283b-a223-4dbd-8b03-01f5da1fa2a5">
+    <SupplProvision AmendLawNum="平成二一年三月二五日政令第五三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6622,7 +6687,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="421069" AmendLawNum="平成二一年三月三一日政令第六九号" Extract="true" Id="179be652-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二一年三月三一日政令第六九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6632,7 +6697,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="421111" AmendLawNum="平成二一年三月三一日政令第一一一号" Extract="true" Id="6703424c-47dd-11e5-939f-4f07ce32e6dc">
+    <SupplProvision AmendLawNum="平成二一年三月三一日政令第一一一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6641,7 +6706,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="421165" AmendLawNum="平成二一年六月二六日政令第一六五号" Id="17b5b4c4-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二一年六月二六日政令第一六五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6650,7 +6715,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="422087" AmendLawNum="平成二二年四月一日政令第八七号" Extract="true" Id="b5f81e66-21a1-43f7-9dea-5f5744540f3a">
+    <SupplProvision AmendLawNum="平成二二年四月一日政令第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6660,7 +6725,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="422112" AmendLawNum="平成二二年四月一日政令第一一二号" Extract="true" Id="539336b8-47dd-11e5-8fa7-37cfc7d11d32">
+    <SupplProvision AmendLawNum="平成二二年四月一日政令第一一二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6670,7 +6735,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423067" AmendLawNum="平成二三年三月三一日政令第六七号" Extract="true" Id="17dcbbe6-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年三月三一日政令第六七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6683,7 +6748,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423232" AmendLawNum="平成二三年七月二七日政令第二三二号" Extract="true" Id="823d6506-47dd-11e5-97f7-03649a164bcd">
+    <SupplProvision AmendLawNum="平成二三年七月二七日政令第二三二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6693,7 +6758,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423350" AmendLawNum="平成二三年一一月二八日政令第三五〇号" Extract="true" Id="ddbf4d10-a97b-469d-bd0a-852be9e85b6e">
+    <SupplProvision AmendLawNum="平成二三年一一月二八日政令第三五〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6703,7 +6768,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="424099" AmendLawNum="平成二四年三月三一日政令第九九号" Extract="true" Id="f57df69c-d3b2-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年三月三一日政令第九九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6716,7 +6781,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424187" AmendLawNum="平成二四年七月一一日政令第一八七号" Id="0f0b9550-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年七月一一日政令第一八七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6725,7 +6790,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="424235" AmendLawNum="平成二四年九月一四日政令第二三五号" Extract="true" Id="0e749a28-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年九月一四日政令第二三五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6738,7 +6803,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="425104" AmendLawNum="平成二五年三月二九日政令第一〇四号" Extract="true" Id="4c3f7348-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="平成二五年三月二九日政令第一〇四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6751,7 +6816,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="425189" AmendLawNum="平成二五年六月二六日政令第一八九号" Extract="true" Id="18378850-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二五年六月二六日政令第一八九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6764,7 +6829,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426107" AmendLawNum="平成二六年三月三一日政令第一〇七号" Id="18449432-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年三月三一日政令第一〇七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6773,7 +6838,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="426124" AmendLawNum="平成二六年三月三一日政令第一二四号" Extract="true" Id="23a8066c-b933-46c6-85dd-6f334448ee50">
+    <SupplProvision AmendLawNum="平成二六年三月三一日政令第一二四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6786,7 +6851,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426184" AmendLawNum="平成二六年五月一六日政令第一八四号" Id="100237e8-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年五月一六日政令第一八四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6795,7 +6860,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427074" AmendLawNum="平成二七年三月一八日政令第七四号" Extract="true" Id="54d7c250-47dd-11e5-900a-5701c7032b80">
+    <SupplProvision AmendLawNum="平成二七年三月一八日政令第七四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6804,7 +6869,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427083" AmendLawNum="平成二七年三月二五日政令第八三号" Id="187855e2-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年三月二五日政令第八三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6813,7 +6878,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427093" AmendLawNum="平成二七年三月二五日政令第九三号" Extract="true" Id="18856124-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年三月二五日政令第九三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6823,7 +6888,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427184" AmendLawNum="平成二七年四月一〇日政令第一八四号" Id="18926c2a-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年四月一〇日政令第一八四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6832,7 +6897,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427328" AmendLawNum="平成二七年九月一八日政令第三二八号" Extract="true" Id="a2c0954e-42b5-4441-dcc0-d27bc7583b17">
+    <SupplProvision AmendLawNum="平成二七年九月一八日政令第三二八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6842,7 +6907,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427421" AmendLawNum="平成二七年一二月一六日政令第四二一号" Id="58010ce8-0189-49c8-b1d2-e21a4ea41056">
+    <SupplProvision AmendLawNum="平成二七年一二月一六日政令第四二一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6851,7 +6916,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428011" AmendLawNum="平成二八年一月二二日政令第一一号" Extract="true" Id="b8a7eb74-f3e4-454a-bea9-aa87f275b513">
+    <SupplProvision AmendLawNum="平成二八年一月二二日政令第一一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6861,7 +6926,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428013" AmendLawNum="平成二八年一月二二日政令第一三号" Extract="true" Id="1ab088a8-0fe2-ef84-d8ad-a0d3e65eee83">
+    <SupplProvision AmendLawNum="平成二八年一月二二日政令第一三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6871,7 +6936,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428056" AmendLawNum="平成二八年三月四日政令第五六号" Id="d1bcca63-cc14-cdc8-9210-e1f979d22f7b">
+    <SupplProvision AmendLawNum="平成二八年三月四日政令第五六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6880,7 +6945,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428103" AmendLawNum="平成二八年三月三一日政令第一〇三号" Extract="true" Id="b8318efc-57d8-6d5b-c60e-906911343edf">
+    <SupplProvision AmendLawNum="平成二八年三月三一日政令第一〇三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6890,7 +6955,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428116" AmendLawNum="平成二八年三月三一日政令第一一六号" Id="b12f56cf-3241-cba0-8791-9740c9e89ed5">
+    <SupplProvision AmendLawNum="平成二八年三月三一日政令第一一六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6899,7 +6964,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="429022" AmendLawNum="平成二九年二月一七日政令第二二号" Extract="true" Id="17baf5de-83db-c126-9f2d-89321d8f5b9f">
+    <SupplProvision AmendLawNum="平成二九年二月一七日政令第二二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6909,7 +6974,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="429075" AmendLawNum="平成二九年三月三一日政令第七五号" Id="6c5aeb8b-d72e-62e7-a782-ebebff8fa0e2">
+    <SupplProvision AmendLawNum="平成二九年三月三一日政令第七五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6918,7 +6983,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="430084" AmendLawNum="平成三〇年三月三〇日政令第八四号" Id="6f16ac38-3bd4-11e8-8518-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成三〇年三月三〇日政令第八四号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6927,7 +6992,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="430266" AmendLawNum="平成三〇年九月二七日政令第二六六号" Extract="true" Id="cf6b9fea-c233-11e8-bc00-005056b30d52">
+    <SupplProvision AmendLawNum="平成三〇年九月二七日政令第二六六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6940,7 +7005,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430287" AmendLawNum="平成三〇年一〇月一日政令第二八七号" Extract="true" Id="14dd7440-c6da-11e8-af9b-005056b30d52">
+    <SupplProvision AmendLawNum="平成三〇年一〇月一日政令第二八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6950,7 +7015,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="431055" AmendLawNum="平成三一年三月二五日政令第五五号" Id="bdbdfcd8-503c-11e9-bce0-005056b30d52">
+    <SupplProvision AmendLawNum="平成三一年三月二五日政令第五五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6960,7 +7025,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="431129" AmendLawNum="平成三一年三月三〇日政令第一二九号" Id="3f272734-5760-11e9-9db0-005056b30d52">
+    <SupplProvision AmendLawNum="平成三一年三月三〇日政令第一二九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6969,7 +7034,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501180" AmendLawNum="令和元年一二月一一日政令第一八〇号">
+    <SupplProvision AmendLawNum="令和元年一二月一一日政令第一八〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6979,7 +7044,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501180" AmendLawNum="令和元年一二月二〇日政令第一九八号" Extract="true">
+    <SupplProvision AmendLawNum="令和元年一二月二〇日政令第一九八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6989,7 +7054,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="502061" AmendLawNum="令和二年三月二七日政令第六一号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年三月二七日政令第六一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6999,7 +7064,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="502081" AmendLawNum="令和二年三月三〇日政令第八一号">
+    <SupplProvision AmendLawNum="令和二年三月三〇日政令第八一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -7009,12 +7074,30 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="502157" AmendLawNum="令和二年四月三〇日政令第一五七号">
+    <SupplProvision AmendLawNum="令和二年四月三〇日政令第一五七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>この政令は、文化観光拠点施設を中核とした地域における文化観光の推進に関する法律（令和二年法律第十八号）の施行の日（令和二年五月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一二月二四日政令第三七三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、平成三十二年東京オリンピック競技大会・東京パラリンピック競技大会特別措置法等の一部を改正する法律の施行の日（令和二年十二月二十八日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年三月三一日政令第八〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、令和三年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

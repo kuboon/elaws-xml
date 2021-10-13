@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="252" Year="25">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="252" Year="25" PromulgateMonth="08" PromulgateDay="04">
   <LawNum>昭和二十五年政令第二百五十二号</LawNum>
   <LawBody>
-    <LawTitle>ドイツ財産管理令</LawTitle>
+    <LawTitle Kana="どいつざいさんかんりれい" Abbrev="" AbbrevKana="">ドイツ財産管理令</LawTitle>
     <EnactStatement>内閣は、ポツダム宣言の受諾に伴い発する命令に関する件（昭和二十年勅令第五百四十二号）に基き、この政令を制定する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -281,7 +281,7 @@
           <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">ドイツ財産を保有する者は、その財産について権利若しくは義務に変更を生じ、又は滅失、き損、移動その他現状の変更を生じたときは、遅滞なく、その旨を主務大臣に報告しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">ドイツ財産を保有する者は、その財産について権利若しくは義務に変更を生じ、又は滅失、<Ruby>き<Rt>ヽ</Rt></Ruby>損、移動その他現状の変更を生じたときは、遅滞なく、その旨を主務大臣に報告しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -303,7 +303,7 @@
           <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">ドイツ財産について滅失、き損、移動その他現状の変更を生ずる行為をするには、主務大臣の許可を得なければならない。</Sentence>
+              <Sentence WritingMode="vertical">ドイツ財産について滅失、<Ruby>き<Rt>ヽ</Rt></Ruby>損、移動その他現状の変更を生ずる行為をするには、主務大臣の許可を得なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="4" OldStyle="false">
@@ -793,7 +793,7 @@
           <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">主務大臣は、第十六条の九第一項の規定による申請があつた場合においては、当該申請に係る清算計画書を審査し、前条第二項の規定による異議の申出があつたときは、これを参しやくし、認可すべきものと認めたときは、同項の期間経過後、遅滞なく、これを認可しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、第十六条の九第一項の規定による申請があつた場合においては、当該申請に係る清算計画書を審査し、前条第二項の規定による異議の申出があつたときは、これを参<Ruby>し<Rt>ヽ</Rt>や<Rt>ヽ</Rt>く<Rt>ヽ</Rt></Ruby>し、認可すべきものと認めたときは、同項の期間経過後、遅滞なく、これを認可しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、主務大臣は、当該清算計画書を変更して認可することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -1518,7 +1518,7 @@
           <Paragraph Hide="false" Num="14" OldStyle="false">
             <ParagraphNum>１４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">主務大臣は、三国から第二条第二項第一号に掲げる者が登記している商号の登記をまつ消すべき旨を請求された場合においては、当該商号の登記のまつ消を嘱託しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">主務大臣は、三国から第二条第二項第一号に掲げる者が登記している商号の登記を<Ruby>ま<Rt>ヽ</Rt>つ<Rt>ヽ</Rt></Ruby>消すべき旨を請求された場合においては、当該商号の登記の<Ruby>ま<Rt>ヽ</Rt>つ<Rt>ヽ</Rt></Ruby>消を嘱託しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="15" OldStyle="false">
@@ -1906,7 +1906,7 @@
         </List>
         <List>
           <ListSentence>
-            <Sentence WritingMode="vertical">特定商社財産の管理に関する件（昭和二十一年大蔵司法省令第六号）</Sentence>
+            <Sentence WritingMode="vertical">特定商社財産の管理に関する件（昭和二十一年大蔵省・司法省令第六号）</Sentence>
           </ListSentence>
         </List>
       </Paragraph>
@@ -1943,13 +1943,13 @@
       <Paragraph Hide="false" Num="8" OldStyle="false">
         <ParagraphNum>８</ParagraphNum>
         <ParagraphSentence>
-          <Sentence WritingMode="vertical">旧特定商社財産の管理に関する件第二条第一項の規定により選任されたアスカニア株式会社（本店の所在地、東京都中央区日本橋呉服橋一丁目三番地二）の財産の管理人及びその登記は、同社の財産について第八条第一項の規定による選任された管理人及び第三十条第九項の規定によるその登記とみなす。</Sentence>
+          <Sentence WritingMode="vertical">旧特定商社財産の管理に関する件第二条第一項の規定により選任されたアスカニア株式会社（本店の所在地　東京都中央区日本橋呉服橋一丁目三番地二）の財産の管理人及びその登記は、同社の財産について第八条第一項の規定による選任された管理人及び第三十条第九項の規定によるその登記とみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Hide="false" Num="9" OldStyle="false">
         <ParagraphNum>９</ParagraphNum>
         <ParagraphSentence>
-          <Sentence WritingMode="vertical">主務大臣は、この政令施行前旧特定国財産の保全に関する件第四条の規定に違反した行為を原因として登記がされた場合においては、その登記のまつ消を嘱託することができる。</Sentence>
+          <Sentence WritingMode="vertical">主務大臣は、この政令施行前旧特定国財産の保全に関する件第四条の規定に違反した行為を原因として登記がされた場合においては、その登記の<Ruby>ま<Rt>ヽ</Rt>つ<Rt>ヽ</Rt></Ruby>消を嘱託することができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Hide="false" Num="10" OldStyle="false">
@@ -1965,7 +1965,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="326030" AmendLawNum="昭和二六年二月二六日政令第三〇号" Id="ae201f94-18d5-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二六年二月二六日政令第三〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -1974,7 +1974,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="326145" AmendLawNum="昭和二六年五月九日政令第一四五号" Id="ae477dd2-18d5-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二六年五月九日政令第一四五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -1983,7 +1983,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="326244" AmendLawNum="昭和二六年六月三〇日政令第二四四号" Id="ae6ed030-18d5-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二六年六月三〇日政令第二四四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -2030,7 +2030,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="326328" AmendLawNum="昭和二六年一〇月一一日政令第三二八号" Id="ae961b2c-18d5-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二六年一〇月一一日政令第三二八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -2039,7 +2039,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="327025" AmendLawNum="昭和二七年二月一五日政令第二五号" Id="aebd730c-18d5-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二七年二月一五日政令第二五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -2060,7 +2060,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="327095" AmendLawNum="昭和二七年四月二三日法律第九五号" Id="036693d6-18cf-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二七年四月二三日法律第九五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -2069,7 +2069,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="327268" AmendLawNum="昭和二七年七月三一日法律第二六八号" Extract="true" Id="17726307-b7e9-4938-9798-3c87be2a0e99">
+    <SupplProvision AmendLawNum="昭和二七年七月三一日法律第二六八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -2078,7 +2078,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="338126" AmendLawNum="昭和三八年七月九日法律第一二六号" Extract="true" Id="406bc01e-47dd-11e5-89d3-cb4064af503d">
+    <SupplProvision AmendLawNum="昭和三八年七月九日法律第一二六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -2087,7 +2087,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="354065" AmendLawNum="昭和五四年一二月一八日法律第六五号" Extract="true" Id="3585b7c0-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五四年一二月一八日法律第六五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2100,7 +2100,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

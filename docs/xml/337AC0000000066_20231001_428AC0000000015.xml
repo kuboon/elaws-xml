@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="66" Year="37">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="66" Year="37" PromulgateMonth="03" PromulgateDay="31">
   <LawNum>昭和三十七年法律第六十六号</LawNum>
   <LawBody>
-    <LawTitle>国税通則法</LawTitle>
+    <LawTitle Kana="こくぜいつうそくほう" Abbrev="" AbbrevKana="">国税通則法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -1671,7 +1671,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1">印紙で納付すべきものとされている国税は、前項の規定にかかわらず、国税に関する法律の定めるところにより、その税額に相当する印紙をはることにより納付するものとする。</Sentence>
+                <Sentence Num="1">印紙で納付すべきものとされている国税は、前項の規定にかかわらず、国税に関する法律の定めるところにより、その税額に相当する印紙を貼ることにより納付するものとする。</Sentence>
                 <Sentence Num="2">印紙で納付することができるものとされている国税を印紙で納付する場合も、また同様とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -1679,6 +1679,13 @@
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence>物納の許可があつた国税は、第一項の規定にかかわらず、国税に関する法律の定めるところにより、物納をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">国税を納付しようとする者でこの法律の施行地外の地域に住所又は居所を有するもの（以下この項において「国外納付者」という。）は、第一項の規定にかかわらず、財務省令で定めるところにより、金融機関の営業所、事務所その他これらに類するもの（この法律の施行地外の地域にあるものに限る。以下この項において「国外営業所等」という。）を通じてその税額に相当する金銭をその国税の収納を行う税務署の職員の預金口座（国税の納付を受けるために開設されたものに限る。）に対して払込みをすることにより納付することができる。</Sentence>
+                <Sentence Num="2">この場合において、その国税の納付は、当該国外納付者が当該金融機関の国外営業所等を通じて送金した日においてされたものとみなして、延納、物納及び附帯税に関する規定を適用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3342,13 +3349,13 @@
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>所得税法第九十五条（外国税額控除）若しくは第百六十五条の六（非居住者に係る外国税額の控除）の規定による控除をされるべき金額、第一項の修正申告若しくは更正に係る同法第百二十条第一項第五号（確定申告書の記載事項）（同法第百六十六条（非居住者に対する準用）において準用する場合を含む。）に規定する源泉徴収税額に相当する金額、同法第百二十条第二項（同法第百六十六条において準用する場合を含む。）に規定する予納税額又は災害被害者に対する租税の減免、徴収猶予等に関する法律（昭和二十二年法律第百七十五号）第二条（所得税の軽減又は免除）の規定により軽減若しくは免除を受けた所得税の額</Sentence>
+                    <Sentence>所得税法第九十五条（外国税額控除）若しくは第百六十五条の六（非居住者に係る外国税額の控除）の規定による控除をされるべき金額、第一項の修正申告若しくは更正に係る同法第百二十条第一項第四号（確定所得申告）（同法第百六十六条（申告、納付及び還付）において準用する場合を含む。）に規定する源泉徴収税額に相当する金額、同法第百二十条第二項（同法第百六十六条において準用する場合を含む。）に規定する予納税額又は災害被害者に対する租税の減免、徴収猶予等に関する法律（昭和二十二年法律第百七十五号）第二条（所得税の軽減又は免除）の規定により軽減若しくは免除を受けた所得税の額</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>法人税法第二条第三十八号（定義）に規定する中間納付額、同法第六十八条（所得税額の控除）（同法第百四十四条（外国法人に対する準用）において準用する場合を含む。）、第六十九条（外国税額の控除）若しくは第百四十四条の二（外国法人に係る外国税額の控除）の規定による控除をされるべき金額又は同法第九十条（退職年金等積立金に係る中間申告による納付）（同法第百四十五条の五（外国法人に対する準用）において準用する場合を含む。）の規定により納付すべき法人税の額（その額につき修正申告書の提出又は更正があつた場合には、その申告又は更正後の法人税の額）</Sentence>
+                    <Sentence>法人税法第二条第三十八号（定義）に規定する中間納付額、同法第六十八条（所得税額の控除）（同法第百四十四条（外国法人に係る所得税額の控除）において準用する場合を含む。）、第六十九条（外国税額の控除）若しくは第百四十四条の二（外国法人に係る外国税額の控除）の規定による控除をされるべき金額又は同法第九十条（退職年金等積立金に係る中間申告による納付）（同法第百四十五条の五（申告及び納付）において準用する場合を含む。）の規定により納付すべき法人税の額（その額につき修正申告書の提出又は更正があつた場合には、その申告又は更正後の法人税の額）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="3">
@@ -3360,7 +3367,7 @@
                 <Subitem1 Num="4">
                   <Subitem1Title>ニ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>相続税法第二十条の二（在外財産に対する相続税額の控除）、第二十一条の八（在外財産に対する贈与税額の控除）、第二十一条の十五第三項及び第二十一条の十六第四項（相続時精算課税に係る贈与税相当額の控除）の規定による控除をされるべき金額</Sentence>
+                    <Sentence>相続税法第二十条の二（在外財産に対する相続税額の控除）、第二十一条の八（在外財産に対する贈与税額の控除）、第二十一条の十五第三項及び第二十一条の十六第四項（相続時精算課税に係る相続税額）の規定による控除をされるべき金額</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="5">
@@ -4020,6 +4027,13 @@
               <Sentence>第一項に規定する国税庁等の当該職員のうち、国税局又は税務署の当該職員は、法人税又は地方法人税に関する調査にあつては法人の納税地の所轄国税局又は所轄税務署の当該職員（通算法人の各事業年度の所得に対する法人税又は当該法人税に係る地方法人税に関する調査に係る他の通算法人に対する同項の規定による質問、検査又は提示若しくは提出の要求にあつては当該通算法人の納税地の所轄国税局又は所轄税務署の当該職員を、納税地の所轄国税局又は所轄税務署以外の国税局又は税務署の所轄区域内に本店、支店、工場、営業所その他これらに準ずるものを有する法人に対する法人税又は地方法人税に関する調査にあつては当該国税局又は税務署の当該職員を、それぞれ含む。）に、消費税に関する調査にあつては消費税法第二条第一項第四号に規定する事業者の納税地の所轄国税局又は所轄税務署の当該職員（納税地の所轄国税局又は所轄税務署以外の国税局又は税務署の所轄区域内に住所、居所、本店、支店、事務所、事業所その他これらに準ずるものを有する第一項第三号イに掲げる者に対する消費税に関する調査にあつては、当該国税局又は税務署の当該職員を含む。）に、それぞれ限るものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">法人税等（法人税、地方法人税又は消費税をいう。以下この項において同じ。）についての調査通知（第六十五条第五項（過少申告加算税）に規定する調査通知をいう。以下この項において同じ。）があつた後にその納税地に異動があつた場合において、その異動前の納税地（以下この項において「旧納税地」という。）を所轄する国税局長又は税務署長が必要があると認めるときは、旧納税地の所轄国税局又は所轄税務署の当該職員は、その異動後の納税地の所轄国税局又は所轄税務署の当該職員に代わり、当該法人税等に関する調査（当該調査通知に係るものに限る。）に係る第一項第二号又は第三号に定める者に対し、同項の規定による質問、検査又は提示若しくは提出の要求をすることができる。</Sentence>
+              <Sentence Num="2">この場合において、前項の規定の適用については、同項中「あつては法人の納税地」とあるのは「あつては法人の旧納税地（次項に規定する旧納税地をいう。以下この項において同じ。）」と、「同項」とあるのは「第一項」と、「通算法人の納税地」とあるのは「通算法人の旧納税地」と、「、納税地」とあるのは「、旧納税地」と、「事業者の納税地」とあるのは「事業者の旧納税地」と、「（納税地」とあるのは「（旧納税地」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
         </Article>
         <Article Num="74_3">
           <ArticleCaption>（当該職員の相続税等に関する調査等に係る質問検査権）</ArticleCaption>
@@ -4602,7 +4616,7 @@
               <Subitem1 Num="3">
                 <Subitem1Title>ハ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence>番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第五項（定義）に規定する個人番号（第百二十四条第一項（書類提出者の氏名、住所及び番号の記載等）において「個人番号」という。）又は同法第二条第十五項に規定する法人番号をいう。以下同じ。）</Sentence>
+                  <Sentence>番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第五項（定義）に規定する個人番号（第百二十四条（書類提出者の氏名、住所及び番号の記載）において「個人番号」という。）又は同法第二条第十五項に規定する法人番号をいう。以下同じ。）</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
@@ -5192,14 +5206,14 @@
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1">再調査の請求がされている税務署長その他の行政機関の長（以下「再調査審理庁」という。）は、再調査の請求書が前二項又は第百二十四条（書類提出者の氏名、住所及び番号の記載等）の規定に違反する場合には、相当の期間を定め、その期間内に不備を補正すべきことを求めなければならない。</Sentence>
+                  <Sentence Num="1">再調査の請求がされている税務署長その他の行政機関の長（以下「再調査審理庁」という。）は、再調査の請求書が前二項又は第百二十四条（書類提出者の氏名、住所及び番号の記載）の規定に違反する場合には、相当の期間を定め、その期間内に不備を補正すべきことを求めなければならない。</Sentence>
                   <Sentence Num="2">この場合において、不備が軽微なものであるときは、再調査審理庁は、職権で補正することができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>再調査の請求人は、前項の補正を求められた場合には、その再調査の請求に係る税務署その他の行政機関に出頭して補正すべき事項について陳述し、その陳述の内容を当該行政機関の職員が録取した書面に押印することによつても、これをすることができる。</Sentence>
+                  <Sentence>再調査の請求人は、前項の補正を求められた場合には、その再調査の請求に係る税務署その他の行政機関に出頭して補正すべき事項について陳述し、その陳述の内容を当該行政機関の職員が録取した書面を確認することによつても、これをすることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="5">
@@ -5547,14 +5561,14 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1">国税不服審判所長は、審査請求書が第八十七条（審査請求書の記載事項等）又は第百二十四条（書類提出者の氏名、住所及び番号の記載等）の規定に違反する場合には、相当の期間を定め、その期間内に不備を補正すべきことを求めなければならない。</Sentence>
+                  <Sentence Num="1">国税不服審判所長は、審査請求書が第八十七条（審査請求書の記載事項等）又は第百二十四条（書類提出者の氏名、住所及び番号の記載）の規定に違反する場合には、相当の期間を定め、その期間内に不備を補正すべきことを求めなければならない。</Sentence>
                   <Sentence Num="2">この場合において、不備が軽微なものであるときは、国税不服審判所長は、職権で補正することができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>審査請求人は、前項の補正を求められた場合には、国税不服審判所に出頭して補正すべき事項について陳述し、その陳述の内容を国税不服審判所の職員が録取した書面に押印することによつても、これをすることができる。</Sentence>
+                  <Sentence>審査請求人は、前項の補正を求められた場合には、国税不服審判所に出頭して補正すべき事項について陳述し、その陳述の内容を国税不服審判所の職員が録取した書面を確認することによつても、これをすることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -6535,6 +6549,94 @@
               <Sentence Num="2">その納税管理人を解任したときも、同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の場合において、同項の納税者が前項の規定による納税管理人の届出をしなかつたときは、当該納税者に係る国税の納税地を所轄する国税局長又は税務署長は、当該納税者に対し、第一項に規定する国税に関する事項のうち納税管理人に処理させる必要があると認められるものとして財務省令で定めるもの（次項から第六項までにおいて「特定事項」という。）を明示して、六十日を超えない範囲内においてその準備に通常要する日数を勘案して指定する日（第五項において「指定日」という。）までに、前項の規定による納税管理人の届出をすべきことを書面で求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の場合において、同項の納税者が第二項の規定による納税管理人の届出をしなかつたときは、当該納税者に係る国税の納税地を所轄する国税局長又は税務署長は、この法律の施行地に住所又は居所を有する者で特定事項の処理につき便宜を有するもの（次項において「国内便宜者」という。）に対し、当該納税者の納税管理人となることを書面で求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第三項の国税局長又は税務署長は、同項の納税者（以下この項及び第七項において「特定納税者」という。）が指定日までに第二項の規定による納税管理人の届出をしなかつたときは、前項の規定により納税管理人となることを求めた国内便宜者のうち次の各号に掲げる場合の区分に応じ当該各号に定める者を、特定事項を処理させる納税管理人（次項及び第七項において「特定納税管理人」という。）として指定することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>当該特定納税者が個人である場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>次に掲げる者</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>当該特定納税者と生計を一にする配偶者その他の親族で成年に達した者</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>当該特定納税者に係る国税の課税標準等又は税額等の計算の基礎となるべき事実について当該特定納税者との間の契約により密接な関係を有する者</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>電子情報処理組織を使用して行われる取引その他の取引を当該特定納税者が継続的に又は反復して行う場を提供する事業者</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>当該特定納税者が法人である場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>次に掲げる者</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>当該特定納税者との間にいずれか一方の法人が他方の法人の発行済株式（投資信託及び投資法人に関する法律（昭和二十六年法律第百九十八号）第二条第十二項（定義）に規定する投資法人にあつては、発行済みの投資口（同条第十四項に規定する投資口をいう。イにおいて同じ。））又は出資（当該他方の法人が有する自己の株式（投資口を含む。イにおいて同じ。）又は出資を除く。）の総数又は総額の百分の五十以上の数又は金額の株式又は出資を直接又は間接に保有する関係その他の政令で定める特殊の関係のある法人</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>当該特定納税者の役員（法人税法第二条第十五号（定義）に規定する役員をいう。ロにおいて同じ。）又はその役員と生計を一にする配偶者その他の親族で成年に達した者</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>前号ロ又はハに掲げる者</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の国税局長又は税務署長は、同項の規定により特定納税管理人を指定した場合において、当該特定納税管理人に特定事項を処理させる必要がなくなつたときは、同項の規定による特定納税管理人の指定を解除するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前二項の国税局長又は税務署長は、第五項の規定により特定納税管理人を指定したとき、又は前項の規定により特定納税管理人の指定を解除したときは、特定納税管理人又は特定納税管理人であつた者及び特定納税者に対し、書面によりその旨を通知する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
         </Article>
         <Article Num="118">
           <ArticleCaption>（国税の課税標準の端数計算等）</ArticleCaption>
@@ -6652,64 +6754,14 @@
           </Paragraph>
         </Article>
         <Article Num="124">
-          <ArticleCaption>（書類提出者の氏名、住所及び番号の記載等）</ArticleCaption>
+          <ArticleCaption>（書類提出者の氏名、住所及び番号の記載）</ArticleCaption>
           <ArticleTitle>第百二十四条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1">国税に関する法律に基づき税務署長その他の行政機関の長又はその職員に申告書、申請書、届出書、調書その他の書類（以下この条において「税務書類」という。）を提出する者は、当該税務書類にその氏名（法人については、名称。以下この項において同じ。）、住所又は居所及び番号（番号を有しない者にあつては、その氏名及び住所又は居所とし、税務書類のうち個人番号の記載を要しない書類（納税申告書及び調書を除く。）として財務省令で定める書類については、当該書類を提出する者の氏名及び住所又は居所とする。）を記載しなければならない。</Sentence>
-              <Sentence Num="2">この場合において、その者が法人であるとき、納税管理人若しくは代理人（代理の権限を有することを書面で証明した者に限る。以下この条において同じ。）によつて当該税務書類を提出するとき、又は不服申立人が総代を通じて当該税務書類を提出するときは、その代表者（人格のない社団等の管理人を含む。次項において同じ。）、納税管理人若しくは代理人又は総代の氏名及び住所又は居所をあわせて記載しなければならない。</Sentence>
+              <Sentence Num="1">国税に関する法律に基づき税務署長その他の行政機関の長又はその職員に申告書、申請書、届出書、調書その他の書類（以下この条において「税務書類」という。）を提出する者は、当該税務書類にその氏名（法人については、名称。以下この条において同じ。）、住所又は居所及び番号（番号を有しない者にあつては、その氏名及び住所又は居所とし、税務書類のうち個人番号の記載を要しない書類（納税申告書及び調書を除く。）として財務省令で定める書類については、当該書類を提出する者の氏名及び住所又は居所とする。）を記載しなければならない。</Sentence>
+              <Sentence Num="2">この場合において、その者が法人であるとき、納税管理人若しくは代理人（代理の権限を有することを書面で証明した者に限る。以下この条において同じ。）によつて当該税務書類を提出するとき、又は不服申立人が総代を通じて当該税務書類を提出するときは、その代表者（人格のない社団等の管理人を含む。）、納税管理人若しくは代理人又は総代の氏名及び住所又は居所をあわせて記載しなければならない。</Sentence>
             </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>税務書類には、次の各号に掲げる場合の区分に応じ、当該各号に定める者が押印しなければならない。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence>当該税務書類を提出する者が法人である場合</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence>当該法人の代表者</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence>納税管理人又は代理人によつて当該税務書類を提出する場合</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence>当該納税管理人又は代理人</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-            <Item Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence>不服申立人が総代を通じて当該税務書類を提出する場合</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence>当該総代</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-            <Item Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence>前三号に掲げる場合以外の場合</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence>当該税務書類を提出する者</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
           </Paragraph>
         </Article>
         <Article Num="125">
@@ -6730,8 +6782,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>納税者がすべき国税の課税標準の申告（その修正申告を含む。以下この条において「申告」という。）をしないこと、虚偽の申告をすること又は国税の徴収若しくは納付をしないことを<Ruby>煽<Rt>せん</Rt>
-</Ruby>動した者は、三年以下の懲役又は二十万円以下の罰金に処する。</Sentence>
+              <Sentence>納税者がすべき国税の課税標準の申告（その修正申告を含む。以下この条において「申告」という。）をしないこと、虚偽の申告をすること又は国税の徴収若しくは納付をしないことを<Ruby>煽<Rt>せん</Rt></Ruby>動した者は、三年以下の懲役又は二十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -10846,13 +10897,13 @@
                 <Sentence>平成三十年四月一日</Sentence>
               </Column>
             </ItemSentence>
-            <Subitem1 Num="1">
+            <Subitem1 Num="1:3">
               <Subitem1Title>イからハまで</Subitem1Title>
               <Subitem1Sentence>
                 <Sentence>略</Sentence>
               </Subitem1Sentence>
             </Subitem1>
-            <Subitem1 Num="2">
+            <Subitem1 Num="4">
               <Subitem1Title>ニ</Subitem1Title>
               <Subitem1Sentence>
                 <Sentence>第八条の規定（同条中国税通則法第十九条第四項第三号ハの改正規定、同法第三十四条の二（見出しを含む。）の改正規定及び同法第七十一条第二項の改正規定を除く。）並びに附則第四十条第二項及び第三項、第百五条、第百六条、第百八条から第百十四条まで、第百十八条、第百二十四条、第百二十五条、第百二十九条から第百三十三条まで、第百三十五条並びに第百三十六条の規定</Sentence>
@@ -11187,8 +11238,8 @@
                 <Sentence>令和四年四月一日</Sentence>
               </Column>
             </ItemSentence>
-            <Subitem1 Num="1">
-              <Subitem1Title>イ</Subitem1Title>
+            <Subitem1 Num="1:5">
+              <Subitem1Title>イからホまで</Subitem1Title>
               <Subitem1Sentence>
                 <Sentence>略</Sentence>
               </Subitem1Sentence>
@@ -11283,6 +11334,107 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この法律は、令和四年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年三月三一日法律第一一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和三年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一・二</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第五条中国税通則法第七十四条の二に一項を加える改正規定及び附則第十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>令和三年七月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>令和四年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1:2">
+              <Subitem1Title>イ・ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>第五条中国税通則法第六十五条第三項第二号の改正規定及び同法第百十七条に五項を加える改正規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第五条中国税通則法第三十四条の改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>令和四年一月四日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（国税通則法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第五条の規定による改正後の国税通則法（以下この条において「新国税通則法」という。）第七十四条の二第五項の規定は、令和三年七月一日以後に法人税等（法人税、地方法人税又は消費税をいう。以下この条において同じ。）に関する調査に係る新国税通則法第七十四条の二第一項第二号又は第三号に定める者に対して行う同項の規定による質問、検査又は提示若しくは提出の要求（同日前から引き続き行われている法人税等に関する調査（同日前に第五条の規定による改正前の国税通則法第七十四条の二第一項第二号イ又は第三号イに掲げる者に対して同項の規定による質問、検査又は提示若しくは提出の要求を行っていたものに限る。）に係るものを除く。）について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="131">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="132">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

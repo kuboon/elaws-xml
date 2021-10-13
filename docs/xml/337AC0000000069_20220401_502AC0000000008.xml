@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="69" Year="37">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="69" Year="37" PromulgateMonth="03" PromulgateDay="31">
   <LawNum>昭和三十七年法律第六十九号</LawNum>
   <LawBody>
-    <LawTitle>建物の区分所有等に関する法律</LawTitle>
+    <LawTitle Kana="たてもののくぶんしょゆうとうにかんするほうりつ" Abbrev="マンション法,区分所有法" AbbrevKana="マ,く">建物の区分所有等に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -209,15 +209,12 @@
             </Paragraph>
           </Article>
           <Article Num="9">
-            <ArticleCaption>（建物の設置又は保存の<Ruby>瑕疵<Rt>かし</Rt>
-</Ruby>に関する推定）</ArticleCaption>
+            <ArticleCaption>（建物の設置又は保存の<Ruby>瑕疵<Rt>かし</Rt></Ruby>に関する推定）</ArticleCaption>
             <ArticleTitle>第九条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>建物の設置又は保存に<Ruby>瑕疵<Rt>かし</Rt>
-</Ruby>があることにより他人に損害を生じたときは、その<Ruby>瑕疵<Rt>かし</Rt>
-</Ruby>は、共用部分の設置又は保存にあるものと推定する。</Sentence>
+                <Sentence>建物の設置又は保存に<Ruby>瑕疵<Rt>かし</Rt></Ruby>があることにより他人に損害を生じたときは、その<Ruby>瑕疵<Rt>かし</Rt></Ruby>は、共用部分の設置又は保存にあるものと推定する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -822,13 +819,13 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>前項の場合において、議事録が書面で作成されているときは、議長及び集会に出席した区分所有者の二人がこれに署名押印しなければならない。</Sentence>
+                <Sentence>前項の場合において、議事録が書面で作成されているときは、議長及び集会に出席した区分所有者の二人がこれに署名しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>第二項の場合において、議事録が電磁的記録で作成されているときは、当該電磁的記録に記録された情報については、議長及び集会に出席した区分所有者の二人が行う法務省令で定める署名押印に代わる措置を執らなければならない。</Sentence>
+                <Sentence>第二項の場合において、議事録が電磁的記録で作成されているときは、当該電磁的記録に記録された情報については、議長及び集会に出席した区分所有者の二人が行う法務省令で定める署名に代わる措置を執らなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
@@ -1671,32 +1668,46 @@
             <Paragraph Num="9">
               <ParagraphNum>９</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1">買取指定者が第七項前段に規定する請求に基づく売買の代金に係る債務の全部又は一部の弁済をしないときは、決議賛成者（買取指定者となつたものを除く。以下この項及び第十三項において同じ。）は、連帯してその債務の全部又は一部の弁済の責めに任ずる。</Sentence>
-                <Sentence Function="proviso" Num="2">ただし、決議賛成者が買取指定者に資力があり、かつ、執行が容易であることを証明したときは、この限りでない。</Sentence>
+                <Sentence Function="main" Num="1">買取指定者は、前項の規定による書面による通知に代えて、法務省令で定めるところにより、同項の規定による通知を受けるべき区分所有者の承諾を得て、電磁的方法により買取指定者の指定がされた旨を通知することができる。</Sentence>
+                <Sentence Function="proviso" Num="2">この場合において、当該買取指定者は、当該書面による通知をしたものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="10">
               <ParagraphNum>１０</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>第五項の集会を招集した者（買取指定者の指定がされているときは、当該買取指定者）は、決議賛成者以外の区分所有者に対し、四月以上の期間を定めて、第七項前段に規定する請求をするか否かを確答すべき旨を書面で催告することができる。</Sentence>
+                <Sentence Function="main" Num="1">買取指定者が第七項前段に規定する請求に基づく売買の代金に係る債務の全部又は一部の弁済をしないときは、決議賛成者（買取指定者となつたものを除く。以下この項及び第十五項において同じ。）は、連帯してその債務の全部又は一部の弁済の責めに任ずる。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、決議賛成者が買取指定者に資力があり、かつ、執行が容易であることを証明したときは、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="11">
               <ParagraphNum>１１</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>前項に規定する催告を受けた区分所有者は、前項の規定により定められた期間を経過したときは、第七項前段に規定する請求をすることができない。</Sentence>
+                <Sentence>第五項の集会を招集した者（買取指定者の指定がされているときは、当該買取指定者。次項において同じ。）は、決議賛成者以外の区分所有者に対し、四月以上の期間を定めて、第七項前段に規定する請求をするか否かを確答すべき旨を書面で催告することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="12">
               <ParagraphNum>１２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>第五項に規定する場合において、建物の一部が滅失した日から六月以内に同項、次条第一項又は第七十条第一項の決議がないときは、各区分所有者は、他の区分所有者に対し、建物及びその敷地に関する権利を時価で買い取るべきことを請求することができる。</Sentence>
+                <Sentence Function="main" Num="1">第五項の集会を招集した者は、前項の規定による書面による催告に代えて、法務省令で定めるところにより、同項に規定する区分所有者の承諾を得て、電磁的方法により第七項前段に規定する請求をするか否かを確答すべき旨を催告することができる。</Sentence>
+                <Sentence Function="proviso" Num="2">この場合において、当該第五項の集会を招集した者は、当該書面による催告をしたものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="13">
               <ParagraphNum>１３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>第二項、第七項、第八項及び前項の場合には、裁判所は、償還若しくは買取りの請求を受けた区分所有者、買取りの請求を受けた買取指定者又は第九項本文に規定する債務について履行の請求を受けた決議賛成者の請求により、償還金又は代金の支払につき相当の期限を許与することができる。</Sentence>
+                <Sentence>第十一項に規定する催告を受けた区分所有者は、同項の規定により定められた期間を経過したときは、第七項前段に規定する請求をすることができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="14">
+              <ParagraphNum>１４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第五項に規定する場合において、建物の一部が滅失した日から六月以内に同項、次条第一項又は第七十条第一項の決議がないときは、各区分所有者は、他の区分所有者に対し、建物及びその敷地に関する権利を時価で買い取るべきことを請求することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="15">
+              <ParagraphNum>１５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第二項、第七項、第八項及び前項の場合には、裁判所は、償還若しくは買取りの請求を受けた区分所有者、買取りの請求を受けた買取指定者又は第十項本文に規定する債務について履行の請求を受けた決議賛成者の請求により、償還金又は代金の支払につき相当の期限を許与することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1814,37 +1825,44 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>前項に規定する区分所有者は、同項の規定による催告を受けた日から二月以内に回答しなければならない。</Sentence>
+                <Sentence Num="1">集会を招集した者は、前項の規定による書面による催告に代えて、法務省令で定めるところにより、同項に規定する区分所有者の承諾を得て、電磁的方法により建替え決議の内容により建替えに参加するか否かを回答すべき旨を催告することができる。</Sentence>
+                <Sentence Num="2">この場合において、当該集会を招集した者は、当該書面による催告をしたものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>前項の期間内に回答しなかつた第一項に規定する区分所有者は、建替えに参加しない旨を回答したものとみなす。</Sentence>
+                <Sentence>第一項に規定する区分所有者は、同項の規定による催告を受けた日から二月以内に回答しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1">第二項の期間が経過したときは、建替え決議に賛成した各区分所有者若しくは建替え決議の内容により建替えに参加する旨を回答した各区分所有者（これらの者の承継人を含む。）又はこれらの者の全員の合意により区分所有権及び敷地利用権を買い受けることができる者として指定された者（以下「買受指定者」という。）は、同項の期間の満了の日から二月以内に、建替えに参加しない旨を回答した区分所有者（その承継人を含む。）に対し、区分所有権及び敷地利用権を時価で売り渡すべきことを請求することができる。</Sentence>
-                <Sentence Num="2">建替え決議があつた後にこの区分所有者から敷地利用権のみを取得した者（その承継人を含む。）の敷地利用権についても、同様とする。</Sentence>
+                <Sentence>前項の期間内に回答しなかつた第一項に規定する区分所有者は、建替えに参加しない旨を回答したものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>前項の規定による請求があつた場合において、建替えに参加しない旨を回答した区分所有者が建物の明渡しによりその生活上著しい困難を生ずるおそれがあり、かつ、建替え決議の遂行に甚だしい影響を及ぼさないものと認めるべき顕著な事由があるときは、裁判所は、その者の請求により、代金の支払又は提供の日から一年を超えない範囲内において、建物の明渡しにつき相当の期限を許与することができる。</Sentence>
+                <Sentence Num="1">第三項の期間が経過したときは、建替え決議に賛成した各区分所有者若しくは建替え決議の内容により建替えに参加する旨を回答した各区分所有者（これらの者の承継人を含む。）又はこれらの者の全員の合意により区分所有権及び敷地利用権を買い受けることができる者として指定された者（以下「買受指定者」という。）は、同項の期間の満了の日から二月以内に、建替えに参加しない旨を回答した区分所有者（その承継人を含む。）に対し、区分所有権及び敷地利用権を時価で売り渡すべきことを請求することができる。</Sentence>
+                <Sentence Num="2">建替え決議があつた後にこの区分所有者から敷地利用権のみを取得した者（その承継人を含む。）の敷地利用権についても、同様とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1">建替え決議の日から二年以内に建物の取壊しの工事に着手しない場合には、第四項の規定により区分所有権又は敷地利用権を売り渡した者は、この期間の満了の日から六月以内に、買主が支払つた代金に相当する金銭をその区分所有権又は敷地利用権を現在有する者に提供して、これらの権利を売り渡すべきことを請求することができる。</Sentence>
-                <Sentence Function="proviso" Num="2">ただし、建物の取壊しの工事に着手しなかつたことにつき正当な理由があるときは、この限りでない。</Sentence>
+                <Sentence>前項の規定による請求があつた場合において、建替えに参加しない旨を回答した区分所有者が建物の明渡しによりその生活上著しい困難を生ずるおそれがあり、かつ、建替え決議の遂行に甚だしい影響を及ぼさないものと認めるべき顕著な事由があるときは、裁判所は、その者の請求により、代金の支払又は提供の日から一年を超えない範囲内において、建物の明渡しにつき相当の期限を許与することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="7">
               <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">建替え決議の日から二年以内に建物の取壊しの工事に着手しない場合には、第五項の規定により区分所有権又は敷地利用権を売り渡した者は、この期間の満了の日から六月以内に、買主が支払つた代金に相当する金銭をその区分所有権又は敷地利用権を現在有する者に提供して、これらの権利を売り渡すべきことを請求することができる。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、建物の取壊しの工事に着手しなかつたことにつき正当な理由があるときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1">前項本文の規定は、同項ただし書に規定する場合において、建物の取壊しの工事の着手を妨げる理由がなくなつた日から六月以内にその着手をしないときに準用する。</Sentence>
                 <Sentence Num="2">この場合において、同項本文中「この期間の満了の日から六月以内に」とあるのは、「建物の取壊しの工事の着手を妨げる理由がなくなつたことを知つた日から六月又はその理由がなくなつた日から二年のいずれか早い時期までに」と読み替えるものとする。</Sentence>
@@ -2217,7 +2235,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="358051" AmendLawNum="昭和五八年五月二一日法律第五一号" Extract="true" Id="c158a00c-189b-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五八年五月二一日法律第五一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2241,15 +2259,12 @@
         </Paragraph>
       </Article>
       <Article Num="3">
-        <ArticleCaption>（建物の設置又は保存の<Ruby>瑕疵<Rt>かし</Rt>
-</Ruby>に関する推定に関する経過措置）</ArticleCaption>
+        <ArticleCaption>（建物の設置又は保存の<Ruby>瑕疵<Rt>かし</Rt></Ruby>に関する推定に関する経過措置）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>新法第九条の規定は、この法律の施行前に建物の設置又は保存の<Ruby>瑕疵<Rt>かし</Rt>
-</Ruby>により損害が生じた場合における当該<Ruby>瑕疵<Rt>かし</Rt>
-</Ruby>については、適用しない。</Sentence>
+            <Sentence>新法第九条の規定は、この法律の施行前に建物の設置又は保存の<Ruby>瑕疵<Rt>かし</Rt></Ruby>により損害が生じた場合における当該<Ruby>瑕疵<Rt>かし</Rt></Ruby>については、適用しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2392,7 +2407,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="363108" AmendLawNum="昭和六三年一二月三〇日法律第一〇八号" Extract="true" Id="78dd94b5-8163-e85e-e1fd-c752a5f4fbec">
+    <SupplProvision AmendLawNum="昭和六三年一二月三〇日法律第一〇八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日等）</ArticleCaption>
@@ -2428,7 +2443,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="403073" AmendLawNum="平成三年五月一五日法律第七三号" Extract="true" Id="e9f47a04-8073-4ee1-99c9-6312b88d05cc">
+    <SupplProvision AmendLawNum="平成三年五月一五日法律第七三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2441,7 +2456,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414079" AmendLawNum="平成一四年七月三日法律第七九号" Extract="true" Id="3114739c-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年七月三日法律第七九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2454,7 +2469,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414140" AmendLawNum="平成一四年一二月一一日法律第一四〇号" Extract="true" Id="3c8ded78-1887-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年一二月一一日法律第一四〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2500,7 +2515,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416076" AmendLawNum="平成一六年六月二日法律第七六号" Extract="true" Id="ecbc3a7c-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月二日法律第七六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2533,7 +2548,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416124" AmendLawNum="平成一六年六月一八日法律第一二四号" Extract="true" Id="ecbeb284-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月一八日法律第一二四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2546,7 +2561,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417087" AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true" Id="6227ae84-47dd-11e5-92b2-43af2fd23feb">
+    <SupplProvision AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -2555,7 +2570,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418050" AmendLawNum="平成一八年六月二日法律第五〇号" Extract="true" Id="994c58f6-0a18-11e8-af63-742b6287e916">
+    <SupplProvision AmendLawNum="平成一八年六月二日法律第五〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -2564,7 +2579,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="420009" AmendLawNum="平成二〇年三月三一日法律第九号" Extract="true" Id="291bdb30-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年三月三一日法律第九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2578,7 +2593,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="420023" AmendLawNum="平成二〇年四月三〇日法律第二三号" Extract="true" Id="9b5b89ff-df64-4ac5-ac08-b67486a2ef16">
+    <SupplProvision AmendLawNum="平成二〇年四月三〇日法律第二三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2651,7 +2666,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423053" AmendLawNum="平成二三年五月二五日法律第五三号" Id="f6b9778e-d3b2-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年五月二五日法律第五三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -2660,7 +2675,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423074" AmendLawNum="平成二三年六月二四日法律第七四号" Extract="true" Id="64061518-04d8-4a9e-acc1-1ae4d12de2b1">
+    <SupplProvision AmendLawNum="平成二三年六月二四日法律第七四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2673,7 +2688,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502008" AmendLawNum="令和二年三月三一日法律第八号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2732,6 +2747,61 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月一九日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和三年九月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第二十七条（住民基本台帳法別表第一から別表第五までの改正規定に限る。）、第四十五条、第四十七条及び第五十五条（行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一及び別表第二の改正規定（同表の二十七の項の改正規定を除く。）に限る。）並びに附則第八条第一項、第五十九条から第六十三条まで、第六十七条及び第七十一条から第七十三条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="71">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="72">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="73">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第七十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、行政機関等に係る申請、届出、処分の通知その他の手続において、個人の氏名を平仮名又は片仮名で表記したものを利用して当該個人を識別できるようにするため、個人の氏名を平仮名又は片仮名で表記したものを戸籍の記載事項とすることを含め、この法律の公布後一年以内を目途としてその具体的な方策について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

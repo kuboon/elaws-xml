@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="68" Year="14">
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="68" Year="14" PromulgateMonth="12" PromulgateDay="06">
   <LawNum>平成十四年財務省令第六十八号</LawNum>
   <LawBody>
-    <LawTitle>個人向け国債の発行等に関する省令</LawTitle>
+    <LawTitle Kana="こじんむけこくさいのはっこうとうにかんするしょうれい" Abbrev="" AbbrevKana="">個人向け国債の発行等に関する省令</LawTitle>
     <EnactStatement>国債に関する法律（明治三十九年法律第三十四号）第一条第一項及び第二条ノ二の規定に基づき、個人向け国債の発行等に関する省令を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -394,7 +394,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="415018" AmendLawNum="平成一五年三月二八日財務省令第一八号" Id="ec03bf36-18db-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年三月二八日財務省令第一八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -403,7 +403,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417029" AmendLawNum="平成一七年三月三一日財務省令第二九号" Id="87842402-190c-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年三月三一日財務省令第二九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -412,7 +412,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417080" AmendLawNum="平成一七年一〇月一四日財務省令第八〇号" Id="56608b5c-1927-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年一〇月一四日財務省令第八〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -421,7 +421,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418011" AmendLawNum="平成一八年三月二四日財務省令第一一号" Id="568ff612-1927-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年三月二四日財務省令第一一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -430,7 +430,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="419043" AmendLawNum="平成一九年七月二〇日財務省令第四三号" Extract="true" Id="880bad28-190c-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年七月二〇日財務省令第四三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -440,7 +440,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="419049" AmendLawNum="平成一九年九月一四日財務省令第四九号" Extract="true" Id="e84a0f98-188c-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年九月一四日財務省令第四九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -453,7 +453,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419057" AmendLawNum="平成一九年九月二八日財務省令第五七号" Extract="true" Id="e874b338-188c-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年九月二八日財務省令第五七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -466,7 +466,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="420012" AmendLawNum="平成二〇年三月二五日財務省令第一二号" Id="8892eb30-190c-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年三月二五日財務省令第一二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -475,7 +475,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="420061" AmendLawNum="平成二〇年九月三〇日財務省令第六一号" Extract="true" Id="e8b4b186-188c-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年九月三〇日財務省令第六一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -488,7 +488,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="420084" AmendLawNum="平成二〇年一二月二二日財務省令第八四号" Extract="true" Id="e8df4644-188c-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年一二月二二日財務省令第八四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -501,7 +501,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="422035" AmendLawNum="平成二二年四月三〇日財務省令第三五号" Id="57db113c-1927-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二二年四月三〇日財務省令第三五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -510,7 +510,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423044" AmendLawNum="平成二三年六月三〇日財務省令第四四号" Id="580a6cc0-1927-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年六月三〇日財務省令第四四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -519,7 +519,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="424043" AmendLawNum="平成二四年五月八日財務省令第四三号" Id="5839f4f4-1927-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年五月八日財務省令第四三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -528,7 +528,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="425018" AmendLawNum="平成二五年三月三〇日財務省令第一八号" Extract="true" Id="dbc47bde-18d5-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二五年三月三〇日財務省令第一八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -541,7 +541,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="428013" AmendLawNum="平成二八年三月二五日財務省令第一三号" Id="5898977a-1927-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二八年三月二五日財務省令第一三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -550,7 +550,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428034" AmendLawNum="平成二八年四月一日財務省令第三四号" Id="58c7fdc6-1927-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二八年四月一日財務省令第三四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>

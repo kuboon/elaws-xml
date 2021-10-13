@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Meiji" Lang="ja" LawType="Act" Num="53" Year="38">
+<Law Era="Meiji" Lang="ja" LawType="Act" Num="53" Year="38" PromulgateMonth="05" PromulgateDay="27">
   <LawNum>明治三十八年法律第五十三号</LawNum>
   <LawBody>
-    <LawTitle>鉄道抵当法</LawTitle>
+    <LawTitle Kana="てつどうていとうほう" Abbrev="" AbbrevKana="">鉄道抵当法</LawTitle>
     <MainProvision>
       <Chapter Delete="false" Hide="false" Num="1">
         <ChapterTitle>第一章　総則</ChapterTitle>
@@ -23,14 +23,14 @@
               <Sentence WritingMode="vertical">会社ハ抵当権ノ目的ト為ス為鉄道ノ全部又ハ一部ニ付鉄道財団ヲ設クルコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">鉄道財団ニ属スルモノハ同時ニ他ノ鉄道財団ニ属スルコトヲ得ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">鉄道財団ハ之ヲ一箇ノ物ト看做ス</Sentence>
             </ParagraphSentence>
@@ -44,8 +44,8 @@
               <Sentence WritingMode="vertical">鉄道財団ノ設定ハ国土交通大臣ノ認可ヲ受クルニ因リテ其ノ効力ヲ生ズ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">鉄道財団ハ左ノ場合ニ於テ消滅ス</Sentence>
             </ParagraphSentence>
@@ -128,14 +128,14 @@
               <Sentence WritingMode="vertical">鉄道財団ハ所有権及抵当権以外ノ物権又ハ差押、仮差押若ハ仮処分ノ目的ト為スコトヲ得ス但シ滞納処分ニ依ル差押ノ目的ト為ス場合ハ此ノ限ニ在ラズ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">鉄道財団ニ属スルモノハ所有権以外ノ物権又ハ差押、仮差押若ハ仮処分ノ目的ト為スコトヲ得ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">鉄道財団ニ属スヘキモノニシテ所有権以外ノ物権又ハ差押、仮差押若ハ仮処分ノ目的タルトキ又ハ鉄道財団ニ属スヘキ不動産ニシテ賃借権ノ目的タルトキハ会社ハ鉄道財団ヲ設クルコトヲ得ス但シ不動産ニ関スル権利ニ付其ノ登記ナキトキ又ハ自動車ノ抵当権ニ付其ノ登録ナキトキハ此ノ限ニ在ラズ</Sentence>
             </ParagraphSentence>
@@ -188,8 +188,8 @@
               <Sentence WritingMode="vertical">鉄道財団設定ノ認可ノ申請アリタルトキハ国土交通大臣ハ直ニ官報ヲ以テ鉄道財団ニ属スヘキモノニ関シ第四条第三項ノ権利ヲ有スル者又ハ差押、仮差押若ハ仮処分ノ債権者ハ一定ノ期間内ニ申出ツヘキ旨ヲ公告スヘシ但シ其ノ期間ハ一箇月ヲ下ルコトヲ得ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項ノ公告アリタルトキハ会社ハ直ニ国土交通省令ノ定ムル所ニ依リ其ノ公告アリタル事項ヲ公告スベシ</Sentence>
             </ParagraphSentence>
@@ -212,8 +212,8 @@
               <Sentence WritingMode="vertical">第八条第一項ノ公告アリタル後ハ鉄道財団設定ノ認可ノ申請カ却下セラレサル間及其ノ認可カ効力ヲ失ハサル間ハ鉄道財団ニ属スヘキ不動産ニ関スル権利ニ付競落ヲ許ス決定ヲ為スコトヲ得ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項ノ規定ハ動産ニ対スル競売ノ場合ニ之ヲ準用ス</Sentence>
             </ParagraphSentence>
@@ -227,8 +227,8 @@
               <Sentence WritingMode="vertical">第八条第一項ニ依ル公告ヲ為シタル場合ニ於テ公告シタル期間内ニ権利ノ申出アリタルトキハ国土交通大臣ハ遅滞ナク其ノ旨ヲ会社ニ通知スベシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公告シタル期間満了後三週間内ニ権利ノ申出ノ取消アラザルトキ又ハ其ノ申出ノ理由ナキコトノ証明アラザルトキハ国土交通大臣ハ鉄道財団設定ノ認可ノ申請ヲ却下スベシ</Sentence>
             </ParagraphSentence>
@@ -242,14 +242,14 @@
               <Sentence WritingMode="vertical">鉄道財団設定ノ認可アリタルトキハ其ノ鉄道ニ関スルモノニシテ第三条ニ掲ケタルモノハ当然鉄道財団ニ属ス其ノ鉄道財団設定後新ニ鉄道財団ノ所有者ニ属シタルモノ亦同シ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項ニ掲ケタルモノニ関シ第四条第三項ノ権利アルトキハ不動産ニ関スルモノノ登記又ハ自動車ノ抵当権ノ登録ハ其ノ効力ヲ失ヒ動産ニ関スルモノ（自動車ノ抵当権ヲ除ク）ハ存セサルモノト看做シ差押、仮差押又ハ仮処分ハ其ノ効力ヲ失フ但シ鉄道財団設定ノ認可カ効力ヲ失ヒタルトキハ此ノ限ニ在ラス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項ノ場合ニ於テハ第四条第三項ノ権利ヲ有スル者又ハ差押、仮差押若ハ仮処分ノ債権者ハ鉄道財団ノ所有者ニ対シ損害賠償ノ請求ヲ為スコトヲ得</Sentence>
             </ParagraphSentence>
@@ -290,14 +290,14 @@
               <Sentence WritingMode="vertical">会社ハ一箇ノ鉄道財団ヲ分割シテ数箇ノ鉄道財団ト為スコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">抵当権ノ目的タル甲鉄道財団ヲ分割シテ其ノ一部ヲ乙鉄道財団ト為シタルトキハ其ノ抵当権ハ乙鉄道財団ニ付消滅ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項ノ場合ニ於ケル鉄道財団ノ分割ハ抵当権者ガ乙鉄道財団ニ付抵当権ノ消滅ヲ承諾スルニ非ザレバ之ヲ為スコトヲ得ズ</Sentence>
             </ParagraphSentence>
@@ -323,14 +323,14 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">合併セムトスル甲鉄道財団ヲ目的トスル抵当権ノ甲鉄道財団ニ於ケル順位ト同一ノ順位ヲ合併セムトスル乙鉄道財団ニ付有スル他ノ抵当権（甲鉄道財団ヲ目的トスル抵当権ト他ノ抵当権ガ合併セムトスル鉄道財団ノ内其ノ目的トスル鉄道財団ヲ共通ニスル場合ノ他ノ抵当権ヲ除ク）ガ存セザルトキハ前項第二号ノ規定ニ拘ラズ鉄道財団ヲ合併スルコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">鉄道財団ヲ合併シタルトキハ抵当権ハ合併後ノ鉄道財団ノ全部ニ及ブ</Sentence>
             </ParagraphSentence>
@@ -353,8 +353,8 @@
               <Sentence WritingMode="vertical">鉄道財団拡張ノ認可ヲ申請スルニハ拡張セムトスル鉄道ノ部分ニ関スルモノニシテ第三条ニ掲ゲタルモノノ目録ヲ差出スベシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">鉄道財団ノ拡張ニ関シテハ第四条第三項及第八条乃至第十二条ノ規定ヲ準用ス</Sentence>
             </ParagraphSentence>
@@ -395,8 +395,8 @@
               <Sentence WritingMode="vertical">数箇ノ債権ヲ担保スル為同一ノ鉄道財団ニ付抵当権ヲ設定シタルトキハ其ノ抵当権ノ順位ハ登録ノ前後ニ依ル</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">民法（明治二十九年法律第八十九号）第三百七十四条ノ規定ハ抵当権ノ順位ノ変更ニ付之ヲ準用ス</Sentence>
             </ParagraphSentence>
@@ -437,8 +437,8 @@
               <Sentence WritingMode="vertical">会社ハ鉄道財団ニ属スルモノヲ鉄道財団ヨリ分離セムトスルトキハ抵当権者ノ同意ヲ求ムベシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">会社ガ抵当権者ノ為競売手続開始又ハ強制管理開始ノ決定アル前ニ於テ正当ナル事由ニ因リ前項ノ同意ヲ求メタルトキハ抵当権者ハ其ノ同意ヲ拒ムコトヲ得ズ</Sentence>
             </ParagraphSentence>
@@ -461,14 +461,14 @@
               <Sentence WritingMode="vertical">鉄道事業法（昭和六十一年法律第九十二号）第三条第一項ノ許可（以下鉄道事業ノ許可ト称ス）ノ取消ノ場合ニ於テハ抵当権者ハ其ノ権利ヲ実行スルコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項ニ依リ抵当権ヲ実行セムトスルトキハ抵当権者ハ鉄道事業ノ許可ノ取消ノ日ヨリ六箇月内ニ其ノ手続ヲ為スヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">鉄道事業ノ許可ハ前項ノ期間及抵当権実行ノ終了ニ至ル迄仍存続スルモノト看做ス</Sentence>
             </ParagraphSentence>
@@ -482,8 +482,8 @@
               <Sentence WritingMode="vertical">債権者カ同一ノ債権ノ担保トシテ数箇ノ鉄道財団ノ上ニ抵当権ヲ有スル場合ニ於テ同時ニ其ノ代価ヲ配当スヘキトキハ其ノ各鉄道財団ノ価額ニ準シテ其ノ債権ノ負担ヲ分ツ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">或鉄道財団ノ代価ノミヲ配当スヘキトキハ抵当権者ハ其ノ代価ニ付債権ノ全部ノ弁済ヲ受クルコトヲ得此ノ場合ニ於テハ次ノ順位ニ在ル抵当権者ハ前項ノ規定ニ従ヒ右ノ抵当権者カ他ノ鉄道財団ニ付弁済ヲ受クヘキ金額ニ満ツル迄之ニ代位シテ抵当権ヲ行フコトヲ得</Sentence>
             </ParagraphSentence>
@@ -506,8 +506,8 @@
               <Sentence WritingMode="vertical">抵当権者ハ鉄道財団ノ代価ヲ以テ弁済ヲ受ケサル債権ノ部分ニ付テノミ他ノ財産ヲ以テ弁済ヲ受クルコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項ノ規定ハ鉄道財団ノ代価ニ先チテ他ノ財産ノ代価ヲ配当スヘキ場合ニハ之ヲ適用セス但シ他ノ債権者ハ抵当権者ヲシテ前項ノ規定ニ従ヒ弁済ヲ受ケシムルカ為之ニ配当スヘキ金額ノ供託ヲ請求スルコトヲ得</Sentence>
             </ParagraphSentence>
@@ -539,8 +539,8 @@
               <Sentence WritingMode="vertical">軌道法（大正十年法律第七十六号）第三条ノ特許ヲ受ケタル者ガ鉄道事業法第六十二条第一項ノ許可ヲ受ケ軌道事業ヲ鉄道事業ニ変更シタル場合ニ於テハ当該軌道事業ヲ営ム者ノ軌道ニ付明治四十二年法律第二十八号ノ規定ニ依リテ為シタル処分、手続、登録其ノ他ノ行為ハ鉄道抵当法中之ニ相当スル規定ニ依リテ之ヲ為シタルモノト看做ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項ノ場合ニ於ケル登録ニ関シ必要ナル事項ハ国土交通省令ヲ以テ之ヲ定ム</Sentence>
             </ParagraphSentence>
@@ -557,8 +557,8 @@
               <Sentence WritingMode="vertical">鉄道財団ニ関スル登録ヲ為ス為国土交通省ニ鉄道抵当原簿ヲ備フ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">鉄道抵当原簿ハ一箇ノ鉄道財団ニ付一用紙ヲ設ク</Sentence>
             </ParagraphSentence>
@@ -581,8 +581,8 @@
               <Sentence WritingMode="vertical">国土交通大臣ハ鉄道財団ノ設定ヲ認可シタルトキハ鉄道財団設定ノ登録ヲ為スベシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">鉄道財団設定ノ登録ハ鉄道抵当原簿ニ左ノ事項ヲ記載スルニ依リテ之ヲ為ス</Sentence>
             </ParagraphSentence>
@@ -614,20 +614,20 @@
               <Sentence WritingMode="vertical">国土交通大臣ハ鉄道財団ノ拡張、分割又ハ合併ヲ認可シタルトキハ鉄道財団ノ拡張、分割又ハ合併ノ登録ヲ為スベシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">拡張ノ登録ハ鉄道財団ノ用紙中鉄道財団ニ属スル線路ノ表示ヲ変更シ且拡張ニ因リテ登録スル旨及登録ノ年月日ヲ記載スルニ依リテ之ヲ為ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">甲鉄道財団ヲ分割シテ其ノ一部ヲ乙鉄道財団ト為ス場合ニ於テハ分割ノ登録ハ甲鉄道財団ノ用紙中鉄道財団ニ属スル線路ノ表示ヲ変更シ且分割ニ因リテ登録スル旨及登録ノ年月日ヲ記載シ並乙鉄道財団ニ付鉄道抵当原簿ニ前条第二項各号ニ掲ゲタル事項及分割ニ因リテ登録スル旨ヲ記載スルニ依リテ之ヲ為ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4" OldStyle="false">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">甲鉄道財団ト乙鉄道財団トヲ合併スル場合ニ於テハ合併ノ登録ハ甲鉄道財団（合併セムトスル鉄道財団ノ内抵当権ノ目的タルモノアルトキハ設定セラレタル抵当権ノ数ノ最モ多キモノ）ノ用紙中鉄道財団ニ属スル線路ノ表示ヲ変更シ且合併ニ因リテ登録スル旨及登録ノ年月日ヲ記載シ並乙鉄道財団ノ用紙中鉄道財団ニ関スル表示ヲ朱抹シ且其ノ事由及年月日ヲ記載スルニ依リテ之ヲ為ス</Sentence>
             </ParagraphSentence>
@@ -641,8 +641,8 @@
               <Sentence WritingMode="vertical">抵当権設定ノ登録申請書ニハ抵当証書ヲ添附スベシ但シ担保付社債ヲ発行スル場合ニ在リテハ信託証書ヲ以テ抵当証書ニ代フ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">抵当証書ニハ左ノ事項ヲ記載スベシ但シ根抵当権ノ場合ニ在リテハ第四号及第五号ニ掲ゲタル事項ニ代ヘ極度額及担保スベキ債権ノ範囲ヲ記載スベシ</Sentence>
             </ParagraphSentence>
@@ -755,8 +755,8 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">担保付社債信託法第六十三条ノ規定ハ前項ニ規定スル担保付社債ノ各回ノ発行アリタル場合ノ登録ニ関シ之ヲ準用ス</Sentence>
             </ParagraphSentence>
@@ -770,14 +770,14 @@
               <Sentence WritingMode="vertical">登録シタル事項ニ変更ヲ生シ又ハ其ノ事項消滅シタルトキハ当事者ハ遅滞ナク変更又ハ消滅ノ登録ヲ申請スヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項ノ申請書ニハ変更又ハ消滅ノ事由ヲ記載シ之ヲ証スル書面ヲ添附スヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">変更又ハ消滅カ国土交通大臣ノ命令又ハ認可ニ因リテ生シタル場合ニ於テハ前項ノ証明書ハ之ヲ添附スルコトヲ要セス</Sentence>
             </ParagraphSentence>
@@ -791,8 +791,8 @@
               <Sentence WritingMode="vertical">同一ノ債権ノ担保トシテ数箇ノ鉄道財団ノ上ニ抵当権ヲ設定シタル場合ニ於テハ其ノ各鉄道財団ノ用紙ニ他ノ鉄道財団ヲ表示シ之ト共ニ抵当権ノ目的タル旨ヲ記載スヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">他ノ鉄道財団ニ関スル変更又ハ消滅ノ登録カ前項ノ記載ヲ変更スルコトヲ要スルニ至リタルトキハ其ノ記載ニ変更ヲ附記シ他ノ鉄道財団ニ関スル消滅ノ登録カ前項ノ記載ヲ要セサルニ至リタルトキハ其ノ記載ヲ抹消スヘシ</Sentence>
             </ParagraphSentence>
@@ -806,8 +806,8 @@
               <Sentence WritingMode="vertical">鉄道抵当原簿ニ鉄道財団設定ノ登録ヲ為シタルトキハ鉄道財団目録ニ為シタル記載ハ登録ト同一ノ効力ヲ生ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項ノ規定ハ鉄道財団ノ拡張、分割又ハ合併ノ登録ヲ為シタルトキニ之ヲ準用ス</Sentence>
             </ParagraphSentence>
@@ -821,8 +821,8 @@
               <Sentence WritingMode="vertical">鉄道財団目録ニ記載シタル事項ニ変更ヲ生シ又ハ其ノ事項消滅シタルトキハ会社ハ遅滞ナク其ノ旨ヲ届出ヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項ノ届書ハ鉄道財団目録ニ編綴スルニ依リテ前条ノ効力ヲ生ス</Sentence>
             </ParagraphSentence>
@@ -872,8 +872,8 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項第一号又ハ第三号ノ場合ニ於テハ国土交通大臣ハ直ニ官報ヲ以テ其ノ旨ヲ公告スヘシ</Sentence>
             </ParagraphSentence>
@@ -887,8 +887,8 @@
               <Sentence WritingMode="vertical">登記官カ前条第一項第一号又ハ第二号ノ通知ヲ受ケタルトキハ同項第三号ノ通知ヲ受クル迄ハ鉄道財団ノ所有者ニ属スルモノニ付所有権以外ノ物権、賃借権又ハ差押、仮差押若ハ仮処分ノ登記ヲ為スコトヲ得ス但シ所有権以外ノ物権、賃借権又ハ差押、仮差押若ハ仮処分ノ目的タルモノカ国土交通大臣ノ証明情報ニ依リ鉄道財団ニ属セサルコト明白ナルトキハ此ノ限ニ在ラス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国土交通大臣ハ鉄道財団ニ属スル道路運送車両法（昭和二十六年法律第百八十五号）ニ依ル自動車ニシテ軽自動車、小型特殊自動車及二輪ノ小型自動車以外ノモノニ付所有権以外ノ物権又ハ差押、仮差押若ハ仮処分ノ登録ヲ為スコトヲ得ズ</Sentence>
             </ParagraphSentence>
@@ -902,8 +902,8 @@
               <Sentence WritingMode="vertical">何人ト雖鉄道抵当原簿及鉄道財団目録ノ閲覧ヲ請求シ又ハ手数料ヲ納付シテ鉄道抵当原簿及鉄道財団目録ノ謄本若ハ抄本ノ交付ヲ請求スルコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">何人ト雖国土交通省令ノ定ムル所ニ依リ手数料ノ外送付ニ要スル費用ヲ納付シテ鉄道抵当原簿及鉄道財団目録ノ謄本又ハ抄本ノ送付ヲ請求スルコトヲ得</Sentence>
             </ParagraphSentence>
@@ -917,14 +917,14 @@
               <Sentence WritingMode="vertical">行政手続法（平成五年法律第八十八号）第二章及第三章ノ規定ハ登録ニ関スル処分ニ付テハ之ヲ適用セズ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">行政機関の保有する情報の公開に関する法律（平成十一年法律第四十二号）ノ規定ハ鉄道抵当原簿及鉄道財団目録ニ付テハ之ヲ適用セズ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">行政機関の保有する個人情報の保護に関する法律（平成十五年法律第五十八号）第四章ノ規定ハ鉄道抵当原簿及鉄道財団目録ニ記録セラレタル保有個人情報（同法第二条第五項ニ規定スル保有個人情報ヲ謂フ）ニ付テハ之ヲ適用セズ</Sentence>
             </ParagraphSentence>
@@ -950,8 +950,8 @@
               <Sentence WritingMode="vertical">鉄道財団ニ対スル抵当権ノ強制執行ハ強制競売又ハ強制管理ニ依リテ之ヲ為ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">抵当権者ハ自己ノ選択ニ依リ前項ニ掲ケタル一箇ノ方法ヲ以テ又ハ二箇ノ方法ヲ併セテ強制執行ヲ為スコトヲ得</Sentence>
             </ParagraphSentence>
@@ -983,8 +983,8 @@
               <Sentence WritingMode="vertical">強制競売ノ申立ハ書面ヲ以テ之ヲ為スヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">申立書ニハ左ノ事項ヲ記載シ申立人又ハ其ノ代理人之ニ署名捺印スヘシ但シ署名捺印ニ代ヘテ記名捺印スルコトヲ得</Sentence>
             </ParagraphSentence>
@@ -1019,8 +1019,8 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">申立書ニハ執行文ヲ付シタル債務名義ノ正本ノ外鉄道抵当原簿ノ謄本ヲ添附スヘシ但シ強制管理ノ開始アリタル場合ニ於テハ鉄道抵当原簿ノ謄本ヲ添附スルコトヲ要セス</Sentence>
             </ParagraphSentence>
@@ -1043,8 +1043,8 @@
               <Sentence WritingMode="vertical">競売手続ノ開始ハ決定ヲ以テ之ヲ為ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">開始決定ニハ申立人ノ名称、住所及第四十三条第二項第一号乃至第四号ニ掲ケタル事項ヲ記載シ決定ヲ為シタル裁判官之ニ署名捺印スヘシ但シ署名捺印ニ代ヘテ記名捺印スルコトヲ得</Sentence>
             </ParagraphSentence>
@@ -1058,8 +1058,8 @@
               <Sentence WritingMode="vertical">裁判所カ競売手続開始ノ決定ヲ為シタルトキハ直ニ鉄道抵当原簿ニ競売申立ノ登録ヲ為スヘキ旨ヲ国土交通大臣ニ嘱託スヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国土交通大臣ニ於テ前項ノ嘱託ヲ受ケタルトキハ直ニ登録ヲ為シ其ノ旨ヲ裁判所ニ通知スヘシ</Sentence>
             </ParagraphSentence>
@@ -1091,8 +1091,8 @@
               <Sentence WritingMode="vertical">裁判所ハ競売期日ヲ定メ官報ヲ以テ之ヲ公告スヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項ノ公告ニハ左ノ事項ヲ記載スヘシ</Sentence>
             </ParagraphSentence>
@@ -1145,8 +1145,8 @@
               <Sentence WritingMode="vertical">鉄道事業ヲ営ム者ニ非スシテ競売ニ加入スル者ハ競買ノ申込ト共ニ保証トシテ最低競売価額百分ノ五ニ相当スル金額ヲ現金又ハ有価証券（社債、株式等の振替に関する法律（平成十三年法律第七十五号）第二百七十八条第一項ニ規定スル振替債ニシテ国土交通省令ノ定ムルモノヲ含ム以下同ジ）ヲ以テ供託スヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項ノ規定ハ競買人ニシテ抵当権者カ之ニ加ハルモノニ付テハ其ノ債権額カ最低競売価額ノ百分ノ五以上ニ相当スル場合ニ限リ之ヲ適用セス</Sentence>
             </ParagraphSentence>
@@ -1169,14 +1169,14 @@
               <Sentence WritingMode="vertical">裁判所ハ競買人ノ面前ニ於テ入札ヲ開封スヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">競落ト為ルヘキ同価額ノ入札二箇以上アルトキハ裁判所ハ同価額ノ競買人ヲシテ直ニ再度ノ入札ヲ為サシムヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">再度ノ入札ヲ為スモ仍同価額ノ入札アルトキハ裁判所ハ直ニ抽籤ヲ以テ最高価競買人ヲ定ムヘシ</Sentence>
             </ParagraphSentence>
@@ -1199,8 +1199,8 @@
               <Sentence WritingMode="vertical">競売期日ニ於テ入札ナキトキ、許スヘキ入札ナキトキ又ハ最低競売価額ニ達スル入札ナキトキハ裁判所ハ職権ヲ以テ更ニ競売期日ヲ定ムヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項ノ場合ニ於テ裁判所ハ鑑定人ノ意見ヲ聴キ最低競売価額ヲ低減スルコトヲ得</Sentence>
             </ParagraphSentence>
@@ -1214,8 +1214,8 @@
               <Sentence WritingMode="vertical">入札ハ之ヲ変更シ又ハ取消スコトヲ得ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">入札ハ其ノ入札ヲ為シタル競買人以外ノ者ニ競落ヲ許ス決定カ確定シタルトキ、競落ヲ許ササル決定カ確定シタルトキ又ハ競落ヲ為サスシテ競売手続ヲ終了シタルトキハ其ノ効力ヲ失フ</Sentence>
             </ParagraphSentence>
@@ -1295,8 +1295,8 @@
               <Sentence WritingMode="vertical">裁判所ハ異議ノ申立ヲ正当トスル場合ニ於テ更ニ競売ヲ許スヘキトキハ職権ヲ以テ競売期日ヲ定ムヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項ニ依リ競売期日ヲ定ムル場合ノ外競落ノ許否ハ決定ヲ以テ之ヲ言渡スヘシ</Sentence>
             </ParagraphSentence>
@@ -1310,14 +1310,14 @@
               <Sentence WritingMode="vertical">競落ノ許可ニ付異議ノ申立ヲ為シタル者ハ第六十条ニ掲ケタル理由アル場合ニ限リ競落ヲ許ス決定ニ対シ即時抗告ヲ為スコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">競落期日ニ出頭シ競落ノ許可ニ付異議ノ申立ヲ為ササル者ハ競落ヲ許ササル理由ナキ場合ニ限リ競落ヲ許ササル決定ニ対シ即時抗告ヲ為スコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">抗告ハ執行停止ノ効力ヲ有ス</Sentence>
             </ParagraphSentence>
@@ -1358,8 +1358,8 @@
               <Sentence WritingMode="vertical">競落代金ノ支払アリタルトキハ競売ニ付セラレタル鉄道財団ニ関スル権利ハ競落人ニ、競落人カ会社ノ発起人ナルトキハ其ノ競落人ニ依リテ発起セラレタル会社ニ移転ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">抵当権ハ前項ニ依リ鉄道財団ニ関スル権利カ移転シタルトキニ消滅ス</Sentence>
             </ParagraphSentence>
@@ -1373,14 +1373,14 @@
               <Sentence WritingMode="vertical">第七十三条ノ許可ヲ受ケサルトキ、第七十三条ノ期間内ニ許可ノ申請ナキトキ又ハ第六十五条ノ期間内ニ競落代金ノ支払ナキトキハ裁判所ハ職権ヲ以テ競落ヲ許ス決定ヲ取消シ更ニ競売期日ヲ定ムヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項ニ依リ競落ヲ許ス決定カ取消サレタルトキハ許可ハ取消サレタルモノトス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">競落人ハ新競売ニ加入スルコトヲ得ス且新競売ニ於ケル競落代金カ最初ノ競落代金ヨリ少ナキトキハ其ノ不足額及手続ノ費用ヲ賠償スヘシ</Sentence>
             </ParagraphSentence>
@@ -1394,14 +1394,14 @@
               <Sentence WritingMode="vertical">裁判所ハ競落代金ノ中ヨリ競売ノ費用ヲ控除シ其ノ残額ハ国税徴収法（昭和三十四年法律第百四十七号）其ノ他ノ法律ニ規定スル租税及公課ノ優先権ニ関スル規定並ニ抵当権ノ順位ニ従ヒ之ヲ租税、公課及其ノ抵当権ニ依リ担保サルル債権ニ配当シ仍残余アルトキハ之ヲ鉄道財団ノ所有者ニ交付スベシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項ノ場合ニ於テハ裁判所ハ其ノ旨ヲ国土交通大臣ニ通知シ競売申立ノ登録ノ抹消ヲ嘱託スヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国土交通大臣ニ於テ前項ノ嘱託ヲ受ケタルトキハ左ノ手続ヲ為スヘシ</Sentence>
             </ParagraphSentence>
@@ -1433,8 +1433,8 @@
               <Sentence WritingMode="vertical">競落ヲ為サスシテ競売手続ヲ終了シタルトキハ裁判所ハ其ノ旨ヲ国土交通大臣ニ通知シ競売申立ノ登録ノ抹消ヲ嘱託スヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国土交通大臣ニ於テ前項ノ嘱託ヲ受ケタルトキハ第四十六条第二項ニ依リテ為シタル登録ヲ抹消スヘシ</Sentence>
             </ParagraphSentence>
@@ -1448,8 +1448,8 @@
               <Sentence WritingMode="vertical">裁判所ハ二回以上競売期日ヲ開始シタルモ入札ナキトキ、許スヘキ入札ナキトキ又ハ最低競売価額ニ達スル入札ナキトキハ抵当権者ノ同意アル場合ニ限リ競売ニ付シタル鉄道財団ヲ箇箇ノモノトシテ競売ニ付スルコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項ノ場合ニ於テ裁判所ハ抵当権者ノ意見ヲ聴キ鉄道財団ニ属スルモノヲ分割シテ競売ニ付スルコトヲ得</Sentence>
             </ParagraphSentence>
@@ -1463,8 +1463,8 @@
               <Sentence WritingMode="vertical">前条ノ競売ニ関シテハ第四十八条、第四十九条、第五十二条乃至第六十六条、第六十七条第一項、第三項、第六十八条及第六十九条ノ規定ヲ準用ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">競買人ハ競買ノ申込ト共ニ保証トシテ最低競売価額百分ノ五ニ相当スル金額ヲ現金又ハ有価証券ヲ以テ供託スヘシ</Sentence>
             </ParagraphSentence>
@@ -1523,8 +1523,8 @@
               <Sentence WritingMode="vertical">第七十三条ノ許可ハ競落人又ハ競落人ニ依リテ設立セラレタル会社カ競落代金ヲ支払ヒタルトキニ其ノ効力ヲ生ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第七十三条ノ許可カ効力ヲ生シタルトキハ競落人又ハ競落人ニ依リテ設立セラレタル会社ハ鉄道事業ノ許可ニ属スル権利及義務ヲ承継ス</Sentence>
             </ParagraphSentence>
@@ -1565,8 +1565,8 @@
               <Sentence WritingMode="vertical">前条決定ノ謄本ノ送付アリタルトキハ国土交通大臣ハ一人又ハ数人ノ管理人ヲ選任スヘシ但シ強制管理ノ申立人ハ適当ノ人ヲ推薦スルコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">商事会社ハ管理人タルコトヲ得</Sentence>
             </ParagraphSentence>
@@ -1580,14 +1580,14 @@
               <Sentence WritingMode="vertical">国土交通大臣ハ管理人ヲ監督シ、管理方法ニ付指揮ヲ為シ且管理人ニ与フヘキ報酬ノ額ヲ定ムヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国土交通大臣ハ前項ニ掲ケタル事項ニ付債務者、鉄道財団ノ所有者、抵当権者及鑑定人ノ意見ヲ聴クコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国土交通大臣ハ管理人ニ担保ヲ供スヘキコトヲ命シ又ハ之ヲ解任スルコトヲ得</Sentence>
             </ParagraphSentence>
@@ -1610,14 +1610,14 @@
               <Sentence WritingMode="vertical">鉄道財団ノ所有者カ管理人選任ノ通知ヲ受ケタルトキハ直ニ鉄道財団ヲ管理人ニ引渡スヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">管理人ハ鉄道財団ノ所有者ニ対シ管理ニ必要ナル書類其ノ他ノ物ノ引渡ヲ求ムルコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">鉄道財団ノ所有者カ前二項ノ引渡ヲ為ササルトキハ裁判所ハ管理人ノ申立ニ因リ執行官ヲシテ其ノ引渡ヲ為サシムヘシ</Sentence>
             </ParagraphSentence>
@@ -1667,20 +1667,20 @@
               <Sentence WritingMode="vertical">管理人ハ毎事業年度及其ノ業務施行ノ終了後債務者、鉄道財団ノ所有者、抵当権者、国土交通大臣及裁判所ニ計算書ヲ差出スベシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">債務者、鉄道財団ノ所有者及抵当権者ハ計算書ノ送付アリタル日ヨリ一週間内ニ裁判所ニ異議ノ申立ヲ為スコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項ノ期間内ニ異議ノ申立ヲ為サザリシ者ハ計算ヲ承認シタルモノト看做ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4" OldStyle="false">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">異議ノ申立アリタルトキハ裁判所ハ管理人ヲ審訊シ且国土交通大臣ノ意見ヲ聴キタル後之ヲ裁判スベシ</Sentence>
             </ParagraphSentence>
@@ -1694,8 +1694,8 @@
               <Sentence WritingMode="vertical">管理人ハ前条第二項ノ期間ヲ過キ又ハ前条第四項ノ裁判ヲ経タル後ニ非サレハ抵当権者ニ対シ配当額ノ交付ヲ為スコトヲ得ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">管理人カ配当額ノ交付ヲ為シタルトキハ抵当権者ノ名称及配当額ヲ国土交通大臣及裁判所ニ通知スヘシ</Sentence>
             </ParagraphSentence>
@@ -1709,14 +1709,14 @@
               <Sentence WritingMode="vertical">強制管理ノ取消ハ裁判所ノ決定ヲ以テ之ヲ為ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">強制管理ノ申立ヲ為シタル抵当権者カ弁済ヲ受ケタルトキハ裁判所ハ強制管理ノ取消ヲ命スヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">強制管理ノ申立人カ管理費用ノ立替支弁ヲ為ササルトキハ裁判所ハ管理人ノ申立ニ因リ強制管理ノ取消ヲ命スルコトヲ得</Sentence>
             </ParagraphSentence>
@@ -1730,8 +1730,8 @@
               <Sentence WritingMode="vertical">前条第二項ノ場合ニ関シテハ第六十八条第二項及第三項ノ規定ヲ準用ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項ノ場合ヲ除クノ外強制管理ノ取消ニ関シテハ第六十九条ノ規定ヲ準用ス</Sentence>
             </ParagraphSentence>
@@ -1814,7 +1814,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="208056" AmendLawNum="大正八年四月一〇日法律第五六号" Id="86bc9f1a-1937-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="大正八年四月一〇日法律第五六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -1823,31 +1823,31 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="308044" AmendLawNum="昭和八年四月一日法律第四四号" Extract="true" Id="bc0dda38-18c6-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和八年四月一日法律第四四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
-        <ParagraphNum>○１</ParagraphNum>
+      <Paragraph Hide="false" Num="1" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">本法施行ノ期日ハ勅令ヲ以テ之ヲ定ム</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="320007" AmendLawNum="昭和二〇年二月一二日法律第七号" Id="871e2730-1937-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二〇年二月一二日法律第七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
-        <ParagraphNum>○１</ParagraphNum>
+      <Paragraph Hide="false" Num="1" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">本法ハ公布ノ日ヨリ之ヲ施行ス</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2" OldStyle="false">
-        <ParagraphNum>○２</ParagraphNum>
+      <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">第二十六条ノ三ノ規定ハ本法施行前軌道ヲ地方鉄道ニ変更シタル場合ニモ亦之ヲ適用ス</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="326188" AmendLawNum="昭和二六年六月一日法律第一八八号" Id="413c1598-47dd-11e5-8a29-3373533818b3">
+    <SupplProvision AmendLawNum="昭和二六年六月一日法律第一八八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -1856,7 +1856,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="326211" AmendLawNum="昭和二六年六月八日法律第二一一号" Extract="true" Id="47a15fb8-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二六年六月八日法律第二一一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -1865,7 +1865,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="331063" AmendLawNum="昭和三一年四月二日法律第六三号" Extract="true" Id="87b04390-1937-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三一年四月二日法律第六三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -1918,7 +1918,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="334148" AmendLawNum="昭和三四年四月二〇日法律第一四八号" Extract="true" Id="f578bfee-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三四年四月二〇日法律第一四八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -1935,7 +1935,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="338126" AmendLawNum="昭和三八年七月九日法律第一二六号" Extract="true" Id="406bc01e-47dd-11e5-89d3-cb4064af503d">
+    <SupplProvision AmendLawNum="昭和三八年七月九日法律第一二六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -1944,7 +1944,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="338149" AmendLawNum="昭和三八年七月一五日法律第一四九号" Extract="true" Id="6aa9e2d8-1897-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三八年七月一五日法律第一四九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1957,7 +1957,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="341111" AmendLawNum="昭和四一年七月一日法律第一一一号" Extract="true" Id="41e9de12-47dd-11e5-8a69-377e55ccd1bf">
+    <SupplProvision AmendLawNum="昭和四一年七月一日法律第一一一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1970,7 +1970,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="344068" AmendLawNum="昭和四四年八月一日法律第六八号" Extract="true" Id="842deef2-d3c6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四四年八月一日法律第六八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1983,7 +1983,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="346099" AmendLawNum="昭和四六年六月三日法律第九九号" Extract="true" Id="00e1320a-d3c3-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四六年六月三日法律第九九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2130,7 +2130,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="346100" AmendLawNum="昭和四六年六月三日法律第一〇〇号" Extract="true" Id="8904bb86-1937-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四六年六月三日法律第一〇〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -2140,7 +2140,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="361093" AmendLawNum="昭和六一年一二月四日法律第九三号" Extract="true" Id="655b0f10-47dd-11e5-9356-631b6858fb32">
+    <SupplProvision AmendLawNum="昭和六一年一二月四日法律第九三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2153,7 +2153,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="405089" AmendLawNum="平成五年一一月一二日法律第八九号" Extract="true" Id="ca5fc5b8-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成五年一一月一二日法律第八九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2176,7 +2176,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="407085" AmendLawNum="平成七年五月八日法律第八五号" Extract="true" Id="93288ce4-d3c8-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成七年五月八日法律第八五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2230,7 +2230,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411043" AmendLawNum="平成一一年五月一四日法律第四三号" Extract="true" Id="b96f375f-07b2-4ef5-865a-09e7e9a791a9">
+    <SupplProvision AmendLawNum="平成一一年五月一四日法律第四三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2243,7 +2243,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2268,7 +2268,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414045" AmendLawNum="平成一四年五月二九日法律第四五号" Extract="true" Id="916faa94-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年五月二九日法律第四五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -2278,7 +2278,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414065" AmendLawNum="平成一四年六月一二日法律第六五号" Extract="true" Id="ecba4da2-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年六月一二日法律第六五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2301,7 +2301,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414100" AmendLawNum="平成一四年七月三一日法律第一〇〇号" Extract="true" Id="9173c156-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年七月三一日法律第一〇〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2324,7 +2324,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415061" AmendLawNum="平成一五年五月三〇日法律第六一号" Extract="true" Id="81e50510-2aa0-45e9-b9b0-013671215680">
+    <SupplProvision AmendLawNum="平成一五年五月三〇日法律第六一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2347,7 +2347,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416088" AmendLawNum="平成一六年六月九日法律第八八号" Extract="true" Id="475e5bbe-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月九日法律第八八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2380,7 +2380,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416124" AmendLawNum="平成一六年六月一八日法律第一二四号" Extract="true" Id="ecbeb284-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月一八日法律第一二四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2393,7 +2393,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416147" AmendLawNum="平成一六年一二月一日法律第一四七号" Extract="true" Id="f14e18bc-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年一二月一日法律第一四七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2406,7 +2406,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416165" AmendLawNum="平成一六年一二月一〇日法律第一六五号" Extract="true" Id="47609212-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年一二月一〇日法律第一六五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2420,7 +2420,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417087" AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true" Id="6227ae84-47dd-11e5-92b2-43af2fd23feb">
+    <SupplProvision AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -2441,7 +2441,7 @@
         </Item>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417102" AmendLawNum="平成一七年一〇月二一日法律第一〇二号" Extract="true" Id="56cf48f4-7bb3-472a-922e-4a5d7ee5b3d8">
+    <SupplProvision AmendLawNum="平成一七年一〇月二一日法律第一〇二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2455,7 +2455,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418109" AmendLawNum="平成一八年一二月一五日法律第一〇九号" Extract="true" Id="ecc44794-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年一二月一五日法律第一〇九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -2464,7 +2464,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428051" AmendLawNum="平成二八年五月二七日法律第五一号" Extract="true" Id="427da8e9-2556-e003-f434-ab4e329d8337" Type="Amend">
+    <SupplProvision AmendLawNum="平成二八年五月二七日法律第五一号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

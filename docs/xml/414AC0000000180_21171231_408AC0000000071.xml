@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="180" Year="14">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="180" Year="14" PromulgateMonth="06" PromulgateDay="12" ScheduledEnforcementDate="2117/12/31">
   <LawNum>平成十四年法律第百八十号</LawNum>
   <LawBody>
-    <LawTitle>独立行政法人鉄道建設・運輸施設整備支援機構法</LawTitle>
+    <LawTitle Kana="どくりつぎょうせいほうじんてつどうけんせつうんゆしせつせいびしえんきこうほう" Abbrev="鉄運機構法" AbbrevKana="て">独立行政法人鉄道建設・運輸施設整備支援機構法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -160,8 +160,7 @@
               <Subitem1 Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence>イに掲げる者の事業の用に供する船舶の貸渡し（定期<Ruby>傭<Rt>よう</Rt>
-</Ruby>船を含む。）をする事業を営む者であって、海上運送法第三十三条において準用する同法第二十条第一項の規定による船舶貸渡業の届出をしたもの</Sentence>
+                  <Sentence>イに掲げる者の事業の用に供する船舶の貸渡し（定期<Ruby>傭<Rt>よう</Rt></Ruby>船を含む。）をする事業を営む者であって、海上運送法第三十三条において準用する同法第二十条第一項の規定による船舶貸渡業の届出をしたもの</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="3">
@@ -280,7 +279,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>鉄道事業者、海上運送事業者若しくは第十三条第一項第九号に掲げる業務（地域公共交通の活性化及び再生に関する法律（平成十九年法律第五十九号）第二十九条の二第一項第一号に掲げる業務に限る。）の対象となる事業若しくは第十三条第二項第三号に掲げる業務の対象となる事業等を行うその他の者又はこれらの者が法人であるときはその役員（いかなる名称によるかを問わず、これと同等以上の職権又は支配力を有する者を含む。）</Sentence>
+                <Sentence>鉄道事業者、海上運送事業者若しくは第十三条第一項第九号に掲げる業務（地域公共交通の活性化及び再生に関する法律（平成十九年法律第五十九号）第二十九条の二第一項第一号に掲げる業務に限る。）の対象となる事業、第十三条第一項第十号に掲げる業務（流通業務の総合化及び効率化の促進に関する法律（平成十七年法律第八十五号）第二十条の二第一項第一号に掲げる業務に限る。）の対象となる事業若しくは第十三条第二項第三号に掲げる業務の対象となる事業等を行うその他の者又はこれらの者が法人であるときはその役員（いかなる名称によるかを問わず、これと同等以上の職権又は支配力を有する者を含む。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -321,7 +320,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1">機構の役員及び職員は、第十三条第一項第七号及び第九号に掲げる業務並びにこれらに附帯する業務に係る職務に関して知ることのできた秘密を漏らし、又は盗用してはならない。</Sentence>
+              <Sentence Num="1">機構の役員及び職員は、第十三条第一項第七号、第九号及び第十号に掲げる業務並びにこれらに附帯する業務に係る職務に関して知ることのできた秘密を漏らし、又は盗用してはならない。</Sentence>
               <Sentence Num="2">その職を退いた後も、同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -404,6 +403,12 @@
             <Item Num="10">
               <ItemTitle>十</ItemTitle>
               <ItemSentence>
+                <Sentence>流通業務の総合化及び効率化の促進に関する法律第二十条の二第一項に規定する業務を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
                 <Sentence>前各号の業務に附帯する業務を行うこと。</Sentence>
               </ItemSentence>
             </Item>
@@ -422,7 +427,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>鉄道軌道整備法（昭和二十八年法律第百六十九号）第八条第八項又は踏切道改良促進法（昭和三十六年法律第百九十五号）第十条第三項の規定による国の補助金の交付を受け、これを財源として、鉄道事業者に対し、補助金を交付すること。</Sentence>
+                <Sentence>鉄道軌道整備法（昭和二十八年法律第百六十九号）第八条第八項又は踏切道改良促進法（昭和三十六年法律第百九十五号）第十九条第三項の規定による国の補助金の交付を受け、これを財源として、鉄道事業者に対し、補助金を交付すること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -510,7 +515,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>機構は、国土交通大臣の認可を受けて、第十三条第一項第九号に掲げる業務（地域公共交通の活性化及び再生に関する法律第二十九条の二第一項第一号に掲げる業務に限り、出資の決定及び貸付けの決定を除く。）の一部を金融機関に委託することができる。</Sentence>
+              <Sentence>機構は、国土交通大臣の認可を受けて、第十三条第一項第九号に掲げる業務（地域公共交通の活性化及び再生に関する法律第二十九条の二第一項第一号に掲げる業務に限り、出資の決定及び貸付けの決定を除く。）及び第十三条第一項第十号に掲げる業務（流通業務の総合化及び効率化の促進に関する法律第二十条の二第一項第一号に掲げる業務に限り、貸付けの決定を除く。）の一部を金融機関に委託することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -558,7 +563,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence>第十三条第一項第九号の業務及びこれに附帯する業務</Sentence>
+                <Sentence>第十三条第一項第九号及び第十号の業務並びにこれらに附帯する業務</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
@@ -628,6 +633,18 @@
               <Sentence>機構は、第一項の規定にかかわらず、第三項第二号に掲げる事業に要する費用の一部に充てるため同項の規定により繰り入れた金額に相当する金額については、後日、政令で定めるところにより、建設勘定から助成勘定に繰り入れるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>機構は、第一項の規定にかかわらず、全国新幹線鉄道整備法第四条第一項に規定する建設線の全部又は一部の区間の営業の開始により当該建設線に係る同法第六条第一項に規定する営業主体がその全部又は一部を廃止しようとする鉄道事業に係る路線の全部又は一部の区間において新たに他の者が鉄道事業を開始しようとする場合において、当該建設線に係る建設工事の工期が遅延したことに起因して生じた事態に対処するため、第十三条第一項第九号に掲げる業務として当該他の者に対する地域公共交通の活性化及び再生に関する法律第二十九条の二第一項第一号の規定による出資を行うときは、当該出資に要する費用に相当する金額を建設勘定から第一項第三号に掲げる業務に係る勘定に繰り入れるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>機構は、第一項の規定にかかわらず、前項の出資に基づいて取得した株式の全部又は一部を処分したときは、当該株式の処分により生じた収入の額（当該株式の取得に要した費用の額を超える額がある場合には、その額を除く。）に相当する金額を第一項第三号に掲げる業務に係る勘定から建設勘定に繰り入れるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
         </Article>
         <Article Num="18">
           <ArticleCaption>（利益及び損失の処理の特例等）</ArticleCaption>
@@ -681,7 +698,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>第十三条第一項及び第三項に規定する業務を行うために必要がある場合</Sentence>
+                <Sentence>第十三条第一項及び第四項に規定する業務を行うために必要がある場合</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -975,8 +992,7 @@
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1">第一項の規定により機構が事業団の権利及び義務を承継したときは、その承継の際、機構が承継する資産の価額（運輸施設整備事業団法の一部を改正する法律（平成十二年法律第四十七号。以下この条及び附則第十一条において「旧事業団法一部改正法」という。）附則第三条第五項の規定により政府及び旧日本政策投資銀行以外の者から事業団に旧事業団法第二十四条の三第一項の信用基金に充てるべきものとして拠出されたものとされた金額（旧事業団法第二十八条第三号に掲げる業務に係る勘定において旧事業団法第二十九条第一項の規定により積立金として積み立てられている金額があるときは当該金額を加算した金額とし、同条第二項の規定により繰越欠損金として整理されている金額があるときは当該金額を控除した金額とする。）並びに旧事業団法第二十八条第一号に掲げる業務に係る勘定に係るものを除く。）から負債の金額（同号に掲げる業務に係る勘定に係るものを除く。）を差し引いた額は、政府及び旧日本政策投資銀行から機構に対し出資されたものとする。</Sentence>
-            <Sentence Num="2">この場合において、政府及び旧日本政策投資銀行からそれぞれ機構に対し出資されたものとされた金額は、事業団に対する政府からの出資額（第二項の規定により国が承継する資産がある場合には、当該資産の価額に相当する金額を除く。）及び旧日本政策投資銀行からの出資額の割合に応じて<Ruby>按<Rt>あん</Rt>
-</Ruby>分した金額とし、当該出資されたものとされた金額のうち第十七条第一項第三号に掲げる業務に係る勘定に係るものは、政府及び旧日本政策投資銀行から機構に対し第十六条第一項の信用基金に充てるべきものとして出資されたものとする。</Sentence>
+            <Sentence Num="2">この場合において、政府及び旧日本政策投資銀行からそれぞれ機構に対し出資されたものとされた金額は、事業団に対する政府からの出資額（第二項の規定により国が承継する資産がある場合には、当該資産の価額に相当する金額を除く。）及び旧日本政策投資銀行からの出資額の割合に応じて<Ruby>按<Rt>あん</Rt></Ruby>分した金額とし、当該出資されたものとされた金額のうち第十七条第一項第三号に掲げる業務に係る勘定に係るものは、政府及び旧日本政策投資銀行から機構に対し第十六条第一項の信用基金に充てるべきものとして出資されたものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="5">
@@ -1021,15 +1037,6 @@
           <ParagraphNum>１１</ParagraphNum>
           <ParagraphSentence>
             <Sentence>機構は、新債務等処理法に基づいて自らが行うこととされた業務を確実かつ円滑に実施するため、旧事業団法附則第七条第一項の規定により事業団が承継した公団に対して負担する債務のうち機構の成立の日までに償還されていないもの及び当該未償還の債務に係る利子の額に相当する金額を、旧事業団法附則第七条第五項に規定する償還条件を勘案して政令で定める方法により、助成勘定から新特例業務勘定に繰り入れるものとする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="4">
-        <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>削除</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1152,15 +1159,6 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="8">
-        <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>削除</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
       <Article Num="9">
         <ArticleCaption>（本州と北海道を連絡する鉄道施設の貸付けに関する特別措置）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
@@ -1258,6 +1256,18 @@
           <Item Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
+              <Sentence>附則第三条第十一項の規定による繰入れに必要な費用に充てるとともにその利子に係る収入による旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律（昭和六十一年法律第八十八号）第一条第一項に規定する旅客会社の経営の安定を図るため、当該旅客会社から長期借入金を借り入れること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence>前号の規定による長期借入金の償還及び当該長期借入金に係る利子の支払を行うこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
               <Sentence>前各号の業務に附帯する業務を行うこと。</Sentence>
             </ItemSentence>
           </Item>
@@ -1270,7 +1280,7 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence>当分の間、債務等処理法第十三条第一項及び第二項に規定する業務を行うこと。</Sentence>
+              <Sentence>当分の間、債務等処理法第十三条第一項から第三項まで並びに附則第七条第一項第二号及び第三号に規定する業務を行うこと。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
@@ -1282,13 +1292,13 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence>債務等処理法附則第四条第一項第二号に規定する業務を行うこと。</Sentence>
+              <Sentence>債務等処理法附則第四条第一項第二号及び第六条第一項に規定する業務を行うこと。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence>平成三十三年三月三十一日までの間、債務等処理法附則第五条第一項に規定する業務を行うこと。</Sentence>
+              <Sentence>令和十三年三月三十一日までの間、債務等処理法附則第五条第一項及び第七条第一項第一号に規定する業務を行うこと。</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -1332,11 +1342,17 @@
         <Paragraph Num="9">
           <ParagraphNum>９</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>第一項、第三項及び第五項の規定によりこれらの規定に規定する業務が行われる場合には、第十一条中「第九号に掲げる業務」とあるのは「第九号並びに附則第十一条第一項第四号に掲げる業務」と、第十七条第一項第一号中「第六号までの業務及び」とあるのは「第六号までの業務及び附則第十一条第一項第一号の業務並びに」と、「同条第三項」とあるのは「第十三条第三項」と、同項第二号中「並びにこれらに附帯する業務」とあるのは「、附則第十一条第一項第二号の業務並びに同条第五項の規定によりなおその効力を有するものとされる旧事業団法第二十条第一項第八号及び第九号の業務並びにこれらに附帯する業務」と、同項第三号中「これに附帯する業務」とあるのは「附則第十一条第一項第三号の業務並びにこれらに附帯する業務」と、同項第四号中「業務」とあるのは「業務、附則第十一条第一項第四号及び第五号の業務並びに同条第五項の規定によりなおその効力を有するものとされる旧事業団法第二十条第一項第二号の業務並びにこれらに附帯する業務並びに附則第十一条第三項の業務」と、第十九条第一項第一号中「業務」とあるのは「業務並びに附則第十一条第一項第一号から第四号までの業務並びに同条第五項の規定によりなおその効力を有するものとされる旧事業団法第二十条第一項第八号及び第九号の業務並びにこれらに附帯する業務」と、第二十九条中「第十一条」とあるのは「第十一条（附則第十一条第九項の規定により読み替えて適用する場合を含む。）」と、第三十一条第二号中「第十三条」とあるのは「第十三条、附則第十一条第一項及び第三項並びに同条第五項の規定によりなおその効力を有するものとされる旧事業団法第二十条第一項第二号、第八号及び第九号」とする。</Sentence>
+            <Sentence>第一項第六号の規定による長期借入金の利率、償還期間及び償還方法は、旅客会社の経営状況、市場金利の動向その他の事情を勘案して国土交通大臣が定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="10">
           <ParagraphNum>１０</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項、第三項及び第五項の規定によりこれらの規定に規定する業務が行われる場合には、第十一条中「第十号に掲げる業務」とあるのは「第十号並びに附則第十一条第一項第四号に掲げる業務」と、第十七条第一項第一号中「第六号までの業務及び」とあるのは「第六号までの業務及び附則第十一条第一項第一号の業務並びに」と、「同条第四項」とあるのは「第十三条第四項」と、同項第二号中「並びにこれらに附帯する業務並びに同条第三項」とあるのは「、附則第十一条第一項第二号の業務並びに同条第五項の規定によりなおその効力を有するものとされる旧事業団法第二十条第一項第八号及び第九号の業務並びにこれらに附帯する業務並びに第十三条第三項」と、同項第三号中「これらに附帯する業務」とあるのは「附則第十一条第一項第三号の業務並びにこれらに附帯する業務」と、同項第四号中「業務」とあるのは「業務、附則第十一条第一項第四号から第七号までの業務及び同条第五項の規定によりなおその効力を有するものとされる旧事業団法第二十条第一項第二号の業務並びにこれらに附帯する業務並びに附則第十一条第三項の業務」と、第十九条第一項第一号中「業務」とあるのは「業務並びに附則第十一条第一項第一号から第四号まで及び第七号の業務並びに同条第五項の規定によりなおその効力を有するものとされる旧事業団法第二十条第一項第八号及び第九号の業務並びにこれらに附帯する業務」と、第二十九条中「第十一条」とあるのは「第十一条（附則第十一条第十項の規定により読み替えて適用する場合を含む。）」と、第三十一条第二号中「第十三条」とあるのは「第十三条、附則第十一条第一項及び第三項並びに同条第五項の規定によりなおその効力を有するものとされる旧事業団法第二十条第一項第二号、第八号及び第九号」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="11">
+          <ParagraphNum>１１</ParagraphNum>
           <ParagraphSentence>
             <Sentence>機構は、旧事業団法第二十条第一項第三号の規定による東京地下鉄株式会社への貸付金（旧基金法第二十条第一項第三号の規定による貸付金を含む。）の償還金に係る経理については、助成勘定において行うものとする。</Sentence>
           </ParagraphSentence>
@@ -1393,6 +1409,12 @@
           </Item>
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>附則第十一条第九項の規定により同項の長期借入金の利率、償還期間及び償還方法を定めようとするとき。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
             <ItemSentence>
               <Sentence>前条第一項の規定による認定又は同条第三項の規定による認定の取消しをしようとするとき。</Sentence>
             </ItemSentence>
@@ -1452,7 +1474,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="408071" AmendLawNum="平成八年六月一二日法律第七一号" Extract="true" Id="5068ff96-2f37-4261-a08b-232aeaf81fa7">
+    <SupplProvision AmendLawNum="平成八年六月一二日法律第七一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1465,7 +1487,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414188" AmendLawNum="平成一四年一二月一八日法律第一八八号" Extract="true" Id="7ba779ac-47dd-11e5-96f7-63d2ee6dc2b3">
+    <SupplProvision AmendLawNum="平成一四年一二月一八日法律第一八八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1479,7 +1501,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416071" AmendLawNum="平成一六年六月二日法律第七一号" Extract="true" Id="faa0be9a-1886-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月二日法律第七一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1492,7 +1514,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416102" AmendLawNum="平成一六年六月九日法律第一〇二号" Extract="true" Id="6182e0ac-47dd-11e5-9290-3395f31e149b">
+    <SupplProvision AmendLawNum="平成一六年六月九日法律第一〇二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1505,7 +1527,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416124" AmendLawNum="平成一六年六月一八日法律第一二四号" Extract="true" Id="ecbeb284-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月一八日法律第一二四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1518,7 +1540,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416126" AmendLawNum="平成一六年六月一八日法律第一二六号" Extract="true" Id="22535f58-d3b4-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月一八日法律第一二六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1549,7 +1571,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416127" AmendLawNum="平成一六年六月一八日法律第一二七号" Extract="true" Id="2255a0a6-d3b4-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月一八日法律第一二七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1580,7 +1602,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416130" AmendLawNum="平成一六年六月二三日法律第一三〇号" Extract="true" Id="49efecca-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月二三日法律第一三〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1611,7 +1633,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416135" AmendLawNum="平成一六年六月二三日法律第一三五号" Extract="true" Id="4303cbd2-47dd-11e5-8ad4-1fa96eee90b6">
+    <SupplProvision AmendLawNum="平成一六年六月二三日法律第一三五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1642,7 +1664,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417087" AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true" Id="6227ae84-47dd-11e5-92b2-43af2fd23feb">
+    <SupplProvision AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1651,7 +1673,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418019" AmendLawNum="平成一八年三月三一日法律第一九号" Extract="true" Id="389f3a8a-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年三月三一日法律第一九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1676,7 +1698,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418038" AmendLawNum="平成一八年五月一七日法律第三八号" Extract="true" Id="51d0903e-188a-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年五月一七日法律第三八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1741,7 +1763,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419085" AmendLawNum="平成一九年六月一三日法律第八五号" Extract="true" Id="66b6f6f8-47dd-11e5-9392-0f1d5c0b5562">
+    <SupplProvision AmendLawNum="平成一九年六月一三日法律第八五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1794,7 +1816,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="422037" AmendLawNum="平成二二年五月二八日法律第三七号" Extract="true" Id="d12e1cee-1884-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二二年五月二八日法律第三七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1827,7 +1849,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423066" AmendLawNum="平成二三年六月一五日法律第六六号" Extract="true" Id="983986e8-188a-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年六月一五日法律第六六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1861,7 +1883,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424063" AmendLawNum="平成二四年八月二二日法律第六三号" Extract="true" Id="1ef39d96-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年八月二二日法律第六三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1906,7 +1928,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="425076" AmendLawNum="平成二五年一一月二二日法律第七六号" Extract="true" Id="9bc3a77c-1889-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二五年一一月二二日法律第七六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1919,7 +1941,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426067" AmendLawNum="平成二六年六月一三日法律第六七号" Extract="true" Id="200c49da-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年六月一三日法律第六七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1974,7 +1996,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="427028" AmendLawNum="平成二七年五月二七日法律第二八号" Extract="true" Id="d0e2a8e0-1889-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年五月二七日法律第二八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2035,7 +2057,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="428019" AmendLawNum="平成二八年三月三一日法律第一九号" Extract="true" Id="ca52ea4a-a6fe-ca7b-8e62-d7d29eb68a08" Type="Amend">
+    <SupplProvision AmendLawNum="平成二八年三月三一日法律第一九号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2048,7 +2070,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="428079" AmendLawNum="平成二八年一一月一八日法律第七九号" Extract="true" Id="14c5d549-0cc7-c753-af1c-fd0857c2c9ca" Type="Amend">
+    <SupplProvision AmendLawNum="平成二八年一一月一八日法律第七九号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2091,7 +2113,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430029" AmendLawNum="平成三〇年五月二五日法律第二九号" Extract="true" Id="b010ac02-600f-11e8-a9b3-005056b30d52">
+    <SupplProvision AmendLawNum="平成三〇年五月二五日法律第二九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2313,7 +2335,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430040" AmendLawNum="平成三〇年六月一日法律第四〇号" Extract="true" Id="4ec310ba-687b-11e8-a0bc-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成三〇年六月一日法律第四〇号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2408,7 +2430,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430063" AmendLawNum="平成三〇年六月二二日法律第六三号" Extract="true" Id="f7c22d84-79c6-11e8-a9b8-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成三〇年六月二二日法律第六三号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
@@ -2417,6 +2439,93 @@
           <Sentence>この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision Extract="true" AmendLawNum="令和二年六月三日法律第三六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、附則第五条の規定及び附則第九条中独立行政法人鉄道建設・運輸施設整備支援機構法（平成十四年法律第百八十号）附則第十一条第二項第四号の改正規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision Extract="true" AmendLawNum="令和三年三月三一日法律第九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、令和三年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision Extract="true" AmendLawNum="令和三年三月三一日法律第一七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和三年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、附則第三条及び第五条第二項の規定については、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前条に定めるもののほか、この法律の施行に関し必要となる経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後五年を経過した場合において、この法律による改正後のそれぞれの法律の規定について、その施行の状況等を勘案しつつ検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（外国船舶製造事業者による船舶の不当廉価建造契約の防止に関する法律の一部改正）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence/>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>不当廉価建造契約防止法の施行の日がこの法律の施行の日前である場合には、前項の規定は、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

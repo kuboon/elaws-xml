@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="101" Year="40">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="101" Year="40" PromulgateMonth="06" PromulgateDay="01">
   <LawNum>昭和四十年法律第百一号</LawNum>
   <LawBody>
-    <LawTitle>昭和四十年度における旧令による共済組合等からの年金受給者のための特別措置法等の規定による年金の額の改定に関する法律</LawTitle>
+    <LawTitle Kana="しょうわよんじゅうねんどにおけるきゅうれいによるきょうさいくみあいとうからのねんきんじゅきゅうしゃのためのとくべつそちほうとうのきていによるねんきんのがくのかいていにかんするほうりつ" Abbrev="" AbbrevKana="">昭和四十年度における旧令による共済組合等からの年金受給者のための特別措置法等の規定による年金の額の改定に関する法律</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（特別措置法による退職年金、障害年金又は遺族年金の額の改定）</ArticleCaption>
@@ -438,7 +438,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="341122" AmendLawNum="昭和四一年七月八日法律第一二二号" Extract="true" Id="7e6b9a10-188c-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四一年七月八日法律第一二二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -484,7 +484,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="357066" AmendLawNum="昭和五七年七月一六日法律第六六号" Id="144d3513-1630-4dc4-abcd-2377e0c2df8d">
+    <SupplProvision AmendLawNum="昭和五七年七月一六日法律第六六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>

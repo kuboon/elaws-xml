@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Law Era="Taisho" Lang="ja" LawType="Act" Num="70" Year="11">
+<Law Era="Taisho" Lang="ja" LawType="Act" Num="70" Year="11" PromulgateMonth="06" PromulgateDay="05">
   <LawNum>大正十一年法律第七十号</LawNum>
   <LawBody>
-    <LawTitle>健康保険法</LawTitle>
+    <LawTitle Kana="けんこうほけんほう" Abbrev="健保法" AbbrevKana="け">健康保険法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -2112,6 +2112,12 @@
                   <Sentence>後期高齢者医療の被保険者等となったとき。</Sentence>
                 </ItemSentence>
               </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence>任意継続被保険者でなくなることを希望する旨を、厚生労働省令で定めるところにより、保険者に申し出た場合において、その申出が受理された日の属する月の末日が到来したとき。</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
           </Article>
           <Article Num="39">
@@ -2916,6 +2922,12 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>保険者が健康保険組合である場合においては、前項の規定にかかわらず、同項第一号に掲げる額が同項第二号に掲げる額を超える任意継続被保険者について、規約で定めるところにより、同項第一号に掲げる額（当該健康保険組合が同項第二号に掲げる額を超え同項第一号に掲げる額未満の範囲内においてその規約で定めた額があるときは、当該規約で定めた額を標準報酬月額の基礎となる報酬月額とみなしたときの標準報酬月額）をその者の標準報酬月額とすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
           </Article>
         </Section>
         <Section Num="3">
@@ -3111,17 +3123,23 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>被保険者に係る療養の給付又は入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、移送費、傷病手当金、埋葬料、家族療養費、家族訪問看護療養費、家族移送費若しくは家族埋葬料の支給は、同一の疾病、負傷又は死亡について、労働者災害補償保険法、国家公務員災害補償法（昭和二十六年法律第百九十一号。他の法律において準用し、又は例による場合を含む。）又は地方公務員災害補償法（昭和四十二年法律第百二十一号）若しくは同法に基づく条例の規定によりこれらに相当する給付を受けることができる場合には、行わない。</Sentence>
+                <Sentence>被保険者に係る療養の給付又は入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、移送費、傷病手当金、埋葬料、家族療養費、家族訪問看護療養費、家族移送費若しくは家族埋葬料の支給は、同一の疾病、負傷又は死亡について、労働者災害補償保険法、国家公務員災害補償法（昭和二十六年法律第百九十一号。他の法律において準用し、又は例による場合を含む。次項及び第百二十八条第二項において同じ。）又は地方公務員災害補償法（昭和四十二年法律第百二十一号）若しくは同法に基づく条例の規定によりこれらに相当する給付を受けることができる場合には、行わない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>被保険者に係る療養の給付又は入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、家族療養費若しくは家族訪問看護療養費の支給は、同一の疾病又は負傷について、介護保険法の規定によりこれらに相当する給付を受けることができる場合には、行わない。</Sentence>
+                <Sentence>保険者は、傷病手当金の支給を行うにつき必要があると認めるときは、労働者災害補償保険法、国家公務員災害補償法又は地方公務員災害補償法若しくは同法に基づく条例の規定により給付を行う者に対し、当該給付の支給状況につき、必要な資料の提供を求めることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>被保険者に係る療養の給付又は入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、家族療養費若しくは家族訪問看護療養費の支給は、同一の疾病又は負傷について、介護保険法の規定によりこれらに相当する給付を受けることができる場合には、行わない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence>被保険者に係る療養の給付又は入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、移送費、家族療養費、家族訪問看護療養費若しくは家族移送費の支給は、同一の疾病又は負傷について、他の法令の規定により国又は地方公共団体の負担で療養又は療養費の支給を受けたときは、その限度において、行わない。</Sentence>
               </ParagraphSentence>
@@ -3426,8 +3444,7 @@
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
-                    <Sentence>当該申請に係る病院若しくは診療所又は薬局の開設者又は管理者が、禁<Ruby>錮<Rt>こ</Rt>
-</Ruby>以上の刑に処せられ、その執行を終わり、又は執行を受けることがなくなるまでの者であるとき。</Sentence>
+                    <Sentence>当該申請に係る病院若しくは診療所又は薬局の開設者又は管理者が、禁<Ruby>錮<Rt>こ</Rt></Ruby>以上の刑に処せられ、その執行を終わり、又は執行を受けることがなくなるまでの者であるとき。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="5">
@@ -4596,7 +4613,7 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>傷病手当金の支給期間は、同一の疾病又は負傷及びこれにより発した疾病に関しては、その支給を始めた日から起算して一年六月を超えないものとする。</Sentence>
+                <Sentence>傷病手当金の支給期間は、同一の疾病又は負傷及びこれにより発した疾病に関しては、その支給を始めた日から通算して一年六月間とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -5478,23 +5495,29 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>日雇特例被保険者に係る療養の給付又は入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、移送費、埋葬料若しくは出産育児一時金の支給は、同一の疾病、負傷、死亡又は出産について、前章の規定又はこの法律以外の医療保険各法の規定によりこの章の規定による家族療養費（第百四十条第二項において準用する第百三十二条の規定により支給される療養費を含む。次項において同じ。）、家族訪問看護療養費、家族移送費、家族埋葬料又は家族出産育児一時金の支給に相当する給付を受けたときは、その限度において、行わない。</Sentence>
+                <Sentence>協会は、日雇特例被保険者に係る傷病手当金の支給を行うにつき必要があると認めるときは、労働者災害補償保険法、国家公務員災害補償法又は地方公務員災害補償法若しくは同法に基づく条例の規定により給付を行う者に対し、当該給付の支給状況につき、必要な資料の提供を求めることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>日雇特例被保険者に係る家族療養費、家族訪問看護療養費、家族移送費、家族埋葬料又は家族出産育児一時金の支給は、同一の疾病、負傷、死亡又は出産について、前章の規定若しくはこの法律以外の医療保険各法の規定又は介護保険法の規定によりこれらに相当する給付又はこの章の規定による療養の給付若しくは入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、移送費、埋葬料若しくは出産育児一時金の支給に相当する給付を受けることができる場合には、行わない。</Sentence>
+                <Sentence>日雇特例被保険者に係る療養の給付又は入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、移送費、埋葬料若しくは出産育児一時金の支給は、同一の疾病、負傷、死亡又は出産について、前章の規定又はこの法律以外の医療保険各法の規定によりこの章の規定による家族療養費（第百四十条第二項において準用する第百三十二条の規定により支給される療養費を含む。次項において同じ。）、家族訪問看護療養費、家族移送費、家族埋葬料又は家族出産育児一時金の支給に相当する給付を受けたときは、その限度において、行わない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>特別療養費（第百四十五条第六項において準用する第百三十二条の規定により支給される療養費を含む。）の支給は、同一の疾病又は負傷について、前章の規定、この法律以外の医療保険各法の規定若しくは第五十五条第一項に規定する法令の規定又は介護保険法の規定によりこの章の規定による療養の給付又は入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、家族療養費若しくは家族訪問看護療養費の支給に相当する給付を受けることができる場合には、行わない。</Sentence>
+                <Sentence>日雇特例被保険者に係る家族療養費、家族訪問看護療養費、家族移送費、家族埋葬料又は家族出産育児一時金の支給は、同一の疾病、負傷、死亡又は出産について、前章の規定若しくはこの法律以外の医療保険各法の規定又は介護保険法の規定によりこれらに相当する給付又はこの章の規定による療養の給付若しくは入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、移送費、埋葬料若しくは出産育児一時金の支給に相当する給付を受けることができる場合には、行わない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>特別療養費（第百四十五条第六項において準用する第百三十二条の規定により支給される療養費を含む。）の支給は、同一の疾病又は負傷について、前章の規定、この法律以外の医療保険各法の規定若しくは第五十五条第一項に規定する法令の規定又は介護保険法の規定によりこの章の規定による療養の給付又は入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、家族療養費若しくは家族訪問看護療養費の支給に相当する給付を受けることができる場合には、行わない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
                 <Sentence>日雇特例被保険者に係る療養の給付又は入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、移送費、家族療養費、家族訪問看護療養費、家族移送費若しくは特別療養費の支給は、同一の疾病又は負傷について、他の法令の規定により国又は地方公共団体の負担で療養又は療養費の支給を受けたときは、その限度において、行わない。</Sentence>
               </ParagraphSentence>
@@ -6150,42 +6173,54 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>保険者は、高齢者の医療の確保に関する法律第二十条の規定による特定健康診査及び同法第二十四条の規定による特定保健指導（以下この項及び第百五十四条の二において「特定健康診査等」という。）を行うものとするほか、特定健康診査等以外の事業であって、健康教育、健康相談及び健康診査並びに健康管理及び疾病の予防に係る被保険者及びその被扶養者（以下この条において「被保険者等」という。）の自助努力についての支援その他の被保険者等の健康の保持増進のために必要な事業を行うように努めなければならない。</Sentence>
+              <Sentence>保険者は、高齢者の医療の確保に関する法律第二十条の規定による特定健康診査（次項において単に「特定健康診査」という。）及び同法第二十四条の規定による特定保健指導（以下この項及び第百五十四条の二において「特定健康診査等」という。）を行うものとするほか、特定健康診査等以外の事業であって、健康教育、健康相談及び健康診査並びに健康管理及び疾病の予防に係る被保険者及びその被扶養者（以下この条において「被保険者等」という。）の自助努力についての支援その他の被保険者等の健康の保持増進のために必要な事業を行うように努めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>保険者は、前項の事業を行うに当たっては、高齢者の医療の確保に関する法律第十六条第一項に規定する医療保険等関連情報を活用し、適切かつ有効に行うものとする。</Sentence>
+              <Sentence>保険者は、前項の規定により被保険者等の健康の保持増進のために必要な事業を行うに当たって必要があると認めるときは、被保険者等を使用している事業者等（労働安全衛生法（昭和四十七年法律第五十七号）第二条第三号に規定する事業者その他の法令に基づき健康診断（特定健康診査に相当する項目を実施するものに限る。）を実施する責務を有する者その他厚生労働省令で定める者をいう。以下この条において同じ。）又は使用していた事業者等に対し、厚生労働省令で定めるところにより、同法その他の法令に基づき当該事業者等が保存している当該被保険者等に係る健康診断に関する記録の写しその他これに準ずるものとして厚生労働省令で定めるものを提供するよう求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>保険者は、被保険者等の療養のために必要な費用に係る資金若しくは用具の貸付けその他の被保険者等の療養若しくは療養環境の向上又は被保険者等の出産のために必要な費用に係る資金の貸付けその他の被保険者等の福祉の増進のために必要な事業を行うことができる。</Sentence>
+              <Sentence>前項の規定により、労働安全衛生法その他の法令に基づき保存している被保険者等に係る健康診断に関する記録の写しの提供を求められた事業者等は、厚生労働省令で定めるところにより、当該記録の写しを提供しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1">保険者は、第一項及び前項の事業に支障がない場合に限り、被保険者等でない者にこれらの事業を利用させることができる。</Sentence>
-              <Sentence Num="2">この場合において、保険者は、これらの事業の利用者に対し、厚生労働省令で定めるところにより、利用料を請求することができる。</Sentence>
+              <Sentence>保険者は、第一項の事業を行うに当たっては、高齢者の医療の確保に関する法律第十六条第一項に規定する医療保険等関連情報、事業者等から提供を受けた被保険者等に係る健康診断に関する記録の写しその他必要な情報を活用し、適切かつ有効に行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>厚生労働大臣は、健康保険組合に対し、厚生労働省令で定めるところにより、第一項又は第三項の事業を行うことを命ずることができる。</Sentence>
+              <Sentence>保険者は、被保険者等の療養のために必要な費用に係る資金若しくは用具の貸付けその他の被保険者等の療養若しくは療養環境の向上又は被保険者等の出産のために必要な費用に係る資金の貸付けその他の被保険者等の福祉の増進のために必要な事業を行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>厚生労働大臣は、第一項の規定により保険者が行う被保険者等の健康の保持増進のために必要な事業に関して、その適切かつ有効な実施を図るため、指針の公表、情報の提供その他の必要な支援を行うものとする。</Sentence>
+              <Sentence Num="1">保険者は、第一項及び前項の事業に支障がない場合に限り、被保険者等でない者にこれらの事業を利用させることができる。</Sentence>
+              <Sentence Num="2">この場合において、保険者は、これらの事業の利用者に対し、厚生労働省令で定めるところにより、利用料を請求することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>厚生労働大臣は、健康保険組合に対し、厚生労働省令で定めるところにより、第一項又は第五項の事業を行うことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>厚生労働大臣は、第一項の規定により保険者が行う被保険者等の健康の保持増進のために必要な事業に関して、その適切かつ有効な実施を図るため、指針の公表、情報の提供その他の必要な支援を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
               <Sentence>前項の指針は、健康増進法（平成十四年法律第百三号）第九条第一項に規定する健康診査等指針と調和が保たれたものでなければならない。</Sentence>
             </ParagraphSentence>
@@ -6518,8 +6553,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>厚生労働大臣が保険料を徴収する場合において、適用事業所の事業主から保険料、厚生年金保険法第八十一条に規定する保険料（以下「厚生年金保険料」という。）及び子ども・子育て支援法（平成二十四年法律第六十五号）第六十九条に規定する拠出金（以下「子ども・子育て拠出金」という。）の一部の納付があったときは、当該事業主が納付すべき保険料、厚生年金保険料及び子ども・子育て拠出金の額を基準として<Ruby>按<Rt>あん</Rt>
-</Ruby>分した額に相当する保険料の額が納付されたものとする。</Sentence>
+              <Sentence>厚生労働大臣が保険料を徴収する場合において、適用事業所の事業主から保険料、厚生年金保険法第八十一条に規定する保険料（以下「厚生年金保険料」という。）及び子ども・子育て支援法（平成二十四年法律第六十五号）第六十九条に規定する拠出金（以下「子ども・子育て拠出金」という。）の一部の納付があったときは、当該事業主が納付すべき保険料、厚生年金保険料及び子ども・子育て拠出金の額を基準として<Ruby>按<Rt>あん</Rt></Ruby>分した額に相当する保険料の額が納付されたものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -7407,7 +7441,7 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">第七条の三十八、第七条の三十九、第九条第二項、第十六条第二項及び第三項、第十八条第一項及び第二項、第十九条、第二十条、第二十六条第一項（第二号に係る部分を除く。）及び第二項、第二十九条第二項、第三十条、第百五十条並びに第百九十五条の規定は、連合会について準用する。</Sentence>
-              <Sentence Num="2">この場合において、これらの規定中「組合会」とあるのは「総会」と、第七条の三十九第一項中「厚生労働大臣は」とあるのは「厚生労働大臣は、第百八十八条において準用する前条の規定により報告を徴し、又は質問し、若しくは検査した場合において」と、「定款」とあるのは「規約」と、第十六条第二項中「前項」とあるのは「第百八十六条」と、第二十九条第二項中「前項」とあるのは「第百八十八条」と、「前条第二項の規定に違反した指定健康保険組合、同条第三項の求めに応じない指定健康保険組合その他政令で定める指定健康保険組合の事業」とあるのは「その事業」と読み替えるものとする。</Sentence>
+              <Sentence Num="2">この場合において、これらの規定中「組合会」とあるのは「総会」と、第七条の三十九第一項中「厚生労働大臣は」とあるのは「厚生労働大臣は、第百八十八条において準用する前条の規定により報告を徴し、又は質問し、若しくは検査した場合において」と、「定款」とあるのは「規約」と、第十六条第二項中「前項」とあるのは「第百八十六条」と、第二十九条第二項中「前項」とあるのは「第百八十八条」と、「前条第二項の規定に違反した指定健康保険組合、同条第三項の求めに応じない指定健康保険組合その他政令で定める指定健康保険組合の事業」とあるのは「その事業」と、第百五十条第二項中「前項の規定により被保険者等の健康の保持増進のために必要な事業」とあるのは「前項の事業」と、「被保険者等を」とあるのは「健康保険組合又は被保険者等を」と、「又は」とあるのは「若しくは」と、「同法」とあるのは「それぞれ当該健康保険組合が保存している医療保険等関連情報（高齢者の医療の確保に関する法律第十六条第一項に規定する医療保険等関連情報をいう。次項及び第四項において同じ。）又は労働安全衛生法」と、同条第三項中「労働安全衛生法」とあるのは「医療保険等関連情報の提供を求められた健康保険組合又は労働安全衛生法」と、「当該」とあるのは「当該医療保険等関連情報又は当該」と、同条第四項中「高齢者の医療の確保に関する法律第十六条第一項に規定する」とあるのは「健康保険組合から提供を受けた」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -8623,7 +8657,7 @@
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1">特例退職被保険者は、この法律の規定（第三十八条第二号、第四号及び第五号を除く。）の適用については、任意継続被保険者とみなす。</Sentence>
-            <Sentence Num="2">この場合において、同条第一号中「任意継続被保険者となった日から起算して二年を経過したとき」とあるのは「改正法第十三条の規定による改正前の国民健康保険法第八条の二第一項に規定する退職被保険者であるべき者に該当しなくなったとき」と、同条第三号中「保険者」とあるのは「附則第三条第一項に規定する特定健康保険組合」とする。</Sentence>
+            <Sentence Num="2">この場合において、同条第一号中「任意継続被保険者となった日から起算して二年を経過したとき」とあるのは「改正法第十三条の規定による改正前の国民健康保険法第八条の二第一項に規定する退職被保険者であるべき者に該当しなくなったとき」と、同条第三号中「保険者」とあるのは「附則第三条第一項に規定する特定健康保険組合」と、同条第七号中「保険者に」とあるのは「附則第三条第一項に規定する特定健康保険組合に」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="7">
@@ -9088,7 +9122,7 @@
     <SupplProvision AmendLawNum="昭和一四年四月六日法律第七四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1" OldNum="true">
-        <ParagraphNum></ParagraphNum>
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>本法施行ノ期日ハ各規定ニ付勅令ヲ以テ之ヲ定ム</Sentence>
         </ParagraphSentence>
@@ -9097,55 +9131,55 @@
     <SupplProvision AmendLawNum="昭和一七年二月二一日法律第三八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1" OldNum="true">
-        <ParagraphNum></ParagraphNum>
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>本法施行ノ期日ハ各規定ニ付勅令ヲ以テ之ヲ定ム</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="2" OldNum="true">
-        <ParagraphNum></ParagraphNum>
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>職員健康保険法ハ之ヲ廃止ス</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="3" OldNum="true">
-        <ParagraphNum></ParagraphNum>
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>前項ノ規定施行前ノ職員健康保険ノ保険給付及保険料其ノ他ノ徴収金ニ関シテハ仍旧法ニ依ル</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="4" OldNum="true">
-        <ParagraphNum></ParagraphNum>
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>第二項ノ規定施行ノ際現ニ存スル職員健康保険組合ハ同規定施行ノ日ヨリ健康保険組合ト為リ職員健康保険組合ノ権利義務ヲ承継スルモノトス</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="5" OldNum="true">
-        <ParagraphNum></ParagraphNum>
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>第二項ノ規定施行ノ際現ニ職員健康保険ノ被保険者タル者ハ命令ノ定ムル所ニ依リ健康保険ノ被保険者ト為リタルモノトス</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="6" OldNum="true">
-        <ParagraphNum></ParagraphNum>
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>第二項ノ規定施行ノ際現ニ職員健康保険ノ被保険者タリシ者ニシテ健康保険ノ被保険者ト為リタルモノノ受クル健康保険ノ保険給付ニ関シテハ其ノ者ガ職員健康保険ノ被保険者タリシ期間ハ健康保険ノ被保険者タリシ期間ト看做シ其ノ者ガ職員健康保険ノ被保険者トシテ保険給付ヲ受ケタル期間ハ健康保険ノ被保険者トシテ之ニ相当スル保険給付ヲ受ケタル期間ト看做ス</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="7" OldNum="true">
-        <ParagraphNum></ParagraphNum>
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>第二項ノ規定施行前職員健康保険ノ被保険者ノ資格ヲ喪失シタル者ハ健康保険ノ保険給付及徴収金ニ関シテハ健康保険ノ被保険者タリシ者ト看做シ其ノ者ガ職員健康保険ノ被保険者トシテ受ケタル保険給付ハ健康保険ノ被保険者トシテ受ケタル之ニ相当スル保険給付ト看做ス</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="8" OldNum="true">
-        <ParagraphNum></ParagraphNum>
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>第二項ノ規定施行前職員健康保険法ニ違反シタル者ノ処罰ニ付テハ仍旧法ニ依ル</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="9" OldNum="true">
-        <ParagraphNum></ParagraphNum>
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>前六項ニ定ムルモノノ外第二項ノ規定施行ノ際必要ナル事項ハ勅令ヲ以テ之ヲ定ム</Sentence>
         </ParagraphSentence>
@@ -9608,7 +9642,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三三年四月三〇日法律第一〇六号" Extract="true">
+    <SupplProvision AmendLawNum="昭和三三年四月三〇日法律第一〇六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -9962,16 +9996,12 @@
         </Paragraph>
       </Article>
       <Article Num="2">
-        <ArticleCaption>（分<Ruby>娩<Rt>べん</Rt>
-</Ruby>費等の額に関する経過措置）</ArticleCaption>
+        <ArticleCaption>（分<Ruby>娩<Rt>べん</Rt></Ruby>費等の額に関する経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>昭和四十四年九月一日前に分<Ruby>娩<Rt>べん</Rt>
-</Ruby>した健康保険又は船員保険の被保険者若しくは被保険者であつた者又は被扶養者に係る健康保険法又は船員保険法の規定による分<Ruby>娩<Rt>べん</Rt>
-</Ruby>費又は配偶者分<Ruby>娩<Rt>べん</Rt>
-</Ruby>費の額については、なお従前の例による。</Sentence>
+            <Sentence>昭和四十四年九月一日前に分<Ruby>娩<Rt>べん</Rt></Ruby>した健康保険又は船員保険の被保険者若しくは被保険者であつた者又は被扶養者に係る健康保険法又は船員保険法の規定による分<Ruby>娩<Rt>べん</Rt></Ruby>費又は配偶者分<Ruby>娩<Rt>べん</Rt></Ruby>費の額については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -10185,10 +10215,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律の施行の日前に分<Ruby>娩<Rt>べん</Rt>
-</Ruby>した健康保険又は船員保険の被保険者又は被保険者であつた者であつて分<Ruby>娩<Rt>べん</Rt>
-</Ruby>に関し病院若しくは診療所又は助産所に収容したものに係る健康保険法又は船員保険法の規定による分<Ruby>娩<Rt>べん</Rt>
-</Ruby>費の額については、なお従前の例による。</Sentence>
+            <Sentence>この法律の施行の日前に分<Ruby>娩<Rt>べん</Rt></Ruby>した健康保険又は船員保険の被保険者又は被保険者であつた者であつて分<Ruby>娩<Rt>べん</Rt></Ruby>に関し病院若しくは診療所又は助産所に収容したものに係る健康保険法又は船員保険法の規定による分<Ruby>娩<Rt>べん</Rt></Ruby>費の額については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -11391,7 +11418,6 @@
         </Paragraph>
       </Article>
       <Article Num="16">
-        <ArticleCaption>（政令で定める日＝平成一二年五月三一日）</ArticleCaption>
         <ArticleTitle>第十六条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
@@ -12812,7 +12838,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>平成二十年十月改正健保法第百六十条第三項の規定に基づき算定した都道府県単位保険料率のうち、第四条の規定の施行の日の前日における旧政管健保の一般保険料率との率の差が政令で定める基準を上回るものがある場合においては、同項の規定にかかわらず、協会は、成立の日から、被保険者及びその被扶養者の健康の保持増進並びに医療に要する費用の適正化に係る協会の各支部（健康保険法第百六十条第一項に規定する各支部をいう。）の取組の状況を勘案して平成三十六年三月三十一日までの間において政令で定める日までの間に限り、政令で定めるところにより、都道府県単位保険料率の調整を行い、運営委員会の議を経て、当該算定した都道府県単位保険料率とは異なる都道府県単位保険料率を定めるものとする。</Sentence>
+            <Sentence>平成二十年十月改正健保法第百六十条第三項の規定に基づき算定した都道府県単位保険料率のうち、第四条の規定の施行の日の前日における旧政管健保の一般保険料率との率の差が政令で定める基準を上回るものがある場合においては、同項の規定にかかわらず、協会は、成立の日から、被保険者及びその被扶養者の健康の保持増進並びに医療に要する費用の適正化に係る協会の各支部（健康保険法第百六十条第一項に規定する各支部をいう。）の取組の状況を勘案して令和六年三月三十一日までの間において政令で定める日までの間に限り、政令で定めるところにより、都道府県単位保険料率の調整を行い、運営委員会の議を経て、当該算定した都道府県単位保険料率とは異なる都道府県単位保険料率を定めるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -13735,7 +13761,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1">社会保障の安定財源の確保等を図る税制の抜本的な改革を行うための消費税法の一部を改正する等の法律（平成二十四年法律第六十八号）の趣旨にのっとり、同法附則第一条第二号に掲げる規定の施行の日から、公的年金制度の年金受給者のうち、低所得である高齢者又は所得が一定額以下である障害者等に対する福祉的措置としての給付に係る制度を実施するため、同法の公布の日から六月以内に必要な法制上の措置が講ぜられるものとする。</Sentence>
+            <Sentence Num="1">社会保障の安定財源の確保等を図る税制の抜本的な改革を行うための消費税法の一部を改正する等の法律の趣旨にのっとり、同法附則第一条第二号に掲げる規定の施行の日から、公的年金制度の年金受給者のうち、低所得である高齢者又は所得が一定額以下である障害者等に対する福祉的措置としての給付に係る制度を実施するため、同法の公布の日から六月以内に必要な法制上の措置が講ぜられるものとする。</Sentence>
             <Sentence Num="2">この場合において、その財源は、同法の施行により増加する消費税の収入を活用して確保するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
@@ -13746,7 +13772,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>第五号施行日前に健康保険の被保険者の資格を取得して、第五号施行日まで引き続き被保険者の資格を有する者については、第二十五条の規定による改正後の健康保険法第三条第一項（同項第九号に係る部分に限る。）の規定は、第五号施行日以降引き続き第五号施行日において使用されていた事業所に使用されている間は、適用しない。</Sentence>
+            <Sentence>第五号施行日前に健康保険の被保険者の資格を取得して、第五号施行日まで引き続き被保険者の資格を有する者については、健康保険法第三条第一項（同項第九号に係る部分に限る。）の規定は、第五号施行日以降引き続き第五号施行日において使用されていた事業所に使用されている間は、適用しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -13755,12 +13781,12 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>当分の間、特定適用事業所以外の適用事業所（健康保険法第三条第三項に規定する適用事業所をいい、国又は地方公共団体の当該適用事業所を除く。以下この条において同じ。）に使用される第一号又は第二号に掲げる者であって第二十五条の規定による改正後の同法第三条第一項各号のいずれにも該当しないもの（前条の規定により第二十五条の規定による改正後の同法第三条第一項（第九号に係る部分に限る。）の規定が適用されない者を除く。以下この条において「特定四分の三未満短時間労働者」という。）については、同項の規定にかかわらず、健康保険の被保険者としない。</Sentence>
+            <Sentence>当分の間、特定適用事業所以外の適用事業所（健康保険法第三条第三項に規定する適用事業所をいい、国又は地方公共団体の当該適用事業所を除く。以下この条において同じ。）に使用される第一号又は第二号に掲げる者であって同法第三条第一項各号のいずれにも該当しないもの（前条の規定により同項（第九号に係る部分に限る。）の規定が適用されない者を除く。以下この条において「特定四分の三未満短時間労働者」という。）については、同項の規定にかかわらず、健康保険の被保険者としない。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence>その一週間の所定労働時間が同一の事業所に使用される通常の労働者の一週間の所定労働時間の四分の三未満である短時間労働者</Sentence>
+              <Sentence>その一週間の所定労働時間が同一の事業所に使用される通常の労働者（健康保険法第三条第一項第九号に規定する通常の労働者をいう。次号において同じ。）の一週間の所定労働時間の四分の三未満である短時間労働者（同項第九号に規定する短時間労働者をいう。次号において同じ。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
@@ -13930,7 +13956,7 @@
         <Paragraph Num="11">
           <ParagraphNum>１１</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>第二項ただし書、第五項及び第八項の規定による保険者等（厚生労働大臣に限る。）の申出の受理の権限に係る事務は、日本年金機構に行わせるものとする。この場合において、日本年金機構法第二十三条第三項中「若しくは船員保険法」とあるのは「若しくは公的年金制度の財政基盤及び最低保障機能の強化等のための国民年金法等の一部を改正する法律（平成二十四年法律第六十二号）若しくは船員保険法」と、同法第二十六条第二項中「健康保険法」とあるのは「健康保険法若しくは公的年金制度の財政基盤及び最低保障機能の強化等のための国民年金法等の一部を改正する法律」と、同法第二十七条第二項第二号中「に規定する権限に係る事務、同法」とあるのは「並びに公的年金制度の財政基盤及び最低保障機能の強化等のための国民年金法等の一部を改正する法律附則第四十六条第二項ただし書、第五項及び第八項に規定する権限に係る事務、健康保険法」と、「及び」とあるのは「並びに」と、同法第四十八条第一項中「健康保険法」とあるのは「健康保険法若しくは公的年金制度の財政基盤及び最低保障機能の強化等のための国民年金法等の一部を改正する法律」とする。</Sentence>
+            <Sentence>第二項ただし書、第五項及び第八項の規定による保険者等（厚生労働大臣に限る。）の申出の受理の権限に係る事務は、日本年金機構に行わせるものとする。この場合において、日本年金機構法第二十三条第三項中「、船員保険法」とあるのは「若しくは公的年金制度の財政基盤及び最低保障機能の強化等のための国民年金法等の一部を改正する法律（平成二十四年法律第六十二号）、船員保険法」と、同法第二十六条第二項中「健康保険法」とあるのは「健康保険法若しくは公的年金制度の財政基盤及び最低保障機能の強化等のための国民年金法等の一部を改正する法律」と、同法第二十七条第二項第二号中「に規定する権限に係る事務、同法」とあるのは「並びに公的年金制度の財政基盤及び最低保障機能の強化等のための国民年金法等の一部を改正する法律附則第四十六条第二項ただし書、第五項及び第八項に規定する権限に係る事務、健康保険法」と、「及び」とあるのは「並びに」と、同法第四十八条第一項中「健康保険法」とあるのは「健康保険法若しくは公的年金制度の財政基盤及び最低保障機能の強化等のための国民年金法等の一部を改正する法律」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="12">
@@ -15070,6 +15096,169 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月一九日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和三年九月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第二十七条（住民基本台帳法別表第一から別表第五までの改正規定に限る。）、第四十五条、第四十七条及び第五十五条（行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一及び別表第二の改正規定（同表の二十七の項の改正規定を除く。）に限る。）並びに附則第八条第一項、第五十九条から第六十三条まで、第六十七条及び第七十一条から第七十三条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2:6">
+            <ItemTitle>二～六</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第二十七条（住民基本台帳法第二十四条の二の改正規定及び同法第三十条の十五第三項の改正規定に限る。）、第四十八条（電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律第七十一条の二を同法第七十一条の三とし、同法第七十一条の次に一条を加える改正規定を除く。）、第四十九条及び第五十一条並びに附則第九条（第三項を除く。）、第十条、第十五条、第十八条（戸籍法第百二十九条の改正規定（「戸籍の」の下に「正本及び」を加える部分に限る。）に限る。）、第二十二条、第二十五条、第二十六条、第二十八条、第二十九条（住民基本台帳法第三十条の十五第三項の改正規定に限る。）、第三十九条、第四十三条、第四十七条、第四十九条、第五十四条、第五十五条（がん登録等の推進に関する法律第三十五条の改正規定（「（条例を含む。）」を削る部分に限る。）に限る。）、第五十七条、第六十六条及び第七十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して二年を超えない範囲内において、各規定につき、政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="71">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="72">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年六月一一日法律第六六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和四年一月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第六条中国民健康保険法附則第二十五条の改正規定並びに第八条中生活保護法第五十五条の八、第八十五条の二及び別表第一の三の項第三号の改正規定並びに次条第一項、附則第八条及び第十条の規定、附則第十五条中地方公務員等共済組合法（昭和三十七年法律第百五十二号）第百四十六条の改正規定、附則第二十一条中住民基本台帳法（昭和四十二年法律第八十一号）別表第一の十九の項及び別表第二から別表第五までの改正規定、附則第二十三条中租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律（昭和四十四年法律第四十六号）第三条の二の三第一項の改正規定（「第七百三条の四第十一項第一号」を「第七百三条の四第十項第一号」に改める部分に限る。）並びに附則第二十九条、第三十一条及び第三十二条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中健康保険法第百五十九条及び第二百四条第一項第十二号の改正規定、第二条中船員保険法第百十八条及び第百五十三条第一項第七号の改正規定並びに第三条及び第四条の規定並びに附則第三条第三項、第四条第二項、第五条及び第六条の規定、附則第十一条中私立学校教職員共済法（昭和二十八年法律第二百四十五号）第二十五条の改正規定（同条の表第七十五条の三第一項の項中「第百条の二の規定」を「第百条の二第一項の規定」に、「第二十八条第四項及び第五項」を「第二十八条第五項及び第六項」に改める部分及び同表附則第十二条第九項の項中「第四項」を「第五項」に改める部分に限る。）及び同法第二十八条の改正規定、附則第十二条の規定、附則第十三条中国家公務員共済組合法（昭和三十三年法律第百二十八号）第七十五条の三第一項第五号、第百条の二及び第百二条第一項の改正規定、附則第十四条の規定、附則第十五条中地方公務員等共済組合法第七十九条第一項第五号、第百十四条の二、第百十六条第一項及び第百四十四条の十二第一項の改正規定並びに附則第十六条、第二十六条及び第二十七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>令和四年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4:5">
+            <ItemTitle>四・五</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中健康保険法第二百五条の四第二項及び第二百五条の五の改正規定、第二条中船員保険法第百五十三条の十第二項及び第百五十三条の十一の改正規定、第五条中高齢者の医療の確保に関する法律第百六十五条の二第二項及び第百六十五条の三の改正規定、第六条中国民健康保険法第百十三条の三第二項及び第百十三条の四の改正規定、第八条の規定（第一号に掲げる改正規定を除く。）並びに第九条及び第十条の規定並びに附則第十一条中私立学校教職員共済法第四十七条の三第二項及び第四十七条の四の改正規定、附則第十三条中国家公務員共済組合法第百十四条の二第二項及び第百十四条の三の改正規定、附則第十五条中地方公務員等共済組合法第百四十四条の三十三第二項及び第百四十四条の三十四の改正規定並びに附則第二十二条、第二十四条及び第三十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して三年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の公布後速やかに、全世代対応型の持続可能な社会保障制度を構築する観点から、社会保障制度の改革及び少子化に対処するための施策について、その実施状況の検証を行うとともに、総合的な検討に着手し、その検討の結果に基づいて速やかに法制の整備その他の必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この項において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（健康保険法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第一条の規定による改正後の健康保険法第四十七条第二項の規定は、この法律の施行の日（以下「施行日」という。）以後に健康保険法第三十六条の規定により被保険者の資格を喪失した者について適用し、施行日前に同条の規定により被保険者の資格を喪失した者については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一条の規定による改正後の健康保険法第九十九条第四項の規定は、施行日の前日において、支給を始めた日から起算して一年六月を経過していない傷病手当金について適用し、施行日前に第一条の規定による改正前の健康保険法第九十九条第四項に規定する支給期間が満了した傷病手当金については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="32">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第三条から第十条まで、第十二条、第十四条及び第十六条に規定するもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
     </SupplProvision>

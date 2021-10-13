@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="301" Year="04">
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="301" Year="04" PromulgateMonth="08" PromulgateDay="07">
   <LawNum>平成四年政令第三百一号</LawNum>
   <LawBody>
-    <LawTitle>あん摩マツサージ指圧師、はり師、きゆう師等に関する法律施行令</LawTitle>
+    <LawTitle Kana="あんままっさーじしあつしはりしきゆうしとうにかんするほうりつしこうれい" Abbrev="あはき法施行令" AbbrevKana="あ">あん摩マツサージ指圧師、はり師、きゆう師等に関する法律施行令</LawTitle>
     <EnactStatement>内閣は、あん摩マツサージ指圧師、はり師、きゆう師等に関する法律（昭和二十二年法律第二百十七号）第二条第六項及び第三条の二十四第二項の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -508,7 +508,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="409057" AmendLawNum="平成九年三月二四日政令第五七号" Extract="true" Id="c8ea2fc0-d3b6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成九年三月二四日政令第五七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -518,7 +518,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411393" AmendLawNum="平成一一年一二月八日政令第三九三号" Extract="true" Id="ada30e06-fcc6-41b2-a323-f6440a41f970">
+    <SupplProvision AmendLawNum="平成一一年一二月八日政令第三九三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -531,7 +531,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412065" AmendLawNum="平成一二年三月一七日政令第六五号" Id="9e57fd26-1889-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年三月一七日政令第六五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -540,7 +540,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412309" AmendLawNum="平成一二年六月七日政令第三〇九号" Extract="true" Id="12fb4fbe-d3b6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年六月七日政令第三〇九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -550,7 +550,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416046" AmendLawNum="平成一六年三月一九日政令第四六号" Id="9faf4f46-a334-4f17-9b61-dc148d562191">
+    <SupplProvision AmendLawNum="平成一六年三月一九日政令第四六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -559,7 +559,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423248" AmendLawNum="平成二三年八月三日政令第二四八号" Id="60a1fa46-190f-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年八月三日政令第二四八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -568,7 +568,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427128" AmendLawNum="平成二七年三月三一日政令第一二八号" Extract="true" Id="0c6b0d02-1886-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年三月三一日政令第一二八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -597,7 +597,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501072" AmendLawNum="令和元年八月七日政令第七二号">
+    <SupplProvision AmendLawNum="令和元年八月七日政令第七二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>

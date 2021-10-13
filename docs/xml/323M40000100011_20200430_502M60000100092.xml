@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="11" Year="23">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="11" Year="23" PromulgateMonth="04" PromulgateDay="30">
   <LawNum>昭和二十三年厚生省令第十一号</LawNum>
   <LawBody>
-    <LawTitle>児童福祉法施行規則</LawTitle>
+    <LawTitle Kana="じどうふくしほうせこうきそく" Abbrev="児福法施行規則" AbbrevKana="じ">児童福祉法施行規則</LawTitle>
     <EnactStatement>児童福祉法施行規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -120,7 +120,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第六条の二の二第八項に規定する障害児支援利用計画に係る厚生労働省令で定める事項は、障害児及びその家族の生活に対する意向、当該障害児の総合的な援助の方針及び生活全般の解決すべき課題、提供される障害児通所支援の目標及びその達成時期、障害児通所支援の種類、内容、量、日時、利用料及びこれを担当する者並びに障害児通所支援を提供する上での留意事項とする。</Sentence>
             </ParagraphSentence>
@@ -256,7 +256,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の保護の期間は、七日以内とする。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、市町村長は、必要があると認めるときは、その期間を延長することができる。</Sentence>
@@ -272,7 +272,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の保護の期間は、当該保護者が仕事その他の理由により不在となる期間又は同項の緊急の必要がなくなるまでの期間とする。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、市町村長は、必要があると認めるときは、その期間を延長することができる。</Sentence>
@@ -397,19 +397,19 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の二人の養育者は、一の家族を構成しているものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前二項の規定にかかわらず、委託児童の養育にふさわしい家庭的環境が確保される場合には、当該小規模住居型児童養育事業を行う住居に置くべき者を、一人の養育者及び二人以上の補助者とすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">養育者は、当該小規模住居型児童養育事業を行う住居に生活の本拠を置く者でなければならない。</Sentence>
             </ParagraphSentence>
@@ -433,7 +433,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の養育者は、この省令の規定を遵守するとともに、当該小規模住居型児童養育事業を行う住居の他の養育者等にこの省令の規定を遵守させなければならない。</Sentence>
             </ParagraphSentence>
@@ -520,7 +520,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">小規模住居型児童養育事業を行う住居において同時に養育する委託児童の人数は、委託児童の定員を超えることができない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、災害その他のやむを得ない事情がある場合は、この限りでない。</Sentence>
@@ -554,7 +554,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">養育者は、常に委託児童の健康の状況に注意し、必要に応じて健康保持のための適切な措置を採らなければならない。</Sentence>
             </ParagraphSentence>
@@ -620,7 +620,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">小規模住居型児童養育事業者は、養育者等であつた者が、正当な理由がなく、その業務上知り得た委託児童又はその家族の秘密を漏らすことがないよう、必要な措置を講じなければならない。</Sentence>
             </ParagraphSentence>
@@ -644,7 +644,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">小規模住居型児童養育事業者は、前項の意思表示への対応のうち特に苦情の解決に係るものについては、その公正な解決を図るために、苦情の解決に当たつて養育者等以外の者を関与させなければならない。</Sentence>
             </ParagraphSentence>
@@ -710,7 +710,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">補助者は、法第三十四条の二十第一項各号に規定する者並びに精神の機能の障害により補助者の業務を適正に行うに当たつて必要な認知、判断及び意思疎通を適切に行うことができない者のいずれにも該当しない者でなければならない。</Sentence>
             </ParagraphSentence>
@@ -806,7 +806,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第六条の三第十二項第一号ハに規定する厚生労働省令で定める者は、前項各号に掲げる組合の構成員とする。</Sentence>
             </ParagraphSentence>
@@ -1160,7 +1160,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">令第二条第一項の規定により、児童相談所の設備の規模及び構造等の変更に関して報告すべき事項は、前項第一号から第四号までの事項とする。</Sentence>
             </ParagraphSentence>
@@ -1175,7 +1175,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">令第二条第二項の規定により、児童を一時保護する施設の設備の規模及び構造等の変更に関して報告すべき事項は、変更後の入所定員とする。</Sentence>
             </ParagraphSentence>
@@ -1190,7 +1190,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">中央児童相談所は、当該都道府県内の児童相談所を援助し、その連絡を図るものとする。</Sentence>
             </ParagraphSentence>
@@ -1304,7 +1304,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">講習会の実施者に係る令第三条の二第二項に規定する厚生労働省令で定める事項は、次のとおりとする。</Sentence>
             </ParagraphSentence>
@@ -1352,13 +1352,13 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">令第三条の二第三項に規定する厚生労働省令で定める事項は、第一項第四号に掲げる事項及び第二項第一号に掲げる事項（厚生労働大臣の定める修業教科目及びその単位数に関する事項に限る。）とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">令第三条の二第四項に規定する厚生労働省令で定める事項は、第一項第一号及び第二号に掲げる事項、同項第四号に掲げる事項（入所資格、修業年限、前項の厚生労働大臣の定める修業教科目以外の修業教科目及びその単位数に関する事項に限る。）並びに同項第七号に掲げる事項（学校に係る事項を除く。）とする。</Sentence>
             </ParagraphSentence>
@@ -1661,13 +1661,13 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項第一号に規定する者のほか、満十八歳以上の者であつて児童福祉施設において二年以上児童の保護に従事した者に入所資格を与える学校その他の施設につき、当該学校その他の施設が同項各号（第一号を除く。）に該当する場合に限り、同項第一号の規定にかかわらず、指定保育士養成施設の指定をすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県知事は、その経営の状況等から見て、保育士の養成に支障を生じさせるおそれがないと認められる学校その他の施設につき、当該学校その他の施設が第一項各号（第五号（前項に規定する学校その他の施設にあつては、第一号及び第五号。以下この項において同じ。）を除く。）に該当する場合に限り、同項第五号の規定にかかわらず、指定保育士養成施設の指定をすることができる。</Sentence>
             </ParagraphSentence>
@@ -1742,13 +1742,13 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">令第五条第三項に規定する厚生労働省令で定める事項は、前項第四号に掲げる事項（厚生労働大臣の定める修業教科目並びにその単位数及び履修方法並びに学生の定員に関する事項に限る。）とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">令第五条第四項に規定する厚生労働省令で定める事項は、第一項第一号及び第二号に掲げる事項、同項第四号に掲げる事項（入所資格、修業年限、前項の厚生労働大臣の定める修業教科目以外の修業教科目並びにその単位数及び履修方法並びに単位の算定方法に関する事項に限る。）並びに同項第七号に掲げる事項（学校に係る事項を除く。）とする。</Sentence>
             </ParagraphSentence>
@@ -1832,13 +1832,13 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第十八条の十六第二項（法第三十四条の五第二項、第三十四条の十四第二項、第三十四条の十八の二第二項及び第四十六条第二項において準用する場合を含む。）の規定により当該職員が携帯すべき証明書は、第三号様式によるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第五十九条の五第二項の規定により厚生労働大臣に適用があるものとされた法第三十四条の五第二項及び第四十六条第二項の規定において準用する法第十八条の十六第二項に規定する証明書は、第四号様式によるものとする。</Sentence>
             </ParagraphSentence>
@@ -1853,19 +1853,19 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定により指定のあつた学校その他の施設（以下この条において「指定養成施設」という。）の長に対し、教育方法、設備その他の内容に関し必要な報告を求め、又は必要な指導をすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県知事は、指定養成施設につき、前項の規定による指導に従わないとき又は次項において準用する令第五条第七項の規定による指定の取消しの申請があつたときは、その指定を取り消すことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">令第五条第三項から第七項まで（第六項を除く。）及び令第二十一条並びに第六条の三から第六条の五まで（第六条の三第一項を除く。）の規定は、指定養成施設について準用する。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、次の表の上欄に掲げる規定中同表中欄に掲げる字句は、それぞれ同表下欄に掲げる字句に読み替えるものとする。</Sentence>
@@ -1951,7 +1951,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">筆記試験は、次の科目について行う。</Sentence>
             </ParagraphSentence>
@@ -2005,7 +2005,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">実技試験は、保育実習実技について行う。</Sentence>
             </ParagraphSentence>
@@ -2049,19 +2049,19 @@
             </TableStruct>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県知事は、前条第二項各号に規定する科目のうち、厚生労働大臣の指定する学校その他の施設において、その指定する科目を専修した者に対しては、その申請により、当該科目の受験を免除することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県知事は、社会福祉士、介護福祉士又は精神保健福祉士であつて、保育士試験を受けようとする者に対しては、その申請により、前条第二項第二号（社会的養護に限る。）、第三号及び第四号に規定する科目の受験を免除することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前三項の規定により、前条第二項各号に規定する科目の免除を受けようとする者は、前三項に該当することを証する書類を添えて、都道府県知事に申請しなければならない。</Sentence>
             </ParagraphSentence>
@@ -2077,7 +2077,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の免除を受けようとする者は、前項に規定する基準に該当することを証する書類を添えて、都道府県知事に申請しなければならない。</Sentence>
             </ParagraphSentence>
@@ -2122,7 +2122,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定に該当する者に対しては、三年以内において期間を定め、保育士試験を受けさせないことができる。</Sentence>
             </ParagraphSentence>
@@ -2191,7 +2191,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の申請書には、次に掲げる書類を添付しなければならない。</Sentence>
             </ParagraphSentence>
@@ -2266,7 +2266,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">指定試験機関は、試験事務を行う事務所を新設し、又は廃止しようとするときは、次に掲げる事項を記載した届出書を都道府県知事に提出しなければならない。</Sentence>
             </ParagraphSentence>
@@ -2320,7 +2320,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">指定試験機関は、法第十八条の十三第一項後段の認可を受けようとするときは、次に掲げる事項を記載した申請書を都道府県知事に提出しなければならない。</Sentence>
             </ParagraphSentence>
@@ -2401,7 +2401,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">指定試験機関は、法第十八条の十四後段の認可を受けようとするときは、次に掲げる事項を記載した申請書を都道府県知事に提出しなければならない。</Sentence>
             </ParagraphSentence>
@@ -2453,7 +2453,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">指定試験機関は、前項の規定により読み替えて適用される第六条の十四第一項の規定により、不正の方法によつて保育士試験若しくは国家戦略特別区域限定保育士試験を受けようとした者又は保育士試験若しくは国家戦略特別区域限定保育士試験に関する規定に違反した者に対して、保育士試験の受験を停止し、又はその合格を無効としたときは、遅滞なく、次に掲げる事項を記載した報告書を都道府県知事に提出しなければならない。</Sentence>
             </ParagraphSentence>
@@ -2603,7 +2603,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の審査の結果、当該申請者が保育士となる資格を有しないと認めたときは、理由を付し、申請書を当該申請者に返却する。</Sentence>
             </ParagraphSentence>
@@ -2678,7 +2678,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第十八条の十九第一項又は第二項の規定により保育士の登録を取り消された者は、遅滞なく、登録証を登録を行つた都道府県知事に返納しなければならない。</Sentence>
             </ParagraphSentence>
@@ -2714,13 +2714,13 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">医療費支給認定（法第十九条の三第三項に規定する医療費支給認定をいう。以下同じ。）に係る小児慢性特定疾病児童等（法第六条の二第二項に規定する小児慢性特定疾病児童等をいう。以下同じ。）が指定小児慢性特定疾病医療機関（同項に規定する指定小児慢性特定疾病医療機関をいう。以下同じ。）から指定小児慢性特定疾病医療支援（法第十九条の二第一項に規定する指定小児慢性特定疾病医療支援をいう。以下同じ。）を受けたときは、法第十九条の三第十項の規定により当該小児慢性特定疾病児童等に係る医療費支給認定保護者（同条第七項に規定する医療費支給認定保護者をいう。以下同じ。）に支給すべき小児慢性特定疾病医療費は当該指定小児慢性特定疾病医療機関に対して支払うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県は、医療費支給認定に係る小児慢性特定疾病児童等が緊急その他やむを得ない事由により法第十九条の三第五項の規定に基づき当該小児慢性特定疾病児童等が小児慢性特定疾病医療支援を受けるものとして定められた指定小児慢性特定疾病医療機関以外の医療機関から当該医療費支給認定に係る小児慢性特定疾病医療支援を受けた場合において、その必要があると認めるときは、前項の規定にかかわらず、当該小児慢性特定疾病児童等に係る医療費支給認定保護者に、支給すべき小児慢性特定疾病医療費を支払うことができる。</Sentence>
             </ParagraphSentence>
@@ -2800,13 +2800,13 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の算定に当たつて、医療費支給認定に係る小児慢性特定疾病児童等又は当該医療費支給認定に係る小児慢性特定疾病児童等に係る医療費支給認定基準世帯員が指定都市（地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市をいう。以下同じ。）の区域内に住所を有する者であるときは、これらの者を指定都市以外の市町村の区域内に住所を有する者とみなして、所得割の額を算定するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第一項の算定に当たつて、医療費支給認定に係る小児慢性特定疾病児童等又は当該医療費支給認定に係る小児慢性特定疾病児童等に係る医療費支給認定基準世帯員が地方税法第二百九十二条第一項第十一号イ中「夫と死別し、若しくは夫と離婚した後婚姻をしていない者又は夫の生死の明らかでない者で政令で定めるもの」とあるのを「婚姻によらないで母となつた女子であつて、現に婚姻をしていないもの」と読み替えた場合に同号イに該当する所得割の納税義務者又は同項第十二号中「妻と死別し、若しくは妻と離婚した後婚姻をしていない者又は妻の生死の明らかでない者で政令で定めるもの」とあるのを「婚姻によらないで父となつた男子であつて、現に婚姻をしていないもの」と読み替えた場合に同号に該当する所得割の納税義務者であるときは、同法第三百十四条の二第一項第八号に規定する額（当該者が同法第二百九十二条第一項第十一号イ中「夫と死別し、若しくは夫と離婚した後婚姻をしていない者又は夫の生死の明らかでない者で政令で定めるもの」とあるのを「婚姻によらないで母となつた女子であつて、現に婚姻をしていないもの」と読み替えた場合に同法第三百十四条の二第三項に該当する者であるときは、同項に規定する額）に同法第三百十四条の三第一項に規定する率を乗じて得た額を控除するものとする。</Sentence>
             </ParagraphSentence>
@@ -3056,7 +3056,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の申請書には、次の各号に掲げる書類を添付しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、都道府県は、当該書類により証明すべき事実を公簿等によつて確認することができるときは、当該書類を省略させることができる。</Sentence>
@@ -3081,7 +3081,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">医療費支給認定保護者は、医療費支給認定の有効期間（法第十九条の三第六項に規定する医療費支給認定の有効期間をいう。第七条の二十二第七号、第七条の二十三第一項及び附則第五十五条の二において同じ。）内において、第一項各号（第三号及び第六号から第十一号までを除く。）に掲げる事項又は小児慢性特定疾病医療支援負担上限月額の算定のために必要な事項に変更があつたときは、速やかに、次の各号に掲げる事項を記載した届出書に当該医療費支給認定に係る医療受給者証を添えて都道府県に提出しなければならない。</Sentence>
             </ParagraphSentence>
@@ -3111,7 +3111,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の届出書には、同項第三号に掲げる事項を証する書類を添付しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、都道府県は、当該書類により証明すべき事実を公簿等によつて確認することができるときは、当該書類を省略させることができる。</Sentence>
@@ -3139,7 +3139,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定にかかわらず、第七条の十六の規定により指定医の指定を取り消された後五年を経過していない者その他指定医として著しく不適当と認められる者については、前項の指定をしないことができる。</Sentence>
             </ParagraphSentence>
@@ -3178,7 +3178,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の申請書には、次の各号に掲げる書類を添付しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、都道府県知事は当該書類により証明すべき事実を公簿等によつて確認することができるときは、当該書類を省略させることができる。</Sentence>
@@ -3221,7 +3221,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">指定医は、前項に規定する職務のほか、小児慢性特定疾病の治療方法その他法第二十一条の四第一項に規定する疾病児童等の健全な育成に資する調査及び研究の推進に協力するものとする。</Sentence>
             </ParagraphSentence>
@@ -3414,7 +3414,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の申請をしようとする医療費支給認定保護者は、次の各号に掲げる事項を記載した申請書を、都道府県に提出しなければならない。</Sentence>
             </ParagraphSentence>
@@ -3438,13 +3438,13 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">医療受給者証を破り、又は汚した場合の第一項の申請には、前項の申請書に当該医療受給者証を添えなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">医療受給者証の再交付を受けた後、失つた医療受給者証を発見したときは、速やかにこれを都道府県に返還しなければならない。</Sentence>
             </ParagraphSentence>
@@ -3468,31 +3468,31 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">会長は、会務を総理する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">会長に事故があるときは、あらかじめその指名する委員が、その職務を代理する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">小児慢性特定疾病審査会の委員に欠員が生じた場合の補欠の委員の任期は、前任者の残任期間とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">委員は、再任されることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前各項に定めるもののほか、小児慢性特定疾病審査会の運営に関し必要な事項は、小児慢性特定疾病審査会が定める。</Sentence>
             </ParagraphSentence>
@@ -3558,7 +3558,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の申請書には、同項第三号に掲げる事項を証する書類を添付しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、都道府県は、当該書類により証明すべき事実を公簿等によつて確認することができるときは、当該書類を省略させることができる。</Sentence>
@@ -3592,7 +3592,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">当該医療費支給認定の取消しに係る医療費支給認定保護者の医療受給者証が既に都道府県に提出されているときは、都道府県は、前項の規定にかかわらず、同項の書面に同項第二号及び第三号に掲げる事項を記載することを要しない。</Sentence>
             </ParagraphSentence>
@@ -3649,7 +3649,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第十九条の九第一項の規定に基づき指定小児慢性特定疾病医療機関の指定を受けようとする薬局の開設者は、次の各号に掲げる事項を記載した申請書を、当該薬局の所在地の都道府県知事に提出しなければならない。</Sentence>
             </ParagraphSentence>
@@ -3691,7 +3691,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第十九条の九第一項の規定に基づき指定小児慢性特定疾病医療機関の指定を受けようとする指定訪問看護事業者（令第二十二条の四に規定する指定訪問看護事業者をいう。以下同じ。）は、次の各号に掲げる事項を記載した申請書を、当該申請に係る訪問看護ステーション（指定訪問看護事業者等が当該指定に係る訪問看護事業（健康保険法第八十八条第一項に規定する訪問看護事業をいう。）を行う事業所をいう。以下同じ。）の所在地の都道府県知事に提出しなければならない。</Sentence>
             </ParagraphSentence>
@@ -3835,13 +3835,13 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の場合において、都道府県は、当該指定小児慢性特定疾病医療機関に対し、都道府県知事が当該指定小児慢性特定疾病医療機関の所在地の都道府県の社会保険診療報酬支払基金事務所に置かれた審査委員会、社会保険診療報酬支払基金法（昭和二十三年法律第百二十九号）に定める特別審査委員会、国民健康保険法に定める国民健康保険診療報酬審査委員会又は同法第四十五条第六項に規定する厚生労働大臣が指定する法人に設置される診療報酬の審査に関する組織の意見を聴いて決定した額に基づいて、その小児慢性特定疾病医療費を支払うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第十九条の二十第四項に規定する厚生労働省令で定める者は、国民健康保険法第四十五条第六項に規定する厚生労働大臣が指定する法人とする。</Sentence>
             </ParagraphSentence>
@@ -3874,7 +3874,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の場合において、都道府県は、当該指定療育機関に対し、都道府県知事が当該指定療育機関の所在する都道府県の社会保険診療報酬支払基金事務所に設けられた審査委員会、社会保険診療報酬支払基金法に定める特別審査委員会、国民健康保険法に定める国民健康保険診療報酬審査委員会又は同法第四十五条第六項に規定する厚生労働大臣が指定する法人に設置される診療報酬の審査に関する組織の意見を聴いて決定した額に基づいて、その診療報酬を支払うものとする。</Sentence>
             </ParagraphSentence>
@@ -3898,7 +3898,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">療育の給付を行うときは、第十一号様式による療育券によるものとする。</Sentence>
             </ParagraphSentence>
@@ -4150,13 +4150,13 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">所得割の額を算定する場合には、通所給付決定保護者又は当該通所給付決定保護者と同一の世帯に属する者が指定都市の区域内に住所を有する者であるときは、これらの者を指定都市以外の市町村の区域内に住所を有する者とみなして、所得割の額を算定するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">所得割の額を算定する場合には、通所給付決定保護者又は当該通所給付決定保護者と同一の世帯に属する者が地方税法第二百九十二条第一項第十一号イ中「夫と死別し、若しくは夫と離婚した後婚姻をしていない者又は夫の生死の明らかでない者で政令で定めるもの」とあるのを「婚姻によらないで母となつた女子であつて、現に婚姻をしていないもの」と読み替えた場合に同号イに該当する所得割の納税義務者又は同項第十二号中「妻と死別し、若しくは妻と離婚した後婚姻をしていない者又は妻の生死の明らかでない者で政令で定めるもの」とあるのを「婚姻によらないで父となつた男子であつて、現に婚姻をしていないもの」と読み替えた場合に同号に該当する所得割の納税義務者であるときは、同法第三百十四条の二第一項第八号に規定する額（当該者が同法第二百九十二条第一項第十一号イ中「夫と死別し、若しくは夫と離婚した後婚姻をしていない者又は夫の生死の明らかでない者で政令で定めるもの」とあるのを「婚姻によらないで母となつた女子であつて、現に婚姻をしていないもの」と読み替えた場合に同法第三百十四条の二第三項に該当する者であるときは、同項に規定する額）に同法第三百十四条の三第一項に規定する率を乗じて得た額を控除するものとする。</Sentence>
             </ParagraphSentence>
@@ -4219,7 +4219,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の申請書には、同項第三号に掲げる額を証する書類を添付しなければならない。</Sentence>
             </ParagraphSentence>
@@ -4294,7 +4294,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の申請書には、次の各号に掲げる書類を添付しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、市町村は、当該書類により証明すべき事実を公簿等によつて確認することができるときは、当該書類を省略させることができる。</Sentence>
@@ -4319,32 +4319,32 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">市町村は、前二項に規定するもののほか、第十八条の十第一号に掲げる事項を勘案するため必要があると認めるときは、医師の診断書の提出を求めるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">通所給付決定保護者は、毎年、第二項第一号及び第二号に掲げる書類を市町村に提出しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、市町村は、当該書類により証明すべき事実を公簿等によつて確認することができるときは、当該書類を省略させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の書類の提出を受けた市町村は、障害児通所支援負担上限月額等（障害児通所支援負担上限月額及び肢体不自由児通所医療負担上限月額をいう。以下同じ。）を変更する必要があると認めるときは、通所給付決定保護者に対し通所受給者証の提出を求めるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の規定により通所受給者証の提出を受けた市町村は、通所受給者証に必要な事項を記載し、これを当該通所給付決定保護者に返還するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="7" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">通所給付決定保護者は、通所給付決定の有効期間（法第二十一条の五の七第八項に規定する通所給付決定の有効期間をいう。以下同じ。）内において、第一項第一号若しくは第二号に掲げる事項又は障害児通所支援負担上限月額等の算定のために必要な事項に変更があつたときは、次の各号に掲げる事項を記載した届出書に通所受給者証を添えて市町村に提出しなければならない。</Sentence>
             </ParagraphSentence>
@@ -4374,20 +4374,20 @@
             </Item>
           </Paragraph>
           <Paragraph Num="8" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の届出書には、同項第三号の事項を証する書類を添付しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、市町村は、当該書類により証明すべき事実を公簿等によつて確認することができるときは、当該書類を省略させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="9" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">市町村は、通所受給者証を破り、汚し、又は失つた通所給付決定保護者から、通所給付決定の有効期間内において、通所受給者証の再交付の申請があつたときは、通所受給者証を交付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="10" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の申請をしようとする通所給付決定保護者は、次の各号に掲げる事項を記載した申請書を市町村に提出しなければならない。</Sentence>
             </ParagraphSentence>
@@ -4411,13 +4411,13 @@
             </Item>
           </Paragraph>
           <Paragraph Num="11" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">通所受給者証を破り、又は汚した場合の第九項の申請には、前項の申請書にその通所受給者証を添えなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="12" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">通所受給者証の再交付を受けた後、失つた通所受給者証を発見したときは、速やかにこれを市町村に返還しなければならない。</Sentence>
             </ParagraphSentence>
@@ -4619,7 +4619,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">通所給付決定を行つた日が月の初日である場合にあつては、前項の規定にかかわらず、一月間から十二月間までの範囲内で月を単位として市町村が定める期間を通所給付決定の有効期間とする。</Sentence>
             </ParagraphSentence>
@@ -4778,7 +4778,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の通所給付決定保護者の通所受給者証が既に市町村に提出されているときは、市町村は、同項の規定にかかわらず、同項の通知に同項第二号及び第三号に掲げる事項を記載することを要しない。</Sentence>
             </ParagraphSentence>
@@ -4794,7 +4794,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第十八条の九の規定は法第二十一条の五の八第三項において準用する法第二十一条の五の六第三項の調査について、第十八条の十二及び第十八条の十三の規定は法第二十一条の五の八第三項において準用する法第二十一条の五の七第四項の障害児支援利用計画案の提出について、第十八条の十四及び第十八条の十五の規定は法第二十一条の五の八第三項において準用する法第二十一条の五の七第五項の障害児支援利用計画案の提出について、第十八条の十六の規定は法第二十一条の五の八第三項において準用する法第二十一条の五の七第七項の支給量について、第十八条の十八（第四号に限る。）の規定は法第二十一条の五の八第三項において準用する法第二十一条の五の七第九項の通所受給者証の交付について準用する。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、第十八条の十二から第十八条の十四までの規定中「法第二十一条の五の六第一項」とあるのは、「法第二十一条の五の八第一項」と読み替えるものとする。</Sentence>
@@ -4828,7 +4828,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の通所給付決定保護者の通所受給者証が既に市町村に提出されているときは、市町村は、同項の規定にかかわらず、同項の通知に同項第二号及び第三号に掲げる事項を記載することを要しない。</Sentence>
             </ParagraphSentence>
@@ -4900,7 +4900,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の申請書には、同項第二号及び第三号に掲げる額を証する書類を添付しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、市町村は、当該書類により証明すべき事実を公簿等によつて確認することができるときは、当該書類を省略させることができる。</Sentence>
@@ -4989,7 +4989,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">法第二十一条の五の十六第一項の規定に基づき児童発達支援に係る指定障害児通所支援事業者の指定の更新を受けようとする者は、前項各号（第三号及び第十一号を除く。）に掲げる事項及び次に掲げる事項を記載した申請書又は書類を、当該指定に係る事業所の所在地を管轄する都道府県知事に提出しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、前項第四号に掲げる事項を記載した申請書又は書類（登記事項証明書を除く。）については、都道府県知事が、インターネットを利用して当該事項を閲覧することができる場合は、この限りでない。</Sentence>
@@ -5008,13 +5008,13 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、都道府県知事は、当該申請に係る事業者が既に当該都道府県知事に提出している第一項第四号から第十号までに掲げる事項に変更がないときは、これらの事項に係る申請書の記載又は書類の提出を省略させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第一項及び第二項本文の規定にかかわらず、都道府県知事は、当該指定又は当該指定の更新（児童発達支援に係るものに限る。次項において同じ。）を受けようとする者が介護保険法第七十条第一項の規定に基づき第十八条の三十五の三に定める種類の居宅サービスに係る指定居宅サービス事業者の指定を受けている場合又は障害者の日常生活及び社会生活を総合的に支援するための法律第三十六条第一項の規定に基づき第十八条の三十五の六に定める種類の障害福祉サービスに係る指定障害福祉サービス事業者の指定を受けている場合において、次の各号に掲げる規定に掲げる事項に係る申請書又は書類を既に都道府県知事に提出しているときは、当該各号に定める規定に掲げる事項に係る申請書の記載又は書類の提出を省略させることができる。</Sentence>
             </ParagraphSentence>
@@ -5064,7 +5064,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="5" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第一項及び第二項本文の規定にかかわらず、都道府県知事は、当該指定又は当該指定の更新を受けようとする者が介護保険法第七十八条の二第一項の規定に基づき第十八条の三十五の四に定める種類の地域密着型サービスに係る指定地域密着型サービス事業者の指定を受けている場合又は同法第百十五条の十二第一項の規定に基づき第十八条の三十五の五に定める種類の指定地域密着型介護予防サービス事業者の指定を受けている場合において、次の各号に掲げる規定に掲げる事項に係る申請書又は書類を既に市町村長に提出しているときは、当該各号に定める規定に掲げる事項に係る申請書の記載又は書類の提出は、これらの指定に係る申請の書類の写しを提出することにより行わせることができる。</Sentence>
             </ParagraphSentence>
@@ -5202,7 +5202,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">法第二十一条の五の十六第一項の規定に基づき医療型児童発達支援に係る指定障害児通所支援事業者の指定の更新を受けようとする者は、前項各号（第三号及び第十二号を除く。）に掲げる事項及び次に掲げる事項を記載した申請書又は書類を、当該指定に係る事業所の所在地を管轄する都道府県知事に提出しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、前項第四号に掲げる事項を記載した申請書又は書類（登記事項証明書を除く。）については、都道府県知事が、インターネットを利用して当該事項を閲覧することができる場合は、この限りでない。</Sentence>
@@ -5221,7 +5221,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、都道府県知事は、当該申請に係る事業者が既に当該都道府県知事に提出している第一項第四号から第十一号までに掲げる事項に変更がないときは、これらの事項に係る申請書の記載又は書類の提出を省略させることができる。</Sentence>
             </ParagraphSentence>
@@ -5309,7 +5309,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">法第二十一条の五の十六第一項の規定に基づき放課後等デイサービスに係る指定障害児通所支援事業者の指定の更新を受けようとする者は、前項各号（第三号及び第十一号を除く。）に掲げる事項及び次に掲げる事項を記載した申請書又は書類を、当該指定に係る事業所の所在地を管轄する都道府県知事に提出しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、前項第四号に掲げる事項を記載した申請書又は書類（登記事項証明書を除く。）については、都道府県知事が、インターネットを利用して当該事項を閲覧することができる場合は、この限りでない。</Sentence>
@@ -5328,13 +5328,13 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、都道府県知事は、当該申請に係る事業者が既に当該都道府県知事に提出している第一項第四号から第十号までに掲げる事項に変更がないときは、これらの事項に係る申請書の記載又は書類の提出を省略させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第十八条の二十七第四項及び第五項の規定は、放課後等デイサービスに係る指定障害児通所支援事業者の指定の申請に準用する。</Sentence>
             </ParagraphSentence>
@@ -5416,7 +5416,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">法第二十一条の五の十六第一項の規定に基づき居宅訪問型児童発達支援に係る指定障害児通所支援事業者の指定の更新を受けようとする者は、前項各号（第三号及び第十号を除く。）に掲げる事項及び次に掲げる事項を記載した申請書又は書類を、当該指定に係る事業所の所在地を管轄する都道府県知事に提出しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、前項第四号に掲げる事項を記載した申請書又は書類（登記事項証明書を除く。）については、都道府県知事が、インターネットを利用して当該事項を閲覧することができる場合は、この限りでない。</Sentence>
@@ -5435,7 +5435,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、都道府県知事は、当該申請に係る事業者が既に当該都道府県知事に提出している第一項第四号から第九号までに掲げる事項に変更がないときは、これらの事項に係る申請書の記載又は書類の提出を省略させることができる。</Sentence>
             </ParagraphSentence>
@@ -5517,7 +5517,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">法第二十一条の五の十六第一項の規定に基づき保育所等訪問支援に係る指定障害児通所支援事業者の指定の更新を受けようとする者は、前項各号（第三号及び第十号を除く。）に掲げる事項及び次に掲げる事項を記載した申請書又は書類を、当該指定に係る事業所の所在地を管轄する都道府県知事に提出しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、前項第四号に掲げる事項を記載した申請書又は書類（登記事項証明書を除く。）については、都道府県知事が、インターネットを利用して当該事項を閲覧することができる場合は、この限りでない。</Sentence>
@@ -5536,7 +5536,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、都道府県知事は、当該申請に係る事業者が既に当該都道府県知事に提出している第一項第四号から第九号までに掲げる事項に変更がないときは、これらの事項に係る申請書の記載又は書類の提出を省略させることができる。</Sentence>
             </ParagraphSentence>
@@ -5560,7 +5560,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の規定は、法第二十一条の五の十五第三項第七号の厚生労働省令で定める同号本文に規定する指定の取消しに該当しないこととすることが相当であると認められる場合について準用する。</Sentence>
             </ParagraphSentence>
@@ -5593,7 +5593,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第二十一条の五の十五第三項第七号の厚生労働省令で定める申請者の親会社等がその事業を実質的に支配し、又はその事業に重要な影響を与える関係にある者は、次に掲げる者とする。</Sentence>
             </ParagraphSentence>
@@ -5617,7 +5617,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第二十一条の五の十五第三項第七号の厚生労働省令で定める申請者がその事業を実質的に支配し、又はその事業に重要な影響を与える関係にある者は、次に掲げる者とする。</Sentence>
             </ParagraphSentence>
@@ -5641,7 +5641,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第二十一条の五の十五第三項第七号の厚生労働省令で定める密接な関係を有する法人は、次の各号のいずれにも該当する法人とする。</Sentence>
             </ParagraphSentence>
@@ -5706,7 +5706,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の規定は、法第二十一条の五の十六第一項の指定障害児通所支援事業者（法第二十一条の五の三第一項に規定する指定障害児通所支援事業者をいう。）の指定の更新について準用する。</Sentence>
             </ParagraphSentence>
@@ -5808,19 +5808,19 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の届出であつて、同項第一号から第三号までに掲げる障害児通所支援の利用者の定員の増加に伴うものは、それぞれ当該障害児通所支援に係る従業者の勤務の体制及び勤務形態を記載した書類を添付して行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">指定障害児通所支援事業者は、休止した当該指定通所支援の事業を再開したときは、再開した年月日を当該指定障害児通所支援事業者の事業所の所在地を管轄する都道府県知事に届け出なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">指定障害児通所支援事業者は、当該指定通所支援の事業を廃止し、又は休止しようとするときは、その廃止又は休止の日の一月前までに、次に掲げる事項を当該指定障害児通所支援事業者の事業所の所在地を管轄する都道府県知事に届け出なければならない。</Sentence>
             </ParagraphSentence>
@@ -5991,7 +5991,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の届出は、介護保険法第七十八条の五第二項又は第百十五条の十五第二項の規定による届出の書類の写しを提出することにより行うことができる。</Sentence>
             </ParagraphSentence>
@@ -6006,19 +6006,19 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第二十四条の十五第二項及び第二十四条の十九の二において準用する法第二十一条の五の二十七第五項において準用する法第十九条の十六第二項の規定により当該職員が携帯すべき証明書の様式は、第十三号の五様式のとおりとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第二十四条の三十四第二項及び第二十四条の三十九第五項において準用する法第十九条の十六第二項の規定により当該職員が携帯すべき証明書の様式は、第十三号の六様式のとおりとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第五十七条の三第四項、第五十七条の三の二第二項及び第五十七条の三の三第七項において準用する法第十九条の十六第二項の規定により当該職員が携帯すべき証明書の様式は、第十三号の七様式のとおりとする。</Sentence>
             </ParagraphSentence>
@@ -6099,13 +6099,13 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">指定障害児事業者等は、前項の規定により届け出た事項に変更があつたときは、遅滞なく、当該変更に係る事項について、法第二十一条の五の二十六第二項各号に掲げる区分に応じ、厚生労働大臣等に届け出なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">指定障害児事業者等は、法第二十一条の五の二十六第二項各号に掲げる区分に変更があつたときは、変更後の届出書を、変更後の区分により届け出るべき厚生労働大臣等及び変更前の区分により届け出るべき厚生労働大臣等の双方に届け出なければならない。</Sentence>
             </ParagraphSentence>
@@ -6147,7 +6147,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">通所給付決定に係る障害児が法第二十一条の五の二十九第一項に規定する指定障害児通所支援事業者等から肢体不自由児通所医療を受けたときは、同条第四項の規定に基づき通所給付決定保護者に支給すべき肢体不自由児通所医療費は当該指定障害児通所支援事業者等に対して支払うものとする。</Sentence>
             </ParagraphSentence>
@@ -6294,13 +6294,13 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の場合において、市町村は、当該指定障害児通所支援事業者等に対し、都道府県知事が当該指定障害児通所支援事業者等の所在地の都道府県の社会保険診療報酬支払基金事務所に置かれた審査委員会、社会保険診療報酬支払基金法に定める特別審査委員会、国民健康保険法に定める国民健康保険診療報酬審査委員会、同法第四十五条第六項に規定する厚生労働大臣が指定する法人に設置される診療報酬の審査に関する組織又は介護保険法第百七十九条に規定する介護給付費等審査委員会の意見を聴いて決定した額に基づいて、その肢体不自由児通所医療費を支払うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第二十一条の五の三十において準用する法第十九条の二十第四項に規定する厚生労働省令で定める者は、国民健康保険法第四十五条第六項に規定する厚生労働大臣が指定する法人とする。</Sentence>
             </ParagraphSentence>
@@ -6393,7 +6393,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第二十三条第二項に規定する厚生労働省令の定める事項は、次のとおりとする。</Sentence>
             </ParagraphSentence>
@@ -6417,26 +6417,26 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第二十二条第二項前段又は第二十三条第二項前段に規定する申込書は、市及び福祉事務所を設置する町村の区域内に居住地を有する助産の実施を希望する妊産婦又は母子保護の実施を希望する保護者（以下この条において「助産の実施希望者等」という。）にあつてはその居住地の市町村に、福祉事務所を設置しない町村の区域内に居住地を有する助産の実施希望者等にあつてはその居住地の都道府県に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の申込書には、法第五十六条第二項の規定により徴収する額の決定のために必要な事項に関する書類を添えなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、都道府県、市及び福祉事務所を設置する町村（以下「都道府県等」という。）は、当該書類により証明すべき事実を公簿等によつて確認することができるときは、当該書類を省略させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第二十二条第二項後段又は第二十三条第二項後段の規定により申込書の提出を代行する助産施設又は母子生活支援施設は、都道府県等との連携に努めるとともに、助産の実施希望者等の依頼を受けたときは、速やかに、市及び福祉事務所を設置する町村の区域内に居住地を有する当該助産の実施希望者等にあつてはその居住地の市町村に、福祉事務所を設置しない町村の区域内に居住地を有する当該助産の実施希望者等にあつてはその居住地の都道府県に当該申込書を提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県等は、それぞれの設置する福祉事務所の所管区域内における妊産婦が保健上必要であるにもかかわらず経済的理由により入院助産を受けることができない場合又はそれぞれの設置する福祉事務所の所管区域内における保護者が配偶者のない女子若しくはこれに準ずる事情にある女子であつてその者の監護すべき児童の福祉に欠けるところがある場合において、助産の実施又は母子保護の実施を行う必要があると認めたときは、第三項による申込みがない場合においても、その妊産婦又は保護者に対し、助産の実施又は母子保護の実施の申込みを勧奨しなければならない。</Sentence>
             </ParagraphSentence>
@@ -6499,7 +6499,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第二十三条第五項に規定する厚生労働省令の定める事項は、次のとおりとする。</Sentence>
             </ParagraphSentence>
@@ -6553,7 +6553,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">法第二十二条第四項及び第二十三条第五項に規定する情報の提供は、地域住民が当該情報を自由に利用できるような方法で行うものとする。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、母子生活支援施設の位置に関する情報にあつては、当該母子生活支援施設に入所した者の安全の確保のため必要があると認めるときは、同条第一項に規定する保護者であつて母子生活支援施設への入所を希望するもの又は当該者の依頼を受けた者が直接その提供を受ける方法で行うものとする。</Sentence>
@@ -6719,7 +6719,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の申請書には、次の各号に掲げる書類を添付しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、都道府県は、当該書類により証明すべき事実を公簿等によつて確認することができるときは、当該書類を省略させることができる。</Sentence>
@@ -6744,32 +6744,32 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県は、前二項に規定するもののほか、次条第一号に掲げる事項を勘案するため必要があると認めるときは、医師の診断書の提出を求めるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">入所給付決定保護者は、毎年、第二項第一号及び第二号に掲げる書類を都道府県に提出しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、都道府県は、当該書類により証明すべき事実を公簿等によつて確認することができるときは、当該書類を省略させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の書類の提出を受けた都道府県は、障害児入所支援負担上限月額等（障害児入所支援負担上限月額、障害児入所医療負担上限月額及び法第二十四条の二十第二項第二号の厚生労働大臣が定める額をいう。以下同じ。）を変更する必要があると認めるときは、入所給付決定保護者に対し入所受給者証の提出を求めるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の規定により入所受給者証の提出を受けた都道府県は、入所受給者証に必要な事項を記載し、これを当該入所給付決定保護者に返還するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="7" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">入所給付決定保護者は、第二十五条の十一第五号に定める期間内において、第一項第一号若しくは第二号に掲げる事項又は障害児入所支援負担上限月額等の算定のために必要な事項に変更があつたときは、次の各号に掲げる事項を記載した届出書に入所受給者証を添えて都道府県に提出しなければならない。</Sentence>
             </ParagraphSentence>
@@ -6799,20 +6799,20 @@
             </Item>
           </Paragraph>
           <Paragraph Num="8" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の届出書には、同項第三号の事項を証する書類を添付しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、都道府県は、当該書類により証明すべき事実を公簿等によつて確認することができるときは、当該書類を省略させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="9" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県は、入所受給者証を破り、汚し、又は失つた入所給付決定保護者から、第二十五条の十一第五号に定める期間内において、受給者証の再交付の申請があつたときは、入所受給者証を交付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="10" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の申請をしようとする入所給付決定保護者は、次の各号に掲げる事項を記載した申請書を都道府県に提出しなければならない。</Sentence>
             </ParagraphSentence>
@@ -6836,13 +6836,13 @@
             </Item>
           </Paragraph>
           <Paragraph Num="11" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">入所受給者証を破り、又は汚した場合の第九項の申請には、前項の申請書にその入所受給者証を添えなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="12" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">入所受給者証の再交付を受けた後、失つた入所受給者証を発見したときは、速やかにこれを都道府県に返還しなければならない。</Sentence>
             </ParagraphSentence>
@@ -7026,7 +7026,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の入所給付決定保護者の入所受給者証が既に都道府県に提出されているときは、都道府県は、同項の規定にかかわらず、同項の通知に同項第二号及び第三号に掲げる事項を記載することを要しない。</Sentence>
             </ParagraphSentence>
@@ -7107,7 +7107,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の申請書には、同項第二号及び第三号に掲げる額を証する書類を添付しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、都道府県は、当該書類により証明すべき事実を公簿等によつて確認することができるときは、当該書類を省略させることができる。</Sentence>
@@ -7144,13 +7144,13 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の申請書には、入所受給者証を添付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県は、第一項の申請に基づき特定入所障害児食費等給付費の支給の決定を行つたときは、次の各号に掲げる事項を入所受給者証に記載することとする。</Sentence>
             </ParagraphSentence>
@@ -7168,7 +7168,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第二十五条の七第四項から第六項まで及び第二十五条の九の規定は、特定入所障害児食費等給付費の支給について準用する。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、第二十五条の七第四項中「第二項第一号及び第二号に掲げる書類」とあるのは、「入所受給者証」とする。</Sentence>
@@ -7272,7 +7272,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">法第二十四条の十第一項の規定に基づき指定障害児入所施設の指定の更新を受けようとする者は、前項各号（第三号及び第十二号を除く。）に掲げる事項及び次に掲げる事項を記載した申請書又は書類を、当該指定に係る事業所の所在地を管轄する都道府県知事に提出しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、前項第四号に掲げる事項を記載した申請書又は書類（登記事項証明書を除く。）については、都道府県知事が、インターネットを利用して当該事項を閲覧することができる場合は、この限りでない。</Sentence>
@@ -7291,7 +7291,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、都道府県知事は、当該申請に係る事業者が既に当該都道府県知事に提出している第一項第四号から第十一号までに掲げる事項に変更がないときは、これらの事項に係る申請書の記載又は書類の提出を省略させることができる。</Sentence>
             </ParagraphSentence>
@@ -7306,7 +7306,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の規定は、法第二十四条の十第一項の指定障害児入所施設の指定の更新について準用する。</Sentence>
             </ParagraphSentence>
@@ -7331,7 +7331,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第二十四条の十四の規定に基づき指定を辞退しようとする指定障害児入所施設の設置者は、次に掲げる事項を当該指定障害児入所施設の所在地の都道府県知事に申し出なければならない。</Sentence>
             </ParagraphSentence>
@@ -7448,13 +7448,13 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">指定障害児入所施設等の設置者は、前項の規定により届け出た事項に変更があつたときは、遅滞なく、当該変更に係る事項について、法第二十四条の十九の二において準用する法第二十一条の五の二十六第二項各号に掲げる区分に応じ、厚生労働大臣等に届け出なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">指定障害児入所施設等の設置者は、法第二十四条の十九の二において準用する法第二十一条の五の二十六第二項各号に掲げる区分に変更があつたときは、変更後の届出書を、変更後の区分により届け出るべき厚生労働大臣等及び変更前の区分により届け出るべき厚生労働大臣等の双方に届け出なければならない。</Sentence>
             </ParagraphSentence>
@@ -7487,7 +7487,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">入所給付決定に係る障害児が指定障害児入所施設等から障害児入所医療を受けたときは、法第二十四条の二十第三項の規定に基づき入所給付決定保護者に支給すべき障害児入所医療費は当該指定障害児入所施設等に対して支払うものとする。</Sentence>
             </ParagraphSentence>
@@ -7635,7 +7635,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、要保護者（生活保護法第六条第二項に規定する要保護者をいう。）である者であつて、令第二十七条の十三第二項第二号の食事療養標準負担額を負担することとしたならば保護を必要とする状態となる者であつて、同条第二項の規定により読み替えて適用する同条第一項第一号から第三号までに規定する入所給付決定保護者の所得の状況等を勘案して定める額を千円（十八歳以上の入所者にあつては、一万円）としたならば保護を必要としない状態となるものに係る当該額は、千円（十八歳以上の入所者にあつては、一万円）とする。</Sentence>
             </ParagraphSentence>
@@ -7650,13 +7650,13 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の場合において、都道府県知事は、当該指定障害児入所施設等に対し、都道府県知事が当該指定障害児入所施設等の所在地の都道府県の社会保険診療報酬支払基金事務所に置かれた審査委員会、社会保険診療報酬支払基金法に定める特別審査委員会、国民健康保険法に定める国民健康保険診療報酬審査委員会、同法第四十五条第六項に規定する厚生労働大臣が指定する法人に設置される診療報酬の審査に関する組織又は介護保険法第百七十九条に規定する介護給付費等審査委員会の意見を聴いて決定した額に基づいて、その障害児入所医療費を支払うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第二十四条の二十一において準用する法第十九条の二十第四項に規定する厚生労働省令で定める者は、国民健康保険法第四十五条第六項に規定する厚生労働大臣が指定する法人とする。</Sentence>
             </ParagraphSentence>
@@ -7692,19 +7692,19 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の申請書には、通所受給者証を添付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">市町村は、第一項の申請を行つた障害児相談支援対象保護者が法第二十四条の二十六第一項各号に規定する障害児相談支援を受けたと認めるときは、障害児相談支援給付費を支給する期間（以下この条及び次条において「支給期間」という。）及び法第六条の二の二第九項に規定する厚生労働省令で定める期間等を定めて当該障害児相談支援対象保護者に通知するとともに、支給期間及び同項に規定する厚生労働省令で定める期間等を通所受給者証に記載することとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">支給期間は、障害児支援利用援助を実施する月から通所給付決定保護者に係る通所給付決定の有効期間の範囲内で月を単位として市町村が定める期間とする。</Sentence>
             </ParagraphSentence>
@@ -7731,7 +7731,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の規定により障害児相談支援給付費の支給を行わないこととした市町村は、次の各号に掲げる事項を書面により当該障害児相談支援給付費に係る障害児相談支援対象保護者に通知し、通所受給者証の提出を求めるものとする。</Sentence>
             </ParagraphSentence>
@@ -7755,13 +7755,13 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の障害児相談支援対象保護者の通所受給者証が既に市町村に提出されているときは、市町村は、同項の規定にかかわらず、同項の通知に同項第二号及び第三号に掲げる事項を記載することを要しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">市町村は、第一項の規定に基づき障害児相談支援給付費の支給を行わないこととした場合には、通所受給者証にその旨を記載し、これを返還するものとする。</Sentence>
             </ParagraphSentence>
@@ -7852,7 +7852,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第二十四条の二十八第一項に規定する厚生労働省令で定める基準は、次の各号に定めるところによる。</Sentence>
             </ParagraphSentence>
@@ -7876,7 +7876,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">法第二十四条の二十九第一項の規定に基づき指定障害児相談支援事業者の指定の更新を受けようとする者は、第一項各号（第三号及び第十号を除く。）に掲げる事項及び次に掲げる事項を記載した申請書又は書類を、当該指定に係る事業所の所在地を管轄する市町村長に提出しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一項第四号に掲げる事項を記載した申請書又は書類（登記事項証明書を除く。）については、市町村長が、インターネットを利用して当該事項を閲覧することができる場合は、この限りでない。</Sentence>
@@ -7895,7 +7895,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、市町村長は、当該申請に係る事業者が既に当該市町村長に提出している第一項第四号から第九号までに掲げる事項に変更がないときは、これらの事項に係る申請書の記載又は書類の提出を省略させることができる。</Sentence>
             </ParagraphSentence>
@@ -7911,13 +7911,13 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">指定障害児相談支援事業者は、休止した当該指定障害児相談支援の事業を再開したときは、再開した年月日を当該指定障害児相談支援事業者の事業所の所在地を管轄する市町村長に届け出なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">指定障害児相談支援事業者は、当該指定障害児相談支援の事業を廃止し、又は休止しようとするときは、その廃止又は休止の日の一月前までに、次に掲げる事項を当該指定障害児相談支援事業者の事業所の所在地を管轄する市町村長に届け出なければならない。</Sentence>
             </ParagraphSentence>
@@ -8040,13 +8040,13 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">指定障害児相談支援事業者は、前項の規定により届け出た事項に変更があつたときは、遅滞なく、当該変更に係る事項について、法第二十四条の三十八第二項各号に掲げる区分に応じ、厚生労働大臣等に届け出なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">指定障害児相談支援事業者は、法第二十四条の三十八第二項各号に掲げる区分に変更があつたときは、変更後の届出書を、変更後の区分により届け出るべき厚生労働大臣等及び変更前の区分により届け出るべき厚生労働大臣等の双方に届け出なければならない。</Sentence>
             </ParagraphSentence>
@@ -8127,13 +8127,13 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">地方公共団体（市町村を除く。）の設置した要保護児童対策地域協議会（当該地方公共団体が市町村と共同して設置したものを除く。）に係る要保護児童対策調整機関は、法第二十五条の二第七項の規定に基づき、職員の能力の向上のための研修の機会の確保に努めるとともに、調整担当者を置くように努めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第二十五条の二第六項に規定する厚生労働省令で定めるものは、児童福祉司たる資格を有する者又はこれに準ずる者として次の各号のいずれかに該当する者とする。</Sentence>
             </ParagraphSentence>
@@ -8379,7 +8379,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">児童自立生活援助事業者は、利用者に対し、対人関係、健康管理、余暇活用及び家事その他の利用者が自立した日常生活及び社会生活を営むために必要な事項に関する相談、指導その他の援助を行うものとする。</Sentence>
             </ParagraphSentence>
@@ -8422,7 +8422,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">指導員の数は、次のとおりとする。</Sentence>
             </ParagraphSentence>
@@ -8442,7 +8442,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">指導員は、法第三十四条の二十第一項各号に規定する者並びに精神の機能の障害により指導員の業務を適正に行うに当たつて必要な認知、判断及び意思疎通を適切に行うことができない者のいずれにも該当しない者であつて、児童の自立支援に熱意を有し、かつ、次の各号に規定する者のいずれかに該当するものでなければならない。</Sentence>
             </ParagraphSentence>
@@ -8472,7 +8472,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">補助員は、法第三十四条の二十第一項各号に規定する者並びに精神の機能の障害により補助員の業務を適正に行うに当たつて必要な認知、判断及び意思疎通を適切に行うことができない者のいずれにも該当しない者でなければならない。</Sentence>
             </ParagraphSentence>
@@ -8526,14 +8526,14 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の費用の額は、入居者の経済的負担を勘案した適正な額とするよう配慮しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">また、当該額は、運営規程に定めた額を超えてはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">児童自立生活援助事業者は、第一項の費用の額に係る児童自立生活援助の提供に当たつては、あらかじめ、入居者に対し、当該児童自立生活援助の内容及び費用について説明を行い、入居者の同意を得なければならない。</Sentence>
             </ParagraphSentence>
@@ -8548,7 +8548,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">児童自立生活援助事業所の管理者は、当該児童自立生活援助事業所の職員にこの省令の規定を遵守させるために必要な指揮命令を行うものとする。</Sentence>
             </ParagraphSentence>
@@ -8641,7 +8641,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">児童自立生活援助事業者は、入居定員を超えて入居させてはならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、災害その他のやむを得ない事情がある場合は、この限りでない。</Sentence>
@@ -8666,7 +8666,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">児童自立生活援助事業者は、入居者の退居に際しては、当該入居者に対し、適切な相談その他の援助を行うとともに、福祉サービスを提供する者又は当該入居者の職場等との密接な連携に努めなければならない。</Sentence>
             </ParagraphSentence>
@@ -8681,7 +8681,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">児童自立生活援助事業者は、児童自立生活援助事業所において感染症又は食中毒が発生し、又はまん延しないように必要な措置を講ずるよう努めなければならない。</Sentence>
             </ParagraphSentence>
@@ -8696,7 +8696,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">食事は、前項の規定によるほか、食品の種類及び調理方法について栄養並びに入居者の身体的状況及び嗜好を考慮したものでなければならない。</Sentence>
             </ParagraphSentence>
@@ -8711,13 +8711,13 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">児童自立生活援助事業者は、前項の保管を行うに当たつては、入居者に対し、あらかじめ定めた保管の方法及び保管の状況の報告の方法について説明を行い、入居者の同意を得なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">児童自立生活援助事業者は、入居者に対し、一月に一回以上、第一項の保管の状況について報告しなければならない。</Sentence>
             </ParagraphSentence>
@@ -8732,7 +8732,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">児童自立生活援助事業者は、職員であつた者が、正当な理由がなく、その業務上知り得た利用者又はその家族の秘密を漏らすことがないよう、必要な措置を講じなければならない。</Sentence>
             </ParagraphSentence>
@@ -8756,7 +8756,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">児童自立生活援助事業者は、苦情の公正な解決を図るために、苦情の解決に当たつて当該児童自立生活援助事業所の職員以外の者を関与させなければならない。</Sentence>
             </ParagraphSentence>
@@ -8816,26 +8816,26 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第三十三条の六第二項前段に規定する申込書は、児童自立生活援助実施希望者の居住地の都道府県に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の申込書には、法第五十六条第二項の規定により徴収する額の決定のために必要な事項に関する書類を添えなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、都道府県は、当該書類により証明すべき事実を公簿等によつて確認することができるときは、当該書類を省略させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第三十三条の六第二項後段の規定により申込書の提出を代行する児童自立生活援助事業者は、都道府県との連携に努めるとともに、児童自立生活援助実施希望者の依頼を受けたときは、速やかに、当該児童自立生活援助実施希望者の居住地の都道府県に当該申込書を提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県は、満二十歳未満義務教育終了児童等であつて児童自立生活援助の実施を行う必要があると認めた者に対しては、第二項による申込みがない場合においても、児童自立生活援助の実施の申込みを勧奨しなければならない。</Sentence>
             </ParagraphSentence>
@@ -8910,7 +8910,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">法第三十三条の六第五項に規定する情報の提供は、満二十歳未満義務教育終了児童等、満二十歳以上義務教育終了児童等その他関係者が当該情報を自由に利用できるような方法で行うものとする。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、児童自立生活援助事業所の位置に関する情報にあつては、当該児童自立生活援助事業所に入居した者の安全の確保のため必要があると認めるときは、同条第一項に規定する満二十歳未満義務教育終了児童等若しくは満二十歳以上義務教育終了児童等であつて児童自立生活援助事業所への入居を希望するもの又は当該者の依頼を受けた者が直接その提供を受ける方法で行うものとする。</Sentence>
@@ -9184,7 +9184,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">法第三十四条の三第二項の規定による届出を行おうとする者は、収支予算書及び事業計画書を都道府県知事に提出しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、都道府県知事が、インターネットを利用してこれらの内容を閲覧することができる場合は、この限りでない。</Sentence>
@@ -9287,7 +9287,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">法第三十四条の四第一項の規定による届出を行おうとする者は、収支予算書及び事業計画書を都道府県知事に提出しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、都道府県知事が、インターネットを利用してこれらの内容を閲覧することができる場合は、この限りでない。</Sentence>
@@ -9390,7 +9390,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">法第三十四条の八第二項の規定による届出を行おうとする者は、収支予算書及び事業計画書を市町村長に提出しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、市町村長が、インターネットを利用してこれらの内容を閲覧することができる場合は、この限りでない。</Sentence>
@@ -9502,7 +9502,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">法第三十四条の十二第一項の規定による届出を行おうとする者は、収支予算書及び事業計画書を都道府県知事に提出しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、都道府県知事が、インターネットを利用してこれらの内容を閲覧することができる場合は、この限りでない。</Sentence>
@@ -9737,7 +9737,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">一時預かり事業を行う者は、当該事業の実施による事故の発生又はその再発の防止に努めるとともに、事故が発生した場合は、速やかに当該事実を都道府県知事に報告しなければならない。</Sentence>
             </ParagraphSentence>
@@ -9788,7 +9788,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の申請をしようとする者は、次に掲げる書類を提出しなければならない。</Sentence>
             </ParagraphSentence>
@@ -9812,13 +9812,13 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第三十四条の十五第二項の認可を受けた者は、第一項第一号又は前項第二号に掲げる事項に変更があつたときは、変更のあつた日から起算して一月以内に、市町村長に届け出なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第三十四条の十五第二項の認可を受けた者は、第一項第二号若しくは第三号に掲げる事項又は経営の責任者若しくは福祉の実務に当たる幹部職員を変更しようとするときは、市町村長にあらかじめ届け出なければならない。</Sentence>
             </ParagraphSentence>
@@ -9833,7 +9833,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の規定は、法第三十四条の十五第三項第四号ホただし書の厚生労働省令で定める同号ホ本文に規定する認可の取消しに該当しないこととすることが相当であると認められる場合について準用する。</Sentence>
             </ParagraphSentence>
@@ -9872,7 +9872,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第三十四条の十五第三項第四号ホの厚生労働省令で定める申請者の親会社等がその事業を実質的に支配し、又はその事業に重要な影響を与える関係にある者は、次に掲げる者とする。</Sentence>
             </ParagraphSentence>
@@ -9902,7 +9902,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第三十四条の十五第三項第四号ホの厚生労働省令で定める申請者がその事業を実質的に支配し、又はその事業に重要な影響を与える関係にある者は、次に掲げる者とする。</Sentence>
             </ParagraphSentence>
@@ -9932,7 +9932,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第三十四条の十五第三項第四号ホの厚生労働省令で定める密接な関係を有する法人は、次の各号のいずれにも該当する法人とする。</Sentence>
             </ParagraphSentence>
@@ -10007,7 +10007,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の承認の申請を受けた市町村長は、必要な条件を付して承認を与えることができる。</Sentence>
             </ParagraphSentence>
@@ -10076,7 +10076,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">法第三十四条の十八第一項の規定による届出を行おうとする者は、収支予算書及び事業計画書を都道府県知事に提出しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、都道府県知事が、インターネットを利用してこれらの内容を閲覧することができる場合は、この限りでない。</Sentence>
@@ -10186,7 +10186,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第三十四条の十九に規定する養子縁組里親名簿には、次に掲げる事項を登録しなければならない。</Sentence>
             </ParagraphSentence>
@@ -10273,7 +10273,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">専門里親希望者は、前項各号に掲げる事項のほか、次に掲げる事項を記載した申請書を提出しなければならない。</Sentence>
             </ParagraphSentence>
@@ -10291,7 +10291,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">養子縁組里親となることを希望する者（以下「養子縁組里親希望者」という。）は、その居住地の都道府県知事に、次に掲げる事項を記載した申請書を提出しなければならない。</Sentence>
             </ParagraphSentence>
@@ -10333,7 +10333,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">第一項の申請書には、次に掲げる書類を添えなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、都道府県知事は、第五号に掲げる書類により証明すべき事実を公簿等によつて確認することができるときは、当該書類を省略させることができる。</Sentence>
@@ -10370,7 +10370,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="5" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">専門里親希望者は、前項各号（第三号を除く。）に掲げる書類のほか、次に掲げる書類を添えなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、都道府県知事は、前項第五号に掲げる書類により証明すべき事実を公簿等によつて確認することができるときは、当該書類を省略させることができる。</Sentence>
@@ -10389,7 +10389,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="6" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">第三項の申請書には、次に掲げる書類を添えなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、都道府県知事は、第五号に掲げる書類により証明すべき事実を公簿等によつて確認することができるときは、当該書類を省略させることができる。</Sentence>
@@ -10435,7 +10435,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県知事は、前条第三項の申請書を受理したときは、当該養子縁組里親希望者が次のいずれにも該当することその他要保護児童を委託する者として適当と認めるものであることを調査して、速やかに、養子縁組里親名簿に登録し、又はしないことの決定を行わなければならない。</Sentence>
             </ParagraphSentence>
@@ -10459,7 +10459,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県知事は、前二項の決定を行つたときは、遅滞なく、その旨を当該養育里親希望者、当該専門里親希望者又は当該養子縁組里親希望者に通知しなければならない。</Sentence>
             </ParagraphSentence>
@@ -10507,7 +10507,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">養育里親は、第三十六条の四十第一項各号に掲げる事項について、養子縁組里親は、同条第二項各号に掲げる事項について、それぞれ変更が生じたときは、遅滞なく、これを都道府県知事に届け出なければならない。</Sentence>
             </ParagraphSentence>
@@ -10546,7 +10546,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県知事は、次の各号のいずれかに該当する場合には、養育里親名簿又は養子縁組里親名簿の登録を消除することができる。</Sentence>
             </ParagraphSentence>
@@ -10564,7 +10564,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県知事は、専門里親として登録を受けていた者が第一条の三十七各号に掲げる要件に該当しなくなつたときは、専門里親である旨の記載を消除しなければならない。</Sentence>
             </ParagraphSentence>
@@ -10589,37 +10589,37 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の登録の更新を受けようとする者は、都道府県知事が厚生労働大臣が定める基準に従い行う研修（以下「養育里親更新研修」という。）を受けなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">養子縁組里親名簿の登録は、養子縁組里親の申請により更新する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の登録の更新を受けようとする者は、都道府県知事が厚生労働大臣が定める基準に従い行う研修（以下「養子縁組里親更新研修」という。）を受けなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前条の規定は、更新後の有効期間について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第一項又は第三項の申請があつた場合において、有効期間の満了の日までに養育里親更新研修若しくは養子縁組里親更新研修が行われないとき又は行われているがその全ての課程が修了していないときは、従前の登録は、有効期間の満了の日後もその研修が修了するまでの間は、なおその効力を有する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="7" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の場合において、登録の更新がされたときは、その有効期間は、従前の有効期間の満了の日の翌日から起算するものとする。</Sentence>
             </ParagraphSentence>
@@ -10679,13 +10679,13 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第三十五条第四項の認可を受けようとする者は、前項各号に掲げる事項を具し、これを都道府県知事に申請しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の申請をしようとする者は、次に掲げる書類を提出しなければならない。</Sentence>
             </ParagraphSentence>
@@ -10709,19 +10709,19 @@
             </Item>
           </Paragraph>
           <Paragraph Num="4" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第三十五条第三項の届出を行つた市町村は、第一項第二号若しくは第三号に掲げる事項又は経営の責任者若しくは福祉の実務に当たる幹部職員を変更しようとするときは、あらかじめ、都道府県知事に届け出なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第三十五条第三項の届出を行つた市町村又は同条第四項の認可を受けた者は、第一項第一号又は第三項第二号に掲げる事項に変更があつたときは、変更のあつた日から起算して一月以内に、都道府県知事に届け出なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第三十五条第四項の認可を受けた者は、第一項第二号若しくは第三号に掲げる事項又は経営の責任者若しくは福祉の実務に当たる幹部職員を変更しようとするときは、都道府県知事にあらかじめ届け出なければならない。</Sentence>
             </ParagraphSentence>
@@ -10736,7 +10736,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の規定は、法第三十五条第五項第四号ホただし書の厚生労働省令で定める同号ホ本文に規定する認可の取消しに該当しないこととすることが相当であると認められる場合について準用する。</Sentence>
             </ParagraphSentence>
@@ -10802,13 +10802,13 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第三十五条第十二項の規定により、児童福祉施設を廃止又は休止しようとするときは、前項各号に掲げる事項を具し、都道府県知事の承認を受けなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の承認の申請を受けた都道府県知事は、必要な条件を附して承認を与えることができる。</Sentence>
             </ParagraphSentence>
@@ -10868,7 +10868,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の申請を受理したときは、当該縁組が適当であるかどうかを調査して、速やかに、許否の決定を行い、且つ、その旨を書面をもつて通知しなければならない。</Sentence>
             </ParagraphSentence>
@@ -10934,7 +10934,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">国民健康保険団体連合会は、法第五十六条の五の二の規定により行う業務に関する国民健康保険法第八十六条において準用する同法第二十九条の規定による議決権を有する者について、規約の定めるところにより、市町村が法第二十四条の三第十一項（法第二十四条の七第二項において準用する場合を含む。）の規定により国民健康保険団体連合会に委託する事務に関して地方自治法第二百八十四条第一項に規定する一部事務組合又は広域連合を設けた場合には、総会又は代議員会の議員を、会員たる保険者（国民健康保険組合を除く。）を代表する者に代えて、当該一部事務組合又は広域連合を代表する者とすることができる。</Sentence>
             </ParagraphSentence>
@@ -11090,7 +11090,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">令第四十四条の八第二項の厚生労働省令で定める書類は、次のとおりとする。</Sentence>
             </ParagraphSentence>
@@ -11124,7 +11124,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">市町村等事務の廃止、休止又は再開については、第十八条の三十五第三項及び第四項（第三号を除く。）の規定を準用する。</Sentence>
             </ParagraphSentence>
@@ -11163,7 +11163,7 @@
             </Item>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">市町村又は都道府県は、令第四十四条の十三第二項の規定により公示するときは、次に掲げる事項について行うものとする。</Sentence>
             </ParagraphSentence>
@@ -11220,7 +11220,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">指定事務受託法人は、前項の苦情を受け付けた場合は、当該苦情の内容等を記録しなければならない。</Sentence>
             </ParagraphSentence>
@@ -11235,7 +11235,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">指定事務受託法人は、市町村等事務の実施に関する次に掲げる記録を整備し、その完結の日から二年間保存しなければならない。</Sentence>
             </ParagraphSentence>
@@ -11262,7 +11262,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第五十九条の五第二項の規定により厚生労働大臣に適用があるものとされた法第五十九条第一項に規定する証票は、第十五号様式による。</Sentence>
             </ParagraphSentence>
@@ -11625,7 +11625,7 @@
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true">
-            <ParagraphNum></ParagraphNum>
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定による報告があつたときは、その内容を当該施設の所在地の市町村長に通知するものとする。</Sentence>
             </ParagraphSentence>
@@ -12937,7 +12937,7 @@
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2" OldNum="true">
-          <ParagraphNum></ParagraphNum>
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">令和二年三月一日から令和二年改正省令の施行の日の前日までの間に医療費支給認定の有効期間が満了した小児慢性特定疾病児童等に係る医療費支給認定保護者が前項に規定する者である場合には、当該医療費支給認定については、令和二年改正省令の施行の際現に効力を有するものとみなして、同項の規定を適用する。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、同項の適用については、同項中「児童福祉法施行規則等の一部を改正する省令（令和二年厚生労働省令第九十二号）の施行の際現に効力を有する」とあるのは、「令和二年三月一日に効力を有していた」とする。</Sentence>
@@ -12953,7 +12953,7 @@
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2" OldNum="true">
-          <ParagraphNum></ParagraphNum>
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法第三十四条の十三に規定する厚生労働省令で定める基準は、乳幼児及びその保護者が相互の交流を行う場所として開設された施設又は駅周辺の施設その他の利便性の高い施設において、乳幼児を対象に一時預かり事業を行う場合には、当分の間、第三十六条の三十五第一項の規定にかかわらず、次の各号に定めるところによることができる。</Sentence>
           </ParagraphSentence>

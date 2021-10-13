@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="75" Year="25">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="75" Year="25" PromulgateMonth="06" PromulgateDay="02">
   <LawNum>平成二十五年法律第七十五号</LawNum>
   <LawBody>
-    <LawTitle>海賊多発海域における日本船舶の警備に関する特別措置法</LawTitle>
+    <LawTitle Kana="かいぞくたはつかいいきにおけるにほんせんぱくのけいびにかんするとくべつそちほう" Abbrev="日本船舶警備特措法" AbbrevKana="に">海賊多発海域における日本船舶の警備に関する特別措置法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Delete="false" Num="1">
@@ -935,7 +935,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="429052" AmendLawNum="平成二九年六月二日法律第五二号" Extract="true" Id="0747b3a4-49d6-11e7-99a6-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成二九年六月二日法律第五二号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -960,9 +960,9 @@
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="48">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
         <ArticleTitle>第四十八条</ArticleTitle>
         <Paragraph Hide="false" Num="1" OldStyle="false">
-        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
           <ParagraphNum/>
           <ParagraphSentence>
               <Sentence WritingMode="vertical">この法律(附則第一条各号に掲げる規定については、当該各規定。以下この条において同じ。)の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>

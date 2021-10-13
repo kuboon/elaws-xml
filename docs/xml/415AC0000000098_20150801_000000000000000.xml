@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="98" Year="15">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="98" Year="15" PromulgateMonth="06" PromulgateDay="18">
   <LawNum>平成十五年法律第九十八号</LawNum>
   <LawBody>
-    <LawTitle>特定産業廃棄物に起因する支障の除去等に関する特別措置法</LawTitle>
+    <LawTitle Kana="とくていさんぎょうはいきぶつにきいんするししょうのじょきょとうにかんするとくべつそちほう" Abbrev="産廃特措法" AbbrevKana="さ">特定産業廃棄物に起因する支障の除去等に関する特別措置法</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -214,7 +214,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417042" AmendLawNum="平成一七年五月一八日法律第四二号" Extract="true" Id="863e58c5-98f4-4563-a06d-bc8b7de38fcb">
+    <SupplProvision AmendLawNum="平成一七年五月一八日法律第四二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -245,7 +245,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423105" AmendLawNum="平成二三年八月三〇日法律第一〇五号" Extract="true" Id="7d947f7b-7f6f-47e1-b729-ea4fcc7722e3">
+    <SupplProvision AmendLawNum="平成二三年八月三〇日法律第一〇五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -268,7 +268,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424058" AmendLawNum="平成二四年八月二二日法律第五八号" Id="c63a6470-1927-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年八月二二日法律第五八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="59" Year="26">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="59" Year="26" PromulgateMonth="05" PromulgateDay="29" ScheduledEnforcementDate="2022/11/28">
   <LawNum>平成二十六年法律第五十九号</LawNum>
   <LawBody>
-    <LawTitle>少年鑑別所法</LawTitle>
+    <LawTitle Kana="しょうねんかんべつしょほう" Abbrev="" AbbrevKana="">少年鑑別所法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -545,7 +545,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>保護処分（更生保護法（平成十九年法律第八十八号）第七十二条第一項並びに少年院法第百三十八条第二項及び第百三十九条第二項の規定による措置を含む。次号において同じ。）又は少年法第十八条第二項の規定による措置に係る事件の調査又は審判を受ける者</Sentence>
+                <Sentence>保護処分（少年法第六十六条第一項、更生保護法（平成十九年法律第八十八号）第七十二条第一項並びに少年院法第百三十八条第二項及び第百三十九条第二項の規定による措置を含む。次号において同じ。）又は少年法第十八条第二項の規定による措置に係る事件の調査又は審判を受ける者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -580,7 +580,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>少年鑑別所の長は、その職員が家庭裁判所から少年法第二十四条第一項第三号の保護処分に係る同項の決定又は更生保護法第七十二条第一項の決定の執行の指揮を受けたときは、その決定を受けた者について鑑別を行い、少年院法第三十一条の規定により各少年院について指定された矯正教育課程（同法第三十条に規定する矯正教育課程をいう。）その他の事情を考慮して、その者を収容すべき少年院を指定するものとする。</Sentence>
+              <Sentence>少年鑑別所の長は、その職員が家庭裁判所から少年法第二十四条第一項第三号の保護処分に係る同項の決定、同法第六十四条第一項第三号の保護処分に係る同項の決定、同法第六十六条第一項の決定若しくは更生保護法第七十二条第一項の決定の執行の指揮を受けたとき、又は地方更生保護委員会から同法第七十三条の二第一項の決定の執行の嘱託を受けたときは、その決定を受けた者について鑑別を行い、少年院法第三十一条の規定により各少年院について指定された矯正教育課程（同法第三十条に規定する矯正教育課程をいう。）その他の事情を考慮して、その者を収容すべき少年院を指定するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -2026,7 +2026,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>指定職員は、少年鑑別所の規律及び秩序を維持するため必要がある場合には、少年鑑別所内において、在所者以外の者（弁護士である付添人若しくは在所者若しくはその保護者の依頼により付添人となろうとする弁護士又は弁護人等（弁護人又は刑事訴訟法第三十九条第一項に規定する弁護人となろうとする者をいう。以下同じ。）を除く。）の着衣及び携帯品を検査し、並びにその者の携帯品を取り上げて一時保管することができる。</Sentence>
+                <Sentence>指定職員は、少年鑑別所の規律及び秩序を維持するため必要がある場合には、少年鑑別所内において、在所者以外の者（弁護士である付添人若しくは在所者若しくはその保護者、法定代理人、保佐人、配偶者、直系の親族若しくは兄弟姉妹の依頼により付添人となろうとする弁護士又は弁護人等（弁護人又は刑事訴訟法第三十九条第一項に規定する弁護人となろうとする者をいう。以下同じ。）を除く。）の着衣及び携帯品を検査し、並びにその者の携帯品を取り上げて一時保管することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
@@ -2341,7 +2341,7 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence Function="main" Num="1">少年鑑別所の長は、その指名する職員に、被観護在所者の面会（付添人等（付添人又は在所者若しくはその保護者の依頼により付添人となろうとする弁護士をいう。以下同じ。）又は弁護人等との面会を除く。）に立ち会わせ、又はその面会の状況を録音させ、若しくは録画させるものとする。</Sentence>
+                    <Sentence Function="main" Num="1">少年鑑別所の長は、その指名する職員に、被観護在所者の面会（付添人等（付添人又は在所者若しくはその保護者、法定代理人、保佐人、配偶者、直系の親族若しくは兄弟姉妹の依頼により付添人となろうとする弁護士をいう。以下同じ。）又は弁護人等との面会を除く。）に立ち会わせ、又はその面会の状況を録音させ、若しくは録画させるものとする。</Sentence>
                     <Sentence Function="proviso" Num="2">ただし、前条第二項各号のいずれにも該当すると認めるときは、その立会い並びに録音及び録画（次項において「立会い等」という。）をさせないことができる。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
@@ -3456,7 +3456,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>少年法第十八条、第二十三条第二項若しくは第二十四条第一項の決定又は更生保護法第七十一条の申請に対する決定により観護の措置が効力を失ったこと（当該決定が審判期日において告知された場合に限る。）。</Sentence>
+                  <Sentence>少年法第十八条、第二十三条第二項、第二十四条第一項、第六十四条第一項若しくは第六十六条第一項の決定又は更生保護法第七十一条の申請に対する決定により観護の措置が効力を失ったこと（当該決定が審判期日において告知された場合に限る。）。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
@@ -3675,7 +3675,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502033" AmendLawNum="令和二年五月二九日法律第三三号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年五月二九日法律第三三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3684,6 +3684,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この法律は、公布の日から起算して二年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision Extract="true" AmendLawNum="令和三年五月二八日法律第四七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、令和四年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

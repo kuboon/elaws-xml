@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="43" Year="45">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="43" Year="45" PromulgateMonth="06" PromulgateDay="01">
   <LawNum>昭和四十五年大蔵省令第四十三号</LawNum>
   <LawBody>
-    <LawTitle>清酒製造業等の安定に関する特別措置法施行規則</LawTitle>
+    <LawTitle Kana="せいしゅせいぞうぎょうとうのあんていにかんするとくべつそちほうせこうきそく" Abbrev="清酒業等安定法施行規則" AbbrevKana="せ">清酒製造業等の安定に関する特別措置法施行規則</LawTitle>
     <EnactStatement>清酒製造業の安定に関する特別措置法第十七条並びに清酒製造業の安定に関する特別措置法施行令第二条及び第四条第二号の規定に基づき、清酒製造業の安定に関する特別措置法施行規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -182,7 +182,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="353027" AmendLawNum="昭和五三年四月二七日大蔵省令第二七号" Id="a8585414-1934-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五三年四月二七日大蔵省令第二七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -191,7 +191,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="401016" AmendLawNum="平成元年三月一五日大蔵省令第一六号" Id="a888df1c-1934-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成元年三月一五日大蔵省令第一六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -200,7 +200,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="409031" AmendLawNum="平成九年三月三一日大蔵省令第三一号" Id="a8b9845a-1934-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成九年三月三一日大蔵省令第三一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -209,7 +209,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412069" AmendLawNum="平成一二年八月二一日大蔵省令第六九号" Extract="true" Id="7870dffe-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年八月二一日大蔵省令第六九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -218,7 +218,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413060" AmendLawNum="平成一三年一〇月三一日財務省令第六〇号" Extract="true" Id="594d02d4-189e-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年一〇月三一日財務省令第六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -227,7 +227,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416082" AmendLawNum="平成一六年一二月二八日財務省令第八二号" Id="a94af624-1934-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年一二月二八日財務省令第八二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -236,7 +236,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418025" AmendLawNum="平成一八年三月三一日財務省令第二五号" Extract="true" Id="9f88a754-189d-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年三月三一日財務省令第二五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -249,7 +249,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="420061" AmendLawNum="平成二〇年九月三〇日財務省令第六一号" Extract="true" Id="e8b4b186-188c-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年九月三〇日財務省令第六一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -262,7 +262,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="429022" AmendLawNum="平成二九年三月三一日財務省令第二二号" Extract="true" Id="9fff2884-189d-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二九年三月三一日財務省令第二二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

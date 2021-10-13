@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Rule" Num="18" Year="25">
+<Law Era="Showa" Lang="ja" LawType="Rule" Num="18" Year="25" PromulgateMonth="01" PromulgateDay="24">
   <LawNum>昭和二十五年電波監理委員会規則第十八号</LawNum>
   <LawBody>
-    <LawTitle>無線設備規則</LawTitle>
+    <LawTitle Kana="むせんせつびきそく" Abbrev="" AbbrevKana="">無線設備規則</LawTitle>
     <EnactStatement>電波法（昭和二十五年法律第百三十一号）第二十八条（電波の質）、第二十九条（受信設備の条件）、第三十八条（その他の技術基準）及び第百条（高周波利用設備）の規定の委任に基き、且つ、電波法を実施するため、電波監理委員会設置法（昭和二十五年法律第百三十三号）第十七条の規定により、無線設備規則の全部を改正する規則を次のように定める。</EnactStatement>
     <EnactStatement>無線設備規則の全部を改正する規則</EnactStatement>
     <EnactStatement>無線設備規則（昭和二十五年電波監理委員会規則第五号）の全部を次のように改正する。</EnactStatement>
@@ -612,27 +612,18 @@
         <Section Num="3">
           <SectionTitle>第三節　保護装置</SectionTitle>
           <Article Num="8">
-            <ArticleCaption>（電源回路の<Ruby>し<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>や<Rt>ヽ</Rt>
-</Ruby>断等）</ArticleCaption>
+            <ArticleCaption>（電源回路の<Ruby>し<Rt>ヽ</Rt></Ruby><Ruby>や<Rt>ヽ</Rt></Ruby>断等）</ArticleCaption>
             <ArticleTitle>第八条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>真空管に使用する水冷装置には、冷却水の異状に対する警報装置又は電源回路の自動<Ruby>し<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>や<Rt>ヽ</Rt>
-</Ruby>断器を装置しなければならない。</Sentence>
+                <Sentence>真空管に使用する水冷装置には、冷却水の異状に対する警報装置又は電源回路の自動<Ruby>し<Rt>ヽ</Rt></Ruby><Ruby>や<Rt>ヽ</Rt></Ruby>断器を装置しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>陽極損失一キロワット以上の真空管に使用する強制空冷装置には、送風の異状に対する警報装置又は電源回路の自動<Ruby>し<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>や<Rt>ヽ</Rt>
-</Ruby>断器を装置しなければならない。</Sentence>
+                <Sentence>陽極損失一キロワット以上の真空管に使用する強制空冷装置には、送風の異状に対する警報装置又は電源回路の自動<Ruby>し<Rt>ヽ</Rt></Ruby><Ruby>や<Rt>ヽ</Rt></Ruby>断器を装置しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -641,10 +632,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1">前条に規定するものの外、無線設備の電源回路には、ヒユーズ又は自動<Ruby>し<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>や<Rt>ヽ</Rt>
-</Ruby>断器を装置しなければならない。</Sentence>
+                <Sentence Function="main" Num="1">前条に規定するものの外、無線設備の電源回路には、ヒユーズ又は自動<Ruby>し<Rt>ヽ</Rt></Ruby><Ruby>や<Rt>ヽ</Rt></Ruby>断器を装置しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2">但し、負荷電力一〇ワツト以下のものについては、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -777,9 +765,7 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>
-<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>率は、五パーセント以下であること。</Sentence>
+                  <Sentence><Ruby>歪<Rt>ひずみ</Rt></Ruby>率は、五パーセント以下であること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
@@ -971,8 +957,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>送信装置の搬送波電力、平均電力及び<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力のそれぞれの換算比は、電波の型式に応じ、別表第四号に定めるとおりとする。</Sentence>
+                <Sentence>送信装置の搬送波電力、平均電力及び<Ruby>尖<Rt>せん</Rt></Ruby>頭電力のそれぞれの換算比は、電波の型式に応じ、別表第四号に定めるとおりとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1703,8 +1688,7 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>符号分割多元接続方式携帯無線通信を行う陸上移動局（拡散符号速度が三・八四メガビットのものに限る。）又は時分割・符号分割多重方式携帯無線通信を行う陸上移動局（拡散符号速度が三・八四メガビットのものに限る。）の送信設備であつて、複数の周波数帯の搬送波を同時に受信することができるシングルキャリア周波数分割多元接続方式携帯無線通信を行う陸上移動局の送信設備と同一の<Ruby>筐<Rt>きよう</Rt>
-</Ruby>体に収められたものの空中線電力の許容偏差は、第一項の規定にかかわらず、総務大臣が別に告示する。</Sentence>
+                <Sentence>符号分割多元接続方式携帯無線通信を行う陸上移動局（拡散符号速度が三・八四メガビットのものに限る。）又は時分割・符号分割多重方式携帯無線通信を行う陸上移動局（拡散符号速度が三・八四メガビットのものに限る。）の送信設備であつて、複数の周波数帯の搬送波を同時に受信することができるシングルキャリア周波数分割多元接続方式携帯無線通信を行う陸上移動局の送信設備と同一の<Ruby>筐<Rt>きよう</Rt></Ruby>体に収められたものの空中線電力の許容偏差は、第一項の規定にかかわらず、総務大臣が別に告示する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1945,16 +1929,13 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence>主<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射方向及び副<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射方向</Sentence>
+                  <Sentence>主<Ruby>輻<Rt>ふく</Rt></Ruby>射方向及び副<Ruby>輻<Rt>ふく</Rt></Ruby>射方向</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>水平面の主<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射の角度の幅</Sentence>
+                  <Sentence>水平面の主<Ruby>輻<Rt>ふく</Rt></Ruby>射の角度の幅</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
@@ -1966,8 +1947,7 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>給電線よりの<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射</Sentence>
+                  <Sentence>給電線よりの<Ruby>輻<Rt>ふく</Rt></Ruby>射</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -5274,14 +5254,12 @@
             </Paragraph>
           </Article>
           <Article Num="33_5">
-            <ArticleCaption>（総合<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>率）</ArticleCaption>
+            <ArticleCaption>（総合<Ruby>歪<Rt>ひずみ</Rt></Ruby>率）</ArticleCaption>
             <ArticleTitle>第三十三条の五</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>中波放送を行う地上基幹放送局の送信装置の総合<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>率は、次の各号の条件に適合するものでなければならない。</Sentence>
+                <Sentence>中波放送を行う地上基幹放送局の送信装置の総合<Ruby>歪<Rt>ひずみ</Rt></Ruby>率は、次の各号の条件に適合するものでなければならない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -5538,14 +5516,12 @@
             </Paragraph>
           </Article>
           <Article Num="36_4">
-            <ArticleCaption>（総合<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>率）</ArticleCaption>
+            <ArticleCaption>（総合<Ruby>歪<Rt>ひずみ</Rt></Ruby>率）</ArticleCaption>
             <ArticleTitle>第三十六条の四</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>超短波放送を行なう地上基幹放送局の送信装置の総合<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>率は、次の表の上欄に掲げる変調周波数により主搬送波に（±）七五ｋＨｚの周波数偏移を与えたとき、それぞれ同表の下欄に掲げるとおりとなるものでなければならない。</Sentence>
+                <Sentence>超短波放送を行なう地上基幹放送局の送信装置の総合<Ruby>歪<Rt>ひずみ</Rt></Ruby>率は、次の表の上欄に掲げる変調周波数により主搬送波に（±）七五ｋＨｚの周波数偏移を与えたとき、それぞれ同表の下欄に掲げるとおりとなるものでなければならない。</Sentence>
               </ParagraphSentence>
               <TableStruct>
                 <Table>
@@ -5554,8 +5530,7 @@
                       <Sentence>変調周波数</Sentence>
                     </TableColumn>
                     <TableColumn>
-                      <Sentence>総合<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>率</Sentence>
+                      <Sentence>総合<Ruby>歪<Rt>ひずみ</Rt></Ruby>率</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -5599,8 +5574,7 @@
             </Paragraph>
           </Article>
           <Article Num="36_7">
-            <ArticleCaption>（総合<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>率等に関する規定の補則）</ArticleCaption>
+            <ArticleCaption>（総合<Ruby>歪<Rt>ひずみ</Rt></Ruby>率等に関する規定の補則）</ArticleCaption>
             <ArticleTitle>第三十六条の七</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
@@ -6987,8 +6961,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>船舶の航海船橋に通常設置する無線設備には、その<Ruby>筐<Rt>きよう</Rt>
-</Ruby>体の見やすい箇所に、当該設備の発する磁界が磁気羅針儀の機能に障害を与えない最小の距離を明示しなければならない。</Sentence>
+                <Sentence>船舶の航海船橋に通常設置する無線設備には、その<Ruby>筐<Rt>きよう</Rt></Ruby>体の見やすい箇所に、当該設備の発する磁界が磁気羅針儀の機能に障害を与えない最小の距離を明示しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -7208,8 +7181,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>海上移動業務又は海上無線航行業務の無線局のＡ三Ｅ電波を使用する送信装置の総合<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>及び雑音は、一、〇〇〇ヘルツの周波数で七〇パーセントの変調をしたとき、当該装置の全出力とその中に含まれる不要成分との比が二〇デシベル以上でなければならない。</Sentence>
+                <Sentence>海上移動業務又は海上無線航行業務の無線局のＡ三Ｅ電波を使用する送信装置の総合<Ruby>歪<Rt>ひずみ</Rt></Ruby>及び雑音は、一、〇〇〇ヘルツの周波数で七〇パーセントの変調をしたとき、当該装置の全出力とその中に含まれる不要成分との比が二〇デシベル以上でなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
@@ -7228,8 +7200,7 @@
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>海上移動業務又は海上無線航行業務の無線局のＡ二Ａ電波、Ａ二Ｂ電波、Ａ二Ｄ電波、Ｈ二Ａ電波、Ｈ二Ｂ電波又はＨ二Ｄ電波を使用する送信装置は、別に告示するものを除き、変調波の電<Ruby>鍵<Rt>けん</Rt>
-</Ruby>開閉操作によつて当該電波を発射するものでなければならない。</Sentence>
+                <Sentence>海上移動業務又は海上無線航行業務の無線局のＡ二Ａ電波、Ａ二Ｂ電波、Ａ二Ｄ電波、Ｈ二Ａ電波、Ｈ二Ｂ電波又はＨ二Ｄ電波を使用する送信装置は、別に告示するものを除き、変調波の電<Ruby>鍵<Rt>けん</Rt></Ruby>開閉操作によつて当該電波を発射するものでなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -8253,9 +8224,7 @@
                 <Subitem1 Num="4">
                   <Subitem1Title>ニ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>
-<Ruby>筐<Rt>きよう</Rt>
-</Ruby>体の見やすい場所に当該受信周波数が表示されていること。</Sentence>
+                    <Sentence><Ruby>筐<Rt>きよう</Rt></Ruby>体の見やすい場所に当該受信周波数が表示されていること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="5">
@@ -9194,18 +9163,13 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>
-<Ruby>筐<Rt>きよう</Rt>
-</Ruby>体に黄色若しくはだいだい色の彩色が施されていること又は<Ruby>筐<Rt>きよう</Rt>
-</Ruby>体に黄色若しくはだいだい色の帯状の標示があること。</Sentence>
+                  <Sentence><Ruby>筐<Rt>きよう</Rt></Ruby>体に黄色若しくはだいだい色の彩色が施されていること又は<Ruby>筐<Rt>きよう</Rt></Ruby>体に黄色若しくはだいだい色の帯状の標示があること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence>
-<Ruby>筐<Rt>きよう</Rt>
-</Ruby>体の見やすい箇所に、電源の開閉方法等機器の取扱方法その他注意事項を簡明に、かつ、水で消えないように表示してあること。</Sentence>
+                  <Sentence><Ruby>筐<Rt>きよう</Rt></Ruby>体の見やすい箇所に、電源の開閉方法等機器の取扱方法その他注意事項を簡明に、かつ、水で消えないように表示してあること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="6">
@@ -9241,8 +9205,7 @@
               <Item Num="11">
                 <ItemTitle>十一</ItemTitle>
                 <ItemSentence>
-                  <Sentence>実効<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射電力が〇・二五ワツト以上であること。</Sentence>
+                  <Sentence>実効<Ruby>輻<Rt>ふく</Rt></Ruby>射電力が〇・二五ワツト以上であること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="12">
@@ -9260,8 +9223,7 @@
               <Item Num="14">
                 <ItemTitle>十四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>電池の容量は、当該無線電話を八時間（送信時間の受信時間に対する割合は九分の一とする。）以上支障なく動作させることができ、かつ、八時間が経過したときの実効<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射電力が〇・二五ワツト以上となるものであること。</Sentence>
+                  <Sentence>電池の容量は、当該無線電話を八時間（送信時間の受信時間に対する割合は九分の一とする。）以上支障なく動作させることができ、かつ、八時間が経過したときの実効<Ruby>輻<Rt>ふく</Rt></Ruby>射電力が〇・二五ワツト以上となるものであること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="15">
@@ -9295,9 +9257,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>
-<Ruby>筐<Rt>きよう</Rt>
-</Ruby>体の見やすい箇所に、電源の開閉方式等機器の取扱方法その他注意事項を簡明に、かつ、水で消えないように表示してあること。</Sentence>
+                  <Sentence><Ruby>筐<Rt>きよう</Rt></Ruby>体の見やすい箇所に、電源の開閉方式等機器の取扱方法その他注意事項を簡明に、かつ、水で消えないように表示してあること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
@@ -9378,16 +9338,13 @@
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>海面にある場合に容易に発見されるように、<Ruby>筐<Rt>きよう</Rt>
-</Ruby>体に黄色又はだいだい色の彩色が施され、かつ、海水、油及び太陽光線の影響をできるだけ受けない措置が施されていること。</Sentence>
+                    <Sentence>海面にある場合に容易に発見されるように、<Ruby>筐<Rt>きよう</Rt></Ruby>体に黄色又はだいだい色の彩色が施され、かつ、海水、油及び太陽光線の影響をできるだけ受けない措置が施されていること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="4">
                   <Subitem1Title>ニ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>
-<Ruby>筐<Rt>きよう</Rt>
-</Ruby>体の見やすい箇所に、電源の開閉方法等機器の取扱方法その他注意事項を簡明に、かつ、水で消えないように表示してあること。</Sentence>
+                    <Sentence><Ruby>筐<Rt>きよう</Rt></Ruby>体の見やすい箇所に、電源の開閉方法等機器の取扱方法その他注意事項を簡明に、かつ、水で消えないように表示してあること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="5">
@@ -9489,8 +9446,7 @@
                 <Subitem1 Num="7">
                   <Subitem1Title>ト</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>等価等方<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射電力は、四〇〇ミリワツト以上であること。</Sentence>
+                    <Sentence>等価等方<Ruby>輻<Rt>ふく</Rt></Ruby>射電力は、四〇〇ミリワツト以上であること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -10996,8 +10952,7 @@
                     </TableRow>
                     <TableRow>
                       <TableColumn>
-                        <Sentence>総合<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>及び雑音</Sentence>
+                        <Sentence>総合<Ruby>歪<Rt>ひずみ</Rt></Ruby>及び雑音</Sentence>
                       </TableColumn>
                       <TableColumn>
                         <Sentence>一、〇〇〇ヘルツの周波数で少なくとも八五パーセントの変調を生ずる入力レベルと等しいレベルをもつて、三五〇ヘルツ、一、〇〇〇ヘルツ又は二、五〇〇ヘルツのそれぞれの周波数によつて変調した場合において、送信装置の全復調出力とその中に含まれる不要成分の比が一二デシベル以上</Sentence>
@@ -11148,8 +11103,7 @@
                     </TableRow>
                     <TableRow>
                       <TableColumn colspan="2">
-                        <Sentence>総合<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>及び雑音</Sentence>
+                        <Sentence>総合<Ruby>歪<Rt>ひずみ</Rt></Ruby>及び雑音</Sentence>
                       </TableColumn>
                       <TableColumn>
                         <Sentence Num="1">一　三五〇ヘルツから二、五〇〇ヘルツまでの周波数で八五パーセント変調をされた一〇ミリボルトの受信機入力電圧を加えた場合において、定格出力とその中に含まれる不要成分との比が一二デシベル以上</Sentence>
@@ -11312,9 +11266,7 @@
                 <Subitem1 Num="4">
                   <Subitem1Title>ニ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>
-<Ruby>筐<Rt>きよう</Rt>
-</Ruby>体に黄色又は橙色の彩色が施されていること。</Sentence>
+                    <Sentence><Ruby>筐<Rt>きよう</Rt></Ruby>体に黄色又は橙色の彩色が施されていること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="5">
@@ -11326,9 +11278,7 @@
                 <Subitem1 Num="6">
                   <Subitem1Title>ヘ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>
-<Ruby>筐<Rt>きよう</Rt>
-</Ruby>体の見やすい箇所に取扱方法その他注意事項を簡明に表示してあること。</Sentence>
+                    <Sentence><Ruby>筐<Rt>きよう</Rt></Ruby>体の見やすい箇所に取扱方法その他注意事項を簡明に表示してあること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="7">
@@ -11486,8 +11436,7 @@
                 <Subitem1 Num="4">
                   <Subitem1Title>ニ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>割当周波数から（±）二五〇ｋＨｚまでの周波数帯に含まれる高周波エネルギーは、<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射される全高周波エネルギーの九〇パーセント以上であること。</Sentence>
+                    <Sentence>割当周波数から（±）二五〇ｋＨｚまでの周波数帯に含まれる高周波エネルギーは、<Ruby>輻<Rt>ふく</Rt></Ruby>射される全高周波エネルギーの九〇パーセント以上であること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="5">
@@ -11546,8 +11495,7 @@
                   <Subitem2 Num="4">
                     <Subitem2Title>（４）</Subitem2Title>
                     <Subitem2Sentence>
-                      <Sentence>等価等方<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射電力は、割当周波数から両側にそれぞれ五五〇ｋＨｚから一、〇五〇ｋＨｚまでの周波数帯幅において、それぞれ（－）七デシベル（一ワツトを〇デシベルとする。）以下であり、割当周波数から両側にそれぞれ一、七五〇ｋＨｚから二、二五〇ｋＨｚまでの周波数帯幅において、それぞれ（－）二七デシベル（一ワツトを〇デシベルとする。）以下であること。</Sentence>
+                      <Sentence>等価等方<Ruby>輻<Rt>ふく</Rt></Ruby>射電力は、割当周波数から両側にそれぞれ五五〇ｋＨｚから一、〇五〇ｋＨｚまでの周波数帯幅において、それぞれ（－）七デシベル（一ワツトを〇デシベルとする。）以下であり、割当周波数から両側にそれぞれ一、七五〇ｋＨｚから二、二五〇ｋＨｚまでの周波数帯幅において、それぞれ（－）二七デシベル（一ワツトを〇デシベルとする。）以下であること。</Sentence>
                     </Subitem2Sentence>
                   </Subitem2>
                 </Subitem1>
@@ -11630,9 +11578,7 @@
                           <Sentence>感度</Sentence>
                         </TableColumn>
                         <TableColumn>
-                          <Sentence>空中線の絶対利得が四デシベル、給電線の損失が三デシベルの場合において、有効通達距離が五六キロメートルを超えるものの受信装置にあつては、応答率（質問回数に対する応答回数の百分比をいう。以下同じ。）が七〇パーセントとなるときの質問信号の<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力が（－）九三デシベル（一ミリワツトを〇デシベルとする。）以下、有効通達距離が五六キロメートル以下のものの受信装置にあつては、応答率が七〇パーセントとなるときの質問信号の<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力が（－）八三デシベル（一ミリワツトを〇デシベルとする。）以下であること。</Sentence>
+                          <Sentence>空中線の絶対利得が四デシベル、給電線の損失が三デシベルの場合において、有効通達距離が五六キロメートルを超えるものの受信装置にあつては、応答率（質問回数に対する応答回数の百分比をいう。以下同じ。）が七〇パーセントとなるときの質問信号の<Ruby>尖<Rt>せん</Rt></Ruby>頭電力が（－）九三デシベル（一ミリワツトを〇デシベルとする。）以下、有効通達距離が五六キロメートル以下のものの受信装置にあつては、応答率が七〇パーセントとなるときの質問信号の<Ruby>尖<Rt>せん</Rt></Ruby>頭電力が（－）八三デシベル（一ミリワツトを〇デシベルとする。）以下であること。</Sentence>
                         </TableColumn>
                       </TableRow>
                       <TableRow>
@@ -11668,8 +11614,7 @@
                           <Sentence>内部雑音により発射されるランダム・パルス対の数</Sentence>
                         </TableColumn>
                         <TableColumn>
-                          <Sentence>空中線の絶対利得が四デシベル、給電線の損失が三デシベルの場合において、有効通達距離が五六キロメートルを超えるものの受信装置にあつては（－）九三デシベル（一ミリワツトを〇デシベルとする。）、有効通達距離が五六キロメートル以下のものの受信装置にあつては（－）八三デシベル（一ミリワツトを〇デシベルとする。）の<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力の質問信号が入力され、送信装置が発射することができるパルス対の最大数の九〇パーセントに相当する数の応答信号のパルス対を発射するとき、当該最大数の五パーセント以下であること。</Sentence>
+                          <Sentence>空中線の絶対利得が四デシベル、給電線の損失が三デシベルの場合において、有効通達距離が五六キロメートルを超えるものの受信装置にあつては（－）九三デシベル（一ミリワツトを〇デシベルとする。）、有効通達距離が五六キロメートル以下のものの受信装置にあつては（－）八三デシベル（一ミリワツトを〇デシベルとする。）の<Ruby>尖<Rt>せん</Rt></Ruby>頭電力の質問信号が入力され、送信装置が発射することができるパルス対の最大数の九〇パーセントに相当する数の応答信号のパルス対を発射するとき、当該最大数の五パーセント以下であること。</Sentence>
                         </TableColumn>
                       </TableRow>
                       <TableRow>
@@ -11679,8 +11624,7 @@
                         <TableColumn>
                           <Sentence Num="1">一　入力端子に質問信号以外のパルスを加えても動作しないこと。</Sentence>
                           <Sentence Num="2">二　入力端子に質問信号を加え送信装置において応答信号を送信している状態の下で適宜のパルスを加えた場合において、当該送信に支障がないこと。</Sentence>
-                          <Sentence Num="3">三　別図第五号に示す機上ＤＭＥの質問信号のパルス間隔と二マイクロ秒以上異なる質問信号であつて、かつ、減衰量の項に規定する<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力のものを加えても動作しないこと。</Sentence>
+                          <Sentence Num="3">三　別図第五号に示す機上ＤＭＥの質問信号のパルス間隔と二マイクロ秒以上異なる質問信号であつて、かつ、減衰量の項に規定する<Ruby>尖<Rt>せん</Rt></Ruby>頭電力のものを加えても動作しないこと。</Sentence>
                         </TableColumn>
                       </TableRow>
                       <TableRow>
@@ -12008,9 +11952,7 @@
                           <Sentence>感度</Sentence>
                         </TableColumn>
                         <TableColumn>
-                          <Sentence>空中線の絶対利得が四デシベル、給電線の損失が三デシベルの場合において、ＩＡモードにあつては、応答率が七〇パーセントとなるときの質問信号の<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力が（－）七六デシベル（一ミリワツトを〇デシベルとする。）以下、ＦＡモードにあつては、応答率が八〇パーセントとなるときの質問信号の<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力が（－）六五デシベル（一ミリワツトを〇デシベルとする。）以下であること。</Sentence>
+                          <Sentence>空中線の絶対利得が四デシベル、給電線の損失が三デシベルの場合において、ＩＡモードにあつては、応答率が七〇パーセントとなるときの質問信号の<Ruby>尖<Rt>せん</Rt></Ruby>頭電力が（－）七六デシベル（一ミリワツトを〇デシベルとする。）以下、ＦＡモードにあつては、応答率が八〇パーセントとなるときの質問信号の<Ruby>尖<Rt>せん</Rt></Ruby>頭電力が（－）六五デシベル（一ミリワツトを〇デシベルとする。）以下であること。</Sentence>
                         </TableColumn>
                       </TableRow>
                       <TableRow>
@@ -12020,8 +11962,7 @@
                         <TableColumn>
                           <Sentence Num="1">一　ＩＡモードにあつては、機上ＤＭＥの割当周波数から（±）一ＭＨｚの周波数を一二デシベル以上、（±）五ＭＨｚの周波数を六〇デシベル以上低下させること。</Sentence>
                           <Sentence Num="2">二　ＦＡモードにあつては、機上ＤＭＥの割当周波数から（±）三ＭＨｚの周波数を一二デシベル以上、（±）一〇ＭＨｚの周波数を六〇デシベル以上低下させること。</Sentence>
-                          <Sentence Num="3">三　空中線の絶対利得が四デシベル、給電線の損失が三デシベルの場合において、機上ＤＭＥの割当周波数から（±）九〇〇ｋＨｚの範囲外の周波数で<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力が（－）一二デシベル（一ミリワツトを〇デシベルとする。）の質問信号を入力しても応答しないこと。</Sentence>
+                          <Sentence Num="3">三　空中線の絶対利得が四デシベル、給電線の損失が三デシベルの場合において、機上ＤＭＥの割当周波数から（±）九〇〇ｋＨｚの範囲外の周波数で<Ruby>尖<Rt>せん</Rt></Ruby>頭電力が（－）一二デシベル（一ミリワツトを〇デシベルとする。）の質問信号を入力しても応答しないこと。</Sentence>
                         </TableColumn>
                       </TableRow>
                       <TableRow>
@@ -12029,8 +11970,7 @@
                           <Sentence>内部雑音により発射されるランダム・パルス対の数</Sentence>
                         </TableColumn>
                         <TableColumn>
-                          <Sentence>空中線の絶対利得が四デシベル、給電線の損失が三デシベルの場合において、ＩＡモードにあつては（－）七六デシベル（一ミリワツトを〇デシベルとする。）、ＦＡモードにあつては（－）六五デシベル（一ミリワツトを〇デシベルとする。）の<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力の質問信号が入力され、送信装置が発射することができるパルス対の最大数の九〇パーセントに相当する数の応答信号のパルス対を発射するとき、当該最大数の五パーセント以下であること。</Sentence>
+                          <Sentence>空中線の絶対利得が四デシベル、給電線の損失が三デシベルの場合において、ＩＡモードにあつては（－）七六デシベル（一ミリワツトを〇デシベルとする。）、ＦＡモードにあつては（－）六五デシベル（一ミリワツトを〇デシベルとする。）の<Ruby>尖<Rt>せん</Rt></Ruby>頭電力の質問信号が入力され、送信装置が発射することができるパルス対の最大数の九〇パーセントに相当する数の応答信号のパルス対を発射するとき、当該最大数の五パーセント以下であること。</Sentence>
                         </TableColumn>
                       </TableRow>
                       <TableRow>
@@ -12408,8 +12348,7 @@
                             <Sentence>高度四、五〇〇メートルを超えて航行する航空機に設置するもの</Sentence>
                           </TableColumn>
                           <TableColumn>
-                            <Sentence>空中線が四分の一波長の単一型であつて、かつ、給電線の損失が三デシベルの場合において、応答信号の各パルスの<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力は、二四デシベル以上三〇デシベル以下（一ワツトを〇デシベルとする。）</Sentence>
+                            <Sentence>空中線が四分の一波長の単一型であつて、かつ、給電線の損失が三デシベルの場合において、応答信号の各パルスの<Ruby>尖<Rt>せん</Rt></Ruby>頭電力は、二四デシベル以上三〇デシベル以下（一ワツトを〇デシベルとする。）</Sentence>
                           </TableColumn>
                         </TableRow>
                         <TableRow>
@@ -12428,8 +12367,7 @@
                             <Sentence>最大巡航速度が毎時三二四キロメートル以下のもの</Sentence>
                           </TableColumn>
                           <TableColumn>
-                            <Sentence>空中線が四分の一波長の単一型であつて、かつ、給電線の損失が三デシベルの場合において、応答信号の各パルスの<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力は、二一・五デシベル以上三〇デシベル以下（一ワツトを〇デシベルとする。）</Sentence>
+                            <Sentence>空中線が四分の一波長の単一型であつて、かつ、給電線の損失が三デシベルの場合において、応答信号の各パルスの<Ruby>尖<Rt>せん</Rt></Ruby>頭電力は、二一・五デシベル以上三〇デシベル以下（一ワツトを〇デシベルとする。）</Sentence>
                           </TableColumn>
                         </TableRow>
                         <TableRow>
@@ -12465,8 +12403,7 @@
                             <Sentence>応答遅延時間</Sentence>
                           </TableColumn>
                           <TableColumn>
-                            <Sentence Num="1">一　受信装置の入力端子にモードＳの質問信号（給電線の損失が三デシベルの場合において、パルスの<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力は、当該受信装置の最大感度より三デシベル低い点から（－）二四デシベル（一ミリワツトを〇デシベルとする。）までの範囲とする。）を加えた場合において、当該質問信号のパルスＰ６の同期位相反転の点と当該質問信号に対する応答信号の最初のパルスとのパルス間隔が一二八マイクロ秒（許容偏差は〇・二五マイクロ秒とする。）</Sentence>
+                            <Sentence Num="1">一　受信装置の入力端子にモードＳの質問信号（給電線の損失が三デシベルの場合において、パルスの<Ruby>尖<Rt>せん</Rt></Ruby>頭電力は、当該受信装置の最大感度より三デシベル低い点から（－）二四デシベル（一ミリワツトを〇デシベルとする。）までの範囲とする。）を加えた場合において、当該質問信号のパルスＰ６の同期位相反転の点と当該質問信号に対する応答信号の最初のパルスとのパルス間隔が一二八マイクロ秒（許容偏差は〇・二五マイクロ秒とする。）</Sentence>
                             <Sentence Num="2">二　受信装置の入力端子にモードＡ／Ｃ／Ｓ一括の質問信号（給電線の損失が三デシベルの場合において、パルスの尖頭電力は、当該受信装置の最大感度の点から（－）二四デシベル（一ミリワツトを〇デシベルとする。）までの範囲とする。）を加えた場合において、当該質問信号のパルスＰ４と当該質問信号に対する応答信号の最初のパルスとのパルス間隔が一二八マイクロ秒（許容偏差は〇・五マイクロ秒とする。）</Sentence>
                             <Sentence Num="3">三　モードＡ又はモードＣの質問信号に対する応答遅延時間は、（１）に同じ。</Sentence>
                           </TableColumn>
@@ -12476,10 +12413,8 @@
                             <Sentence>応答信号のジツタ</Sentence>
                           </TableColumn>
                           <TableColumn>
-                            <Sentence>一　受信装置の入力端子にモードＳの質問信号（給電線の損失が三デシベルの場合において、パルスの<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力は、当該受信装置の最大感度より三デシベル低い点から（－）二四デシベル（一ミリワツトを〇デシベルとする。）までの範囲とする。）を加えた場合において、二乗平均の値が〇・〇五マイクロ秒以下</Sentence>
-                            <Sentence Num="2">二　受信装置の入力端子にモードＡ／Ｃ／Ｓ一括の質問信号（給電線の損失が三デシベルの場合において、パルスの<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力は、当該受信装置の最大感度の点から（－）二四デシベル（一ミリワツトを〇デシベルとする。）までの範囲とする。）を加えた場合において、二乗平均の値が〇・〇六マイクロ秒以下</Sentence>
+                            <Sentence>一　受信装置の入力端子にモードＳの質問信号（給電線の損失が三デシベルの場合において、パルスの<Ruby>尖<Rt>せん</Rt></Ruby>頭電力は、当該受信装置の最大感度より三デシベル低い点から（－）二四デシベル（一ミリワツトを〇デシベルとする。）までの範囲とする。）を加えた場合において、二乗平均の値が〇・〇五マイクロ秒以下</Sentence>
+                            <Sentence Num="2">二　受信装置の入力端子にモードＡ／Ｃ／Ｓ一括の質問信号（給電線の損失が三デシベルの場合において、パルスの<Ruby>尖<Rt>せん</Rt></Ruby>頭電力は、当該受信装置の最大感度の点から（－）二四デシベル（一ミリワツトを〇デシベルとする。）までの範囲とする。）を加えた場合において、二乗平均の値が〇・〇六マイクロ秒以下</Sentence>
                             <Sentence Num="3">三　モードＡ又はモードＣの質問信号に対する応答信号のジツタは、（１）に同じ。</Sentence>
                           </TableColumn>
                         </TableRow>
@@ -12488,12 +12423,10 @@
                             <Sentence>応答特性</Sentence>
                           </TableColumn>
                           <TableColumn>
-                            <Sentence Num="1">一　給電線の損失が三デシベルの場合において、受信装置の入力端子に<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力が（－）七一デシベルから（－）二四デシベル（一ミリワツトを〇デシベルとする。）までの範囲のモードＳの質問信号を加えた場合にあつては、次に掲げる条件に合致すること。</Sentence>
+                            <Sentence Num="1">一　給電線の損失が三デシベルの場合において、受信装置の入力端子に<Ruby>尖<Rt>せん</Rt></Ruby>頭電力が（－）七一デシベルから（－）二四デシベル（一ミリワツトを〇デシベルとする。）までの範囲のモードＳの質問信号を加えた場合にあつては、次に掲げる条件に合致すること。</Sentence>
                             <Sentence Num="2">イ　当該質問信号のパルスＰ６の同期位相反転の後に、当該質問信号より六デシベル以上小さいモードＡ又はモードＣの質問信号を加えた場合において応答率が九五パーセント以上であり、かつ、三デシベル以上小さい質問信号を加えた場合において応答率が五〇パーセント以上であること。</Sentence>
                             <Sentence Num="3">ロ　当該質問信号のパルスＰ１の後に、当該質問信号より九デシベル以上小さい別図第七号に示すモードＡ又はモードＣの質問信号のパルス特性をもつパルス対でパルス間隔が二マイクロ秒の信号を加えた場合において、応答率が九〇パーセント以上であること。</Sentence>
-                            <Sentence Num="4">二　給電線の損失が三デシベルの場合において、受信装置の入力端子に<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力が（－）六八デシベルから（－）二四デシベル（一ミリワツトを〇デシベルとする。）までの範囲のモードＳの質問信号を加えた場合にあつて、当該質問信号より一二デシベル以上小さく、かつ、繰返し周波数の最大が一〇ｋＨｚのモードＡ又はモードＣの質問信号を加えたとき、応答率が九五パーセント以上であること。</Sentence>
+                            <Sentence Num="4">二　給電線の損失が三デシベルの場合において、受信装置の入力端子に<Ruby>尖<Rt>せん</Rt></Ruby>頭電力が（－）六八デシベルから（－）二四デシベル（一ミリワツトを〇デシベルとする。）までの範囲のモードＳの質問信号を加えた場合にあつて、当該質問信号より一二デシベル以上小さく、かつ、繰返し周波数の最大が一〇ｋＨｚのモードＡ又はモードＣの質問信号を加えたとき、応答率が九五パーセント以上であること。</Sentence>
                             <Sentence Num="5">三　有効な質問信号が存在しない状態で、航空機内において干渉を生じる可能性のあるすべての機器を動作させたとき、一〇秒間に二回以上応答しないこと。</Sentence>
                           </TableColumn>
                         </TableRow>
@@ -12502,8 +12435,7 @@
                             <Sentence>サイドローブの抑圧特性</Sentence>
                           </TableColumn>
                           <TableColumn>
-                            <Sentence Num="1">給電線の損失が三デシベルの場合において、受信装置の入力端子にモードＳの質問信号（パルスの<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力が当該受信装置の最大感度の点から（－）二四デシベル（一ミリワツトを〇デシベルとする。）までの範囲とする。）及び抑圧信号を加えた場合にあつては、次の条件に適合すること。</Sentence>
+                            <Sentence Num="1">給電線の損失が三デシベルの場合において、受信装置の入力端子にモードＳの質問信号（パルスの<Ruby>尖<Rt>せん</Rt></Ruby>頭電力が当該受信装置の最大感度の点から（－）二四デシベル（一ミリワツトを〇デシベルとする。）までの範囲とする。）及び抑圧信号を加えた場合にあつては、次の条件に適合すること。</Sentence>
                             <Sentence Num="2">イ　質問信号のパルスＰ６の振幅が抑圧信号の振幅より三デシベル以上小さい場合には、応答率が一〇パーセント未満</Sentence>
                             <Sentence Num="3">ロ　質問信号のパルスＰ６の振幅が抑圧信号の振幅より一二デシベル以上大きい場合には、応答率が九九パーセント以上</Sentence>
                           </TableColumn>
@@ -12537,8 +12469,7 @@
                             <Sentence>感度</Sentence>
                           </TableColumn>
                           <TableColumn>
-                            <Sentence>空中線が四分の一波長の単一型であつて、かつ、給電線の損失が三デシベルの場合において、入力端子に加えたモードＡ又はモードＣの質問信号のパルスＰ１及びパルスＰ３の振幅が等しいとき、応答率が九〇パーセントとなる場合の当該質問信号のパルスＰ１の<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力は、（－）七四デシベル（許容範囲は、（－）七二デシベル以下（－）八〇デシベル以上とする。）（一ミリワツトを〇デシベルとする。）であり、質問モードを変更したときの変動が一デシベル以下</Sentence>
+                            <Sentence>空中線が四分の一波長の単一型であつて、かつ、給電線の損失が三デシベルの場合において、入力端子に加えたモードＡ又はモードＣの質問信号のパルスＰ１及びパルスＰ３の振幅が等しいとき、応答率が九〇パーセントとなる場合の当該質問信号のパルスＰ１の<Ruby>尖<Rt>せん</Rt></Ruby>頭電力は、（－）七四デシベル（許容範囲は、（－）七二デシベル以下（－）八〇デシベル以上とする。）（一ミリワツトを〇デシベルとする。）であり、質問モードを変更したときの変動が一デシベル以下</Sentence>
                           </TableColumn>
                         </TableRow>
                         <TableRow>
@@ -12603,12 +12534,9 @@
                             <Sentence>感度</Sentence>
                           </TableColumn>
                           <TableColumn>
-                            <Sentence Num="1">一　空中線が四分の一波長の単一型であつて、かつ、給電線の損失が三デシベルの場合において、応答率が九〇パーセントとなる場合の質問信号の<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力は、（－）八〇デシベル以上（－）七四デシベル以下（一ミリワツトを〇デシベルとする。二及び三において同じ。）</Sentence>
-                            <Sentence Num="2">二　空中線が四分の一波長の単一型であつて、かつ、給電線の損失が三デシベルの場合において、応答率が九九パーセント以上となる場合の質問信号の<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力は、当該受信装置の最大感度の点以上（－）二四デシベル以下</Sentence>
-                            <Sentence Num="3">三　空中線が四分の一波長の単一型であつて、かつ、給電線の損失が三デシベルの場合において、応答率が一〇パーセント以下となる場合の質問信号の<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力は、（－）八四デシベル以下</Sentence>
+                            <Sentence Num="1">一　空中線が四分の一波長の単一型であつて、かつ、給電線の損失が三デシベルの場合において、応答率が九〇パーセントとなる場合の質問信号の<Ruby>尖<Rt>せん</Rt></Ruby>頭電力は、（－）八〇デシベル以上（－）七四デシベル以下（一ミリワツトを〇デシベルとする。二及び三において同じ。）</Sentence>
+                            <Sentence Num="2">二　空中線が四分の一波長の単一型であつて、かつ、給電線の損失が三デシベルの場合において、応答率が九九パーセント以上となる場合の質問信号の<Ruby>尖<Rt>せん</Rt></Ruby>頭電力は、当該受信装置の最大感度の点以上（－）二四デシベル以下</Sentence>
+                            <Sentence Num="3">三　空中線が四分の一波長の単一型であつて、かつ、給電線の損失が三デシベルの場合において、応答率が一〇パーセント以下となる場合の質問信号の<Ruby>尖<Rt>せん</Rt></Ruby>頭電力は、（－）八四デシベル以下</Sentence>
                           </TableColumn>
                         </TableRow>
                         <TableRow>
@@ -12723,14 +12651,10 @@
                       </TableRow>
                       <TableRow>
                         <TableColumn Valign="top" colspan="2">
-                          <Sentence>
-<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射特性</Sentence>
+                          <Sentence><Ruby>輻<Rt>ふく</Rt></Ruby>射特性</Sentence>
                         </TableColumn>
                         <TableColumn Valign="top">
-                          <Sentence>
-<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射される電波は、九〇ヘルツ及び一五〇ヘルツの周波数の変調信号により振幅変調された電波によつて合成された電界分布を構成するものであり、有効範囲内において、コース・ラインから送信空中線に向かつてコース・ラインの左側においては、九〇ヘルツによる変調度が一五〇ヘルツによる変調度より大きく、右側においては、その逆となるものであること。</Sentence>
+                          <Sentence><Ruby>輻<Rt>ふく</Rt></Ruby>射される電波は、九〇ヘルツ及び一五〇ヘルツの周波数の変調信号により振幅変調された電波によつて合成された電界分布を構成するものであり、有効範囲内において、コース・ラインから送信空中線に向かつてコース・ラインの左側においては、九〇ヘルツによる変調度が一五〇ヘルツによる変調度より大きく、右側においては、その逆となるものであること。</Sentence>
                         </TableColumn>
                       </TableRow>
                       <TableRow>
@@ -12847,14 +12771,10 @@
                       </TableRow>
                       <TableRow>
                         <TableColumn Valign="top" colspan="2">
-                          <Sentence>
-<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射特性</Sentence>
+                          <Sentence><Ruby>輻<Rt>ふく</Rt></Ruby>射特性</Sentence>
                         </TableColumn>
                         <TableColumn Valign="top">
-                          <Sentence>
-<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射される電波は、九〇ヘルツ及び一五〇ヘルツの周波数の変調信号により振幅変調された電波によつて合成された電界分布を構成するものであり、有効範囲内において、ＩＬＳグライド・パスの上側においては、九〇ヘルツによる変調度が一五〇ヘルツによる変調度より大きく、下側においては、その逆となるものであること。</Sentence>
+                          <Sentence><Ruby>輻<Rt>ふく</Rt></Ruby>射される電波は、九〇ヘルツ及び一五〇ヘルツの周波数の変調信号により振幅変調された電波によつて合成された電界分布を構成するものであり、有効範囲内において、ＩＬＳグライド・パスの上側においては、九〇ヘルツによる変調度が一五〇ヘルツによる変調度より大きく、下側においては、その逆となるものであること。</Sentence>
                         </TableColumn>
                       </TableRow>
                       <TableRow>
@@ -13321,14 +13241,12 @@
                 <Subitem1 Num="6">
                   <Subitem1Title>ヘ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>方位誘導信号の比例角度誘導情報を与えるために走査（一定の方法により、電波の<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射方向を変化させることをいう。以下この条において同じ。）されるビーム状の電波（以下この条において「走査ビーム」という。）は、次の条件に適合するものであること。</Sentence>
+                    <Sentence>方位誘導信号の比例角度誘導情報を与えるために走査（一定の方法により、電波の<Ruby>輻<Rt>ふく</Rt></Ruby>射方向を変化させることをいう。以下この条において同じ。）されるビーム状の電波（以下この条において「走査ビーム」という。）は、次の条件に適合するものであること。</Sentence>
                   </Subitem1Sentence>
                   <Subitem2 Num="1">
                     <Subitem2Title>（１）</Subitem2Title>
                     <Subitem2Sentence>
-                      <Sentence>走査ビームは、少なくとも有効範囲（ルの場合においては、比例角度誘導範囲（有効範囲のうち、比例角度誘導情報が得られる範囲をいう。以下この条において同じ。）とする。）を<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射するものであること。</Sentence>
+                      <Sentence>走査ビームは、少なくとも有効範囲（ルの場合においては、比例角度誘導範囲（有効範囲のうち、比例角度誘導情報が得られる範囲をいう。以下この条において同じ。）とする。）を<Ruby>輻<Rt>ふく</Rt></Ruby>射するものであること。</Sentence>
                     </Subitem2Sentence>
                   </Subitem2>
                   <Subitem2 Num="2">
@@ -13484,8 +13402,7 @@
                   <Subitem2 Num="1">
                     <Subitem2Title>（１）</Subitem2Title>
                     <Subitem2Sentence>
-                      <Sentence>走査ビームは、少なくとも有効範囲（ルの場合においては、比例角度誘導範囲とする。）を<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射するものであること。</Sentence>
+                      <Sentence>走査ビームは、少なくとも有効範囲（ルの場合においては、比例角度誘導範囲とする。）を<Ruby>輻<Rt>ふく</Rt></Ruby>射するものであること。</Sentence>
                     </Subitem2Sentence>
                   </Subitem2>
                   <Subitem2 Num="2">
@@ -13641,8 +13558,7 @@
                   <Subitem2 Num="1">
                     <Subitem2Title>（１）</Subitem2Title>
                     <Subitem2Sentence>
-                      <Sentence>走査ビームは、少なくとも有効範囲を<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射するものであること。</Sentence>
+                      <Sentence>走査ビームは、少なくとも有効範囲を<Ruby>輻<Rt>ふく</Rt></Ruby>射するものであること。</Sentence>
                     </Subitem2Sentence>
                   </Subitem2>
                   <Subitem2 Num="2">
@@ -13742,8 +13658,7 @@
                   <Subitem2 Num="2">
                     <Subitem2Title>（２）</Subitem2Title>
                     <Subitem2Sentence>
-                      <Sentence>質問信号を送信していない場合において、空中線が四分の一波長の単一型であつて、かつ、給電線の損失が三デシベルの場合の<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力は、九六〇ＭＨｚから一、二一五ＭＨｚまでの周波数の範囲において（－）九七デシベル（一ワツトを〇デシベルとする。）以下であること。</Sentence>
+                      <Sentence>質問信号を送信していない場合において、空中線が四分の一波長の単一型であつて、かつ、給電線の損失が三デシベルの場合の<Ruby>尖<Rt>せん</Rt></Ruby>頭電力は、九六〇ＭＨｚから一、二一五ＭＨｚまでの周波数の範囲において（－）九七デシベル（一ワツトを〇デシベルとする。）以下であること。</Sentence>
                     </Subitem2Sentence>
                   </Subitem2>
                   <Subitem2 Num="3">
@@ -13779,8 +13694,7 @@
                   <Subitem2 Num="1">
                     <Subitem2Title>（１）</Subitem2Title>
                     <Subitem2Sentence>
-                      <Sentence>一、〇八七ＭＨｚから一、〇九三ＭＨｚまでの周波数の範囲における感度（空中線が四分の一波長の単一型であつて、かつ、給電線の損失が三デシベルの場合において、解読率（応答信号の受信回数に対する識別回数の百分比をいう。）が九〇パーセントとなる場合の応答信号の<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力をいう。以下この条において同じ。）は、（－）七三デシベル以下（一ミリワツトを〇デシベルとする。）であること。</Sentence>
+                      <Sentence>一、〇八七ＭＨｚから一、〇九三ＭＨｚまでの周波数の範囲における感度（空中線が四分の一波長の単一型であつて、かつ、給電線の損失が三デシベルの場合において、解読率（応答信号の受信回数に対する識別回数の百分比をいう。）が九〇パーセントとなる場合の応答信号の<Ruby>尖<Rt>せん</Rt></Ruby>頭電力をいう。以下この条において同じ。）は、（－）七三デシベル以下（一ミリワツトを〇デシベルとする。）であること。</Sentence>
                     </Subitem2Sentence>
                   </Subitem2>
                   <Subitem2 Num="2">
@@ -13852,8 +13766,7 @@
                   <Subitem2 Num="2">
                     <Subitem2Title>（２）</Subitem2Title>
                     <Subitem2Sentence>
-                      <Sentence>質問信号を送信していない場合において、空中線が四分の一波長の単一型であつて、かつ、給電線の損失が三デシベルの場合の<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力は、一、〇二七ＭＨｚから一、〇三三ＭＨｚまでの周波数の範囲において（－）九七デシベル（一ワツトを〇デシベルとする。）以下であること。</Sentence>
+                      <Sentence>質問信号を送信していない場合において、空中線が四分の一波長の単一型であつて、かつ、給電線の損失が三デシベルの場合の<Ruby>尖<Rt>せん</Rt></Ruby>頭電力は、一、〇二七ＭＨｚから一、〇三三ＭＨｚまでの周波数の範囲において（－）九七デシベル（一ワツトを〇デシベルとする。）以下であること。</Sentence>
                     </Subitem2Sentence>
                   </Subitem2>
                   <Subitem2 Num="3">
@@ -13934,15 +13847,13 @@
                     <Subitem3 Num="2">
                       <Subitem3Title>（ロ）</Subitem3Title>
                       <Subitem3Sentence>
-                        <Sentence>給電線の損失が三デシベルの場合において、<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力が（－）八一デシベル（一ミリワツトを〇デシベルとする。）以下の応答信号に対する解読率は、一〇パーセント以下であること。</Sentence>
+                        <Sentence>給電線の損失が三デシベルの場合において、<Ruby>尖<Rt>せん</Rt></Ruby>頭電力が（－）八一デシベル（一ミリワツトを〇デシベルとする。）以下の応答信号に対する解読率は、一〇パーセント以下であること。</Sentence>
                       </Subitem3Sentence>
                     </Subitem3>
                     <Subitem3 Num="3">
                       <Subitem3Title>（ハ）</Subitem3Title>
                       <Subitem3Sentence>
-                        <Sentence>給電線の損失が三デシベルの場合において、<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力の値が最大感度の点を三デシベル超える値以上（－）二四デシベル（一ミリワツトを〇デシベルとする。）以下の範囲の応答信号に対する解読率は、九九パーセント以上であること。</Sentence>
+                        <Sentence>給電線の損失が三デシベルの場合において、<Ruby>尖<Rt>せん</Rt></Ruby>頭電力の値が最大感度の点を三デシベル超える値以上（－）二四デシベル（一ミリワツトを〇デシベルとする。）以下の範囲の応答信号に対する解読率は、九九パーセント以上であること。</Sentence>
                       </Subitem3Sentence>
                     </Subitem3>
                   </Subitem2>
@@ -13954,15 +13865,13 @@
                     <Subitem3 Num="1">
                       <Subitem3Title>（イ）</Subitem3Title>
                       <Subitem3Sentence>
-                        <Sentence>最大感度の点を一三デシベル超えるモードＣの応答信号を受信した場合、最初のパルスが立ち上がつた後二一マイクロ秒以上の間、最初のパルスの<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力より八デシベルから一〇デシベル低い点まで感度を低下させるものとし、最初のパルスが立ち上がつた後二六マイクロ秒以内に最大感度まで回復すること。</Sentence>
+                        <Sentence>最大感度の点を一三デシベル超えるモードＣの応答信号を受信した場合、最初のパルスが立ち上がつた後二一マイクロ秒以上の間、最初のパルスの<Ruby>尖<Rt>せん</Rt></Ruby>頭電力より八デシベルから一〇デシベル低い点まで感度を低下させるものとし、最初のパルスが立ち上がつた後二六マイクロ秒以内に最大感度まで回復すること。</Sentence>
                       </Subitem3Sentence>
                     </Subitem3>
                     <Subitem3 Num="2">
                       <Subitem3Title>（ロ）</Subitem3Title>
                       <Subitem3Sentence>
-                        <Sentence>最大感度の点を一〇デシベル超えるモードＳの応答信号を受信した場合、最初のパルスが立ち上がつた後一一五マイクロ秒以上の間、最初のパルスの<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力より五デシベルから七デシベル低い点まで感度を低下させるものとし、最初のパルスが立ち上がつた後一二〇マイクロ秒以内に最大感度まで回復すること。</Sentence>
+                        <Sentence>最大感度の点を一〇デシベル超えるモードＳの応答信号を受信した場合、最初のパルスが立ち上がつた後一一五マイクロ秒以上の間、最初のパルスの<Ruby>尖<Rt>せん</Rt></Ruby>頭電力より五デシベルから七デシベル低い点まで感度を低下させるものとし、最初のパルスが立ち上がつた後一二〇マイクロ秒以内に最大感度まで回復すること。</Sentence>
                       </Subitem3Sentence>
                     </Subitem3>
                     <Subitem3 Num="3">
@@ -14114,8 +14023,7 @@
                     </TableRow>
                     <TableRow>
                       <TableColumn>
-                        <Sentence>総合<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>率</Sentence>
+                        <Sentence>総合<Ruby>歪<Rt>ひずみ</Rt></Ruby>率</Sentence>
                       </TableColumn>
                       <TableColumn>
                         <Sentence>変調周波数一、〇〇〇ヘルツで八〇パーセントの変調をした場合において、一〇パーセント以下</Sentence>
@@ -14396,14 +14304,12 @@
             </Paragraph>
           </Article>
           <Article Num="45_17">
-            <ArticleCaption>（無線標識局の総合<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>率等）</ArticleCaption>
+            <ArticleCaption>（無線標識局の総合<Ruby>歪<Rt>ひずみ</Rt></Ruby>率等）</ArticleCaption>
             <ArticleTitle>第四十五条の十七</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1">無指向性の無線標識に使用する送信装置の総合<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>率は、八〇パーセントの変調をしたとき一〇パーセント以下でなければならない。</Sentence>
+                <Sentence Function="main" Num="1">無指向性の無線標識に使用する送信装置の総合<Ruby>歪<Rt>ひずみ</Rt></Ruby>率は、八〇パーセントの変調をしたとき一〇パーセント以下でなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2">ただし、変調周波数が音声周波数を含むものにあつては、五パーセント以下とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -15767,8 +15673,7 @@
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>隣接チヤネル漏えい電力は、変調信号の送信速度と同じ送信速度の標準符号化試験信号（符号長五一一ビツトの二値擬似雑音を繰り返す信号をいう。以下同じ。）により変調した場合において、搬送波の周波数から二五ｋＨｚ離れた周波数の（±）八ｋＨｚの帯域内に<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射される電力が搬送波電力より七〇デシベル以上低い値又は二・五マイクロワツト以下であること。</Sentence>
+                    <Sentence>隣接チヤネル漏えい電力は、変調信号の送信速度と同じ送信速度の標準符号化試験信号（符号長五一一ビツトの二値擬似雑音を繰り返す信号をいう。以下同じ。）により変調した場合において、搬送波の周波数から二五ｋＨｚ離れた周波数の（±）八ｋＨｚの帯域内に<Ruby>輻<Rt>ふく</Rt></Ruby>射される電力が搬送波電力より七〇デシベル以上低い値又は二・五マイクロワツト以下であること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -18790,8 +18695,7 @@
                 <Subitem1 Num="4">
                   <Subitem1Title>ニ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Function="main" Num="1">隣接チヤネル漏えい電力は、変調信号の送信速度と同じ送信速度の標準符号化試験信号により変調した場合において、搬送波の周波数から二五ｋＨｚ離れた周波数の（±）Ｒ（Ｒは変調信号の伝送速度の四分の一の値とする。）ｋＨｚの帯域内に<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射される電力が、搬送波電力より五五デシベル以上低い値又は三二マイクロワツト以下の値であること。</Sentence>
+                    <Sentence Function="main" Num="1">隣接チヤネル漏えい電力は、変調信号の送信速度と同じ送信速度の標準符号化試験信号により変調した場合において、搬送波の周波数から二五ｋＨｚ離れた周波数の（±）Ｒ（Ｒは変調信号の伝送速度の四分の一の値とする。）ｋＨｚの帯域内に<Ruby>輻<Rt>ふく</Rt></Ruby>射される電力が、搬送波電力より五五デシベル以上低い値又は三二マイクロワツト以下の値であること。</Sentence>
                     <Sentence Function="proviso" Num="2">ただし、一ワツト以下の無線設備の場合は四五デシベル以上低い値であること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
@@ -20395,8 +20299,7 @@
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Function="main" Num="1">隣接チャネル漏えい電力は、変調信号の送信速度と同じ送信速度の標準符号化試験信号により変調した場合において、搬送波の周波数から二五ｋＨｚ離れた周波数の（±）Ｒ（Ｒは変調信号の伝送速度の四分の一の値とする。）ｋＨｚの帯域内に<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射される電力が、搬送波電力より五五デシベル以上低い値又は三二マイクロワット以下の値であること。</Sentence>
+                    <Sentence Function="main" Num="1">隣接チャネル漏えい電力は、変調信号の送信速度と同じ送信速度の標準符号化試験信号により変調した場合において、搬送波の周波数から二五ｋＨｚ離れた周波数の（±）Ｒ（Ｒは変調信号の伝送速度の四分の一の値とする。）ｋＨｚの帯域内に<Ruby>輻<Rt>ふく</Rt></Ruby>射される電力が、搬送波電力より五五デシベル以上低い値又は三二マイクロワット以下の値であること。</Sentence>
                     <Sentence Function="proviso" Num="2">ただし、一ワット以下の無線設備の場合は四五デシベル以上低い値であること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
@@ -20632,8 +20535,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Function="main" Num="1">一の<Ruby>筐<Rt>きよう</Rt>
-</Ruby>体に収められており、かつ、容易に開けることができないこと。</Sentence>
+                  <Sentence Function="main" Num="1">一の<Ruby>筐<Rt>きよう</Rt></Ruby>体に収められており、かつ、容易に開けることができないこと。</Sentence>
                   <Sentence Function="proviso" Num="2">ただし、電源設備、制御装置その他総務大臣が別に告示するものについては、この限りでない。</Sentence>
                 </ItemSentence>
               </Item>
@@ -20658,29 +20560,25 @@
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>発射する電波の占有周波数帯幅が四ｋＨｚ以下のものにあつては、搬送波の周波数から一二・五ｋＨｚ離れた周波数の（±）二ｋＨｚの帯域内に<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射される電力が搬送波電力より四〇デシベル以上低い値</Sentence>
+                    <Sentence>発射する電波の占有周波数帯幅が四ｋＨｚ以下のものにあつては、搬送波の周波数から一二・五ｋＨｚ離れた周波数の（±）二ｋＨｚの帯域内に<Ruby>輻<Rt>ふく</Rt></Ruby>射される電力が搬送波電力より四〇デシベル以上低い値</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>発射する電波の占有周波数帯幅が四ｋＨｚを超え八・五ｋＨｚ以下のものにあつては、搬送波の周波数から一二・五ｋＨｚ離れた周波数の（±）四・二五ｋＨｚの帯域内に<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射される電力が搬送波電力より四〇デシベル以上低い値</Sentence>
+                    <Sentence>発射する電波の占有周波数帯幅が四ｋＨｚを超え八・五ｋＨｚ以下のものにあつては、搬送波の周波数から一二・五ｋＨｚ離れた周波数の（±）四・二五ｋＨｚの帯域内に<Ruby>輻<Rt>ふく</Rt></Ruby>射される電力が搬送波電力より四〇デシベル以上低い値</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>発射する電波の占有周波数帯幅が八・五ｋＨｚを超え一二ｋＨｚ以下のものにあつては、搬送波の周波数から二五ｋＨｚ離れた周波数の（±）六ｋＨｚの帯域内に<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射される電力が搬送波電力より四〇デシベル以上低い値</Sentence>
+                    <Sentence>発射する電波の占有周波数帯幅が八・五ｋＨｚを超え一二ｋＨｚ以下のものにあつては、搬送波の周波数から二五ｋＨｚ離れた周波数の（±）六ｋＨｚの帯域内に<Ruby>輻<Rt>ふく</Rt></Ruby>射される電力が搬送波電力より四〇デシベル以上低い値</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="4">
                   <Subitem1Title>ニ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>発射する電波の占有周波数帯幅が一二ｋＨｚを超え一六ｋＨｚ以下のものにあつては、搬送波の周波数から二五ｋＨｚ離れた周波数の（±）八ｋＨｚの帯域内に<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射される電力が搬送波電力より四〇デシベル以上低い値</Sentence>
+                    <Sentence>発射する電波の占有周波数帯幅が一二ｋＨｚを超え一六ｋＨｚ以下のものにあつては、搬送波の周波数から二五ｋＨｚ離れた周波数の（±）八ｋＨｚの帯域内に<Ruby>輻<Rt>ふく</Rt></Ruby>射される電力が搬送波電力より四〇デシベル以上低い値</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -20765,8 +20663,7 @@
                   <Subitem2 Num="2">
                     <Subitem2Title>（２）</Subitem2Title>
                     <Subitem2Sentence>
-                      <Sentence>静止衛星軌道の傾度（±）三度以内のすべての方向に送信空中線から<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射される四〇ｋＨｚ帯域幅当たりの電力は、次の表の上欄に掲げる区分に従い、それぞれ同表の下欄に掲げるとおりのものであること。</Sentence>
+                      <Sentence>静止衛星軌道の傾度（±）三度以内のすべての方向に送信空中線から<Ruby>輻<Rt>ふく</Rt></Ruby>射される四〇ｋＨｚ帯域幅当たりの電力は、次の表の上欄に掲げる区分に従い、それぞれ同表の下欄に掲げるとおりのものであること。</Sentence>
                     </Subitem2Sentence>
                     <TableStruct>
                       <Table>
@@ -20775,8 +20672,7 @@
                             <Sentence>人工衛星局からの離角（θ）</Sentence>
                           </TableColumn>
                           <TableColumn>
-                            <Sentence>最大<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射電力（一ワットを〇デシベルとする。）</Sentence>
+                            <Sentence>最大<Ruby>輻<Rt>ふく</Rt></Ruby>射電力（一ワットを〇デシベルとする。）</Sentence>
                           </TableColumn>
                         </TableRow>
                         <TableRow>
@@ -20804,8 +20700,7 @@
                   <Subitem2 Num="3">
                     <Subitem2Title>（３）</Subitem2Title>
                     <Subitem2Sentence>
-                      <Sentence>送信空中線から<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射される四〇ｋＨｚ帯域幅当たりの交差偏波電力（一ワツトを〇デシベルとする。）は、次に掲げる式による値以下であること。</Sentence>
+                      <Sentence>送信空中線から<Ruby>輻<Rt>ふく</Rt></Ruby>射される四〇ｋＨｚ帯域幅当たりの交差偏波電力（一ワツトを〇デシベルとする。）は、次に掲げる式による値以下であること。</Sentence>
                     </Subitem2Sentence>
                     <List>
                       <ListSentence>
@@ -26856,8 +26751,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Function="main" Num="1">一の<Ruby>筐<Rt>きよう</Rt>
-</Ruby>体に収められており、かつ、容易に開けることができないこと。</Sentence>
+                  <Sentence Function="main" Num="1">一の<Ruby>筐<Rt>きよう</Rt></Ruby>体に収められており、かつ、容易に開けることができないこと。</Sentence>
                   <Sentence Function="proviso" Num="2">ただし、電源設備その他総務大臣が別に告示するものについては、この限りでない。</Sentence>
                 </ItemSentence>
               </Item>
@@ -28916,8 +28810,7 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Function="main" Num="1">一の<Ruby>筐<Rt>きよう</Rt>
-</Ruby>体に収められており、かつ、容易に開けられないこと。</Sentence>
+                  <Sentence Function="main" Num="1">一の<Ruby>筐<Rt>きよう</Rt></Ruby>体に収められており、かつ、容易に開けられないこと。</Sentence>
                   <Sentence Function="proviso" Num="2">ただし、電源設備、送話器及び受話器については、この限りでない。</Sentence>
                 </ItemSentence>
               </Item>
@@ -29400,8 +29293,7 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn>
-                      <Sentence>総合<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>及び雑音</Sentence>
+                      <Sentence>総合<Ruby>歪<Rt>ひずみ</Rt></Ruby>及び雑音</Sentence>
                     </TableColumn>
                     <TableColumn>
                       <Sentence>一、〇〇〇ヘルツの周波数で変調された基準入力レベルを加えた場合において、装置の全出力とその中に含まれる不要成分の比が二〇デシベル以上（Ｈ三Ｅ電波を使用する送信装置又は空中線電力一ワツト以下の送信装置を除く。）</Sentence>
@@ -29504,8 +29396,7 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn colspan="2">
-                      <Sentence>総合<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>及び雑音</Sentence>
+                      <Sentence>総合<Ruby>歪<Rt>ひずみ</Rt></Ruby>及び雑音</Sentence>
                     </TableColumn>
                     <TableColumn>
                       <Sentence>一、〇〇〇ヘルツの周波数で変調された三〇マイクロボルトの受信機入力電圧を加えた場合において、定格出力の二分の一の出力とその中に含まれる不要成分の比が二〇デシベル以上</Sentence>
@@ -29643,22 +29534,19 @@
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>変調信号の送信速度が毎秒四キロビツト以下のものにあつては、搬送波の周波数から六・二五ｋＨｚ離れた周波数の（±）二ｋＨｚの帯域内に<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射される電力が搬送波電力より六〇デシベル以上低い値</Sentence>
+                    <Sentence>変調信号の送信速度が毎秒四キロビツト以下のものにあつては、搬送波の周波数から六・二五ｋＨｚ離れた周波数の（±）二ｋＨｚの帯域内に<Ruby>輻<Rt>ふく</Rt></Ruby>射される電力が搬送波電力より六〇デシベル以上低い値</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>変調信号の送信速度が毎秒四キロビツトを超え八キロビツト以下のものにあつては、搬送波の周波数から一二・五ｋＨｚ離れた周波数の（±）四ｋＨｚの帯域内に<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射される電力が搬送波電力より六〇デシベル以上低い値</Sentence>
+                    <Sentence>変調信号の送信速度が毎秒四キロビツトを超え八キロビツト以下のものにあつては、搬送波の周波数から一二・五ｋＨｚ離れた周波数の（±）四ｋＨｚの帯域内に<Ruby>輻<Rt>ふく</Rt></Ruby>射される電力が搬送波電力より六〇デシベル以上低い値</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>変調信号の送信速度が毎秒八キロビツトを超えるものにあつては、搬送波の周波数から二五ｋＨｚ離れた周波数の（±）八ｋＨｚの帯域内に<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射される電力が搬送波電力より六〇デシベル以上低い値</Sentence>
+                    <Sentence>変調信号の送信速度が毎秒八キロビツトを超えるものにあつては、搬送波の周波数から二五ｋＨｚ離れた周波数の（±）八ｋＨｚの帯域内に<Ruby>輻<Rt>ふく</Rt></Ruby>射される電力が搬送波電力より六〇デシベル以上低い値</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -29979,8 +29867,7 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn colspan="2">
-                      <Sentence>総合<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>及び雑音</Sentence>
+                      <Sentence>総合<Ruby>歪<Rt>ひずみ</Rt></Ruby>及び雑音</Sentence>
                     </TableColumn>
                     <TableColumn>
                       <Sentence>一、〇〇〇ヘルツの周波数で最大周波数偏移の七〇パーセントまで変調をされた一〇マイクロボルトの受信機入力電圧を加えた場合において、装置の全出力とその中に含まれる不要成分の比が二〇デシベル以上</Sentence>
@@ -30019,9 +29906,7 @@
                       <Sentence>感度</Sentence>
                     </TableColumn>
                     <TableColumn>
-                      <Sentence>基準感度（一、〇〇〇ヘルツの周波数で最大周波数偏移の六〇パーセントまで変調をされた希望波を加えた場合において、装置の出力のうち信号、雑音及び<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>の出力の和と雑音及び<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>の出力の和との比を一二デシベルとするために必要な受信機入力電圧をいう。以下同じ。）が二マイクロボルト以下</Sentence>
+                      <Sentence>基準感度（一、〇〇〇ヘルツの周波数で最大周波数偏移の六〇パーセントまで変調をされた希望波を加えた場合において、装置の出力のうち信号、雑音及び<Ruby>歪<Rt>ひずみ</Rt></Ruby>の出力の和と雑音及び<Ruby>歪<Rt>ひずみ</Rt></Ruby>の出力の和との比を一二デシベルとするために必要な受信機入力電圧をいう。以下同じ。）が二マイクロボルト以下</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -30040,9 +29925,7 @@
                       <Sentence>スプリアス・レスポンス</Sentence>
                     </TableColumn>
                     <TableColumn>
-                      <Sentence>基準感度より三デシベル高い希望波入力電圧を加えた状態の下で、四〇〇ヘルツの周波数で最大周波数偏移の六〇パーセントまで変調をされた妨害波を加えた場合において、装置の出力のうち信号、雑音及び<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>の出力の和と雑音及び<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>の出力の和との比が一二デシベルとなるときのその妨害波入力電圧と基準感度との比が七〇デシベル（空中線電力一ワツト以下の無線局の受信装置にあつては、五〇デシベル）以上</Sentence>
+                      <Sentence>基準感度より三デシベル高い希望波入力電圧を加えた状態の下で、四〇〇ヘルツの周波数で最大周波数偏移の六〇パーセントまで変調をされた妨害波を加えた場合において、装置の出力のうち信号、雑音及び<Ruby>歪<Rt>ひずみ</Rt></Ruby>の出力の和と雑音及び<Ruby>歪<Rt>ひずみ</Rt></Ruby>の出力の和との比が一二デシベルとなるときのその妨害波入力電圧と基準感度との比が七〇デシベル（空中線電力一ワツト以下の無線局の受信装置にあつては、五〇デシベル）以上</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -30050,9 +29933,7 @@
                       <Sentence>隣接チヤネル選択度</Sentence>
                     </TableColumn>
                     <TableColumn>
-                      <Sentence>基準感度より三デシベル高い希望波入力電圧を加えた状態の下で、四〇〇ヘルツの周波数で最大周波数偏移の六〇パーセントまで変調をされた妨害波であつて希望波から一二・五ｋＨｚ離れたものを加えた場合において、装置の出力のうち信号、雑音及び<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>の出力の和と雑音及び<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>の出力の和との比が一二デシベルとなるときのその妨害波入力電圧と基準感度との比が六〇デシベル以上</Sentence>
+                      <Sentence>基準感度より三デシベル高い希望波入力電圧を加えた状態の下で、四〇〇ヘルツの周波数で最大周波数偏移の六〇パーセントまで変調をされた妨害波であつて希望波から一二・五ｋＨｚ離れたものを加えた場合において、装置の出力のうち信号、雑音及び<Ruby>歪<Rt>ひずみ</Rt></Ruby>の出力の和と雑音及び<Ruby>歪<Rt>ひずみ</Rt></Ruby>の出力の和との比が一二デシベルとなるときのその妨害波入力電圧と基準感度との比が六〇デシベル以上</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -30060,9 +29941,7 @@
                       <Sentence>相互変調特性</Sentence>
                     </TableColumn>
                     <TableColumn>
-                      <Sentence>基準感度より三デシベル高い希望波入力電圧を加えた状態の下で、相互変調を生ずる関係にある各妨害波を加えた場合において、装置の出力のうち信号、雑音及び<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>の出力の和と雑音及び<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>の出力の和との比が一二デシベルとなるときのその妨害波入力電圧と基準感度との比が七〇デシベル（空中線電力一ワツト以下の無線局の受信装置にあつては、六〇デシベル）以上</Sentence>
+                      <Sentence>基準感度より三デシベル高い希望波入力電圧を加えた状態の下で、相互変調を生ずる関係にある各妨害波を加えた場合において、装置の出力のうち信号、雑音及び<Ruby>歪<Rt>ひずみ</Rt></Ruby>の出力の和と雑音及び<Ruby>歪<Rt>ひずみ</Rt></Ruby>の出力の和との比が一二デシベルとなるときのその妨害波入力電圧と基準感度との比が七〇デシベル（空中線電力一ワツト以下の無線局の受信装置にあつては、六〇デシベル）以上</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -30075,8 +29954,7 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn colspan="2">
-                      <Sentence>総合<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>及び雑音</Sentence>
+                      <Sentence>総合<Ruby>歪<Rt>ひずみ</Rt></Ruby>及び雑音</Sentence>
                     </TableColumn>
                     <TableColumn>
                       <Sentence>一、〇〇〇ヘルツの周波数で最大周波数偏移の七〇パーセントまで変調をされた一〇マイクロボルトの受信機入力電圧を加えた場合において、装置の全出力とその中に含まれる不要成分の比が二〇デシベル以上</Sentence>
@@ -30164,8 +30042,7 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn colspan="2">
-                      <Sentence>総合<Ruby>歪<Rt>ひずみ</Rt>
-</Ruby>及び雑音</Sentence>
+                      <Sentence>総合<Ruby>歪<Rt>ひずみ</Rt></Ruby>及び雑音</Sentence>
                     </TableColumn>
                     <TableColumn>
                       <Sentence>一、〇〇〇ヘルツの周波数で最大周波数偏移の七〇パーセントまで変調をされた一〇マイクロボルトの受信機入力電圧を加えた場合において、装置の全出力とその中に含まれる不要成分の比が二〇デシベル以上</Sentence>
@@ -33163,8 +33040,7 @@
       <Paragraph Num="11">
         <ParagraphNum>１１</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>昭和四十六年十二月三十一日以前に前項の送信設備に備えつけた低域<Ruby>濾<Rt>ろ</Rt>
-</Ruby>波器の条件については、改正後の第五十八条第四号の規定にかかわらず、昭和五十七年十二月三十一日までは、なお従前の例によることができる。</Sentence>
+          <Sentence>昭和四十六年十二月三十一日以前に前項の送信設備に備えつけた低域<Ruby>濾<Rt>ろ</Rt></Ruby>波器の条件については、改正後の第五十八条第四号の規定にかかわらず、昭和五十七年十二月三十一日までは、なお従前の例によることができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="12">
@@ -37766,8 +37642,7 @@
                 <Sentence>任意の１ＭＨｚ幅における平均電力が（－）３０ｄＢｍ以下</Sentence>
               </TableColumn>
             </TableRow>
-          </Table>
-</QuoteStruct>」とあるのは、「<QuoteStruct>
+          </Table></QuoteStruct>」とあるのは、「<QuoteStruct>
           <Item Num="1">
           <ItemTitle>（１）</ItemTitle>
             <ItemSentence>
@@ -38269,60 +38144,60 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　５０ｋＨｚを超え５２６．５ｋＨｚ以下のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence Num="2">５０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２　陸上局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence Num="1">３　移動局</Sentence>
               <Sentence Num="2">（１）　船舶局</Sentence>
               <Sentence Num="3">ア　生存艇及び救命浮機の送信設備</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>イ　その他の送信設備</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　航空機局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>４　無線測位局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５　標準周波数局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>０．００５</Sentence>
             </TableColumn>
           </TableRow>
@@ -38358,103 +38233,103 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　２００Ｗを超えるもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２　陸上局</Sentence>
               <Sentence>（１）　航空局（注１２）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１０Ｈｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　その他の陸上局（注１０，１３）</Sentence>
               <Sentence>ア　２００Ｗ以下のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>イ　２００Ｗを超えるもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>３　移動局</Sentence>
               <Sentence>（１）　生存艇及び救命浮機の送信設備</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　航空機局（注１２）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２０Ｈｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（３）　その他の移動局（注１０，１３）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>４　無線測位局</Sentence>
               <Sentence>（１）　ラジオ・ブイの無線局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　その他の無線測位局（注１４）</Sentence>
               <Sentence>ア　２００Ｗ以下のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>イ　２００Ｗを超えるもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５　地上基幹放送局（注１５）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１０Ｈｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>６　標準周波数局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>０．００５</Sentence>
             </TableColumn>
           </TableRow>
@@ -38479,109 +38354,109 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　５００Ｗを超えるもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２　陸上局</Sentence>
               <Sentence>（１）　海岸局（注１３，１７）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２０Ｈｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　航空局（注１２）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１０Ｈｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（３）　その他の陸上局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>３　移動局</Sentence>
               <Sentence>（１）　船舶局</Sentence>
               <Sentence>ア　生存艇及び救命浮機の送信設備</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>イ　その他の送信設備（注１３，１７）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５０Ｈｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　航空機局（注１２）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２０Ｈｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（３）　その他の移動局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>４０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>４　無線測位局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５　地上基幹放送局（注１５）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１０Ｈｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>６　標準周波数局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>０．００５</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>７　アマチユア局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>８　簡易無線局及び市民ラジオの無線局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５０</Sentence>
             </TableColumn>
           </TableRow>
@@ -38607,67 +38482,67 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>イ　１Ｗを超えるもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　その他の周波数のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２　無線測位局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>３　地上基幹放送局</Sentence>
               <Sentence>（１）　移動受信用地上基幹放送を行う地上基幹放送局（注２１、５１）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１Ｈｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　その他の地上基幹放送局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>４　標準周波数局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>０．００５</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５　アマチユア局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>６　地球局及び宇宙局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２０</Sentence>
             </TableColumn>
           </TableRow>
@@ -38693,343 +38568,343 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>イ　１Ｗを超えるもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>３</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　その他の周波数のもの</Sentence>
               <Sentence>ア　１Ｗ以下のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１５</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>イ　１Ｗを超えるもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２　陸上局（注１８，２０，２２，２４）</Sentence>
               <Sentence>（１）　海岸局</Sentence>
               <Sentence>ア　３３５．４ＭＨｚを超え４７０ＭＨｚ以下のもの</Sentence>
               <Sentence>（ア）　１Ｗ以下のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>４</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（イ）　１Ｗを超えるもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>３</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>イ　その他の周波数のもの（注４６）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　航空局（注４５，５４）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（３）　無線呼出局（電気通信業務を行うことを目的として開設するものに限る。）</Sentence>
               <Sentence>ア　２７３ＭＨｚを超え３２８．６ＭＨｚ以下のもの</Sentence>
               <Sentence>（ア）　変調信号の送信速度が毎秒５００ビツトを超えるもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>７</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（イ）　その他のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>３</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>イ　その他の周波数のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>３</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（４）　その他の陸上局（注４４）</Sentence>
               <Sentence>ア　１００ＭＨｚを超え１４２ＭＨｚ以下のもの及び１６２．０３７５ＭＨｚを超え２３５ＭＨｚ以下のもの（注２８、５２）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１５</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>イ　１４２ＭＨｚを超え１６２．０３７５ＭＨｚ以下のもの</Sentence>
               <Sentence>（ア）　１Ｗ以下のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１５</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（イ）　１Ｗを超えるもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>ウ　２３５ＭＨｚを超え３３５．４ＭＨｚ以下のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>７</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>エ　３３５．４ＭＨｚを超え４７０ＭＨｚ以下のもの（注２３）</Sentence>
               <Sentence>（ア）　１Ｗ以下のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>４</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（イ）　１Ｗを超えるもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>３</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>３　移動局（注１８，２０，２２，２４）</Sentence>
               <Sentence>（１）　船舶局</Sentence>
               <Sentence>ア　１５６ＭＨｚを超え１７４ＭＨｚ以下のもの（注４６）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>イ　３３５．４ＭＨｚを超え４７０ＭＨｚ以下のもの（注２５）</Sentence>
               <Sentence>（ア）　１Ｗ以下のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>４</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（イ）　１Ｗを超えるもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>３</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>ウ　その他の周波数のもの</Sentence>
               <Sentence>（ア）　生存艇及び救命浮機の送信設備</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（イ）　その他の送信設備</Sentence>
               <Sentence>Ａ　１Ｗ以下のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>Ｂ　１Ｗを超えるもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　航空機局（注２７，４５）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>３０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（３）　その他の移動局（注４４）</Sentence>
               <Sentence>ア　１００ＭＨｚを超え１４２ＭＨｚ以下のもの及び１６２．０３７５ＭＨｚを超え２３５ＭＨｚ以下のもの（注２８、５２、５７）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１５</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>イ　１４２ＭＨｚを超え１６２．０３７５ＭＨｚ以下のもの</Sentence>
               <Sentence>（ア）　１Ｗ以下のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１５</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（イ）　１Ｗを超えるもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>ウ　２３５ＭＨｚを超え３３５．４ＭＨｚ以下のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>７</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>エ　３３５．４ＭＨｚを超え４７０ＭＨｚ以下のもの（注２３，２５，２８，３１）</Sentence>
               <Sentence>（ア）　１Ｗ以下のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>４</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（イ）　１Ｗを超えるもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>３</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>４　無線測位局</Sentence>
               <Sentence>（１）　ＶＯＲの送信設備</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　その他の無線測位局（注２９、３０）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５　地上基幹放送局（注２１、５１）</Sentence>
               <Sentence>（１）　超短波放送のうちデジタル放送又は移動受信用地上基幹放送を行う地上基幹放送局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１Ｈｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　その他の地上基幹放送局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５００Ｈｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>６　標準周波数局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>０．００５</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>７　アマチユア局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>８　簡易無線局（注５０）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>９　コードレス電話の無線局及び小電力セキュリティシステムの無線局（注３４、４１）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>４</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１０　特定小電力無線局（注３６）</Sentence>
               <Sentence>（１）　チャネル間隔が６．２５ｋＨｚのもの</Sentence>
               <Sentence>ア　１４２．９３ＭＨｚを超え１４２．９９ＭＨｚ以下のもの及び１４６．９３ＭＨｚを超え１４６．９９ＭＨｚ以下のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２．５</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>イ　その他の周波数のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　その他のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>４</Sentence>
             </TableColumn>
           </TableRow>
@@ -39054,192 +38929,192 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　その他の周波数のもの</Sentence>
               <Sentence>ア　１００Ｗ以下のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>イ　１００Ｗを超えるもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２　陸上局及び移動局（３から８までに掲げるものを除く。）（注２０、３１、３４、３５、３７、３８）</Sentence>
               <Sentence>（１）　８１０ＭＨｚを超え９６０ＭＨｚ以下のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１．５</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　その他の周波数のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>３　簡易無線局（注３５）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>３</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>４　特定小電力無線局（注３６）</Sentence>
               <Sentence>（１）　チャネル間隔が１２．５ｋＨｚのもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　その他のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>４</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５　時分割多元接続方式狭帯域デジタルコードレス電話の無線局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>３</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>６　時分割多元接続方式広帯域デジタルコードレス電話の無線局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>７　時分割・直交周波数分割多元接続方式デジタルコードレス電話の無線局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>０．２５</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>８　小電力データ通信システムの無線局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>９　無線測位局</Sentence>
               <Sentence>（１）　地上ＤＭＥ及び地上タカンの送信設備</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　機上ＤＭＥ及び機上タカンの送信設備</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１００ｋＨｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（３）　ＳＳＲの送信設備</Sentence>
               <Sentence>ア　モードＳ機能を有するもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１０ｋＨｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>イ　その他</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２００ｋＨｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（４）　ＡＴＣトランスポンダの送信設備</Sentence>
               <Sentence>ア　モードＳ機能を有するもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１，０００ｋＨｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>イ　その他</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>３，０００ｋＨｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（５）　質問信号送信設備</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１０ｋＨｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（６）　基準信号送信設備及びノントランスポンダ</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１，０００ｋＨｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（７）　その他の無線測位局（注２９）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１０　地上基幹放送局（注２１、４９）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１Ｈｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１１　地上一般放送局（注５３）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１Ｈｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１２　アマチュア局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５００</Sentence>
             </TableColumn>
           </TableRow>
@@ -39264,68 +39139,68 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　１００Ｗを超えるもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２　陸上局及び移動局（注２０、３１、３４、３６、４７、５７）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>３　無線測位局</Sentence>
               <Sentence>（１）　ＭＬＳ角度系</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１０ｋＨｚ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　その他の無線測位局（注２９）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１，２５０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>４　アマチユア局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５　地球局及び宇宙局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>６　小電力データ通信システムの無線局及び５．２ＧＨｚ帯高出力データ通信システムの無線局</Sentence>
               <Sentence>（１）　５，１５０ＭＨｚを超え５，３５０ＭＨｚ以下又は５，４７０ＭＨｚを超え５，７２５ＭＨｚ以下の周波数の電波を使用するもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　その他の周波数を使用するもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５０</Sentence>
             </TableColumn>
           </TableRow>
@@ -39350,68 +39225,68 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　その他の無線測位局（注２９）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５，０００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２　アマチユア局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>３　簡易無線局</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>４　地球局及び宇宙局（注４０）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>１００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５　特定小電力無線局（注３４）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>６　小電力データ通信システムの無線局（注３４）</Sentence>
               <Sentence>（１）　５７ＧＨｚを超え６６ＧＨｚ以下のもの</Sentence>
               <Sentence>ア　１０ｍＷ以下のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>５００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>イ　１０ｍＷを超えるもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２０</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>（２）　その他の周波数のもの</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none" BorderTop="none">
+            <TableColumn BorderTop="none" BorderBottom="none">
               <Sentence>２０</Sentence>
             </TableColumn>
           </TableRow>
@@ -39654,10 +39529,10 @@
                         </TableColumn>
                       </TableRow>
                       <TableRow>
-                        <TableColumn BorderBottom="none" BorderTop="none">
+                        <TableColumn BorderTop="none" BorderBottom="none">
                           <Sentence>（２）２００Ｗを超えるもの</Sentence>
                         </TableColumn>
-                        <TableColumn BorderBottom="none" BorderTop="none">
+                        <TableColumn BorderTop="none" BorderBottom="none">
                           <Sentence>５０</Sentence>
                         </TableColumn>
                       </TableRow>
@@ -39682,10 +39557,10 @@
                         </TableColumn>
                       </TableRow>
                       <TableRow>
-                        <TableColumn BorderBottom="none" BorderTop="none">
+                        <TableColumn BorderTop="none" BorderBottom="none">
                           <Sentence>（２）　５００Ｗを超えるもの</Sentence>
                         </TableColumn>
-                        <TableColumn BorderBottom="none" BorderTop="none">
+                        <TableColumn BorderTop="none" BorderBottom="none">
                           <Sentence>５０</Sentence>
                         </TableColumn>
                       </TableRow>
@@ -52799,8 +52674,7 @@
           <Item Num="2">
             <ItemTitle>２</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1">搬送波を低減し，又は抑圧した多重通信路の送信装置の<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力は，一の変調周波数によつて変調したときの平均電力の４倍とする。</Sentence>
+              <Sentence Num="1">搬送波を低減し，又は抑圧した多重通信路の送信装置の<Ruby>尖<Rt>せん</Rt></Ruby>頭電力は，一の変調周波数によつて変調したときの平均電力の４倍とする。</Sentence>
               <Sentence Num="2">この場合において，同一通信路にこの単一変調周波数と等しい強度で周波数の異なる一の変調周波数を加えたときは，送信装置の高周波出力における第３次の混変調積が単一変調周波数のみを加えたときよりも２５デシベル下がつているものとする。</Sentence>
             </ItemSentence>
           </Item>
@@ -52813,15 +52687,13 @@
           <Item Num="4">
             <ItemTitle>４</ItemTitle>
             <ItemSentence>
-              <Sentence>放送用の送信装置の<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力及び平均電力は，１，０００ヘルツの変調周波数によつて送信出力の飽和レベルで変調した場合の電力とする。</Sentence>
+              <Sentence>放送用の送信装置の<Ruby>尖<Rt>せん</Rt></Ruby>頭電力及び平均電力は，１，０００ヘルツの変調周波数によつて送信出力の飽和レベルで変調した場合の電力とする。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="5">
             <ItemTitle>５</ItemTitle>
             <ItemSentence>
-              <Sentence>搬送波を低減し，又は抑圧した単一通信路の送信装置の<Ruby>尖<Rt>せん</Rt>
-</Ruby>頭電力は，一の変調周波数によつて送信出力の飽和レベルで変調した場合の平均電力とする。</Sentence>
+              <Sentence>搬送波を低減し，又は抑圧した単一通信路の送信装置の<Ruby>尖<Rt>せん</Rt></Ruby>頭電力は，一の変調周波数によつて送信出力の飽和レベルで変調した場合の平均電力とする。</Sentence>
             </ItemSentence>
           </Item>
         </Remarks>

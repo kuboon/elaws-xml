@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="285" Year="13">
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="285" Year="13" PromulgateMonth="07" PromulgateDay="08">
   <LawNum>平成十三年政令第二百八十五号</LawNum>
   <LawBody>
-    <LawTitle>農林中央金庫法施行令</LawTitle>
+    <LawTitle Kana="のうりんちゅうおうきんこほうせこうれい" Abbrev="" AbbrevKana="">農林中央金庫法施行令</LawTitle>
     <EnactStatement>内閣は、農林中央金庫法（平成十三年法律第九十三号）第四条第一項、第十一条第二項（同法第五十一条第二項において準用する場合を含む。）、第五十二条第二項、第五十四条第十一項、第五十八条第一項から第三項まで、第五十九条本文、第六十条、第六十五条第二項、第六十六条、第六十七条、第六十八条第二項、第七十一条並びに第八十二条第六項及び第九項の規定に基づき、農林中央金庫法施行令（昭和六十一年政令第二百九十四号）の全部を改正するこの政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -1588,8 +1588,7 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence>農林中央金庫が預金等の払戻しを停止した場合には、他の金融機関の連鎖的な破<Ruby>綻<Rt>たん</Rt>
-</Ruby>を発生させることにより、我が国における金融の機能に極めて重大な障害が生ずることとなる事態を生じさせるおそれがあること。</Sentence>
+              <Sentence>農林中央金庫が預金等の払戻しを停止した場合には、他の金融機関の連鎖的な破<Ruby>綻<Rt>たん</Rt></Ruby>を発生させることにより、我が国における金融の機能に極めて重大な障害が生ずることとなる事態を生じさせるおそれがあること。</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -3150,7 +3149,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年一〇月三〇日政令第一三九号" Extract="true">
+    <SupplProvision Extract="true" AmendLawNum="令和元年一〇月三〇日政令第一三九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -3160,7 +3159,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和二年七月八日政令第二一七号" Extract="true">
+    <SupplProvision Extract="true" AmendLawNum="令和二年七月八日政令第二一七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

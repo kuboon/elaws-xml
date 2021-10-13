@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="254" Year="26">
+<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="254" Year="26" PromulgateMonth="07" PromulgateDay="08">
   <LawNum>昭和二十六年政令第二百五十四号</LawNum>
   <LawBody>
-    <LawTitle>道路運送車両法施行令</LawTitle>
+    <LawTitle Kana="どうろうんそうしゃりょうほうせこうれい" Abbrev="" AbbrevKana="">道路運送車両法施行令</LawTitle>
     <EnactStatement>内閣は、道路運送車両法（昭和二十六年法律第百八十五号）第二条第四項、第三十四条第二項、第九十九条及び第百五条の規定に基き、並びに同法を実施するため、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -468,7 +468,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>道路運送法（昭和二十六年法律第百八十三号）第四十一条第三項及び第四項（これらの規定を同法第四十三条第五項及び第八十一条第二項、タクシー業務適正化特別措置法（昭和四十五年法律第七十五号）第五十二条第二項、地域公共交通の活性化及び再生に関する法律（平成十九年法律第五十九号）第二十七条の六第七項並びに特定地域及び準特定地域における一般乗用旅客自動車運送事業の適正化及び活性化に関する特別措置法（平成二十一年法律第六十四号）第十七条の三第二項において準用する場合を含む。）並びに貨物自動車運送事業法（平成元年法律第八十三号）第三十四条第三項及び第四項（これらの規定を同法第三十五条第六項及び第三十七条第三項において準用する場合を含む。）</Sentence>
+                  <Sentence>道路運送法（昭和二十六年法律第百八十三号）第四十一条第三項及び第四項（これらの規定を同法第四十三条第五項及び第八十一条第二項、タクシー業務適正化特別措置法（昭和四十五年法律第七十五号）第五十二条第二項、地域公共交通の活性化及び再生に関する法律（平成十九年法律第五十九号）第二十七条の二十第七項並びに特定地域及び準特定地域における一般乗用旅客自動車運送事業の適正化及び活性化に関する特別措置法（平成二十一年法律第六十四号）第十七条の三第二項において準用する場合を含む。）並びに貨物自動車運送事業法（平成元年法律第八十三号）第三十四条第三項及び第四項（これらの規定を同法第三十五条第六項及び第三十七条第三項において準用する場合を含む。）</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence>国土交通大臣</Sentence>
@@ -1472,7 +1472,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和二年七月八日政令第二一七号" Extract="true">
+    <SupplProvision Extract="true" AmendLawNum="令和二年七月八日政令第二一七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1495,12 +1495,21 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和二年八月五日政令第二三八号" Extract="true">
+    <SupplProvision Extract="true" AmendLawNum="令和二年八月五日政令第二三八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>この政令は、道路運送車両法の一部を改正する法律（令和元年法律第十四号）附則第一条第四号に掲げる規定の施行の日（令和二年十一月二十三日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一一月一一日政令第三二一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この政令は、持続可能な運送サービスの提供の確保に資する取組を推進するための地域公共交通の活性化及び再生に関する法律等の一部を改正する法律の施行の日（令和二年十一月二十七日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

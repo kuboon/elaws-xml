@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="34" Year="08">
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="34" Year="08" PromulgateMonth="06" PromulgateDay="21">
   <LawNum>平成八年大蔵省令第三十四号</LawNum>
   <LawBody>
-    <LawTitle>特定住宅金融専門会社の債権債務の処理の促進等に関する特別措置法施行規則</LawTitle>
+    <LawTitle Kana="とくていじゅうたくきんゆうせんもんかいしゃのさいけんさいむのしょりのそくしんとうにかんするとくべつそちほうせこうきそく" Abbrev="住専処理法施行規則,住専法施行規則" AbbrevKana="じ,じ">特定住宅金融専門会社の債権債務の処理の促進等に関する特別措置法施行規則</LawTitle>
     <EnactStatement>特定住宅金融専門会社の債権債務の処理の促進等に関する特別措置法（平成八年法律第九十三号）、同法において適用又は準用する預金保険法（昭和四十六年法律第三十四号）及び特定住宅金融専門会社の債権債務の処理の促進等に関する特別措置法施行令（平成八年政令第百八十五号）の規定に基づき、並びにこれらを実施するため、特定住宅金融専門会社の債権債務の処理の促進等に関する特別措置法施行規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -489,7 +489,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="410058" AmendLawNum="平成一〇年四月一〇日大蔵省令第五八号" Id="fc7f36ee-1915-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一〇年四月一〇日大蔵省令第五八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -498,7 +498,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="410019" AmendLawNum="平成一〇年一〇月二三日総理府・大蔵省令第一九号" Id="fcad8dfa-1915-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一〇年一〇月二三日総理府・大蔵省令第一九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -526,7 +526,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411026" AmendLawNum="平成一一年三月三一日総理府・大蔵省令第二六号" Id="fcdc11c0-1915-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年三月三一日総理府・大蔵省令第二六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -535,7 +535,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412046" AmendLawNum="平成一二年六月二九日総理府・大蔵省令第四六号" Id="6a423e9c-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年六月二九日総理府・大蔵省令第四六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -544,7 +544,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412059" AmendLawNum="平成一二年一〇月一〇日総理府・大蔵省令第五九号" Id="6a4fd840-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年一〇月一〇日総理府・大蔵省令第五九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -553,7 +553,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413001" AmendLawNum="平成一三年三月一日内閣府・財務省令第一号" Extract="true" Id="6a5d6726-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年三月一日内閣府・財務省令第一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -566,7 +566,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414001" AmendLawNum="平成一四年三月二八日内閣府・財務省令第一号" Id="6a78a75c-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年三月二八日内閣府・財務省令第一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -575,7 +575,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418006" AmendLawNum="平成一八年四月二六日内閣府・財務省令第六号" Extract="true" Id="6ae597a4-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年四月二六日内閣府・財務省令第六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -588,7 +588,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419005" AmendLawNum="平成一九年八月九日内閣府・財務省令第五号" Id="6b0e4398-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年八月九日内閣府・財務省令第五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>

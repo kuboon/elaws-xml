@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="39" Year="21">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="39" Year="21" PromulgateMonth="10" PromulgateDay="19">
   <LawNum>昭和二十一年法律第三十九号</LawNum>
   <LawBody>
-    <LawTitle>金融機関再建整備法</LawTitle>
+    <LawTitle Kana="きんゆうきかんさいけんせいびほう" Abbrev="" AbbrevKana="">金融機関再建整備法</LawTitle>
     <TOC>
       <TOCLabel>金融機関再建整備法目次</TOCLabel>
       <TOCChapter Num="1">
@@ -62,8 +62,8 @@
               <Sentence>この法律において、金融機関、指定時又は預金等とは、金融機関経理応急措置法に定める金融機関、指定時又は預金等をいふ。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>この法律において、新勘定又は旧勘定とは、金融機関経理応急措置法第一条第一項の規定により設けられた新勘定又は旧勘定をいふ。</Sentence>
             </ParagraphSentence>
@@ -89,14 +89,14 @@
               <Sentence>金融機関の指定時における旧勘定の負債に関する債権者（その承継人を含む。以下同じ。）で勅令で定めるものは、命令の定めるところにより、主務大臣の指定する日までに、その債権を当該金融機関に申し出なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の債権者が、同項の期限内に、その債権を申し出ない場合においては、その債権者は、旧勘定の整理から除斥される。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項の期日において知れてゐる債権者は、これを旧勘定の整理から除斥することができない。</Sentence>
             </ParagraphSentence>
@@ -131,14 +131,14 @@
               <Sentence>金融機関の旧勘定の資産及び負債並びに指定時における新勘定の資産及び負債のうち、命令で定めるもの以外のものについては、評価基準が設けられる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の評価基準は、暫定評価基準及び確定評価基準の二とし、命令の定めるところにより、主務大臣が、これを決定する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>主務大臣は、暫定評価基準又は確定評価基準を決定したときは、これを公告する。</Sentence>
             </ParagraphSentence>
@@ -153,8 +153,8 @@
               <Sentence Num="2">この場合において、その資産及び負債のうち確定評価基準の決定したものがあるときは、これについては、確定評価基準による評価を行はなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関は、前項の評価を行つたときは、命令の定めるところにより、同項に掲げる資産及び負債について、各勘定別に、財産目録、貸借対照表及び損益の計算書（損益の計算書は旧勘定の分に限る。）を作成し、主務大臣の指定する日までに、これを主務大臣に提出しなければならない。</Sentence>
             </ParagraphSentence>
@@ -177,8 +177,8 @@
               <Sentence>金融機関は、指定時における新勘定の資産及び負債について、第八条第一項又は前条の評価を行つた結果、評価益が生じたときは、その評価益に相当する金額を新勘定の旧勘定に対する借として整理し、又、評価損が生じたときは、その評価損に相当する金額を新勘定の旧勘定に対する貸として整理する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関は、前項の場合においては、新勘定の旧勘定に対する借として整理すべき金額に相当する額は、これを旧勘定の評価益として整理し、又、新勘定の旧勘定に対する貸として整理すべき金額に相当する額は、これを旧勘定の評価損として整理する。</Sentence>
             </ParagraphSentence>
@@ -204,8 +204,8 @@
               <Sentence>金融機関は、第五章に規定する場合を除く外、本章の定めるところにより、旧勘定の資産又は整理債務を移し換へることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の整理債務とは、旧勘定に属する債務（責任準備金及び支払備金に関する債務を含む。）のうち、主務大臣の指定する債務（以下指定債務といふ。）以外のものをいふ。</Sentence>
             </ParagraphSentence>
@@ -231,20 +231,20 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の規定による主務大臣の認可があつたときは、その指定する時において、認可に係る整理債務は、新勘定に属するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項の規定により旧勘定から新勘定に移した整理債務の金額に相当する金額は、これを旧勘定の新勘定に対する借として整理する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関は、第一項の規定による主務大臣の認可があつたときは、命令の定めるところにより、遅滞なくその旨を公告しなければならない。</Sentence>
             </ParagraphSentence>
@@ -270,8 +270,8 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前条第二項乃至第四項の規定は、前項の場合に、これを準用する。</Sentence>
             </ParagraphSentence>
@@ -286,14 +286,14 @@
               <Sentence Function="proviso" Num="2">但し、新金融機関の同意を得なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の場合においては、旧金融機関は、命令の定めるところにより、新金融機関に移した整理債務の金額に相当する金額の債務を、新金融機関に対して負担する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>銀行法の施行に伴う関係法律の整備等に関する法律（昭和五十六年法律第六十一号）附則第二条第二項の規定によりなおその効力を有することとされる銀行法等特例法（昭和二十年法律第二十一号）（第二十六条第八項及び第四十二条第三項において「旧銀行法等特例法」という。）第一条の規定は、命令の定めるところにより、第一項の規定により整理債務を移す場合に、これを準用する。</Sentence>
             </ParagraphSentence>
@@ -307,8 +307,8 @@
               <Sentence>金融機関は、旧勘定の新勘定に対する借がある場合においては、命令の定めるところにより、その借の金額の範囲内において、旧勘定の資産のうち、第八条第一項又は第九条の規定により確定評価基準により評価したものを、その評価額を以て旧勘定から新勘定に移し、その評価額に相当する金額を、旧勘定の新勘定に対する借の金額から控除しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の規定により、確定評価基準により評価した資産で命令で定めるものを旧勘定から新勘定に移す場合においては、金融機関は、主務大臣の承認を受けなければならない。</Sentence>
             </ParagraphSentence>
@@ -322,15 +322,15 @@
               <Sentence>第十五条第二項又は第四十二条第二項の規定により、旧金融機関が新金融機関に対し債務を負担した場合において、旧金融機関に、金融機関経理応急措置法第九条第一項の規定により、旧勘定に属する現金（小切手を含む。）を生じたときは、旧金融機関は、同法第十条の規定にかかはらず、命令の定めるところにより、これを新金融機関に対する債務の弁済に充てなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">第十五条第二項又は第四十二条第二項の規定により、旧金融機関が新金融機関に対し債務を負担した場合においては、旧金融機関は、前項に規定する場合の外、金融機関経理応急措置法第十六条本文及び前条の規定にかかはらず、命令の定めるところにより、その債務の金額の範囲内において、旧勘定の資産のうち、第八条第一項又は第九条の規定により確定評価基準により評価したものを、その債務の弁済に充てることができる。</Sentence>
               <Sentence Function="proviso" Num="2">但し、新金融機関の同意を得なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前二項の場合においては、新金融機関は、金融機関経理応急措置法第十七条本文の規定にかかはらず、弁済を受けることができる。</Sentence>
             </ParagraphSentence>
@@ -402,14 +402,14 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項第二号の場合において、同順位の積立金が二以上あるときは、均等の割合でこれを取り崩して塡補する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前二項の規定により暫定損の全額を塡補したときは、金融機関は、命令の定めるところにより、書面を以て主務大臣の認可を受け、旧勘定の最終処理を完了しなければならない。</Sentence>
             </ParagraphSentence>
@@ -465,8 +465,8 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項第三号の場合における確定益の額、又は同項第四号の場合における確定益の額の確定損の額を超える額は、これを旧勘定の特別準備金として整理しなければならない。</Sentence>
             </ParagraphSentence>
@@ -540,8 +540,8 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">前項第三号又は第八号の場合における各株主の負担額は、その所有する株式（出資及び基金を含む。以下同じ。）の金額に応じて均等とする。</Sentence>
               <Sentence Num="2">金融機関が数種の株式を発行してゐる場合においてもまた同じ。</Sentence>
@@ -575,20 +575,20 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第二十条第二項の規定は、前項第二号の場合に、これを準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前条第一項第四号乃至第十号の場合においては、整理債務又は指定債務の債権は、当該各号の規定によりこれらの債務の債権者が確定損を負担すべき金額に相当する金額だけ、新勘定及び旧勘定の区分の消滅の日において消滅する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の場合においては、保険会社、生命保険中央会又は損害保険中央会の旧勘定に属する責任準備金又は支払備金に対応する保険金（年金を含む。以下同じ。）の債権は、責任準備金又は支払備金に関する権利の消滅の割合と同一の割合により、新勘定及び旧勘定の区分の消滅の日において消滅する。</Sentence>
             </ParagraphSentence>
@@ -602,14 +602,14 @@
               <Sentence>日本銀行及び金融機関は、資本に未払込金があるときは、その全額について、昭和二十三年三月三十一日（損害保険会社及び地方農業会にあつては四月十四日）までの日を払込期日とする未払込株金（未払込出資金を含む。以下同じ。）の払込の催告をしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>日本銀行、恩給金庫及び庶民金庫の株主である国が前項の規定により払込の催告を受けた場合において、その払込期日が当該催告に係る未払込株金の払込に関する予算の成立の日以前であるときは、当該未払込株金は、当該予算の成立の日後遅滞なく払い込めば足りるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">金融機関が第一項の規定により未払込株金の払込の催告をなした場合において、払込期日までに払込をしない株主が左の各号の一に該当するときは、その株主の当該未払込株金の払込については、第二十五条の七、商法第二百十三条第二項及び民事訴訟法第六編の規定は、これを適用しない。</Sentence>
               <Sentence Num="2">この場合においては、当該株主は、遅滞の責に任じないものとし、各別の通知により第二回の催告を受けることが可能となつたときは、第二回の催告を受けるものとする。</Sentence>
@@ -633,8 +633,8 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の場合において、同項の日までに未払込株金の払込のなかつた株式を譲り受けた者が同項各号に掲げる者及び本邦以外の地域に住所を有する者以外の者であるときは、その株主は、譲受の日から二週間以内に、当該未払込株金の払込をしなければならない。</Sentence>
             </ParagraphSentence>
@@ -648,20 +648,20 @@
               <Sentence>第二十四条第一項第三号又は第八号の規定により株主において確定損を負担する金融機関で株券（出資証券及び基金証券を含む。以下同じ。）を発行してゐるものは、第二十七条第一項の認可を受けた後、第二十八条第一項の公告とともに、当該金融機関の確定損を負担すべき株主又は当該株主の株式に質権を有する者で株主名簿（出資者名簿その他これに準ずるものを含む。以下同じ。）に記載のある者は、その株券を一定期間内に当該金融機関に提出すべき旨を公告しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の期間は、二週間以上二箇月の範囲内で、これを定めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第二十五条第一項第三号の規定による資本の減少は、第二十七条第一項の認可を受けた最終処理方法書（以下決定最終処理方法書といふ。）に定めるところにより未払込株金の払込をなさしめる金融機関（以下未払込株金徴収金融機関といふ。）については第二十五条の五第一項の払込期日、その他の金融機関については第一項の期間満了の日（株券を発行してゐないものについては新勘定及び旧勘定の区分の消滅の日）において、その効力を生ずる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第二十五条第一項第三号の規定により資本の減少を行はなければならない金融機関は、前項の規定により資本の減少がその効力を生ずる日から、本店又は主たる事務所及び支店又は従たる事務所の所在地において百二十日以内に資本減少の登記をなせば足りるものとする。</Sentence>
             </ParagraphSentence>
@@ -675,21 +675,21 @@
               <Sentence>未払込株金徴収金融機関は、決定最終処理方法書に定めるところにより未払込株金の払込をなさしめる株式について、第二十七条第一項の認可を受けた後遅滞なく、指定時において株主として株主名簿に記載された者（指定時において第五十七条第一項に規定する金融機関以外の金融機関の株主として株主名簿に記載された者について相続又は分割若くは合併のあつた場合においては、その一般承継人　以下指定時株主といふ。）以外の株主（指定時株主でその後株主たらざることとなり当該株式を再び取得した株主を含む。）に対し、前条第一項の期間（株券を発行してゐない金融機関については、第二十八条第一項の公告の日から二週間以上二箇月の範囲内でその定める期間）内に決定最終処理方法書に定める当該株式の未払込株金の払込をなすべき旨を催告し、同時に、その株主及びその株主の株式につき株主名簿に質権者として記載された者に対し、株主がその払込をしないときはその催告は効力を失ひその株主はその株式につき株主の権利を失ふ旨を通知しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">前項の場合において、同項の規定による催告を受けた株主が同項の規定による払込をしないときは、その催告は効力を失ひ、その株主はその株式につき株主の権利を失ひ、その株式は、前項の期間満了の時において、指定時株主（指定時において信託法第三条第二項の規定により株主名簿に信託財産である旨の記載のあつた株式又は金融機関経理応急措置法第八条第一項の規定により公証人の認証を受けた信託会社又は信託業務を兼営する銀行の指定時における信託勘定の新勘定に属する資産の目録に記載のあつた株式については、その際その株式につき信託の委託者であつた者　以下同じ。）に帰属する。</Sentence>
               <Sentence Function="proviso" Num="2">但し、第五十七条第一項に規定する金融機関の指定時株主がその会員又は組合員の資格を有しない者であるときは、その株式は、当該未払込株金徴収金融機関に帰属する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項本文の規定により株式が帰属すべき者が存しないときは、その株式は、当該未払込株金徴収金融機関に帰属する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">未払込株金徴収金融機関が、第一項の規定による催告をなす場合において、内閣総理大臣の認可を受けたときは、公告をもつて、この催告に代えることができる。</Sentence>
               <Sentence Function="proviso" Num="2">ただし、株主がその氏名及び住所を当該金融機関に通知したときは、当該株主に対しては、各別に催告しなければならない。</Sentence>
@@ -704,21 +704,21 @@
               <Sentence>未払込株金徴収金融機関は、第二十五条の四第一項の期間満了後二週間以内に、決定最終処理方法書に定めるところにより払込期日を定め、株主（前条第一項の規定により払込のあつた株式の株主及び外国に住所を有する指定時株主を除く。）に対し、未払込株金の払込をなすべき旨を催告しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">前項の場合において、前条第二項の規定により株式の帰属した指定時株主（指定時株主でその後株主たらざることとなり当該株式を再び取得した株主を除く。）に対する催告は、指定時においてその株式の株主として株主名簿に記載された者に対し、株主名簿に記載されたその者の住所に宛てて、これをなせば足りる。</Sentence>
               <Sentence Function="proviso" Num="2">但し、指定時株主がその氏名及び住所を金融機関に通知したときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項の払込期日は、第二十五条の四第一項の期間満了後二週間を経過した時から二週間以上二箇月の範囲内で、これを定めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関又は会社経理応急措置法の特別経理会社（会社経理応急措置法第三十九条の規定により、同法の規定を準用される者を含む。以下特別経理会社といふ。）が、左の各号に掲げる株式について、第一項の規定により未払込株金の払込をなすべき旨の催告を受けた場合において、同項の払込催告が当該金融機関（第二号の株式については同号の金融機関　以下本条中同じ。）の新勘定及び旧勘定の区分の消滅の日又は当該特別経理会社（第二号の株式については同号の特別経理会社　以下本条中同じ。）の旧勘定及び新勘定の併合（旧勘定のみを設ける特別経理会社については旧勘定の廃止　以下同じ。）の日以前になされたときは、当該株主に対する払込期日は、同項の規定にかかはらず、当該金融機関の新勘定及び旧勘定の区分の消滅の日又は当該特別経理会社の旧勘定及び新勘定の併合の日後一箇月を経過した日とする。</Sentence>
             </ParagraphSentence>
@@ -740,8 +740,8 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の規定は、金融機関又は特別経理会社が第一項の規定による未払込株金の払込の催告のあつた株式以外の株式について、第二十五条の二第一項の規定による未払込株金の払込の催告を受けた場合に、これを準用する。</Sentence>
             </ParagraphSentence>
@@ -764,40 +764,40 @@
               <Sentence>第二十五条の五第一項の規定により催告を受けた株主が払込期日までに払込みをしないときは、未払込株金徴収金融機関は、その株主が未払込株金の払込みをしない株式を、換価のため競売し、又は他の方法により売却することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">商法第二百十四条第一項第三項、第二百十五条及び第二百二十条第一項第三項の規定は、前項の場合に、これを準用する。</Sentence>
               <Sentence Num="2">この場合において、同法第二百十四条第三項、第二百十五条第一項第二項及び第二百二十条第一項第三項中「譲渡人」とあるのは「指定時後の譲渡人（指定時後昭和二十二年十一月二十六日までの間又は昭和二十三年一月十六日以後において株式の譲渡を株主名簿に記載された者並びに第二十五条の四第二項の規定により株主の権利を失つた者で指定時後昭和二十二年十一月二十六日までの間又は昭和二十三年一月十六日以後において株主として株主名簿に記載された者をいふ。）」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前二項の規定は、未払込株金徴収金融機関が損害賠償及び定款を以て定めた違約金の請求をなすことは、これを妨げない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>商法第三百九十二条及び第三百九十三条並びに非訟事件手続法第百三十五条ノ二十四及び第百三十五条ノ四十三乃至第百三十五条ノ四十六の規定は、未払込株金徴収金融機関が第一項の株主に株金（出資金を含む。以下同じ。）の払込をなさしめる場合に、これを準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項の規定により競売をなすもその結果を得られなかつたとき又は相当の期間内に同項の規定による売却をなさなかつたときは、未払込株金徴収金融機関は、同項の株主に対しその旨を通知することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="6">
-            <ParagraphNum>○６</ParagraphNum>
+          <Paragraph Num="6" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">前項の通知があつたときは、当該株主はその権利を失ふ。</Sentence>
               <Sentence Num="2">この場合においては、第二項において準用する商法第二百十四条第三項の規定を準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="7">
-            <ParagraphNum>○７</ParagraphNum>
+          <Paragraph Num="7" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第二十五条の五第二項の規定は、第五項の通知に、これを準用する。</Sentence>
             </ParagraphSentence>
@@ -812,8 +812,8 @@
               <Sentence Num="2">この場合においては、同項の規定による催告のあつたその他の株式に係る株金払込請求権は、第二十五条第三項の規定にかかはらず、消滅しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の場合において、当該株主がいづれの株式について株主の権利を失ふかを確定するために必要な事項は、主務大臣がこれを定める。</Sentence>
             </ParagraphSentence>
@@ -827,8 +827,8 @@
               <Sentence>第二十五条の五第一項の規定により催告を受けた株主（信託株式についてはその委託者）が特別経理会社である場合において、当該特別経理会社に対し企業再建整備法第十九条の規定の適用又は準用があるときは、その催告のあつた株式を、株式を発行した者、株式の種類及び払込催告額の異なるものごとに区分し、当該区分に属する株式の数に同法第十八条の決定整備計画に定める同法第六条第十号の割合を乗じて得た数（一未満の端数があるときは、その端数は切り上げる。）の当該区分に属する株式について、その株主は、当該特別経理会社の旧勘定及び新勘定の併合の日（同法第三十六条第一項第一号及び同号の規定を準用する場合の特別経理会社が旧勘定及び新勘定の併合の日後整備計画の全部の実行を終る日前にその催告を受けた場合においては払込期日）において、第二十五条の五第一項の催告に係る株金払込の義務を免れるとともに、株主の権利を失ふ。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前条第二項の規定は、前項の場合に、これを準用する。</Sentence>
             </ParagraphSentence>
@@ -851,8 +851,8 @@
               <Sentence>金融機関（金融機関が信託の委託者である場合における信託株式については受託者）が、当該金融機関（金融機関が信託の委託者である場合における信託株式については委託者たる金融機関　以下本条中同じ。）の新勘定及び旧勘定の区分の消滅後に、第二十五条の五第一項の規定により催告を受けた場合において、当該金融機関に対し前に第二十四条第一項第七号又は第九号の規定の適用があつたときは、若し当該催告が当該金融機関の新勘定及び旧勘定の区分の消滅前にあつたならば、第二十五条の八第一項の規定によりその株主が株主の権利を失ふべきであつた株式について、その株主は、その払込期日において、第二十五条の五第一項の催告に係る株金払込の義務を免れるとともに、株主の権利を失ふ。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第二十五条の八第二項の規定は、前項の場合に、これを準用する。</Sentence>
             </ParagraphSentence>
@@ -866,8 +866,8 @@
               <Sentence>特別経理会社（特別経理会社が信託の委託者である場合における信託株式についてはその受託者）が、当該特別経理会社（特別経理会社が信託の委託者である場合における信託株式については委託者たる特別経理会社　以下本条中同じ。）の旧勘定及び新勘定の併合の日（企業再建整備法第三十六条第一項第一号及び同号の規定を準用する場合の特別経理会社については整備計画の全部の実行を終つた日　以下本条中同じ。）後に、第二十五条の五第一項の規定により催告を受けた場合において、当該特別経理会社に対し前に同法第十九条の規定の適用又は準用があつたときは、若し当該催告がその旧勘定及び新勘定の併合の日前にあつたならば第二十五条の九第一項の規定により当該特別経理会社が株主の権利を失ふべきであつた株式について、その株主は、その払込期日において、第二十五条の五第一項の催告に係る株金払込の義務を免れるとともに、株主の権利を失ふ。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第二十五条の八第二項の規定は、前項の場合に、これを準用する。</Sentence>
             </ParagraphSentence>
@@ -881,8 +881,8 @@
               <Sentence>第二十五条の七乃至第二十五条の九又は前二条の規定により株主がその権利を失つた株式は、株主がその権利を失つた日において、未払込株金徴収金融機関に帰属する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">前項又は第二十五条の四第二項但書若しくは第三項の規定により未払込株金徴収金融機関に帰属した株式については当該金融機関に帰属した日後の相当の時期に、決定最終処理方法書に定めるところにより、競売その他の方法により、これを処分しなければならない。</Sentence>
               <Sentence Num="2">第二十五条の四第二項本文の規定により、未払込株金徴収金融機関に帰属した株式がある場合において、その株式についても、また同様とする。</Sentence>
@@ -915,27 +915,27 @@
               <Sentence>第二十五条の四第一項又は第二十五条の五第一項の規定により払込の催告を受けた株主は、商法第二百条第二項の規定（これに準ずる他の法令の規定を含む。）にかかはらず、株金の払込につき相殺をなすことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">第二十五条の四第一項又は第二十五条の五第一項の規定により払込の催告を受けた株主が未払込株金徴収金融機関に対する債権（当該債権に対する債務が当該金融機関の旧勘定に属するものであるときは、金融機関経理応急措置法第十六条但書の規定により弁済することのできるものに限る。）で担保権の目的たるもの以外のものを有するときは、その弁済期前において、未払込株金の払込につき、その債権を以て相殺をなすことができる。</Sentence>
               <Sentence Num="2">この場合においては、当該債権及び未払込株金の払込請求権は、相殺の意思表示をなした時において、その対当額につき消滅する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>商法第百二十五条第二項及び第三項の規定は、前項の場合に、これを準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>未払込株金の払込請求権その他主務大臣の指定する債権は、第一項及び第二項の規定にかかはらず、これを以て、株金払込につき相殺をなすことができない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>未払込株金徴収金融機関は、相殺により消滅した債務（旧勘定に属するものを除く。）の額に相当する金額を、新勘定の旧勘定に対する借として整理しなければならない。</Sentence>
             </ParagraphSentence>
@@ -950,8 +950,8 @@
               <Sentence Num="2">この場合においては、その交付は、株金の払込と同一の効力を有する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の場合における国債、地方債その他の有価証券の評価額は、主務大臣の定めるところによる。</Sentence>
             </ParagraphSentence>
@@ -974,14 +974,14 @@
               <Sentence>金融機関が株主総会（出資者総会及び社員総会その他これに準ずるものを含む。以下同じ。）の招集の通知を発した後株主総会の日までにおいて、第二十五条の四第二項の規定により指定時株主に帰属した株式があるときは、金融機関は、遅滞なく、当該指定時株主に対し、その旨及び株主総会の招集の通知を発しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の通知があつたときは、当該指定時株主に対しては、適法の株主総会招集の通知があつたものとみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第二十五条の五第二項の規定は、第一項の通知に、これを準用する。</Sentence>
             </ParagraphSentence>
@@ -995,8 +995,8 @@
               <Sentence>第二十五条第一項第三号の規定により資本の減少をしなければならない金融機関（地方農業会を除く。）は、第二十五条の三第三項の規定により資本の減少が効力を生ずる日までに、株式を併合する旨及びその方法を公告し、他の法令中株式の金額の制限に関する規定に適合するようその株式を併合しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の株式の併合は、当該金融機関の資本の減少の日において、その効力を生ずる。</Sentence>
             </ParagraphSentence>
@@ -1011,8 +1011,8 @@
               <Sentence Function="proviso" Num="2">但し、その期間は、一箇月以上二箇月の範囲内で、これを定めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の公告の費用は、請求者の負担とする。</Sentence>
             </ParagraphSentence>
@@ -1026,14 +1026,14 @@
               <Sentence>第二十五条の二十第一項の規定による併合に適しない数の株式があるときは、その併合に適しない部分について、新たに発行した株式を換価のため競売その他の方法により処分（処分を目的とする信託による処分を含む。）し、かつ、株数に応じてその代金を従前の株主に交付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前条の規定は、前項の場合に、これを準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前二項の規定は、無記名式の株券で第二十五条の三第一項の規定による提出のなかつたものに、これを準用する。</Sentence>
             </ParagraphSentence>
@@ -1057,45 +1057,45 @@
               <Sentence Num="2">旧勘定の新勘定に対する借は、この措置と同時に消滅する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の場合においては、金融機関は、同項の措置をなした後、主務大臣の指定する日までに、事業（新勘定及び旧勘定の区分の存する金融機関については新勘定の事業　以下本条中同じ。）の全部を他の金融機関に譲渡し、又は保険契約（新勘定及び旧勘定の区分の存する金融機関については新勘定の保険契約　以下本条中同じ。）の全部を他の金融機関に移転しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関は、前項の譲渡又は移転について対価を取得した場合においては（第三十三条第一項の規定による政府の補償があつたときは、先づ、その額まで、これを政府に納付し、なほ残額があるときは）、命令の定めるところにより、これを処分しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関は、第二項の期限内に事業の全部の譲渡又は保険契約の全部の移転を終つたときはその譲渡又は移転を終つた日において、又、同項の期限内にその譲渡又は移転を終らなかつたときは同項の期限を経過した日において解散する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第三項の規定は、前項の規定による解散の場合に、これを準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="6">
-            <ParagraphNum>○６</ParagraphNum>
+          <Paragraph Num="6" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項に定めるものを除く外、第四項の規定による解散の場合に関し必要な事項は、他の法令にかかはらず、命令でこれを定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="7">
-            <ParagraphNum>○７</ParagraphNum>
+          <Paragraph Num="7" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">第二十四条第一項第八号の規定により、旧金融機関の株主が資本の全額に相当する金額の確定損を負担しなければならない場合において、第十五条第二項又は第四十二条第二項の規定により、旧金融機関が新金融機関に対し負担した債務があるときは、旧金融機関は、第一項の措置をなす前に、命令の定めるところにより、先づ、旧勘定の資産をその債務の弁済に充てなければならない。</Sentence>
               <Sentence Function="proviso" Num="2">但し、現金（小切手を含む。）以外の資産を債務の弁済に充てるには、新金融機関の同意を得なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="8">
-            <ParagraphNum>○８</ParagraphNum>
+          <Paragraph Num="8" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>旧銀行法等特例法第一条の規定は、命令の定めるところにより、第二項の規定による事業の譲渡の場合に、これを準用する。</Sentence>
             </ParagraphSentence>
@@ -1109,14 +1109,14 @@
               <Sentence>金融機関経理応急措置法第二十二条第二項の規定により主務大臣の認可を受けて資本を増加した金融機関については、第十三条第一項第二号、第二十四条第一項第三号及び第八号、第二十五条第一項第三号並びに第二十六条第一項及び第七項の資本には、その増加した資本を含まない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第二十五条第一項第三号但書、前条第二項乃至第六項及び第八項の規定は、前項の金融機関には、これを適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項の金融機関が第五十七条第一項に規定する金融機関である場合において、当該金融機関の会員又は組合員が、第二十四条の規定により、その出資の全額に相当する確定損を負担して当該金融機関の会員又は組合員でなくなつたときは、その者は、新勘定及び旧勘定の区分の消滅後六箇月を限り、資金の貸付、施設の利用その他当該金融機関の会員又は組合員の受ける利益を受けることができる。</Sentence>
             </ParagraphSentence>
@@ -1130,8 +1130,8 @@
               <Sentence>第二十六条第一項の場合において、金融機関がその新勘定及び旧勘定の区分の消滅後、第三十九条第一項の規定により主務大臣の認可を受けた整備計画書に記載するところに従ひ資本を増加したときは、その資本増加の日において、前に旧勘定に属した株式の株主はその権利を失ひ、その株金総額に相当する金額だけ資本は減少する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前条第二項及び第三項の規定は、前項の場合に、これを準用する。</Sentence>
             </ParagraphSentence>
@@ -1145,8 +1145,8 @@
               <Sentence>金融機関の取締役又はこれに準ずる者（以下理事機関といふ。）は、第二十四条第一項に規定する場合においては、命令の定めるところにより、最終処理方法書を作成し、主務大臣の認可を受けなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の場合において、当該金融機関について、第四十七条の監査委員があるときは、理事機関は、前項の規定による認可の申請前、予め最終処理方法書につき、その承認を受けなければならない。</Sentence>
             </ParagraphSentence>
@@ -1160,8 +1160,8 @@
               <Sentence>金融機関の理事機関は、前条第一項の規定による認可があつたときは、旧勘定の最終処理を行ふべき旨を公告し、最終処理方法書及び第二十一条の書類を本店又は主たる事務所及び支店又は従たる事務所に備へ置かなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関の株主及び旧勘定の負債に関する債権者は、営業時間内、何時でも前項に掲げる書類を閲覧することができる。</Sentence>
             </ParagraphSentence>
@@ -1184,8 +1184,8 @@
               <Sentence>第二十七条第一項の認可があつた後、旧勘定の最終処理の完了までに、旧勘定の資産若しくは負債又は指定時における新勘定の資産若しくは負債について、旧勘定の最終処理の結果に影響を及ぼすべき変更を生じたときは、金融機関の理事機関は、その変更に基いて、最終処理方法書を改訂しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第二十七条乃至前条の規定は、前項の場合に、これを準用する。</Sentence>
             </ParagraphSentence>
@@ -1199,21 +1199,21 @@
               <Sentence>金融機関がこの法律の規定により行ふ資本の減少並びに株式の併合及び消却については、他の法令又は定款にかかはらず、株主総会の決議は、これを必要としない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">第一項の資本の減少については、他の法令中資本の金額の制限に関する規定は、資本の減少の日から命令で定める日までの間を限り、これを適用しない。</Sentence>
               <Sentence Num="2">地方農業会について、他の法令中出資の金額の制限に関する規定についても、また同じ。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項の事項並びに未払込株金の徴収及び払込に関し、この法律の規定に基く主務大臣の認可があつたときは、同一の事項については、同時に、他の法令の規定による認可があつたものとみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前三項に定めるものを除く外、第一項の資本の減少に関し必要な事項については、他の法令又は定款にかかはらず、命令で特別の定をなすことができる。</Sentence>
             </ParagraphSentence>
@@ -1236,14 +1236,14 @@
               <Sentence>第二十四条第一項の規定により確定損の整理負担額を計算するもなほ確定損の残額があるときは、その残額は、政府において、これを補償する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>政府は、前項の補償債務の決済を、国債証券の交付により行ふことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の規定により決済のため交付する国債証券の交付価格、償還期限及び利率は、次の通りとする。</Sentence>
             </ParagraphSentence>
@@ -1281,26 +1281,26 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>政府は、第一項の補償債務の決済のため必要な金額を限り、公債を発行することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第二項の規定による決済は、金融機関の新勘定及び旧勘定の区分の消滅した日の翌日において、これを行ふ。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="6">
-            <ParagraphNum>○６</ParagraphNum>
+          <Paragraph Num="6" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項の規定による政府の補償の金額は、大蔵省預金部等損失特別処理法（昭和二十一年法律第五十六号）による補償金の額と昭和二十年「ポツダム」宣言の受諾に伴ひ発する命令に関する件に基く金融機関経理応急措置法の一部を改正する政令（昭和二十三年政令第六十四号）附則第七条の規定による補償金の額とを合計し、百六十五億円を限度とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="7">
-            <ParagraphNum>○７</ParagraphNum>
+          <Paragraph Num="7" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第二項の規定による国債証券の交付により補償を受けた金融機関は、第二十六条第三項又は第三十七条の二第一項第一号の規定により政府に納付する金額がある場合においては、当該国債証券を以て納付することができる。</Sentence>
             </ParagraphSentence>
@@ -1314,20 +1314,20 @@
               <Sentence>金融機関は、旧勘定の最終処理を完了したときは、遅滞なくその旨を公告しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関の新勘定及び旧勘定の区分は、前項の公告（二回以上公告をなしたときは最初の公告）の日において消滅する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関は、第一項の公告をなしたときは、その公告（二回以上公告をなしたときは最初の公告）の後、本店又は主たる事務所及び支店又は従たる事務所の所在地において百二十日以内に、新勘定及び旧勘定の区分の消滅の登記をしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の登記に関し必要な事項は、命令でこれを定める。</Sentence>
             </ParagraphSentence>
@@ -1351,26 +1351,26 @@
               <Sentence>第四条第一項の規定により債権の申出をなすべき債権者でその申出をしなかつたものが、同項の期限後新勘定及び旧勘定の区分の消滅の日までにその債権を申し出たときは、第十九条若しくは第二十三条に規定する場合又は第二十条第一項第二号若しくは第二十五条第一項第二号の規定の適用後なほ旧勘定の積立金が残る場合に限り、旧勘定の積立金の金額の範囲内において、その債権の金額に応じ均等の割合で、その債権の弁済を、金融機関に請求することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の場合においては、金融機関は、債権者に対し、その債権の弁済の請求ができる金額を通知しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第四条第一項の規定により申出をなすべき債権で、同項の期限までにその申出のなかつたものは、第一項の規定により弁済の請求ができる金額を除く外、新勘定及び旧勘定の区分の消滅の日において消滅する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項の場合においては、金融機関は、他の法令又は定款にかかはらず、同項の規定により弁済の請求を受くべき金額だけ、積立金を、退職積立金以外の任意積立金、退職積立金及び他の法令による積立金の順序により、順次に取り崩すことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第二十条第二項の規定は、前項の場合に、これを準用する。</Sentence>
             </ParagraphSentence>
@@ -1384,14 +1384,14 @@
               <Sentence>金融機関の旧勘定の負債又は指定時における新勘定の負債に関する債権（責任準備金及び支払備金に関する権利を含む。以下第三十七条まで同じ。）で、旧勘定の最終処理の完了の際不確定であつたものが、旧勘定の最終処理の完了後確定したときは、金融機関の理事機関は、その確定の結果に基いて、第二十四条の規定に準じ、当該債権が確定損を負担すべきであつた金額を計算し、その金額を当該債権者（責任準備金及び支払備金に関する権利者を含む。以下第三十八条まで同じ。）に通知しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の場合においては、当該債権は、同項の規定による通知のあつた時において、その通知に係る金額だけ消滅する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第二十五条第四項の規定は、前項の場合に、これを準用する。</Sentence>
             </ParagraphSentence>
@@ -1405,8 +1405,8 @@
               <Sentence>主務大臣は、前に旧勘定に属した資産及び負債で、最終処理の際、暫定評価基準により評価が行はれてゐたものにつき、確定評価基準を決定することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第七条第三項及び第九条の規定は、前項の場合にこれを準用する。</Sentence>
             </ParagraphSentence>
@@ -1444,27 +1444,27 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">前項に規定する処分益又は処分損とは、処分価額と確定評価基準により評価が行はれた時の帳簿価額との差益又は差損をいふ。</Sentence>
               <Sentence Function="proviso" Num="2">但し、確定評価基準により評価が行はれてゐない資産及び負債については、処分価額と新勘定及び旧勘定の区分の消滅した時の帳簿価額との差益又は差損をいふ。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項に規定する増価益又は減価損とは、新勘定及び旧勘定の区分の消滅の際、暫定評価基準により評価が行はれてゐたものにつき、前条の規定により設けられた確定評価基準によつて評価が行はれた場合に生じた差益又は差損をいふ。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項の規定により設ける調整勘定は、調整勘定以外の勘定と区分経理しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前四項の適用に関し必要な事項は、主務大臣が、これを定める。</Sentence>
             </ParagraphSentence>
@@ -1527,26 +1527,26 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の場合において、同順位の債権者があるときは、その確定損の整理負担額に応じ、均等の割合で分配するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関再建整備法施行規則（昭和二十一年大蔵、農林、商工省令第一号）第六十四条第二項の規定により金融機関に無記名式の債券を提出した者は、第一項第三号の規定の適用については、これを当該債券に係る権利につき確定損を負担した債権者とみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関再建整備法施行規則第六十四条第二項の規定により金融機関に無記名式の債券を提出しなければならない者が、同項の提出期限を経過した後第三十七条の三の規定による調整勘定の閉鎖の日までに、当該債券を当該金融機関に提出したときは、当該債券を提出した者は、同条の規定による利益金の残額があるときに限り、その残額の範囲内において、その確定損の整理負担額に応じ均等の割合で、且つ、その確定損の整理負担額の限度において、その残額の分配を受けることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第三項の規定は、前項の場合に、これを準用する。</Sentence>
             </ParagraphSentence>
@@ -1560,8 +1560,8 @@
               <Sentence>金融機関は、前に旧勘定に属した資産及び負債の整理が完了したとき（これらの資産及び負債のうち、第七条第一項の命令で定めるものを除くすべてについて確定評価基準による評価が行はれたときを含む。）又は前条の規定により調整勘定の利益金を同条第一項第五号に規定する金額の全額まで分配したときは、主務大臣の認可を受け、その認可に当り主務大臣の指定する日において、調整勘定を閉鎖しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関は、その調整勘定の閉鎖の際、同勘定に利益金の残額があるときは、第二十五条第一項の規定により株主として確定損を負担した者（相続人その他の一般承継人を含む。以下同じ。）に、左の各号の金額を分配しなければならない。</Sentence>
             </ParagraphSentence>
@@ -1578,20 +1578,20 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の場合において、調整勘定の利益金の残額がその分配金額に不足するときは、その確定損の整理負担額に応じ、均等の割合で分配しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関は、第二項の規定により分配してもなおその調整勘定に利益金の残額があるときは、これを当該金融機関の利益準備金として積み立てるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前三項の規定は、第三十八条の三の規定により在外資産負債処理勘定を設けてゐる金融機関には、適用しない。</Sentence>
             </ParagraphSentence>
@@ -1625,44 +1625,44 @@
               <Sentence>第三十七条の規定により調整勘定を設けなければならない金融機関は、債権者審査会を置かなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>債権者審査会は、七人の審査人を以て、これを組織する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の審査人は、金融機関の確定損を負担した整理債務の債権者であつて当該金融機関に対し債務を負担していない者（当該金融機関の役員、職員その他の従業者、国、地方公共団体、持株会社整理委員会及び昭和二十年ポツダム宣言の受諾に伴ひ発する命令に関する件に基く公職に関する就職禁止、退職等に関する勅令（昭和二十二年勅令第一号）第三条第二項に規定する覚書該当者を除く。）のうちで確定損負担額の最も多額な者から順次に、当該金融機関の理事機関がこれを選任し、その任期は、一年とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関の理事機関は、審査人がその就職の後当該金融機関から債務を負担するに至つたとき、又は当該金融機関の役員、職員その他の従業者となつたときは、当該審査人を解任しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>審査人が心身の故障その他の理由に因りその職務をとることができない場合には、金融機関の理事機関は、当該審査人を解任することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="6">
-            <ParagraphNum>○６</ParagraphNum>
+          <Paragraph Num="6" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関の理事機関は、前三項の規定により審査人を選任し又は解任したときは、遅滞なく、その者の氏名又は名称及び住所並びに整理債務の金額を、主務大臣に届出でなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="7">
-            <ParagraphNum>○７</ParagraphNum>
+          <Paragraph Num="7" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>審査人は、その職務の執行のために要した費用についてその実費の支払を受ける外、報酬を受けることができない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="8">
-            <ParagraphNum>○８</ParagraphNum>
+          <Paragraph Num="8" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>債権者審査会の職務の執行は、審査人の過半数を以て、これを決する。</Sentence>
             </ParagraphSentence>
@@ -1676,20 +1676,20 @@
               <Sentence>調整勘定に繰り入れる金額又は調整勘定から支出する金額は、法人税法（昭和四十年法律第三十四号）による各事業年度の所得の金額及び地方税法（昭和二十五年法律第二百二十六号）により事業税を課する場合における各事業年度の所得の計算上、これを益金の額又は損金の額に算入しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第三十七条の二第一項第四号又は第五号の規定により分配される利息に相当する金額は、所得税法（昭和四十年法律第三十三号）の適用については、同法第二十三条第一項に規定する利子所得とみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第三十七条の三第二項第一号の規定により分配する金額は、法人税法による各事業年度の所得の金額及び地方税法による事業税を課する場合における各事業年度の所得の計算上は、これを損金の額とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第三十七条の三第二項第二号の規定により分配される利息に相当する金額は、所得税法の適用については、同法第二十四条第一項に規定する配当所得とみなす。</Sentence>
             </ParagraphSentence>
@@ -1703,8 +1703,8 @@
               <Sentence>前七条の規定は、第二十五条第三項若しくは第四項又は第三十六条第二項若しくは第三項の規定によりその債権の全部又は一部が消滅した譲渡金融機関からその事業の全部の譲渡又は保険契約の全部の移転を受けた金融機関に、これを準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項において譲渡金融機関とは、第二十六条第二項、第四十条第一項、第四十一条第一項若しくは第二項の規定により、又は第三十九条第一項の規定による整備計画書の定めるところにより他の金融機関に事業の全部の譲渡又は保険契約の全部の移転をなした金融機関をいふ。</Sentence>
             </ParagraphSentence>
@@ -1727,14 +1727,14 @@
               <Sentence>金融機関又は金融機関の役員、職員その他の従業者は、第三十七条の二の規定により調整勘定の利益金の分配を受ける権利を有する者から、その権利を譲り受け又はその権利の譲渡を要求し若しくは約束してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関又は金融機関の役員、職員その他の従業者は、当該金融機関又は他の金融機関の調整勘定に生じた利益金の分配に関して、第三十七条の二の規定により調整勘定の利益金の分配を受ける権利を有する者から、手数料その他の報酬を収受し又はこれを要求し若しくは約束してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関又は金融機関の役員、職員その他の従業者は、何等の名義によつても、前二項の禁止を免れる行為をしてはならない。</Sentence>
             </ParagraphSentence>
@@ -1749,21 +1749,21 @@
               <Sentence Function="proviso" Num="2">但し、第三十六条の場合においては、当該債権者の権利は、同条の定めるところによつて確定する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">旧勘定の整理が法令に違反して債権者又は株主に損害を及ぼしたときは、当該金融機関の理事機関は、当該金融機関と連帯してその損害を賠償しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2">但し、当該理事機関で、その業務の執行について過失がなかつた者については、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の規定は、第二十六条第四項の場合における清算に関する清算人の責任について、これを準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項（前項において準用する場合を含む。）の損害賠償の請求権は、新勘定及び旧勘定の区分の消滅の日から五年を経過したときは、時効に因つて消滅する。</Sentence>
             </ParagraphSentence>
@@ -2000,8 +2000,8 @@
               <Sentence>金融機関の理事機関は、命令の定めるところにより、旧勘定の最終処理の完了後における当該金融機関の事業に関し整備計画書を作成し、主務大臣の認可を受けなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の規定による整備計画書の認可があつた場合において、金融機関が主務大臣の指定する日までに、前項の整備計画書に定める整備計画を実行することができなかつたときは、その理事機関は、遅滞なくその旨を、書面を以て主務大臣に届け出なければならない。</Sentence>
             </ParagraphSentence>
@@ -2015,8 +2015,8 @@
               <Sentence>金融機関は、指定時における新勘定の資産及び負債のうち命令で定めるものについて確定評価基準が決定し、且つ、新勘定の旧勘定に対する借がない場合に限り、命令の定めるところにより、書面を以て主務大臣の認可を受け、新勘定の事業の全部若しくは一部を他の金融機関に譲渡し、又は新勘定の保険契約の全部若しくは一部を他の金融機関に移転することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の規定による認可があつたときは、同一の事項については、同時に他の法令による認可等があつたものとみなす。</Sentence>
             </ParagraphSentence>
@@ -2030,14 +2030,14 @@
               <Sentence>主務大臣は、金融機関の整備を促進するため必要があるときは、新勘定及び旧勘定の区分の存する金融機関に対し、新勘定の事業の全部若しくは一部を他の金融機関に譲渡し、又は新勘定の保険契約の全部若しくは一部を他の金融機関に移転すべきことを命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>主務大臣は、金融機関の旧勘定の最終処理の完了後における事業の状況により、特に必要があると認めるときは、他の法令に規定する場合を除く外、新勘定及び旧勘定の区分の消滅した金融機関に対し、合併若しくは資本の増加を命じ、その事業の全部若しくは一部を他の金融機関に譲渡すべきことを命じ、又はその保険契約の全部若しくは一部を他の金融機関に移転すべきことを命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項又は前項の規定による主務大臣の命令があつた場合において、命令を受けた日から六箇月以内に、その命令に係る事項に関する契約が成立せず、又は資本の増加に関する株主総会その他これに準ずるものの決議がなかつたときは、命令を受けた金融機関の理事機関は、遅滞なくその旨を、書面を以て主務大臣に届け出なければならない。</Sentence>
             </ParagraphSentence>
@@ -2051,20 +2051,20 @@
               <Sentence>第四十条第一項又は前条第一項若しくは第二項の規定により、金融機関が合併、事業の譲渡又は保険契約の移転をなす場合においては、当該金融機関は、その合併、事業の譲渡又は保険契約の移転の相手方を、新勘定及び旧勘定の区分の存しない金融機関（金融機関経理応急措置法第二十七条第二号の金融機関の場合においては、相手方たる者は当該金融機関と同種の法人で金融機関たるもの以外のものを含む。）のうちから選ばなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第四十条第一項又は前条第一項の場合において、旧金融機関に旧勘定の新勘定に対する借があるときは、命令の定めるところにより、新金融機関に対して、その借の金額に相当する金額（事業の一部を譲渡し又は保険契約の一部を移転した場合においては、借の金額のうち、その譲渡に係る事業又は移転に係る保険契約に関する部分とし、又、事業の譲渡又は保険契約の移転の対価があるときは、その対価の金額を控除したものとする。）の債務を負担する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>旧銀行法等特例法第一条の規定は、命令の定めるところにより、第四十条第一項又は前条第一項若しくは第二項の規定により合併又は事業の譲渡をなす場合に、これを準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前三項に定めるものを除く外、第四十条第一項又は前条第一項若しくは第二項の場合において必要な事項は、命令でこれを定める。</Sentence>
             </ParagraphSentence>
@@ -2078,14 +2078,14 @@
               <Sentence>第二十六条第二項、第四十条第一項又は第四十一条第一項の規定により他の金融機関（以下譲受金融機関といふ。）に事業の全部若しくは一部を譲渡し、又は保険契約の全部若しくは一部を移転する金融機関（以下譲渡金融機関といふ。）は、第二十六条第二項の規定の適用を受ける譲渡金融機関については、第二十七条第一項の認可を受けた日、その他の譲渡金融機関については、第四十条第一項の認可又は第四十一条第一項の命令のあつた日以後に退職する役員又は従業員（以下退職者といふ。）に対しては、法令の規定、定款の定又は契約の条項にかかはらず、退職金を支給してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>譲渡金融機関は、前項の規定にかかはらず、退職者で新勘定及び旧勘定の区分の消滅の日（第二十六条第二項の規定の適用を受ける譲渡金融機関の場合においては、同項の規定により主務大臣の指定する日）までに譲受金融機関の役員又は従業員とならなかつたものに対して、その翌日以後退職金を支給することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の規定によつて支給する退職金には、退職の日以後の利息を附することができる。</Sentence>
             </ParagraphSentence>
@@ -2108,26 +2108,26 @@
               <Sentence>金融機関は、任意積立金の三分の一に相当する金額と厚生年金保険法附則第十条乃至第十二条の規定による旧退職積立金及退職手当法により積み立てた退職手当積立金又は準備積立金の金額との合計金額の範囲内において、主務大臣の認可を受けて、第二十七条第一項の認可又は第四十条第一項の認可若しくは第四十一条第一項の命令のあつた日において当該金融機関の従業員である者に対して当該金融機関又は譲受金融機関が退職金を支給するため留保を必要とする積立金の金額を定めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の規定により定められた積立金の金額は、第十三条第一項第二号の合計額に加算するものとし、第十八条第一号イ、第二十条第一項第二号、第二十四条第一項第二号及び第二十五条第一項第二号の積立金には、これを含めないものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項の規定により留保すべき積立金の金額を定めた場合において、当該金融機関が譲受金融機関に対し事業の全部若しくは一部の譲渡又は保険契約の全部若しくは一部の移転をなしたときは、当該金融機関は、主務大臣の認可を受けて、当該積立金の全部又は一部を取り崩してこれに相当する資産を当該譲受金融機関に譲渡しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の場合において、譲受金融機関は、同項の規定により譲り受けた資産に相当する金額を積み立てなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関が第一項の規定により留保した積立金又は譲受金融機関が前項の規定により積み立てた積立金は、第三項の場合又は清算若しくは破算の場合を除く外、主務大臣の認可を受けなければ、第二十七条第一項の認可又は第四十条第一項の認可若しくは第四十一条第一項の命令のあつた日において第一項の金融機関の従業員であつた者に対する退職金の支払以外の目的に、これを使用してはならない。</Sentence>
             </ParagraphSentence>
@@ -2171,8 +2171,8 @@
               <Sentence>金融機関の決算は、当該金融機関に新勘定及び旧勘定の区分の存する間は、新勘定及び旧勘定について、各別に、これを行はなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>他の法令の適用のため必要な金融機関の財産目録、貸借対照表、損益計算書その他の商業帳簿及び営業に関する書類に関しては、命令の定めるところによる。</Sentence>
             </ParagraphSentence>
@@ -2186,8 +2186,8 @@
               <Sentence>金融機関は、毎事業年度において、新勘定又は旧勘定に利益金を生じたときは、他の法令又は定款にかかはらず、これを当該勘定の特別準備金として積み立てなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関は、毎事業年度において、新勘定又は旧勘定に欠損を生じたときは、当該勘定の特別準備金を取り崩して塡補し、なほ不足があるときは、これを当該勘定別に繰り越さなければならない。</Sentence>
             </ParagraphSentence>
@@ -2201,14 +2201,14 @@
               <Sentence>金融機関の新勘定及び旧勘定の区分が消滅したときは、他の法令又は定款にかかはらず、その区分の消滅した日を含む事業年度は、その区分の消滅した日までで終了するものとし、その事業年度に続く事業年度は、命令で定める日で終了するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関の新勘定及び旧勘定の区分の消滅の際現に新勘定又は旧勘定に特別準備金がある場合において、当該金融機関に法定準備金があるときは、当該特別準備金は、法定準備金に併せられ、又、法定準備金がないときは、当該特別準備金が、そのまま法定準備金となるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の規定にかゝはらず相互会社の新勘定及び旧勘定の区分の消滅の際、特別準備金がある場合においては、当該相互会社は、左の各号の順序により、これを処分しなければならない。</Sentence>
             </ParagraphSentence>
@@ -2225,8 +2225,8 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の規定により、特別準備金を処分するもなほ残額がある場合においては、相互会社の定款に定められている剰余金の分配の方法による。</Sentence>
             </ParagraphSentence>
@@ -2243,8 +2243,8 @@
               <Sentence>金融機関の旧勘定の整理の適正を図るため必要があるときは、主務大臣は、当該金融機関について、その債権者その他の利害関係人（国、公共団体その他の法人である場合においては、代表者その他の職員）のうちから、五人以内の監査委員を選任することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関の監査委員は、当該金融機関の役員と相兼ねることができない。</Sentence>
             </ParagraphSentence>
@@ -2258,14 +2258,14 @@
               <Sentence>監査委員は、金融機関の旧勘定の整理を監査することをその職務とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>監査委員は、前項に規定する職務を行ふため、何時でも金融機関の理事機関に対し旧勘定の整理に関する報告を求め、又は旧勘定の整理の状況を調査することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>監査委員の職務及び権限は、第二十七条第二項及び前二項に規定するものを除く外、勅令でこれを定める。</Sentence>
             </ParagraphSentence>
@@ -2288,14 +2288,14 @@
               <Sentence>主務大臣は、金融機関の役員が金融機関経理応急措置法若しくはこの法律又はこれに基く命令若しくは処分に違反したときは、金融機関に対し、その役員を解任すべきことを命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>主務大臣は、金融機関の役員の行為が公益を害する虞があると認めるときは、当該役員に対し、その職務の執行を停止すべきことを命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>主務大臣は、必要があるときは、金融機関に対し、前項の規定により職務の執行を停止した役員を解任すべきことを命ずることができる。</Sentence>
             </ParagraphSentence>
@@ -2309,14 +2309,14 @@
               <Sentence>主務大臣は、この法律の施行に関し必要があるときは、金融機関に対し、監督上必要な命令をなすことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>主務大臣は、この法律の施行に関し必要があるときは、金融機関をしてその業務及び財産の状況に関して報告せしめ、又は当該官吏をして帳簿、書類その他の物件を検査せしめることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>主務大臣は、前項の規定により、当該官吏をして検査せしめるときは、その身分を示す証票を携帯せしめなければならない。</Sentence>
             </ParagraphSentence>
@@ -2379,14 +2379,14 @@
               <Sentence>金融機関の新勘定及び旧勘定の区分が消滅するまでは、その金融機関に対して破産の宣告、整理開始の命令又は和議開始の決定をなすことができない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関の新勘定について支払不能又は債務超過の事実が生じた場合における措置については、勅令の定めるところによる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>金融機関の新勘定及び旧勘定の区分の消滅後においては、その金融機関には、金融機関経理応急措置法第二十二条第二項の規定は、これを適用しない。</Sentence>
             </ParagraphSentence>
@@ -2400,8 +2400,8 @@
               <Sentence>旧勘定に属する責任準備金に対応する生命保険金に関する保険契約（以下旧生命保険契約といふ。）につき指定時後払ひ込まれた保険料のうち、第二十五条第四項の規定により債権の消滅した生命保険金の部分に対応するものについては、その保険契約をなした生命保険会社又は生命保険中央会（以下生命保険会社等といふ。）は、命令の定めるところにより、当該保険契約者との間に保険契約が現に存する場合においては、これを当該保険契約の保険料に充当するものとし、保険料に充当してなほ残額がある場合又は当該保険契約者との間に現に保険契約が存しない場合においては、これを当該保険契約者に返済しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>新勘定及び旧勘定の区分の消滅の日までに、旧生命保険契約について保険事故が発生した場合において、金融機関経理応急措置法第二十四条第一項の規定により払ひ込むことを要しなかつた保険料で払ひ込まれなかつたものがあるときは、生命保険会社等は、命令の定めるところにより、その支払ふべき生命保険金の額からその保険料に相当する金額を控除した残額を、保険金受取人に交付する。</Sentence>
             </ParagraphSentence>
@@ -2415,14 +2415,14 @@
               <Sentence>地方農業会、市街地信用組合その他命令で定める金融機関の会員（組合員その他これに準ずるものを含む。以下本条中同じ。）で出資の義務を有するもののうち、指定時までに出資をしてゐないもの及び指定時後出資の義務を有する会員となるものは、当該金融機関に新勘定及び旧勘定の区分が存する間に限り、命令の定めるところにより、出資の払込に代へ、これに相当する金額の保証金を払ひ込まなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の保証金の払込をなした者は、資金の貸付、施設の利用その他当該金融機関の会員の受ける利益に関する他の法令の規定の適用については、出資をなしたものとみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項に定めるものを除く外、第一項の規定による保証金の払込をなした者に関し必要な事項は、命令でこれを定める。</Sentence>
             </ParagraphSentence>
@@ -2454,38 +2454,38 @@
               <Sentence>第二十五条第三項若しくは第四項又は第三十六条第二項若しくは第三項の規定により、金融機関の整理債務又は指定債務の債権の全部又は一部が消滅した場合において、当該金融機関の発行に係る債券でその権利の一部が消滅したものの金額が他の法令の規定による当該債券の金額に満たないときは、当該金融機関は、その債券を併合する旨並びにその期日及び方法を公告し、他の法令の規定による金額にまでその債券を併合しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の債券の併合は、当該債券の併合の期日において、その効力を生ずる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項の場合においては、当該債券の権利の一部が消滅した日から前項の規定により当該債券の併合がその効力を生ずる日までの間を限り、他の法令中当該債券の金額の制限に関する規定は、これを適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項の規定による併合に適しない債券があるときは、その併合に適しない部分については、これを消却することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第二十五条の二十一の規定は、第一項の規定による債券の併合の場合に、これを準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="6">
-            <ParagraphNum>○６</ParagraphNum>
+          <Paragraph Num="6" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項、第四項及び前項の場合においては、社債権者集会の決議は、これを必要としない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="7">
-            <ParagraphNum>○７</ParagraphNum>
+          <Paragraph Num="7" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前六項に定めるものを除くの外、第一項の場合において、当該金融機関の発行に係る債券その他命令で定める証券の引換その他の処理に関し必要な事項は、命令でこれを定める。</Sentence>
             </ParagraphSentence>
@@ -2625,14 +2625,14 @@
               <Sentence>監査委員及び債権者審査会の審査人がその職務に関して、賄賂を収受し、要求し、又は約束したときは、これを三年以下の懲役又は三千円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の賄賂を供与し、又はその申込若しくは約束をなした者もまた前項に同じ。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">犯人又は情を知る第三者の収受した賄賂は、これを没収する。</Sentence>
               <Sentence Num="2">その全部又は一部を没収することができないときは、その価額を追徴する。</Sentence>
@@ -2805,35 +2805,35 @@
     </MainProvision>
     <SupplProvision Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Num="1">
-        <ParagraphNum>○１</ParagraphNum>
+      <Paragraph Num="1" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>この法律の施行の期日は、勅令でこれを定める。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Num="2">
-        <ParagraphNum>○２</ParagraphNum>
+      <Paragraph Num="2" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>戦時補償特別措置法第十五条第二項、第十九条第二項、第三十六条第二項又は第三十八条第二項の規定により金融機関が戦時補償特別税として徴収した金銭（証券を以て徴収した場合における証券を含む。）及びその徴収した戦時補償特別税を政府に納付すべき義務、同法第三十四条の規定により納税義務者に代位して戦時補償特別税を納付すべき義務並びに同法第四十一条、第四十二条又は第五十三条の規定により求償をなす権利及び求償に応じて履行をなすべき債務その他命令で定める財産上の権利及び義務は、金融機関経理応急措置法第九条第二項の規定にかかはらず、当該金融機関の旧勘定に属する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Num="3">
-        <ParagraphNum>○３</ParagraphNum>
+      <Paragraph Num="3" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>第二十五条の十五の規定の適用については、有価証券業取締法第一条に規定する有価証券業を営む者は、証券取引法第十五条の規定の施行されるまでの間は、これを第二十五条の十五第一項但書第二号に規定する者とみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="322074" AmendLawNum="昭和二二年三月一〇日勅令第七四号" Extract="true" Id="4947dd1c-47dd-11e5-8cfc-0b527401cd3b">
+    <SupplProvision AmendLawNum="昭和二二年三月一〇日勅令第七四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Num="1">
-        <ParagraphNum>○１</ParagraphNum>
+      <Paragraph Num="1" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>この勅令は、公布の日から、これを施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="322107" AmendLawNum="昭和二二年九月一三日法律第一〇七号" Id="2b8da8b0-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二二年九月一三日法律第一〇七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -2842,7 +2842,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="322162" AmendLawNum="昭和二二年一二月一一日法律第一六二号" Id="2bb43b38-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二二年一二月一一日法律第一六二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -2851,7 +2851,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="322211" AmendLawNum="昭和二二年一二月一九日法律第二一一号" Id="2bdab2fe-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二二年一二月一九日法律第二一一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -2860,7 +2860,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="323063" AmendLawNum="昭和二三年三月二七日政令第六三号" Id="2c016624-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二三年三月二七日政令第六三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -2870,7 +2870,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="323184" AmendLawNum="昭和二三年七月二一日法律第一八四号" Extract="true" Id="071d1a74-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二三年七月二一日法律第一八四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -2892,7 +2892,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="323232" AmendLawNum="昭和二三年一二月六日法律第二三二号" Id="2c4e5218-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二三年一二月六日法律第二三二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -2901,7 +2901,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="324164" AmendLawNum="昭和二四年五月三一日法律第一六四号" Extract="true" Id="0ed9bde4-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二四年五月三一日法律第一六四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -2910,7 +2910,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="326179" AmendLawNum="昭和二六年六月一日法律第一七九号" Extract="true" Id="0522dcc2-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二六年六月一日法律第一七九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -2919,7 +2919,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="329106" AmendLawNum="昭和二九年五月一五日法律第一〇六号" Extract="true" Id="2cc1ed72-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二九年五月一五日法律第一〇六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -2982,7 +2982,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="332027" AmendLawNum="昭和三二年三月三一日法律第二七号" Extract="true" Id="4f274dce-1889-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三二年三月三一日法律第二七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -2991,7 +2991,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="337082" AmendLawNum="昭和三七年四月二〇日法律第八二号" Extract="true" Id="298a3424-d3c1-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三七年四月二〇日法律第八二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3004,7 +3004,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="340036" AmendLawNum="昭和四〇年三月三一日法律第三六号" Extract="true" Id="299d9cf8-d3c1-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四〇年三月三一日法律第三六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3027,7 +3027,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="354005" AmendLawNum="昭和五四年三月三〇日法律第五号" Extract="true" Id="2b704696-d3b9-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五四年三月三〇日法律第五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -3050,7 +3050,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="356061" AmendLawNum="昭和五六年六月一日法律第六一号" Extract="true" Id="2a3162bc-d3c1-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五六年六月一日法律第六一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3063,7 +3063,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="407106" AmendLawNum="平成七年六月七日法律第一〇六号" Extract="true" Id="2afdd0cc-d3c1-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成七年六月七日法律第一〇六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3106,7 +3106,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3142,7 +3142,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414065" AmendLawNum="平成一四年六月一二日法律第六五号" Extract="true" Id="ecba4da2-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年六月一二日法律第六五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3193,7 +3193,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417102" AmendLawNum="平成一七年一〇月二一日法律第一〇二号" Extract="true" Id="56cf48f4-7bb3-472a-922e-4a5d7ee5b3d8">
+    <SupplProvision AmendLawNum="平成一七年一〇月二一日法律第一〇二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

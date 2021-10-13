@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="43" Year="23">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="43" Year="23" PromulgateMonth="05" PromulgateDay="15">
   <LawNum>昭和二十三年法律第四十三号</LawNum>
   <LawBody>
-    <LawTitle>行政代執行法</LawTitle>
+    <LawTitle Kana="ぎょうせいだいしっこうほう" Abbrev="" AbbrevKana="">行政代執行法</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -30,14 +30,14 @@
             <Sentence WritingMode="vertical">前条の規定による処分（代執行）をなすには、相当の履行期限を定め、その期限までに履行がなされないときは、代執行をなすべき旨を、予め文書で戒告しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">義務者が、前項の戒告を受けて、指定の期限までにその義務を履行しないときは、当該行政庁は、代執行令書をもつて、代執行をなすべき時期、代執行のために派遣する執行責任者の氏名及び代執行に要する費用の概算による見積額を義務者に通知する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">非常の場合又は危険切迫の場合において、当該行為の急速な実施について緊急の必要があり、前二項に規定する手続をとる暇がないときは、その手続を経ないで代執行をすることができる。</Sentence>
           </ParagraphSentence>
@@ -69,14 +69,14 @@
             <Sentence WritingMode="vertical">代執行に要した費用は、国税滞納処分の例により、これを徴収することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">代執行に要した費用については、行政庁は、国税及び地方税に次ぐ順位の先取特権を有する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">代執行に要した費用を徴収したときは、その徴収金は、事務費の所属に従い、国庫又は地方公共団体の経済の収入となる。</Sentence>
           </ParagraphSentence>
@@ -85,20 +85,20 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
-        <ParagraphNum>○１</ParagraphNum>
+      <Paragraph Hide="false" Num="1" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から起算し、三十日を経過した日から、これを施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2" OldStyle="false">
-        <ParagraphNum>○２</ParagraphNum>
+      <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">行政執行法は、これを廃止する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="326095" AmendLawNum="昭和二六年三月三一日法律第九五号" Extract="true" Id="826b0f6e-d3c6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二六年三月三一日法律第九五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -107,7 +107,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="334148" AmendLawNum="昭和三四年四月二〇日法律第一四八号" Extract="true" Id="f578bfee-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三四年四月二〇日法律第一四八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -124,7 +124,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="337161" AmendLawNum="昭和三七年九月一五日法律第一六一号" Extract="true" Id="4d6c2670-d3be-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三七年九月一五日法律第一六一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>

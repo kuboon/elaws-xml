@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="57" Year="24">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="57" Year="24" PromulgateMonth="05" PromulgateDay="14">
   <LawNum>昭和二十四年法律第五十七号</LawNum>
   <LawBody>
-    <LawTitle>検察官の取り調べた者等に対する旅費、日当、宿泊料等支給法</LawTitle>
+    <LawTitle Kana="けんさつかんのとりしらべたものとうにたいするりょひ、にっとう、しゅくはくりょうとうしきゅうほう" Abbrev="" AbbrevKana="">検察官の取り調べた者等に対する旅費、日当、宿泊料等支給法</LawTitle>
     <MainProvision>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -27,7 +27,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="341111" AmendLawNum="昭和四一年七月一日法律第一一一号" Extract="true" Id="41e9de12-47dd-11e5-8a69-377e55ccd1bf">
+    <SupplProvision AmendLawNum="昭和四一年七月一日法律第一一一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -40,7 +40,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="346042" AmendLawNum="昭和四六年四月六日法律第四二号" Id="6f4620dc-47dd-11e5-94fb-2f12cd53771d">
+    <SupplProvision AmendLawNum="昭和四六年四月六日法律第四二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -49,7 +49,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="355069" AmendLawNum="昭和五五年五月二九日法律第六九号" Extract="true" Id="432b81cc-47dd-11e5-8ae5-035a0b83483c">
+    <SupplProvision AmendLawNum="昭和五五年五月二九日法律第六九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -72,7 +72,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416089" AmendLawNum="平成一六年六月九日法律第八九号" Extract="true" Id="a62ff64c-18a8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月九日法律第八九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

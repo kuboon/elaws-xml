@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="87" Year="49">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="87" Year="49" PromulgateMonth="06" PromulgateDay="19">
   <LawNum>昭和四十九年法律第八十七号</LawNum>
   <LawBody>
-    <LawTitle>航空の危険を生じさせる行為等の処罰に関する法律</LawTitle>
+    <LawTitle Kana="こうくうのきけんをしょうじさせるこういとうのしょばつにかんするほうりつ" Abbrev="航空危険処罰法,航空危険行為処罰法" AbbrevKana="こ,こ">航空の危険を生じさせる行為等の処罰に関する法律</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（航空の危険を生じさせる罪）</ArticleCaption>
@@ -109,7 +109,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="352082" AmendLawNum="昭和五二年一一月二九日法律第八二号" Id="d638251b-83d4-4d3a-84f9-3eb9ec7ae292">
+    <SupplProvision AmendLawNum="昭和五二年一一月二九日法律第八二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>

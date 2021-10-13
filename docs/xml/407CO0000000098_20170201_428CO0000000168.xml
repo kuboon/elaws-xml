@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="98" Year="07">
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="98" Year="07" PromulgateMonth="03" PromulgateDay="31">
   <LawNum>平成七年政令第九十八号</LawNum>
   <LawBody>
-    <LawTitle>主要食糧の需給及び価格の安定に関する法律施行令</LawTitle>
+    <LawTitle Kana="しゅようしょくりょうのじゅきゅうおよびかかくのあんていにかんするほうりつせこうれい" Abbrev="主要食糧需給価格安定法施行令,食糧法施行令" AbbrevKana="し,し">主要食糧の需給及び価格の安定に関する法律施行令</LawTitle>
     <EnactStatement>内閣は、主要食糧の需給及び価格の安定に関する法律（平成六年法律第百十三号）第六十条第一項、第六十五条第一項第三号及び第二項、第六十七条第一項、第七十条第一項ただし書及び第三項並びに附則第六条第一項の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -604,7 +604,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="407355" AmendLawNum="平成七年一〇月一八日政令第三五五号" Extract="true" Id="55731cb4-6b5e-4b55-b4b8-137c4087de8e" Type="Amend">
+    <SupplProvision AmendLawNum="平成七年一〇月一八日政令第三五五号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -915,7 +915,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="409383" AmendLawNum="平成九年一二月二五日政令第三八三号" Extract="true" Id="6de0a0d6-c537-4762-8efe-24940f5806d2" Type="Amend">
+    <SupplProvision AmendLawNum="平成九年一二月二五日政令第三八三号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -928,7 +928,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="410172" AmendLawNum="平成一〇年五月一五日政令第一七二号" Id="c592d0b2-44ad-4055-8ec2-86e22c469bd8" Type="Amend">
+    <SupplProvision AmendLawNum="平成一〇年五月一五日政令第一七二号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -937,7 +937,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="410306" AmendLawNum="平成一〇年九月一七日政令第三〇六号" Id="14293bc0-6e05-4020-ba61-c595a5b921da" Type="Amend">
+    <SupplProvision AmendLawNum="平成一〇年九月一七日政令第三〇六号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -946,7 +946,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411129" AmendLawNum="平成一一年三月三一日政令第一二九号" Extract="true" Id="f5109ee7-e848-40cc-8ed5-76038e9c2bf2" Type="Amend">
+    <SupplProvision AmendLawNum="平成一一年三月三一日政令第一二九号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -959,7 +959,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411416" AmendLawNum="平成一一年一二月二二日政令第四一六号" Extract="true" Id="ba365d0e-7bbf-4b30-b8ad-3cbe613f8d2b" Type="Amend">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日政令第四一六号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -972,7 +972,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415447" AmendLawNum="平成一五年一〇月一日政令第四四七号" Extract="true" Id="35a6dfa5-bbdb-4b22-a0ca-de11d6ffe625" Type="Amend">
+    <SupplProvision AmendLawNum="平成一五年一〇月一日政令第四四七号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1006,7 +1006,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418223" AmendLawNum="平成一八年六月二八日政令第二二三号" Id="5ffd1523-2bcf-4f39-a529-4ca35bfb7aba" Type="Amend">
+    <SupplProvision AmendLawNum="平成一八年六月二八日政令第二二三号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1030,7 +1030,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419039" AmendLawNum="平成一九年三月二日政令第三九号" Id="89006b4f-0fb5-43a4-9fa9-85209cf05042" Type="Amend">
+    <SupplProvision AmendLawNum="平成一九年三月二日政令第三九号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -1039,7 +1039,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="421259" AmendLawNum="平成二一年一一月五日政令第二五九号" Id="82b0d56f-38cb-4176-bc04-b6685aced363" Type="Amend">
+    <SupplProvision AmendLawNum="平成二一年一一月五日政令第二五九号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -1048,7 +1048,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="424111" AmendLawNum="平成二四年三月三一日政令第一一一号" Id="31fe75ba-bd9a-4671-a676-c847d54e88b0" Type="Amend">
+    <SupplProvision AmendLawNum="平成二四年三月三一日政令第一一一号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -1058,7 +1058,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="426395" AmendLawNum="平成二六年一二月一二日政令第三九五号" Extract="true" Id="c2c0564e-5466-4b4a-92a6-b0134c82b04a" Type="Amend">
+    <SupplProvision AmendLawNum="平成二六年一二月一二日政令第三九五号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -1068,7 +1068,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428168" AmendLawNum="平成二八年三月三一日政令第一六八号" Extract="true" Id="491629d7-0740-ea62-a1a5-bfc28e1333f6" Type="Amend">
+    <SupplProvision AmendLawNum="平成二八年三月三一日政令第一六八号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>

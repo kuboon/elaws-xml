@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="81" Year="33">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="81" Year="33" PromulgateMonth="06" PromulgateDay="24">
   <LawNum>昭和三十三年法律第八十一号</LawNum>
   <LawBody>
-    <LawTitle>義務教育諸学校等の施設費の国庫負担等に関する法律</LawTitle>
+    <LawTitle Kana="ぎむきょういくしょがっこうとうのしせつひのこっこふたんとうにかんするほうりつ" Abbrev="施設費負担法" AbbrevKana="し">義務教育諸学校等の施設費の国庫負担等に関する法律</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -416,7 +416,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="339040" AmendLawNum="昭和三九年三月三一日法律第四〇号" Extract="true" Id="82f62e60-194a-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三九年三月三一日法律第四〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -425,7 +425,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="341041" AmendLawNum="昭和四一年三月三一日法律第四一号" Extract="true" Id="14d429d4-188f-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四一年三月三一日法律第四一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -434,7 +434,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="341053" AmendLawNum="昭和四一年四月一八日法律第五三号" Extract="true" Id="835bd6d4-194a-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四一年四月一八日法律第五三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -444,7 +444,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="347053" AmendLawNum="昭和四七年六月五日法律第五三号" Extract="true" Id="f6063b14-18de-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四七年六月五日法律第五三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
@@ -454,7 +454,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="348039" AmendLawNum="昭和四八年六月二八日法律第三九号" Extract="true" Id="91131fe2-1938-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四八年六月二八日法律第三九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -463,7 +463,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="353013" AmendLawNum="昭和五三年三月三一日法律第一三号" Id="83f4621e-194a-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五三年三月三一日法律第一三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -472,7 +472,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="358020" AmendLawNum="昭和五八年三月三一日法律第二〇号" Id="842736d0-194a-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五八年三月三一日法律第二〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -487,7 +487,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="360037" AmendLawNum="昭和六〇年五月一八日法律第三七号" Extract="true" Id="5e55e27e-5296-45da-ae8e-d54252259afc">
+    <SupplProvision AmendLawNum="昭和六〇年五月一八日法律第三七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
@@ -509,7 +509,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="361046" AmendLawNum="昭和六一年五月八日法律第四六号" Extract="true" Id="726c2408-f208-48f7-8728-741b8b9ada6a">
+    <SupplProvision AmendLawNum="昭和六一年五月八日法律第四六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -524,7 +524,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="363028" AmendLawNum="昭和六三年五月六日法律第二八号" Extract="true" Id="361ea0da-ed39-4df9-80a9-586cb8c72dfe">
+    <SupplProvision AmendLawNum="昭和六三年五月六日法律第二八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
@@ -540,7 +540,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="401022" AmendLawNum="平成元年四月一〇日法律第二二号" Extract="true" Id="c684b13a-374b-4b3a-b955-033903f997c2">
+    <SupplProvision AmendLawNum="平成元年四月一〇日法律第二二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
@@ -556,7 +556,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="403015" AmendLawNum="平成三年三月三〇日法律第一五号" Id="43aa8ef4-47dd-11e5-8b18-cb4d9139c46b">
+    <SupplProvision AmendLawNum="平成三年三月三〇日法律第一五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -571,7 +571,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="405008" AmendLawNum="平成五年三月三一日法律第八号" Extract="true" Id="c3baaddc-6e69-4e89-a254-5e182f341e43">
+    <SupplProvision AmendLawNum="平成五年三月三一日法律第八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
@@ -587,7 +587,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="410101" AmendLawNum="平成一〇年六月一二日法律第一〇一号" Extract="true" Id="a212eb14-d0bd-4a13-8a6b-72c04ba3ea77">
+    <SupplProvision AmendLawNum="平成一〇年六月一二日法律第一〇一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -600,7 +600,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411087" AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true" Id="8a6950aa-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -681,7 +681,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -706,7 +706,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414001" AmendLawNum="平成一四年二月八日法律第一号" Extract="true" Id="daf4676c-3e2f-42f3-a5da-8248a076f9b0">
+    <SupplProvision AmendLawNum="平成一四年二月八日法律第一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -719,7 +719,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418018" AmendLawNum="平成一八年三月三一日法律第一八号" Extract="true" Id="d48f4eb3-d641-4a8e-ad61-ef116943326e">
+    <SupplProvision AmendLawNum="平成一八年三月三一日法律第一八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -748,7 +748,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418080" AmendLawNum="平成一八年六月二一日法律第八〇号" Extract="true" Id="9564d638-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年六月二一日法律第八〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -771,7 +771,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419096" AmendLawNum="平成一九年六月二七日法律第九六号" Extract="true" Id="1ea81607-5364-4c46-a0c8-bdf1039d8503">
+    <SupplProvision AmendLawNum="平成一九年六月二七日法律第九六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -784,7 +784,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="420073" AmendLawNum="平成二〇年六月一八日法律第七三号" Extract="true" Id="a7a875d2-1888-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年六月一八日法律第七三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -797,7 +797,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="427046" AmendLawNum="平成二七年六月二四日法律第四六号" Extract="true" Id="16448648-d3b3-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年六月二四日法律第四六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -831,7 +831,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="427052" AmendLawNum="平成二七年七月八日法律第五二号" Extract="true" Id="fbd1ac54-1884-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年七月八日法律第五二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

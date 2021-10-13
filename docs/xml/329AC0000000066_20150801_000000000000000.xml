@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="66" Year="29">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="66" Year="29" PromulgateMonth="04" PromulgateDay="10">
   <LawNum>昭和二十九年法律第六十六号</LawNum>
   <LawBody>
-    <LawTitle>日本銀行券預入令等を廃止する法律</LawTitle>
+    <LawTitle Kana="にほんぎんこうけんよにゅうれいとうをはいしするほうりつ" Abbrev="" AbbrevKana="">日本銀行券預入令等を廃止する法律</LawTitle>
     <MainProvision>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -168,7 +168,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="15" Year="32">
   <LawNum>昭和三十二年厚生省令第十五号</LawNum>
   <LawBody>
@@ -560,7 +560,8 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">歯科医師である保険医は、厚生労働大臣の定める歯科材料以外の歯科材料を歯冠修復及び欠損補<Ruby>綴<Rt>てつ</Rt></Ruby>において使用してはならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">歯科医師である保険医は、厚生労働大臣の定める歯科材料以外の歯科材料を歯冠修復及び欠損補<Ruby>綴<Rt>てつ</Rt>
+</Ruby>において使用してはならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、治験に係る診療において、当該治験の対象とされる機械器具等を使用する場合その他厚生労働大臣が定める場合においては、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -801,15 +802,23 @@
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">リハビリテーション</Sentence>
-                <Sentence Num="2" WritingMode="vertical">リハビリテーションは、必要があると認められる場合に行う。</Sentence>
+                <Column LineBreak="true" Num="1">
+                  <Sentence WritingMode="vertical">リハビリテーション</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">リハビリテーションは、必要があると認められる場合に行う。</Sentence>
+                </Column>
               </ItemSentence>
             </Item>
             <Item Num="6_2">
               <ItemTitle>六の二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">居宅における療養上の管理等</Sentence>
-                <Sentence Num="2" WritingMode="vertical">居宅における療養上の管理及び看護は、療養上適切であると認められる場合に行う。</Sentence>
+                <Column LineBreak="true" Num="1">
+                  <Sentence WritingMode="vertical">居宅における療養上の管理等</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">居宅における療養上の管理及び看護は、療養上適切であると認められる場合に行う。</Sentence>
+                </Column>
               </ItemSentence>
             </Item>
             <Item Num="7">
@@ -1026,8 +1035,15 @@
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">歯冠修復及び欠損補<Ruby>綴<Rt>てつ</Rt></Ruby></Sentence>
-                <Sentence Num="2" WritingMode="vertical">歯冠修復及び欠損補<Ruby>綴<Rt>てつ</Rt></Ruby>は、次に掲げる基準によつて行う。</Sentence>
+                <Column LineBreak="true" Num="1">
+                  <Sentence WritingMode="vertical">歯冠修復及び欠損補<Ruby>綴<Rt>てつ</Rt>
+</Ruby>
+</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">歯冠修復及び欠損補<Ruby>綴<Rt>てつ</Rt>
+</Ruby>は、次に掲げる基準によつて行う。</Sentence>
+                </Column>
               </ItemSentence>
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
@@ -1051,7 +1067,9 @@
               <Subitem1 Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">欠損補<Ruby>綴<Rt>てつ</Rt></Ruby></Sentence>
+                  <Sentence Num="1" WritingMode="vertical">欠損補<Ruby>綴<Rt>てつ</Rt>
+</Ruby>
+</Sentence>
                 </Subitem1Sentence>
                 <Subitem2 Num="1">
                   <Subitem2Title>（１）</Subitem2Title>
@@ -1068,7 +1086,8 @@
                     <Subitem3Title>（二）</Subitem3Title>
                     <Subitem3Sentence>
                       <Sentence Num="1" WritingMode="vertical">
-                        <Ruby>鉤<Rt>こう</Rt></Ruby>は、金位十四カラット合金又は代用合金を使用する。</Sentence>
+                        <Ruby>鉤<Rt>こう</Rt>
+</Ruby>は、金位十四カラット合金又は代用合金を使用する。</Sentence>
                     </Subitem3Sentence>
                   </Subitem3>
                   <Subitem3 Num="3">
@@ -1093,15 +1112,27 @@
                     <Subitem3Title>（二）</Subitem3Title>
                     <Subitem3Sentence>
                       <Sentence Function="main" Num="1" WritingMode="vertical">ブリッジは、金位十四カラット合金又は代用合金を使用する。</Sentence>
-                      <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、金位十四カラット合金は、前歯部の複雑<Ruby>窩<Rt>か</Rt></Ruby>洞又はポンティックに限つて使用する。</Sentence>
+                      <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、金位十四カラット合金は、前歯部の複雑<Ruby>窩<Rt>か</Rt>
+</Ruby>洞又はポンティックに限つて使用する。</Sentence>
                     </Subitem3Sentence>
                   </Subitem3>
                 </Subitem2>
                 <Subitem2 Num="3">
                   <Subitem2Title>（３）</Subitem2Title>
                   <Subitem2Sentence>
-                    <Sentence Num="1" WritingMode="vertical">口蓋補<Ruby>綴<Rt>てつ</Rt></Ruby>及び顎補<Ruby>綴<Rt>てつ</Rt></Ruby>並びに広範囲顎骨支持型補<Ruby>綴<Rt>てつ</Rt></Ruby></Sentence>
-                    <Sentence Num="2" WritingMode="vertical">口蓋補<Ruby>綴<Rt>てつ</Rt></Ruby>及び顎補<Ruby>綴<Rt>てつ</Rt></Ruby>並びに広範囲顎骨支持型補<Ruby>綴<Rt>てつ</Rt></Ruby>は、必要があると認められる場合に行う。</Sentence>
+                    <Column LineBreak="true" Num="1">
+                      <Sentence WritingMode="vertical">口蓋補<Ruby>綴<Rt>てつ</Rt>
+</Ruby>及び顎補<Ruby>綴<Rt>てつ</Rt>
+</Ruby>並びに広範囲顎骨支持型補<Ruby>綴<Rt>てつ</Rt>
+</Ruby>
+</Sentence>
+                    </Column>
+                    <Column LineBreak="false" Num="2">
+                      <Sentence WritingMode="vertical">口蓋補<Ruby>綴<Rt>てつ</Rt>
+</Ruby>及び顎補<Ruby>綴<Rt>てつ</Rt>
+</Ruby>並びに広範囲顎骨支持型補<Ruby>綴<Rt>てつ</Rt>
+</Ruby>は、必要があると認められる場合に行う。</Sentence>
+                    </Column>
                   </Subitem2Sentence>
                 </Subitem2>
               </Subitem1>
@@ -1109,15 +1140,23 @@
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">リハビリテーション</Sentence>
-                <Sentence Num="2" WritingMode="vertical">リハビリテーションは、必要があると認められる場合に行う。</Sentence>
+                <Column LineBreak="true" Num="1">
+                  <Sentence WritingMode="vertical">リハビリテーション</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">リハビリテーションは、必要があると認められる場合に行う。</Sentence>
+                </Column>
               </ItemSentence>
             </Item>
             <Item Num="7_2">
               <ItemTitle>七の二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">居宅における療養上の管理等</Sentence>
-                <Sentence Num="2" WritingMode="vertical">居宅における療養上の管理及び看護は、療養上適切であると認められる場合に行う。</Sentence>
+                <Column LineBreak="true" Num="1">
+                  <Sentence WritingMode="vertical">居宅における療養上の管理等</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">居宅における療養上の管理及び看護は、療養上適切であると認められる場合に行う。</Sentence>
+                </Column>
               </ItemSentence>
             </Item>
             <Item Num="8">
@@ -1147,8 +1186,13 @@
             <Item Num="9">
               <ItemTitle>九</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">歯科矯正</Sentence>
-                <Sentence Num="2" WritingMode="vertical">歯科矯正は、療養の給付の対象として行つてはならない。ただし、別に厚生労働大臣が定める場合においては、この限りでない。</Sentence>
+                <Column LineBreak="true" Num="1">
+                  <Sentence WritingMode="vertical">歯科矯正</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence Function="main" Num="1" WritingMode="vertical">歯科矯正は、療養の給付の対象として行つてはならない。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、別に厚生労働大臣が定める場合においては、この限りでない。</Sentence>
+                </Column>
               </ItemSentence>
             </Item>
           </Paragraph>

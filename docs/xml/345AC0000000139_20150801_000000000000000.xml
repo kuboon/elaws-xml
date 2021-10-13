@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="139" Year="45">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="139" Year="45" PromulgateMonth="12" PromulgateDay="25">
   <LawNum>昭和四十五年法律第百三十九号</LawNum>
   <LawBody>
-    <LawTitle>農用地の土壌の汚染防止等に関する法律</LawTitle>
+    <LawTitle Kana="のうようちのどじょうのおせんぼうしとうにかんするほうりつ" Abbrev="土壌汚染防止法,農用地土壌汚染防止法" AbbrevKana="ど,の">農用地の土壌の汚染防止等に関する法律</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -423,7 +423,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="346088" AmendLawNum="昭和四六年五月三一日法律第八八号" Extract="true" Id="272799fd-cb47-4f08-94f6-c047c158d52c">
+    <SupplProvision AmendLawNum="昭和四六年五月三一日法律第八八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -452,7 +452,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="353087" AmendLawNum="昭和五三年七月五日法律第八七号" Extract="true" Id="9ee6e747-841a-42bb-aeae-ef6d08b05237">
+    <SupplProvision AmendLawNum="昭和五三年七月五日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -465,7 +465,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="405092" AmendLawNum="平成五年一一月一九日法律第九二号" Id="c4b0cfef-a9db-421f-a3cd-df3671dc8d0f">
+    <SupplProvision AmendLawNum="平成五年一一月一九日法律第九二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -475,7 +475,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411087" AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true" Id="8a6950aa-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -592,7 +592,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -617,7 +617,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417033" AmendLawNum="平成一七年四月二七日法律第三三号" Extract="true" Id="20044a28-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年四月二七日法律第三三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -640,7 +640,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423105" AmendLawNum="平成二三年八月三〇日法律第一〇五号" Extract="true" Id="cb96a4b0-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年八月三〇日法律第一〇五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

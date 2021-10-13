@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="100" Year="22">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="100" Year="22" PromulgateMonth="06" PromulgateDay="02">
   <LawNum>昭和二十二年法律第百号</LawNum>
   <LawBody>
-    <LawTitle>船員法</LawTitle>
+    <LawTitle Kana="せんいんほう" Abbrev="" AbbrevKana="">船員法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -89,8 +89,8 @@
               <Sentence>この法律において「船員」とは、日本船舶又は日本船舶以外の国土交通省令で定める船舶に乗り組む船長及び海員並びに予備船員をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項に規定する船舶には、次の船舶を含まない。</Sentence>
             </ParagraphSentence>
@@ -119,8 +119,8 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">前項第二号の港の区域は、港則法（昭和二十三年法律第百七十四号）に基づく港の区域の定めのあるものについては、その区域によるものとする。</Sentence>
               <Sentence Function="proviso" Num="2">ただし、国土交通大臣は、政令で定めるところにより、特に港を指定し、これと異なる区域を定めることができる。</Sentence>
@@ -135,8 +135,8 @@
               <Sentence>この法律において「海員」とは、船内で使用される船長以外の乗組員で労働の対償として給料その他の報酬を支払われる者をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>この法律において「予備船員」とは、前条第一項に規定する船舶に乗り組むため雇用されている者で船内で使用されていないものをいう。</Sentence>
             </ParagraphSentence>
@@ -150,8 +150,8 @@
               <Sentence>この法律において「職員」とは、航海士、機関長、機関士、通信長、通信士及び国土交通省令で定めるその他の海員をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>この法律において「部員」とは、職員以外の海員をいう。</Sentence>
             </ParagraphSentence>
@@ -166,8 +166,8 @@
               <Sentence>この法律において「給料」とは、船舶所有者が船員に対し一定の金額により定期に支払う報酬のうち基本となるべき固定給をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>この法律において「労働時間」とは、船員が職務上必要な作業に従事する時間（海員にあつては、上長の職務上の命令により作業に従事する時間に限る。）をいう。</Sentence>
             </ParagraphSentence>
@@ -182,8 +182,8 @@
               <Sentence>この法律の規定（第十一章の二、第百十三条第三項、第百三十条の二、第百三十条の三、第百三十一条（第四号の二に係る部分に限る。）及び第百三十五条第一項（第百三十条の二、第百三十条の三又は第百三十一条第四号の二の違反行為に係る部分に限る。）を除く。）及びこの法律に基づく命令の規定（第十一章の二の規定に基づく命令の規定を除く。）のうち、船舶所有者に関する規定は、船舶共有の場合には船舶管理人に、船舶貸借の場合には船舶借入人に、船舶所有者、船舶管理人及び船舶借入人以外の者が船員を使用する場合にはその者にこれを適用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第十一章の二、第百十三条第三項、第百三十条の二、第百三十条の三、第百三十一条（第四号の二に係る部分に限る。）及び第百三十五条第一項（第百三十条の二、第百三十条の三又は第百三十一条第四号の二の違反行為に係る部分に限る。）の規定並びに第十一章の二の規定に基づく命令の規定のうち、船舶所有者に関する規定は、船舶共有の場合には船舶管理人に、船舶貸借の場合には船舶借入人にこれを適用する。</Sentence>
             </ParagraphSentence>
@@ -303,8 +303,8 @@
               <Sentence>国土交通省令の定める船舶の船長は、第十二条乃至第十四条に規定する場合その他非常の場合における海員の作業に関し、国土交通省令の定めるところにより、非常配置表を定め、これを船員室その他適当な場所に掲示して置かなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通省令の定める船舶の船長は、国土交通省令の定めるところにより、海員及び旅客について、防火操練、救命艇操練その他非常の場合のために必要な操練を実施しなければならない。</Sentence>
             </ParagraphSentence>
@@ -395,8 +395,8 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>海員名簿、航海日誌及び旅客名簿に関し必要な事項は、国土交通省令でこれを定める。</Sentence>
             </ParagraphSentence>
@@ -652,20 +652,20 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の場合において、当該雇入契約に係る航海が海上運送法第二十六条第一項の規定による命令によるものであるときは、船舶所有者は、あらかじめ、相手方に対し、その旨を書面を交付して説明しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、雇入契約の内容（第一項第二号に掲げる事項に限る。）を変更しようとするときは、あらかじめ、船員に対し、当該変更の内容について書面を交付して説明しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第二項の規定は、前項の場合について準用する。</Sentence>
             </ParagraphSentence>
@@ -724,21 +724,21 @@
               <Sentence>船舶所有者は、雇入契約に附随して、貯蓄の契約をさせ、又は貯蓄金を管理する契約をしてはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、船員の委託を受けてその貯蓄金を管理しようとする場合においては、国土交通省令の定めるところにより、その使用する船員の過半数で組織する労働組合があるときはその労働組合、船員の過半数で組織する労働組合がないときは船員の過半数を代表する者との書面による協定をし、これを国土交通大臣に届け出なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">船舶所有者は、船員の委託を受けてその貯蓄金の管理をする場合において、貯蓄金の管理が預金の受入れであるときは、利子をつけなければならない。</Sentence>
               <Sentence Num="2">この場合において、その利率が金融機関の受け入れる預金の利率を考慮して国土交通省令の定める利率を下るときは、その国土交通省令の定める利率による利子をつけることとしたものとみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船員は、船舶所有者に管理を委託した貯蓄金については、いつでも、返還を請求することができる。</Sentence>
             </ParagraphSentence>
@@ -782,14 +782,14 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、雇入契約の内容（第三十二条第一項第二号に掲げる事項に限る。）を変更したときは、遅滞なく、国土交通省令で定めるところにより、その変更の内容並びに当該変更について船員と合意した場所及び年月日を記載した書面を船員に交付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、前二項の書面の写しを船内に備え置かなければならない。</Sentence>
             </ParagraphSentence>
@@ -804,8 +804,8 @@
               <Sentence>船長は、雇入契約の成立、終了、更新又は変更（以下「雇入契約の成立等」という。）があつたときは、国土交通省令で定めるところにより、遅滞なく、国土交通大臣に届け出なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の場合において船長が届け出ることができないときは、船舶所有者は、船長に代わつて届け出なければならない。</Sentence>
             </ParagraphSentence>
@@ -842,27 +842,27 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶の存否が一箇月間分らないときは、船舶は、滅失したものと推定する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項の規定により雇入契約が終了したときでも、船員は、人命、船舶又は積荷の応急救助のために必要な作業に従事しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">前項の規定により応急救助の作業に従事する場合には、第一項の規定にかかわらず、その作業が終了するまでは、雇入契約は、なお存続する。</Sentence>
               <Sentence Num="2">船員がその作業の終了後引き続き遺留品の保全、船員の送還その他必要な残務の処理に従事する場合において、その処理が終了するまでの間についても、同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項後段の規定により雇入契約が存続する間においては、船舶所有者又は船員は、いつでも、当該雇入契約を解除することができる。</Sentence>
             </ParagraphSentence>
@@ -946,14 +946,14 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶が外国の港からの航海を終了した場合において、その船舶に乗り組む船員が、二十四時間以上の期間を定めて書面で雇入契約の解除の申入をしたときは、その期間が満了した時に、その者の雇入契約は、終了する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>海員は、船長の適当と認める自己の後任者を提供したときは、雇入契約を解除することができる。</Sentence>
             </ParagraphSentence>
@@ -977,8 +977,8 @@
               <Sentence>相続その他の包括承継の場合を除いて、船舶所有者の変更があつたときは、雇入契約は、終了する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">前項の場合には、雇入契約の終了の時から、船員と新所有者との間に従前と同一条件の雇入契約が存するものとみなす。</Sentence>
               <Sentence Num="2">この場合には、船員は、前条の規定に準じて雇入契約を解除することができる。</Sentence>
@@ -994,8 +994,8 @@
               <Sentence>雇入契約が終了した時に船舶が航行中の場合には、次の港に入港してその港における荷物の陸揚及び旅客の上陸が終る時まで、雇入契約が終了した時に船舶が停泊中の場合には、その港における荷物の陸揚及び旅客の上陸が終る時まで、その雇入契約は、存続するものとみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">船舶所有者は、雇入契約が適当な船員を補充することのできない港において終了する場合には、適当な船員を補充することのできる港に到着して荷物の陸揚及び旅客の上陸が終る時まで、雇入契約を存続させることができる。</Sentence>
               <Sentence Function="proviso" Num="2">但し、第四十一条第一項第一号乃至第三号の場合は、この限りでない。</Sentence>
@@ -1012,8 +1012,8 @@
               <Sentence Function="proviso" Num="2">ただし、療養のため作業に従事しない期間が三年を超えた場合又は天災事変その他やむを得ない事由のために事業の継続が不可能となつた場合においては、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項但書の天災事変その他やむを得ない事由のために事業の継続が不可能となつた場合においては、その事由について国土交通大臣の認定を受けなければならない。</Sentence>
             </ParagraphSentence>
@@ -1030,14 +1030,14 @@
               <Sentence Function="proviso" Num="3">但し、天災事変その他やむを得ない事由のために事業の継続が不可能となつた場合又は予備船員の責に帰すべき事由に基づいて解雇する場合においては、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の予告の日数は、一日について、国土交通省令の定めるところにより算定する給料の額と同額の予告手当を支払つた場合においては、その日数を短縮することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項但書の場合においては、その事由について国土交通大臣の認定を受けなければならない。</Sentence>
             </ParagraphSentence>
@@ -1152,21 +1152,21 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">船舶所有者は、第四十条第二号から第四号までの規定により雇入契約を解除した場合又は同条第五号の規定により雇入契約を解除した場合（船員の職務外の負傷又は疾病につき船員に故意又は重大な過失のある場合に限る。）において、船員が自己の負担においてその希望する雇入港等まで移動することができないときは、遅滞なくその費用で、船員の希望により、雇入港等まで船員を送還しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2">ただし、送還に代えてその費用を支払うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前二項の規定により船員を送還する場合における輸送手段は、正当な理由がある場合を除き、船員の希望に応じたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、第二項の規定により、その費用で船員を送還したとき、又は送還に代えてその費用を支払つたときは、船員に対し、当該費用の償還を請求することができる。</Sentence>
             </ParagraphSentence>
@@ -1192,8 +1192,8 @@
               <Sentence Num="2">同項ただし書の規定により送還に代えてその費用を支払うときも同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の送還手当は、船舶所有者が送還するときは、毎月一回、送還に代えてその費用を支払うときは、その際これを支払わなければならない。</Sentence>
             </ParagraphSentence>
@@ -1208,20 +1208,20 @@
               <Sentence>船員は、船員手帳を受有しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船長は、海員の乗船中その船員手帳を保管しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船長は、国土交通省令で定めるところにより、船内における職務、雇入期間その他の船員の勤務に関する事項を船員手帳に記載しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船員手帳の交付、再交付、訂正、書換え及び返還に関し必要な事項は、国土交通省令で定める。</Sentence>
             </ParagraphSentence>
@@ -1260,14 +1260,14 @@
               <Sentence Function="proviso" Num="2">ただし、法令又は労働協約に別段の定めがある場合においては給料その他の報酬の一部を控除して支払い、法令若しくは労働協約に別段の定めがある場合又は給料その他の報酬で国土交通省令で定めるものについて確実な支払の方法で国土交通省令で定めるものによる場合においては通貨以外のもので支払うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通省令の定める報酬を除いて、給料その他の報酬は、これを毎月一回以上一定の期日に支払わなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、船員に給料その他の報酬を支払う場合においては、国土交通省令で定めるところにより、船員に対し、給料その他の報酬の支払に関する事項を記載した書面を交付しなければならない。</Sentence>
             </ParagraphSentence>
@@ -1333,20 +1333,20 @@
               <Sentence>船員の報酬が歩合によつて支払われる場合においては、その歩合による毎月の額が雇入契約に定める一定額に達しないときでも、その報酬の額は、その一定額を下つてはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第三十五条及び前条の規定の適用については、前項に規定する一定額の報酬は、これを給料とみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船員の報酬が歩合によつて支払われるときは、第四十四条の三、第四十五条、第四十六条、第四十九条及び第七十八条の規定の適用については、雇入契約に定める額を以て一箇月分の給料の額とみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の額は、第一項の一定額以下であつてはならない。</Sentence>
             </ParagraphSentence>
@@ -1384,20 +1384,20 @@
               <Sentence>船員の一日当たりの労働時間は、八時間以内とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船員の一週間当たりの労働時間は、基準労働期間について平均四十時間以内とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の基準労働期間とは、船舶の航行区域、航路その他の航海の期間及び態様に係る事項を勘案して国土交通省令で定める船舶の区分に応じて一年以下の範囲内において国土交通省令で定める期間（船舶所有者が就業規則その他これに準ずるものにより当該期間の範囲内においてこれと異なる期間を定めた場合又は労働協約により一年以下の範囲内においてこれらと異なる期間が定められた場合には、それぞれその定められた期間）をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣は、前項の国土交通省令の制定又は改正の立案をしようとするときは、あらかじめ、交通政策審議会の議を経なければならない。</Sentence>
             </ParagraphSentence>
@@ -1423,20 +1423,20 @@
               <Sentence Function="proviso" Num="2">ただし、船舶が航海の途中にあるときその他の国土交通省令で定めるやむを得ない事由のあるときは、その事由の存する期間、補償休日を与えることを延期することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の規定により与えるべき補償休日の日数は、超過時間の合計八時間当たり又は少なくとも一日の休日が与えられない一週間当たり一日を基準として、第六十条第二項及び前条の規定を遵守するために必要な日数として国土交通省令で定めるところにより算定される日数とし、その付与の単位は、一日（国土交通省令で定める場合は、国土交通省令で定める一日未満の単位）とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項の規定により与えられた補償休日を含む一週間に係る同項の規定の適用については、当該補償休日はそれを与えられた船員が作業に従事した日であつて休日以外のものとみなし、その労働時間は八時間（当該補償休日が前項の国土交通省令の規定による一日未満の単位で与えられたものである場合には、国土交通省令で定める時間）とみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前三項に定めるもののほか、補償休日の付与に関し必要な事項は、国土交通省令でこれを定める。</Sentence>
             </ParagraphSentence>
@@ -1460,14 +1460,14 @@
               <Sentence>船長は、船舶の航海の安全を確保するため臨時の必要があるときは、第六十条第一項の規定若しくは第七十二条の国土交通省令の規定による労働時間の制限を超えて、自ら作業に従事し、若しくは海員を作業に従事させ、又は第六十二条第一項若しくは第六十五条の三の規定にかかわらず、補償休日若しくは休息時間において、自ら作業に従事し、若しくは海員を作業に従事させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船長は、前項に規定する場合のほか、船舶が狭い水路を通過するため航海当直の員数を増加する必要がある場合その他の国土交通省令で定める特別の必要がある場合においては、国土交通省令で定める時間を限度として、第六十条第一項の規定又は第七十二条の国土交通省令の規定による労働時間の制限を超えて、自ら作業に従事し、又は海員を作業に従事させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船長は、第一項の規定により、補償休日又は休息時間において、自ら作業に従事し、又は海員を作業に従事させたときは、船舶の運航の安全の確保に支障を及ぼさない限りにおいて、当該作業の終了後できる限り速やかに休息をし、又は休息をさせるよう努めなければならない。</Sentence>
             </ParagraphSentence>
@@ -1481,20 +1481,20 @@
               <Sentence>船舶所有者は、国土交通省令で定めるところにより、その使用する船員の過半数で組織する労働組合があるときはその労働組合、船員の過半数で組織する労働組合がないときは船員の過半数を代表する者との書面による協定をし、これを国土交通大臣に届け出た場合においては、その協定で定めるところにより、第六十条第一項の規定又は第七十二条の国土交通省令の規定による労働時間の制限を超えて船員を作業に従事させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣は、労働時間の延長を適正なものとするため、前項の協定で定める労働時間の延長の限度その他の必要な事項について、船員の福祉、時間外労働の動向その他の事情を考慮して基準を定めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項の協定をする船舶所有者及び労働組合又は船員の過半数を代表する者は、当該協定で労働時間の延長を定めるに当たり、当該協定の内容が前項の基準に適合したものとなるようにしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣は、第二項の基準に関し、第一項の協定をする船舶所有者及び労働組合又は船員の過半数を代表する者に対し、必要な助言及び指導を行うことができる。</Sentence>
             </ParagraphSentence>
@@ -1518,26 +1518,26 @@
               <Sentence>第六十四条第二項の規定により第六十条第一項の規定又は第七十二条の国土交通省令の規定による労働時間の制限を超えて船員を作業に従事させる場合であつても、船員の一日当たりの労働時間及び一週間当たりの労働時間は、第六十条第一項の規定及び第七十二条の国土交通省令の規定による労働時間並びに海員にあつては次項の規定による作業に従事する労働時間を含め、それぞれ十四時間及び七十二時間を限度とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第六十四条の二第一項の規定により第六十条第一項の規定又は第七十二条の国土交通省令の規定による労働時間の制限を超えて海員を作業に従事させる場合であつても、海員の一日当たりの労働時間及び一週間当たりの労働時間は、第六十条第一項の規定及び第七十二条の国土交通省令の規定による労働時間並びに前項の規定による作業に従事する労働時間を含め、それぞれ十四時間及び七十二時間を限度とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、船員を前二項に規定する労働時間の限度を超えて作業に従事させてはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第六十四条第一項の規定により船員が作業に従事した労働時間は、第一項及び第二項に規定する労働時間には算入しないものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項から第三項までの規定は、海底の掘削に従事する船舶その他のその航海の態様が特殊であるため船員がこれらの規定によることが著しく不適当な職務に従事することとなると認められる船舶として国土交通省令で定めるものについては、適用しない。</Sentence>
             </ParagraphSentence>
@@ -1552,14 +1552,14 @@
               <Sentence>船舶所有者は、休息時間を一日について三回以上に分割して船員に与えてはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、前項に規定する休息時間を一日について二回に分割して船員に与える場合において、休息時間のうち、いずれか長い方の休息時間を六時間以上としなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前二項の規定にかかわらず、船舶所有者は、国土交通省令で定めるところにより、その使用する船員の過半数で組織する労働組合があるときはその労働組合、船員の過半数で組織する労働組合がないときは船員の過半数を代表する者との書面による協定をし、これを国土交通大臣に届け出た場合においては、その協定で定めるところにより、休息時間を、一日について三回以上に分割して、又は前項に規定する場合において休息時間のうちいずれか長い方の休息時間を六時間未満として、船員（海員にあつては、次に掲げる者に限る。）に与えることができる。</Sentence>
             </ParagraphSentence>
@@ -1606,14 +1606,14 @@
               <Sentence>船長は、国土交通省令で定めるところにより、船内に帳簿を備え置いて、船員の労働時間、補償休日、休息時間及び第六十六条（第八十八条の二の二第四項及び第五項並びに第八十八条の三第四項において準用する場合を含む。）の割増手当に関する事項を記載しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船長は、国土交通省令で定めるところにより、船員に対し、前項の帳簿の写しを交付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、国土交通省令で定めるところにより、休日付与簿を備え置いて、船員に対する休日の付与に関する事項を記載しなければならない。</Sentence>
             </ParagraphSentence>
@@ -1646,8 +1646,8 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船長は、補償休日又は休息時間において、前項各号に掲げる作業に自ら従事し、又は海員を従事させたときは、船舶の運航の安全の確保に支障を及ぼさない限りにおいて、当該作業の終了後できる限り速やかに休息をし、又は休息をさせるよう努めなければならない。</Sentence>
             </ParagraphSentence>
@@ -1662,8 +1662,8 @@
               <Sentence>船舶所有者は、国土交通省令で定める場合を除いて、第六十条第一項の規定又は第七十二条の国土交通省令の規定を遵守するために必要な海員の定員を定めて、その員数の海員を乗り組ませなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、航海中海員に欠員を生じたときは、遅滞なくその欠員を補充しなければならない。</Sentence>
             </ParagraphSentence>
@@ -1699,8 +1699,8 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項各号の船舶に係る前条の規定の適用については、同条中「前条の規定によるほか、航海当直」とあるのは、「航海当直」とする。</Sentence>
             </ParagraphSentence>
@@ -1738,26 +1738,26 @@
               <Sentence Function="proviso" Num="2">ただし、船舶が航海の途中にあるとき、又は船舶の工事のため特に必要がある場合において国土交通大臣の許可を受けたときは、当該航海又は工事に必要な期間（工事の場合にあつては、三箇月以内に限る。）、有給休暇を与えることを延期することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、船員が前項の規定により与えられた有給休暇に係る連続した勤務の後に当該同一の事業に属する船舶において一年間連続して勤務に従事したときは、その一年の経過後一年以内にその船員に次条第三項又は第四項の規定による日数の有給休暇を与えなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項ただし書の規定は、前項の場合について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船員が同一の事業に属する船舶における勤務に準ずる勤務として国土交通省令で定めるものに従事した期間並びに船員が職務上負傷し、又は疾病にかかり療養のため勤務に従事しない期間、育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律（平成三年法律第七十六号）第二条第一号に規定する育児休業又は同条第二号に規定する介護休業（同法第六十一条第三項（同条第六項において準用する場合を含む。）に規定する介護をするための休業を含む。）をした期間及び女子の船員が第八十七条第一項又は第二項の規定によつて勤務に従事しない期間は、連続して勤務に従事した期間の計算については、同一の事業に属する船舶において勤務に従事した期間とみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶における勤務が中断した場合において、その中断の事由が船員の故意又は過失によるものでなく、かつ、その中断の期間の合計が一年当たり六週間を超えないときは、その中断の期間は、船員が当該期間の前後の勤務と連続して勤務に従事した期間とみなす。</Sentence>
             </ParagraphSentence>
@@ -1773,21 +1773,21 @@
               <Sentence Function="proviso" Num="2">ただし、同項ただし書の規定により有給休暇の付与を延期したときは、その延期した期間一箇月を増すごとに二日を加える。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>沿海区域又は平水区域を航行区域とする船舶で国内各港間のみを航海するものに乗り組む船員に前条第一項の規定により与えなければならない有給休暇の日数は、前項の規定にかかわらず、連続した勤務六箇月について十日とし、連続した勤務三箇月を増すごとに三日（同項ただし書に規定する期間については、一箇月を増すごとに一日）を加える。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">前条第二項の規定により与えなければならない有給休暇の日数は、連続した勤務一年について二十五日とし、連続した勤務三箇月を増すごとに五日を加える。</Sentence>
               <Sentence Function="proviso" Num="2">ただし、同条第三項において準用する同条第一項ただし書の規定により有給休暇の付与を延期したときは、その延期した期間一箇月を増すごとに二日を加える。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第二項に規定する船員に前条第二項の規定により与えなければならない有給休暇の日数は、前項の規定にかかわらず、連続した勤務一年について十五日とし、連続した勤務三箇月を増すごとに三日（同項ただし書に規定する期間については、一箇月を増すごとに一日）を加える。</Sentence>
             </ParagraphSentence>
@@ -1812,8 +1812,8 @@
               <Sentence>有給休暇を与うべき時期及び場所については、船舶所有者と船員との協議による。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>有給休暇は、労働協約の定めるところにより、期間を分けて、これを与えることができる。</Sentence>
             </ParagraphSentence>
@@ -1828,8 +1828,8 @@
               <Sentence>船舶所有者は、有給休暇中船員に給料並びに国土交通省令の定める手当及び食費を支払わなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、有給休暇を請求することができる船員が有給休暇を与えられる前に解雇され、又は退職したときは、その者に与うべき有給休暇の日数に応じ前項の給料、手当及び食費を支払わなければならない。</Sentence>
             </ParagraphSentence>
@@ -1878,20 +1878,20 @@
               <Sentence>船舶所有者は、船員の乗船中、これに食料を支給しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の規定による食料の支給は、船員が職務に従事する期間又は船員が負傷若しくは疾病のため職務に従事しない期間においては、船舶所有者の費用で行わなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項の規定による食料の支給は、遠洋区域若しくは近海区域を航行区域とする船舶で総トン数七百トン以上のもの又は国土交通省令で定める漁船に乗り組む船員に支給する場合にあつては、国土交通大臣の定める食料表に基づいて行わなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、その大きさ、航行区域及び航海の態様を勘案して国土交通省令で定める船舶には、第一項の規定による船内における食料の支給を適切に行う能力を有するものとして国土交通省令で定める基準に該当する者を乗り組ませなければならない。</Sentence>
             </ParagraphSentence>
@@ -1906,14 +1906,14 @@
               <Sentence>船舶所有者は、作業用具の整備、船内衛生の保持に必要な設備の設置及び物品の備付け、船内作業による危害の防止及び船内衛生の保持に関する措置の船内における実施及びその管理の体制の整備その他の船内作業による危害の防止及び船内衛生の保持に関し国土交通省令で定める事項を遵守しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、国土交通省令で定める危険な船内作業については、国土交通省令で定める経験又は技能を有しない船員を従事させてはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、次に掲げる船員を作業に従事させてはならない。</Sentence>
             </ParagraphSentence>
@@ -1936,8 +1936,8 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船員は、船内作業による危害の防止及び船内衛生の保持に関し国土交通省令の定める事項を遵守しなければならない。</Sentence>
             </ParagraphSentence>
@@ -1994,15 +1994,15 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">衛生管理者は、衛生管理者適任証書を受有する者でなければならない。</Sentence>
               <Sentence Function="proviso" Num="2">但し、やむを得ない事由がある場合において、国土交通大臣の許可を受けたときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣は、左に掲げる者に衛生管理者適任証書を交付する。</Sentence>
             </ParagraphSentence>
@@ -2019,15 +2019,15 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">衛生管理者は、国土交通省令の定めるところにより、船内の衛生管理に必要な業務に従事しなければならない。</Sentence>
               <Sentence Num="2">その業務については、衛生管理者は、必要に応じ、医師の指導を受けるように努めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前各項に定めるものの外、衛生管理者及び衛生管理者適任証書に関し必要な事項は、国土交通省令でこれを定める。</Sentence>
             </ParagraphSentence>
@@ -2042,8 +2042,8 @@
               <Sentence>船舶所有者は、国土交通大臣の指定する医師が船内労働に適することを証明した健康証明書を持たない者を船舶に乗り組ませてはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>健康証明書に関し必要な事項は、国土交通省令でこれを定める。</Sentence>
             </ParagraphSentence>
@@ -2061,8 +2061,8 @@
               <Sentence>未成年者が船員となるには、法定代理人の許可を受けなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の許可を受けた者は、雇入契約に関しては、成年者と同一の行為能力を有する。</Sentence>
             </ParagraphSentence>
@@ -2078,20 +2078,20 @@
               <Sentence Function="proviso" Num="2">ただし、同一の家庭に属する者のみを使用する船舶については、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、年齢十八年未満の船員を第八十一条第二項の国土交通省令で定める危険な船内作業又は国土交通省令で定める当該船員の安全及び衛生上有害な作業に従事させてはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、年齢十八年未満の者を船員として使用しようとするときは、その者の船員手帳に国土交通大臣の認証を受けなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の認証に関し必要な事項は、国土交通省令でこれを定める。</Sentence>
             </ParagraphSentence>
@@ -2107,14 +2107,14 @@
               <Sentence Function="proviso" Num="2">ただし、国土交通省令の定める場合において午前零時から午前五時までの間を含む連続した九時間の休息をさせるときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の規定は、第六十八条第一項第一号の作業に従事させる場合には、これを適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項の規定は、漁船及び船舶所有者と同一の家庭に属する者のみを使用する船舶については、これを適用しない。</Sentence>
             </ParagraphSentence>
@@ -2145,15 +2145,15 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">船舶所有者は、出産後八週間を経過しない女子を船内で使用してはならない。</Sentence>
               <Sentence Function="proviso" Num="2">ただし、出産後六週間を経過した女子が船内で作業に従事することを申し出た場合において、その者の母性保護上支障がないと医師が認めたときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、第一項ただし書の規定に基づき、妊娠中の女子を船内で作業に従事させる場合において、その女子の申出があつたときは、その者を軽易な作業に従事させなければならない。</Sentence>
             </ParagraphSentence>
@@ -2186,34 +2186,34 @@
               <Sentence>船舶所有者は、妊産婦の船員を第六十条第一項の規定による労働時間の制限を超えて作業に従事させてはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、出産後八週間を経過した妊産婦の船員が、第六十四条第一項に規定する場合において、第六十条第一項の規定による労働時間の制限を超えて作業に従事することを申し出たとき（その者の母性保護上支障がないと医師が認めた場合に限る。）は、前項の規定にかかわらず、同条第一項の規定による労働時間の制限を超えて当該妊産婦の船員を作業に従事させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、出産後八週間を経過した妊産婦の船員が、第六十四条第二項に規定する場合において、第六十条第一項の規定による労働時間の制限を超えて作業に従事することを申し出たとき（その者の母性保護上支障がないと医師が認めた場合に限る。）は、第一項の規定にかかわらず、第六十四条第二項の国土交通省令で定める時間を限度として、第六十条第一項の規定による労働時間の制限を超えて当該妊産婦の船員を作業に従事させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">第六十四条第三項及び第六十六条の規定は、第二項の規定により妊産婦の船員が労働時間の制限を超えて作業に従事した場合について準用する。</Sentence>
               <Sentence Num="2">この場合において、第六十六条中「第六十条第一項の規定若しくは第七十二条の国土交通省令の規定」とあるのは、「第六十条第一項の規定」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">第六十五条の二第一項、第三項及び第四項並びに第六十六条の規定は、第三項の規定により妊産婦の船員が労働時間の制限を超えて作業に従事した場合について準用する。</Sentence>
               <Sentence Num="2">この場合において、第六十五条の二第一項中「第六十条第一項の規定又は第七十二条の国土交通省令の規定」とあるのは「第六十条第一項の規定」と、「第六十条第一項の規定及び第七十二条の国土交通省令の規定による労働時間並びに海員にあつては次項の規定による作業に従事する」とあるのは「同項の規定による」と、同条第三項中「前二項」とあるのは「第八十八条の二の二第五項において準用する第一項」と、同条第四項中「第六十四条第一項」とあるのは「第八十八条の二の二第二項」と、「第一項及び第二項」とあるのは「同条第五項において準用する第一項」と、第六十六条中「第六十条第一項の規定若しくは第七十二条の国土交通省令の規定」とあるのは「第六十条第一項の規定」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="6">
-            <ParagraphNum>○６</ParagraphNum>
+          <Paragraph Num="6" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第六十五条の三第三項の規定は、出産後八週間を経過した妊産婦の船員（海員にあつては、同項各号に掲げる者に限る。）がその休息時間を同項の協定で定めるところによることを船舶所有者に申し出て、その者の母性保護上支障がないと医師が認めた場合について準用する。</Sentence>
             </ParagraphSentence>
@@ -2227,14 +2227,14 @@
               <Sentence>船舶所有者は、妊産婦の船員に一週間について少なくとも一日の休日（第六十二条第一項の規定により与えられる補償休日を除く。）を与えなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>妊産婦の船員に係る第六十二条の規定の適用については、同条第一項中「一週間において四十時間を超える場合又は船員に一週間において少なくとも一日の休日を与えることができない場合」とあるのは「一週間において四十時間を超える場合」と、「当該一週間において少なくとも一日の休日が与えられない場合にあつては、その超える時間が八時間を超える時間。次項において」とあるのは「次項において」と、「作業に従事すること又はその休日を与えられないこと」とあるのは「作業に従事すること」と、同条第二項中「超過時間の合計八時間当たり又は少なくとも一日の休日が与えられない一週間当たり一日を基準として、第六十条第二項及び前条」とあるのは「超過時間の合計八時間当たり一日を基準として、第六十条第二項」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、出産後八週間を経過した妊産婦の船員が次に掲げる申出をした場合において、その者の母性保護上支障がないと医師が認めたときは、第一項及び前項の規定により読み替えて適用する第六十二条第一項の規定にかかわらず、当該妊産婦の船員を休日において作業に従事させることができる。</Sentence>
             </ParagraphSentence>
@@ -2251,8 +2251,8 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第六十六条の規定は、前項の規定により妊産婦の船員が休日において作業に従事した場合について準用する。</Sentence>
             </ParagraphSentence>
@@ -2268,8 +2268,8 @@
               <Sentence Function="proviso" Num="2">ただし、国土交通省令で定める場合において、これと異なる時刻の間において午前零時前後にわたり連続して九時間休息させるときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の規定は、出産後八週間を経過した妊産婦の船員が同項本文の時刻の間において作業に従事すること又は同項ただし書の規定による休息時間を短縮することを申し出た場合において、その者の母性保護上支障がないと医師が認めたときは、これを適用しない。</Sentence>
             </ParagraphSentence>
@@ -2327,8 +2327,8 @@
               <Sentence>船員が職務上負傷し、又は疾病にかかつたときは、船舶所有者は、その負傷又は疾病がなおるまで、その費用で療養を施し、又は療養に必要な費用を負担しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">船員が雇入契約存続中職務外で負傷し、又は疾病にかかつたときは、船舶所有者は、三箇月の範囲内において、その費用で療養を施し、又は療養に必要な費用を負担しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2">但し、その負傷又は疾病につき船員に故意又は重大な過失のあつたときは、この限りでない。</Sentence>
@@ -2395,14 +2395,14 @@
               <Sentence>船員が職務上負傷し、又は疾病にかかつたときは、船舶所有者は、四箇月の範囲内においてその負傷又は疾病がなおるまで毎月一回、国土交通省令の定める報酬（以下標準報酬という。）の月額に相当する額の傷病手当を支払い、その四箇月が経過してもその負傷又は疾病がなおらないときは、そのなおるまで毎月一回、標準報酬の月額の百分の六十に相当する額の傷病手当を支払わなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、前項の負傷又は疾病がなおつた後遅滞なく、標準報酬の月額の百分の六十に相当する額の予後手当を支払わなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前二項の規定は、負傷又は疾病につき船員に故意又は重大な過失のあつたときは、これを適用しない。</Sentence>
             </ParagraphSentence>
@@ -2471,26 +2471,26 @@
               <Sentence>職務上の負傷、疾病、行方不明又は死亡の認定、療養の方法、災害補償の金額の決定その他災害補償の実施に関して異議のある者は、国土交通大臣に対して審査又は事件の仲裁を申し立てることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣は、必要があると認めるときは、職権で審査又は事件の仲裁をすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣は、審査又は事件の仲裁に際し船長その他の関係人の意見を聴かなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣は、審査又は事件の仲裁のため必要があると認めるときは、医師に診断又は検案をさせることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項の規定による審査又は事件の仲裁の申立て及び第二項の規定による審査又は事件の仲裁の開始は、時効の完成猶予及び更新に関しては、これを裁判上の請求とみなす。</Sentence>
             </ParagraphSentence>
@@ -2533,8 +2533,8 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">前項の船舶所有者は、次の事項について就業規則を作成したときは、これを国土交通大臣に届け出なければならない。</Sentence>
               <Sentence Num="2">これを変更したときも同様とする。</Sentence>
@@ -2594,21 +2594,21 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">船舶所有者を構成員とする団体で法人たるものは、その構成員たる第一項の船舶所有者について適用される就業規則を作成して、これを届け出ることができる。</Sentence>
               <Sentence Num="2">その変更についても同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の規定による届出があつたときは、同項に規定する船舶所有者は、当該就業規則の作成及びその作成又は変更の届出をしなくてもよい。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項乃至第三項の規定による届出には、第九十八条の規定により聴いた意見を記載した書面を添附しなければならない。</Sentence>
             </ParagraphSentence>
@@ -2633,8 +2633,8 @@
               <Sentence>国土交通大臣は、法令又は労働協約に違反する就業規則の変更を命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣は、就業規則が不当であると認めるときは、交通政策審議会又は地方運輸局に置かれる政令で定める審議会（以下「交通政策審議会等」という。）の議を経て、その変更を命ずることができる。</Sentence>
             </ParagraphSentence>
@@ -3565,15 +3565,15 @@
               <Sentence>国土交通大臣は、この法律、労働基準法（船員の労働関係について適用される部分に限る。以下同じ。）又はこの法律に基づいて発する命令に違反する事実があると認めるときは、船舶所有者又は船員に対し、その違反を是正するため必要な措置をとるべきことを命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">国土交通大臣は、前項の規定に基づく命令を発したにもかかわらず、船舶所有者又は船員がその命令に従わない場合において、船舶の航海の安全を確保するため特に必要があると認めるときは、その船舶の航行の停止を命じ、又はその航行を差し止めることができる。</Sentence>
               <Sentence Num="2">この場合において、その船舶が航行中であるときは、国土交通大臣は、その船舶の入港すべき港を指定することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣は、前項の規定による処分に係る船舶について、第一項に規定する事実がなくなつたと認めるときは、直ちにその処分を取り消さなければならない。</Sentence>
             </ParagraphSentence>
@@ -3597,8 +3597,8 @@
               <Sentence>この法律によつて国土交通大臣の行うべき事務は、外国にあつては、国土交通省令の定めるところにより、日本の領事官がこれを行う。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>行政不服審査法（平成二十六年法律第六十八号）に定めるもののほか、領事官の行う前項の事務に係る処分又はその不作為についての審査請求に関して必要な事項は、政令で定める。</Sentence>
             </ParagraphSentence>
@@ -3613,14 +3613,14 @@
               <Sentence>この法律に規定する国土交通大臣の権限に属する事務の一部は、政令で定めるところにより、政令の定める基準により国土交通大臣の指定する市町村長が行うこととすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>市町村長のした前項の事務（地方自治法（昭和二十二年法律第六十七号）第二条第九項第一号に規定する第一号法定受託事務であるものに限る。）に係る処分についての審査請求は、国土交通大臣に対してするものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>市町村長の行う第一項の事務（地方自治法第二条第九項第一号に規定する第一号法定受託事務であるものに限る。）に係る処分の不作為についての審査請求は、市町村長、都道府県知事又は国土交通大臣のいずれかに対してするものとする。</Sentence>
             </ParagraphSentence>
@@ -3653,26 +3653,26 @@
               <Sentence>船員労務官は、必要があると認めるときは、船舶所有者、船員その他の関係者に出頭を命じ、帳簿書類を提出させ、若しくは報告をさせ、又は船舶その他の事業場に立ち入り、帳簿書類その他の物件を検査し、若しくは船舶所有者、船員その他の関係者に質問をすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船員労務官は、必要があると認めるときは、旅客その他船内にある者に質問をすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前二項の場合には、船員労務官は、その身分を示す証明書を携帯し、関係者に提示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項又は第二項の規定による立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船員労務官の服制は、国土交通省令でこれを定める。</Sentence>
             </ParagraphSentence>
@@ -3715,8 +3715,8 @@
               <Sentence>交通政策審議会等は、国土交通大臣の諮問に応じ、この法律及び労働基準法の施行又は改正に関する事項を調査審議する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>交通政策審議会等は、船員の労働条件に関して、関係行政官庁に建議することができる。</Sentence>
             </ParagraphSentence>
@@ -3765,8 +3765,8 @@
               <Sentence>この法律、労働基準法又はこの法律に基づいて発する命令に違反する事実があるときは、船員は、国土交通省令の定めるところにより、国土交通大臣、地方運輸局長、運輸支局長、地方運輸局、運輸監理部若しくは運輸支局の事務所の長又は船員労務官にその事実を申告することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、前項の申告をしたことを理由として、船員を解雇しその他船員に対して不利益な取扱を与えてはならない。</Sentence>
             </ParagraphSentence>
@@ -3784,14 +3784,14 @@
               <Sentence>船舶所有者は、この法律、労働基準法、この法律に基づく命令、労働協約、就業規則並びに第三十四条第二項、第六十四条の二第一項、第六十五条及び第六十五条の三第三項の協定を記載した書類を船内及びその他の事業場内の見やすい場所に掲示し、又は備え置かなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者（漁船その他第百条の二第一項の国土交通省令で定める特別の用途に供される船舶の船舶所有者を除く。）は、二千六年の海上の労働に関する条約を記載した書類を船内及びその他の事業場内の見やすい場所に掲示し、又は備え置かなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>海上労働証書又は臨時海上労働証書の交付を受けた特定船舶の船舶所有者は、これらの証書の写しを船内及びその他の事業場内の見やすい場所に掲示しなければならない。</Sentence>
             </ParagraphSentence>
@@ -3806,8 +3806,8 @@
               <Sentence>船舶所有者は、給料その他の報酬、失業手当、送還手当、傷病手当又は行方不明手当のうち、その二以上をともに支払うべき期間については、いずれか一の多額のものを支払うを以て足りる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、給料その他の報酬を支払うべき場合において雇止手当又は予後手当を支払うべきときは、給料その他の報酬を支払うべき限度において、雇止手当又は予後手当の支払の義務を免れる。</Sentence>
             </ParagraphSentence>
@@ -3833,8 +3833,8 @@
               <Sentence>船舶所有者は、第四十四条の三から第四十六条まで、第四十七条第一項、第四十九条、第六十三条、第六十六条（第八十八条の二の二第四項及び第五項並びに第八十八条の三第四項において準用する場合を含む。）又は第七十八条の規定に違反したときは、これらの規定により船舶所有者が支払うべき金額（第四十七条第一項の規定に違反したときは、送還の費用）についての次項の規定による請求の時における未払金額に相当する額の付加金を船員に支払わなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">船員は、裁判所に対する訴えによつてのみ前項の付加金の支払を請求することができる。</Sentence>
               <Sentence Function="proviso" Num="2">ただし、その訴えは、同項に規定する違反のあつた時から二年以内にこれをしなければならない。</Sentence>
@@ -3861,26 +3861,26 @@
               <Sentence>船舶所有者は、国土交通省令で定める船舶に航海当直をすべき職務を有する部員（第五項において「航海当直部員」という。）として部員を乗り組ませようとする場合には、次項の規定により証印を受けている者を、国土交通省令で定めるところにより乗り組ませなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣は、国土交通省令の定めるところにより航海当直をするために必要な知識及び能力を有すると認定した者に対し、その者の船員手帳に当該認定をした旨の証印をする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣は、次項の規定により証印を抹消され、その日から一年を経過しない者に対しては、前項の証印をしないことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣は、第二項の規定により証印を受けている者が、その職務に関してこの法律又はこの法律に基づく命令に違反したときは、その者に対し船員手帳の提出を命じ、その証印を抹消することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前各項に定めるもののほか、航海当直部員及び第二項の規定による証印に関し必要な事項は、国土交通省令でこれを定める。</Sentence>
             </ParagraphSentence>
@@ -3895,14 +3895,14 @@
               <Sentence>船舶所有者は、国土交通省令で定めるタンカー（国土交通大臣が定める危険物又は有害物であるばら積みの液体貨物を輸送するために使用される船舶をいう。）又は国土交通省令で定める液化天然ガス等燃料船（液化天然ガスその他の国土交通大臣が定める危険物又は有害物である液体物質を燃料とする船舶をいう。）には、危険物又は有害物の取扱いに関する業務を管理すべき職務を有する者（第三項において「危険物等取扱責任者」という。）として、次項の規定により証印を受けている者を、国土交通省令で定めるところにより乗り組ませなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣は、国土交通省令で定めるところにより危険物又は有害物の取扱いに関する業務を管理するために必要な知識及び能力を有すると認定した者に対し、その者の船員手帳に当該認定をした旨の証印をする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前条第三項から第五項までの規定は、危険物等取扱責任者及び前項に規定する証印について準用する。</Sentence>
             </ParagraphSentence>
@@ -3917,14 +3917,14 @@
               <Sentence>船舶所有者は、特定海域（海氷の状況その他の自然的条件により船舶の航行の安全の確保に支障を生じ、又は生じるおそれがあるため、その運航につき特別の知識及び技能が必要であると認められる海域として国土交通省令で定めるものをいう。）を航行する船舶には、海域の特性に応じた運航に関する業務を管理すべき職務を有する者（第三項において「特定海域運航責任者」という。）として、次項の規定により証印を受けている者を、国土交通省令で定めるところにより乗り組ませなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣は、国土交通省令で定めるところにより海域の特性に応じた運航に関する業務を管理するために必要な知識及び能力を有すると認定した者に対し、その者の船員手帳に当該認定をした旨の証印をする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第百十七条の二第三項から第五項までの規定は、特定海域運航責任者及び前項に規定する証印について準用する。</Sentence>
             </ParagraphSentence>
@@ -3939,14 +3939,14 @@
               <Sentence>船舶所有者は、国土交通省令の定める船舶については、乗組員の中から国土交通省令の定める員数の救命艇手を選任しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>救命艇手は、救命艇手適任証書を受有する者でなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣は、左に掲げる者に救命艇手適任証書を交付する。</Sentence>
             </ParagraphSentence>
@@ -3963,20 +3963,20 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣は、次項の規定により救命艇手適任証書の返納を命ぜられ、その日から一年を経過しない者に対しては、救命艇手適任証書の交付を行わないことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣は、救命艇手が、その職務に関してこの法律又はこの法律に基づく命令に違反したときは、その救命艇手適任証書の返納を命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="6">
-            <ParagraphNum>○６</ParagraphNum>
+          <Paragraph Num="6" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前各項に定めるもののほか、救命艇手及び救命艇手適任証書に関し必要な事項は、国土交通省令でこれを定める。</Sentence>
             </ParagraphSentence>
@@ -4011,20 +4011,20 @@
               <Sentence>船舶所有者は、国土交通省令で定めるところにより、船内苦情処理手続（船員が航海中に船舶所有者に申出をしたこの法律、労働基準法及びこの法律に基づく命令に規定する事項並びに船員の労働条件等に関し国土交通省令で定める事項に関する苦情を処理する手続をいう。以下この条において同じ。）を定めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、雇入契約が成立したときは、遅滞なく、船内苦情処理手続を記載した書面を船員に交付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、船員から航海中に第一項の苦情の申出を受けた場合にあつては、船内苦情処理手続に定めるところにより、苦情を処理しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>船舶所有者は、第一項の苦情の申出をしたことを理由として、船員に対して解雇その他の不利益な取扱いをしてはならない。</Sentence>
             </ParagraphSentence>
@@ -4091,39 +4091,39 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣は、前項の検査を行う場合において必要があると認めるときは、その必要と認める限度において、当該外国船舶の帳簿書類その他の物件を検査し、当該外国船舶の乗組員に質問し、又は当該外国船舶の乗組員が同項第二号に定める知識及び能力を有するかどうかについて審査を行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣は、第一項の規定による検査の結果、当該外国船舶の乗組員の労働条件等が二千六年の海上の労働に関する条約に定める要件に適合していないと認めるとき、又は当該外国船舶の乗組員が同項各号に掲げる要件のいずれかに適合していないと認めるときは、当該外国船舶の船長に対し、これらの要件に適合するために必要な措置をとるべきことを文書により通告するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣は、前項の規定に基づく通告をしたにもかかわらず、なお当該通告に係る措置がとられていない場合において、当該外国船舶の大きさ及び種類並びに航海の期間及び態様を考慮して、航海を継続することが人の生命、身体若しくは財産に危険を生ぜしめ、又は海洋環境の保全に障害を及ぼすおそれがあると認めるときは、当該外国船舶の航行の停止を命じ、又はその航行を差し止めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣があらかじめ指定するその職員は、前項に規定する場合において、人の生命、身体若しくは財産に対する危険を防止し、又は海洋環境の保全を図るため緊急の必要があると認めるときは、同項に規定する国土交通大臣の権限を即時に行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="6">
-            <ParagraphNum>○６</ParagraphNum>
+          <Paragraph Num="6" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">第百一条第三項の規定は第四項の場合について、第百七条第三項及び第四項の規定は第一項の場合について、それぞれ準用する。</Sentence>
               <Sentence Num="2">この場合において、第百一条第三項中「前項」とあるのは「第百二十条の三第四項」と、「第一項に規定する事実がなくなつた」とあるのは「二千六年の海上の労働に関する条約に定める要件及び同条第一項各号に定める要件に適合するために必要な措置がとられた」と、第百七条第三項中「前二項」とあるのは「第百二十条の三第一項」と、「船員労務官」とあるのは「同条第一項の規定により立入検査をする職員」と、同条第四項中「第一項又は第二項」とあるのは「第百二十条の三第一項」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="7">
-            <ParagraphNum>○７</ParagraphNum>
+          <Paragraph Num="7" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">第百十二条の規定は、外国船舶の乗組員について準用する。</Sentence>
               <Sentence Num="2">この場合において、同条第一項中「この法律、労働基準法又はこの法律に基づいて発する命令」とあるのは「二千六年の海上の労働に関する条約」と、「船員労務官」とあるのは「国土交通大臣があらかじめ指定するその職員」と読み替えるものとする。</Sentence>
@@ -4211,8 +4211,8 @@
               <Sentence>この法律に規定する国土交通大臣の権限は、国土交通省令の定めるところにより、その一部を地方運輸局長に委任することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の規定により地方運輸局長に委任された権限は、国土交通省令の定めるところにより、運輸支局長又は地方運輸局、運輸監理部若しくは運輸支局の事務所の長に委任することができる。</Sentence>
             </ParagraphSentence>
@@ -4658,8 +4658,8 @@
               <Sentence>船舶所有者の代表者、代理人、使用人その他の従業者が船舶所有者の業務に関し第百二十九条から第百三十一条まで、第百三十二条第一号又は第百三十三条第一号、第六号から第八号まで、第十号若しくは第十一号の違反行為をしたときは、その行為者を罰するほか、その船舶所有者に対して、各本条の罰金刑を科する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第九十七条第三項に規定する団体の代表者、代理人、使用人その他の従業者がその団体の業務に関し第百三十三条第六号から第八号まで又は第十一号の違反行為をしたときは、その行為者を罰するほか、その団体に対して、同条の刑を科する。</Sentence>
             </ParagraphSentence>
@@ -4677,8 +4677,8 @@
             <Sentence>この法律は、第十章の規定を除いて、公布の日からこれを施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Num="2" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>第十章の規定施行の期日は、命令でこれを定める。</Sentence>
           </ParagraphSentence>
@@ -4694,7 +4694,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="328213" AmendLawNum="昭和二八年八月一五日法律第二一三号" Extract="true" Id="e13ae719-ed3e-40c0-8589-28dd642f3cc8">
+    <SupplProvision AmendLawNum="昭和二八年八月一五日法律第二一三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -4709,7 +4709,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="328236" AmendLawNum="昭和二八年八月一八日法律第二三六号" Extract="true" Id="72bedc22-47dd-11e5-9594-6b29ffbb4578">
+    <SupplProvision AmendLawNum="昭和二八年八月一八日法律第二三六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -4718,7 +4718,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="334137" AmendLawNum="昭和三四年四月一五日法律第一三七号" Extract="true" Id="3efbc6d4-47dd-11e5-8927-0709f89eca37">
+    <SupplProvision AmendLawNum="昭和三四年四月一五日法律第一三七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4731,7 +4731,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="337130" AmendLawNum="昭和三七年五月一二日法律第一三〇号" Extract="true" Id="31caa619-1034-4ba8-819e-33bb2852f3de">
+    <SupplProvision AmendLawNum="昭和三七年五月一二日法律第一三〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4824,7 +4824,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="337161" AmendLawNum="昭和三七年九月一五日法律第一六一号" Extract="true" Id="4d6c2670-d3be-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三七年九月一五日法律第一六一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -4883,7 +4883,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="340080" AmendLawNum="昭和四〇年五月二二日法律第八〇号" Extract="true" Id="4eb0d26a-188a-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四〇年五月二二日法律第八〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -4893,7 +4893,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="345058" AmendLawNum="昭和四五年五月一五日法律第五八号" Id="30239f60-188c-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四五年五月一五日法律第五八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -4909,7 +4909,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="351034" AmendLawNum="昭和五一年五月二七日法律第三四号" Extract="true" Id="49067372-47dd-11e5-8ce6-5f7a689781ef">
+    <SupplProvision AmendLawNum="昭和五一年五月二七日法律第三四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -4932,7 +4932,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="353027" AmendLawNum="昭和五三年四月二四日法律第二七号" Extract="true" Id="c4bfdbc6-e627-49b9-aecb-ddd62e84ca30">
+    <SupplProvision AmendLawNum="昭和五三年四月二四日法律第二七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -4942,7 +4942,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="356045" AmendLawNum="昭和五六年五月一九日法律第四五号" Extract="true" Id="74e1eb8a-a133-436b-bccb-6c45197511e9">
+    <SupplProvision AmendLawNum="昭和五六年五月一九日法律第四五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -4952,7 +4952,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="357039" AmendLawNum="昭和五七年五月一日法律第三九号" Extract="true" Id="30780406-188c-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五七年五月一日法律第三九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5004,7 +5004,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="359023" AmendLawNum="昭和五九年五月一日法律第二三号" Extract="true" Id="04d4250a-ccbe-44ce-bdb2-3109bb35a46e">
+    <SupplProvision AmendLawNum="昭和五九年五月一日法律第二三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -5014,7 +5014,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="360057" AmendLawNum="昭和六〇年六月一一日法律第五七号" Extract="true" Id="f80fc748-1886-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六〇年六月一一日法律第五七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5047,7 +5047,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="363039" AmendLawNum="昭和六三年五月一七日法律第三九号" Extract="true" Id="6f0ff93d-8048-4dec-9c15-9a850f93cdc7">
+    <SupplProvision AmendLawNum="昭和六三年五月一七日法律第三九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5110,7 +5110,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="404059" AmendLawNum="平成四年五月二二日法律第五九号" Id="30ceff0e-188c-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成四年五月二二日法律第五九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5208,7 +5208,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="406056" AmendLawNum="平成六年六月二九日法律第五六号" Extract="true" Id="4d72be18-d3be-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成六年六月二九日法律第五六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5221,7 +5221,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="406075" AmendLawNum="平成六年六月二九日法律第七五号" Extract="true" Id="3bfe25e2-9726-41b6-8484-52e0ffde8e3d">
+    <SupplProvision AmendLawNum="平成六年六月二九日法律第七五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5283,7 +5283,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="407107" AmendLawNum="平成七年六月九日法律第一〇七号" Extract="true" Id="f616ba3c-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成七年六月九日法律第一〇七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5297,7 +5297,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="408084" AmendLawNum="平成八年六月一四日法律第八四号" Extract="true" Id="02ff504c-188c-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成八年六月一四日法律第八四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5353,7 +5353,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="410112" AmendLawNum="平成一〇年九月三〇日法律第一一二号" Extract="true" Id="0da42510-9d2a-4f73-b8de-982be38a07f6">
+    <SupplProvision AmendLawNum="平成一〇年九月三〇日法律第一一二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5366,7 +5366,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411087" AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true" Id="8a6950aa-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5489,7 +5489,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411104" AmendLawNum="平成一一年七月一六日法律第一〇四号" Extract="true" Id="f62ec06e-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第一〇四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5502,7 +5502,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411151" AmendLawNum="平成一一年一二月八日法律第一五一号" Extract="true" Id="8a6b58dc-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月八日法律第一五一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5540,7 +5540,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5565,7 +5565,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412071" AmendLawNum="平成一二年五月一九日法律第七一号" Extract="true" Id="46e0150f-a0f2-4ac1-a7bb-ab22ee002724">
+    <SupplProvision AmendLawNum="平成一二年五月一九日法律第七一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5578,7 +5578,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="413112" AmendLawNum="平成一三年七月一一日法律第一一二号" Extract="true" Id="51020d70-47dd-11e5-8f12-df75b7e9f5fa">
+    <SupplProvision AmendLawNum="平成一三年七月一一日法律第一一二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5591,7 +5591,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="413118" AmendLawNum="平成一三年一一月一六日法律第一一八号" Extract="true" Id="1c9564f4-1889-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年一一月一六日法律第一一八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5604,7 +5604,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414043" AmendLawNum="平成一四年五月一五日法律第四三号" Extract="true" Id="a8792b9a-1884-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年五月一五日法律第四三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5627,7 +5627,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414054" AmendLawNum="平成一四年五月三一日法律第五四号" Extract="true" Id="932f4b42-d3c8-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年五月三一日法律第五四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5668,7 +5668,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414060" AmendLawNum="平成一四年六月七日法律第六〇号" Extract="true" Id="93318560-d3c8-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年六月七日法律第六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5681,7 +5681,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414098" AmendLawNum="平成一四年七月三一日法律第九八号" Extract="true" Id="9171d2c4-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年七月三一日法律第九八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5726,7 +5726,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416071" AmendLawNum="平成一六年六月二日法律第七一号" Extract="true" Id="0b407978-af0d-4ae6-a55f-e50e05301e80">
+    <SupplProvision AmendLawNum="平成一六年六月二日法律第七一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5807,7 +5807,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416147" AmendLawNum="平成一六年一二月一日法律第一四七号" Extract="true" Id="f14e18bc-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年一二月一日法律第一四七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5820,7 +5820,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417102" AmendLawNum="平成一七年一〇月二一日法律第一〇二号" Extract="true" Id="56cf48f4-7bb3-472a-922e-4a5d7ee5b3d8">
+    <SupplProvision AmendLawNum="平成一七年一〇月二一日法律第一〇二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5843,7 +5843,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419030" AmendLawNum="平成一九年四月二三日法律第三〇号" Extract="true" Id="56c72d3e-b5b2-4d5f-b93e-73d126fff301">
+    <SupplProvision AmendLawNum="平成一九年四月二三日法律第三〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5904,7 +5904,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419109" AmendLawNum="平成一九年七月六日法律第一〇九号" Extract="true" Id="3d4908cb-642e-6ce7-a549-b1212e4c7012">
+    <SupplProvision AmendLawNum="平成一九年七月六日法律第一〇九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5929,7 +5929,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419111" AmendLawNum="平成一九年七月六日法律第一一一号" Extract="true" Id="803eb4e4-47dd-11e5-97a5-ef4aba890d01">
+    <SupplProvision AmendLawNum="平成一九年七月六日法律第一一一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5942,7 +5942,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="420026" AmendLawNum="平成二〇年五月二日法律第二六号" Extract="true" Id="24d1b55e-26fd-4037-a822-e0577f4dbcd7">
+    <SupplProvision AmendLawNum="平成二〇年五月二日法律第二六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6110,7 +6110,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="420053" AmendLawNum="平成二〇年六月六日法律第五三号" Extract="true" Id="2c130b6c-d3c1-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年六月六日法律第五三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6166,7 +6166,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424042" AmendLawNum="平成二四年六月二七日法律第四二号" Extract="true" Id="f6b71752-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年六月二七日法律第四二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6179,7 +6179,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424087" AmendLawNum="平成二四年九月一二日法律第八七号" Extract="true" Id="ff65829e-aaec-45f5-add2-3e98ff4ab630">
+    <SupplProvision AmendLawNum="平成二四年九月一二日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7128,7 +7128,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426069" AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true" Id="089695bd-1a35-40ad-aae2-abd96d597d6c">
+    <SupplProvision AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7193,7 +7193,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="429021" AmendLawNum="平成二九年四月二一日法律第二一号" Extract="true" Id="4817d254-2647-11e7-b529-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成二九年四月二一日法律第二一号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7326,7 +7326,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="429045" AmendLawNum="平成二九年六月二日法律第四五号" Id="0764f7de-49d6-11e7-99a6-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成二九年六月二日法律第四五号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>

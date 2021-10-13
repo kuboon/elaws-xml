@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="100" Year="29">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="100" Year="29" PromulgateMonth="05" PromulgateDay="15">
   <LawNum>昭和二十九年法律第百号</LawNum>
   <LawBody>
-    <LawTitle>利息制限法</LawTitle>
+    <LawTitle Kana="りそくせいげんほう" Abbrev="利限法" AbbrevKana="り">利息制限法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Delete="false" Num="1">
@@ -401,7 +401,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411155" AmendLawNum="平成一一年一二月一七日法律第一五五号" Extract="true" Id="007bc452-d3b8-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月一七日法律第一五五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -435,7 +435,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418115" AmendLawNum="平成一八年一二月二〇日法律第一一五号" Extract="true" Id="00875a2e-d3b8-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年一二月二〇日法律第一一五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -541,7 +541,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419058" AmendLawNum="平成一九年五月二五日法律第五八号" Extract="true" Id="0089dbfa-d3b8-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年五月二五日法律第五八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

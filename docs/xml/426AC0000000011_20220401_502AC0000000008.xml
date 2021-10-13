@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="430AC0000000007" AmendmentNum="平成三十年法律第七号" Era="Heisei" Lang="ja" LawType="Act" Num="11" Year="26">
+<Law AmendmentId="430AC0000000007" AmendmentNum="平成三十年法律第七号" Era="Heisei" Lang="ja" LawType="Act" Num="11" Year="26" PromulgateMonth="03" PromulgateDay="31">
   <LawNum>平成二十六年法律第十一号</LawNum>
   <LawBody>
-    <LawTitle>地方法人税法</LawTitle>
+    <LawTitle Kana="ちほうほうじんぜいほう" Abbrev="" AbbrevKana="">地方法人税法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -1174,7 +1174,7 @@
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>第一項の場合において、国税通則法第百二十四条の規定による名称及び法人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第十五項に規定する法人番号をいう。）の記載並びに押印については、第一項の内国法人は、国税通則法第百二十四条の規定にかかわらず、当該記載及び押印に代えて、財務省令で定めるところにより、名称を明らかにする措置を講じなければならない。</Sentence>
+                <Sentence>第一項の場合において、国税通則法第百二十四条の規定による名称及び法人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第十五項に規定する法人番号をいう。）の記載については、第一項の内国法人は、国税通則法第百二十四条の規定にかかわらず、当該記載に代えて、財務省令で定めるところにより、名称を明らかにする措置を講じなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1703,16 +1703,6 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="30_2">
-          <ArticleCaption>（外国法人の提出する申告書に係る記名押印）</ArticleCaption>
-          <ArticleTitle>第三十条の二</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence>法人税法第百五十一条の規定は、外国法人が地方法人税中間申告書、第十六条第六項の規定による申告書（当該申告書に係る期限後申告書を含む。）、地方法人税確定申告書及び第十九条第五項の規定による申告書（当該申告書に係る期限後申告書を含む。）並びにこれらの申告書に係る修正申告書を提出する場合について準用する。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
         <Article Num="31">
           <ArticleCaption>（連帯納付の責任）</ArticleCaption>
           <ArticleTitle>第三十一条</ArticleTitle>
@@ -1850,7 +1840,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="426010" AmendLawNum="平成二六年三月三一日法律第一〇号" Extract="true" Id="81461446-ffba-4acf-95ae-161651aa3198">
+    <SupplProvision AmendLawNum="平成二六年三月三一日法律第一〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1923,7 +1913,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="427009" AmendLawNum="平成二七年三月三一日法律第九号" Extract="true" Id="6939dc67-bb4e-45d0-a0d4-eead9f9f8c3d">
+    <SupplProvision AmendLawNum="平成二七年三月三一日法律第九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1986,7 +1976,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="428015" AmendLawNum="平成二八年三月三一日法律第一五号" Extract="true" Id="7c9faef1-5cbf-e19e-9784-baef8a87fe60">
+    <SupplProvision AmendLawNum="平成二八年三月三一日法律第一五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2077,7 +2067,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="428085" AmendLawNum="平成二八年一一月二八日法律第八五号" Extract="true" Id="6b9582e8-a5f0-6a70-eaca-caee0e3fe864">
+    <SupplProvision AmendLawNum="平成二八年一一月二八日法律第八五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2090,7 +2080,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="429004" AmendLawNum="平成二九年三月三一日法律第四号" Extract="true" Id="af9825fc-19f7-11e7-bb35-005056b30d52">
+    <SupplProvision AmendLawNum="平成二九年三月三一日法律第四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2163,7 +2153,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430007" AmendLawNum="平成三〇年三月三一日法律第七号" Extract="true" Id="d69a4fea-3bd4-11e8-a64e-005056b30d52">
+    <SupplProvision AmendLawNum="平成三〇年三月三一日法律第七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2246,7 +2236,7 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>法人の施行日前に終了した課税事業年度の地方法人税確定申告書及び法人の施行日前に納税義務が成立した地方法人税中間申告書に係る地方法人税の地方法人税中間申告書並びにこれらの申告書に係る修正申告書で法人が施行日前に提出したものに係る第三条の規定による改正前の地方法人税法第三十条において準用する旧法人税法第百五十一条第一項から第四項までの規定による自署及び押印については、なお従前の例による。</Sentence>
+            <Sentence>法人の施行日前に終了した課税事業年度の地方法人税確定申告書（令和三年四月一日以後に提出するものを除く。）及び法人の施行日前に納税義務が成立した地方法人税中間申告書に係る地方法人税の地方法人税中間申告書並びにこれらの申告書に係る修正申告書で法人が施行日前に提出したものに係る第三条の規定による改正前の地方法人税法第三十条において準用する旧法人税法第百五十一条第一項から第四項までの規定による自署及び押印については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2271,7 +2261,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501016" AmendLawNum="令和元年五月三一日法律第一六号" Extract="true" Id="51691030-88e1-11e9-a713-005056b30d52">
+    <SupplProvision AmendLawNum="令和元年五月三一日法律第一六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2302,7 +2292,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502008" AmendLawNum="令和二年三月三一日法律第八号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2451,6 +2441,39 @@
       <Article Num="172">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第百七十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年三月三一日法律第一一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、令和三年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="131">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="132">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百三十二条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>

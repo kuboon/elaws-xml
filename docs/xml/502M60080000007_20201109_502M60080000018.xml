@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Reiwa" Lang="ja" LawType="Rule" Num="007" Year="02">
+<Law AmendmentId="502M60080000018" AmendmentNum="令和二年原子力規制委員会規則第十八号" Era="Reiwa" Lang="ja" LawType="Rule" Num="007" Year="02" PromulgateMonth="11" PromulgateDay="09">
   <LawNum>令和二年原子力規制委員会規則第七号</LawNum>
   <LawBody>
-    <LawTitle>試験研究の用に供する原子炉等の技術基準に関する規則</LawTitle>
+    <LawTitle Kana="しけんけんきゅうのようにきょうするげんしろとうのぎじゅつきじゅんにかんするきそく" Abbrev="" AbbrevKana="">試験研究の用に供する原子炉等の技術基準に関する規則</LawTitle>
     <EnactStatement>原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律（平成二十九年法律第十五号）の一部の施行に伴い、及び核原料物質、核燃料物質及び原子炉の規制に関する法律（昭和三十二年法律第百六十六号）第二十八条の二の規定に基づき、試験研究の用に供する原子炉等の技術基準に関する規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -40,7 +40,7 @@
         <Article Delete="false" Hide="false" Num="1">
           <ArticleCaption>（適用範囲）</ArticleCaption>
           <ArticleTitle>第一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この規則は、次に掲げる試験研究用等原子炉及びその附属施設について適用する。</Sentence>
@@ -62,13 +62,13 @@
         <Article Delete="false" Hide="false" Num="2">
           <ArticleCaption>（定義）</ArticleCaption>
           <ArticleTitle>第二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この規則において使用する用語は、核原料物質、核燃料物質及び原子炉の規制に関する法律（以下「法」という。）において使用する用語の例による。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この規則において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
@@ -525,13 +525,13 @@
         <Article Delete="false" Hide="false" Num="3">
           <ArticleCaption>（特殊な設計による試験研究用等原子炉施設）</ArticleCaption>
           <ArticleTitle>第三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">特別の理由により原子力規制委員会の認可を受けた場合は、この規則の規定によらないで試験研究用等原子炉施設を設置することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の認可を受けようとする者は、その理由及び設置方法を記載した申請書に関係図面を添付して申請しなければならない。</Sentence>
@@ -541,7 +541,7 @@
         <Article Delete="false" Hide="false" Num="4">
           <ArticleCaption>（廃止措置中の試験研究用等原子炉施設の維持）</ArticleCaption>
           <ArticleTitle>第四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第四十三条の三の二第二項の認可を受けた場合には、当該認可に係る廃止措置計画（同条第三項において準用する法第十二条の六第三項又は第五項の規定による変更の認可又は届出があったときは、その変更後のもの。以下この条において同じ。）で定める性能維持施設（試験炉規則第十六条の五の二第十一号の性能維持施設をいう。）については、この規則の規定にかかわらず、当該認可に係る廃止措置計画に定めるところにより、当該施設を維持しなければならない。</Sentence>
@@ -551,7 +551,7 @@
         <Article Delete="false" Hide="false" Num="5">
           <ArticleCaption>（試験研究用等原子炉施設の地盤）</ArticleCaption>
           <ArticleTitle>第五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設（船舶に設置するものを除く。第六条、第七条及び第八条第一項において同じ。）は、試験炉許可基準規則第三条第一項の地震力が作用した場合においても当該試験研究用等原子炉施設を十分に支持することができる地盤に設置されたものでなければならない。</Sentence>
@@ -561,19 +561,19 @@
         <Article Delete="false" Hide="false" Num="6">
           <ArticleCaption>（地震による損傷の防止）</ArticleCaption>
           <ArticleTitle>第六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設は、これに作用する地震力（試験炉許可基準規則第四条第二項の規定により算定する地震力をいう。）による損壊により公衆に放射線障害を及ぼすことがないものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">耐震重要施設（試験炉許可基準規則第三条第一項に規定する耐震重要施設をいう。以下この条において同じ。）は、その供用中に当該耐震重要施設に大きな影響を及ぼすおそれがある地震による加速度によって作用する地震力（試験炉許可基準規則第四条第三項に規定する地震力をいう。）に対してその安全性が損なわれるおそれがないものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">耐震重要施設は、試験炉許可基準規則第四条第三項の地震により生ずる斜面の崩壊によりその安全性が損なわれるおそれがないものでなければならない。</Sentence>
@@ -583,7 +583,7 @@
         <Article Delete="false" Hide="false" Num="7">
           <ArticleCaption>（津波による損傷の防止）</ArticleCaption>
           <ArticleTitle>第七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設は、その供用中に当該試験研究用等原子炉施設に大きな影響を及ぼすおそれがある津波（試験炉許可基準規則第五条に規定する津波をいう。）によりその安全性が損なわれるおそれがないものでなければならない。</Sentence>
@@ -593,25 +593,25 @@
         <Article Delete="false" Hide="false" Num="8">
           <ArticleCaption>（外部からの衝撃による損傷の防止）</ArticleCaption>
           <ArticleTitle>第八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設は、想定される自然現象（地震及び津波を除く。）によりその安全性を損なうおそれがある場合において、防護措置、基礎地盤の改良その他の適切な措置が講じられたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設は、周辺監視区域に隣接する地域に事業所、鉄道、道路その他の外部からの衝撃が発生するおそれがある要因がある場合において、事業所における火災又は爆発事故、危険物を搭載した車両、船舶又は航空機の事故その他の敷地及び敷地周辺の状況から想定される事象であって人為によるもの（故意によるものを除く。）により試験研究用等原子炉施設の安全性が損なわれないよう、防護措置その他の適切な措置が講じられたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉を船舶に設置する場合にあっては、原子炉格納容器に近接する船体の部分は、衝突、座礁その他の要因による原子炉格納容器の機能の喪失を防止できる構造でなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設は、航空機の墜落により試験研究用等原子炉施設の安全性を損なうおそれがある場合において、防護措置その他の適切な措置が講じられたものでなければならない。</Sentence>
@@ -621,7 +621,7 @@
         <Article Delete="false" Hide="false" Num="9">
           <ArticleCaption>（試験研究用等原子炉施設への人の不法な侵入等の防止）</ArticleCaption>
           <ArticleTitle>第九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉を設置する工場又は事業所（以下「工場等」という。）は、試験研究用等原子炉施設への人の不法な侵入、試験研究用等原子炉施設に不正に爆発性又は易燃性を有する物件その他人に危害を与え又は他の物件を損傷するおそれがある物件が持ち込まれること及び不正アクセス行為（不正アクセス行為の禁止等に関する法律（平成十一年法律第百二十八号）第二条第四項に規定する不正アクセス行為をいう。第三十二条第六号において同じ。）を防止するため、適切な措置が講じられたものでなければならない。</Sentence>
@@ -631,14 +631,14 @@
         <Article Delete="false" Hide="false" Num="10">
           <ArticleCaption>（試験研究用等原子炉施設の機能）</ArticleCaption>
           <ArticleTitle>第十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">試験研究用等原子炉施設は、通常運転時において試験研究用等原子炉の反応度を安全かつ安定的に制御でき、かつ、運転時の異常な過渡変化時においても試験研究用等原子炉固有の出力抑制特性を有するとともに、当該試験研究用等原子炉の反応度を制御することにより原子核分裂の連鎖反応を制御できる能力を有するものでなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、試験炉許可基準規則第十五条第一項ただし書の規定の適用を受ける臨界実験装置に係る試験研究用等原子炉施設にあっては、試験研究用等原子炉固有の出力抑制特性を有することを要しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">船舶に設置する試験研究用等原子炉施設は、波浪により生ずる動揺、傾斜その他の要因により機能が損なわれることがないものでなければならない。</Sentence>
@@ -648,7 +648,7 @@
         <Article Delete="false" Hide="false" Num="11">
           <ArticleCaption>（機能の確認等）</ArticleCaption>
           <ArticleTitle>第十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設は、原子炉容器その他の試験研究用等原子炉の安全を確保する上で必要な設備の機能の確認をするための試験又は検査及びこれらの機能を健全に維持するための保守又は修理ができるものでなければならない。</Sentence>
@@ -658,7 +658,7 @@
         <Article Delete="false" Hide="false" Num="12">
           <ArticleCaption>（材料及び構造）</ArticleCaption>
           <ArticleTitle>第十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">試験研究用等原子炉施設に属する容器、管、弁及びポンプ並びにこれらを支持する構造物並びに炉心支持構造物のうち、試験研究用等原子炉施設の安全性を確保する上で重要なもの（以下この項において「容器等」という。）の材料及び構造は、次に掲げるところによらなければならない。</Sentence>
@@ -701,13 +701,13 @@
               </Subitem1>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設に属する機器は、その安全機能の重要度に応じて、適切な耐圧試験又は漏えい試験を行ったとき、これに耐え、かつ、著しい漏えいがないものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設に属する容器であって、その材料が中性子照射を受けることにより著しく劣化するおそれがあるものの内部は、監視試験片を備えたものでなければならない。</Sentence>
@@ -717,7 +717,7 @@
         <Article Delete="false" Hide="false" Num="13">
           <ArticleCaption>（安全弁等）</ArticleCaption>
           <ArticleTitle>第十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、その安全機能の重要度に応じて、機器に作用する圧力の過度の上昇を適切に防止する性能を有する安全弁、逃がし弁、破壊板又は真空破壊弁（第十五条第二項において「安全弁等」という。）が必要な箇所に設けられていなければならない。</Sentence>
@@ -727,7 +727,7 @@
         <Article Delete="false" Hide="false" Num="14">
           <ArticleCaption>（逆止め弁）</ArticleCaption>
           <ArticleTitle>第十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">放射性物質を含む一次冷却材その他の流体を内包する容器若しくは管又は放射性廃棄物を廃棄する設備（排気筒並びに第十七条及び第三十六条（第五十二条、第五十九条及び第七十条において準用する場合を含む。）に規定するものを除く。）へ放射性物質を含まない流体を導く管には、逆止め弁が設けられていなければならない。</Sentence>
@@ -738,26 +738,26 @@
         <Article Delete="false" Hide="false" Num="15">
           <ArticleCaption>（放射性物質による汚染の防止）</ArticleCaption>
           <ArticleTitle>第十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設は、通常運転時において機器から放射性物質を含む流体が漏えいする場合において、これを安全に廃棄し得るように設置されたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設は、安全弁等から排出される流体が放射性物質を含む場合において、これを安全に廃棄し得るように設置されたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">試験研究用等原子炉施設は、工場等の外に排水を排出する排水路（湧水に係るものであって、放射性物質により汚染するおそれがある管理区域内に開口部がないものを除く。以下この項において同じ。）の上に、当該施設の放射性物質により汚染するおそれがある管理区域内の床面がないものでなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、液体状の放射性廃棄物を廃棄する設備が設置される施設（液体状の放射性廃棄物の漏えいが拡大するおそれがある部分に限る。）以外の施設であって当該施設の放射性物質により汚染するおそれがある管理区域内に当該排水路の開口部がない場合並びに当該排水路に放射性物質を含む排水を安全に廃棄する設備及び第三十一条第二号に掲げる事項を計測する設備が設置されている場合は、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設のうち、人が頻繁に出入りする建物又は船舶の内部の壁、床その他の部分であって、放射性物質により汚染されるおそれがあり、かつ、人が触れるおそれがあるものの表面は、放射性物質による汚染を除去しやすいものでなければならない。</Sentence>
@@ -767,13 +767,13 @@
         <Article Delete="false" Hide="false" Num="16">
           <ArticleCaption>（遮蔽等）</ArticleCaption>
           <ArticleTitle>第十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設は、通常運転時において当該試験研究用等原子炉施設からの直接線及びスカイシャイン線による工場等周辺の空間線量率が原子力規制委員会の定める線量限度を十分下回るように設置されたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">工場等（原子力船を含む。）内における外部放射線による放射線障害を防止する必要がある場所には、次に掲げるところにより遮蔽設備が設けられていなければならない。</Sentence>
@@ -801,7 +801,7 @@
         <Article Delete="false" Hide="false" Num="17">
           <ArticleCaption>（換気設備）</ArticleCaption>
           <ArticleTitle>第十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設内の放射性物質により汚染された空気による放射線障害を防止する必要がある場所には、次に掲げるところにより換気設備が設けられていなければならない。</Sentence>
@@ -838,7 +838,7 @@
         <Article Delete="false" Hide="false" Num="18">
           <ArticleCaption>（適用）</ArticleCaption>
           <ArticleTitle>第十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この章の規定は、試験研究用原子炉に係る試験研究用等原子炉施設について適用する。</Sentence>
@@ -849,14 +849,14 @@
           <ArticleCaption>（<Ruby>溢<Rt>いつ</Rt>
 </Ruby>水による損傷の防止）</ArticleCaption>
           <ArticleTitle>第十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設は、当該試験研究用等原子炉施設内における<Ruby>溢<Rt>いつ</Rt>
 </Ruby>水の発生によりその安全性を損なうおそれがある場合は、防護措置その他の適切な措置が講じられたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設は、当該試験研究用等原子炉施設内の放射性物質を含む液体を内包する容器又は配管の破損により当該容器又は配管から放射性物質を含む液体があふれ出るおそれがある場合は、当該液体が管理区域外へ漏えいすることを防止するために必要な措置が講じられたものでなければならない。</Sentence>
@@ -866,7 +866,7 @@
         <Article Delete="false" Hide="false" Num="20">
           <ArticleCaption>（安全避難通路等）</ArticleCaption>
           <ArticleTitle>第二十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、次に掲げる設備が設けられていなければならない。</Sentence>
@@ -894,7 +894,7 @@
         <Article Delete="false" Hide="false" Num="21">
           <ArticleCaption>（安全設備）</ArticleCaption>
           <ArticleTitle>第二十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">安全設備は、次に掲げるところにより設置されたものでなければならない。</Sentence>
@@ -960,19 +960,19 @@
         <Article Delete="false" Hide="false" Num="22">
           <ArticleCaption>（炉心等）</ArticleCaption>
           <ArticleTitle>第二十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">燃料体、減速材及び反射材並びに炉心支持構造物の材料は、運転時における圧力、温度及び放射線につき想定される最も厳しい条件の下において、必要な物理的及び化学的性質を保持するものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">燃料体、減速材及び反射材並びに炉心支持構造物は、最高使用圧力、自重、附加荷重その他の燃料体、減速材及び反射材並びに炉心支持構造物に加わる負荷に耐えられるものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">燃料体、減速材及び反射材並びに炉心支持構造物は、冷却材の循環その他の要因により生ずる振動により損傷を受けることがないように設置されたものでなければならない。</Sentence>
@@ -982,7 +982,7 @@
         <Article Delete="false" Hide="false" Num="23">
           <ArticleCaption>（熱遮蔽材）</ArticleCaption>
           <ArticleTitle>第二十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、原子炉容器の材料が中性子照射を受けることにより著しく劣化するおそれがある場合において、これを防止するため、次に掲げるところにより熱遮蔽材が設けられていなければならない。</Sentence>
@@ -1004,7 +1004,7 @@
         <Article Delete="false" Hide="false" Num="24">
           <ArticleCaption>（一次冷却材）</ArticleCaption>
           <ArticleTitle>第二十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">一次冷却材は、運転時における圧力、温度及び放射線について想定される最も厳しい条件の下において、必要な物理的及び化学的性質を保持するものでなければならない。</Sentence>
@@ -1014,7 +1014,7 @@
         <Article Delete="false" Hide="false" Num="25">
           <ArticleCaption>（核燃料物質取扱設備）</ArticleCaption>
           <ArticleTitle>第二十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">核燃料物質取扱設備は、次に掲げるところにより設置されていなければならない。</Sentence>
@@ -1085,7 +1085,7 @@
         <Article Delete="false" Hide="false" Num="26">
           <ArticleCaption>（核燃料物質貯蔵設備）</ArticleCaption>
           <ArticleTitle>第二十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">核燃料物質貯蔵設備は、次に掲げるところにより設置されたものでなければならない。</Sentence>
@@ -1121,7 +1121,7 @@
               </Subitem1>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">使用済燃料その他高放射性の燃料体を貯蔵する核燃料物質貯蔵設備は、前項に定めるところによるほか、次に掲げるところにより設置されていなければならない。</Sentence>
@@ -1167,7 +1167,7 @@
         <Article Delete="false" Hide="false" Num="27">
           <ArticleCaption>（一次冷却材処理装置）</ArticleCaption>
           <ArticleTitle>第二十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設は、放射性物質を含む一次冷却材（次条第一項第四号に掲げる設備から排出される放射性物質を含む流体を含む。）を通常運転時において系統外に排出する場合は、これを安全に廃棄し得るように設置されたものでなければならない。</Sentence>
@@ -1177,7 +1177,7 @@
         <Article Delete="false" Hide="false" Num="28">
           <ArticleCaption>（冷却設備等）</ArticleCaption>
           <ArticleTitle>第二十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">試験研究用等原子炉施設には、次に掲げる設備が設けられていなければならない。</Sentence>
@@ -1226,13 +1226,13 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の設備は、冷却材の循環その他の要因により生ずる振動により損傷を受けることがないように設置されたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、一次冷却系統設備からの一次冷却材の漏えいを検出する装置が設けられていなければならない。</Sentence>
@@ -1242,13 +1242,13 @@
         <Article Delete="false" Hide="false" Num="29">
           <ArticleCaption>（液位の保持等）</ArticleCaption>
           <ArticleTitle>第二十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">液体の一次冷却材を用いる試験研究用等原子炉施設にあっては、一次冷却材の流出を伴う異常が発生した場合において原子炉容器内の液位の過度の低下を防止し、炉心全体を冷却材中に保持する機能を有する設備は、試験研究用等原子炉施設の損壊又は故障その他の異常に伴う温度の変化による荷重の増加その他の当該設備に加わる負荷に耐えるものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設のうち、冠水維持設備を設けるものにあっては、前項に定めるところによるほか、原子炉容器内の設計水位を確保できるものでなければならない。</Sentence>
@@ -1258,7 +1258,7 @@
         <Article Delete="false" Hide="false" Num="30">
           <ArticleCaption>（計測設備）</ArticleCaption>
           <ArticleTitle>第三十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">試験研究用等原子炉施設には、次に掲げる事項を計測する設備が設けられていなければならない。</Sentence>
@@ -1301,7 +1301,7 @@
               </Subitem1>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、設計基準事故が発生した場合の状況を把握し及び対策を講ずるために必要な試験研究用等原子炉の停止後の温度、液位その他の試験研究用等原子炉施設の状態を示す事項（以下「パラメータ」という。）を、設計基準事故時に想定される環境下において、十分な測定範囲及び期間にわたり監視し及び記録することができる設備が設けられていなければならない。</Sentence>
@@ -1311,7 +1311,7 @@
         <Article Delete="false" Hide="false" Num="31">
           <ArticleCaption>（放射線管理施設）</ArticleCaption>
           <ArticleTitle>第三十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">工場等には、次に掲げる事項を計測する放射線管理施設が設けられていなければならない。</Sentence>
@@ -1340,7 +1340,7 @@
         <Article Delete="false" Hide="false" Num="32">
           <ArticleCaption>（安全保護回路）</ArticleCaption>
           <ArticleTitle>第三十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、次に掲げるところにより安全保護回路が設けられていなければならない。</Sentence>
@@ -1398,7 +1398,7 @@
         <Article Delete="false" Hide="false" Num="33">
           <ArticleCaption>（反応度制御系統及び原子炉停止系統）</ArticleCaption>
           <ArticleTitle>第三十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、通常運転時において、燃料の許容設計限界を超えることがないように反応度を制御できるよう、次に掲げるところにより反応度制御系統が設けられていなければならない。</Sentence>
@@ -1428,7 +1428,7 @@
               </Subitem1>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、次に掲げるところにより原子炉停止系統が設けられていなければならない。</Sentence>
@@ -1471,13 +1471,13 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">制御材は、運転時における圧力、温度及び放射線について想定される最も厳しい条件の下において、必要な物理的及び化学的性質を保持するものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">制御材を駆動する設備は、次に掲げるところによるものでなければならない。</Sentence>
@@ -1501,13 +1501,13 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">制御棒の最大反応度価値及び反応度添加率は、想定される反応度投入事象（試験研究用等原子炉に反応度が異常に投入される事象をいう。第六十四条第五項において同じ。）に対して炉心冠水維持バウンダリを破損せず、かつ、炉心の冷却機能を損なうような炉心又は炉心支持構造物の損壊を起こさないものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="6">
+          <Paragraph Hide="false" Num="6" OldStyle="false">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">原子炉停止系統は、反応度制御系統と共用する場合には、反応度制御系統を構成する設備の故障が発生した場合においても通常運転時、運転時の異常な過渡変化時及び設計基準事故時に試験研究用等原子炉を未臨界に移行することができ、かつ、低温状態において未臨界を維持できるものでなければならない。</Sentence>
@@ -1517,31 +1517,31 @@
         <Article Delete="false" Hide="false" Num="34">
           <ArticleCaption>（原子炉制御室等）</ArticleCaption>
           <ArticleTitle>第三十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、原子炉制御室が設けられていなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">原子炉制御室は、試験研究用等原子炉の運転状態を表示する装置、試験研究用等原子炉の安全を確保するための設備を操作する装置、異常を表示する警報装置その他の試験研究用等原子炉の安全を確保するための主要な装置が集中し、かつ、誤操作することなく適切に運転操作することができるよう設置されたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">原子炉制御室は、従事者が設計基準事故時に容易に避難できる構造でなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">原子炉制御室及びこれに連絡する通路は、試験研究用等原子炉施設の損壊又は故障その他の異常が発生した場合において、試験研究用等原子炉の運転の停止その他の試験研究用等原子炉施設の安全性を確保するための措置をとるため、従事者が支障なく原子炉制御室に入り、かつ、一定期間とどまることができるように、遮蔽設備の設置その他の適切な放射線防護措置が講じられたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">試験研究用等原子炉施設には、火災その他の要因により原子炉制御室が使用できない場合に、原子炉制御室以外の場所から試験研究用等原子炉の運転を停止し、かつ、安全な状態を維持することができる設備が設けられていなければならない。</Sentence>
@@ -1552,7 +1552,7 @@
         <Article Delete="false" Hide="false" Num="35">
           <ArticleCaption>（廃棄物処理設備）</ArticleCaption>
           <ArticleTitle>第三十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">工場等には、次に掲げるところにより放射性廃棄物を廃棄する設備（放射性廃棄物を保管廃棄する設備を除く。）が設けられていなければならない。</Sentence>
@@ -1601,7 +1601,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">液体状の放射性廃棄物を廃棄する設備（液体状の放射性廃棄物を保管廃棄する設備を除く。以下この項において同じ。）が設置される施設（液体状の放射性廃棄物の漏えいが拡大するおそれがある部分に限る。）は、次に掲げるところにより設置されていなければならない。</Sentence>
@@ -1632,7 +1632,7 @@
         <Article Delete="false" Hide="false" Num="36">
           <ArticleCaption>（保管廃棄設備）</ArticleCaption>
           <ArticleTitle>第三十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">放射性廃棄物を保管廃棄する設備は、次に掲げるところによるものでなければならない。</Sentence>
@@ -1656,13 +1656,13 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">固体状の放射性廃棄物を保管廃棄する設備が設置される施設は、放射性廃棄物による汚染が広がらないように設置されたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前条第二項の規定は、流体状の放射性廃棄物を保管廃棄する設備が設置されている施設について準用する。</Sentence>
@@ -1672,7 +1672,7 @@
         <Article Delete="false" Hide="false" Num="37">
           <ArticleCaption>（原子炉格納施設）</ArticleCaption>
           <ArticleTitle>第三十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、次に掲げるところにより、原子炉格納施設が設けられていなければならない。</Sentence>
@@ -1696,7 +1696,7 @@
         <Article Delete="false" Hide="false" Num="38">
           <ArticleCaption>（実験設備等）</ArticleCaption>
           <ArticleTitle>第三十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設に設置される実験設備等（試験炉許可基準規則第二十九条に規定する実験設備等をいう。以下この条において同じ。）は、次に掲げるものでなければならない。</Sentence>
@@ -1736,7 +1736,7 @@
         <Article Delete="false" Hide="false" Num="39">
           <ArticleCaption>（多量の放射性物質等を放出する事故の拡大の防止）</ArticleCaption>
           <ArticleTitle>第三十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">中出力炉又は高出力炉に係る試験研究用等原子炉施設は、発生頻度が設計基準事故より低い事故であって、当該試験研究用等原子炉施設から多量の放射性物質又は放射線を放出するおそれがあるものが発生した場合において、当該事故の拡大を防止するために必要な措置が講じられたものでなければならない。</Sentence>
@@ -1746,20 +1746,20 @@
         <Article Delete="false" Hide="false" Num="40">
           <ArticleCaption>（保安電源設備）</ArticleCaption>
           <ArticleTitle>第四十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">試験研究用等原子炉施設には、外部電源系統からの電気の供給が停止した場合において、試験研究用等原子炉施設の安全を確保し必要な設備の機能を維持するために、内燃機関を原動力とする発電設備又はこれと同等以上の機能を有する非常用電源設備が設けられていなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、試験研究用等原子炉施設の安全を確保する上で支障がない場合にあっては、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉の安全を確保する上で特に必要な設備は、無停電電源装置又はこれと同等以上の機能を有する設備に接続されているものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、必要に応じ、全交流動力電源喪失時に試験研究用等原子炉を安全に停止し、又はパラメータを監視する設備の動作に必要な容量を有する蓄電池その他の非常用電源設備が設けられていなければならない。</Sentence>
@@ -1769,7 +1769,7 @@
         <Article Delete="false" Hide="false" Num="41">
           <ArticleCaption>（警報装置）</ArticleCaption>
           <ArticleTitle>第四十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、その設備の機能の喪失、誤操作その他の要因により試験研究用等原子炉の安全を著しく損なうおそれが生じたとき、第三十一条第一号の放射性物質の濃度若しくは同条第三号の線量当量が著しく上昇したとき又は液体状の放射性廃棄物を廃棄する設備から液体状の放射性廃棄物が著しく漏えいするおそれが生じたときに、これらを確実に検知して速やかに警報する装置が設けられていなければならない。</Sentence>
@@ -1779,13 +1779,13 @@
         <Article Delete="false" Hide="false" Num="42">
           <ArticleCaption>（通信連絡設備等）</ArticleCaption>
           <ArticleTitle>第四十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">工場等には、設計基準事故が発生した場合において工場等内の人に対し必要な指示ができるよう、通信連絡設備が設けられていなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">工場等には、設計基準事故が発生した場合において当該試験研究用等原子炉施設外の通信連絡をする必要がある場所と通信連絡ができるよう、多重性又は多様性を確保した通信回線が設けられていなければならない。</Sentence>
@@ -1798,7 +1798,7 @@
         <Article Delete="false" Hide="false" Num="43">
           <ArticleCaption>（適用）</ArticleCaption>
           <ArticleTitle>第四十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この章の規定は、研究開発段階原子炉に係る試験研究用等原子炉施設について適用する。</Sentence>
@@ -1808,7 +1808,7 @@
         <Article Delete="false" Hide="false" Num="44">
           <ArticleCaption>（原子炉冷却材圧力バウンダリ）</ArticleCaption>
           <ArticleTitle>第四十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">原子炉冷却材圧力バウンダリを構成する機器は、試験研究用等原子炉施設の損壊又は故障その他の異常による衝撃、反応度の変化その他の原子炉冷却材圧力バウンダリを構成する機器に加わる負荷に耐えるものでなければならない。</Sentence>
@@ -1818,7 +1818,7 @@
         <Article Delete="false" Hide="false" Num="45">
           <ArticleCaption>（蒸気タービン）</ArticleCaption>
           <ArticleTitle>第四十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">蒸気タービン及びその附属設備は、その損壊又は故障その他の異常により試験研究用等原子炉施設の安全を損なうことがないものでなければならない。</Sentence>
@@ -1828,13 +1828,13 @@
         <Article Delete="false" Hide="false" Num="46">
           <ArticleCaption>（非常用炉心冷却設備）</ArticleCaption>
           <ArticleTitle>第四十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、非常用炉心冷却設備（一次冷却系統設備がその機能を喪失した場合に原子炉容器内において発生した熱を除去する設備をいう。）が設けられていなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">非常用炉心冷却設備は、試験研究用等原子炉施設の損壊又は故障その他の異常が発生したときに想定される最も厳しい条件の下において、燃料材の溶融及び燃料体の著しい破損を防止し得るものであり、かつ、被覆材と冷却材との反応により著しく多量の水素を生ずることがないものでなければならない。</Sentence>
@@ -1844,7 +1844,7 @@
         <Article Delete="false" Hide="false" Num="47">
           <ArticleCaption>（循環設備等）</ArticleCaption>
           <ArticleTitle>第四十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、次に掲げる設備が設けられていなければならない。</Sentence>
@@ -1880,7 +1880,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の設備は、冷却材の循環、沸騰その他の要因により生ずる振動により損傷を受けることがないように設置されたものでなければならない。</Sentence>
@@ -1890,7 +1890,7 @@
         <Article Delete="false" Hide="false" Num="48">
           <ArticleCaption>（計測設備）</ArticleCaption>
           <ArticleTitle>第四十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">試験研究用等原子炉施設には、次に掲げる事項を計測する設備が設けられていなければならない。</Sentence>
@@ -1967,13 +1967,13 @@
         <Article Delete="false" Hide="false" Num="49">
           <ArticleCaption>（反応度制御系統及び原子炉停止系統）</ArticleCaption>
           <ArticleTitle>第四十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、通常運転時において、燃料の許容設計限界を超えることがないように反応度を制御できるよう、反応度制御系統が設けられていなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、次に掲げるところにより原子炉停止系統が設けられていなければならない。</Sentence>
@@ -2009,13 +2009,13 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">制御材は、運転時における圧力、温度及び放射線について想定される最も厳しい条件の下において、必要な物理的及び化学的性質を保持するものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">制御材を駆動する設備は、次に掲げるところによるものでなければならない。</Sentence>
@@ -2049,7 +2049,7 @@
         <Article Delete="false" Hide="false" Num="50">
           <ArticleCaption>（原子炉格納施設）</ArticleCaption>
           <ArticleTitle>第五十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">原子炉格納施設は、次に掲げるところにより設置されたものでなければならない。</Sentence>
@@ -2073,7 +2073,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉を船舶に設置する場合にあっては、原子炉格納容器には、船舶が沈没した場合に水圧により当該容器が損壊することを防止するための圧力平衡装置が設けられていなければならない。</Sentence>
@@ -2083,19 +2083,19 @@
         <Article Delete="false" Hide="false" Num="51">
           <ArticleCaption>（保安電源設備）</ArticleCaption>
           <ArticleTitle>第五十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設（船舶に設置するものを除く。）には、外部電源系統及び当該試験研究用等原子炉施設において常時使用されている発電設備からの電気の供給が停止した場合において、試験研究用等原子炉施設の安全を確保するために必要な設備の機能を維持するために、内燃機関を原動力とする発電設備又はこれと同等以上の機能を有する設備が設けられていなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">船舶に設置する試験研究用等原子炉施設には、主電源からの電気の供給が停止した場合において安全を確保し必要な設備の機能を維持するために、内燃機関を原動力とする発電設備又はこれと同等以上の機能を有する設備が設けられていなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉の安全を確保する上で特に必要な設備には、無停電電源装置又はこれと同等以上の機能を有する設備が設けられていなければならない。</Sentence>
@@ -2105,7 +2105,7 @@
         <Article Delete="false" Hide="false" Num="52">
           <ArticleCaption>（準用）</ArticleCaption>
           <ArticleTitle>第五十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第十九条から第二十七条まで、第三十一条、第三十二条、第三十四条（第五項ただし書を除く。）、第三十五条、第三十六条、第四十一条、第四十二条及び第五十六条（第一項第四号を除く。）の規定は、研究開発段階原子炉に係る試験研究用等原子炉施設について準用する。</Sentence>
@@ -2119,7 +2119,7 @@
         <Article Delete="false" Hide="false" Num="53">
           <ArticleCaption>（適用）</ArticleCaption>
           <ArticleTitle>第五十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この章の規定は、ガス冷却型原子炉に係る試験研究用等原子炉施設について適用する。</Sentence>
@@ -2129,25 +2129,25 @@
         <Article Delete="false" Hide="false" Num="54">
           <ArticleCaption>（原子炉冷却材圧力バウンダリ）</ArticleCaption>
           <ArticleTitle>第五十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">原子炉冷却材圧力バウンダリを構成する機器は、試験研究用等原子炉施設の損壊又は故障に伴う衝撃、反応度の変化その他の要因による荷重の増加その他の原子炉冷却材圧力バウンダリを構成する機器に加わる負荷に耐えるものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">原子炉冷却材圧力バウンダリには、原子炉冷却材の流出を制限するため隔離装置が設けられていなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">原子炉冷却材圧力バウンダリを構成する機器は、通常運転時、運転時の異常な過渡変化時及び設計基準事故時に瞬間的破壊が生じないよう、十分な破壊じん性を有するものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、原子炉冷却材圧力バウンダリからの一次冷却材の漏えいを検出する装置が設けられていなければならない。</Sentence>
@@ -2157,7 +2157,7 @@
         <Article Delete="false" Hide="false" Num="55">
           <ArticleCaption>（計測設備）</ArticleCaption>
           <ArticleTitle>第五十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">試験研究用等原子炉施設には、次に掲げる事項を計測する設備が設けられていなければならない。</Sentence>
@@ -2218,7 +2218,7 @@
               </Subitem1>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、設計基準事故が発生した場合の状況を把握し、及び対策を講ずるために必要なパラメータを、設計基準事故時に想定される環境下において、十分な測定範囲及び期間にわたり監視し及び記録することができる設備が設けられていなければならない。</Sentence>
@@ -2228,7 +2228,7 @@
         <Article Delete="false" Hide="false" Num="56">
           <ArticleCaption>（原子炉格納施設）</ArticleCaption>
           <ArticleTitle>第五十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、次に掲げるところにより原子炉格納施設が設けられていなければならない。</Sentence>
@@ -2258,27 +2258,27 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の試験研究用等原子炉施設に属する原子炉格納容器は、定期的に漏えい率試験ができるものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">第一項の試験研究用等原子炉施設に属する原子炉格納容器を貫通する管には、当該貫通箇所の内側及び外側の当該貫通箇所に近接した箇所にそれぞれ一個の閉鎖隔離弁（ロック装置が付されているものに限る。）又は自動隔離弁（隔離機能がない逆止め弁を除く。）（以下「隔離弁」と総称する。）が設けられていなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該貫通箇所の内側又は外側において、湿気その他の要因により隔離弁の機能が著しく低下するおそれがある場合は、当該貫通箇所の内側及び外側に代え、当該貫通箇所の他方の側の当該貫通箇所に近接した箇所に二個の隔離弁が設けられていなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定にかかわらず、原子炉格納容器を貫通する管であって、試験研究用等原子炉施設の損壊又は故障その他の異常の際に損壊するおそれがないもの（一次冷却系統設備に係る設備に接続するもの並びに原子炉格納容器の内側及び外側に開口部があるものを除く。）及び試験研究用等原子炉施設の損壊又は故障その他の異常の際に構造上内部に液体が滞留することにより原子炉格納容器内の放射性物質が外部へ漏えいするおそれがないものには、当該貫通箇所の内側又は外側の当該貫通箇所に近接した箇所に一個の隔離弁が設けられていなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該貫通箇所の内側又は外側において、湿気その他の要因により隔離弁の機能が著しく低下するおそれがある場合は、当該貫通箇所の他方の側の当該貫通箇所に近接した箇所に一個の隔離弁が設けられていなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前二項の規定にかかわらず、原子炉格納施設に属する安全設備に係る管その他隔離弁を設けることにより安全に支障が生ずるおそれがある管又は試験研究用等原子炉施設の安全を確保する上で支障がない管には、隔離弁を設けることを要しない。</Sentence>
@@ -2288,7 +2288,7 @@
         <Article Delete="false" Hide="false" Num="57">
           <ArticleCaption>（試験用燃料体）</ArticleCaption>
           <ArticleTitle>第五十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験用燃料体は、次に掲げるところによらなければならない。</Sentence>
@@ -2322,7 +2322,7 @@
         <Article Delete="false" Hide="false" Num="58">
           <ArticleCaption>（多量の放射性物質等を放出する事故の拡大の防止）</ArticleCaption>
           <ArticleTitle>第五十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設は、発生頻度が設計基準事故より低い事故であって、当該施設から多量の放射性物質又は放射線を放出するおそれがあるものが発生した場合において、当該事故の拡大を防止するために必要な措置が講じられたものでなければならない。</Sentence>
@@ -2332,7 +2332,7 @@
         <Article Delete="false" Hide="false" Num="59">
           <ArticleCaption>（準用）</ArticleCaption>
           <ArticleTitle>第五十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第十九条から第二十八条まで、第三十一条から第三十六条まで、第三十八条、第四十条（第一項ただし書を除く。）、第四十一条及び第四十二条の規定は、ガス冷却型原子炉に係る試験研究用等原子炉施設について準用する。</Sentence>
@@ -2346,7 +2346,7 @@
         <Article Delete="false" Hide="false" Num="60">
           <ArticleCaption>（適用）</ArticleCaption>
           <ArticleTitle>第六十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この章の規定は、ナトリウム冷却型高速炉に係る試験研究用等原子炉施設について適用する。</Sentence>
@@ -2356,25 +2356,25 @@
         <Article Delete="false" Hide="false" Num="61">
           <ArticleCaption>（炉心等）</ArticleCaption>
           <ArticleTitle>第六十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">燃料体及び反射材並びに炉心支持構造物の材料は、運転時における圧力、温度及び放射線について想定される最も厳しい条件の下において、必要な物理的及び化学的性質を保持するものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">燃料体及び反射材並びに炉心支持構造物は、最高使用圧力、自重、附加荷重その他の燃料体及び反射材並びに炉心支持構造物に加わる負荷に耐えるものであり、かつ、冷却材による炉心の冷却機能を損なうおそれがないものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">反射材は、原子炉容器の材料が中性子照射を受けることにより著しく劣化するおそれがある場合には、これを防止できるように設置されていなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">燃料体及び反射材並びに炉心支持構造物は、冷却材の循環その他の要因により生ずる振動により損傷を受けることがないように設置されたものでなければならない。</Sentence>
@@ -2384,37 +2384,37 @@
         <Article Delete="false" Hide="false" Num="62">
           <ArticleCaption>（原子炉冷却材バウンダリ等）</ArticleCaption>
           <ArticleTitle>第六十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">原子炉冷却材バウンダリを構成する機器は、試験研究用等原子炉施設の損壊又は故障その他の異常に伴う温度の変化による荷重の増加その他の原子炉冷却材バウンダリを構成する機器に加わる負荷に耐えるものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">原子炉冷却材バウンダリを構成する機器は、原子炉冷却材バウンダリの破損が生じた場合においても冷却材の液位を必要な高さに保持するための措置が講じられたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">原子炉冷却材バウンダリを構成する機器は、通常運転時、運転時の異常な過渡変化時及び設計基準事故時に瞬間的破壊が生じないよう、十分な破壊じん性を有するものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">原子炉カバーガス等のバウンダリを構成する機器は、試験研究用等原子炉施設の損壊又は故障その他の異常に伴う温度の変化による荷重の増加その他の負荷に耐えるものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、原子炉冷却材バウンダリからの一次冷却材の漏えいを検出する装置及び原子炉カバーガス等のバウンダリからの原子炉カバーガスの漏えいを検出する装置が設けられていなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="6">
+          <Paragraph Hide="false" Num="6" OldStyle="false">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設の原子炉冷却材バウンダリ及び原子炉カバーガス等のバウンダリの必要な箇所には、ナトリウムを液体の状態に保つことができる設備が設けられていなければならない。</Sentence>
@@ -2424,7 +2424,7 @@
         <Article Delete="false" Hide="false" Num="63">
           <ArticleCaption>（計測設備）</ArticleCaption>
           <ArticleTitle>第六十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">試験研究用等原子炉施設には、次に掲げる事項を計測する設備が設けられていなければならない。</Sentence>
@@ -2515,7 +2515,7 @@
               </Subitem1>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、設計基準事故が発生した場合の状況を把握し及び対策を講ずるために必要なパラメータを、設計基準事故時に想定される環境下において、十分な測定範囲及び期間にわたり監視し及び記録することができる設備が設けられていなければならない。</Sentence>
@@ -2525,7 +2525,7 @@
         <Article Delete="false" Hide="false" Num="64">
           <ArticleCaption>（反応度制御系統及び原子炉停止系統）</ArticleCaption>
           <ArticleTitle>第六十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、通常運転時において、燃料の許容設計限界を超えることがないように反応度を制御できるよう、次に掲げるところにより反応度制御系統が設けられていなければならない。</Sentence>
@@ -2555,7 +2555,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、次に掲げるところにより原子炉停止系統が設けられていなければならない。</Sentence>
@@ -2598,13 +2598,13 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">制御棒は、運転時における圧力、温度及び放射線について想定される最も厳しい条件の下において、必要な物理的及び化学的性質を保持するものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">制御棒を駆動する設備は、次に掲げるところによるものでなければならない。</Sentence>
@@ -2628,13 +2628,13 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">制御棒の最大反応度価値及び反応度添加率は、想定される反応度投入事象に対して原子炉冷却材バウンダリ及び原子炉カバーガス等のバウンダリを破損せず、かつ、炉心の冷却機能を損なうような炉心、炉心支持構造物又は原子炉容器内の構造物の損壊を起こさないものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="6">
+          <Paragraph Hide="false" Num="6" OldStyle="false">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">原子炉停止系統は、反応度制御系統と共用する場合には、反応度制御系統を構成する設備の故障が発生した場合においても通常運転時、運転時の異常な過渡変化時及び設計基準事故時に試験研究用等原子炉を未臨界に移行することができ、かつ、低温状態において未臨界を維持できるものでなければならない。</Sentence>
@@ -2644,7 +2644,7 @@
         <Article Delete="false" Hide="false" Num="65">
           <ArticleCaption>（原子炉格納施設）</ArticleCaption>
           <ArticleTitle>第六十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、次に掲げるところにより原子炉格納施設が設けられていなければならない。</Sentence>
@@ -2668,27 +2668,27 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の試験研究用等原子炉施設に属する原子炉格納容器は、定期的に漏えい率試験ができるものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">第一項の試験研究用等原子炉施設に属する原子炉格納容器を貫通する管には、隔離弁が設けられていなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該貫通箇所の内側又は外側において、湿気その他の要因により隔離弁の機能が著しく低下するおそれがある場合は、当該貫通箇所の内側及び外側に代え、当該貫通箇所の他方の側の当該貫通箇所に近接した箇所に二個の隔離弁が設けられていなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定にかかわらず、原子炉格納容器を貫通する管であって、試験研究用等原子炉施設の損壊又は故障その他の異常の際に損壊するおそれがないもの（一次冷却系統設備に係る設備に接続するもの並びに原子炉格納容器の内側及び外側に開口部があるものを除く。）には、当該貫通箇所の内側又は外側の当該貫通箇所に近接した箇所に一個の隔離弁が設けられたものでなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該貫通箇所の内側又は外側において、湿気その他の要因により隔離弁の機能が著しく低下するおそれがある場合は、当該貫通箇所の他方の側の当該貫通箇所に近接した箇所に一個の隔離弁が設けられていなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前二項の規定にかかわらず、原子炉格納施設に属する安全設備に係る管その他隔離弁を設けることにより安全に支障が生ずるおそれがある管又は試験研究用等原子炉施設の安全を確保する上で支障がない管には、隔離弁を設けることを要しない。</Sentence>
@@ -2698,7 +2698,7 @@
         <Article Delete="false" Hide="false" Num="66">
           <ArticleCaption>（ナトリウムの漏えいによる影響の防止）</ArticleCaption>
           <ArticleTitle>第六十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設は、ナトリウムの漏えいによる物理的又は化学的影響（ナトリウム及びナトリウム化合物が関与する腐食が構造物及び機器に及ぼす影響を含む。）を受けることにより、当該試験研究用等原子炉施設の安全に支障が生ずるおそれがある場合において、その影響を抑制するための適切な措置が講じられたものでなければならない。</Sentence>
@@ -2708,19 +2708,19 @@
         <Article Delete="false" Hide="false" Num="67">
           <ArticleCaption>（ナトリウムの取扱い）</ArticleCaption>
           <ArticleTitle>第六十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">ナトリウムを取り扱う機器は、ナトリウムとの共存性を考慮して適切な材料を使用したものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">ナトリウムを取り扱う系統は原則として密閉したものとするとともに、当該系統に属する機器のうち内部に液面を有するものは、その液面上をカバーガスで覆う構造でなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設は、放射性物質を含むナトリウムを通常運転時において系統外に排出する場合には、これを安全に廃棄し得るように設置されたものでなければならない。</Sentence>
@@ -2730,19 +2730,19 @@
         <Article Delete="false" Hide="false" Num="68">
           <ArticleCaption>（カバーガスの取扱い）</ArticleCaption>
           <ArticleTitle>第六十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">カバーガスは、ナトリウムに対して化学的に安定な性質を有し、かつ、運転時における放射線について想定される最も厳しい条件の下において、必要な物理的及び化学的性質を保持するものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">カバーガスを取り扱う系統には、圧力が過度に上昇することを防止し得る設備が設けられていなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設は、放射性物質を含むカバーガスを通常運転時において系統外に排出する場合において、これを安全に廃棄し得るように設置されたものでなければならない。</Sentence>
@@ -2752,7 +2752,7 @@
         <Article Delete="false" Hide="false" Num="69">
           <ArticleCaption>（冷却設備等）</ArticleCaption>
           <ArticleTitle>第六十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験研究用等原子炉施設には、次に掲げる設備が設けられていなければならない。</Sentence>
@@ -2801,7 +2801,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の設備は、冷却材の循環その他の要因により生ずる振動により損傷を受けることがないように設置されたものでなければならない。</Sentence>
@@ -2811,7 +2811,7 @@
         <Article Delete="false" Hide="false" Num="70">
           <ArticleCaption>（準用）</ArticleCaption>
           <ArticleTitle>第七十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第十九条から第二十一条まで、第二十三条から第二十六条まで、第三十一条、第三十二条、第三十四条から第三十六条まで、第三十八条、第四十条（第一項ただし書を除く。）、第四十一条、第四十二条、第五十七条及び第五十八条の規定は、ナトリウム冷却型高速炉に係る試験研究用等原子炉施設について準用する。</Sentence>
@@ -2825,7 +2825,7 @@
         <Article Delete="false" Hide="false" Num="71">
           <ArticleCaption>（電磁的記録媒体による手続）</ArticleCaption>
           <ArticleTitle>第七十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第三条第二項の申請書の提出については、当該申請書の提出に代えて、当該申請書に記載すべきこととされている事項を記録した電磁的記録媒体（電磁的記録（電子的方法、磁気的方法その他の人の知覚によって認識することができない方法で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。）に係る記録媒体をいう。以下同じ。）及び別記様式の電磁的記録媒体提出票を提出することにより行うことができる。</Sentence>
@@ -2839,7 +2839,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則は、原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律第三条の規定の施行の日（令和二年四月一日）から施行する。</Sentence>
@@ -2849,7 +2849,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="令和二年一一月九日原子力規制委員会規則第一八号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>

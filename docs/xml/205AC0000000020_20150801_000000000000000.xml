@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Taisho" Lang="ja" LawType="Act" Num="20" Year="05">
+<Law Era="Taisho" Lang="ja" LawType="Act" Num="20" Year="05" PromulgateMonth="03" PromulgateDay="07">
   <LawNum>大正五年法律第二十号</LawNum>
   <LawBody>
-    <LawTitle>海底電信線保護万国連合条約罰則</LawTitle>
+    <LawTitle Kana="かいていでんしんせんほごばんこくれんごうじょうやくばっそく" Abbrev="" AbbrevKana="">海底電信線保護万国連合条約罰則</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -12,14 +12,14 @@
             <Sentence WritingMode="vertical">海底電信線保護万国連合条約ニ依ル海底電信線ヲ損壊シテ通信ヲ障碍シ又ハ障碍スヘキ危険ヲ生セシメタル者ハ五年以下ノ懲役又ハ五十万円以下ノ罰金ニ処ス但シ海底電信線ヲ布設又ハ修繕スルニ付已ムコトヲ得サルニ出テタル者ハ此ノ限ニ在ラス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項ノ未遂罪ハ之ヲ罰ス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">過失ニ因リ第一項ノ行為ヲ為シタル者ハ五十万円以下ノ罰金ニ処ス</Sentence>
           </ParagraphSentence>
@@ -33,8 +33,8 @@
             <Sentence WritingMode="vertical">自己ノ生命若ハ船舶ヲ保護スル為又ハ海底電信線ヲ布設若ハ修繕スルニ付已ムコトヲ得スシテ海底電信線ヲ損壊シタル者ハ直ニ無線電信ニ依リ電信官署又ハ帝国領事館ニ届出ツヘシ無線電信ニ依ルコトヲ得サルトキハ最初ニ著船シタル時ヨリ二十四時間内ニ其ノ地ノ電信官署又ハ帝国領事館ニ届出ツヘシ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項ノ規定ニ違反シタル者ハ五千円以下ノ罰金ニ処ス</Sentence>
           </ParagraphSentence>
@@ -57,8 +57,8 @@
             <Sentence WritingMode="vertical">海底電信線保護万国連合条約第十条第二項ノ場合ニ於テ公書ノ呈示ヲ拒ミタル者ハ一万円以下ノ罰金ニ処ス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">暴行又ハ脅迫ヲ以テ前項ノ呈示ヲ拒ミタル者ハ三年以下ノ懲役ニ処ス</Sentence>
           </ParagraphSentence>
@@ -74,7 +74,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="328098" AmendLawNum="昭和二八年七月三一日法律第九八号" Id="3f2b62ea-47dd-11e5-893e-1b24e4d3062d">
+    <SupplProvision AmendLawNum="昭和二八年七月三一日法律第九八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -83,7 +83,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="343102" AmendLawNum="昭和四三年六月一九日法律第一〇二号" Extract="true" Id="575ea5fc-47dd-11e5-90bb-7b7e7674f3ed">
+    <SupplProvision AmendLawNum="昭和四三年六月一九日法律第一〇二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>

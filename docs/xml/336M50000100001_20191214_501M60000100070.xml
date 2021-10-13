@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="1" Year="36">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="1" Year="36" PromulgateMonth="11" PromulgateDay="18">
   <LawNum>昭和三十六年厚生省令第一号</LawNum>
   <LawBody>
-    <LawTitle>医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行規則</LawTitle>
+    <LawTitle Kana="いやくひんいりょうききとうのひんしつゆうこうせいおよびあんぜんせいのかくほとうにかんするほうりつせこうきそく" Abbrev="薬事法施行規則,医薬品医療機器等法施行規則,薬機法施行規則" AbbrevKana="や,い,や">医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行規則</LawTitle>
     <EnactStatement>薬事法（昭和三十五年法律第百四十五号）第七条、第十条（第三十八条及び第四十条において準用する場合を含む。）、第十四条第一項（第二十三条において準用する場合を含む。）、第十七条第一項（第二十三条において準用する場合を含む。）、第十九条（第二十三条において準用する場合を含む。）、第二十一条（第二十三条において準用する場合を含む。）、第二十九条、第三十二条、第三十三条第二項、第三十九条第一項、第四十三条第一項、第四十四条第一項及び第二項、第四十九条第二項、第五十条、第五十二条、第五十三条（第六十条、第六十二条及び第六十四条において準用する場合を含む。）、第五十八条、第五十九条、第六十一条、第六十三条及び第八十二条並びに薬事法施行令（昭和三十六年政令第十一号）第二条、第八条、第九条、第十一条、第十五条、第十六条及び別表第一器具器械の項第八十四号の規定に基づき、薬事法施行規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -2670,8 +2670,7 @@
               <Subitem1 Num="5">
                 <Subitem1Title>ホ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence>吸収、分布、代謝及び排<Ruby>泄<Rt>せつ</Rt>
-</Ruby>に関する資料</Sentence>
+                  <Sentence>吸収、分布、代謝及び排<Ruby>泄<Rt>せつ</Rt></Ruby>に関する資料</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="6">
@@ -9547,7 +9546,7 @@
                     </TableColumn>
                   </TableRow>
                   <TableRow>
-                    <TableColumn Valign="top" rowspan="2">
+                    <TableColumn rowspan="2" Valign="top">
                       <Sentence>第百十四条の七十一第一号</Sentence>
                     </TableColumn>
                     <TableColumn Valign="top">
@@ -16243,9 +16242,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>登録販売者が死亡し、又は失<Ruby>踪<Rt>そう</Rt>
-</Ruby>の宣告を受けたときは、戸籍法（昭和二十二年法律第二百二十四号）による死亡又は失<Ruby>踪<Rt>そう</Rt>
-</Ruby>の届出義務者は、三十日以内に、登録販売者名簿の登録の消除を申請しなければならない。</Sentence>
+              <Sentence>登録販売者が死亡し、又は失<Ruby>踪<Rt>そう</Rt></Ruby>の宣告を受けたときは、戸籍法（昭和二十二年法律第二百二十四号）による死亡又は失<Ruby>踪<Rt>そう</Rt></Ruby>の届出義務者は、三十日以内に、登録販売者名簿の登録の消除を申請しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -16268,8 +16265,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>第一項又は第二項の規定による申請がされ、又は、登録販売者が死亡し、若しくは失<Ruby>踪<Rt>そう</Rt>
-</Ruby>の宣告を受けたことが確認されたとき</Sentence>
+                <Sentence>第一項又は第二項の規定による申請がされ、又は、登録販売者が死亡し、若しくは失<Ruby>踪<Rt>そう</Rt></Ruby>の宣告を受けたことが確認されたとき</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -17181,8 +17177,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>高度管理医療機器等の販売業者等は、適正な方法により、当該医療機器に被包の損傷その他の<Ruby>瑕疵<Rt>かし</Rt>
-</Ruby>がないことの確認その他の医療機器の品質の確保をしなければならない。</Sentence>
+              <Sentence>高度管理医療機器等の販売業者等は、適正な方法により、当該医療機器に被包の損傷その他の<Ruby>瑕疵<Rt>かし</Rt></Ruby>がないことの確認その他の医療機器の品質の確保をしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -27493,8 +27488,7 @@
       <Paragraph Num="2">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>この省令による改正後の別表第三劇薬の部生物学的製剤及び抗菌性物質製剤の項第五号ただし書（３）、第五号の三ただし書（１）（一片中シソマイシンとして一〇μｇ以下を含有する体外診断薬を除く。）、第五号の四ただし書（１）（一片中ジベカシンとして一〇μｇ以下を含有する体外診断薬を除く。）、第十一号の三ただし書（２）、第十一号の六ただし書（１）（一片中ネチルマイシンとして一〇μｇ以下を含有する体外診断薬を除く。）若しくは第十三号の二ただし書（一片中ミクロノマイシンとして一〇μｇ以下を含有する体外診断薬を除く。）、同部無機薬品及びその製剤の項第十五号（６）ただし書（アセチルオキシメルクリベンゾール〇・二％以下を含有する外用剤及び<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤を除く。）若しくは第二十五号ただし書（２）（遊離ヨウ素〇・二五％以下を含有する体外診断薬を除く。）又は同部有機薬品及びその製剤の項第五号の十九ただし書（２）、第十三号の十一ただし書、第二十号の三ただし書、第三十二号ただし書（２）（ジエチルアミノアセトキシリジドとして〇・〇〇一％以下を含有する体外診断薬を除く。）若しくは第五十一号の三ただし書（２）に規定する医薬品であつて、この省令の施行の際現に存し、かつ、その添付文書に劇薬である旨の記載があり、又はその容器若しくは被包に劇薬である旨の表示若しくは「記」の文字の記載があるものについては、これらの記載及び表示に関する限り、薬事法（昭和三十五年法律第百四十五号）第五十四条の規定は適用しない。</Sentence>
+          <Sentence>この省令による改正後の別表第三劇薬の部生物学的製剤及び抗菌性物質製剤の項第五号ただし書（３）、第五号の三ただし書（１）（一片中シソマイシンとして一〇μｇ以下を含有する体外診断薬を除く。）、第五号の四ただし書（１）（一片中ジベカシンとして一〇μｇ以下を含有する体外診断薬を除く。）、第十一号の三ただし書（２）、第十一号の六ただし書（１）（一片中ネチルマイシンとして一〇μｇ以下を含有する体外診断薬を除く。）若しくは第十三号の二ただし書（一片中ミクロノマイシンとして一〇μｇ以下を含有する体外診断薬を除く。）、同部無機薬品及びその製剤の項第十五号（６）ただし書（アセチルオキシメルクリベンゾール〇・二％以下を含有する外用剤及び<Ruby>坐<Rt>ざ</Rt></Ruby>剤を除く。）若しくは第二十五号ただし書（２）（遊離ヨウ素〇・二五％以下を含有する体外診断薬を除く。）又は同部有機薬品及びその製剤の項第五号の十九ただし書（２）、第十三号の十一ただし書、第二十号の三ただし書、第三十二号ただし書（２）（ジエチルアミノアセトキシリジドとして〇・〇〇一％以下を含有する体外診断薬を除く。）若しくは第五十一号の三ただし書（２）に規定する医薬品であつて、この省令の施行の際現に存し、かつ、その添付文書に劇薬である旨の記載があり、又はその容器若しくは被包に劇薬である旨の表示若しくは「記」の文字の記載があるものについては、これらの記載及び表示に関する限り、薬事法（昭和三十五年法律第百四十五号）第五十四条の規定は適用しない。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="3">
@@ -29118,10 +29112,7 @@
       <Paragraph Num="2">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>この省令による改正後の別表第三劇薬の部生薬、動植物成分及びそれらの製剤の項第三十六号ただし書に規定する<Ruby>咀<Rt>そ</Rt>
-</Ruby>
-<Ruby>嚼<Rt>しやく</Rt>
-</Ruby>剤であって、この省令の施行の際現に存し、かつ、その添付文書に劇薬である旨の記載があり、又はその容器若しくは被包に劇薬である旨の表示若しくは「記」の文字の記載があるものについては、これらの記載及び表示に関する限り、薬事法（昭和三十五年法律第百四十五号）第五十四条の規定は、適用しない。</Sentence>
+          <Sentence>この省令による改正後の別表第三劇薬の部生薬、動植物成分及びそれらの製剤の項第三十六号ただし書に規定する<Ruby>咀<Rt>そ</Rt></Ruby><Ruby>嚼<Rt>しやく</Rt></Ruby>剤であって、この省令の施行の際現に存し、かつ、その添付文書に劇薬である旨の記載があり、又はその容器若しくは被包に劇薬である旨の表示若しくは「記」の文字の記載があるものについては、これらの記載及び表示に関する限り、薬事法（昭和三十五年法律第百四十五号）第五十四条の規定は、適用しない。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -30034,8 +30025,7 @@
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>この省令による改正後の別表第一第六号（２１８）ただし書に規定するもののうち、一錠中トリアムシノロンアセトニドとして〇・〇二五ｍｇ以上を含有する口<Ruby>腔<Rt>くう</Rt>
-</Ruby>内貼付剤であって、この省令の施行の際現に存するものについては、平成十八年十一月十九日までは薬事法第二十九条の規定は、適用しない。</Sentence>
+          <Sentence>この省令による改正後の別表第一第六号（２１８）ただし書に規定するもののうち、一錠中トリアムシノロンアセトニドとして〇・〇二五ｍｇ以上を含有する口<Ruby>腔<Rt>くう</Rt></Ruby>内貼付剤であって、この省令の施行の際現に存するものについては、平成十八年十一月十九日までは薬事法第二十九条の規定は、適用しない。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -35286,8 +35276,7 @@
             <Subitem3 Num="4">
               <Subitem3Title>（ｉｖ）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>浸<Ruby>煎<Rt>せん</Rt>
-</Ruby>薬及び湯薬に係る調剤の実施の可否</Sentence>
+                <Sentence>浸<Ruby>煎<Rt>せん</Rt></Ruby>薬及び湯薬に係る調剤の実施の可否</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="5">
@@ -35881,8 +35870,7 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>麻酔器並びに麻酔器用呼吸<Ruby>嚢<Rt>のう</Rt>
-</Ruby>及びガス吸収かん</Sentence>
+              <Sentence>麻酔器並びに麻酔器用呼吸<Ruby>嚢<Rt>のう</Rt></Ruby>及びガス吸収かん</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -35904,8 +35892,7 @@
             <TableColumn>
               <Sentence>理学診療用器具のうち、次に掲げるもの</Sentence>
               <Sentence>一　心マッサージ器</Sentence>
-              <Sentence>二　脳・<Ruby>脊<Rt>せき</Rt>
-</Ruby>髄電気刺激装置</Sentence>
+              <Sentence>二　脳・<Ruby>脊<Rt>せき</Rt></Ruby>髄電気刺激装置</Sentence>
               <Sentence>三　卵管疎通診断装置</Sentence>
               <Sentence>四　超音波手術器</Sentence>
             </TableColumn>
@@ -35942,14 +35929,12 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>結<Ruby>紮<Rt>さつ</Rt>
-</Ruby>器及び縫合器</Sentence>
+              <Sentence>結<Ruby>紮<Rt>さつ</Rt></Ruby>器及び縫合器</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>医療用焼<Ruby>灼<Rt>しやく</Rt>
-</Ruby>器（レーザ手術装置及びレーザコアグレータを除く。）</Sentence>
+              <Sentence>医療用焼<Ruby>灼<Rt>しやく</Rt></Ruby>器（レーザ手術装置及びレーザコアグレータを除く。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -35964,14 +35949,12 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>医療用<Ruby>嘴<Rt>し</Rt>
-</Ruby>管及び体液誘導管</Sentence>
+              <Sentence>医療用<Ruby>嘴<Rt>し</Rt></Ruby>管及び体液誘導管</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>医療用洗浄器（歯科用根管洗浄器及び家庭用<Ruby>膣<Rt>ちつ</Rt>
-</Ruby>洗浄器を除く。）</Sentence>
+              <Sentence>医療用洗浄器（歯科用根管洗浄器及び家庭用<Ruby>膣<Rt>ちつ</Rt></Ruby>洗浄器を除く。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -35981,8 +35964,7 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>医薬品注入器（歯科用<Ruby>貼<Rt>ちよう</Rt>
-</Ruby>薬針及び造影剤注入装置を除く。）</Sentence>
+              <Sentence>医薬品注入器（歯科用<Ruby>貼<Rt>ちよう</Rt></Ruby>薬針及び造影剤注入装置を除く。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -36025,8 +36007,7 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>医療用焼<Ruby>灼<Rt>しやく</Rt>
-</Ruby>器のうち、レーザ手術装置及びレーザコアグレータ</Sentence>
+              <Sentence>医療用焼<Ruby>灼<Rt>しやく</Rt></Ruby>器のうち、レーザ手術装置及びレーザコアグレータ</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -36093,9 +36074,7 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>医療用<Ruby>剥<Rt>はく</Rt>
-</Ruby>離子のうち、歯科用起子及び<Ruby>剥<Rt>はく</Rt>
-</Ruby>離子</Sentence>
+              <Sentence>医療用<Ruby>剥<Rt>はく</Rt></Ruby>離子のうち、歯科用起子及び<Ruby>剥<Rt>はく</Rt></Ruby>離子</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -36107,10 +36086,7 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>医療用<Ruby>穿<Rt>せん</Rt>
-</Ruby>刺器、<Ruby>穿<Rt>せん</Rt>
-</Ruby>削器及び<Ruby>穿<Rt>せん</Rt>
-</Ruby>孔器のうち、次に掲げるもの</Sentence>
+              <Sentence>医療用<Ruby>穿<Rt>せん</Rt></Ruby>刺器、<Ruby>穿<Rt>せん</Rt></Ruby>削器及び<Ruby>穿<Rt>せん</Rt></Ruby>孔器のうち、次に掲げるもの</Sentence>
               <Sentence>一　歯科用バー</Sentence>
               <Sentence>二　歯科用リーマ</Sentence>
               <Sentence>三　歯科用ファイル</Sentence>
@@ -36164,8 +36140,7 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>歯科用充<Ruby>填<Rt>てん</Rt>
-</Ruby>器</Sentence>
+              <Sentence>歯科用充<Ruby>填<Rt>てん</Rt></Ruby>器</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -36180,8 +36155,7 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>印象採得又は<Ruby>咬<Rt>こう</Rt>
-</Ruby>合採得用器具</Sentence>
+              <Sentence>印象採得又は<Ruby>咬<Rt>こう</Rt></Ruby>合採得用器具</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -36196,8 +36170,7 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>医薬品注入器のうち、歯科用<Ruby>貼<Rt>ちよう</Rt>
-</Ruby>薬針</Sentence>
+              <Sentence>医薬品注入器のうち、歯科用<Ruby>貼<Rt>ちよう</Rt></Ruby>薬針</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -36217,8 +36190,7 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>尿検査又は<Ruby>糞<Rt>ふん</Rt>
-</Ruby>便検査用器具</Sentence>
+              <Sentence>尿検査又は<Ruby>糞<Rt>ふん</Rt></Ruby>便検査用器具</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -36268,22 +36240,17 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>医療用<Ruby>匙<Rt>ひ</Rt>
-</Ruby>
-</Sentence>
+              <Sentence>医療用<Ruby>匙<Rt>ひ</Rt></Ruby></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>医療用<Ruby>鈎<Rt>こう</Rt>
-</Ruby>
-</Sentence>
+              <Sentence>医療用<Ruby>鈎<Rt>こう</Rt></Ruby></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>医療用<Ruby>鉗<Rt>かん</Rt>
-</Ruby>子</Sentence>
+              <Sentence>医療用<Ruby>鉗<Rt>かん</Rt></Ruby>子</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -36298,9 +36265,7 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>医療用<Ruby>剥<Rt>はく</Rt>
-</Ruby>離子（歯科用起子及び<Ruby>剥<Rt>はく</Rt>
-</Ruby>離子を除く。）</Sentence>
+              <Sentence>医療用<Ruby>剥<Rt>はく</Rt></Ruby>離子（歯科用起子及び<Ruby>剥<Rt>はく</Rt></Ruby>離子を除く。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -36320,16 +36285,12 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>医療用<Ruby>絞<Rt>こう</Rt>
-</Ruby>断器</Sentence>
+              <Sentence>医療用<Ruby>絞<Rt>こう</Rt></Ruby>断器</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>医療用<Ruby>穿<Rt>せん</Rt>
-</Ruby>刺器、<Ruby>穿<Rt>せん</Rt>
-</Ruby>削器及び<Ruby>穿<Rt>せん</Rt>
-</Ruby>孔器。ただし、次に掲げるものを除く。</Sentence>
+              <Sentence>医療用<Ruby>穿<Rt>せん</Rt></Ruby>刺器、<Ruby>穿<Rt>せん</Rt></Ruby>削器及び<Ruby>穿<Rt>せん</Rt></Ruby>孔器。ただし、次に掲げるものを除く。</Sentence>
               <Sentence>一　歯科用バー</Sentence>
               <Sentence>二　歯科用リーマ</Sentence>
               <Sentence>三　歯科用ファイル</Sentence>
@@ -36358,14 +36319,12 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>医療用<Ruby>捲<Rt>けん</Rt>
-</Ruby>綿子</Sentence>
+              <Sentence>医療用<Ruby>捲<Rt>けん</Rt></Ruby>綿子</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>医療用洗浄器のうち、家庭用<Ruby>膣<Rt>ちつ</Rt>
-</Ruby>洗浄器</Sentence>
+              <Sentence>医療用洗浄器のうち、家庭用<Ruby>膣<Rt>ちつ</Rt></Ruby>洗浄器</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -36375,8 +36334,7 @@
               <Sentence>二　電動式骨手術器械</Sentence>
               <Sentence>三　エアー式骨手術器械</Sentence>
               <Sentence>四　骨接合用又は骨手術用器具</Sentence>
-              <Sentence>五　<Ruby>靱<Rt>じん</Rt>
-</Ruby>帯再建術用手術器械</Sentence>
+              <Sentence>五　<Ruby>靱<Rt>じん</Rt></Ruby>帯再建術用手術器械</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -36857,11 +36815,7 @@
             <Subitem3 Num="2">
               <Subitem3Title>（２）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>シアン銀、シアン水銀又はオキシシアン水銀〇・二％以下を含有する<Ruby>膏<Rt>こう</Rt>
-</Ruby>剤（硬<Ruby>膏<Rt>こう</Rt>
-</Ruby>、軟<Ruby>膏<Rt>こう</Rt>
-</Ruby>、<Ruby>漿<Rt>しよう</Rt>
-</Ruby>剤、パスタ剤又はパツプ剤をいう。以下同じ。）</Sentence>
+                <Sentence>シアン銀、シアン水銀又はオキシシアン水銀〇・二％以下を含有する<Ruby>膏<Rt>こう</Rt></Ruby>剤（硬<Ruby>膏<Rt>こう</Rt></Ruby>、軟<Ruby>膏<Rt>こう</Rt></Ruby>、<Ruby>漿<Rt>しよう</Rt></Ruby>剤、パスタ剤又はパツプ剤をいう。以下同じ。）</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="3">
@@ -36898,15 +36852,13 @@
             <Subitem3 Num="2">
               <Subitem3Title>（２）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>塩化第一水銀（別名甘<Ruby>汞<Rt>こう</Rt>
-</Ruby>）及びその製剤</Sentence>
+                <Sentence>塩化第一水銀（別名甘<Ruby>汞<Rt>こう</Rt></Ruby>）及びその製剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="3">
               <Subitem3Title>（３）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>黄色ヨード<Ruby>汞<Rt>こう</Rt>
-</Ruby>及びその製剤</Sentence>
+                <Sentence>黄色ヨード<Ruby>汞<Rt>こう</Rt></Ruby>及びその製剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="4">
@@ -36918,8 +36870,7 @@
             <Subitem3 Num="5">
               <Subitem3Title>（５）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>アミノ塩化第二水銀（別名白降<Ruby>汞<Rt>こう</Rt>
-</Ruby>）及びその製剤</Sentence>
+                <Sentence>アミノ塩化第二水銀（別名白降<Ruby>汞<Rt>こう</Rt></Ruby>）及びその製剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="6">
@@ -37021,8 +36972,7 @@
             <Subitem3 Num="22">
               <Subitem3Title>（２２）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>塩化第二水銀（別名昇<Ruby>汞<Rt>こう</Rt>
-</Ruby>）〇・一％以下を含有し、かつ、スカレツト又はフロキシンをもつて着色した水溶液</Sentence>
+                <Sentence>塩化第二水銀（別名昇<Ruby>汞<Rt>こう</Rt></Ruby>）〇・一％以下を含有し、かつ、スカレツト又はフロキシンをもつて着色した水溶液</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="23">
@@ -37034,11 +36984,7 @@
             <Subitem3 Num="24">
               <Subitem3Title>（２４）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>黄降<Ruby>汞<Rt>こう</Rt>
-</Ruby>一％以下又は赤降<Ruby>汞<Rt>こう</Rt>
-</Ruby>一〇％以下を含有する軟<Ruby>膏<Rt>こう</Rt>
-</Ruby>
-</Sentence>
+                <Sentence>黄降<Ruby>汞<Rt>こう</Rt></Ruby>一％以下又は赤降<Ruby>汞<Rt>こう</Rt></Ruby>一〇％以下を含有する軟<Ruby>膏<Rt>こう</Rt></Ruby></Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="25">
@@ -37050,8 +36996,7 @@
             <Subitem3 Num="26">
               <Subitem3Title>（２６）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>シアン水銀、オキシシアン水銀又はフエニルメルクリクロリド〇・二％以下を含有する<Ruby>膏<Rt>こう</Rt>
-</Ruby>剤</Sentence>
+                <Sentence>シアン水銀、オキシシアン水銀又はフエニルメルクリクロリド〇・二％以下を含有する<Ruby>膏<Rt>こう</Rt></Ruby>剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="27">
@@ -37063,8 +37008,7 @@
             <Subitem3 Num="28">
               <Subitem3Title>（２８）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>オルトクロルメルクリフエノール〇・〇三％以下を含有する<Ruby>膏<Rt>こう</Rt>
-</Ruby>剤</Sentence>
+                <Sentence>オルトクロルメルクリフエノール〇・〇三％以下を含有する<Ruby>膏<Rt>こう</Rt></Ruby>剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="29">
@@ -37208,8 +37152,7 @@
             <Subitem2Title>一の十五</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">四―アミノ―一―（二―メチルプロピル）―一Ｈ―イミダゾ［四・五―ｃ］キノリン（別名イミキモド）及びその製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、四―アミノ―一―（二―メチルプロピル）―一Ｈ―イミダゾ［四・五―ｃ］キノリン五％以下を含有する外用剤（吸入剤、<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤及びトローチ剤を除く。以下この表において同じ。）を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、四―アミノ―一―（二―メチルプロピル）―一Ｈ―イミダゾ［四・五―ｃ］キノリン五％以下を含有する外用剤（吸入剤、<Ruby>坐<Rt>ざ</Rt></Ruby>剤及びトローチ剤を除く。以下この表において同じ。）を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="1_16">
@@ -37616,8 +37559,7 @@
                 <Sentence>メチルエステル</Sentence>
               </Column>
               <Column Num="5">
-                <Sentence>二―オキソプロピルエステル二％以下を含有する<Ruby>顆<Rt>か</Rt>
-</Ruby>粒剤及び一カプセル中（±）―一・四―ジヒドロ―二・六―ジメチル―四―（二―ニトロフエニル）―三・五―ピリジンジカルボン酸</Sentence>
+                <Sentence>二―オキソプロピルエステル二％以下を含有する<Ruby>顆<Rt>か</Rt></Ruby>粒剤及び一カプセル中（±）―一・四―ジヒドロ―二・六―ジメチル―四―（二―ニトロフエニル）―三・五―ピリジンジカルボン酸</Sentence>
               </Column>
               <Column Num="6">
                 <Sentence>メチルエステル</Sentence>
@@ -37969,8 +37911,7 @@
             <Subitem2Title>八の八</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">（Ｅ）―七―〔（一Ｒ・二Ｒ・三Ｒ）―三―ヒドロキシ―二―〔（Ｅ）―（Ｒ）―三―ヒドロキシ―四・四―ジメチル―一―オクテニル〕―五―オキソシクロペンチル〕―二―ヘプテン酸メチル（別名ゲメプロスト）及びその製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、一個中（Ｅ）―七―〔（一Ｒ・二Ｒ・三Ｒ）―三―ヒドロキシ―二―〔（Ｅ）―（Ｒ）―三―ヒドロキシ―四・四―ジメチル―一―オクテニル〕―五―オキソシクロペンチル〕―二―ヘプテン酸メチル一ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、一個中（Ｅ）―七―〔（一Ｒ・二Ｒ・三Ｒ）―三―ヒドロキシ―二―〔（Ｅ）―（Ｒ）―三―ヒドロキシ―四・四―ジメチル―一―オクテニル〕―五―オキソシクロペンチル〕―二―ヘプテン酸メチル一ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt></Ruby>剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="8_9">
@@ -38090,8 +38031,7 @@
             <Subitem3 Num="1">
               <Subitem3Title>（１）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>五―フルオロウラシル五％以下を含有するシロツプ剤、注射剤又は軟<Ruby>膏<Rt>こう</Rt>
-</Ruby>剤</Sentence>
+                <Sentence>五―フルオロウラシル五％以下を含有するシロツプ剤、注射剤又は軟<Ruby>膏<Rt>こう</Rt></Ruby>剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="2">
@@ -38103,8 +38043,7 @@
             <Subitem3 Num="3">
               <Subitem3Title>（３）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>一個中五―フルオロウラシル二〇〇ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤</Sentence>
+                <Sentence>一個中五―フルオロウラシル二〇〇ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt></Ruby>剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
           </Subitem2>
@@ -38123,8 +38062,7 @@
             <Subitem3 Num="2">
               <Subitem3Title>（２）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>二―（二―フルオロ―四―ビフエニリル）プロピオン酸八％以下を含有する<Ruby>顆<Rt>か</Rt>
-</Ruby>粒剤</Sentence>
+                <Sentence>二―（二―フルオロ―四―ビフエニリル）プロピオン酸八％以下を含有する<Ruby>顆<Rt>か</Rt></Ruby>粒剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="3">
@@ -38392,10 +38330,7 @@
             <Subitem2Title>四</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">アトロピン、ヒヨスチアミン、スコポラミン又はそれらの化合物を含有する生薬及び製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、<Ruby>膏<Rt>こう</Rt>
-</Ruby>剤、<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤及びマンダラ葉を含有する<Ruby>燻<Rt>くん</Rt>
-</Ruby>煙剤並びに注射剤以外の製剤であつて次に掲げるものを除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、<Ruby>膏<Rt>こう</Rt></Ruby>剤、<Ruby>坐<Rt>ざ</Rt></Ruby>剤及びマンダラ葉を含有する<Ruby>燻<Rt>くん</Rt></Ruby>煙剤並びに注射剤以外の製剤であつて次に掲げるものを除く。</Sentence>
             </Subitem2Sentence>
             <Subitem3 Num="1">
               <Subitem3Title>（１）</Subitem3Title>
@@ -38504,8 +38439,7 @@
             <Subitem2Title>九</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">エチルモルヒネ、コデイン、ジヒドロコデイン及びそれらの塩類並びにモルヒネ又はその化合物を含有する製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、一個中あへん三〇ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤及び一個中リン酸コデイン、硫酸コデイン又はリン酸ヒドロコデイン一五ｍｇ以下を含有するもの並びに一日量中リン酸コデイン、硫酸コデイン又はリン酸ヒドロコデイン五〇ｍｇ以下を含有するシロツプ剤又はエリキシル剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、一個中あへん三〇ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt></Ruby>剤及び一個中リン酸コデイン、硫酸コデイン又はリン酸ヒドロコデイン一五ｍｇ以下を含有するもの並びに一日量中リン酸コデイン、硫酸コデイン又はリン酸ヒドロコデイン五〇ｍｇ以下を含有するシロツプ剤又はエリキシル剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="9_2">
@@ -38545,16 +38479,13 @@
           <Subitem2 Num="13">
             <Subitem2Title>十三</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence Function="main" Num="1">乾燥甲状<Ruby>腺<Rt>せん</Rt>
-</Ruby>及び甲状<Ruby>腺<Rt>せん</Rt>
-</Ruby>ホルモン又はチロキシン若しくはその塩類を含有する製剤。</Sentence>
+              <Sentence Function="main" Num="1">乾燥甲状<Ruby>腺<Rt>せん</Rt></Ruby>及び甲状<Ruby>腺<Rt>せん</Rt></Ruby>ホルモン又はチロキシン若しくはその塩類を含有する製剤。</Sentence>
               <Sentence Function="proviso" Num="2">ただし、次に掲げるものを除く。</Sentence>
             </Subitem2Sentence>
             <Subitem3 Num="1">
               <Subitem3Title>（１）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>一個中乾燥甲状<Ruby>腺<Rt>せん</Rt>
-</Ruby>二〇ｍｇ以下を含有するもの</Sentence>
+                <Sentence>一個中乾燥甲状<Ruby>腺<Rt>せん</Rt></Ruby>二〇ｍｇ以下を含有するもの</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="2">
@@ -38574,8 +38505,7 @@
             <Subitem2Title>十四</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">カンタリス、それを含有する製剤及びカンタリジン又はその化合物を含有する製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、カンタリスのクロロホルム抽出物三％以下を含有する<Ruby>膏<Rt>こう</Rt>
-</Ruby>剤及びカンタリスとして〇・一％以下を含有する液剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、カンタリスのクロロホルム抽出物三％以下を含有する<Ruby>膏<Rt>こう</Rt></Ruby>剤及びカンタリスとして〇・一％以下を含有する液剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="15">
@@ -38746,10 +38676,7 @@
             <Subitem2Title>三十六</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">ニコチン又はその塩類を含有する製剤であつて次に掲げるもの。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、ニコチンとして〇・二％以下を含有する外用剤、一枚中七八ｍｇ以下を含有する貼付剤及び一個中ニコチンとして二ｍｇ以下を含有する<Ruby>咀<Rt>そ</Rt>
-</Ruby>
-<Ruby>嚼<Rt>しやく</Rt>
-</Ruby>剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、ニコチンとして〇・二％以下を含有する外用剤、一枚中七八ｍｇ以下を含有する貼付剤及び一個中ニコチンとして二ｍｇ以下を含有する<Ruby>咀<Rt>そ</Rt></Ruby><Ruby>嚼<Rt>しやく</Rt></Ruby>剤を除く。</Sentence>
             </Subitem2Sentence>
             <Subitem3 Num="1">
               <Subitem3Title>（１）</Subitem3Title>
@@ -38942,8 +38869,7 @@
             <Subitem2Title>六十</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">ロベリン、その塩類並びにそれらを含有する生薬及び製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、ロベリア草を含有する<Ruby>燻<Rt>くん</Rt>
-</Ruby>煙剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、ロベリア草を含有する<Ruby>燻<Rt>くん</Rt></Ruby>煙剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -39398,11 +39324,7 @@
             <Subitem2Title>三</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">アンチモン化合物及びその製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、軟<Ruby>膏<Rt>こう</Rt>
-</Ruby>剤並びに五硫化アンチモン（別名金<Ruby>硫<Rt>い</Rt>
-</Ruby>
-<Ruby>黄<Rt>おう</Rt>
-</Ruby>）及びその製剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、軟<Ruby>膏<Rt>こう</Rt></Ruby>剤並びに五硫化アンチモン（別名金<Ruby>硫<Rt>い</Rt></Ruby><Ruby>黄<Rt>おう</Rt></Ruby>）及びその製剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="3_2">
@@ -39534,8 +39456,7 @@
             <Subitem3 Num="2">
               <Subitem3Title>（２）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>シアン銀、シアン水銀又はオキシシアン水銀〇・二％以下を含有する<Ruby>膏<Rt>こう</Rt>
-</Ruby>剤</Sentence>
+                <Sentence>シアン銀、シアン水銀又はオキシシアン水銀〇・二％以下を含有する<Ruby>膏<Rt>こう</Rt></Ruby>剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="3">
@@ -39581,8 +39502,7 @@
             <Subitem2Title>十五</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">水銀化合物又はその製剤であつて次に掲げるもの。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、<Ruby>膏<Rt>こう</Rt>
-</Ruby>剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、<Ruby>膏<Rt>こう</Rt></Ruby>剤を除く。</Sentence>
             </Subitem2Sentence>
             <Subitem3 Num="1">
               <Subitem3Title>（１）</Subitem3Title>
@@ -39593,8 +39513,7 @@
             <Subitem3 Num="2">
               <Subitem3Title>（２）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>黄色ヨード<Ruby>汞<Rt>こう</Rt>
-</Ruby>及びその製剤</Sentence>
+                <Sentence>黄色ヨード<Ruby>汞<Rt>こう</Rt></Ruby>及びその製剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="3">
@@ -39619,8 +39538,7 @@
               <Subitem3Title>（６）</Subitem3Title>
               <Subitem3Sentence>
                 <Sentence Function="main" Num="1">アセチルオキシメルクリベンゾール（別名酢酸フエニル水銀）及びその製剤。</Sentence>
-                <Sentence Function="proviso" Num="2">ただし、アセチルオキシメルクリベンゾール〇・二％以下を含有する外用剤、<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤及び体外診断薬を除く。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、アセチルオキシメルクリベンゾール〇・二％以下を含有する外用剤、<Ruby>坐<Rt>ざ</Rt></Ruby>剤及び体外診断薬を除く。</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="7">
@@ -40309,8 +40227,7 @@
             <Subitem2Title>五の二十八</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">（±）―一―（四―アミノ―三・五―ジクロロフエニル）―二―（三級ブチルアミノ）エタノール（別名クレンブテロール）、その塩類及びそれらの製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、一個中（±）―一―（四―アミノ―三・五―ジクロロフエニル）―二―（三級ブチルアミノ）エタノールとして〇・〇一ｍｇ以下を含有する内用剤及び（±）―一―（四―アミノ―三・五―ジクロロフエニル）―二―（三級ブチルアミノ）エタノールとして〇・〇〇一七七％以下を含有する<Ruby>顆<Rt>か</Rt>
-</Ruby>粒剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、一個中（±）―一―（四―アミノ―三・五―ジクロロフエニル）―二―（三級ブチルアミノ）エタノールとして〇・〇一ｍｇ以下を含有する内用剤及び（±）―一―（四―アミノ―三・五―ジクロロフエニル）―二―（三級ブチルアミノ）エタノールとして〇・〇〇一七七％以下を含有する<Ruby>顆<Rt>か</Rt></Ruby>粒剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="5_29">
@@ -40650,8 +40567,7 @@
             <Subitem2Title>六の四</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">二―アリルオキシ―四―クロロ―エヌ―（二―ジエチルアミノエチル）―ベンズアミド、その塩類及びそれらの製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、一個中二―アリルオキシ―四―クロロ―エヌ―（二―ジエチルアミノエチル）―ベンズアミドとして二五ｍｇ以下を含有する内用剤及び二―アリルオキシ―四―クロロ―エヌ―（二―ジエチルアミノエチル）―ベンズアミドとして一〇％以下を含有する散剤又は<Ruby>顆<Rt>か</Rt>
-</Ruby>粒剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、一個中二―アリルオキシ―四―クロロ―エヌ―（二―ジエチルアミノエチル）―ベンズアミドとして二五ｍｇ以下を含有する内用剤及び二―アリルオキシ―四―クロロ―エヌ―（二―ジエチルアミノエチル）―ベンズアミドとして一〇％以下を含有する散剤又は<Ruby>顆<Rt>か</Rt></Ruby>粒剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="6_5">
@@ -40776,8 +40692,7 @@
             <Subitem2Title>七の三</Subitem2Title>
             <Subitem2Sentence>
               <Column Num="1">
-                <Sentence>アルフアガラクトシダーゼＡ遺伝子の増幅によつてアルフアガラクトシダーゼＡの発現が増加しているヒト線維肉<Ruby>腫<Rt>しゆ</Rt>
-</Ruby>細胞株（ＨＴ―一〇八〇）由来細胞株により産生される三九八個のアミノ酸残基（一個又は二個のＣ末端アミノ酸残基が欠落しているものを含む。）からなるサブユニツト二つより構成される糖タンパク質（別名アガルシダーゼ</Sentence>
+                <Sentence>アルフアガラクトシダーゼＡ遺伝子の増幅によつてアルフアガラクトシダーゼＡの発現が増加しているヒト線維肉<Ruby>腫<Rt>しゆ</Rt></Ruby>細胞株（ＨＴ―一〇八〇）由来細胞株により産生される三九八個のアミノ酸残基（一個又は二個のＣ末端アミノ酸残基が欠落しているものを含む。）からなるサブユニツト二つより構成される糖タンパク質（別名アガルシダーゼ</Sentence>
               </Column>
               <Column Num="2">
                 <Sentence>アルフア（遺伝子組換え））及びその製剤</Sentence>
@@ -40801,8 +40716,7 @@
             <Subitem2Title>七の六</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">（－）―（Ｓ）―アルフア―シアノ―三―フエノキシベンジル（一Ｒ・三Ｒ）―クリサンテマート八五％及び（－）―（Ｒ）―アルフア―シアノ―三―フエノキシベンジル（一Ｒ・三Ｒ）―クリサンテマート八・五％の混合物（別名ｄ・ｄ―Ｔ―シフエノトリン）及びその製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、殺虫剤であつて（－）―（Ｓ）―アルフア―シアノ―三―フエノキシベンジル（一Ｒ・三Ｒ）―クリサンテマート八五％及び（－）―（Ｒ）―アルフア―シアノ―三―フエノキシベンジル（一Ｒ・三Ｒ）―クリサンテマート八・五％の混合物として五・〇％以下を含有するエアゾール剤、乳剤及び<Ruby>燻<Rt>くん</Rt>
-</Ruby>煙剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、殺虫剤であつて（－）―（Ｓ）―アルフア―シアノ―三―フエノキシベンジル（一Ｒ・三Ｒ）―クリサンテマート八五％及び（－）―（Ｒ）―アルフア―シアノ―三―フエノキシベンジル（一Ｒ・三Ｒ）―クリサンテマート八・五％の混合物として五・〇％以下を含有するエアゾール剤、乳剤及び<Ruby>燻<Rt>くん</Rt></Ruby>煙剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="7_7">
@@ -40820,8 +40734,7 @@
             <Subitem3 Num="2">
               <Subitem3Title>（２）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>殺虫剤であつて、（±）―アルフア―シアノ―三―フエノキシベンジル（＋）―シス／トランス―クリサンテマート七・二％以下を含有する<Ruby>燻<Rt>くん</Rt>
-</Ruby>煙剤</Sentence>
+                <Sentence>殺虫剤であつて、（±）―アルフア―シアノ―三―フエノキシベンジル（＋）―シス／トランス―クリサンテマート七・二％以下を含有する<Ruby>燻<Rt>くん</Rt></Ruby>煙剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
           </Subitem2>
@@ -41360,8 +41273,7 @@
               <Subitem3Title>（３）</Subitem3Title>
               <Subitem3Sentence>
                 <Sentence>
-                  <Ruby>燻<Rt>くん</Rt>
-</Ruby>煙剤</Sentence>
+                  <Ruby>燻<Rt>くん</Rt></Ruby>煙剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="4">
@@ -41589,8 +41501,7 @@
             <Subitem2Title>十二の十八</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">四′―エチル―二―メチル―三―ピペリジノプロピオフエノン（別名エペリゾン）、その塩類及びそれらの製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、一個中四′―エチル―二―メチル―三―ピペリジノプロピオフエノンとして五〇ｍｇ以下を含有する内用剤及び四′―エチル―二―メチル―三―ピペリジノプロピオフエノンとして一〇％以下を含有する<Ruby>顆<Rt>か</Rt>
-</Ruby>粒剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、一個中四′―エチル―二―メチル―三―ピペリジノプロピオフエノンとして五〇ｍｇ以下を含有する内用剤及び四′―エチル―二―メチル―三―ピペリジノプロピオフエノンとして一〇％以下を含有する<Ruby>顆<Rt>か</Rt></Ruby>粒剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="12_19">
@@ -42309,8 +42220,7 @@
             <Subitem2Title>二十四の三</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">二―クロロ―アルフア―（二―ジメチルアミノエチル）ベンズヒドロール（別名クロフエダノール）、その塩類及びそれらの製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、一錠中二―クロロ―アルフア―（二―ジメチルアミノエチル）ベンズヒドロールとして一二・五ｍｇ以下を含有するもの及び二―クロロ―アルフア―（二―ジメチルアミノエチル）ベンズヒドロールとして四・二％以下を含有する<Ruby>顆<Rt>か</Rt>
-</Ruby>粒剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、一錠中二―クロロ―アルフア―（二―ジメチルアミノエチル）ベンズヒドロールとして一二・五ｍｇ以下を含有するもの及び二―クロロ―アルフア―（二―ジメチルアミノエチル）ベンズヒドロールとして四・二％以下を含有する<Ruby>顆<Rt>か</Rt></Ruby>粒剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="24_4">
@@ -42336,8 +42246,7 @@
             <Subitem2Title>二十四の七</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">五―クロロ―一―｛一―〔三―（二―オキソ―一―ベンズイミダゾリニル）プロピル〕―四―ピペリジル｝―二―ベンズイミダゾリノン（別名ドンペリドン）及びその製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、一個中五―クロロ―一―｛一―〔三―（二―オキソ―一―ベンズイミダゾリニル）プロピル〕―四―ピペリジル｝―二―ベンズイミダゾリノン一〇ｍｇ以下を含有する内用剤、五―クロロ―一―｛一―〔三―（二―オキソ―一―ベンズイミダゾリニル）プロピル〕―四―ピペリジル｝―二―ベンズイミダゾリノン一％以下を含有する内用剤及び一個中五―クロロ―一―｛一―〔三―（二―オキソ―一―ベンズイミダゾリニル）プロピル〕―四―ピペリジル｝―二―ベンズイミダゾリノン六〇ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、一個中五―クロロ―一―｛一―〔三―（二―オキソ―一―ベンズイミダゾリニル）プロピル〕―四―ピペリジル｝―二―ベンズイミダゾリノン一〇ｍｇ以下を含有する内用剤、五―クロロ―一―｛一―〔三―（二―オキソ―一―ベンズイミダゾリニル）プロピル〕―四―ピペリジル｝―二―ベンズイミダゾリノン一％以下を含有する内用剤及び一個中五―クロロ―一―｛一―〔三―（二―オキソ―一―ベンズイミダゾリニル）プロピル〕―四―ピペリジル｝―二―ベンズイミダゾリノン六〇ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt></Ruby>剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="24_8">
@@ -43107,8 +43016,7 @@
             <Subitem3 Num="1">
               <Subitem3Title>（１）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>ジエチルアミノアセトキシリジドとして五％以下を含有する外用剤又は<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤</Sentence>
+                <Sentence>ジエチルアミノアセトキシリジドとして五％以下を含有する外用剤又は<Ruby>坐<Rt>ざ</Rt></Ruby>剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="2">
@@ -43569,8 +43477,7 @@
             <Subitem2Title>三十六の三十七</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">一―〔二―（二・四―ジクロロフエニル）―二―（パラ―クロロベンジルオキシ）エチル〕イミダゾール（別名エコナゾール）、その塩類及びそれらの製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、一―〔二―（二・四―ジクロロフエニル）―二―（パラ―クロロベンジルオキシ）エチル〕イミダゾールとして一％以下を含有する外用剤及び一個中一―〔二―（二・四―ジクロロフエニル）―二―（パラ―クロロベンジルオキシ）エチル〕イミダゾールとして五〇ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、一―〔二―（二・四―ジクロロフエニル）―二―（パラ―クロロベンジルオキシ）エチル〕イミダゾールとして一％以下を含有する外用剤及び一個中一―〔二―（二・四―ジクロロフエニル）―二―（パラ―クロロベンジルオキシ）エチル〕イミダゾールとして五〇ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt></Ruby>剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="36_38">
@@ -43602,9 +43509,7 @@
             <Subitem2Title>三十六の四十二</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">一―｛二・四―ジクロロ―ベータ―〔（二・四―ジクロロベンジル）オキシ〕フエネチル｝イミダゾール（別名ミコナゾール）、その塩類及びそれらの製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、一―｛二・四―ジクロロ―ベータ―〔（二・四―ジクロロベンジル）オキシ〕フエネチル｝イミダゾールとして二％以下を含有する外用剤及びゲル剤、一個中一―｛二・四―ジクロロ―ベータ―〔（二・四―ジクロロベンジル）オキシ〕フエネチル｝イミダゾールとして一〇〇ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤及び五〇ｍｇ以下を含有する口<Ruby>腔<Rt>くう</Rt>
-</Ruby>用錠剤並びに一片中一―｛二・四―ジクロロ―ベータ―［（二・四―ジクロロベンジル）オキシ］フエネチル｝イミダゾールとして五一・二μｇ以下を含有する体外診断薬を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、一―｛二・四―ジクロロ―ベータ―〔（二・四―ジクロロベンジル）オキシ〕フエネチル｝イミダゾールとして二％以下を含有する外用剤及びゲル剤、一個中一―｛二・四―ジクロロ―ベータ―〔（二・四―ジクロロベンジル）オキシ〕フエネチル｝イミダゾールとして一〇〇ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt></Ruby>剤及び五〇ｍｇ以下を含有する口<Ruby>腔<Rt>くう</Rt></Ruby>用錠剤並びに一片中一―｛二・四―ジクロロ―ベータ―［（二・四―ジクロロベンジル）オキシ］フエネチル｝イミダゾールとして五一・二μｇ以下を含有する体外診断薬を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="36_43">
@@ -43635,8 +43540,7 @@
             <Subitem3 Num="2">
               <Subitem3Title>（２）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>一個中一―〔二―〔（二・六―ジクロロベンジル）オキシ〕―二―（二・四―ジクロロフエニル）エチル〕イミダゾールとして六〇〇ｍｇ以下を含有する<Ruby>膣<Rt>ちつ</Rt>
-</Ruby>剤</Sentence>
+                <Sentence>一個中一―〔二―〔（二・六―ジクロロベンジル）オキシ〕―二―（二・四―ジクロロフエニル）エチル〕イミダゾールとして六〇〇ｍｇ以下を含有する<Ruby>膣<Rt>ちつ</Rt></Ruby>剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
           </Subitem2>
@@ -43963,8 +43867,7 @@
                 <Sentence>メチルエステル</Sentence>
               </Column>
               <Column Num="3">
-                <Sentence>二―オキソプロピルエステル（別名アラニジピン）二％以下を含有する<Ruby>顆<Rt>か</Rt>
-</Ruby>粒剤及び一カプセル中（±）―一・四―ジヒドロ―二・六―ジメチル―四―（二―ニトロフエニル）―三・五―ピリジンジカルボン酸</Sentence>
+                <Sentence>二―オキソプロピルエステル（別名アラニジピン）二％以下を含有する<Ruby>顆<Rt>か</Rt></Ruby>粒剤及び一カプセル中（±）―一・四―ジヒドロ―二・六―ジメチル―四―（二―ニトロフエニル）―三・五―ピリジンジカルボン酸</Sentence>
               </Column>
               <Column Num="4">
                 <Sentence>メチルエステル</Sentence>
@@ -44545,8 +44448,7 @@
             <Subitem3 Num="2">
               <Subitem3Title>（２）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>一・一―ジメチル―三―（アルフアーシクロペンチル）マンデリルオキシピロリジニウムブロミドとして〇・二％以下を含有する<Ruby>顆<Rt>か</Rt>
-</Ruby>粒剤</Sentence>
+                <Sentence>一・一―ジメチル―三―（アルフアーシクロペンチル）マンデリルオキシピロリジニウムブロミドとして〇・二％以下を含有する<Ruby>顆<Rt>か</Rt></Ruby>粒剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="3">
@@ -44864,8 +44766,7 @@
             <Subitem3 Num="2">
               <Subitem3Title>（２）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>臭化トランス―三―（ジ―二―チエニルメチレン）オクタヒドロ―五―メチル―二Ｈ―キノリジニウム二％以下を含有する<Ruby>顆<Rt>か</Rt>
-</Ruby>粒剤</Sentence>
+                <Sentence>臭化トランス―三―（ジ―二―チエニルメチレン）オクタヒドロ―五―メチル―二Ｈ―キノリジニウム二％以下を含有する<Ruby>顆<Rt>か</Rt></Ruby>粒剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
           </Subitem2>
@@ -45338,9 +45239,7 @@
             <Subitem2Title>六十六</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">三―トリクロロメチルチオ―五―（一―エチル）―アミルヒダントイン及びその製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、一錠中三―トリクロロメチルチオ―五―（一―エチル）―アミルヒダントイン三〇ｍｇ以下を含有する<Ruby>膣<Rt>ちつ</Rt>
-</Ruby>剤及び三―トリクロロメチルチオ―五―（一―エチル）―アミルヒダントイン一％以下を含有する散剤たる<Ruby>膣<Rt>ちつ</Rt>
-</Ruby>剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、一錠中三―トリクロロメチルチオ―五―（一―エチル）―アミルヒダントイン三〇ｍｇ以下を含有する<Ruby>膣<Rt>ちつ</Rt></Ruby>剤及び三―トリクロロメチルチオ―五―（一―エチル）―アミルヒダントイン一％以下を含有する散剤たる<Ruby>膣<Rt>ちつ</Rt></Ruby>剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="67">
@@ -45717,8 +45616,7 @@
             <Subitem3 Num="2">
               <Subitem3Title>（２）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>四―（パラ―クロロベンジル）―二―（ヘキサハイドロ―一―メチル―一Ｈ―アゼピン―四―イル）―一（二Ｈ）―フタラジノンとして〇・二％以下を含有する<Ruby>顆<Rt>か</Rt>
-</Ruby>粒剤</Sentence>
+                <Sentence>四―（パラ―クロロベンジル）―二―（ヘキサハイドロ―一―メチル―一Ｈ―アゼピン―四―イル）―一（二Ｈ）―フタラジノンとして〇・二％以下を含有する<Ruby>顆<Rt>か</Rt></Ruby>粒剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
           </Subitem2>
@@ -45743,8 +45641,7 @@
             <Subitem2Title>七十一の十二</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">一―（パラ―クロロベンゾイル）―五―メトキシ―二―メチルインドール―三―酢酸（別名インドメタシン）、その塩類及びそれらの製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、一―（パラ―クロロベンゾイル）―五―メトキシ―二―メチルインドール―三―酢酸一％以下を含有する外用剤及び一―（パラ―クロロベンゾイル）―五―メトキシ―二―メチルインドール―三―酢酸五％以下を含有する硬<Ruby>膏<Rt>こう</Rt>
-</Ruby>剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、一―（パラ―クロロベンゾイル）―五―メトキシ―二―メチルインドール―三―酢酸一％以下を含有する外用剤及び一―（パラ―クロロベンゾイル）―五―メトキシ―二―メチルインドール―三―酢酸五％以下を含有する硬<Ruby>膏<Rt>こう</Rt></Ruby>剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="71_13">
@@ -46043,8 +45940,7 @@
           <Subitem2 Num="75_21">
             <Subitem2Title>七十五の二十一</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence>ヒトイズロン酸―二―スルフアターゼをコードするｃＤＮＡを導入したヒト繊維肉<Ruby>腫<Rt>しゆ</Rt>
-</Ruby>細胞ＨＴ一〇八〇から産生される五二五個のアミノ酸残基からなる糖タンパク質（別名イデユルスルフアーゼ（遺伝子組換え））及びその製剤</Sentence>
+              <Sentence>ヒトイズロン酸―二―スルフアターゼをコードするｃＤＮＡを導入したヒト繊維肉<Ruby>腫<Rt>しゆ</Rt></Ruby>細胞ＨＴ一〇八〇から産生される五二五個のアミノ酸残基からなる糖タンパク質（別名イデユルスルフアーゼ（遺伝子組換え））及びその製剤</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="75_22">
@@ -46096,24 +45992,19 @@
           <Subitem2 Num="75_26">
             <Subitem2Title>七十五の二十六</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence>ヒト胎児肺線維芽細胞に由来するヒトｃＤＮＡの発現によりチヤイニーズハムスター卵巣細胞で産生されたベータ―グルコセレブロシダーゼをシアリダーゼ、ベータ―ガラクトシダーゼ及びヘキソサミニダーゼの酵素処理により糖鎖末端をマンノースにした四九七個のアミノ酸残基からなる糖<Ruby>蛋<Rt>たん</Rt>
-</Ruby>白質（別名イミグルセラーゼ（遺伝子組換え））及びその製剤</Sentence>
+              <Sentence>ヒト胎児肺線維芽細胞に由来するヒトｃＤＮＡの発現によりチヤイニーズハムスター卵巣細胞で産生されたベータ―グルコセレブロシダーゼをシアリダーゼ、ベータ―ガラクトシダーゼ及びヘキソサミニダーゼの酵素処理により糖鎖末端をマンノースにした四九七個のアミノ酸残基からなる糖<Ruby>蛋<Rt>たん</Rt></Ruby>白質（別名イミグルセラーゼ（遺伝子組換え））及びその製剤</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="75_27">
             <Subitem2Title>七十五の二十七</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence>ヒト胎盤から精製されたベータ―グルコセレブロシダーゼをシアリダーゼ、ベータ―ガラクトシダーゼ及びヘキサミニダーゼの酵素処理により糖鎖末端をマンノースにした四九七個のアミノ酸残基からなる糖<Ruby>蛋<Rt>たん</Rt>
-</Ruby>白質（別名アルグルセラーゼ）及びその製剤</Sentence>
+              <Sentence>ヒト胎盤から精製されたベータ―グルコセレブロシダーゼをシアリダーゼ、ベータ―ガラクトシダーゼ及びヘキサミニダーゼの酵素処理により糖鎖末端をマンノースにした四九七個のアミノ酸残基からなる糖<Ruby>蛋<Rt>たん</Rt></Ruby>白質（別名アルグルセラーゼ）及びその製剤</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="75_28">
             <Subitem2Title>七十五の二十八</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence>ヒトＴ細胞で免疫したマウスの<Ruby>脾<Rt>ひ</Rt>
-</Ruby>細胞とマウス骨髄<Ruby>腫<Rt>しゆ</Rt>
-</Ruby>細胞の融合細胞から産生される一四〇六個のアミノ酸残基からなる<Ruby>蛋<Rt>たん</Rt>
-</Ruby>白質（別名ムロモナブ―ＣＤ三）及びその製剤</Sentence>
+              <Sentence>ヒトＴ細胞で免疫したマウスの<Ruby>脾<Rt>ひ</Rt></Ruby>細胞とマウス骨髄<Ruby>腫<Rt>しゆ</Rt></Ruby>細胞の融合細胞から産生される一四〇六個のアミノ酸残基からなる<Ruby>蛋<Rt>たん</Rt></Ruby>白質（別名ムロモナブ―ＣＤ三）及びその製剤</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="76">
@@ -46260,8 +46151,7 @@
           <Subitem2 Num="78_9">
             <Subitem2Title>七十八の九</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence>（Ｅ）―七―〔（一Ｒ・二Ｒ・三Ｒ）―三―ヒドロキシ―二―〔（Ｅ）―（Ｒ）―三―ヒドロキシ―四・四―ジメチル―一―オクテニル〕―五―オキソシクロペンチル〕―二―ヘプテン酸メチル（別名ゲメプロスト）の製剤であつて、一個中（Ｅ）―七―〔（一Ｒ・二Ｒ・三Ｒ）―三―ヒドロキシ―二―〔（Ｅ）―（Ｒ）―三―ヒドロキシ―四・四―ジメチル―一―オクテニル〕―五―オキソシクロペンチル〕―二―ヘプテン酸メチル一ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤</Sentence>
+              <Sentence>（Ｅ）―七―〔（一Ｒ・二Ｒ・三Ｒ）―三―ヒドロキシ―二―〔（Ｅ）―（Ｒ）―三―ヒドロキシ―四・四―ジメチル―一―オクテニル〕―五―オキソシクロペンチル〕―二―ヘプテン酸メチル（別名ゲメプロスト）の製剤であつて、一個中（Ｅ）―七―〔（一Ｒ・二Ｒ・三Ｒ）―三―ヒドロキシ―二―〔（Ｅ）―（Ｒ）―三―ヒドロキシ―四・四―ジメチル―一―オクテニル〕―五―オキソシクロペンチル〕―二―ヘプテン酸メチル一ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt></Ruby>剤</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="78_10">
@@ -46463,8 +46353,7 @@
             <Subitem3 Num="5">
               <Subitem3Title>（５）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>一個中ヒドロキシフエニル―メチルアミノ―エタノールとして五ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤</Sentence>
+                <Sentence>一個中ヒドロキシフエニル―メチルアミノ―エタノールとして五ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt></Ruby>剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
           </Subitem2>
@@ -46560,8 +46449,7 @@
                   <Sentence>一個中四―ヒドロキシ―二―メチル―Ｎ―（二―ピリジル）―二Ｈ―一・二―ベンゾチアジン―三―カルボキサミド</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>一・一―ジオキシド二〇ｍｇ以下を含有する内用剤及び<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤</Sentence>
+                  <Sentence>一・一―ジオキシド二〇ｍｇ以下を含有する内用剤及び<Ruby>坐<Rt>ざ</Rt></Ruby>剤</Sentence>
                 </Column>
               </Subitem3Sentence>
             </Subitem3>
@@ -46870,8 +46758,7 @@
             <Subitem2Title>九十二</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">ブチルアミノベンゾイルジアルキルアミノエタノール、その塩類及びそれらの製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、ブチルアミノベンゾイルジアルキルアミノエタノールとして〇・一％以下を含有する外用剤及び<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、ブチルアミノベンゾイルジアルキルアミノエタノールとして〇・一％以下を含有する外用剤及び<Ruby>坐<Rt>ざ</Rt></Ruby>剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="92_2">
@@ -46884,8 +46771,7 @@
             <Subitem2Title>九十三</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">ブチルオキシシンコニン酸ジエチルエチレンジアミド（別名ジブカイン）、その塩類及びそれらの製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、ブチルオキシシンコニン酸ジエチルエチレンジアミドとして一％以下を含有する外用剤及び<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、ブチルオキシシンコニン酸ジエチルエチレンジアミドとして一％以下を含有する外用剤及び<Ruby>坐<Rt>ざ</Rt></Ruby>剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="93_2">
@@ -46943,8 +46829,7 @@
             <Subitem2Title>九十五</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">四―ブトキシベータ―（一―ピペリジル）―プロピオフエノン（別名ジクロニン）一％以下を含有する外用剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、<Ruby>膏<Rt>こう</Rt>
-</Ruby>剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、<Ruby>膏<Rt>こう</Rt></Ruby>剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="95_2">
@@ -46980,9 +46865,7 @@
             <Subitem3 Num="4">
               <Subitem3Title>（４）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>アミノフイリンの<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤及び<Ruby>膏<Rt>こう</Rt>
-</Ruby>剤</Sentence>
+                <Sentence>アミノフイリンの<Ruby>坐<Rt>ざ</Rt></Ruby>剤及び<Ruby>膏<Rt>こう</Rt></Ruby>剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="5">
@@ -47018,8 +46901,7 @@
             <Subitem3 Num="10">
               <Subitem3Title>（１０）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>カフエインとして二・五％以下を含有する散剤及び<Ruby>顆<Rt>か</Rt>
-</Ruby>粒剤</Sentence>
+                <Sentence>カフエインとして二・五％以下を含有する散剤及び<Ruby>顆<Rt>か</Rt></Ruby>粒剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="11">
@@ -47109,8 +46991,7 @@
             <Subitem3 Num="1">
               <Subitem3Title>（１）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>五―フルオロウラシル五％以下を含有するシロツプ剤、注射剤又は軟<Ruby>膏<Rt>こう</Rt>
-</Ruby>剤</Sentence>
+                <Sentence>五―フルオロウラシル五％以下を含有するシロツプ剤、注射剤又は軟<Ruby>膏<Rt>こう</Rt></Ruby>剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="2">
@@ -47122,8 +47003,7 @@
             <Subitem3 Num="3">
               <Subitem3Title>（３）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>一個中五―フルオロウラシル二〇〇ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤</Sentence>
+                <Sentence>一個中五―フルオロウラシル二〇〇ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt></Ruby>剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
           </Subitem2>
@@ -47180,8 +47060,7 @@
           <Subitem2 Num="96_12">
             <Subitem2Title>九十六の十二</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence>二―（二―フルオロ―四―ビフエニリル）プロピオン酸（別名フルルビプロフエン）の製剤であつて一錠中二―（二―フルオロ―四―ビフエニリル）プロピオン酸四〇ｍｇ以下を含有するもの及び二―（二―フルオロ―四―ビフエニリル）プロピオン酸八％以下を含有する<Ruby>顆<Rt>か</Rt>
-</Ruby>粒剤</Sentence>
+              <Sentence>二―（二―フルオロ―四―ビフエニリル）プロピオン酸（別名フルルビプロフエン）の製剤であつて一錠中二―（二―フルオロ―四―ビフエニリル）プロピオン酸四〇ｍｇ以下を含有するもの及び二―（二―フルオロ―四―ビフエニリル）プロピオン酸八％以下を含有する<Ruby>顆<Rt>か</Rt></Ruby>粒剤</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="96_13">
@@ -47332,8 +47211,7 @@
             <Subitem2Title>九十七</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">プロカイン、その塩類及びそれらの製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、プロカインペニシリン、その製剤並びに塩酸プロカイン〇・二％以下を含有するもの及びプロカインとして五％以下を含有する外用剤及び<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、プロカインペニシリン、その製剤並びに塩酸プロカイン〇・二％以下を含有するもの及びプロカインとして五％以下を含有する外用剤及び<Ruby>坐<Rt>ざ</Rt></Ruby>剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="97_2">
@@ -47581,8 +47459,7 @@
             <Subitem2Title>百七</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">ヘキソキシアミノチオ安息香酸ジエチルアミノエチル又はその塩類を含有する製剤であつてヘキソキシアミノチオ安息香酸ジエチルアミノエチルとして〇・一％以下を含有するもの。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、<Ruby>膏<Rt>こう</Rt>
-</Ruby>剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、<Ruby>膏<Rt>こう</Rt></Ruby>剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="107_2">
@@ -48107,8 +47984,7 @@
             <Subitem2Title>百二十一の五</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">三―メチル―四―オキソ―二―フエニル―四Ｈ―一―ベンゾピラン―八―カルボン酸二―ピペリジノエチルエステル（別名フラボキサート）、その塩類及びそれらの製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、一錠中三―メチル―四―オキソ―二―フエニル―四Ｈ―一―ベンゾピラン―八―カルボン酸二―ピペリジノエチルエステルとして二〇〇ｍｇ以下を含有するもの及び三―メチル―四―オキソ―二―フエニル―四Ｈ―一―ベンゾピラン―八―カルボン酸二―ピペリジノエチルエステルとして二〇％以下を含有する<Ruby>顆<Rt>か</Rt>
-</Ruby>粒剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、一錠中三―メチル―四―オキソ―二―フエニル―四Ｈ―一―ベンゾピラン―八―カルボン酸二―ピペリジノエチルエステルとして二〇〇ｍｇ以下を含有するもの及び三―メチル―四―オキソ―二―フエニル―四Ｈ―一―ベンゾピラン―八―カルボン酸二―ピペリジノエチルエステルとして二〇％以下を含有する<Ruby>顆<Rt>か</Rt></Ruby>粒剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="121_6">
@@ -48176,8 +48052,7 @@
                   <Sentence>殺虫剤であつて一個中（＋）―二―メチル―四―オキソ―三―（二―プロピニル）―二―シクロペンテニル</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>（＋）―シス／トランス―クリサンテマート一八ｍｇ以下を含有する<Ruby>燻<Rt>くん</Rt>
-</Ruby>煙させて用いるもの</Sentence>
+                  <Sentence>（＋）―シス／トランス―クリサンテマート一八ｍｇ以下を含有する<Ruby>燻<Rt>くん</Rt></Ruby>煙させて用いるもの</Sentence>
                 </Column>
               </Subitem3Sentence>
             </Subitem3>
@@ -48229,8 +48104,7 @@
             <Subitem2Title>百二十一の十三</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">Ｎ―メチル―Ｎ―〔（二―シクロヘキシル―二―フエニル―一・三―ジオキソラン―四―イル）メチル〕ピペリジニウムヨージド（別名ヨウ化オキサピウム）及びその製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、一錠又は一カプセル中Ｎ―メチル―Ｎ―〔（二―シクロヘキシル―二―フエニル―一・三―ジオキソラン―四―イル）メチル〕ピペリジニウムヨージド二〇ｍｇ以下を含有するもの及びＮ―メチル―Ｎ―〔（二―シクロヘキシル―二―フエニル―一・三―ジオキソラン―四―イル）メチル〕ピペリジニウムヨージド二％以下を含有する<Ruby>顆<Rt>か</Rt>
-</Ruby>粒剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、一錠又は一カプセル中Ｎ―メチル―Ｎ―〔（二―シクロヘキシル―二―フエニル―一・三―ジオキソラン―四―イル）メチル〕ピペリジニウムヨージド二〇ｍｇ以下を含有するもの及びＮ―メチル―Ｎ―〔（二―シクロヘキシル―二―フエニル―一・三―ジオキソラン―四―イル）メチル〕ピペリジニウムヨージド二％以下を含有する<Ruby>顆<Rt>か</Rt></Ruby>粒剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="121_14">
@@ -48380,8 +48254,7 @@
             <Subitem3 Num="3">
               <Subitem3Title>（３）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>一個中メチルピペリジルベンズヒドリルエーテルとして二ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤</Sentence>
+                <Sentence>一個中メチルピペリジルベンズヒドリルエーテルとして二ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt></Ruby>剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
           </Subitem2>
@@ -48503,8 +48376,7 @@
             <Subitem3 Num="2">
               <Subitem3Title>（２）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>一個中メチル―（プロピルアミノ）―プロピルベンゾエートとして一〇ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤</Sentence>
+                <Sentence>一個中メチル―（プロピルアミノ）―プロピルベンゾエートとして一〇ｍｇ以下を含有する<Ruby>坐<Rt>ざ</Rt></Ruby>剤</Sentence>
               </Subitem3Sentence>
             </Subitem3>
           </Subitem2>
@@ -48679,8 +48551,7 @@
             <Subitem3 Num="2">
               <Subitem3Title>（２）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence>一<Ruby>坐<Rt>ざ</Rt>
-</Ruby>剤中メトキシフエニルメチルアミノプロパンとして〇・一ｇ以下を含有するもの</Sentence>
+                <Sentence>一<Ruby>坐<Rt>ざ</Rt></Ruby>剤中メトキシフエニルメチルアミノプロパンとして〇・一ｇ以下を含有するもの</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Num="3">
@@ -48805,8 +48676,7 @@
             <Subitem2Title>百三十六</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Function="main" Num="1">六塩化ベンゼン及びその製剤。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、六塩化ベンゼン五％以下を含有するもの及び<Ruby>燻<Rt>くん</Rt>
-</Ruby>煙剤を除く。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、六塩化ベンゼン五％以下を含有するもの及び<Ruby>燻<Rt>くん</Rt></Ruby>煙剤を除く。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -48841,8 +48711,7 @@
         <Subitem1 Num="4">
           <Subitem1Title>四</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence>結<Ruby>紮<Rt>さつ</Rt>
-</Ruby>器及び縫合器</Sentence>
+            <Sentence>結<Ruby>紮<Rt>さつ</Rt></Ruby>器及び縫合器</Sentence>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="5">
@@ -48866,24 +48735,19 @@
         <Subitem1 Num="8">
           <Subitem1Title>八</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence>医療用<Ruby>匙<Rt>ひ</Rt>
-</Ruby>
-</Sentence>
+            <Sentence>医療用<Ruby>匙<Rt>ひ</Rt></Ruby></Sentence>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="9">
           <Subitem1Title>九</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence>医療用<Ruby>鈎<Rt>こう</Rt>
-</Ruby>
-</Sentence>
+            <Sentence>医療用<Ruby>鈎<Rt>こう</Rt></Ruby></Sentence>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="10">
           <Subitem1Title>十</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence>医療用<Ruby>鉗<Rt>かん</Rt>
-</Ruby>子</Sentence>
+            <Sentence>医療用<Ruby>鉗<Rt>かん</Rt></Ruby>子</Sentence>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="11">
@@ -48901,8 +48765,7 @@
         <Subitem1 Num="13">
           <Subitem1Title>十三</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence>医療用<Ruby>剥<Rt>はく</Rt>
-</Ruby>離子</Sentence>
+            <Sentence>医療用<Ruby>剥<Rt>はく</Rt></Ruby>離子</Sentence>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="14">
@@ -48926,17 +48789,13 @@
         <Subitem1 Num="17">
           <Subitem1Title>十七</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence>医療用<Ruby>絞<Rt>こう</Rt>
-</Ruby>断器</Sentence>
+            <Sentence>医療用<Ruby>絞<Rt>こう</Rt></Ruby>断器</Sentence>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="18">
           <Subitem1Title>十八</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence>医療用<Ruby>穿<Rt>せん</Rt>
-</Ruby>刺器、<Ruby>穿<Rt>せん</Rt>
-</Ruby>削器及び<Ruby>穿<Rt>せん</Rt>
-</Ruby>孔器</Sentence>
+            <Sentence>医療用<Ruby>穿<Rt>せん</Rt></Ruby>刺器、<Ruby>穿<Rt>せん</Rt></Ruby>削器及び<Ruby>穿<Rt>せん</Rt></Ruby>孔器</Sentence>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="19">
@@ -48960,8 +48819,7 @@
         <Subitem1 Num="22">
           <Subitem1Title>二十二</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence>医療用<Ruby>捲<Rt>けん</Rt>
-</Ruby>綿子</Sentence>
+            <Sentence>医療用<Ruby>捲<Rt>けん</Rt></Ruby>綿子</Sentence>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="23">
@@ -48985,8 +48843,7 @@
         <Subitem1 Num="26">
           <Subitem1Title>二十六</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence>歯科用充<Ruby>塡<Rt>てん</Rt>
-</Ruby>器</Sentence>
+            <Sentence>歯科用充<Ruby>塡<Rt>てん</Rt></Ruby>器</Sentence>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="27">
@@ -49004,8 +48861,7 @@
         <Subitem1 Num="29">
           <Subitem1Title>二十九</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence>印象採得又は<Ruby>咬<Rt>こう</Rt>
-</Ruby>合採得用器具</Sentence>
+            <Sentence>印象採得又は<Ruby>咬<Rt>こう</Rt></Ruby>合採得用器具</Sentence>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="30">
@@ -50280,11 +50136,7 @@
       <Item Num="6">
         <ItemTitle>六</ItemTitle>
         <ItemSentence>
-          <Sentence>医療用ミクロトーム用<Ruby>革<Rt>かわ</Rt>
-</Ruby>
-<Ruby>砥<Rt>と</Rt>
-</Ruby>
-</Sentence>
+          <Sentence>医療用ミクロトーム用<Ruby>革<Rt>かわ</Rt></Ruby><Ruby>砥<Rt>と</Rt></Ruby></Sentence>
         </ItemSentence>
       </Item>
       <Item Num="7">

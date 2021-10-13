@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="100" Year="35">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="100" Year="35" PromulgateMonth="06" PromulgateDay="23">
   <LawNum>昭和三十五年法律第百号</LawNum>
   <LawBody>
-    <LawTitle>裁判官の災害補償に関する法律</LawTitle>
+    <LawTitle Kana="さいばんかんのさいがいほしょうにかんするほうりつ" Abbrev="" AbbrevKana="">裁判官の災害補償に関する法律</LawTitle>
     <MainProvision>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -26,7 +26,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="348069" AmendLawNum="昭和四八年八月一〇日法律第六九号" Extract="true" Id="12b572c8-7c36-4475-8737-f2294a37cc66" Type="Amend">
+    <SupplProvision AmendLawNum="昭和四八年八月一〇日法律第六九号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日等）</ArticleCaption>
@@ -39,7 +39,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="407062" AmendLawNum="平成七年四月五日法律第六二号" Extract="true" Id="59a20048-9cb7-46cc-9edd-fe958ffe61ff" Type="Amend">
+    <SupplProvision AmendLawNum="平成七年四月五日法律第六二号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

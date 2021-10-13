@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="59" Year="16">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="59" Year="16" PromulgateMonth="06" PromulgateDay="09">
   <LawNum>平成十六年法律第五十九号</LawNum>
   <LawBody>
-    <LawTitle>市町村の合併の特例に関する法律</LawTitle>
+    <LawTitle Kana="しちょうそんのがっぺいのとくれいにかんするほうりつ" Abbrev="市町村合併特例法,合併特例法" AbbrevKana="し,が">市町村の合併の特例に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -804,8 +804,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>国は、合併市町村が市町村の合併が行われた日の属する年及びこれに続く五年以内に生じた災害その他の事由に対する国の財政援助に関し市町村の合併により不利益を受ける結果となるような場合においては、公共土木施設災害復旧事業費国庫負担法（昭和二十六年法律第九十七号）、激<Ruby>甚<Rt>じん</Rt>
-</Ruby>災害に対処するための特別の財政援助等に関する法律（昭和三十七年法律第百五十号）その他政令で定める法律及びこれに基づく命令の規定にかかわらず、当該市町村の合併が行われなかったものとして当該合併市町村が不利益とならないように措置しなければならない。</Sentence>
+              <Sentence>国は、合併市町村が市町村の合併が行われた日の属する年及びこれに続く五年以内に生じた災害その他の事由に対する国の財政援助に関し市町村の合併により不利益を受ける結果となるような場合においては、公共土木施設災害復旧事業費国庫負担法（昭和二十六年法律第九十七号）、激<Ruby>甚<Rt>じん</Rt></Ruby>災害に対処するための特別の財政援助等に関する法律（昭和三十七年法律第百五十号）その他政令で定める法律及びこれに基づく命令の規定にかかわらず、当該市町村の合併が行われなかったものとして当該合併市町村が不利益とならないように措置しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1932,8 +1931,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>第四条第一項若しくは第五条第一項の規定による合併協議会の設置の請求者の署名又は第四条第十一項若しくは第五条第十五項の規定による選挙人の投票の請求者の署名に関し、次の各号に掲げる行為をした者は、四年以下の懲役若しくは禁<Ruby>錮<Rt>こ</Rt>
-</Ruby>又は百万円以下の罰金に処する。</Sentence>
+              <Sentence>第四条第一項若しくは第五条第一項の規定による合併協議会の設置の請求者の署名又は第四条第十一項若しくは第五条第十五項の規定による選挙人の投票の請求者の署名に関し、次の各号に掲げる行為をした者は、四年以下の懲役若しくは禁<Ruby>錮<Rt>こ</Rt></Ruby>又は百万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -2685,7 +2683,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律は、平成三十二年四月一日から施行する。</Sentence>
+            <Sentence>この法律は、令和二年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2698,7 +2696,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成三十二年四月一日から施行する。</Sentence>
+            <Sentence Function="main" Num="1">この法律は、令和二年四月一日から施行する。</Sentence>
             <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
@@ -2749,12 +2747,11 @@
         </Paragraph>
       </Article>
       <Article Num="6">
-        <ArticleCaption>（市町村の合併の特例に関する法律附則第二条第一項ただし書の規定によりなおその効力を有するものとされた同法の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>第五条の規定による改正後の市町村の合併の特例に関する法律附則第二条第一項ただし書の規定によりなおその効力を有するものとされた同法第五十一条第六項の規定は、施行日以後に行われる監査の結果に関する報告の決定について適用する。</Sentence>
+            <Sentence>第五条の規定による改正後の市町村の合併の特例に関する法律第五十一条第六項の規定は、施行日以後に行われる監査の結果に関する報告の決定について適用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2835,7 +2832,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和二年三月三一日法律第一一号">
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第一一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2845,88 +2842,6 @@
           <ParagraphSentence>
             <Sentence>この法律は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="2">
-        <ArticleCaption>（国民健康保険法及び地方公共団体の議会の議員及び長の選挙に係る電磁的記録式投票機を用いて行う投票方法等の特例に関する法律の一部改正）</ArticleCaption>
-        <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>次に掲げる法律の規定中「平成三十二年三月三十一日」を「令和十二年三月三十一日」に改める。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence>国民健康保険法（昭和三十三年法律第百九十二号）附則第二十三条</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence>地方公共団体の議会の議員及び長の選挙に係る電磁的記録式投票機を用いて行う投票方法等の特例に関する法律（平成十三年法律第百四十七号）附則第三条</Sentence>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
-      <Article Num="3">
-        <ArticleCaption>（地方公務員法及び地方自治法の一部を改正する法律の一部改正）</ArticleCaption>
-        <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>地方公務員法及び地方自治法の一部を改正する法律（平成二十九年法律第二十九号）の一部を次のように改正する。</Sentence>
-          </ParagraphSentence>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence>附則第一条中「平成三十二年四月一日」を「令和二年四月一日」に改める。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence>附則第十九条（見出しを含む。）中「附則第二条第一項ただし書の規定によりなおその効力を有するものとされた同法」を削る。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-        </Paragraph>
-      </Article>
-      <Article Num="4">
-        <ArticleCaption>（地方自治法等の一部を改正する法律の一部改正）</ArticleCaption>
-        <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>地方自治法等の一部を改正する法律（平成二十九年法律第五十四号）の一部を次のように改正する。</Sentence>
-          </ParagraphSentence>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence>第四条の見出しを削り、同条の前に見出しとして「（市町村の合併の特例に関する法律の一部改正）」を付する。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence>第五条の見出しを削り、同条中「附則第二条第一項ただし書の規定によりなおその効力を有するものとされた同法」を削る。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence>附則第一条中「平成三十二年四月一日」を「令和二年四月一日」に改める。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence>附則第二条第六項中「附則第二条第一項ただし書の規定によりなおその効力を有するものとされた同法」を削る。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence>附則第五条の見出しを削り、同条の前に見出しとして「（市町村の合併の特例に関する法律の一部改正に伴う経過措置）」を付する。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence>附則第六条の見出しを削り、同条中「附則第二条第一項ただし書の規定によりなおその効力を有するものとされた同法」を削る。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
         </Paragraph>
       </Article>
     </SupplProvision>

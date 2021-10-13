@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="59" Year="22">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="59" Year="22" PromulgateMonth="06" PromulgateDay="26">
   <LawNum>昭和二十二年法律第五十九号</LawNum>
   <LawBody>
-    <LawTitle>裁判所法</LawTitle>
+    <LawTitle Kana="さいばんしょほう" Abbrev="" AbbrevKana="">裁判所法</LawTitle>
     <TOC>
       <TOCLabel>裁判所法目次</TOCLabel>
       <TOCPart Num="1">
@@ -82,8 +82,8 @@
               <Sentence>下級裁判所は、高等裁判所、地方裁判所、家庭裁判所及び簡易裁判所とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>下級裁判所の設立、廃止及び管轄区域は、別に法律でこれを定める。</Sentence>
             </ParagraphSentence>
@@ -98,14 +98,14 @@
               <Sentence>裁判所は、日本国憲法に特別の定のある場合を除いて一切の法律上の争訟を裁判し、その他法律において特に定める権限を有する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の規定は、行政機関が前審として審判することを妨げない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>この法律の規定は、刑事について、別に法律で陪審の制度を設けることを妨げない。</Sentence>
             </ParagraphSentence>
@@ -130,14 +130,14 @@
               <Sentence>最高裁判所の裁判官は、その長たる裁判官を最高裁判所長官とし、その他の裁判官を最高裁判所判事とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>下級裁判所の裁判官は、高等裁判所の長たる裁判官を高等裁判所長官とし、その他の裁判官を判事、判事補及び簡易裁判所判事とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>最高裁判所判事の員数は、十四人とし、下級裁判所の裁判官の員数は、別に法律でこれを定める。</Sentence>
             </ParagraphSentence>
@@ -197,21 +197,21 @@
               <Sentence>最高裁判所は、大法廷又は小法廷で審理及び裁判をする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">大法廷は、全員の裁判官の、小法廷は、最高裁判所の定める員数の裁判官の合議体とする。</Sentence>
               <Sentence Function="proviso" Num="2">但し、小法廷の裁判官の員数は、三人以上でなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>各合議体の裁判官のうち一人を裁判長とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>各合議体では、最高裁判所の定める員数の裁判官が出席すれば、審理及び裁判をすることができる。</Sentence>
             </ParagraphSentence>
@@ -266,8 +266,8 @@
               <Sentence>最高裁判所が司法行政事務を行うのは、裁判官会議の議によるものとし、最高裁判所長官が、これを総括する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>裁判官会議は、全員の裁判官でこれを組織し、最高裁判所長官が、その議長となる。</Sentence>
             </ParagraphSentence>
@@ -382,8 +382,8 @@
                 <Sentence Function="proviso" Num="2">但し、法廷ですべき審理及び裁判を除いて、その他の事項につき他の法律に特別の定があるときは、その定に従う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1">前項の合議体の裁判官の員数は、三人とし、そのうち一人を裁判長とする。</Sentence>
                 <Sentence Function="proviso" Num="2">但し、第十六条第四号の訴訟については、裁判官の員数は、五人とする。</Sentence>
@@ -399,8 +399,8 @@
                 <Sentence>高等裁判所は、裁判事務の取扱上さし迫つた必要があるときは、その管轄区域内の地方裁判所又は家庭裁判所の判事にその高等裁判所の判事の職務を行わせることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>前項の規定により当該高等裁判所のさし迫つた必要をみたすことができない特別の事情があるときは、最高裁判所は、他の高等裁判所又はその管轄区域内の地方裁判所若しくは家庭裁判所の判事に当該高等裁判所の判事の職務を行わせることができる。</Sentence>
               </ParagraphSentence>
@@ -415,8 +415,8 @@
                 <Sentence>各高等裁判所が司法行政事務を行うのは、裁判官会議の議によるものとし、各高等裁判所長官が、これを総括する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>各高等裁判所の裁判官会議は、その全員の裁判官でこれを組織し、各高等裁判所長官が、その議長となる。</Sentence>
               </ParagraphSentence>
@@ -441,8 +441,8 @@
                 <Sentence>最高裁判所は、高等裁判所の事務の一部を取り扱わせるため、その高等裁判所の管轄区域内に、高等裁判所の支部を設けることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>最高裁判所は、高等裁判所の支部に勤務する裁判官を定める。</Sentence>
               </ParagraphSentence>
@@ -514,8 +514,8 @@
                 <Sentence>地方裁判所は、第二項に規定する場合を除いて、一人の裁判官でその事件を取り扱う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1">次に掲げる事件は、裁判官の合議体でこれを取り扱う。</Sentence>
                 <Sentence Function="proviso" Num="2">ただし、法廷ですべき審理及び裁判を除いて、その他の事項につき他の法律に特別の定めがあるときは、その定めに従う。</Sentence>
@@ -545,8 +545,8 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>前項の合議体の裁判官の員数は、三人とし、そのうち一人を裁判長とする。</Sentence>
               </ParagraphSentence>
@@ -561,8 +561,8 @@
                 <Sentence>判事補は、他の法律に特別の定のある場合を除いて、一人で裁判をすることができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>判事補は、同時に二人以上合議体に加わり、又は裁判長となることができない。</Sentence>
               </ParagraphSentence>
@@ -577,8 +577,8 @@
                 <Sentence>地方裁判所において裁判事務の取扱上さし迫つた必要があるときは、その所在地を管轄する高等裁判所は、その管轄区域内の他の地方裁判所、家庭裁判所又はその高等裁判所の裁判官に当該地方裁判所の裁判官の職務を行わせることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>前項の規定により当該地方裁判所のさし迫つた必要をみたすことができない特別の事情があるときは、最高裁判所は、その地方裁判所の所在地を管轄する高等裁判所以外の高等裁判所の管轄区域内の地方裁判所、家庭裁判所又はその高等裁判所の裁判官に当該地方裁判所の裁判官の職務を行わせることができる。</Sentence>
               </ParagraphSentence>
@@ -593,14 +593,14 @@
                 <Sentence>最高裁判所は、各地方裁判所の判事のうち一人に各地方裁判所長を命ずる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>各地方裁判所が司法行政事務を行うのは、裁判官会議の議によるものとし、各地方裁判所長が、これを総括する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>各地方裁判所の裁判官会議は、その全員の判事でこれを組織し、各地方裁判所長が、その議長となる。</Sentence>
               </ParagraphSentence>
@@ -625,8 +625,8 @@
                 <Sentence>最高裁判所は、地方裁判所の事務の一部を取り扱わせるため、その地方裁判所の管轄区域内に、地方裁判所の支部又は出張所を設けることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>最高裁判所は、地方裁判所の支部に勤務する裁判官を定める。</Sentence>
               </ParagraphSentence>
@@ -672,8 +672,8 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>家庭裁判所は、この法律に定めるものの外、他の法律において特に定める権限を有する。</Sentence>
               </ParagraphSentence>
@@ -688,8 +688,8 @@
                 <Sentence>家庭裁判所は、審判又は裁判を行うときは、次項に規定する場合を除いて、一人の裁判官でその事件を取り扱う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1">次に掲げる事件は、裁判官の合議体でこれを取り扱う。</Sentence>
                 <Sentence Function="proviso" Num="2">ただし、審判を終局させる決定並びに法廷ですべき審理及び裁判を除いて、その他の事項につき他の法律に特別の定めがあるときは、その定めに従う。</Sentence>
@@ -707,8 +707,8 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>前項の合議体の裁判官の員数は、三人とし、そのうち一人を裁判長とする。</Sentence>
               </ParagraphSentence>
@@ -758,15 +758,15 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1">簡易裁判所は、禁錮以上の刑を科することができない。</Sentence>
                 <Sentence Function="proviso" Num="2">ただし、刑法第百三十条の罪若しくはその未遂罪、同法第百八十六条の罪、同法第二百三十五条の罪若しくはその未遂罪、同法第二百五十二条、第二百五十四条若しくは第二百五十六条の罪、古物営業法（昭和二十四年法律第百八号）第三十一条から第三十三条までの罪若しくは質屋営業法（昭和二十五年法律第百五十八号）第三十条から第三十二条までの罪に係る事件又はこれらの罪と他の罪とにつき刑法第五十四条第一項の規定によりこれらの罪の刑をもつて処断すべき事件においては、三年以下の懲役を科することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>簡易裁判所は、前項の制限を超える刑を科するのを相当と認めるときは、訴訟法の定めるところにより事件を地方裁判所に移さなければならない。</Sentence>
               </ParagraphSentence>
@@ -801,8 +801,8 @@
                 <Sentence>簡易裁判所において裁判事務の取扱上さし迫つた必要があるときは、その所在地を管轄する地方裁判所は、その管轄区域内の他の簡易裁判所の裁判官又はその地方裁判所の判事に当該簡易裁判所の裁判官の職務を行わせることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>前項の規定により当該簡易裁判所のさし迫つた必要をみたすことができない特別の事情があるときは、その簡易裁判所の所在地を管轄する高等裁判所は、同項に定める裁判官以外のその管轄区域内の簡易裁判所の裁判官又は地方裁判所の判事に当該簡易裁判所の裁判官の職務を行わせることができる。</Sentence>
               </ParagraphSentence>
@@ -843,20 +843,20 @@
                 <Sentence>最高裁判所長官は、内閣の指名に基いて、天皇がこれを任命する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>最高裁判所判事は、内閣でこれを任命する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>最高裁判所判事の任免は、天皇がこれを認証する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>○４</ParagraphNum>
+            <Paragraph Num="4" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>最高裁判所長官及び最高裁判所判事の任命は、国民の審査に関する法律の定めるところにより国民の審査に付される。</Sentence>
               </ParagraphSentence>
@@ -871,14 +871,14 @@
                 <Sentence>高等裁判所長官、判事、判事補及び簡易裁判所判事は、最高裁判所の指名した者の名簿によつて、内閣でこれを任命する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>高等裁判所長官の任免は、天皇がこれを認証する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>第一項の裁判官は、その官に任命された日から十年を経過したときは、その任期を終えるものとし、再任されることができる。</Sentence>
               </ParagraphSentence>
@@ -929,20 +929,20 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>五年以上前項第一号及び第二号に掲げる職の一若しくは二に在つた者又は十年以上同項第一号から第六号までに掲げる職の一若しくは二以上に在つた者が判事補、裁判所調査官、最高裁判所事務総長、裁判所事務官、司法研修所教官、裁判所職員総合研修所教官、法務省の事務次官、法務事務官又は法務教官の職に在つたときは、その在職は、同項の規定の適用については、これを同項第三号から第六号までに掲げる職の在職とみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>前二項の規定の適用については、第一項第三号乃至第五号及び前項に掲げる職に在つた年数は、司法修習生の修習を終えた後の年数に限り、これを当該職に在つた年数とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>○４</ParagraphNum>
+            <Paragraph Num="4" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>三年以上第一項第六号の大学の法律学の教授又は准教授の職に在つた者が簡易裁判所判事、検察官又は弁護士の職に就いた場合においては、その簡易裁判所判事、検察官（副検事を除く。）又は弁護士の職に在つた年数については、前項の規定は、これを適用しない。</Sentence>
               </ParagraphSentence>
@@ -993,20 +993,20 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>前項の規定の適用については、三年以上同項各号に掲げる職の一又は二以上に在つた者が裁判所事務官、法務事務官又は法務教官の職に在つたときは、その在職は、これを同項各号に掲げる職の在職とみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>前二項の規定の適用については、第一項第二号乃至第五号及び前項に掲げる職に在つた年数は、司法修習生の修習を終えた後の年数に限り、これを当該職に在つた年数とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>○４</ParagraphNum>
+            <Paragraph Num="4" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1">三年以上前条第一項第六号の大学の法律学の教授又は准教授の職に在つた者が簡易裁判所判事、検察官又は弁護士の職に就いた場合においては、その簡易裁判所判事、検察官（副検事を除く。）又は弁護士の職に在つた年数については、前項の規定は、これを適用しない。</Sentence>
                 <Sentence Num="2">司法修習生の修習を終えないで簡易裁判所判事又は検察官に任命された者の第六十六条の試験に合格した後の簡易裁判所判事、検察官（副検事を除く。）又は弁護士の職に在つた年数についても、同様とする。</Sentence>
@@ -1062,14 +1062,14 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>前項の規定の適用については、同項第二号乃至第四号に掲げる職に在つた年数は、司法修習生の修習を終えた後の年数に限り、これを当該職に在つた年数とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>司法修習生の修習を終えないで検察官に任命された者の第六十六条の試験に合格した後の検察官（副検事を除く。）又は弁護士の職に在つた年数については、前項の規定は、これを適用しない。</Sentence>
               </ParagraphSentence>
@@ -1084,8 +1084,8 @@
                 <Sentence>多年司法事務にたずさわり、その他簡易裁判所判事の職務に必要な学識経験のある者は、前条第一項に掲げる者に該当しないときでも、簡易裁判所判事選考委員会の選考を経て、簡易裁判所判事に任命されることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>簡易裁判所判事選考委員会に関する規程は、最高裁判所がこれを定める。</Sentence>
               </ParagraphSentence>
@@ -1203,8 +1203,8 @@
                 <Sentence>最高裁判所に最高裁判所事務総長一人を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>最高裁判所事務総長は、最高裁判所長官の監督を受けて、最高裁判所の事務総局の事務を掌理し、事務総局の職員を指揮監督する。</Sentence>
               </ParagraphSentence>
@@ -1219,8 +1219,8 @@
                 <Sentence>最高裁判所に最高裁判所長官秘書官一人及び最高裁判所判事秘書官十四人を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>最高裁判所長官秘書官は、最高裁判所長官の、最高裁判所判事秘書官は、最高裁判所判事の命を受けて、機密に関する事務を掌る。</Sentence>
               </ParagraphSentence>
@@ -1235,8 +1235,8 @@
                 <Sentence>最高裁判所に司法研修所教官を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>司法研修所教官は、上司の指揮を受けて、司法研修所における裁判官の研究及び修養並びに司法修習生の修習の指導をつかさどる。</Sentence>
               </ParagraphSentence>
@@ -1251,8 +1251,8 @@
                 <Sentence>最高裁判所に司法研修所長を置き、司法研修所教官の中から、最高裁判所が、これを補する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>司法研修所長は、最高裁判所長官の監督を受けて、司法研修所の事務を掌理し、司法研修所の職員を指揮監督する。</Sentence>
               </ParagraphSentence>
@@ -1267,8 +1267,8 @@
                 <Sentence>最高裁判所に裁判所職員総合研修所教官を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>裁判所職員総合研修所教官は、上司の指揮を受けて、裁判所職員総合研修所における裁判所書記官、家庭裁判所調査官その他の裁判官以外の裁判所の職員の研究及び修養の指導をつかさどる。</Sentence>
               </ParagraphSentence>
@@ -1283,8 +1283,8 @@
                 <Sentence>最高裁判所に裁判所職員総合研修所長を置き、裁判所職員総合研修所教官の中から、最高裁判所が、これを補する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>裁判所職員総合研修所長は、最高裁判所長官の監督を受けて、裁判所職員総合研修所の事務を掌理し、裁判所職員総合研修所の職員を指揮監督する。</Sentence>
               </ParagraphSentence>
@@ -1299,14 +1299,14 @@
                 <Sentence>最高裁判所に最高裁判所図書館長一人を置き、裁判所の職員の中からこれを命ずる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>最高裁判所図書館長は、最高裁判所長官の監督を受けて最高裁判所図書館の事務を掌理し、最高裁判所図書館の職員を指揮監督する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>前二項の規定は、国立国会図書館法の規定の適用を妨げない。</Sentence>
               </ParagraphSentence>
@@ -1321,8 +1321,8 @@
                 <Sentence>各高等裁判所に高等裁判所長官秘書官各一人を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>高等裁判所長官秘書官は、高等裁判所長官の命を受けて、機密に関する事務をつかさどる。</Sentence>
               </ParagraphSentence>
@@ -1337,8 +1337,8 @@
                 <Sentence>最高裁判所、各高等裁判所及び各地方裁判所に裁判所調査官を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>裁判所調査官は、裁判官の命を受けて、事件（地方裁判所においては、知的財産又は租税に関する事件に限る。）の審理及び裁判に関して必要な調査その他他の法律において定める事務をつかさどる。</Sentence>
               </ParagraphSentence>
@@ -1353,8 +1353,8 @@
                 <Sentence>各裁判所に裁判所事務官を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>裁判所事務官は、上司の命を受けて、裁判所の事務を掌る。</Sentence>
               </ParagraphSentence>
@@ -1369,8 +1369,8 @@
                 <Sentence>各高等裁判所、各地方裁判所及び各家庭裁判所に事務局長を置き、裁判所事務官の中から、最高裁判所が、これを補する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>各高等裁判所の事務局長は、各高等裁判所長官の、各地方裁判所の事務局長は、各地方裁判所長の、各家庭裁判所の事務局長は、各家庭裁判所長の監督を受けて、事務局の事務を掌理し、事務局の職員を指揮監督する。</Sentence>
               </ParagraphSentence>
@@ -1385,26 +1385,26 @@
                 <Sentence>各裁判所に裁判所書記官を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>裁判所書記官は、裁判所の事件に関する記録その他の書類の作成及び保管その他他の法律において定める事務を掌る。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>裁判所書記官は、前項の事務を掌る外、裁判所の事件に関し、裁判官の命を受けて、裁判官の行なう法令及び判例の調査その他必要な事項の調査を補助する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>○４</ParagraphNum>
+            <Paragraph Num="4" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>裁判所書記官は、その職務を行うについては、裁判官の命令に従う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="5">
-              <ParagraphNum>○５</ParagraphNum>
+            <Paragraph Num="5" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>裁判所書記官は、口述の書取その他書類の作成又は変更に関して裁判官の命令を受けた場合において、その作成又は変更を正当でないと認めるときは、自己の意見を書き添えることができる。</Sentence>
               </ParagraphSentence>
@@ -1419,14 +1419,14 @@
                 <Sentence>各裁判所に裁判所速記官を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>裁判所速記官は、裁判所の事件に関する速記及びこれに関する事務を掌る。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>裁判所速記官は、その職務を行うについては、裁判官の命令に従う。</Sentence>
               </ParagraphSentence>
@@ -1441,8 +1441,8 @@
                 <Sentence>各裁判所に裁判所技官を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>裁判所技官は、上司の命を受けて、技術を掌る。</Sentence>
               </ParagraphSentence>
@@ -1457,20 +1457,20 @@
                 <Sentence>各家庭裁判所及び各高等裁判所に家庭裁判所調査官を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>家庭裁判所調査官は、各家庭裁判所においては、第三十一条の三第一項第一号の審判及び調停、同項第二号の裁判（人事訴訟法第三十二条第一項の附帯処分についての裁判及び同条第三項の親権者の指定についての裁判（以下この項において「附帯処分等の裁判」という。）に限る。）並びに第三十一条の三第一項第三号の審判に必要な調査その他他の法律において定める事務を掌り、各高等裁判所においては、同項第一号の審判に係る抗告審の審理及び附帯処分等の裁判に係る控訴審の審理に必要な調査その他他の法律において定める事務を掌る。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>最高裁判所は、家庭裁判所調査官の中から、首席家庭裁判所調査官を命じ、調査事務の監督、関係行政機関その他の機関との連絡調整等の事務を掌らせることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>○４</ParagraphNum>
+            <Paragraph Num="4" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>家庭裁判所調査官は、その職務を行うについては、裁判官の命令に従う。</Sentence>
               </ParagraphSentence>
@@ -1485,8 +1485,8 @@
                 <Sentence>各家庭裁判所に家庭裁判所調査官補を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>家庭裁判所調査官補は、上司の命を受けて、家庭裁判所調査官の事務を補助する。</Sentence>
               </ParagraphSentence>
@@ -1501,20 +1501,20 @@
                 <Sentence>各地方裁判所に執行官を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>執行官に任命されるのに必要な資格に関する事項は、最高裁判所がこれを定める。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>執行官は、他の法律の定めるところにより裁判の執行、裁判所の発する文書の送達その他の事務を行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>○４</ParagraphNum>
+            <Paragraph Num="4" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>執行官は、手数料を受けるものとし、その手数料が一定の額に達しないときは、国庫から補助金を受ける。</Sentence>
               </ParagraphSentence>
@@ -1529,14 +1529,14 @@
                 <Sentence>各裁判所に廷吏を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>廷吏は、法廷において裁判官の命ずる事務その他最高裁判所の定める事務を取り扱う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>各裁判所は、執行官を用いることができないときは、その裁判所の所在地で書類を送達するために、廷吏を用いることができる。</Sentence>
               </ParagraphSentence>
@@ -1584,8 +1584,8 @@
                 <Sentence>司法修習生は、司法試験に合格した者（司法試験法（昭和二十四年法律第百四十号）第四条第二項の規定により司法試験を受け、これに合格した者にあつては、その合格の発表の日の属する年の四月一日以降に法科大学院（学校教育法（昭和二十二年法律第二十六号）第九十九条第二項に規定する専門職大学院であつて、法曹に必要な学識及び能力を培うことを目的とするものをいう。）の課程を修了したものに限る。）の中から、最高裁判所がこれを命ずる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>前項の試験に関する事項は、別に法律でこれを定める。</Sentence>
               </ParagraphSentence>
@@ -1600,14 +1600,14 @@
                 <Sentence>司法修習生は、少なくとも一年間修習をした後試験に合格したときは、司法修習生の修習を終える。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>司法修習生は、その修習期間中、最高裁判所の定めるところにより、その修習に専念しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>前項に定めるもののほか、第一項の修習及び試験に関する事項は、最高裁判所がこれを定める。</Sentence>
               </ParagraphSentence>
@@ -1622,32 +1622,32 @@
                 <Sentence>司法修習生には、その修習のため通常必要な期間として最高裁判所が定める期間、修習給付金を支給する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>修習給付金の種類は、基本給付金、住居給付金及び移転給付金とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>基本給付金の額は、司法修習生がその修習期間中の生活を維持するために必要な費用であつて、その修習に専念しなければならないことその他の司法修習生の置かれている状況を勘案して最高裁判所が定める額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>○４</ParagraphNum>
+            <Paragraph Num="4" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>住居給付金は、司法修習生が自ら居住するため住宅（貸間を含む。以下この項において同じ。）を借り受け、家賃（使用料を含む。以下この項において同じ。）を支払つている場合（配偶者が当該住宅を所有する場合その他の最高裁判所が定める場合を除く。）に支給することとし、その額は、家賃として通常必要な費用の範囲内において最高裁判所が定める額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="5">
-              <ParagraphNum>○５</ParagraphNum>
+            <Paragraph Num="5" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>移転給付金は、司法修習生がその修習に伴い住所又は居所を移転することが必要と認められる場合にその移転について支給することとし、その額は、路程に応じて最高裁判所が定める額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="6">
-              <ParagraphNum>○６</ParagraphNum>
+            <Paragraph Num="6" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>前各項に定めるもののほか、修習給付金の支給に関し必要な事項は、最高裁判所がこれを定める。</Sentence>
               </ParagraphSentence>
@@ -1662,27 +1662,27 @@
                 <Sentence>最高裁判所は、司法修習生の修習のため通常必要な期間として最高裁判所が定める期間、司法修習生に対し、その申請により、無利息で、修習専念資金（司法修習生がその修習に専念することを確保するための資金であつて、修習給付金の支給を受けてもなお必要なものをいう。以下この条において同じ。）を貸与するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>修習専念資金の額及び返還の期限は、最高裁判所の定めるところによる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1">最高裁判所は、修習専念資金の貸与を受けた者が災害、傷病その他やむを得ない理由により修習専念資金を返還することが困難となつたとき、又は修習専念資金の貸与を受けた者について修習専念資金を返還することが経済的に困難である事由として最高裁判所の定める事由があるときは、その返還の期限を猶予することができる。</Sentence>
                 <Sentence Num="2">この場合においては、国の債権の管理等に関する法律（昭和三十一年法律第百十四号）第二十六条の規定は、適用しない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>○４</ParagraphNum>
+            <Paragraph Num="4" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>最高裁判所は、修習専念資金の貸与を受けた者が死亡又は精神若しくは身体の障害により修習専念資金を返還することができなくなつたときは、その修習専念資金の全部又は一部の返還を免除することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="5">
-              <ParagraphNum>○５</ParagraphNum>
+            <Paragraph Num="5" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>前各項に定めるもののほか、修習専念資金の貸与及び返還に関し必要な事項は、最高裁判所がこれを定める。</Sentence>
               </ParagraphSentence>
@@ -1697,8 +1697,8 @@
                 <Sentence>最高裁判所は、司法修習生に成績不良、心身の故障その他のその修習を継続することが困難である事由として最高裁判所の定める事由があると認めるときは、最高裁判所の定めるところにより、その司法修習生を罷免することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>最高裁判所は、司法修習生に品位を辱める行状その他の司法修習生たるに適しない非行に当たる事由として最高裁判所の定める事由があると認めるときは、最高裁判所の定めるところにより、その司法修習生を罷免し、その修習の停止を命じ、又は戒告することができる。</Sentence>
               </ParagraphSentence>
@@ -1719,8 +1719,8 @@
                 <Sentence>法廷は、裁判所又は支部でこれを開く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>最高裁判所は、必要と認めるときは、前項の規定にかかわらず、他の場所で法廷を開き、又はその指定する他の場所で下級裁判所に法廷を開かせることができる。</Sentence>
               </ParagraphSentence>
@@ -1746,8 +1746,8 @@
                 <Sentence>法廷における秩序の維持は、裁判長又は開廷をした一人の裁判官がこれを行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>裁判長又は開廷をした一人の裁判官は、法廷における裁判所の職務の執行を妨げ、又は不当な行状をする者に対し、退廷を命じ、その他法廷における秩序を維持するのに必要な事項を命じ、又は処置を執ることができる。</Sentence>
               </ParagraphSentence>
@@ -1763,8 +1763,8 @@
                 <Sentence Num="2">法廷における秩序を維持するため特に必要があると認めるときは、開廷前においてもその要求をすることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>前項の要求により派出された警察官は、法廷における秩序の維持につき、裁判長又は一人の裁判官の指揮を受ける。</Sentence>
               </ParagraphSentence>
@@ -1779,14 +1779,14 @@
                 <Sentence>裁判所が他の法律の定めるところにより法廷外の場所で職務を行う場合において、裁判長又は一人の裁判官は、裁判所の職務の執行を妨げる者に対し、退去を命じ、その他必要な事項を命じ、又は処置を執ることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>前条の規定は、前項の場合にこれを準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Num="3" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>前二項に規定する裁判長の権限は、裁判官が他の法律の定めるところにより法廷外の場所で職務を行う場合において、その裁判官もこれを有する。</Sentence>
               </ParagraphSentence>
@@ -1828,8 +1828,8 @@
                 <Sentence Function="proviso" Num="2">但し、司法修習生の傍聴を許すことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1">評議は、裁判長が、これを開き、且つこれを整理する。</Sentence>
                 <Sentence Num="2">その評議の経過並びに各裁判官の意見及びその多少の数については、この法律に特別の定がない限り、秘密を守らなければならない。</Sentence>
@@ -1855,8 +1855,8 @@
                 <Sentence>裁判は、最高裁判所の裁判について最高裁判所が特別の定をした場合を除いて、過半数の意見による。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Num="2" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>過半数の意見によつて裁判をする場合において、左の事項について意見が三説以上に分れ、その説が各々過半数にならないときは、裁判は、左の意見による。</Sentence>
               </ParagraphSentence>
@@ -1974,8 +1974,8 @@
               <Sentence>裁判所の経費は、独立して、国の予算にこれを計上しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の経費中には、予備金を設けることを要する。</Sentence>
             </ParagraphSentence>
@@ -1985,26 +1985,26 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Num="1">
-        <ParagraphNum>○１</ParagraphNum>
+      <Paragraph Num="1" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>この法律は、日本国憲法施行の日から、これを施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Num="2">
-        <ParagraphNum>○２</ParagraphNum>
+      <Paragraph Num="2" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>裁判所構成法、裁判所構成法施行条例、判事懲戒法及び行政裁判法は、これを廃止する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Num="3">
-        <ParagraphNum>○３</ParagraphNum>
+      <Paragraph Num="3" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>最高裁判所は、当分の間、特に必要があるときは、裁判官又は検察官をもつて司法研修所教官又は裁判所職員総合研修所教官に、裁判官をもつて裁判所調査官にそれぞれ充てることができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="322126" AmendLawNum="昭和二二年一〇月二九日法律第一二六号" Id="c8ee645c-1894-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二二年一〇月二九日法律第一二六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -2013,7 +2013,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="322195" AmendLawNum="昭和二二年一二月一七日法律第一九五号" Id="6827918c-1887-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二二年一二月一七日法律第一九五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="17">
         <ArticleTitle>第十七条</ArticleTitle>
@@ -2034,7 +2034,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="323001" AmendLawNum="昭和二三年一月一日法律第一号" Id="c91eb026-1894-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二三年一月一日法律第一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -2043,7 +2043,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="323146" AmendLawNum="昭和二三年七月一二日法律第一四六号" Extract="true" Id="72680910-47dd-11e5-9585-27dd0163d56d">
+    <SupplProvision AmendLawNum="昭和二三年七月一二日法律第一四六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="4">
         <ArticleTitle>第四条</ArticleTitle>
@@ -2055,7 +2055,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="323260" AmendLawNum="昭和二三年一二月二一日法律第二六〇号" Id="808b8324-188b-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二三年一二月二一日法律第二六〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="10">
         <ArticleTitle>第十条</ArticleTitle>
@@ -2180,7 +2180,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="324136" AmendLawNum="昭和二四年五月三一日法律第一三六号" Extract="true" Id="c96736ca-1894-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二四年五月三一日法律第一三六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -2195,7 +2195,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="324177" AmendLawNum="昭和二四年六月一日法律第一七七号" Id="c97f5886-1894-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二四年六月一日法律第一七七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -2216,7 +2216,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="325096" AmendLawNum="昭和二五年四月一四日法律第九六号" Id="44cd2908-1892-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二五年四月一四日法律第九六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -2231,7 +2231,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="325287" AmendLawNum="昭和二五年一二月二〇日法律第二八七号" Id="c9afb468-1894-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二五年一二月二〇日法律第二八七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -2246,7 +2246,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="326059" AmendLawNum="昭和二六年三月三〇日法律第五九号" Id="68bdd4f8-1887-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二六年三月三〇日法律第五九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -2261,7 +2261,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="326298" AmendLawNum="昭和二六年一二月六日法律第二九八号" Extract="true" Id="0ece2e0c-d3c5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二六年一二月六日法律第二九八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -2270,7 +2270,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="327268" AmendLawNum="昭和二七年七月三一日法律第二六八号" Extract="true" Id="47c4106c-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二七年七月三一日法律第二六八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -2291,7 +2291,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="329126" AmendLawNum="昭和二九年五月二七日法律第一二六号" Extract="true" Id="ca10b39e-1894-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二九年五月二七日法律第一二六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -2331,7 +2331,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="329163" AmendLawNum="昭和二九年六月八日法律第一六三号" Extract="true" Id="043b1cc7-b4ab-4fd0-b0c8-84475438df14">
+    <SupplProvision AmendLawNum="昭和二九年六月八日法律第一六三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -2341,7 +2341,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="332091" AmendLawNum="昭和三二年五月一日法律第九一号" Id="ca40ede8-1894-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三二年五月一日法律第九一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -2350,7 +2350,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="335104" AmendLawNum="昭和三五年六月二五日法律第一〇四号" Id="ca5916b6-1894-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三五年六月二五日法律第一〇四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -2359,7 +2359,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="337140" AmendLawNum="昭和三七年五月一六日法律第一四〇号" Extract="true" Id="837815c8-d3c6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三七年五月一六日法律第一四〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -2368,7 +2368,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="339114" AmendLawNum="昭和三九年六月二四日法律第一一四号" Extract="true" Id="c44aca22-1889-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三九年六月二四日法律第一一四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -2378,7 +2378,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="340027" AmendLawNum="昭和四〇年三月三一日法律第二七号" Extract="true" Id="caa17d8e-1894-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四〇年三月三一日法律第二七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -2389,7 +2389,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="341023" AmendLawNum="昭和四一年三月三一日法律第二三号" Id="cab9afda-1894-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四一年三月三一日法律第二三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -2398,7 +2398,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="341111" AmendLawNum="昭和四一年七月一日法律第一一一号" Extract="true" Id="41e9de12-47dd-11e5-8a69-377e55ccd1bf">
+    <SupplProvision AmendLawNum="昭和四一年七月一日法律第一一一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2411,7 +2411,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="345067" AmendLawNum="昭和四五年五月一八日法律第六七号" Extract="true" Id="caea0504-1894-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四五年五月一八日法律第六七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -2428,7 +2428,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="353082" AmendLawNum="昭和五三年六月二三日法律第八二号" Extract="true" Id="3e39f822-188e-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五三年六月二三日法律第八二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -2438,7 +2438,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="357082" AmendLawNum="昭和五七年八月二四日法律第八二号" Extract="true" Id="cb1a4534-1894-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五七年八月二四日法律第八二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -2455,7 +2455,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="407066" AmendLawNum="平成七年四月一九日法律第六六号" Extract="true" Id="3606f72e-1887-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成七年四月一九日法律第六六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2468,7 +2468,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="410050" AmendLawNum="平成一〇年五月六日法律第五〇号" Id="cb4a83fc-1894-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一〇年五月六日法律第五〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -2485,7 +2485,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412142" AmendLawNum="平成一二年一二月六日法律第一四二号" Extract="true" Id="82493256-188b-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年一二月六日法律第一四二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2508,7 +2508,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414138" AmendLawNum="平成一四年一二月六日法律第一三八号" Extract="true" Id="7e0d67f8-188a-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年一二月六日法律第一三八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2555,7 +2555,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415109" AmendLawNum="平成一五年七月一六日法律第一〇九号" Extract="true" Id="4fe92144-47dd-11e5-8ed5-bb06ca60d2e2">
+    <SupplProvision AmendLawNum="平成一五年七月一六日法律第一〇九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2578,7 +2578,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415128" AmendLawNum="平成一五年七月二五日法律第一二八号" Extract="true" Id="476b6f58-1892-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年七月二五日法律第一二八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2607,7 +2607,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416008" AmendLawNum="平成一六年三月三一日法律第八号" Extract="true" Id="4782e034-1892-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年三月三一日法律第八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2630,7 +2630,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416120" AmendLawNum="平成一六年六月一八日法律第一二〇号" Extract="true" Id="05f30dd0-1890-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月一八日法律第一二〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2654,7 +2654,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416163" AmendLawNum="平成一六年一二月一〇日法律第一六三号" Extract="true" Id="cbf39af0-1894-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年一二月一〇日法律第一六三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -2671,7 +2671,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417083" AmendLawNum="平成一七年七月一五日法律第八三号" Extract="true" Id="ab8b5c7a-1886-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年七月一五日法律第八三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2706,7 +2706,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418036" AmendLawNum="平成一八年五月八日法律第三六号" Extract="true" Id="833c2858-188b-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年五月八日法律第三六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2719,7 +2719,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419018" AmendLawNum="平成一九年三月三一日法律第一八号" Extract="true" Id="4657ca6a-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年三月三一日法律第一八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2732,7 +2732,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="420071" AmendLawNum="平成二〇年六月一八日法律第七一号" Extract="true" Id="838d5688-188b-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年六月一八日法律第七一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -2742,7 +2742,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="422064" AmendLawNum="平成二二年一二月三日法律第六四号" Id="cc6cad14-1894-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二二年一二月三日法律第六四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -2783,7 +2783,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423053" AmendLawNum="平成二三年五月二五日法律第五三号" Id="f6b9778e-d3b2-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年五月二五日法律第五三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -2792,7 +2792,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="424054" AmendLawNum="平成二四年八月三日法律第五四号" Id="cc9d0f9a-1894-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年八月三日法律第五四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -2802,7 +2802,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="425048" AmendLawNum="平成二五年六月一九日法律第四八号" Extract="true" Id="53e13926-47dd-11e5-8fbf-aba7e4574a62">
+    <SupplProvision AmendLawNum="平成二五年六月一九日法律第四八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2815,7 +2815,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="429023" AmendLawNum="平成二九年四月二六日法律第二三号" Id="eb4aa7de-2a30-11e7-b2cb-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成二九年四月二六日法律第二三号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -2850,7 +2850,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="429067" AmendLawNum="平成二九年六月二一日法律第六七号" Extract="true" Id="c52ad9fe-563e-11e7-bb92-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成二九年六月二一日法律第六七号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2863,7 +2863,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430033" AmendLawNum="平成三〇年五月三〇日法律第三三号" Extract="true">
+    <SupplProvision AmendLawNum="平成三〇年五月三〇日法律第三三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2894,7 +2894,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501044" AmendLawNum="令和元年六月二六日法律第四四号" Extract="true" Id="5d58bef2-9d2e-11e9-90bb-005056b30d52">
+    <SupplProvision AmendLawNum="令和元年六月二六日法律第四四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="228" Year="18">
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="228" Year="18" PromulgateMonth="09" PromulgateDay="11">
   <LawNum>平成十八年政令第二百二十八号</LawNum>
   <LawBody>
-    <LawTitle>競争の導入による公共サービスの改革に関する法律施行令</LawTitle>
+    <LawTitle Kana="きょうそうのどうにゅうによるこうきょうさーびすのかいかくにかんするほうりつせこうれい" Abbrev="公共サービス改革法施行令,市場化テスト法施行令" AbbrevKana="こ,し">競争の導入による公共サービスの改革に関する法律施行令</LawTitle>
     <EnactStatement>内閣は、競争の導入による公共サービスの改革に関する法律（平成十八年法律第五十一号）第七条第三項から第五項まで、第十条第九号及び第十二号（これらの規定を同法第十五条、第十七条及び第十九条において準用する場合を含む。）、第十三条第一項（同法第十五条、第十七条及び第十九条において準用する場合を含む。）及び第三項（同法第十五条において準用する場合を含む。）、第二十条第二項、第二十一条第三項、第三十一条第三項並びに第四十九条の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -252,7 +252,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="421136" AmendLawNum="平成二一年五月一日政令第一三六号" Extract="true" Id="2aed60a4-9243-4cc8-8da0-325a0fa425a1" Type="Amend">
+    <SupplProvision AmendLawNum="平成二一年五月一日政令第一三六号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -262,7 +262,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428103" AmendLawNum="平成二八年三月三一日政令第一〇三号" Id="b8318efc-57d8-6d5b-c60e-906911343edf" Type="Amend">
+    <SupplProvision AmendLawNum="平成二八年三月三一日政令第一〇三号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -286,7 +286,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501097" AmendLawNum="令和元年九月一一日政令第九七号" Extract="true">
+    <SupplProvision AmendLawNum="令和元年九月一一日政令第九七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>

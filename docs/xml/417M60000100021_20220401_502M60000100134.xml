@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="21" Year="17">
   <LawNum>平成十七年厚生労働省令第二十一号</LawNum>
   <LawBody>
@@ -98,7 +98,8 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この省令において「切断等」とは、切断、破砕、<Ruby>穿<Rt>せん</Rt></Ruby>孔、研磨等をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この省令において「切断等」とは、切断、破砕、<Ruby>穿<Rt>せん</Rt>
+</Ruby>孔、研磨等をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -421,7 +422,7 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項第二号又は第三号に掲げる作業にあっては、当該工事に係る請負代金の額</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項第二号又は第三号に掲げる工事にあっては、当該工事に係る請負代金の額</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
@@ -1723,7 +1724,8 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">胸部のエックス線直接撮影による検査の結果、異常な陰影（石綿肺による線維増殖性の変化によるものを除く。）がある場合で、医師が必要と認めるときは、特殊なエックス線撮影による検査、<Ruby>喀痰<Rt>かくたん</Rt></Ruby>の細胞診又は気管支鏡検査</Sentence>
+                <Sentence Num="1" WritingMode="vertical">胸部のエックス線直接撮影による検査の結果、異常な陰影（石綿肺による線維増殖性の変化によるものを除く。）がある場合で、医師が必要と認めるときは、特殊なエックス線撮影による検査、<Ruby>喀痰<Rt>かくたん</Rt>
+</Ruby>の細胞診又は気管支鏡検査</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -2695,7 +2697,7 @@
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">新石綿則第四条の二第一項第一号又は第二号に掲げる工事であって、前条第二号に掲げる規定の施行の日（附則第五条において「第二号施行日」という。）前に開始されるものについては、新石綿則第四条の二の規定は適用しない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">新石綿則第四条の二第一項各号に掲げる工事であって、前条第二号に掲げる規定の施行の日（附則第五条において「第二号施行日」という。）前に開始されるものについては、新石綿則第四条の二の規定は適用しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2723,7 +2725,7 @@
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">新石綿則第十三条第一項第五号の石綿等の切断等の作業等であって、施行日前に開始されるものについては、同項ただし書の規定は適用せず、旧石綿則第十三条第一項ただし書の規定は、なおその効力を有する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">新石綿則第十三条第一項各号に掲げる作業であって、施行日前に開始されるものについては、同項ただし書の規定は適用せず、旧石綿則第十三条第一項ただし書の規定は、なおその効力を有する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2733,7 +2735,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">新石綿則第五条第一項に掲げる作業又は第三条の規定による改正後の労働安全衛生規則（以下この項及び次項において「新安衛則」という。）第九十条第五号の二若しくは第五号の三に掲げる仕事であって、施行日前に開始されるものについては、新石綿則第五条第一項及び新安衛則第九十条の規定は適用せず、旧石綿則第五条第一項及び第三条の規定による改正前の労働安全衛生規則第九十条第五号の二の規定は、なおその効力を有する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">新石綿則第五条第一項第一号若しくは第二号に掲げる作業又は第三条の規定による改正後の労働安全衛生規則（以下この項及び次項において「新安衛則」という。）第九十条第五号の二若しくは第五号の三に掲げる仕事であって、施行日前に開始されるものについては、新石綿則第五条第一項及び新安衛則第九十条の規定は適用せず、旧石綿則第五条第一項及び第三条の規定による改正前の労働安全衛生規則第九十条第五号の二の規定は、なおその効力を有する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -2770,12 +2772,64 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年八月二八日厚生労働省令第一五四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にこの省令による改正前のそれぞれの省令（次項において「旧省令」という。）の規定によりされている報告は、この省令による改正後のそれぞれの省令の規定による報告とみなす。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にある旧省令に定める様式による用紙については、合理的に必要と認められる範囲内で、当分の間、これを取り繕って使用することができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一二月二五日厚生労働省令第二〇八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の様式（次項において「旧様式」という。）により使用されている書類は、この省令による改正後の様式によるものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（第４条の２関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000034210.pdf"/>
+          <Fig src="./pict/2FH00000037982.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2784,7 +2838,7 @@
       <RelatedArticleNum>（第４条の２関係）（裏面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000034212.pdf"/>
+          <Fig src="./pict/2FH00000037983.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2793,7 +2847,7 @@
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000034211.pdf"/>
+          <Fig src="./pict/2FH00000038069.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2802,7 +2856,7 @@
       <RelatedArticleNum>（第４１条関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3FH00000035265.pdf"/>
+          <Fig src="./pict/2FH00000035138.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2820,7 +2874,7 @@
       <RelatedArticleNum>（第４３条関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027352.pdf"/>
+          <Fig src="./pict/2FH00000037966.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2829,7 +2883,7 @@
       <RelatedArticleNum>（第４３条関係）（裏面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3FH00000035271.pdf"/>
+          <Fig src="./pict/2FH00000037967.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2838,7 +2892,7 @@
       <RelatedArticleNum>（第４６条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000022924.pdf"/>
+          <Fig src="./pict/2FH00000037968.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2847,7 +2901,7 @@
       <RelatedArticleNum>（第４７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019870.pdf"/>
+          <Fig src="./pict/2FH00000037969.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2865,7 +2919,7 @@
       <RelatedArticleNum>（第４８条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019871.pdf"/>
+          <Fig src="./pict/2FH00000037970.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2879,11 +2933,11 @@
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle Num="5_4">
-      <AppdxStyleTitle WritingMode="vertical">様式５号の４</AppdxStyleTitle>
+      <AppdxStyleTitle WritingMode="vertical">様式第５号の４</AppdxStyleTitle>
       <RelatedArticleNum>（第４８条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019875.pdf"/>
+          <Fig src="./pict/2FH00000037971.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2892,7 +2946,7 @@
       <RelatedArticleNum>（第４９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3FH00000035269.pdf"/>
+          <Fig src="./pict/2FH00000037972.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

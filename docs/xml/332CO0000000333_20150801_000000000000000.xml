@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="333" Year="32">
+<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="333" Year="32" PromulgateMonth="12" PromulgateDay="06">
   <LawNum>昭和三十二年政令第三百三十三号</LawNum>
   <LawBody>
-    <LawTitle>首都圏整備法施行令</LawTitle>
+    <LawTitle Kana="しゅとけんせいびほうせこうれい" Abbrev="" AbbrevKana="">首都圏整備法施行令</LawTitle>
     <EnactStatement>内閣は、首都圏整備法（昭和三十一年法律第八十三号）の規定に基き、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（東京都の区域の周辺の地域）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">首都圏整備法（以下「法」という。）第二条第一項の政令で定めるその周辺の地域は、埼玉県、千葉県、神奈川県、茨城県、栃木県、群馬県及び山梨県の区域とする。</Sentence>
@@ -18,7 +18,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（既成市街地の区域）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第二条第三項の政令で定める市街地の区域は、東京都の特別区の存する区域及び武蔵野市の区域並びに三鷹市、横浜市、川崎市及び川口市の区域のうち別表に掲げる区域を除く区域とする。</Sentence>
@@ -28,7 +28,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（その他首都圏の整備に関する事項）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第二十一条第一項第二号ヌの政令で定める事項は、次に掲げる事項とする。</Sentence>
@@ -92,7 +92,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（首都圏整備計画）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">首都圏整備計画のうち法第二十一条第一項第二号及び第三号に掲げる事項に係る部分には、これらの事項について整備の基本方針及び事業の概要を定めるものとする。</Sentence>
@@ -102,7 +102,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（宅地の整備に関する事項で根幹となるべきものの範囲）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">宅地の整備に関する事項で根幹となるべきものの範囲は、次の各号に掲げる事項とする。</Sentence>
@@ -124,7 +124,7 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（道路の整備に関する事項で根幹となるべきものの範囲）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">道路の整備に関する事項で根幹となるべきものの範囲は、主要な道路の路線網に関する事項とする。</Sentence>
@@ -134,7 +134,7 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（交通施設の整備に関する事項で根幹となるべきものの範囲）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">鉄道、軌道、飛行場、港湾等の交通施設の整備に関する事項で根幹となるべきものの範囲は、次の各号に掲げる事項とする。</Sentence>
@@ -174,7 +174,7 @@
       <Article Delete="false" Hide="false" Num="7_2">
         <ArticleCaption>（通信施設の整備に関する事項で根幹となるべきものの範囲）</ArticleCaption>
         <ArticleTitle>第七条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">電気通信等の通信施設の整備に関する事項で根幹となるべきものの範囲は、次に掲げる事項とする。</Sentence>
@@ -196,7 +196,7 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（空地の整備に関する事項で根幹となるべきものの範囲）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公園、緑地等の空地の整備に関する事項で根幹となるべきものの範囲は、次に掲げる事項とする。</Sentence>
@@ -230,7 +230,7 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（供給施設及び処理施設の整備に関する事項で根幹となるべきものの範囲）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">水道、下水道、汚物処理施設等の供給施設及び処理施設の整備に関する事項で根幹となるべきものの範囲は、次の各号に掲げる事項とする。</Sentence>
@@ -264,7 +264,7 @@
       <Article Delete="false" Hide="false" Num="10">
         <ArticleCaption>（河川、水路及び海岸の整備に関する事項で根幹となるべきものの範囲）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">河川、水路及び海岸の整備に関する事項で根幹となるべきものの範囲は、次の各号に掲げる事項とする。</Sentence>
@@ -292,7 +292,7 @@
       <Article Delete="false" Hide="false" Num="11">
         <ArticleCaption>（建築物の整備に関する事項で根幹となるべきものの範囲）</ArticleCaption>
         <ArticleTitle>第十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">住宅等の建築物の整備に関する事項で根幹となるべきものの範囲は、次の各号に掲げる事項とする。</Sentence>
@@ -320,7 +320,7 @@
       <Article Delete="false" Hide="false" Num="12">
         <ArticleCaption>（教育文化施設の整備に関する事項で根幹となるべきものの範囲）</ArticleCaption>
         <ArticleTitle>第十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">学校等の教育文化施設の整備に関する事項で根幹となるべきものの範囲は、次に掲げる事項とする。</Sentence>
@@ -348,7 +348,7 @@
       <Article Delete="false" Hide="false" Num="13">
         <ArticleCaption>（その他首都圏の整備に関する事項で根幹となるべきものの範囲）</ArticleCaption>
         <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第三条に規定する事項で根幹となるべきものの範囲は、次に掲げる事項とする。</Sentence>
@@ -406,7 +406,7 @@
       <Article Delete="false" Hide="false" Num="14">
         <ArticleCaption>（流通業務市街地等の整備に関する事項で根幹となるべきものの範囲）</ArticleCaption>
         <ArticleTitle>第十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">宅地の整備のうち流通業務市街地の整備に関する事項及び流通業務市街地における流通業務施設の整備に関する事項で根幹となるべきものの範囲は、これらの事項に関し、流通業務市街地の整備に関する法律（昭和四十一年法律第百十号）第三条の二第一項の流通業務施設の整備に関する基本方針の基礎となるべき事項とする。</Sentence>
@@ -416,7 +416,7 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
@@ -425,7 +425,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和三四年四月二二日政令第一四七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -435,7 +435,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和三四年一二月四日政令第三四四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -445,7 +445,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和三六年六月二七日政令第二一一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -455,7 +455,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和三七年九月二八日政令第三七九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
@@ -464,7 +464,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和三九年一二月一五日政令第三六五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -474,7 +474,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和四〇年八月三一日政令第二九六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -485,7 +485,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和四一年六月一日政令第一七一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
@@ -494,7 +494,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和四二年一月六日政令第三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -504,7 +504,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和四二年二月二日政令第一三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -517,7 +517,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、法の施行の日（昭和四十四年六月十四日）から施行する。</Sentence>
@@ -530,7 +530,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
@@ -540,7 +540,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和四六年六月三〇日政令第二二一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、法の施行の日（昭和四十六年七月一日）から施行する。</Sentence>
@@ -549,7 +549,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和四七年九月二一日政令第三三六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -557,7 +557,7 @@
           <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次項の規定は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（首都圏整備委員会が定めることとされている区域の告示）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -570,7 +570,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、国土庁設置法の施行の日から施行する。</Sentence>
@@ -580,7 +580,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和五〇年一二月二七日政令第三八一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、学校教育法の一部を改正する法律の施行の日（昭和五十一年一月十一日）から施行する。</Sentence>
@@ -589,7 +589,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和五四年六月一二日政令第一七六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
@@ -601,7 +601,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、昭和五十六年十月一日から施行する。</Sentence>
@@ -611,7 +611,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和五六年一一月一七日政令第三二一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、外貿埠頭公団の解散及び業務の承継に関する法律の施行の日（昭和五十七年三月三十一日）から施行する。</Sentence>
@@ -623,7 +623,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、昭和六十年四月一日から施行する。</Sentence>
@@ -633,7 +633,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和六〇年九月二七日政令第二六九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、職業訓練法の一部を改正する法律の施行の日（昭和六十年十月一日）から施行する。</Sentence>
@@ -645,7 +645,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、昭和六十二年四月一日から施行する。</Sentence>
@@ -655,7 +655,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成五年一一月八日政令第三五四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -665,7 +665,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一一年五月二八日政令第一六五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、日本電信電話株式会社法の一部を改正する法律の施行の日（平成十一年七月一日）から施行する。</Sentence>
@@ -677,7 +677,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、都市基盤整備公団法（以下「公団法」という。）の一部の施行の日（平成十一年十月一日）から施行する。</Sentence>
@@ -690,7 +690,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、雇用・能力開発機構法（以下「法」という。）の一部の施行の日（平成十一年十月一日）から施行する。</Sentence>
@@ -700,7 +700,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一二年六月七日政令第三一二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -710,7 +710,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一二年六月七日政令第三三四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
@@ -722,7 +722,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、平成十五年四月一日から施行する。</Sentence>
@@ -735,7 +735,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、平成十五年十月一日から施行する。</Sentence>
@@ -748,7 +748,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
@@ -762,7 +762,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、食品衛生法等の一部を改正する法律の施行の日（平成十五年八月二十九日）から施行する。</Sentence>
@@ -775,7 +775,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、平成十六年四月一日から施行する。</Sentence>
@@ -788,7 +788,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、平成十六年四月一日から施行する。</Sentence>
@@ -801,7 +801,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
@@ -815,7 +815,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
@@ -829,7 +829,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
@@ -843,7 +843,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
@@ -854,7 +854,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一六年三月二四日政令第五九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律附則第一条第三号に掲げる規定の施行の日（平成十六年四月一日）から施行する。</Sentence>
@@ -866,7 +866,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、平成十六年七月一日から施行する。</Sentence>
@@ -876,7 +876,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一六年五月二六日政令第一八一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、機構の成立の時から施行する。</Sentence>
@@ -885,7 +885,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一七年五月二五日政令第一八二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、景観法附則ただし書に規定する規定の施行の日（平成十七年六月一日）から施行する。</Sentence>
@@ -894,7 +894,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一七年六月一日政令第二〇三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、施行日（平成十七年十月一日）から施行する。</Sentence>
@@ -903,7 +903,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一七年六月二九日政令第二二九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -913,7 +913,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一七年一二月二一日政令第三七五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -923,7 +923,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一八年八月一八日政令第二七六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、道路運送法等の一部を改正する法律の施行の日（平成十八年十月一日）から施行する。</Sentence>
@@ -935,7 +935,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、平成二十二年四月一日から施行する。</Sentence>
@@ -948,7 +948,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、放送法等の一部を改正する法律（平成二十二年法律第六十五号。以下「放送法等改正法」という。）の施行の日（平成二十三年六月三十日。以下「施行日」という。）から施行する。</Sentence>
@@ -958,7 +958,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二七年三月一八日政令第七四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、平成二十七年四月一日から施行する。</Sentence>

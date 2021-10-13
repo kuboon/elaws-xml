@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="100" Year="39">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="100" Year="39" PromulgateMonth="06" PromulgateDay="10">
   <LawNum>昭和三十九年法律第百号</LawNum>
   <LawBody>
-    <LawTitle>遺言の方式の準拠法に関する法律</LawTitle>
+    <LawTitle Kana="ゆいごんのほうしきのじゅんきょほうにかんするほうりつ" Abbrev="" AbbrevKana="">遺言の方式の準拠法に関する法律</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（趣旨）</ArticleCaption>
@@ -139,7 +139,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418078" AmendLawNum="平成一八年六月二一日法律第七八号" Extract="true" Id="42b11b6c-47dd-11e5-8ab1-bb563236dc68">
+    <SupplProvision AmendLawNum="平成一八年六月二一日法律第七八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

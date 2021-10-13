@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="34" Year="10">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="34" Year="10" PromulgateMonth="03" PromulgateDay="31">
   <LawNum>平成十年法律第三十四号</LawNum>
   <LawBody>
-    <LawTitle>土地の再評価に関する法律</LawTitle>
+    <LawTitle Kana="とちのさいひょうかにかんするほうりつ" Abbrev="土地再評価法" AbbrevKana="と">土地の再評価に関する法律</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -321,7 +321,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411024" AmendLawNum="平成一一年三月三一日法律第二四号" Extract="true" Id="69321a80-1917-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年三月三一日法律第二四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -353,7 +353,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="413019" AmendLawNum="平成一三年三月三一日法律第一九号" Id="696096da-1917-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年三月三一日法律第一九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -370,7 +370,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413080" AmendLawNum="平成一三年六月二九日法律第八〇号" Id="916bade0-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年六月二九日法律第八〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -379,7 +379,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413094" AmendLawNum="平成一三年六月二九日法律第九四号" Extract="true" Id="a59d57a3-aff7-4db2-8f3b-501b9783c825">
+    <SupplProvision AmendLawNum="平成一三年六月二九日法律第九四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -392,7 +392,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414045" AmendLawNum="平成一四年五月二九日法律第四五号" Extract="true" Id="916faa94-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年五月二九日法律第四五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -402,7 +402,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414075" AmendLawNum="平成一四年六月一九日法律第七五号" Extract="true" Id="40859d04-a173-4769-955b-50c629d32a75">
+    <SupplProvision AmendLawNum="平成一四年六月一九日法律第七五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -415,7 +415,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415054" AmendLawNum="平成一五年五月三〇日法律第五四号" Extract="true" Id="d0273688-c486-4496-b513-0f1722244f8b">
+    <SupplProvision AmendLawNum="平成一五年五月三〇日法律第五四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -428,7 +428,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417087" AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true" Id="6227ae84-47dd-11e5-92b2-43af2fd23feb">
+    <SupplProvision AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="36" Year="62">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="36" Year="62" PromulgateMonth="05" PromulgateDay="29">
   <LawNum>昭和六十二年法律第三十六号</LawNum>
   <LawBody>
-    <LawTitle>多数国間投資保証機関への加盟に伴う措置に関する法律</LawTitle>
+    <LawTitle Kana="たすうこくかんとうしほしょうきかんへのかめいにともなうそちにかんするほうりつ" Abbrev="ＭＩＧＡ法" AbbrevKana="Ｍ">多数国間投資保証機関への加盟に伴う措置に関する法律</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -73,7 +73,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="409089" AmendLawNum="平成九年六月一八日法律第八九号" Extract="true" Id="3caa344c-47dd-11e5-8803-3ff30d9d42dc">
+    <SupplProvision AmendLawNum="平成九年六月一八日法律第八九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -96,7 +96,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411012" AmendLawNum="平成一一年三月三一日法律第一二号" Id="8259015c-188d-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年三月三一日法律第一二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>

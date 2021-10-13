@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="136" Year="26">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="136" Year="26" PromulgateMonth="09" PromulgateDay="11">
   <LawNum>平成二十六年法律第百三十六号</LawNum>
   <LawBody>
-    <LawTitle>まち・ひと・しごと創生法</LawTitle>
+    <LawTitle Kana="まち・ひと・しごとそうせいほう" Abbrev="地方創生法" AbbrevKana="ち">まち・ひと・しごと創生法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -472,7 +472,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427066" AmendLawNum="平成二七年九月一一日法律第六六号" Extract="true" Id="17095797-5301-c675-d7e0-eff73c77b227">
+    <SupplProvision AmendLawNum="平成二七年九月一一日法律第六六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

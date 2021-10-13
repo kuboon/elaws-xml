@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="063" Year="29">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="063" Year="29" PromulgateMonth="05" PromulgateDay="24">
   <LawNum>平成二十九年法律第六十三号</LawNum>
   <LawBody>
-    <LawTitle>天皇の退位等に関する皇室典範特例法</LawTitle>
+    <LawTitle Kana="てんのうのたいいとうにかんするこうしつてんぱんとくれいほう" Abbrev="" AbbrevKana="">天皇の退位等に関する皇室典範特例法</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（趣旨）</ArticleCaption>
@@ -106,29 +106,6 @@
           <ParagraphSentence>
             <Sentence>この法律は、この法律の施行の日以前に皇室典範第四条の規定による皇位の継承があったときは、その効力を失う。</Sentence>
           </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="3">
-        <ArticleCaption>（皇室典範の一部改正）</ArticleCaption>
-        <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>皇室典範の一部を次のように改正する。</Sentence>
-          </ParagraphSentence>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence>附則に次の一項を加える。</Sentence>
-            </AmendProvisionSentence>
-            <NewProvision>
-              <Paragraph Num="1">
-                <ParagraphNum/>
-                <ParagraphSentence>
-                  <Sentence>この法律の特例として天皇の退位について定める天皇の退位等に関する皇室典範特例法（平成二十九年法律第六十三号）は、この法律と一体を成すものである。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-            </NewProvision>
-          </AmendProvision>
         </Paragraph>
       </Article>
       <Article Num="4">
@@ -253,7 +230,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501010" AmendLawNum="令和元年五月二四日法律第一〇号" Extract="true" Id="1c66ecee-81ad-11e9-bef7-005056b30d52">
+    <SupplProvision AmendLawNum="令和元年五月二四日法律第一〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>

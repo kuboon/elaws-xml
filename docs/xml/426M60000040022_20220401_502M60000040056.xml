@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="502M60000040056" AmendmentNum="令和二年財務省令第五十六号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="022" Year="26">
+<Law AmendmentId="502M60000040056" AmendmentNum="令和二年財務省令第五十六号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="022" Year="26" PromulgateMonth="06" PromulgateDay="30">
   <LawNum>平成二十六年財務省令第二十二号</LawNum>
   <LawBody>
-    <LawTitle>地方法人税法施行規則</LawTitle>
+    <LawTitle Kana="ちほうほうじんぜいほうせこうきそく" Abbrev="" AbbrevKana="">地方法人税法施行規則</LawTitle>
     <EnactStatement>地方法人税法（平成二十六年法律第十一号）第十六条第一項第二号及び第九項第三号、第十七条第一項第三号、第十九条第一項第五号、第四項及び第六項第四号並びに第二十九条第六項並びに地方法人税法施行令（平成二十六年政令第百三十九号）第十条第二項第三号の規定に基づき、地方法人税法施行規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -239,13 +239,13 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第十九条の三第一項の内国法人が同項の規定により同項に規定する電子情報処理組織を使用して同項に規定する申告書記載事項又は添付書類記載事項（以下この条においてそれぞれ「申告書記載事項」又は「添付書類記載事項」という。）を提供しようとする場合における届出その他の手続については、国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令（平成十五年財務省令第七十一号）第四条の規定の例による。</Sentence>
+            <Sentence WritingMode="vertical">法第十九条の三第一項の内国法人が同項の規定により同項に規定する電子情報処理組織を使用して同項に規定する申告書記載事項又は添付書類記載事項（以下この条においてそれぞれ「申告書記載事項」又は「添付書類記載事項」という。）を提供しようとする場合における届出その他の手続については、国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令（平成十五年財務省令第七十一号）第四条第一項から第三項まで及び第七項から第九項までの規定の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項の規定によりその例によるものとされる国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令第四条第一項の届出は、内国法人（法第三条第三項において準用する法人税法第四条の三に規定する受託法人を除く。以下この項において同じ。）が資本金の額又は出資金の額が一億円を超えることとなった日（法第十九条の三第二項に規定する特定法人でなかった内国法人について法人税法第六十四条の九第一項の規定による承認（以下この項において「通算承認」という。）の効力が生じた場合には、その効力が生じた日（同条第七項の規定の適用を受けて行った同条第二項の申請につき当該内国法人に係る通算親法人が通算承認を受けた場合には、同日と当該通算承認の処分があった日又は同条第九項の規定により当該通算承認があったものとみなされた日とのうちいずれか遅い日）から一月以内（これらの内国法人が次の各号に掲げる法人に該当する場合には、当該各号に掲げる法人の区分に応じ当該各号に定める日から二月以内）に行わなければならない。</Sentence>
+            <Sentence WritingMode="vertical">前項の規定によりその例によるものとされる国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令第四条第一項の届出は、内国法人（法第三条第三項において準用する法人税法第四条の三に規定する受託法人を除く。以下この項において同じ。）が資本金の額又は出資金の額が一億円を超えることとなった日（法第十九条の三第二項に規定する特定法人でなかった内国法人について法人税法第六十四条の九第一項の規定による承認（以下この項において「通算承認」という。）の効力が生じた場合には、その効力が生じた日（同条第七項の規定の適用を受けて行った同条第二項の申請につき当該内国法人に係る通算親法人が通算承認を受けた場合には、同日と当該通算承認の処分があった日又は同条第九項の規定により当該通算承認があったものとみなされた日とのうちいずれか遅い日）とする。）から一月以内（これらの内国法人が次の各号に掲げる法人に該当する場合には、当該各号に掲げる法人の区分に応じ当該各号に定める日から二月以内）に行わなければならない。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -340,7 +340,7 @@
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該添付書類記載事項が記載された書類をスキャナにより読み取る方法その他これに類する方法により作成した情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第三条第七号に規定する電磁的記録（これらの方法により国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令第五条第二項第二号イ及びロに掲げる要件を満たすように読み取り、又は作成したものに限る。）を法第十九条の三第一項に規定する電子情報処理組織を使用して送信する方法（イに掲げる方法につき国税庁の使用に係る電子計算機において用いることができない場合に限る。）</Sentence>
+                <Sentence WritingMode="vertical">当該添付書類記載事項が記載された書類をスキャナにより読み取る方法その他これに類する方法により作成した情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第三条第七号に規定する電磁的記録（これらの方法により国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令第五条第二項各号に掲げる要件を満たすように読み取り、又は作成したものに限る。）を法第十九条の三第一項に規定する電子情報処理組織を使用して送信する方法（イに掲げる方法につき国税庁の使用に係る電子計算機において用いることができない場合に限る。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -354,7 +354,7 @@
         <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第十九条の三第一項ただし書に規定する財務省令で定める記録用の媒体は、添付書類記載事項の情報通信技術を活用した行政の推進等に関する法律第三条第七号に規定する電磁的記録（当該電磁的記録をスキャナにより読み取る方法その他これに類する方法により作成した場合にあっては、国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令第五条第二項第二号イ及びロに掲げる要件を満たすように読み取り、又は作成したものに限る。）を記録した光ディスク、磁気テープ又は磁気ディスクとする。</Sentence>
+            <Sentence WritingMode="vertical">法第十九条の三第一項ただし書に規定する財務省令で定める記録用の媒体は、添付書類記載事項の情報通信技術を活用した行政の推進等に関する法律第三条第七号に規定する電磁的記録（当該電磁的記録をスキャナにより読み取る方法その他これに類する方法により作成した場合にあっては、国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令第五条第二項各号に掲げる要件を満たすように読み取り、又は作成したものに限る。）を記録した光ディスク、磁気テープ又は磁気ディスクとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="6" OldStyle="false">
@@ -366,7 +366,7 @@
         <Paragraph Hide="false" Num="7" OldStyle="false">
           <ParagraphNum>７</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第十九条の三第一項の内国法人が同項の規定により同項に規定する電子情報処理組織を使用して申告書記載事項又は添付書類記載事項を提供する場合には、当該内国法人は、国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令第六条第一項の規定の例により、その名称を明らかにしなければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第十九条の三第一項の内国法人が同項の規定により同項に規定する電子情報処理組織を使用して申告書記載事項又は添付書類記載事項を提供する場合には、当該内国法人は、国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令第六条第一項（第四号に係る部分を除く。）の規定の例により、その名称を明らかにしなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="8" OldStyle="false">
@@ -434,7 +434,7 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第三十条第一項に規定する申告書記載事項又は添付書類記載事項の同項の提供は、国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令第五条第六項の規定の例により、行わなければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第三十条第一項に規定する申告書記載事項又は添付書類記載事項の同項の提供は、国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令第五条第七項の規定の例により、行わなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2" OldStyle="false">
@@ -474,7 +474,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426043" AmendLawNum="平成二六年四月一四日財務省令第四三号" Extract="true" Id="2c051c34-189f-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年四月一四日財務省令第四三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -483,7 +483,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="426068" AmendLawNum="平成二六年七月九日財務省令第六八号" Id="2c261a60-189f-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年七月九日財務省令第六八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -504,7 +504,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427023" AmendLawNum="平成二七年三月三一日財務省令第二三号" Extract="true" Id="2c471e54-189f-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年三月三一日財務省令第二三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -529,7 +529,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="427047" AmendLawNum="平成二七年四月一五日財務省令第四七号" Id="2c6822ca-189f-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年四月一五日財務省令第四七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -545,7 +545,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427076" AmendLawNum="平成二七年九月三〇日財務省令第七六号" Extract="true" Id="2c8917e6-189f-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年九月三〇日財務省令第七六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -554,7 +554,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428017" AmendLawNum="平成二八年三月三一日財務省令第一七号" Id="2caa1234-189f-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二八年三月三一日財務省令第一七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -569,7 +569,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428042" AmendLawNum="平成二八年四月一五日財務省令第四二号" Id="2ccb096c-189f-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二八年四月一五日財務省令第四二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -584,7 +584,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="429018" AmendLawNum="平成二九年三月三一日財務省令第一八号" Id="2cec225a-189f-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二九年三月三一日財務省令第一八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -594,7 +594,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="429037" AmendLawNum="平成二九年四月一四日財務省令第三七号" Id="2d0d2f0e-189f-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二九年四月一四日財務省令第三七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -610,7 +610,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="430014" AmendLawNum="平成三〇年三月三一日財務省令第一四号" Id="19d25d99-cd10-43f1-b2ee-14f62d6d7379" Type="Amend">
+    <SupplProvision AmendLawNum="平成三〇年三月三一日財務省令第一四号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -625,7 +625,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="430036" AmendLawNum="平成三〇年四月一三日財務省令第三六号" Id="06f154c5-20e9-45d3-9107-5632976dcaad" Type="Amend">
+    <SupplProvision AmendLawNum="平成三〇年四月一三日財務省令第三六号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -658,7 +658,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="431032" AmendLawNum="平成三一年四月一二日財務省令第三二号" Id="1bd631be-5f4c-11e9-9670-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成三一年四月一二日財務省令第三二号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -762,7 +762,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501001" AmendLawNum="令和元年五月七日財務省令第一号" Id="49ea128c-7239-11e9-9807-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年五月七日財務省令第一号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -779,7 +779,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501013" AmendLawNum="令和元年六月二八日財務省令第一三号" Extract="true" Id="988f82be-9e1c-11e9-92bf-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年六月二八日財務省令第一三号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -789,7 +789,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501036" AmendLawNum="令和元年一二月一三日財務省令第三六号" Extract="true" Id="6ca86bea-2074-11ea-b6ae-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年一二月一三日財務省令第三六号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -841,7 +841,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502056" AmendLawNum="令和二年六月三〇日財務省令第五六号" Extract="true" Id="b04a8230-c7cb-11ea-bdea-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和二年六月三〇日財務省令第五六号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -886,6 +886,130 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年三月三一日財務省令第三二号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和三年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第四条の改正規定（同条第一項中「限る」の下に「ものとし、同条第二項後段において準用する場合を含む」を加える部分及び同条第三項に係る部分を除く。）、第五条の見出しを削り、同条の前に見出しを付する改正規定、同条第一項の改正規定（「第六項」を「第七項」に改める部分及び同項第一号に係る部分に限る。）、同条の次に一条を加える改正規定、第六条の改正規定及び第八条第二項の改正規定並びに附則第三条（地方法人税法施行規則（平成二十六年財務省令第二十二号）第八条第一項の改正規定及び同条第七項の改正規定に限る。）の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>令和四年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年三月三一日財務省令第三三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和三年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年四月一五日財務省令第四三号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">改正後の地方法人税法施行規則（以下「新規則」という。）別表一から別表二付表までの書式は、令和三年四月一日以後に終了する課税事業年度に係る地方法人税について適用し、同日前に終了した課税事業年度に係る地方法人税については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3" OldStyle="false">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">次の各号に掲げる書式により令和三年四月一日前に終了した課税事業年度に係る地方法人税について同日以後に地方法人税確定申告書（当該地方法人税確定申告書に係る修正申告書を含む。）の提出をする場合には、当該各号に定めるところによる。</Sentence>
+        </ParagraphSentence>
+        <Item Delete="false" Hide="false" Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column LineBreak="false" Num="1">
+              <Sentence WritingMode="vertical">前項の規定によりなお従前の例によることとされる場合における改正前の地方法人税法施行規則別表一の書式又は地方法人税法施行規則の一部を改正する省令（平成三十一年財務省令第三十二号）附則第二項の規定によりなお従前の例によることとされる場合における同令による改正前の地方法人税法施行規則別表一の書式</Sentence>
+            </Column>
+            <Column LineBreak="false" Num="2">
+              <Sentence WritingMode="vertical">これらの表の表中「<QuoteStruct>
+<FigStruct>
+<Fig src="./pict/H31F140032_2106081706_013.jpg"/>
+</FigStruct>
+</QuoteStruct>」とあるのは「<QuoteStruct>
+<FigStruct>
+<Fig src="./pict/H31F140032_2106081706_014.jpg"/>
+</FigStruct>
+</QuoteStruct>」と、「<QuoteStruct>
+<FigStruct>
+<Fig src="./pict/H31F140032_2106081706_015.jpg"/>
+</FigStruct>
+</QuoteStruct>」とあるのは「<QuoteStruct>
+<FigStruct>
+<Fig src="./pict/H31F140032_2106081706_016.jpg"/>
+</FigStruct>
+</QuoteStruct>」とする。</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+        <Item Delete="false" Hide="false" Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Column LineBreak="false" Num="1">
+              <Sentence WritingMode="vertical">地方法人税法施行規則の一部を改正する省令（平成三十年財務省令第三十六号。以下「平成三十年改正規則」という。）附則第二項その他これに類する地方法人税法施行規則別表の書式を改正する省令の経過措置を定める規定によりなお従前の例によることとされる場合におけるこれらの省令による改正前の地方法人税法施行規則別表一の書式（前号に掲げる書式を除く。）</Sentence>
+            </Column>
+            <Column LineBreak="false" Num="1">
+              <Sentence WritingMode="vertical">平成三十年改正規則附則第三項の規定にかかわらず、同表の表中「<QuoteStruct>
+<FigStruct>
+<Fig src="./pict/H31F140032_2106081706_017.jpg"/>
+</FigStruct>
+</QuoteStruct>」とあるのは「<QuoteStruct>
+<FigStruct>
+<Fig src="./pict/H31F140032_2106081706_018.jpg"/>
+</FigStruct>
+</QuoteStruct>」とし、同表の表の「<QuoteStruct>
+<Sentence WritingMode="horizontal">経理責任者自署押印</Sentence>
+</QuoteStruct>」の欄については記載を要しない。</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+      <Paragraph Hide="false" Num="4" OldStyle="false">
+        <ParagraphNum>４</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">新規則別表三の書式は、令和三年四月一日以後に提出する地方法人税中間申告書に係る地方法人税について適用し、同日前に提出した地方法人税中間申告書に係る地方法人税については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年四月一五日財務省令第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表一　各課税事業年度の所得地方法人税に係る申告書</AppdxTableTitle>
       <Remarks>
@@ -893,58 +1017,51 @@
         <Item Delete="false" Hide="false" Num="1">
           <ItemTitle>１</ItemTitle>
           <ItemSentence>
-            <Sentence WritingMode="vertical">この表は、法第６条第１号若しくは第２号又は所得税法等の一部を改正する法律（令和２年法律第８号。第６号及び第７号において「令和２年改正法」という。）第４条の規定による改正前の地方法人税法第６条第１号から第３号までに掲げる法人が確定申告（法第１９条第１項の規定による申告書（当該申告書に係る期限後申告書を含む。）の提出をいう。次号及び第４号において同じ。）若しくは仮決算による中間申告（法第１７条第１項の規定による申告書の提出をいう。次号及び第４号において同じ。）又はこれらの申告に係る修正申告（修正申告書の提出をいう。以下同じ。）をする場合に記載すること。</Sentence>
+            <Sentence WritingMode="vertical">この表は、法第６条第１号若しくは第２号又は所得税法等の一部を改正する法律（令和２年法律第８号。第５号及び第６号において「令和２年改正法」という。）第４条の規定による改正前の地方法人税法第６条第１号から第３号までに掲げる法人が確定申告（法第１９条第１項の規定による申告書（当該申告書に係る期限後申告書を含む。）の提出をいう。第３号において同じ。）若しくは仮決算による中間申告（法第１７条第１項の規定による申告書の提出をいう。第３号において同じ。）又はこれらの申告に係る修正申告（修正申告書の提出をいう。以下同じ。）をする場合に記載すること。</Sentence>
           </ItemSentence>
         </Item>
         <Item Delete="false" Hide="false" Num="2">
           <ItemTitle>２</ItemTitle>
           <ItemSentence>
-            <Sentence WritingMode="vertical">「（ふりがな）代表者記名押印」の欄は、外国法人が確定申告若しくは仮決算による中間申告又はこれらの申告に係る修正申告をする場合には、「代表者」として記載すること。</Sentence>
-          </ItemSentence>
-        </Item>
-        <Item Delete="false" Hide="false" Num="3">
-          <ItemTitle>３</ItemTitle>
-          <ItemSentence>
             <Sentence Num="1" WritingMode="vertical">「旧納税地及び旧法人名等」の欄は、納税地又は法人名に変更があった場合に、変更前の納税地又は法人名を記載すること。</Sentence>
             <Sentence Num="2" WritingMode="vertical">なお、納税地と本店又は主たる事務所の所在地とが異なる場合には、その本店又は主たる事務所の所在地を記載すること。</Sentence>
           </ItemSentence>
         </Item>
-        <Item Delete="false" Hide="false" Num="4">
-          <ItemTitle>４</ItemTitle>
+        <Item Delete="false" Hide="false" Num="3">
+          <ItemTitle>３</ItemTitle>
           <ItemSentence>
             <Column LineBreak="false" Num="1">
               <Sentence WritingMode="vertical">「課税事業年度分の地方法人税</Sentence>
             </Column>
             <Column LineBreak="false" Num="2">
               <Sentence Num="1" WritingMode="vertical">申告書」の空欄は、確定申告をする場合には「確定」と、仮決算による中間申告をする場合には「中間」と、それぞれ記載し、修正申告をする場合には「修正確定」又は「修正中間」と記載すること。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">なお、期限後申告（期限後申告書の提出をいう。</Sentence>
-              <Sentence Num="3" WritingMode="vertical">）をする場合には、その旨を併せて記載すること。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">なお、期限後申告（期限後申告書の提出をいう。）をする場合には、その旨を併せて記載すること。</Sentence>
             </Column>
+          </ItemSentence>
+        </Item>
+        <Item Num="4">
+          <ItemTitle>４</ItemTitle>
+          <ItemSentence>
+            <Sentence>「法人税額／（（法人税申告書別表一「４」＋「５」＋「７」）－法人税申告書別表六（二）付表六「７の計」）、（法人税申告書別表一の二「４」＋「５」＋「７」）又は（法人税申告書別表一の三「４」＋「５」＋「２７」＋「２８」）　（１）」の欄は、法人税法施行規則別表一「１０」、別表一の二「１０」又は別表一の三「６」若しくは「２９」で外書きした金額がある場合には、当該金額を含めて記載すること。</Sentence>
           </ItemSentence>
         </Item>
         <Item Num="5">
           <ItemTitle>５</ItemTitle>
           <ItemSentence>
-            <Sentence>「法人税額／（（法人税申告書別表一「４」＋「５」＋「７」）－法人税申告書別表六（二）付表六「７の計」）、（法人税申告書別表一の二「４」＋「５」＋「７」）又は（法人税申告書別表一の三「４」＋「５」＋「２７」＋「２８」）　（１）」の欄は、法人税法施行規則別表一「１０」、別表一の二「１０」又は別表一の三「６」若しくは「２９」で外書きした金額がある場合には、当該金額を含めて記載すること。</Sentence>
+            <Sentence>「外国税額の控除額／（（（（７）－（８）－（９））と（２７）のうち少ない金額）又は別表二「２２」若しくは「３３」）　（１０）」の欄は、令和４年４月１日前に開始した課税事業年度（令和２年改正法附則第１４条第１項に規定する旧事業年度を含む。）にあっては、同欄中「（７）－（８）－（９）」とあるのは、「（７）－（８）」として記載すること。</Sentence>
           </ItemSentence>
         </Item>
         <Item Num="6">
           <ItemTitle>６</ItemTitle>
           <ItemSentence>
-            <Sentence>「外国税額の控除額／（（（（７）－（８）－（９））とのうち少ない金額)又は別表二「２２」若しくは「３３」）　（１０）」の欄は、令和４年４月１日前に開始した課税事業年度（令和２年改正法附則第１４条第１項に規定する旧事業年度を含む。）にあっては、同欄中「（７）－（８）－（９）」とあるのは、「（７）－（８）」として記載すること。</Sentence>
+            <Sentence Num="1">「計／（１４）＋（１５）　（１６）」の欄の外書には、法人税法第８０条第９項若しくは第１４４条の１３第１２項又は令和２年改正法第３条の規定による改正前の法人税法（以下この号において「令和２年旧法人税法」という。）第８１条の３１第６項において準用する令和２年旧法人税法第８０条第６項の還付請求書を提出する場合に、法人税法第８０条第１項若しくは第１４４条の１３第１項各号若しくは第２項に規定する還付所得事業年度又は令和２年旧法人税法第８１条の３１第１項に規定する還付所得連結事業年度に該当する課税事業年度の法第２３条第１項に規定する確定地方法人税額のうち、法人税法第８０条第１項（同条第４項又は第５項において準用する場合を含む。）若しくは第１４４条の１３第１項（同条第９項から第１１項までにおいて準用する場合を含む。）若しくは第２項（同条第１０項又は第１１項において準用する場合を含む。）又は令和２年旧法人税法第８１条の３１第１項（同条第４項又は第５項において準用する場合を含む。）の規定による請求により還付を受けようとする法人税の額に係る金額を記載すること。</Sentence>
+            <Sentence Num="2">なお、修正申告をする場合において、当該金額が減少するときはその減少後の金額を記載し、既に法第２３条第１項の規定により還付を受けた金額に係る還付加算金があるときは当該還付加算金の額のうち当該減少後の金額に係る金額を含めて記載すること。</Sentence>
           </ItemSentence>
         </Item>
         <Item Num="7">
           <ItemTitle>７</ItemTitle>
           <ItemSentence>
-            <Sentence Num="1">「計／（１４）＋（１５）　（１６）」の欄の外書には、法人税法第８０条第９項若しくは第１４４条の１３第１２項又は令和２年改正法第３条の規定による改正前の法人税法（以下この号において「令和２年旧法人税法」という。）第81条の31第６項において準用する令和２年旧法人税法第８０条第６項の還付請求書を提出する場合に、法人税法第８０条第１項若しくは第１４４条の１３第１項各号若しくは第２項に規定する還付所得事業年度又は令和２年旧法人税法第81条の31第１項に規定する還付所得連結事業年度に該当する課税事業年度の法第２３条第１項に規定する確定地方法人税額のうち、法人税法第８０条第１項（同条第４項又は第５項において準用する場合を含む。）若しくは第１４４条の１３第１項（同条第９項から第１１項までにおいて準用する場合を含む。）若しくは第２項（同条第１０項又は第１１項において準用する場合を含む。）又は令和２年旧法人税法第８１条の３１第１項（同条第４項又は第５項において準用する場合を含む。）の規定による請求により還付を受けようとする法人税の額に係る金額を記載すること。</Sentence>
-            <Sentence Num="2">なお、修正申告をする場合において、当該金額が減少するときはその減少後の金額を記載し、既に法第２３条第１項の規定により還付を受けた金額に係る還付加算金があるときは当該還付加算金の額のうち当該減少後の金額に係る金額を含めて記載すること。</Sentence>
-          </ItemSentence>
-        </Item>
-        <Item Num="8">
-          <ItemTitle>８</ItemTitle>
-          <ItemSentence>
-              <Sentence>「欠損金の繰戻しによる還付金額　（２１）」の欄は、法第２３条第１項の規定により還付を受けた金額に係る還付加算金があるときは、当該還付加算金の額を含めて記載すること。</Sentence>
+            <Sentence>「欠損金の繰戻しによる還付金額　（２１）」の欄は、法第２３条第１項の規定により還付を受けた金額に係る還付加算金があるときは、当該還付加算金の額を含めて記載すること。</Sentence>
           </ItemSentence>
         </Item>
       </Remarks>
@@ -959,46 +1076,46 @@
             <Sentence WritingMode="vertical">「内国法人の外国税額の控除額の計算」の各欄は、内国法人が法第１２条（第２項を除く。）の規定の適用を受ける場合に記載すること。</Sentence>
           </ItemSentence>
         </Item>
-        <Item Num="2">
+        <Item Delete="false" Hide="false" Num="2">
           <ItemTitle>２</ItemTitle>
           <ItemSentence>
-            <Sentence>「４」から「７」までの各欄は、当該内国法人が通算法人である場合には、記載しないこと。</Sentence>
+            <Sentence WritingMode="vertical">「４」から「７」までの各欄は、当該内国法人が通算法人である場合には、記載しないこと。</Sentence>
           </ItemSentence>
         </Item>
-        <Item Num="3">
+        <Item Delete="false" Hide="false" Num="3">
           <ItemTitle>３</ItemTitle>
           <ItemSentence>
-            <Sentence>「課税標準法人税額／（４）－（５）　（６）」の欄の記載に当たっては、「（４）－（５）」の金額に１，０００円未満の端数があるときは、その端数金額を切り捨てること。</Sentence>
+            <Sentence WritingMode="vertical">「課税標準法人税額／（４）－（５）　（６）」の欄の記載に当たっては、「（４）－（５）」の金額に１，０００円未満の端数があるときは、その端数金額を切り捨てること。</Sentence>
           </ItemSentence>
         </Item>
-        <Item Num="4">
+        <Item Delete="false" Hide="false" Num="4">
           <ItemTitle>４</ItemTitle>
           <ItemSentence>
-            <Sentence>「（１１）又は当初申告税額控除額（１２）」の欄は、通算法人が法第１２条第５項の規定の適用を受ける場合には「（１１）又は」を消し、その他の場合には「又は当初申告税額控除額」を消すこと。</Sentence>
+            <Sentence WritingMode="vertical">「（１１）又は当初申告税額控除額　（１２）」の欄は、通算法人が法第１２条第５項の規定の適用を受ける場合には「（１１）又は」を消し、その他の場合には「又は当初申告税額控除額」を消すこと。</Sentence>
           </ItemSentence>
         </Item>
-        <Item Num="5">
+        <Item Delete="false" Hide="false" Num="5">
           <ItemTitle>５</ItemTitle>
           <ItemSentence>
-            <Sentence>「連結法人の外国税額の控除額の計算」の各欄は、連結親法人（所得税法等の一部を改正する法律（令和２年法律第８号）第４条の規定による改正前の地方法人税法第２条第６号に規定する連結親法人をいう。別表二付表三において同じ。）又は連結子法人（同条第７号に規定する連結子法人をいう。別表二付表三において同じ。）が同法第１２条第２項の規定の適用を受ける場合に記載すること。</Sentence>
+            <Sentence WritingMode="vertical">「連結法人の外国税額の控除額の計算」の各欄は、連結親法人（所得税法等の一部を改正する法律（令和２年法律第８号）第４条の規定による改正前の地方法人税法第２条第６号に規定する連結親法人をいう。別表二付表三において同じ。）又は連結子法人（同条第７号に規定する連結子法人をいう。別表二付表三において同じ。）が同法第１２条第２項の規定の適用を受ける場合に記載すること。</Sentence>
           </ItemSentence>
         </Item>
-        <Item Num="6">
+        <Item Delete="false" Hide="false" Num="6">
           <ItemTitle>６</ItemTitle>
           <ItemSentence>
-            <Sentence>「課税標準法人税額／（１５）－（１６）（１７）」の欄の記載に当たっては、「（１５）－（１６）」の金額に１，０００円未満の端数があるときは、その端数金額を切り捨てること。</Sentence>
+            <Sentence WritingMode="vertical">「課税標準法人税額／（１５）－（１６）　（１７）」の欄の記載に当たっては、「（１５）－（１６）」の金額に１，０００円未満の端数があるときは、その端数金額を切り捨てること。</Sentence>
           </ItemSentence>
         </Item>
-        <Item Num="7">
+        <Item Delete="false" Hide="false" Num="7">
           <ItemTitle>７</ItemTitle>
           <ItemSentence>
-            <Sentence>「外国法人の外国税額の控除額の計算」の各欄は、外国法人が法第１２条第２項の規定の適用を受ける場合に記載すること。</Sentence>
+            <Sentence WritingMode="vertical">「外国法人の外国税額の控除額の計算」の各欄は、外国法人が法第１２条第２項の規定の適用を受ける場合に記載すること。</Sentence>
           </ItemSentence>
         </Item>
-        <Item Num="8">
+        <Item Delete="false" Hide="false" Num="8">
           <ItemTitle>８</ItemTitle>
           <ItemSentence>
-            <Sentence>「課税標準法人税額／（２６）－（２７）（２８）」の欄の記載に当たっては、「（２６）－（２７）」の金額に１，０００円未満の端数があるときは、その端数金額を切り捨てること。</Sentence>
+            <Sentence WritingMode="vertical">「課税標準法人税額／（２６）－（２７）　（２８）」の欄の記載に当たっては、「（２６）－（２７）」の金額に１，０００円未満の端数があるときは、その端数金額を切り捨てること。</Sentence>
           </ItemSentence>
         </Item>
       </Remarks>
@@ -1106,31 +1223,25 @@
         <Item Delete="false" Hide="false" Num="1">
           <ItemTitle>１</ItemTitle>
           <ItemSentence>
-            <Sentence WritingMode="vertical">この表は、普通法人（法人税法第２条第９号に規定する普通法人をいう。）が中間申告（法第１６条第１項の規定による申告書の提出をいう。以下この号及び次号において同じ。）又は中間申告に係る修正申告をする場合に記載すること。</Sentence>
+            <Sentence WritingMode="vertical">この表は、普通法人（法人税法第２条第９号に規定する普通法人をいう。）が中間申告（法第１６条第１項の規定による申告書の提出をいう。以下この号において同じ。）又は中間申告に係る修正申告をする場合に記載すること。</Sentence>
           </ItemSentence>
         </Item>
         <Item Delete="false" Hide="false" Num="2">
           <ItemTitle>２</ItemTitle>
           <ItemSentence>
-            <Sentence WritingMode="vertical">「（ふりがな）代表者記名押印」の欄は、外国法人が中間申告又は中間申告に係る修正申告をする場合には、「代表者」として記載すること。</Sentence>
+            <Sentence WritingMode="vertical">「月数換算」の欄の分子の空欄には、当該課税事業年度開始の日から法第１６条第１項に規定する６月経過日（次号において「６月経過日」という。）の前日までの期間の月数を記載すること。</Sentence>
           </ItemSentence>
         </Item>
-        <Item Delete="false" Hide="false" Num="3">
+        <Item Num="3">
           <ItemTitle>３</ItemTitle>
           <ItemSentence>
-            <Sentence WritingMode="vertical">「月数換算」の欄の分子の空欄には、当該課税事業年度開始の日から法第１６条第１項に規定する６月経過日（次号において「６月経過日」という。）の前日までの期間の月数を記載すること。</Sentence>
+            <Sentence WritingMode="vertical">「修正・更正・決定の年月日」の欄は、６月経過日の前日までに最後に修正申告書を提出した日又は更正若しくは決定（国税通則法第２５条の規定による決定をいう。）の通知のあった日を記載すること。</Sentence>
           </ItemSentence>
         </Item>
         <Item Num="4">
           <ItemTitle>４</ItemTitle>
           <ItemSentence>
-            <Sentence>「修正・更正・決定の年月日」の欄は、６月経過日の前日までに最後に修正申告書を提出した日又は更正若しくは決定（国税通則法第２５条の規定による決定をいう。）の通知のあった日を記載すること。</Sentence>
-          </ItemSentence>
-        </Item>
-        <Item Num="5">
-          <ItemTitle>５</ItemTitle>
-          <ItemSentence>
-            <Sentence>「同上のうち税額控除超過額相当額の加算額等」の欄の記載に当たっては、次に掲げる場合の区分に応じそれぞれ次に定める金額（次に掲げる場合のうち２以上の場合に該当する場合には、当該２以上の場合の区分に応じそれぞれ次に定める金額の合計額）を記載すること。</Sentence>
+            <Sentence>「同上のうち税額控除超過額相当額の加算額等」の欄は、次に掲げる場合の区分に応じそれぞれ次に定める金額（次に掲げる場合のうち２以上の場合に該当する場合には、当該２以上の場合の区分に応じそれぞれ次に定める金額の合計額）を記載すること。</Sentence>
           </ItemSentence>
           <Subitem1 Delete="false" Hide="false" Num="1">
             <Subitem1Title>（１）</Subitem1Title>
@@ -1147,7 +1258,7 @@
             <Subitem1Title>（２）</Subitem1Title>
             <Subitem1Sentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">前課税事業年度の基準法人税額に租税特別措置法第42条の４第８項第６号ロ又は第７号（これらの規定を同条第１８項において準用する場合を含む。）の規定により加算された金額がある場合</Sentence>
+                <Sentence WritingMode="vertical">前課税事業年度の基準法人税額に租税特別措置法第４２条の４第８項第６号ロ又は第７号（これらの規定を同条第１８項において準用する場合を含む。）の規定により加算された金額がある場合</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">当該加算された金額の１００分の１０．３に相当する金額</Sentence>
@@ -1180,7 +1291,7 @@
             <Subitem1Title>（５）</Subitem1Title>
             <Subitem1Sentence>
               <Column Num="1">
-                <Sentence>前課税事業年度の基準法人税額に租税特別措置法第６２条第１項、第６２条の３第１項若しくは第９項若しくは第６３条第１項、所得税法等の一部を改正する法律（令和２年法律第８号。次号において「令和２年改正法」という。）第１６条の規定による改正前の租税特別措置法（（６）において「令和２年旧措置法」という。）第４２条の６第５項、第４２条の９第４項、第４２条の１２の３第５項若しくは第４２条の１２の４第５項若しくは所得税法等の一部を改正する法律（平成３０年法律第７号）第１５条の規定による改正前の租税特別措置法（（６）において「平成３０年旧措置法」という。）第４２条の５第５項の規定又は令附則第２条第２項第１号に掲げる規定により加算された金額がある場合</Sentence>
+                <Sentence>前課税事業年度の基準法人税額に租税特別措置法第６２条第１項、第６２条の３第１項若しくは第９項若しくは第６３条第１項、所得税法等の一部を改正する法律（令和３年法律第１１号）第７条の規定による改正前の租税特別措置法（（６）において「令和３年旧措置法」という。）第４２条の１２の３第５項、所得税法等の一部を改正する法律（令和２年法律第８号。次号において「令和２年改正法」という。）第１６条の規定による改正前の租税特別措置法（（６）において「令和２年旧措置法」という。）第４２条の６第５項、第４２条の９第４項若しくは第４２条の１２の４第５項若しくは所得税法等の一部を改正する法律（平成３０年法律第７号）第１５条の規定による改正前の租税特別措置法（（６）において「平成３０年旧措置法」という。）第４２条の５第５項の規定又は令附則第２条第２項第１号に掲げる規定により加算された金額がある場合</Sentence>
               </Column>
               <Column Num="2">
                 <Sentence>当該加算された金額の１００分の１０．３に相当する金額</Sentence>
@@ -1191,7 +1302,7 @@
             <Subitem1Title>（６）</Subitem1Title>
             <Subitem1Sentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">前課税事業年度の基準法人税額に令和２年旧措置法第６８条の１１第５項、第６８条の１３第４項、第６８条の１５の４第５項、第６８条の１５の５第５項、第６８条の６７第１項、第６８条の６８第１項若しくは第９項若しくは第６８条の６９第１項若しくは平成３０年旧措置法第６８条の１０第５項の規定又は令附則第２条第１項第１号に掲げる規定により加算された金額がある場合</Sentence>
+                <Sentence WritingMode="vertical">前課税事業年度の基準法人税額に令和３年旧措置法第６８条の１５の４第５項、令和２年旧措置法第６８条の１１第５項、第６８条の１３第４項、第６８条の１５の５第５項、第６８条の６７第１項、第６８条の６８第１項若しくは第９項若しくは第６８条の６９第１項若しくは平成３０年旧措置法第６８条の１０第５項の規定又は令附則第２条第１項第１号に掲げる規定により加算された金額がある場合</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">当該加算された金額の１００分の１０．３に相当する金額</Sentence>
@@ -1199,8 +1310,8 @@
             </Subitem1Sentence>
           </Subitem1>
         </Item>
-        <Item Delete="false" Hide="false" Num="6">
-          <ItemTitle>６</ItemTitle>
+        <Item Delete="false" Hide="false" Num="5">
+          <ItemTitle>５</ItemTitle>
           <ItemSentence>
             <Sentence WritingMode="vertical">「差引／地方法人税額」の欄は、前課税事業年度が令和２年改正法第４条の規定による改正前の地方法人税法第１６条第１項第１号イに規定する最終の連結事業年度に該当する場合には、当該前課税事業年度のその普通法人に係る調整後連結地方法人税個別帰属支払額（同号イに規定する地方法人税額に係るものをいう。）を記載すること。</Sentence>
           </ItemSentence>
@@ -1214,32 +1325,25 @@
         <Item Delete="false" Hide="false" Num="1">
           <ItemTitle>１</ItemTitle>
           <ItemSentence>
-            <Sentence WritingMode="vertical">この表は、法第６条第４号に掲げる法人が退職年金等積立金に係る確定申告（法第１９条第６項の規定による申告書（当該申告書に係る期限後申告書を含む。）の提出をいう。次号及び第４号において同じ。）若しくは退職年金等積立金に係る中間申告（法第１６条第１０項の規定による申告書（当該申告書に係る期限後申告書を含む。）の提出をいう。次号及び第４号において同じ。）又はこれらの申告に係る修正申告をする場合に記載すること。</Sentence>
+            <Sentence WritingMode="vertical">この表は、法第６条第４号に掲げる法人が退職年金等積立金に係る確定申告（法第１９条第６項の規定による申告書（当該申告書に係る期限後申告書を含む。）の提出をいう。第３号において同じ。）若しくは退職年金等積立金に係る中間申告（法第１６条第１０項の規定による申告書（当該申告書に係る期限後申告書を含む。）の提出をいう。第３号において同じ。）又はこれらの申告に係る修正申告をする場合に記載すること。</Sentence>
           </ItemSentence>
         </Item>
         <Item Delete="false" Hide="false" Num="2">
           <ItemTitle>２</ItemTitle>
           <ItemSentence>
-            <Sentence WritingMode="vertical">「（ふりがな）代表者記名押印」の欄は、外国法人が退職年金等積立金に係る確定申告若しくは退職年金等積立金に係る中間申告又はこれらの申告に係る修正申告をする場合には、「代表者」として記載すること。</Sentence>
-          </ItemSentence>
-        </Item>
-        <Item Delete="false" Hide="false" Num="3">
-          <ItemTitle>３</ItemTitle>
-          <ItemSentence>
             <Sentence Num="1" WritingMode="vertical">「旧納税地及び旧法人名等」の欄は、納税地又は法人名に変更があった場合に、変更前の納税地又は法人名を記載すること。</Sentence>
             <Sentence Num="2" WritingMode="vertical">なお、納税地と本店又は主たる事務所の所在地とが異なる場合には、その本店又は主たる事務所の所在地を記載すること。</Sentence>
           </ItemSentence>
         </Item>
-        <Item Delete="false" Hide="false" Num="4">
-          <ItemTitle>４</ItemTitle>
+        <Item Delete="false" Hide="false" Num="3">
+          <ItemTitle>３</ItemTitle>
           <ItemSentence>
             <Column LineBreak="false" Num="1">
               <Sentence WritingMode="vertical">「課税事業年度分の地方法人税</Sentence>
             </Column>
             <Column LineBreak="false" Num="2">
               <Sentence Num="1" WritingMode="vertical">申告書」の空欄は、退職年金等積立金に係る確定申告をする場合には「確定」と、退職年金等積立金に係る中間申告をする場合には「中間」と、それぞれ記載し、修正申告をする場合には「修正確定」又は「修正中間」と記載すること。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">なお、期限後申告（期限後申告書の提出をいう。</Sentence>
-              <Sentence Num="3" WritingMode="vertical">）をする場合には、その旨を併せて記載すること。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">なお、期限後申告（期限後申告書の提出をいう。）をする場合には、その旨を併せて記載すること。</Sentence>
             </Column>
           </ItemSentence>
         </Item>

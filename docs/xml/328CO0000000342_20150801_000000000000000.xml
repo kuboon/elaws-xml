@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="342" Year="28">
+<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="342" Year="28" PromulgateMonth="11" PromulgateDay="04">
   <LawNum>昭和二十八年政令第三百四十二号</LawNum>
   <LawBody>
-    <LawTitle>押収物還付等公告令</LawTitle>
+    <LawTitle Kana="おうしゅうぶつかんぷこうこくれい" Abbrev="" AbbrevKana="">押収物還付等公告令</LawTitle>
     <EnactStatement>内閣は、刑事訴訟法（昭和二十三年法律第百三十一号）第四百九十九条第一項の規定に基き、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -220,7 +220,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="339337" AmendLawNum="昭和三九年一〇月二二日政令第三三七号" Extract="true" Id="777cb911-b049-4e4b-9133-ee16f81970a2" Type="Amend">
+    <SupplProvision AmendLawNum="昭和三九年一〇月二二日政令第三三七号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -229,7 +229,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="422216" AmendLawNum="平成二二年一〇月二二日政令第二一六号" Extract="true" Id="6f60ca72-805d-4764-a924-886027b6efb1" Type="Amend">
+    <SupplProvision AmendLawNum="平成二二年一〇月二二日政令第二一六号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -252,7 +252,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424156" AmendLawNum="平成二四年五月三〇日政令第一五六号" Extract="true" Id="32782c4a-f0a8-4375-8099-e34508de2f01" Type="Amend">
+    <SupplProvision AmendLawNum="平成二四年五月三〇日政令第一五六号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="502M60080000013" AmendmentNum="令和二年原子力規制委員会規則第十三号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="056" Year="35">
+<Law AmendmentId="502M60080000013" AmendmentNum="令和二年原子力規制委員会規則第十三号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="056" Year="35" PromulgateMonth="03" PromulgateDay="18">
   <LawNum>昭和三十五年総理府令第五十六号</LawNum>
   <LawBody>
-    <LawTitle>放射性同位元素等の規制に関する法律施行規則</LawTitle>
+    <LawTitle Kana="ほうしゃせいどういげんそとうのきせいにかんするほうりつせこうきそく" Abbrev="放射線障害防止法施行規則,放射性同位元素等規制法施行規則" AbbrevKana="ほ,ほ">放射性同位元素等の規制に関する法律施行規則</LawTitle>
     <EnactStatement>放射性同位元素等による放射線障害の防止に関する法律及び放射性同位元素等による放射線障害の防止に関する法律施行令の規定に基づき、及びこれらを実施するため、放射性同位元素等による放射線障害の防止に関する法律施行規則（昭和三十三年総理府令第二十一号）の全部を次のように改正する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -905,7 +905,7 @@
             <Item Delete="false" Hide="false" Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">当該放射性同位元素装備機器を運搬する場合には、当該放射性同位元素装備機器又は当該放射性同位元素装備機器を収納した容器が、次に掲げる基準に適合すること。</Sentence>
+                <Sentence WritingMode="vertical">当該放射性同位元素装備機器を運搬する場合には、当該放射性同位元素装備機器又は当該放射性同位元素装備機器を収納した容器が、経年変化を考慮した上で、次に掲げる基準に適合すること。</Sentence>
               </ItemSentence>
               <Subitem1 Delete="false" Hide="false" Num="1">
                 <Subitem1Title>イ</Subitem1Title>
@@ -2396,7 +2396,7 @@
           <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">放射性同位元素等（危険物船舶運送及び貯蔵規則（昭和三十二年運輸省令第三十号）第二条第一号ト（１）に該当しないもの（原子力規制委員会の定めるものを除く。）を除く。以下第十八条の十三までにおいて同じ。）は、次に掲げる放射性同位元素等の区分に応じ、それぞれ当該各号に掲げる種類の放射性輸送物（放射性同位元素等が容器に収納され、又は包装されているものをいう。以下同じ。）として運搬しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">放射性同位元素等（原子力規制委員会の定めるものを除く。以下第十八条の十三までにおいて同じ。）は、次の各号に掲げる放射性同位元素等の区分に応じ、それぞれ当該各号に掲げる種類の放射性輸送物（放射性同位元素等が容器に収納され、又は包装されているものをいう。以下同じ。）として運搬しなければならない。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -2441,7 +2441,7 @@
           <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">前二項に掲げるＬ型輸送物、Ａ型輸送物、ＢＭ型輸送物、ＢＵ型輸送物、ＩＰ―１型輸送物、ＩＰ―２型輸送物及びＩＰ―３型輸送物は、それぞれ次条から第十八条の十までに規定する技術上の基準に適合するものでなければならない。</Sentence>
+              <Sentence WritingMode="vertical">前二項に掲げるＬ型輸送物、Ａ型輸送物、ＢＭ型輸送物、ＢＵ型輸送物、ＩＰ―１型輸送物、ＩＰ―２型輸送物及びＩＰ―３型輸送物は、当該放射性輸送物の経年変化を考慮した上で、それぞれ次条から第十八条の十までに規定する技術上の基準に適合するものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3154,13 +3154,31 @@
             <Item Delete="false" Hide="false" Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">承認容器として使用する期間</Sentence>
+                <Sentence WritingMode="vertical">収納物の密封性に関する事項</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
+                <Sentence WritingMode="vertical">ＢＭ型輸送物にあつては、ＢＵ型輸送物の設計基準のうち適合しない基準</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">承認容器として使用する期間</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
                 <Sentence WritingMode="vertical">容器の保守及び放射性輸送物の取扱いに関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他特記事項</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -5529,6 +5547,12 @@
               <Sentence WritingMode="vertical">法第二十五条の五の規定により読み替えて適用する法第十八条第一項の原子力規制委員会規則で定める技術上の基準は、第十八条の五から第十八条の七まで、第十八条の十二（Ａ型輸送物、ＢＭ型輸送物及びＢＵ型輸送物に係る部分に限る。）及び第十八条の十三（Ａ型輸送物、ＢＭ型輸送物及びＢＵ型輸送物に係る部分に限る。）に定める基準とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">特定放射性同位元素に係る放射性輸送物は、当該放射性輸送物の経年変化を考慮した上で、前項に規定する技術上の基準に適合するものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="24_2_5">
           <ArticleCaption>（運搬に関する確認を要する特定放射性同位元素）</ArticleCaption>
@@ -7341,7 +7365,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="338044" AmendLawNum="昭和三八年一〇月一日総理府令第四四号" Extract="false" Id="cd1e9592-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三八年一〇月一日総理府令第四四号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7350,7 +7374,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="341023" AmendLawNum="昭和四一年五月一二日総理府令第二三号" Extract="false" Id="cd26dbb2-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四一年五月一二日総理府令第二三号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7359,7 +7383,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="342031" AmendLawNum="昭和四二年六月三〇日総理府令第三一号" Extract="false" Id="cd2f883e-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四二年六月三〇日総理府令第三一号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7368,7 +7392,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="345034" AmendLawNum="昭和四五年九月二四日総理府令第三四号" Extract="false" Id="cd37d50c-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四五年九月二四日総理府令第三四号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7377,7 +7401,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="350058" AmendLawNum="昭和五〇年九月五日総理府令第五八号" Extract="false" Id="cd40b15e-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五〇年九月五日総理府令第五八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7386,7 +7410,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="353004" AmendLawNum="昭和五三年三月二九日総理府令第四号" Extract="false" Id="2e11365c-d3ba-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五三年三月二九日総理府令第四号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7395,7 +7419,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="353006" AmendLawNum="昭和五三年三月二九日総理府令第六号" Extract="false" Id="cd4c4d2a-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五三年三月二九日総理府令第六号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7404,7 +7428,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="354007" AmendLawNum="昭和五四年三月七日総理府令第七号" Extract="false" Id="cd5475fe-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五四年三月七日総理府令第七号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7413,7 +7437,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="355052" AmendLawNum="昭和五五年一〇月二四日総理府令第五二号" Extract="false" Id="2e1878cc-d3ba-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五五年一〇月二四日総理府令第五二号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7422,7 +7446,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="355060" AmendLawNum="昭和五五年一一月一八日総理府令第六〇号" Extract="false" Id="cd604348-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五五年一一月一八日総理府令第六〇号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7432,7 +7456,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="356031" AmendLawNum="昭和五六年五月一六日総理府令第三一号" Extract="false" Id="cd688918-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五六年五月一六日総理府令第三一号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -7455,7 +7479,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="363029" AmendLawNum="昭和六三年五月一七日総理府令第二九号" Extract="false" Id="cd70caf6-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六三年五月一七日総理府令第二九号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7464,7 +7488,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="363030" AmendLawNum="昭和六三年五月一八日総理府令第三〇号" Extract="false" Id="cd79354c-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六三年五月一八日総理府令第三〇号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7473,7 +7497,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="402057" AmendLawNum="平成二年一一月二八日総理府令第五七号" Extract="false" Id="cd8169d8-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二年一一月二八日総理府令第五七号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -7496,7 +7520,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="403040" AmendLawNum="平成三年一一月一五日総理府令第四〇号" Extract="false" Id="cd89a8fa-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成三年一一月一五日総理府令第四〇号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -7519,7 +7543,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="406006" AmendLawNum="平成六年二月一八日総理府令第六号" Extract="false" Id="cd922e62-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成六年二月一八日総理府令第六号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7528,7 +7552,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="406010" AmendLawNum="平成六年三月八日総理府令第一〇号" Extract="false" Id="2e257568-d3ba-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成六年三月八日総理府令第一〇号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7537,7 +7561,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="407045" AmendLawNum="平成七年九月二五日総理府令第四五号" Extract="false" Id="cd9da378-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成七年九月二五日総理府令第四五号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -7560,7 +7584,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="408039" AmendLawNum="平成八年七月一二日総理府令第三九号" Extract="false" Id="2e2a3fb2-d3ba-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成八年七月一二日総理府令第三九号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7569,7 +7593,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="410008" AmendLawNum="平成一〇年三月三一日総理府令第八号" Extract="false" Id="2e2cb274-d3ba-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一〇年三月三一日総理府令第八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7578,7 +7602,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411015" AmendLawNum="平成一一年三月二九日総理府令第一五号" Extract="false" Id="2e2f270c-d3ba-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年三月二九日総理府令第一五号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7587,7 +7611,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412057" AmendLawNum="平成一二年六月一日総理府令第五七号" Extract="false" Id="cdaf8390-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年六月一日総理府令第五七号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7596,7 +7620,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412118" AmendLawNum="平成一二年一〇月二〇日総理府令第一一八号" Extract="false" Id="2e3b2e30-d3ba-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年一〇月二〇日総理府令第一一八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7605,7 +7629,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412119" AmendLawNum="平成一二年一〇月二三日総理府令第一一九号" Extract="false" Id="cdbb68cc-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年一〇月二三日総理府令第一一九号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -7622,7 +7646,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413071" AmendLawNum="平成一三年六月一五日文部科学省令第七一号" Extract="false" Id="cdc3fadc-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年六月一五日文部科学省令第七一号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -7645,7 +7669,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414035" AmendLawNum="平成一四年七月一二日文部科学省令第三五号" Extract="false" Id="cdcc2cac-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年七月一二日文部科学省令第三五号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7654,7 +7678,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="415010" AmendLawNum="平成一五年三月二八日文部科学省令第一〇号" Extract="false" Id="cdd45a62-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年三月二八日文部科学省令第一〇号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7663,7 +7687,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416011" AmendLawNum="平成一六年三月二五日文部科学省令第一一号" Extract="false" Id="cddc96aa-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年三月二五日文部科学省令第一一号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7672,7 +7696,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416046" AmendLawNum="平成一六年一二月二四日文部科学省令第四六号" Extract="false" Id="cde56b68-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年一二月二四日文部科学省令第四六号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7681,7 +7705,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417002" AmendLawNum="平成一七年三月三日文部科学省令第二号" Extract="false" Id="cdeda242-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年三月三日文部科学省令第二号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7690,7 +7714,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417036" AmendLawNum="平成一七年六月一日文部科学省令第三六号" Extract="false" Id="cdf5e25e-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年六月一日文部科学省令第三六号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7809,7 +7833,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418043" AmendLawNum="平成一八年一二月二六日文部科学省令第四三号" Extract="false" Id="cdfe92d2-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年一二月二六日文部科学省令第四三号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -7832,7 +7856,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="420013" AmendLawNum="平成二〇年三月三一日文部科学省令第一三号" Extract="false" Id="ce06f04e-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年三月三一日文部科学省令第一三号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7841,7 +7865,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="421013" AmendLawNum="平成二一年三月三一日文部科学省令第一三号" Extract="false" Id="ce0fcc5a-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二一年三月三一日文部科学省令第一三号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7850,7 +7874,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="421033" AmendLawNum="平成二一年一〇月九日文部科学省令第三三号" Extract="false" Id="ce183840-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二一年一〇月九日文部科学省令第三三号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -7901,7 +7925,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="424008" AmendLawNum="平成二四年三月二八日文部科学省令第八号" Extract="false" Id="ce20a71e-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年三月二八日文部科学省令第八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7936,7 +7960,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424027" AmendLawNum="平成二四年七月五日文部科学省令第二七号" Extract="false" Id="ce28efbe-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年七月五日文部科学省令第二七号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7945,7 +7969,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="425008" AmendLawNum="平成二五年三月二九日文部科学省令第八号" Extract="false" Id="9121aad0-d3b3-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二五年三月二九日文部科学省令第八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7954,7 +7978,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="426006" AmendLawNum="平成二六年一一月二一日原子力規制委員会規則第六号" Extract="false" Id="ce346bc8-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年一一月二一日原子力規制委員会規則第六号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7963,7 +7987,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="426007" AmendLawNum="平成二六年一二月一〇日原子力規制委員会規則第七号" Extract="true" Id="fec0bf0a-d3b2-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年一二月一〇日原子力規制委員会規則第七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7995,7 +8019,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="427007" AmendLawNum="平成二七年一〇月五日原子力規制委員会規則第七号" Extract="false" Id="ce3fe296-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年一〇月五日原子力規制委員会規則第七号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -8004,7 +8028,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="430001" AmendLawNum="平成三〇年一月五日原子力規制委員会規則第一号" Id="955764cb-2675-4106-8a57-83ad235a8040" Type="Amend">
+    <SupplProvision AmendLawNum="平成三〇年一月五日原子力規制委員会規則第一号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -8028,7 +8052,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430006" AmendLawNum="平成三〇年六月八日原子力規制委員会規則第六号" Id="3e478d54-b124-4477-926a-359fcf866e30" Type="Amend">
+    <SupplProvision AmendLawNum="平成三〇年六月八日原子力規制委員会規則第六号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -8037,7 +8061,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="430011" AmendLawNum="平成三〇年一一月二六日原子力規制委員会規則第一一号" Id="eda80f9a-f148-11e8-97e7-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成三〇年一一月二六日原子力規制委員会規則第一一号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -8060,7 +8084,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501003" AmendLawNum="令和元年七月一日原子力規制委員会規則第三号" Id="5026e3dc-9e3a-11e9-a503-005056b30d52">
+    <SupplProvision AmendLawNum="令和元年七月一日原子力規制委員会規則第三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -8070,7 +8094,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="502013" AmendLawNum="令和二年三月一八日原子力規制委員会規則第一三号" Id="130e9af0-68ea-11ea-ac42-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和二年三月一八日原子力規制委員会規則第一三号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -8079,7 +8103,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="502017" AmendLawNum="令和二年九月一一日原子力規制委員会規則第一七号">
+    <SupplProvision AmendLawNum="令和二年九月一一日原子力規制委員会規則第一七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -8089,12 +8113,85 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一二月一七日原子力規制委員会規則第二〇号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この規則は、令和三年一月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この規則の施行の日前にされた核原料物質、核燃料物質及び原子炉の規制に関する法律第五十九条第二項の確認又は同条第三項若しくはこの規則による改正前の核燃料物質等の工場又は事業所の外における運搬に関する規則第二十一条第二項の承認（承認の更新を含む。以下この条において同じ。）の申請であって、この規則の施行の際確認又は承認をするかどうかの処分がされていないものについての処分については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この規則の施行の際現に放射性同位元素等の規制に関する法律第十二条の二第一項又は第二項の認証を受けている放射性同位元素装備機器は、この規則による改正後の放射性同位元素等の規制に関する法律施行規則第十四条の三第二項第五号に掲げる技術上の基準に適合したものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この規則の施行の日前にされた放射性同位元素等の規制に関する法律第十八条第二項（同法第二十五条の五の規定により読み替えて適用する場合を含む。）の確認又は同法第十八条第三項（同法第二十五条の五の規定により読み替えて適用する場合を含む。）若しくはこの規則による改正前の放射性同位元素等の規制に関する法律施行規則第十八条の十七第四項（同規則第二十四条の二の七の規定により読み替えて適用する場合を含む。）の承認（承認の更新を含む。以下この条において同じ。）の申請であって、この規則の施行の際確認又は承認をするかどうかの処分がされていないものについての処分については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この規則の施行の際現に運搬されている核原料物質、核燃料物質等及び放射性同位元素等については、当該運搬が終了するまでは、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一二月二二日原子力規制委員会規則第二一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この規則は、令和三年一月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（調整規定）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この規則及び核燃料物質等の工場又は事業所の外における運搬に関する規則等の一部を改正する規則（令和二年原子力規制委員会規則第二十号）により改正される放射性同位元素等の規制に関する法律施行規則の規定は、核燃料物質等の工場又は事業所の外における運搬に関する規則等の一部を改正する規則によってまず改正され、次いでこの規則によって改正されるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１</AppdxStyleTitle>
       <RelatedArticleNum>（第２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_001.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8103,7 +8200,7 @@
       <RelatedArticleNum>（第３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_002.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8112,7 +8209,7 @@
       <RelatedArticleNum>（第４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_003.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8121,7 +8218,7 @@
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_004.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8130,7 +8227,7 @@
       <RelatedArticleNum>（第６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_005.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8139,7 +8236,7 @@
       <RelatedArticleNum>（第６条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_006.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8148,7 +8245,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_007.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8157,7 +8254,7 @@
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_008.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8166,7 +8263,7 @@
       <RelatedArticleNum>（第９条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_009.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8175,7 +8272,7 @@
       <RelatedArticleNum>（第１０条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_010.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8184,7 +8281,7 @@
       <RelatedArticleNum>（第１０条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_011.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8193,7 +8290,7 @@
       <RelatedArticleNum>（第１１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_012.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8202,7 +8299,7 @@
       <RelatedArticleNum>（第１４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_013.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8211,7 +8308,7 @@
       <RelatedArticleNum>（第１４条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_014.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8220,7 +8317,7 @@
       <RelatedArticleNum>（第１４条の１４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_015.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8229,7 +8326,7 @@
       <RelatedArticleNum>（第１４条の１７及び第１４条の１８関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_016.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8238,7 +8335,7 @@
       <RelatedArticleNum>（第１４条の２０関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_017.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8247,7 +8344,7 @@
       <RelatedArticleNum>（第１８条の１５及び第２４条の２の６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_018.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8256,7 +8353,7 @@
       <RelatedArticleNum>（第１８条の１７及び第２４条の２の７関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_019.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8265,7 +8362,7 @@
       <RelatedArticleNum>（第１８条の１９及び第２４条の２の７関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_020.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8274,7 +8371,7 @@
       <RelatedArticleNum>（第１８条の２０第１項及び第２４条の２の７関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_021.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8283,7 +8380,7 @@
       <RelatedArticleNum>（第１８条の２０第２項及び第２４条の２の７関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_022.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8292,7 +8389,7 @@
       <RelatedArticleNum>（第１９条の２第１項第１号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_023.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8301,7 +8398,7 @@
       <RelatedArticleNum>（第１９条の２第１項第２号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_024.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8310,7 +8407,7 @@
       <RelatedArticleNum>（第２１条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_025.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8319,7 +8416,7 @@
       <RelatedArticleNum>（第２１条第３項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_026.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8328,7 +8425,7 @@
       <RelatedArticleNum>（第２４条の２の３第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_027.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8337,7 +8434,7 @@
       <RelatedArticleNum>（第２４条の２の３第３項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_028.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8346,7 +8443,7 @@
       <RelatedArticleNum>（第２４条の２の９関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_029.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_029.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8355,7 +8452,7 @@
       <RelatedArticleNum>（第２４条の２の１０第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_030.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_030.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8364,7 +8461,7 @@
       <RelatedArticleNum>（第２４条の２の１０第１項及び第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_031.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_031.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8373,7 +8470,7 @@
       <RelatedArticleNum>（第２４条の２の１０第３項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_032.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_032.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8382,7 +8479,7 @@
       <RelatedArticleNum>（第２４条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_033.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_033.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8391,7 +8488,7 @@
       <RelatedArticleNum>（第２４条の４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_034.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_034.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8400,7 +8497,7 @@
       <RelatedArticleNum>（第２４条の４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_035.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_035.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8409,7 +8506,7 @@
       <RelatedArticleNum>（第２４条の５関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_036.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_036.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8418,7 +8515,7 @@
       <RelatedArticleNum>（第２４条の６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_037.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_037.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8427,7 +8524,7 @@
       <RelatedArticleNum>（第２５条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_038.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_038.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8436,7 +8533,7 @@
       <RelatedArticleNum>（第２５条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_039.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_039.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8445,7 +8542,7 @@
       <RelatedArticleNum>（第２６条第４項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_040.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_040.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8454,7 +8551,7 @@
       <RelatedArticleNum>（第２６条第５項及び第２６条の２第３項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_041.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_041.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8463,7 +8560,7 @@
       <RelatedArticleNum>（第２６条第６項及び第２６条の２第４項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_042.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_042.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8472,7 +8569,7 @@
       <RelatedArticleNum>（第２６条の２第１項及び第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_043.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_043.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8481,7 +8578,7 @@
       <RelatedArticleNum>（第２６条の２第１項及び第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_044.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_044.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8490,7 +8587,7 @@
       <RelatedArticleNum>（第２９条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_045.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_045.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8499,7 +8596,7 @@
       <RelatedArticleNum>（第２９条の６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_046.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_046.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8508,7 +8605,7 @@
       <RelatedArticleNum>（第３１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_047.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_047.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8517,7 +8614,7 @@
       <RelatedArticleNum>（第３３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_048.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_048.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8526,7 +8623,7 @@
       <RelatedArticleNum>（第３５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_049.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_049.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8535,7 +8632,7 @@
       <RelatedArticleNum>（第３５条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_050.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_050.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8544,7 +8641,7 @@
       <RelatedArticleNum>（第３５条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_051.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_051.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8553,7 +8650,7 @@
       <RelatedArticleNum>（第３５条の５関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_052.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_052.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8562,7 +8659,7 @@
       <RelatedArticleNum>（第３５条の６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_053.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_053.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8571,7 +8668,7 @@
       <RelatedArticleNum>（第３５条の７関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_054.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_054.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8580,7 +8677,7 @@
       <RelatedArticleNum>（第３６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_055.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_055.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8589,7 +8686,7 @@
       <RelatedArticleNum>（第３６条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_056.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_056.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8598,7 +8695,7 @@
       <RelatedArticleNum>（第３７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_057.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_057.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8607,7 +8704,7 @@
       <RelatedArticleNum>（第３８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_058.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_058.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8616,7 +8713,7 @@
       <RelatedArticleNum>（第３８条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_059.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_059.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8625,7 +8722,7 @@
       <RelatedArticleNum>（第３８条の６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_060.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_060.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8634,7 +8731,7 @@
       <RelatedArticleNum>（第３８条の８関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_061.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_061.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8643,7 +8740,7 @@
       <RelatedArticleNum>（第３８条の９関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_062.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_062.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8652,7 +8749,7 @@
       <RelatedArticleNum>（第３９条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_063.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_063.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8661,7 +8758,7 @@
       <RelatedArticleNum>（第３９条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_064.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_064.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8670,7 +8767,7 @@
       <RelatedArticleNum>（第４１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_065.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_065.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8679,7 +8776,7 @@
       <RelatedArticleNum>（第４１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_066.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_066.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8688,7 +8785,7 @@
       <RelatedArticleNum>（第４２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S35F03101000056_2003191003_067.pdf"/>
+          <Fig src="./pict/S35F03101000056_2102161502_067.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

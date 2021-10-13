@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="33" Year="20">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="33" Year="20" PromulgateMonth="06" PromulgateDay="19">
   <LawNum>平成二十年法律第三十三号</LawNum>
   <LawBody>
-    <LawTitle>中小企業における経営の承継の円滑化に関する法律</LawTitle>
+    <LawTitle Kana="ちゅうしょうきぎょうにおけるけいえいのしょうけいのえんかつかにかんするほうりつ" Abbrev="経営承継円滑化法,中小企業経営承継円滑化法" AbbrevKana="け,ち">中小企業における経営の承継の円滑化に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -1287,7 +1287,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和二年六月一九日法律第五八号" Extract="true">
+    <SupplProvision Extract="true" AmendLawNum="令和二年六月一九日法律第五八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

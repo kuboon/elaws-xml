@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="34" Year="22">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="34" Year="22" PromulgateMonth="05" PromulgateDay="31">
   <LawNum>昭和二十二年法律第三十四号</LawNum>
   <LawBody>
-    <LawTitle>財政法　抄</LawTitle>
+    <LawTitle Kana="ざいせいほう　しょう" Abbrev="" AbbrevKana="">財政法　抄</LawTitle>
     <TOC>
       <TOCLabel>財政法目次</TOCLabel>
       <TOCChapter Delete="false" Num="1">
@@ -50,20 +50,20 @@
               <Sentence WritingMode="vertical">収入とは、国の各般の需要を充たすための支払の財源となるべき現金の収納をいい、支出とは、国の各般の需要を充たすための現金の支払をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の現金の収納には、他の財産の処分又は新らたな債務の負担に因り生ずるものをも含み、同項の現金の支払には、他の財産の取得又は債務の減少を生ずるものをも含む。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">なお第一項の収入及び支出には、会計間の繰入その他国庫内において行う移換によるものを含む。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4" OldStyle="false">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">歳入とは、一会計年度における一切の収入をいい、歳出とは、一会計年度における一切の支出をいう。</Sentence>
             </ParagraphSentence>
@@ -87,14 +87,14 @@
               <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、公共事業費、出資金及び貸付金の財源については、国会の議決を経た金額の範囲内で、公債を発行し又は借入金をなすことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項但書の規定により公債を発行し又は借入金をなす場合においては、その償還の計画を国会に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項に規定する公共事業費の範囲については、毎会計年度、国会の議決を経なければならない。</Sentence>
             </ParagraphSentence>
@@ -118,8 +118,8 @@
               <Sentence WritingMode="vertical">各会計年度において歳入歳出の決算上剰余を生じた場合においては、当該剰余金のうち、二分の一を下らない金額は、他の法律によるものの外、これを剰余金を生じた年度の翌翌年度までに、公債又は借入金の償還財源に充てなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の剰余金の計算については、政令でこれを定める。</Sentence>
             </ParagraphSentence>
@@ -133,14 +133,14 @@
               <Sentence WritingMode="vertical">国は、国庫金の出納上必要があるときは、財務省証券を発行し又は日本銀行から一時借入金をなすことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項に規定する財務省証券及び一時借入金は、当該年度の歳入を以て、これを償還しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">財務省証券の発行及び一時借入金の借入の最高額については、毎会計年度、国会の議決を経なければならない。</Sentence>
             </ParagraphSentence>
@@ -163,8 +163,8 @@
               <Sentence WritingMode="vertical">国の財産は、法律に基く場合を除く外、これを交換しその他支払手段として使用し、又は適正な対価なくしてこれを譲渡し若しくは貸し付けてはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国の財産は、常に良好の状態においてこれを管理し、その所有の目的に応じて、最も効率的に、これを運用しなければならない。</Sentence>
             </ParagraphSentence>
@@ -199,8 +199,8 @@
               <Sentence WritingMode="vertical">国の会計を分つて一般会計及び特別会計とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国が特定の事業を行う場合、特定の資金を保有してその運用を行う場合その他特定の歳入を以て特定の歳出に充て一般の歳入歳出と区分して経理する必要がある場合に限り、法律を以て、特別会計を設置するものとする。</Sentence>
             </ParagraphSentence>
@@ -228,21 +228,21 @@
                 <Sentence WritingMode="vertical">国は、工事、製造その他の事業で、その完成に数年度を要するものについて、特に必要がある場合においては、経費の総額及び年割額を定め、予め国会の議決を経て、その議決するところに従い、数年度にわたつて支出することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定により国が支出することができる年限は、当該会計年度以降五箇年度以内とする。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、予算を以て、国会の議決を経て更にその年限を延長することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前二項の規定により支出することができる経費は、これを継続費という。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4" OldStyle="false">
-              <ParagraphNum>○４</ParagraphNum>
+            <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前三項の規定は、国会が、継続費成立後の会計年度の予算の審議において、当該継続費につき重ねて審議することを妨げるものではない。</Sentence>
               </ParagraphSentence>
@@ -256,8 +256,8 @@
                 <Sentence WritingMode="vertical">歳出予算の経費のうち、その性質上又は予算成立後の事由に基き年度内にその支出を終らない見込のあるものについては、予め国会の議決を経て、翌年度に繰り越して使用することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の規定により翌年度に繰り越して使用することができる経費は、これを繰越明許費という。</Sentence>
               </ParagraphSentence>
@@ -271,27 +271,27 @@
                 <Sentence WritingMode="vertical">法律に基くもの又は歳出予算の金額（第四十三条の三に規定する承認があつた金額を含む。）若しくは継続費の総額の範囲内におけるものの外、国が債務を負担する行為をなすには、予め予算を以て、国会の議決を経なければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項に規定するものの外、災害復旧その他緊急の必要がある場合においては、国は毎会計年度、国会の議決を経た金額の範囲内において、債務を負担する行為をなすことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">前二項の規定により国が債務を負担する行為に因り支出すべき年限は、当該会計年度以降五箇年度以内とする。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、国会の議決により更にその年限を延長するもの並びに外国人に支給する給料及び恩給、地方公共団体の債務の保証又は債務の元利若しくは利子の補給、土地、建物の借料及び国際条約に基く分担金に関するもの、その他法律で定めるものは、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4" OldStyle="false">
-              <ParagraphNum>○４</ParagraphNum>
+            <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第二項の規定により国が債務を負担した行為については、次の常会において国会に報告しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="5" OldStyle="false">
-              <ParagraphNum>○５</ParagraphNum>
+            <Paragraph Hide="false" Num="5" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第一項又は第二項の規定により国が債務を負担する行為は、これを国庫債務負担行為という。</Sentence>
               </ParagraphSentence>
@@ -317,8 +317,8 @@
                 <Sentence WritingMode="vertical">衆議院議長、参議院議長、最高裁判所長官及び会計検査院長は、毎会計年度、その所掌に係る歳入、歳出、継続費、繰越明許費及び国庫債務負担行為の見積に関する書類を作製し、これを内閣における予算の統合調整に供するため、内閣に送付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">内閣総理大臣及び各省大臣は、毎会計年度、その所掌に係る歳入、歳出、継続費、繰越明許費及び国庫債務負担行為の見積に関する書類を作製し、これを財務大臣に送付しなければならない。</Sentence>
               </ParagraphSentence>
@@ -332,8 +332,8 @@
                 <Sentence WritingMode="vertical">財務大臣は、前条の見積を検討して必要な調整を行い、歳入、歳出、継続費、繰越明許費及び国庫債務負担行為の概算を作製し、閣議の決定を経なければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">内閣は、前項の決定をしようとするときは、国会、裁判所及び会計検査院に係る歳出の概算については、予め衆議院議長、参議院議長、最高裁判所長官及び会計検査院長に対しその決定に関し意見を求めなければならない。</Sentence>
               </ParagraphSentence>
@@ -356,8 +356,8 @@
                 <Sentence WritingMode="vertical">財務大臣は、毎会計年度、第十八条の閣議決定に基いて、歳入予算明細書を作製しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">衆議院議長、参議院議長、最高裁判所長官、会計検査院長並びに内閣総理大臣及び各省大臣（以下各省各庁の長という。）は、毎会計年度、第十八条の閣議決定のあつた概算の範囲内で予定経費要求書、継続費要求書、繰越明許費要求書及び国庫債務負担行為要求書（以下予定経費要求書等という。）を作製し、これを財務大臣に送付しなければならない。</Sentence>
               </ParagraphSentence>
@@ -566,8 +566,8 @@
                 <Sentence WritingMode="vertical">内閣は、必要に応じて、一会計年度のうちの一定期間に係る暫定予算を作成し、これを国会に提出することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">暫定予算は、当該年度の予算が成立したときは、失効するものとし、暫定予算に基く支出又はこれに基く債務の負担があるときは、これを当該年度の予算に基いてなしたものとみなす。</Sentence>
               </ParagraphSentence>
@@ -584,14 +584,14 @@
                 <Sentence WritingMode="vertical">予算が成立したときは、内閣は、国会の議決したところに従い、各省各庁の長に対し、その執行の責に任ずべき歳入歳出予算、継続費及び国庫債務負担行為を配賦する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の規定により歳入歳出予算及び継続費を配賦する場合においては、項を目に区分しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">財務大臣は、第一項の規定による配賦のあつたときは、会計検査院に通知しなければならない。</Sentence>
               </ParagraphSentence>
@@ -615,20 +615,20 @@
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、予算の執行上の必要に基き、あらかじめ予算をもつて国会の議決を経た場合に限り、財務大臣の承認を経て移用することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">各省各庁の長は、各目の経費の金額については、財務大臣の承認を経なければ、目の間において、彼此流用することができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">財務大臣は、第一項但書又は前項の規定に基く移用又は流用について承認をしたときは、その旨を当該各省各庁の長及び会計検査院に通知しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4" OldStyle="false">
-              <ParagraphNum>○４</ParagraphNum>
+            <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第一項但書又は第二項の規定により移用又は流用した経費の金額については、歳入歳出の決算報告書において、これを明らかにするとともに、その理由を記載しなければならない。</Sentence>
               </ParagraphSentence>
@@ -642,14 +642,14 @@
                 <Sentence WritingMode="vertical">各省各庁の長は、第三十一条第一項の規定により配賦された予算に基いて、政令の定めるところにより、支出担当事務職員ごとに支出の所要額を定め、支払の計画に関する書類を作製して、これを財務大臣に送付し、その承認を経なければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">財務大臣は、国庫金、歳入及び金融の状況並びに経費の支出状況等を勘案して、適時に、支払の計画の承認に関する方針を作製し、閣議の決定を経なければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">財務大臣は、第一項の支払の計画について承認をしたときは、各省各庁の長に通知するとともに、財務大臣が定める場合を除き、これを日本銀行に通知しなければならない。</Sentence>
               </ParagraphSentence>
@@ -663,8 +663,8 @@
                 <Sentence WritingMode="vertical">各省各庁の長は、第三十一条第一項の規定により配賦された歳出予算、継続費及び国庫債務負担行為のうち、公共事業費その他財務大臣の指定する経費に係るものについては、政令の定めるところにより、当該歳出予算、継続費又は国庫債務負担行為に基いてなす支出負担行為（国の支出の原因となる契約その他の行為をいう。以下同じ。）の実施計画に関する書類を作製して、これを財務大臣に送付し、その承認を経なければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">財務大臣は、前項の支出負担行為の実施計画を承認したときは、これを各省各庁の長及び会計検査院に通知しなければならない。</Sentence>
               </ParagraphSentence>
@@ -678,27 +678,27 @@
                 <Sentence WritingMode="vertical">予備費は、財務大臣が、これを管理する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">各省各庁の長は、予備費の使用を必要と認めるときは、理由、金額及び積算の基礎を明らかにした調書を作製し、これを財務大臣に送付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">財務大臣は、前項の要求を調査し、これに所要の調整を加えて予備費使用書を作製し、閣議の決定を求めなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、予め閣議の決定を経て財務大臣の指定する経費については、閣議を経ることを必要とせず、財務大臣が予備費使用書を決定することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4" OldStyle="false">
-              <ParagraphNum>○４</ParagraphNum>
+            <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">予備費使用書が決定したときは、当該使用書に掲げる経費については、第三十一条第一項の規定により、予算の配賦があつたものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="5" OldStyle="false">
-              <ParagraphNum>○５</ParagraphNum>
+            <Paragraph Hide="false" Num="5" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第一項の規定は、第十五条第二項の規定による国庫債務負担行為に、第二項、第三項本文及び前項の規定は、各省各庁の長が第十五条第二項の規定により国庫債務負担行為をなす場合に、これを準用する。</Sentence>
               </ParagraphSentence>
@@ -712,20 +712,20 @@
                 <Sentence WritingMode="vertical">予備費を以て支弁した金額については、各省各庁の長は、その調書を作製して、次の国会の常会の開会後直ちに、これを財務大臣に送付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2" OldStyle="false">
-              <ParagraphNum>○２</ParagraphNum>
+            <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">財務大臣は、前項の調書に基いて予備費を以て支弁した金額の総調書を作製しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3" OldStyle="false">
-              <ParagraphNum>○３</ParagraphNum>
+            <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">内閣は、予備費を以て支弁した総調書及び各省各庁の調書を次の常会において国会に提出して、その承諾を求めなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4" OldStyle="false">
-              <ParagraphNum>○４</ParagraphNum>
+            <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+              <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">財務大臣は、前項の総調書及び調書を会計検査院に送付しなければならない。</Sentence>
               </ParagraphSentence>
@@ -743,14 +743,14 @@
               <Sentence WritingMode="vertical">各省各庁の長は、毎会計年度、財務大臣の定めるところにより、その所掌に係る歳入及び歳出の決算報告書並びに国の債務に関する計算書を作製し、これを財務大臣に送付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">財務大臣は、前項の歳入決算報告書に基いて、歳入予算明細書と同一の区分により、歳入決算明細書を作製しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">各省各庁の長は、その所掌の継続費に係る事業が完成した場合においては、財務大臣の定めるところにより、継続費決算報告書を作製し、これを財務大臣に送付しなければならない。</Sentence>
             </ParagraphSentence>
@@ -764,8 +764,8 @@
               <Sentence WritingMode="vertical">財務大臣は、歳入決算明細書及び歳出の決算報告書に基いて、歳入歳出の決算を作成しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">歳入歳出の決算は、歳入歳出予算と同一の区分により、これを作製し、且つ、これに左の事項を明らかにしなければならない。</Sentence>
             </ParagraphSentence>
@@ -872,8 +872,8 @@
               <Sentence WritingMode="vertical">内閣は、会計検査院の検査を経た歳入歳出決算を、翌年度開会の常会において国会に提出するのを常例とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の歳入歳出決算には、会計検査院の検査報告の外、歳入決算明細書、各省各庁の歳出決算報告書及び継続費決算報告書並びに国の債務に関する計算書を添附する。</Sentence>
             </ParagraphSentence>
@@ -909,20 +909,20 @@
               <Sentence WritingMode="vertical">各省各庁の長は、第十四条の三第一項又は前条但書の規定による繰越を必要とするときは、繰越計算書を作製し、事項ごとに、その事由及び金額を明らかにして、財務大臣の承認を経なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の承認があつたときは、当該経費に係る歳出予算は、その承認があつた金額の範囲内において、これを翌年度に繰り越して使用することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">各省各庁の長は、前項の規定による繰越をしたときは、事項ごとに、その金額を明らかにして、財務大臣及び会計検査院に通知しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4" OldStyle="false">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第二項の規定により繰越をしたときは、当該経費については、第三十一条第一項の規定による予算の配賦があつたものとみなす。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合においては、同条第三項の規定による通知は、これを必要としない。</Sentence>
@@ -937,8 +937,8 @@
               <Sentence WritingMode="vertical">継続費の毎会計年度の年割額に係る歳出予算の経費の金額のうち、その年度内に支出を終らなかつたものは、第四十二条の規定にかかわらず、継続費に係る事業の完成年度まで、逓次繰り越して使用することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前条第三項及び第四項の規定は、前項の規定により繰越をした場合に、これを準用する。</Sentence>
             </ParagraphSentence>
@@ -979,8 +979,8 @@
               <Sentence WritingMode="vertical">内閣は、予算が成立したときは、直ちに予算、前前年度の歳入歳出決算並びに公債、借入金及び国有財産の現在高その他財政に関する一般の事項について、印刷物、講演その他適当な方法で国民に報告しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項に規定するものの外、内閣は、少くとも毎四半期ごとに、予算使用の状況、国庫の状況その他財政の状況について、国会及び国民に報告しなければならない。</Sentence>
             </ParagraphSentence>
@@ -1004,8 +1004,8 @@
               <Sentence WritingMode="vertical">この法律又はこの法律に基づく命令の規定による書類等の提出については、当該書類等が電磁的記録で作成されている場合には、電磁的方法（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法であつて財務大臣が定めるものをいう。次項において同じ。）をもつて行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定により書類等の提出が電磁的方法によつて行われたときは、当該書類等の提出を受けるべき者の使用に係る電子計算機に備えられたファイルへの記録がされた時に当該提出を受けるべき者に到達したものとみなす。</Sentence>
             </ParagraphSentence>
@@ -1033,8 +1033,8 @@
             <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、第十七条第一項、第十八条第二項、第十九条、第三十条、第三十一条、第三十五条並びに第三十六条の規定は、日本国憲法施行の日から、これを施行し、第三条、第十条及び第三十四条の規定の施行の日は、政令でこれを定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第四条及び第五条の規定は、昭和二十三年度以後の会計年度の予算に計上される公債又は借入金について、第七条、第三章の規定（第十七条第一項、第十八条第二項、第十九条、第二十八条、第三十条、第三十一条並びに第三十四条乃至第三十六条の規定を除く。）及び第四章の規定は、昭和二十二年度以後の会計年度の予算及び決算について、これを適用する。</Sentence>
           </ParagraphSentence>
@@ -1048,14 +1048,14 @@
             <Sentence WritingMode="vertical">内閣は、当分の間、第三十一条第一項の規定により歳入歳出予算を配賦する場合において、当該配賦の際、目に区分し難い項があるときは、同条第二項の規定にかかわらず、当該項に限り、目の区分をしないで配賦することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定により目の区分をしないで配賦した場合においては、各省各庁の長は、当該項に係る歳出予算の執行の時までに、財務大臣の承認を経て、目の区分をしなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">財務大臣は、前項の規定により目の区分について承認をしたときは、その旨を会計検査院に通知しなければならない。</Sentence>
           </ParagraphSentence>
@@ -1100,7 +1100,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="324023" AmendLawNum="昭和二四年四月一日法律第二三号" Extract="true" Id="36d0ba14-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二四年四月一日法律第二三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -1110,7 +1110,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="324145" AmendLawNum="昭和二四年五月三一日法律第一四五号" Extract="true" Id="b7006b46-18c6-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二四年五月三一日法律第一四五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -1119,7 +1119,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="325060" AmendLawNum="昭和二五年三月三一日法律第六〇号" Extract="true" Id="371dcd9a-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二五年三月三一日法律第六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -1128,7 +1128,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="325141" AmendLawNum="昭和二五年五月四日法律第一四一号" Extract="true" Id="3744560e-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二五年五月四日法律第一四一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -1137,7 +1137,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="326173" AmendLawNum="昭和二六年六月一日法律第一七三号" Extract="true" Id="50a8f0b0-18c7-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二六年六月一日法律第一七三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -1146,7 +1146,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="327004" AmendLawNum="昭和二七年三月五日法律第四号" Extract="true" Id="6e2a41e2-47dd-11e5-94ca-63d1e34efd04">
+    <SupplProvision AmendLawNum="昭和二七年三月五日法律第四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -1156,7 +1156,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="327268" AmendLawNum="昭和二七年七月三一日法律第二六八号" Extract="true" Id="443e1447-9298-4879-9a8e-5bbb6cb82391">
+    <SupplProvision AmendLawNum="昭和二七年七月三一日法律第二六八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -1165,7 +1165,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="329090" AmendLawNum="昭和二九年五月八日法律第九〇号" Extract="true" Id="37de6820-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二九年五月八日法律第九〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -1180,7 +1180,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="337108" AmendLawNum="昭和三七年五月八日法律第一〇八号" Extract="true" Id="3804eeb4-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三七年五月八日法律第一〇八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -1189,7 +1189,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="340046" AmendLawNum="昭和四〇年四月一二日法律第四六号" Id="382b6c60-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四〇年四月一二日法律第四六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -1198,7 +1198,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="353055" AmendLawNum="昭和五三年五月二三日法律第五五号" Extract="true" Id="84eb08fc-d3c6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五三年五月二三日法律第五五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
@@ -1208,7 +1208,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="403086" AmendLawNum="平成三年九月一九日法律第八六号" Extract="true" Id="38786740-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成三年九月一九日法律第八六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -1218,7 +1218,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="409109" AmendLawNum="平成九年一二月五日法律第一〇九号" Extract="true" Id="55abf87c-47dd-11e5-9044-03e2079aed90">
+    <SupplProvision AmendLawNum="平成九年一二月五日法律第一〇九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1231,7 +1231,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411102" AmendLawNum="平成一一年七月一六日法律第一〇二号" Extract="true" Id="f62c9686-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第一〇二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1294,7 +1294,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1319,7 +1319,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414152" AmendLawNum="平成一四年一二月一三日法律第一五二号" Extract="true" Id="f64feadc-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年一二月一三日法律第一五二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1342,7 +1342,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418053" AmendLawNum="平成一八年六月七日法律第五三号" Extract="true" Id="87ec4b1a-d3c6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年六月七日法律第五三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1355,7 +1355,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501016" AmendLawNum="令和元年五月三一日法律第一六号" Extract="true" Id="51691030-88e1-11e9-a713-005056b30d52">
+    <SupplProvision AmendLawNum="令和元年五月三一日法律第一六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

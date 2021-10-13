@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="112" Year="23">
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="112" Year="23" PromulgateMonth="06" PromulgateDay="26">
   <LawNum>平成二十三年政令第百十二号</LawNum>
   <LawBody>
-    <LawTitle>東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行令</LawTitle>
+    <LawTitle Kana="ひがしにほんだいしんさいのひさいしゃとうにかかるこくぜいかんけいほうりつのりんじとくれいにかんするほうりつせこうれい" Abbrev="震災特例法施行令" AbbrevKana="し">東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行令</LawTitle>
     <EnactStatement>内閣は、東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（平成二十三年法律第二十九号）の規定に基づき、この政令を制定する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -12,7 +12,7 @@
       </TOCChapter>
       <TOCChapter Num="2">
         <ChapterTitle>第二章　所得税法等の特例</ChapterTitle>
-        <ArticleRange>（第二条―第十五条の三）</ArticleRange>
+        <ArticleRange>（第二条―第十五条の二）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="3">
         <ChapterTitle>第三章　法人税法等の特例</ChapterTitle>
@@ -24,7 +24,7 @@
       </TOCChapter>
       <TOCChapter Num="5">
         <ChapterTitle>第五章　登録免許税法等の特例</ChapterTitle>
-        <ArticleRange>（第三十条―第三十二条の四）</ArticleRange>
+        <ArticleRange>（第三十条―第三十二条の二）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="6">
         <ChapterTitle>第六章　消費税法等の特例</ChapterTitle>
@@ -114,7 +114,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>第三章において「人格のない社団等」、「法人課税信託」、「事業年度」、「中間申告書」、「棚卸資産」、「確定申告書」、「還付加算金」、「更正」、「充当」、「減価償却資産」、「適格合併」、「適格分割」、「適格現物出資」、「適格現物分配」、「被合併法人」、「分割法人」、「現物出資法人」、「合併法人」、「分割承継法人」、「被現物出資法人」又は「被現物分配法人」とは、それぞれ法第二条第三項第一号から第十号まで、第十七号から第二十三号まで、第二十七号、第二十八号、第三十号又は第三十一号に規定する人格のない社団等、法人課税信託、事業年度、中間申告書、棚卸資産、確定申告書、還付加算金、更正、充当、減価償却資産、適格合併、適格分割、適格現物出資、適格現物分配、被合併法人、分割法人、現物出資法人、合併法人、分割承継法人、被現物出資法人又は被現物分配法人をいう。</Sentence>
+              <Sentence>第三章において「人格のない社団等」、「法人課税信託」、「棚卸資産」、「事業年度」、「確定申告書」、「中間申告書」、「減価償却資産」、「適格合併」、「合併法人」、「分割承継法人」、「被合併法人」、「適格分割」、「適格現物出資」、「適格現物分配」、「被現物出資法人」、「被現物分配法人」、「分割法人」又は「現物出資法人」とは、それぞれ法第二条第三項第一号から第六号まで、第十号、第十三号、第十五号から第十八号まで又は第二十号から第二十五号までに規定する人格のない社団等、法人課税信託、棚卸資産、事業年度、確定申告書、中間申告書、減価償却資産、適格合併、合併法人、分割承継法人、被合併法人、適格分割、適格現物出資、適格現物分配、被現物出資法人、被現物分配法人、分割法人又は現物出資法人をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -522,7 +522,7 @@
           </Paragraph>
         </Article>
         <Article Num="12_2">
-          <ArticleCaption>（復興産業集積区域等において機械等を取得した場合の特別償却又は所得税額の特別控除）</ArticleCaption>
+          <ArticleCaption>（特定復興産業集積区域において機械等を取得した場合の特別償却又は所得税額の特別控除）</ArticleCaption>
           <ArticleTitle>第十二条の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
@@ -533,7 +533,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十条第一項の表の第一号の第四欄に規定する政令で定める要件は、第一号に掲げる要件（同表の第一号の第三欄に規定する建築物整備事業（第一号ハ及び第七項において「建築物整備事業」という。）のうち地域の活力の再生及び地域住民の生活の利便性の確保に資する事業として財務省令で定める事業の用に供する建物及びその附属設備にあっては、第二号に掲げる要件）とする。</Sentence>
+              <Sentence>法第十条第一項に規定する政令で定める要件は、第一号に掲げる要件（同項に規定する建築物整備事業（第一号ハ及び第七項において「建築物整備事業」という。）のうち地域の活力の再生及び地域住民の生活の利便性の確保に資する事業として財務省令で定める事業の用に供する建物及びその附属設備にあっては、第二号に掲げる要件）とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -606,10 +606,10 @@
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>その事業（法第十条第一項に規定する事業をいう。以下この項において同じ。）の用に供した減価償却資産（同条第一項に規定する減価償却資産をいう。以下この項において同じ。）が不動産所得の基因となる資産である場合（第三号に掲げる場合を除く。）</Sentence>
+                  <Sentence>その事業（法第十条第一項に規定する事業をいう。以下この項において同じ。）の用に供した特定機械装置等（同条第一項に規定する特定機械装置等をいう。以下この項において同じ。）が不動産所得の基因となる資産である場合（第三号に掲げる場合を除く。）</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>税額控除に関する規定（同条第三項及び第四項の規定並びに税額計算特例規定（所得税法第九十三条、第九十五条、第百六十五条の五の三及び第百六十五条の六の規定並びに租税特別措置法第十条第一項、第三項及び第六項、第十条の二第三項、第十条の三第三項及び第四項、第十条の四第三項、第十条の四の二第三項、第十条の五第一項及び第二項、第十条の五の二第三項及び第四項、第十条の五の三第三項及び第四項、第十条の五の四第一項及び第二項、第十条の五の四の二第三項、第四十一条第一項、第四十一条の十八第二項、第四十一条の十八の二第二項、第四十一条の十八の三第一項、第四十一条の十九の二第一項、第四十一条の十九の三第一項、第三項及び第五項から第八項まで並びに第四十一条の十九の四第一項及び第三項の規定をいう。以下第十二条の三の三までにおいて同じ。）をいう。以下この項において同じ。）を適用しないで計算したその年分の総所得金額に係る所得税の額に利子所得の金額、配当所得の金額、不動産所得の金額、事業所得の金額、給与所得の金額（租税特別措置法第四十一条の三の三第一項又は第二項の規定の適用がある場合には、当該給与所得の金額からこれらの規定による控除をした残額。以下第十二条の三の三までにおいて同じ。）、譲渡所得の金額（所得税法第三十三条第三項第二号に掲げる所得に係る部分については、その金額の二分の一に相当する金額。以下第十二条の三の三までにおいて同じ。）、一時所得の金額の二分の一に相当する金額及び雑所得の金額の合計額のうちに不動産所得の金額の占める割合を乗じて計算した金額</Sentence>
+                  <Sentence>税額控除に関する規定（同条第三項及び第四項の規定並びに税額計算特例規定（所得税法第九十三条、第九十五条、第百六十五条の五の三及び第百六十五条の六の規定並びに租税特別措置法第十条第一項、第四項及び第七項、第十条の三第三項及び第四項、第十条の四第三項、第十条の四の二第三項、第十条の五第一項及び第二項、第十条の五の三第三項及び第四項、第十条の五の四第一項及び第二項、第十条の五の五第三項、第十条の五の六第七項から第九項まで、第四十一条第一項、第四十一条の十八第二項、第四十一条の十八の二第二項、第四十一条の十八の三第一項、第四十一条の十九の二第一項、第四十一条の十九の三第一項、第三項及び第五項から第八項まで並びに第四十一条の十九の四第一項及び第三項の規定をいう。以下第十二条の三の三までにおいて同じ。）をいう。以下この項において同じ。）を適用しないで計算したその年分の総所得金額に係る所得税の額に利子所得の金額、配当所得の金額、不動産所得の金額、事業所得の金額、給与所得の金額（租税特別措置法第四十一条の三の三第一項又は第二項の規定の適用がある場合には、当該給与所得の金額からこれらの規定による控除をした残額。以下第十二条の三の三までにおいて同じ。）、譲渡所得の金額（所得税法第三十三条第三項第二号に掲げる所得に係る部分については、その金額の二分の一に相当する金額。以下第十二条の三の三までにおいて同じ。）、一時所得の金額の二分の一に相当する金額及び雑所得の金額の合計額のうちに不動産所得の金額の占める割合を乗じて計算した金額</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -617,7 +617,7 @@
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>その事業の用に供した減価償却資産が事業所得の基因となる資産である場合（次号に掲げる場合を除く。）</Sentence>
+                  <Sentence>その事業の用に供した特定機械装置等が事業所得の基因となる資産である場合（次号に掲げる場合を除く。）</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence>税額控除に関する規定を適用しないで計算したその年分の総所得金額に係る所得税の額に利子所得の金額、配当所得の金額、不動産所得の金額、事業所得の金額、給与所得の金額、譲渡所得の金額、一時所得の金額の二分の一に相当する金額及び雑所得の金額の合計額のうちに事業所得の金額の占める割合を乗じて計算した金額</Sentence>
@@ -628,7 +628,7 @@
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>その事業の用に供した減価償却資産が不動産所得及び事業所得の基因となる資産である場合</Sentence>
+                  <Sentence>その事業の用に供した特定機械装置等が不動産所得及び事業所得の基因となる資産である場合</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence>税額控除に関する規定を適用しないで計算したその年分の総所得金額に係る所得税の額に利子所得の金額、配当所得の金額、不動産所得の金額、事業所得の金額、給与所得の金額、譲渡所得の金額、一時所得の金額の二分の一に相当する金額及び雑所得の金額の合計額のうちに不動産所得の金額及び事業所得の金額の合計額の占める割合を乗じて計算した金額</Sentence>
@@ -652,29 +652,29 @@
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>個人が、その取得し、又は建設した建物及びその附属設備につき法第十条第一項又は第三項（これらの規定のうち同条第一項の表の第一号（建築物整備事業に係る部分に限る。）又は第二号に係る部分に限る。）の規定の適用を受ける場合には、当該建物及びその附属設備につきこれらの規定の適用を受ける年分の確定申告書に財務省令で定める書類を添付しなければならない。</Sentence>
+              <Sentence>個人が、その取得し、又は建設した建物及びその附属設備につき法第十条第一項又は第三項（これらの規定のうち建築物整備事業に係る部分に限る。）の規定の適用を受ける場合には、当該建物及びその附属設備につきこれらの規定の適用を受ける年分の確定申告書に財務省令で定める書類を添付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="8">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十条第三項又は第四項の規定の適用がある場合における事業所得税額計算特例規定（租税特別措置法第十条第一項、第三項及び第六項、第十条の二第三項、第十条の三第三項及び第四項、第十条の四第三項、第十条の四の二第三項、第十条の五第一項及び第二項、第十条の五の二第三項及び第四項、第十条の五の三第三項及び第四項、第十条の五の四第一項及び第二項並びに第十条の五の四の二第三項の規定をいう。以下第十二条の三の三までにおいて同じ。）の適用については、租税特別措置法施行令第五条の三第八項中「規定並びに」とあるのは「規定、」と、「規定を」とあるのは「規定並びに東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第十条第三項及び第四項の規定を」とする。</Sentence>
+              <Sentence>法第十条第三項又は第四項の規定の適用がある場合における事業所得税額計算特例規定（租税特別措置法第十条第一項、第四項及び第七項、第十条の三第三項及び第四項、第十条の四第三項、第十条の四の二第三項、第十条の五第一項及び第二項、第十条の五の三第三項及び第四項、第十条の五の四第一項及び第二項、第十条の五の五第三項並びに第十条の五の六第七項から第九項までの規定をいう。以下第十二条の三の三までにおいて同じ。）の適用については、租税特別措置法施行令第五条の三第八項中「規定並びに」とあるのは「規定、」と、「規定を」とあるのは「規定並びに東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第十条第三項及び第四項の規定を」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="12_2_2">
-          <ArticleCaption>（企業立地促進区域において機械等を取得した場合の特別償却又は所得税額の特別控除）</ArticleCaption>
+          <ArticleCaption>（企業立地促進区域等において機械等を取得した場合の特別償却又は所得税額の特別控除）</ArticleCaption>
           <ArticleTitle>第十二条の二の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第十条の二第一項及び第三項に規定する政令で定める期間は、福島復興再生特別措置法（平成二十四年法律第二十五号）第二十三条に規定する提出企業立地促進計画（以下この項において「提出企業立地促進計画」という。）に定められた同法第十八条第二項第二号に規定する企業立地促進区域（以下この項において「企業立地促進区域」という。）の変更に係る次の各号に掲げる区域の区分に応じ当該各号に定める期間とする。</Sentence>
+              <Sentence>法第十条の二第一項の表の第一号の第二欄に規定する政令で定める期間は、福島復興再生特別措置法（平成二十四年法律第二十五号）第十九条第一項に規定する提出企業立地促進計画（以下この項において「提出企業立地促進計画」という。）に定められた同法第十八条第二項第二号に規定する企業立地促進区域（以下この項において「企業立地促進区域」という。）の変更に係る次の各号に掲げる区域の区分に応じ当該各号に定める期間とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>提出企業立地促進計画に定められた企業立地促進区域の変更により新たに企業立地促進区域に該当することとなる区域</Sentence>
+                  <Sentence>当該提出企業立地促進計画に定められた企業立地促進区域の変更により新たに企業立地促進区域に該当することとなる区域</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence>当該変更について福島復興再生特別措置法第十八条第七項において準用する同条第四項の規定による提出のあった日から同日又は当該区域に該当する同条第二項第二号に規定する避難解除区域等に係る同法第四条第四号イからホまでに掲げる指示の全てが解除された日のいずれか遅い日以後七年を経過する日までの期間</Sentence>
@@ -685,36 +685,76 @@
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>提出企業立地促進計画に定められた企業立地促進区域の変更により企業立地促進区域に該当しないこととなる区域</Sentence>
+                  <Sentence>当該提出企業立地促進計画に定められた企業立地促進区域の変更により企業立地促進区域に該当しないこととなる区域</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>提出企業立地促進計画の福島復興再生特別措置法第十八条第四項の規定による提出のあった日から当該変更について同条第七項において準用する同条第四項の規定による提出のあった日までの期間</Sentence>
+                  <Sentence>当該提出企業立地促進計画の福島復興再生特別措置法第十八条第四項の規定による提出のあった日から当該変更について同条第七項において準用する同条第四項の規定による提出のあった日までの期間</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第十条の二第一項の表の第二号の第五欄に規定する政令で定めるものは、福島復興再生特別措置法第七十五条の二に規定する機械及び装置、建物及びその附属設備並びに構築物その他復興庁令で定める減価償却資産のうち、同号の第一欄に掲げる個人の同法第七十五条の四第一項の規定による報告に係る財務省令で定める書類に記載されたもの（当該報告につき、当該個人が同号の第四欄に規定する特定事業活動を適切に実施していることを証する書類として財務省令で定める書類の交付を受けた場合における当該記載されたものに限る。）とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第十条の二第一項の表の第三号の第二欄に規定する政令で定める期間は、福島復興再生特別措置法第八十五条第一項に規定する提出新産業創出等推進事業促進計画（以下この項において「提出新産業創出等推進事業促進計画」という。）に定められた同法第八十四条第二項第二号に規定する新産業創出等推進事業促進区域（以下この項において「計画区域」という。）の変更に係る次の各号に掲げる区域の区分に応じ当該各号に定める期間とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">当該提出新産業創出等推進事業促進計画の変更について福島復興再生特別措置法第八十四条第七項において準用する同条第四項の規定による提出（以下この項において「変更の提出」という。）があったことにより新たに計画区域に該当することとなった区域（次号に掲げる区域を除く。）</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該変更の提出のあった日から令和八年三月三十一日までの期間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">当該提出新産業創出等推進事業促進計画の変更について変更の提出があったことにより計画区域に該当しないこととなった区域（以下この号において「除外区域」という。）</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該提出新産業創出等推進事業促進計画の福島復興再生特別措置法第八十四条第四項の規定による提出のあった日（当該除外区域が他の変更の提出があったことにより新たに計画区域に該当することとなった区域である場合には、当該他の変更の提出のあった日）から当該変更の提出のあった日までの期間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第十条の二第一項の表の第三号の第五欄に規定する政令で定めるものは、福島復興再生特別措置法第八十五条の五に規定する機械及び装置、建物及びその附属設備並びに構築物その他復興庁令で定める減価償却資産のうち、同号の第一欄に掲げる個人の同法第八十五条の二第六項に規定する認定新産業創出等推進事業実施計画に記載されたものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1">法第十条の二第三項の規定による控除をすべき金額は、その年分の所得税法第九十二条第二項に規定する課税総所得金額に係る所得税額から控除する。</Sentence>
               <Sentence Num="2">この場合において、当該所得税額から控除をすべき同条第三項に規定する配当控除の額があるときは、まず当該配当控除の額を控除し、次に法第十条の二第三項の規定による控除をすべき金額を控除する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>３</ParagraphNum>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence>法第十条の二第三項に規定する所得税の額として政令で定める金額は、同項及び同条第四項の規定並びに税額計算特例規定を適用しないで計算したその年分の総所得金額に係る所得税の額に利子所得の金額、配当所得の金額、不動産所得の金額、事業所得の金額、給与所得の金額、譲渡所得の金額、一時所得の金額の二分の一に相当する金額及び雑所得の金額の合計額のうちに事業所得の金額の占める割合を乗じて計算した金額とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>４</ParagraphNum>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1">法第十条の二第四項の規定による控除をすべき金額は、その年分の所得税法第九十二条第二項に規定する課税総所得金額に係る所得税額から控除する。</Sentence>
               <Sentence Num="2">この場合において、当該所得税額から控除をすべき同条第三項に規定する配当控除の額及び法第十条の二第三項の規定による控除をすべき金額があるときは、まず当該配当控除の額及び同項の規定による控除をすべき金額を控除し、次に同条第四項の規定による控除をすべき金額を控除する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>５</ParagraphNum>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
               <Sentence>法第十条の二第三項又は第四項の規定の適用がある場合における事業所得税額計算特例規定の適用については、租税特別措置法施行令第五条の三第八項中「規定並びに」とあるのは「規定、」と、「規定を」とあるのは「規定並びに東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第十条の二第三項及び第四項の規定を」とする。</Sentence>
             </ParagraphSentence>
@@ -801,7 +841,7 @@
           </Paragraph>
         </Article>
         <Article Num="12_3">
-          <ArticleCaption>（復興産業集積区域において被災雇用者等を雇用した場合の所得税額の特別控除）</ArticleCaption>
+          <ArticleCaption>（特定復興産業集積区域において被災雇用者等を雇用した場合の所得税額の特別控除）</ArticleCaption>
           <ArticleTitle>第十二条の三</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
@@ -811,7 +851,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>平成二十三年三月十一日において東日本大震災復興特別区域法第四条第一項に規定する特定被災区域（次号において「特定被災区域」という。）内に所在する事業所に雇用されていた者</Sentence>
+                <Sentence>平成二十三年三月十一日において特定被災区域（東日本大震災により被害を受けた地域をその区域とする市町村の区域であって東日本大震災復興特別区域法第三条第一項に規定する復興特別区域基本方針に即して内閣総理大臣が定める区域をいう。次号において同じ。）内に所在する事業所に雇用されていた者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -837,32 +877,50 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十条の三第一項の規定の適用がある場合における事業所得税額計算特例規定（租税特別措置法第十条の五第一項及び第二項並びに第十条の五の四第一項及び第二項の規定を除く。次条第六項及び第十二条の三の三第六項において同じ。）の適用については、租税特別措置法施行令第五条の三第八項中「規定並びに」とあるのは「規定、」と、「規定を」とあるのは「規定並びに東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第十条の三第一項の規定を」とする。</Sentence>
+              <Sentence>法第十条の三第一項の規定の適用がある場合における事業所得税額計算特例規定（租税特別措置法第十条の五第一項及び第二項並びに第十条の五の四第一項及び第二項の規定を除く。次条第九項及び第十二条の三の三第六項において同じ。）の適用については、租税特別措置法施行令第五条の三第八項中「規定並びに」とあるのは「規定、」と、「規定を」とあるのは「規定並びに東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第十条の三第一項の規定を」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">内閣総理大臣は、第一項第一号の規定により区域を定めたときは、これを告示する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="12_3_2">
-          <ArticleCaption>（企業立地促進区域において避難対象雇用者等を雇用した場合の所得税額の特別控除）</ArticleCaption>
+          <ArticleCaption>（企業立地促進区域等において避難対象雇用者等を雇用した場合の所得税額の特別控除）</ArticleCaption>
           <ArticleTitle>第十二条の三の二</ArticleTitle>
-          <Paragraph Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第十条の三の二第一項に規定する政令で定める対象期間は、同項に規定する提出企業立地促進計画（次項第二号において「提出企業立地促進計画」という。）に定められた同条第一項に規定する企業立地促進区域（以下この項及び次項第二号において「企業立地促進区域」という。）の同条第一項の変更について福島復興再生特別措置法第十八条第七項において準用する同条第四項の規定による提出のあった日から同日又は当該企業立地促進区域に該当する同条第二項第二号に規定する避難解除区域等に係る同法第四条第四号イからホまでに掲げる指示の全てが解除された日のいずれか遅い日以後七年を経過する日までの期間とする。</Sentence>
+              <Sentence WritingMode="vertical">法第十条の三の二第一項の規定による控除をすべき金額は、その年分の所得税法第九十二条第二項に規定する課税総所得金額に係る所得税額から控除する。この場合において、当該所得税額から控除をすべき同条第三項に規定する配当控除の額があるときは、まず当該配当控除の額を控除し、次に法第十条の三の二第一項の規定による控除をすべき金額を控除する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十条の三の二第一項に規定する政令で定める場合は、次の各号に掲げる場合とし、同項に規定する政令で定める期間は、当該各号に掲げる場合の区分に応じ当該各号に定める期間とする。</Sentence>
+              <Sentence WritingMode="vertical">法第十条の三の二第一項に規定する所得税の額として政令で定める金額は、同項の規定及び税額計算特例規定を適用しないで計算したその年分の総所得金額に係る所得税の額に利子所得の金額、配当所得の金額、不動産所得の金額、事業所得の金額、給与所得の金額、譲渡所得の金額、一時所得の金額の二分の一に相当する金額及び雑所得の金額の合計額のうちに事業所得の金額の占める割合を乗じて計算した金額とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>法第十条の三の二第一項の表の第一号の第一欄に規定する政令で定める期間は、福島復興再生特別措置法第十九条第一項に規定する提出企業立地促進計画（次項第二号において「提出企業立地促進計画」という。）に定められた同法第十八条第二項第二号に規定する企業立地促進区域（以下この項及び次項第二号において「企業立地促進区域」という。）の同欄の変更について同条第七項において準用する同条第四項の規定による提出のあった日から同日又は当該企業立地促進区域に該当する同条第二項第二号に規定する避難解除区域等に係る同法第四条第四号イからホまでに掲げる指示の全てが解除された日のいずれか遅い日以後七年を経過する日までの期間とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>法第十条の三の二第一項の表の第一号の第二欄に規定する政令で定める場合は、次の各号に掲げる場合とし、同欄に規定する政令で定める期間は、当該各号に掲げる場合の区分に応じ当該各号に定める期間とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>法第十条の三の二第一項に規定する認定を受けた日から同日以後五年を経過する日までの期間内に同項の個人が福島復興再生特別措置法第二十条第四項に規定する認定事業者に該当しないこととなった場合</Sentence>
+                  <Sentence>法第十条の三の二第一項の表の第一号の第一欄に規定する認定を受けた日から同日以後五年を経過する日までの期間内に同欄に掲げる個人が福島復興再生特別措置法第二十条第四項に規定する認定事業者に該当しないこととなった場合</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>当該個人が当該認定を受けた日から当該該当しないこととなった日までの期間</Sentence>
+                  <Sentence>当該個人が当該認定を受けた日からその該当しないこととなった日までの期間</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -870,7 +928,7 @@
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>法第十条の三の二第一項に規定する認定を受けた日から同日以後五年を経過する日までの期間内に提出企業立地促進計画に定められた企業立地促進区域の変更（同項の個人の当該認定に係る区域が企業立地促進区域に該当しないこととなるものに限る。）があった場合</Sentence>
+                  <Sentence>法第十条の三の二第一項の表の第一号の第一欄に規定する認定を受けた日から同日以後五年を経過する日までの期間内に提出企業立地促進計画に定められた企業立地促進区域の変更（同欄に掲げる個人の当該認定に係る区域が企業立地促進区域に該当しないこととなるものに限る。）があった場合</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence>当該個人が当該認定を受けた日から当該変更について福島復興再生特別措置法第十八条第七項において準用する同条第四項の規定による提出のあった日までの期間</Sentence>
@@ -878,15 +936,15 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>３</ParagraphNum>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十条の三の二第一項に規定する政令で定める者は、次に掲げる者とする。</Sentence>
+              <Sentence>法第十条の三の二第一項の表の第一号の第三欄に規定する政令で定める者は、次に掲げる者とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>平成二十三年三月十一日において法第十条の三の二第一項に規定する避難対象区域（次号において「避難対象区域」という。）内に所在する事業所に勤務していた者</Sentence>
+                <Sentence>平成二十三年三月十一日において法第十条の三の二第一項の表の第一号の第三欄に規定する避難対象区域（次号において「避難対象区域」という。）内に所在する事業所に勤務していた者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -896,21 +954,90 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>４</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1">法第十条の三の二第一項の規定による控除をすべき金額は、その年分の所得税法第九十二条第二項に規定する課税総所得金額に係る所得税額から控除する。</Sentence>
-              <Sentence Num="2">この場合において、当該所得税額から控除をすべき同条第三項に規定する配当控除の額があるときは、まず当該配当控除の額を控除し、次に法第十条の三の二第一項の規定による控除をすべき金額を控除する。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>５</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>法第十条の三の二第一項に規定する所得税の額として政令で定める金額は、同項の規定及び税額計算特例規定を適用しないで計算したその年分の総所得金額に係る所得税の額に利子所得の金額、配当所得の金額、不動産所得の金額、事業所得の金額、給与所得の金額、譲渡所得の金額、一時所得の金額の二分の一に相当する金額及び雑所得の金額の合計額のうちに事業所得の金額の占める割合を乗じて計算した金額とする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="6">
+          <Paragraph Hide="false" Num="6" OldStyle="false">
             <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第十条の三の二第一項の表の第二号の第三欄に規定する政令で定める者は、次に掲げる者とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">平成二十三年三月十一日において福島県の区域内に所在する事業所に勤務していた者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">平成二十三年三月十一日において福島県の区域内に居住していた者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="7" OldStyle="false">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第十条の三の二第一項の表の第三号の第二欄に規定する政令で定める場合は、次の各号に掲げる場合とし、同欄に規定する政令で定める期間は、当該各号に掲げる場合の区分に応じ当該各号に定める期間とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">法第十条の三の二第一項の表の第三号の第一欄に規定する認定を受けた日から同日以後五年を経過する日までの期間内に同欄に掲げる個人が福島復興再生特別措置法第八十五条の二第四項に規定する認定事業者に該当しないこととなった場合</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該個人が当該認定を受けた日からその該当しないこととなった日までの期間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">法第十条の三の二第一項の表の第三号の第一欄に規定する認定を受けた日から同日以後五年を経過する日までの期間内に福島復興再生特別措置法第八十五条第一項に規定する提出新産業創出等推進事業促進計画（以下この号において「提出新産業創出等推進事業促進計画」という。）の変更について同法第八十四条第七項において準用する同条第四項の規定による提出があったことにより計画区域（当該提出新産業創出等推進事業促進計画に定められた同条第二項第二号に規定する新産業創出等推進事業促進区域をいう。以下この号において同じ。）の変更（同欄に掲げる個人の当該認定に係る区域が計画区域に該当しないこととなるものに限る。）があった場合</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該個人が当該認定を受けた日から当該提出のあった日までの期間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="8" OldStyle="false">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第十条の三の二第一項の表の第三号の第三欄に規定する政令で定める雇用者は、次に掲げる者とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第十条の三の二第一項の表の第一号の第三欄に規定する避難対象雇用者等</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">次に掲げる者（前号に掲げる者を除く。）</Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">平成二十三年三月十一日において福島復興再生特別措置法第七条第六項に規定する福島国際研究産業都市区域（ロにおいて「福島国際研究産業都市区域」という。）の区域内に所在する事業所に勤務していた者</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">平成二十三年三月十一日において福島国際研究産業都市区域の区域内に居住していた者</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第十条の三の二第一項の表の第三号の第一欄に掲げる個人の福島復興再生特別措置法第八十五条の二第六項に規定する認定新産業創出等推進事業実施計画に従って行う同法第八十四条第一項に規定する新産業創出等推進事業に関する専門的な知識及び技能を必要とする業務に従事する者として財務省令で定める者（前二号に掲げる者を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
               <Sentence>法第十条の三の二第一項の規定の適用がある場合における事業所得税額計算特例規定の適用については、租税特別措置法施行令第五条の三第八項中「規定並びに」とあるのは「規定、」と、「規定を」とあるのは「規定並びに東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第十条の三の二第一項の規定を」とする。</Sentence>
             </ParagraphSentence>
@@ -997,12 +1124,12 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第十条の四第一項の規定により租税特別措置法第十条の六の規定を読み替えて適用する場合における租税特別措置法施行令第五条の七の規定の適用については、同条第一項中「掲げる規定」とあるのは「掲げる規定（東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下この条において「震災特例法」という。）第十条第三項又は第四項の規定、震災特例法第十条の二第三項又は第四項の規定、震災特例法第十条の二の二第三項又は第四項の規定、震災特例法第十条の三第一項の規定、震災特例法第十条の三の二第一項の規定及び震災特例法第十条の三の三第一項の規定を含む。）」と、「（同項」とあるのは「（震災特例法第十条の四第一項の規定により読み替えられた法第十条の六第一項」と、同条第二項中「規定にかかわらず」とあるのは「規定（震災特例法第十条第十一項、第十条の二第九項、第十条の二の二第九項、第十条の三第五項、第十条の三の二第四項及び第十条の三の三第四項の規定を含む。）にかかわらず」と、「掲げる規定」とあるのは「掲げる規定（東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第十条第三項及び第四項（復興産業集積区域等において機械等を取得した場合の所得税額の特別控除）の規定、同法第十条の二第三項及び第四項（企業立地促進区域において機械等を取得した場合の所得税額の特別控除）の規定、同法第十条の二の二第三項及び第四項（避難解除区域等において機械等を取得した場合の所得税額の特別控除）の規定、同法第十条の三第一項（復興産業集積区域において被災雇用者等を雇用した場合の所得税額の特別控除）の規定、同法第十条の三の二第一項（企業立地促進区域において避難対象雇用者等を雇用した場合の所得税額の特別控除）の規定並びに同法第十条の三の三第一項（避難解除区域等において避難対象雇用者等を雇用した場合の所得税額の特別控除）の規定を含む。）」とする。</Sentence>
+              <Sentence>法第十条の四第一項の規定により租税特別措置法第十条の六の規定を読み替えて適用する場合における租税特別措置法施行令第五条の七の規定の適用については、同条第一項中「掲げる規定」とあるのは「掲げる規定（東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下この条において「震災特例法」という。）第十条第三項又は第四項の規定、震災特例法第十条の二第三項又は第四項の規定、震災特例法第十条の二の二第三項又は第四項の規定、震災特例法第十条の三第一項の規定、震災特例法第十条の三の二第一項の規定及び震災特例法第十条の三の三第一項の規定を含む。）」と、「（同項」とあるのは「（震災特例法第十条の四第一項の規定により読み替えられた法第十条の六第一項」と、同条第二項中「規定にかかわらず」とあるのは「規定（震災特例法第十条第十一項、第十条の二第九項、第十条の二の二第九項、第十条の三第五項、第十条の三の二第五項及び第十条の三の三第四項の規定を含む。）にかかわらず」と、「掲げる規定」とあるのは「掲げる規定（東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第十条第三項及び第四項（特定復興産業集積区域において機械等を取得した場合の所得税額の特別控除）の規定、同法第十条の二第三項及び第四項（企業立地促進区域等において機械等を取得した場合の所得税額の特別控除）の規定、同法第十条の二の二第三項及び第四項（避難解除区域等において機械等を取得した場合の所得税額の特別控除）の規定、同法第十条の三第一項（特定復興産業集積区域において被災雇用者等を雇用した場合の所得税額の特別控除）の規定、同法第十条の三の二第一項（企業立地促進区域等において避難対象雇用者等を雇用した場合の所得税額の特別控除）の規定並びに同法第十条の三の三第一項（避難解除区域等において避難対象雇用者等を雇用した場合の所得税額の特別控除）の規定を含む。）」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="12_5">
-          <ArticleCaption>（復興産業集積区域における開発研究用資産の特別償却等）</ArticleCaption>
+          <ArticleCaption>（特定復興産業集積区域における開発研究用資産の特別償却等）</ArticleCaption>
           <ArticleTitle>第十二条の五</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
@@ -1013,23 +1140,67 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十条の五第一項に規定する政令で定める減価償却資産は、専ら同項に規定する開発研究の用に供される建物及び建物附属設備、構築物、工具、器具及び備品、機械及び装置並びにソフトウエアのうち産業集積の形成に資するものとして財務省令で定めるものとする。</Sentence>
+              <Sentence>法第十条の五第一項に規定する政令で定める減価償却資産は、専ら同項に規定する開発研究の用に供される建物及び建物附属設備、構築物、工具、器具及び備品、機械及び装置並びにソフトウエアのうち、産業集積の形成に資するものとして財務省令で定めるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="13">
-          <ArticleCaption>（被災代替資産等の特別償却）</ArticleCaption>
+        <Article Delete="false" Hide="false" Num="13">
+          <ArticleCaption>（新産業創出等推進事業促進区域における開発研究用資産の特別償却等）</ArticleCaption>
           <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第十一条第一項に規定する政令で定める期間は、福島復興再生特別措置法第八十五条第一項に規定する提出新産業創出等推進事業促進計画（以下この項において「提出新産業創出等推進事業促進計画」という。）に定められた同法第八十四条第二項第二号に規定する新産業創出等推進事業促進区域（以下この項において「計画区域」という。）の変更に係る次の各号に掲げる区域の区分に応じ当該各号に定める期間とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">当該提出新産業創出等推進事業促進計画の変更について福島復興再生特別措置法第八十四条第七項において準用する同条第四項の規定による提出（以下この項において「変更の提出」という。）があったことにより新たに計画区域に該当することとなった区域（次号に掲げる区域を除く。）</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該変更の提出のあった日から令和八年三月三十一日までの期間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">当該提出新産業創出等推進事業促進計画の変更について変更の提出があったことにより計画区域に該当しないこととなった区域（以下この号において「除外区域」という。）</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該提出新産業創出等推進事業促進計画の福島復興再生特別措置法第八十四条第四項の規定による提出のあった日（当該除外区域が他の変更の提出があったことにより新たに計画区域に該当することとなった区域である場合には、当該他の変更の提出のあった日）から当該変更の提出のあった日までの期間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第十一条第一項に規定する試験研究として政令で定めるものは、前条第一項に規定する試験研究とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第十一条第一項に規定する政令で定める減価償却資産は、専ら同項に規定する開発研究の用に供される建物及び建物附属設備、構築物、工具、器具及び備品、機械及び装置並びにソフトウエアのうち、新たな産業の創出又は産業の国際競争力の強化に資するものとして財務省令で定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13_2">
+          <ArticleCaption>（被災代替資産等の特別償却）</ArticleCaption>
+          <ArticleTitle>第十三条の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第十一条第一項に規定する事業に準ずるものとして政令で定めるものは、事業と称するに至らない建物（その附属設備を含む。次項第一号において同じ。）又は構築物の貸付けその他これに類する行為で相当の対価を得て継続的に行うものとする。</Sentence>
+              <Sentence>法第十一条の二第一項に規定する事業に準ずるものとして政令で定めるものは、事業と称するに至らない建物（その附属設備を含む。次項第一号において同じ。）又は構築物の貸付けその他これに類する行為で相当の対価を得て継続的に行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十一条第一項に規定する政令で定める減価償却資産は、次の各号に掲げる減価償却資産の区分に応じ当該各号に定めるものとする。</Sentence>
+              <Sentence>法第十一条の二第一項に規定する政令で定める減価償却資産は、次の各号に掲げる減価償却資産の区分に応じ当該各号に定めるものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1038,7 +1209,7 @@
                   <Sentence>建物</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>当該個人が有する建物で東日本大震災に起因して当該個人の事業（法第十一条第一項に規定する事業をいう。以下この項において同じ。）の用に供することができなくなったもの（以下この号において「被災建物」という。）のその用に供することができなくなった時の直前の用途と同一の用途に供される建物（当該建物の床面積が当該被災建物の床面積の一・五倍を超える場合には、当該被災建物の床面積の一・五倍に相当する部分に限る。）</Sentence>
+                  <Sentence>当該個人が有する建物で東日本大震災に起因して当該個人の事業（法第十一条の二第一項に規定する事業をいう。以下この項において同じ。）の用に供することができなくなったもの（以下この号において「被災建物」という。）のその用に供することができなくなった時の直前の用途と同一の用途に供される建物（当該建物の床面積が当該被災建物の床面積の一・五倍を超える場合には、当該被災建物の床面積の一・五倍に相当する部分に限る。）</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -1075,94 +1246,6 @@
                 </Column>
               </ItemSentence>
             </Item>
-            <Item Num="5">
-              <ItemTitle>五</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence>車両及び運搬具</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence>当該個人が有する道路運送車両法（昭和二十六年法律第百八十五号）第四条に規定する自動車のうち同条に規定する自動車登録ファイルに登録されているもの又は同法第五十九条第一項に規定する検査対象軽自動車のうち同法第七十二条第一項に規定する軽自動車検査ファイルに記録されているもの（以下この号において「車両及び運搬具」という。）で、東日本大震災に起因して当該個人の事業の用に供することができなくなったもの（以下この号において「被災車両運搬具」という。）のその用に供することができなくなった時の直前の用途と同一の用途に供される車両及び運搬具（当該被災車両運搬具に比して著しく高額なものその他当該被災車両運搬具に比して著しく仕様が異なるものを除く。）</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-        </Article>
-        <Article Num="13_2">
-          <ArticleCaption>（被災者向け優良賃貸住宅の割増償却）</ArticleCaption>
-          <ArticleTitle>第十三条の二</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence>法第十一条の二第一項に規定する政令で定める地域は、東日本大震災に係る激<Ruby>甚<Rt>じん</Rt>
-</Ruby>災害に対処するための特別の財政援助等に関する法律施行令（昭和三十七年政令第四百三号）第四十一条第一項の区域として同条第二項の規定により告示された区域とする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>法第十一条の二第一項に規定する政令で定める賃貸住宅は、共同住宅又は長屋に係る各独立部分（構造上区分された数個の部分の各部分をいう。以下この項において同じ。）で次に掲げる要件（賃貸住宅が地方公共団体に対し貸し付けられ、当該地方公共団体が賃貸する場合にあっては、第一号から第四号まで及び第六号に掲げる要件）の全てを満たすものの数が十以上（当該全てを満たすものでその床面積が五十平方メートル以上のものが四以上ある場合には、四以上）である場合における当該要件の全てを満たす各独立部分とする。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence>その各独立部分に係る共同住宅又は長屋が耐火建築物（建築基準法第二条第九号の二に規定する耐火建築物をいう。次号において同じ。）又は準耐火建築物（同条第九号の三に規定する準耐火建築物をいう。）に該当するものであること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence>その各独立部分に係る共同住宅又は長屋の取得価額（所得税法施行令第百二十六条第一項各号の規定により計算した取得価額をいう。）が三・三平方メートル当たり九十五万円（耐火建築物に該当するものについては、百万円）以下のものであること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence>その床面積が百二十平方メートル以下で、かつ、二十五平方メートル以上のものであること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence>専用の台所、浴室、便所及び洗面設備を備えたものであること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="5">
-              <ItemTitle>五</ItemTitle>
-              <ItemSentence>
-                <Sentence>その賃貸が公募の方法により行われるものであり、かつ、当該公募において次に掲げる事項（その床面積が五十平方メートル以上のものにあっては、イに掲げる事項）が明らかにされているものであること。</Sentence>
-              </ItemSentence>
-              <Subitem1 Num="1">
-                <Subitem1Title>イ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence>その賃貸が、東日本大震災の被災者に対し優先して行われること。</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Num="2">
-                <Subitem1Title>ロ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence>その賃貸が、単身者（現に同居し、又は同居しようとする者がない者をいう。）に対し優先して行われること。</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-            </Item>
-            <Item Num="6">
-              <ItemTitle>六</ItemTitle>
-              <ItemSentence>
-                <Sentence>その賃貸に係る家賃の額がその各独立部分に係る共同住宅又は長屋に係る償却費、修繕費、管理事務費、損害保険料、地代に相当する額、貸倒れ及び空家による損失を補塡するための引当金並びに公租公課の合計額を基礎とする適正な家賃の計算方法として国土交通大臣が定める方法によって算定された額を超えないものであること。</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>個人が、その取得し、又は新築した賃貸住宅につき法第十一条の二第一項の規定の適用を受ける場合には、当該賃貸住宅につき同項の規定の適用を受ける各年分の確定申告書に財務省令で定める書類を添付しなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>４</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>国土交通大臣は、第二項第六号の規定により計算方法を定めたときは、これを告示する。</Sentence>
-            </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="13_2_2">
@@ -1171,8 +1254,20 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第十一条の三に規定する政令で定める規定は、所得税法等の一部を改正する等の法律（平成二十九年法律第四号）附則第九十六条第二項の規定によりなおその効力を有するものとされる同法第十五条の規定による改正前の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第十一条の二の規定とする。</Sentence>
+              <Sentence>法第十一条の三に規定する政令で定める規定は、次に掲げる規定とする。</Sentence>
             </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">所得税法等の一部を改正する等の法律（平成二十九年法律第四号）附則第九十六条第二項の規定によりなおその効力を有するものとされる同法第十五条の規定による改正前の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第十一条の二の規定</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">所得税法等の一部を改正する法律（令和三年法律第十一号）附則第九十条の規定によりなおその効力を有するものとされる同法第十三条の規定による改正前の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第十一条の二の規定</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
         <Article Num="13_2_3">
@@ -1236,12 +1331,12 @@
           </Paragraph>
         </Article>
         <Article Num="13_5">
-          <ArticleCaption>（帰還環境整備推進法人に対して土地等を譲渡した場合の譲渡所得の特別控除の特例）</ArticleCaption>
+          <ArticleCaption>（帰還・移住等環境整備推進法人に対して土地等を譲渡した場合の譲渡所得の特別控除の特例）</ArticleCaption>
           <ArticleTitle>第十三条の五</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第十一条の六第一項に規定する政令で定める帰還環境整備推進法人は、公益社団法人（その社員総会における議決権の総数の二分の一以上の数が地方公共団体により保有されているものに限る。）又は公益財団法人（その設立当初において拠出をされた金額の二分の一以上の金額が地方公共団体により拠出をされているものに限る。）であって、その定款において、その法人が解散した場合にその残余財産が地方公共団体又は当該法人と類似の目的をもつ他の公益を目的とする事業を行う法人に帰属する旨の定めがあるものとする。</Sentence>
+              <Sentence>法第十一条の六第一項に規定する政令で定める帰還・移住等環境整備推進法人は、公益社団法人（その社員総会における議決権の総数の二分の一以上の数が地方公共団体により保有されているものに限る。）又は公益財団法人（その設立当初において拠出をされた金額の二分の一以上の金額が地方公共団体により拠出をされているものに限る。）であって、その定款において、その法人が解散した場合にその残余財産が地方公共団体又は当該法人と類似の目的をもつ他の公益を目的とする事業を行う法人に帰属する旨の定めがあるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1358,88 +1453,94 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="6">
+          <Paragraph Hide="false" Num="6" OldStyle="false">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十二条第二項に規定する政令で定めるところにより計算した面積は、当該年中において譲渡をした同条第一項の表の各号の上欄に掲げる土地又は土地の上に存する権利に係る面積に五を乗じて計算した面積とする。</Sentence>
+              <Sentence WritingMode="vertical">法第十二条第一項の表の第一号の下欄のイに規定する政令で定める区域は、東日本大震災復興特別区域法施行令（平成二十三年政令第四百九号）第二条各号に掲げる区域とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十二条第三項に規定する政令で定めるやむを得ない事情は、工場、事務所その他の建物、構築物又は機械及び装置で事業の用に供するもの（以下この項において「工場等」という。）の敷地の用に供するための宅地の造成並びに当該工場等の建設及び移転に要する期間が通常一年を超えると認められる事情その他これに準ずる事情とし、同条第三項に規定する政令で定める期間は、同項に規定する譲渡の日の属する年の前年以前二年の期間とする。</Sentence>
+              <Sentence>法第十二条第二項に規定する政令で定めるところにより計算した面積は、当該年中において譲渡をした同条第一項の表の各号の上欄に掲げる土地又は土地の上に存する権利に係る面積に五を乗じて計算した面積とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="8">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1">租税特別措置法施行令第二十五条第十八項から第二十項までの規定は、法第十二条第三項の届出、同項において準用する同条第一項の規定を適用する場合及び同条第四項の税務署長の承認について準用する。</Sentence>
-              <Sentence Num="2">この場合において、同令第二十五条第十八項中「同条第一項」とあるのは「東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下この条において「震災特例法」という。）第十二条第一項」と、「法第三十七条第三項の規定」とあるのは「震災特例法第十二条第三項の規定」と、同条第十九項中「法第三十七条の三」とあるのは「震災特例法第十二条第七項」と、「同項」とあるのは「所得税法第四十九条第一項」と、同条第二十項第二号及び第三号中「法第三十七条第四項」とあるのは「震災特例法第十二条第四項」と読み替えるものとする。</Sentence>
+              <Sentence>法第十二条第三項に規定する政令で定めるやむを得ない事情は、工場、事務所その他の建物、構築物又は機械及び装置で事業の用に供するもの（以下この項において「工場等」という。）の敷地の用に供するための宅地の造成並びに当該工場等の建設及び移転に要する期間が通常一年を超えると認められる事情その他これに準ずる事情とし、同条第三項に規定する政令で定める期間は、同項に規定する譲渡の日の属する年の前年以前二年の期間とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="9">
             <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1">租税特別措置法施行令第二十五条第二十二項の規定は、法第十二条第六項において準用する租税特別措置法第三十七条第六項の規定を適用する場合について準用する。</Sentence>
-              <Sentence Num="2">この場合において、同令第二十五条第二十二項中「同条第九項において準用する」とあるのは「東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下この項において「震災特例法」という。）第十二条第六項において準用する法第三十七条第九項の規定により読み替えられた」と、「法第三十七条第七項」とあるのは「震災特例法第十二条第六項において準用する法第三十七条第七項」と、同項第一号中「法第三十七条第一項」とあるのは「震災特例法第十二条第一項」と、「準用する場合」とあるのは「準用する場合及びこれらの規定を同条第五項の規定により適用する場合」と、同項第二号中「法第三十七条第四項」とあるのは「震災特例法第十二条第四項（同条第五項の規定により適用する場合を含む。）」と読み替えるものとする。</Sentence>
+              <Sentence Num="1">租税特別措置法施行令第二十五条第十六項から第十八項までの規定は、法第十二条第三項の届出、同項において準用する同条第一項の規定を適用する場合及び同条第四項の税務署長の承認について準用する。</Sentence>
+              <Sentence Num="2">この場合において、同令第二十五条第十六項中「同条第一項」とあるのは「東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下この条において「震災特例法」という。）第十二条第一項」と、「法第三十七条第三項の規定」とあるのは「震災特例法第十二条第三項の規定」と、同条第十七項中「法第三十七条の三」とあるのは「震災特例法第十二条第七項」と、「同項」とあるのは「所得税法第四十九条第一項」と、同条第十八項第二号及び第三号中「法第三十七条第四項」とあるのは「震災特例法第十二条第四項」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="10">
             <ParagraphNum>１０</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十二条第一項（同条第三項及び第四項において準用する場合並びにこれらの規定を同条第五項の規定により適用する場合を含む。以下この項及び次項において同じ。）の譲渡をした資産が同条第一項の表及び租税特別措置法第三十七条第一項の表の二以上の号の上欄に掲げる資産に該当する場合における法第十二条第一項又は租税特別措置法第三十七条第一項（同条第三項及び第四項において準用する場合を含む。以下この項及び次項において同じ。）の規定により譲渡がなかったものとされる部分の金額の計算については、当該譲渡をした資産の全部又は一部は、当該個人の選択により、当該二以上の号のいずれかの号の上欄に掲げる資産にのみ該当するものとして、法第十二条第一項又は租税特別措置法第三十七条第一項の規定を適用する。</Sentence>
+              <Sentence Num="1">租税特別措置法施行令第二十五条第二十項の規定は、法第十二条第六項において準用する租税特別措置法第三十七条第六項の規定を適用する場合について準用する。</Sentence>
+              <Sentence Num="2">この場合において、同令第二十五条第二十項中「同条第九項において準用する」とあるのは「東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下この項において「震災特例法」という。）第十二条第六項において準用する法第三十七条第九項の規定により読み替えられた」と、「法第三十七条第七項」とあるのは「震災特例法第十二条第六項において準用する法第三十七条第七項」と、同項第一号中「法第三十七条第一項」とあるのは「震災特例法第十二条第一項」と、「準用する場合」とあるのは「準用する場合及びこれらの規定を同条第五項の規定により適用する場合」と、同項第二号中「法第三十七条第四項」とあるのは「震災特例法第十二条第四項（同条第五項の規定により適用する場合を含む。）」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="11">
             <ParagraphNum>１１</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>買換資産が法第十二条第一項の表及び租税特別措置法第三十七条第一項の表の二以上の号の下欄に掲げる資産に該当する場合における法第十二条第一項又は租税特別措置法第三十七条第一項の規定により譲渡がなかったものとされる部分の金額の計算については、当該買換資産の全部又は一部は、当該個人の選択により、法第十二条第一項の表の各号又は租税特別措置法第三十七条第一項の表の各号のうちその該当する二以上の号のいずれかの号の下欄に掲げる資産にのみ該当するものとして、法第十二条第一項又は租税特別措置法第三十七条第一項の規定を適用する。</Sentence>
+              <Sentence>法第十二条第一項（同条第三項及び第四項において準用する場合並びにこれらの規定を同条第五項の規定により適用する場合を含む。以下この項及び次項において同じ。）の譲渡をした資産が同条第一項の表及び租税特別措置法第三十七条第一項の表の二以上の号の上欄に掲げる資産に該当する場合における法第十二条第一項又は租税特別措置法第三十七条第一項（同条第三項及び第四項において準用する場合を含む。以下この項及び次項において同じ。）の規定により譲渡がなかったものとされる部分の金額の計算については、当該譲渡をした資産の全部又は一部は、当該個人の選択により、当該二以上の号のいずれかの号の上欄に掲げる資産にのみ該当するものとして、法第十二条第一項又は租税特別措置法第三十七条第一項の規定を適用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="12">
             <ParagraphNum>１２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十二条第七項の買換資産について同項に規定する償却費の額を計算する場合又は譲渡所得の金額を計算する場合には、確定申告書に当該買換資産が同項の規定に該当するものである旨及び当該買換資産に係る償却費又は譲渡所得の金額についてはその金額が同項の規定により計算されている旨を記載するものとする。</Sentence>
+              <Sentence>買換資産が法第十二条第一項の表及び租税特別措置法第三十七条第一項の表の二以上の号の下欄に掲げる資産に該当する場合における法第十二条第一項又は租税特別措置法第三十七条第一項の規定により譲渡がなかったものとされる部分の金額の計算については、当該買換資産の全部又は一部は、当該個人の選択により、法第十二条第一項の表の各号又は租税特別措置法第三十七条第一項の表の各号のうちその該当する二以上の号のいずれかの号の下欄に掲げる資産にのみ該当するものとして、法第十二条第一項又は租税特別措置法第三十七条第一項の規定を適用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="13">
             <ParagraphNum>１３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十二条第一項の表の各号のいずれかの号の買換資産が二以上ある場合には、各買換資産につき同条第七項の規定によりその取得価額とされる金額は、同項各号に掲げる場合の区分に応じ、当該各号に定める金額に当該各買換資産の価額がこれらの買換資産の価額の合計額のうちに占める割合を乗じて計算した金額とする。</Sentence>
+              <Sentence>法第十二条第七項の買換資産について同項に規定する償却費の額を計算する場合又は譲渡所得の金額を計算する場合には、確定申告書に当該買換資産が同項の規定に該当するものである旨及び当該買換資産に係る償却費又は譲渡所得の金額についてはその金額が同項の規定により計算されている旨を記載するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="14">
             <ParagraphNum>１４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十二条第七項の規定により同項各号に定める金額に加算する同項に規定する費用の金額は、譲渡資産の譲渡に関する費用の金額のうち同条第一項（同条第三項及び第四項において準用する場合並びにこれらの規定を同条第五項の規定により適用する場合を含む。）の規定による譲渡所得の金額の計算上控除されなかった部分の金額とする。</Sentence>
+              <Sentence>法第十二条第一項の表の各号のいずれかの号の買換資産が二以上ある場合には、各買換資産につき同条第七項の規定によりその取得価額とされる金額は、同項各号に掲げる場合の区分に応じ、当該各号に定める金額に当該各買換資産の価額がこれらの買換資産の価額の合計額のうちに占める割合を乗じて計算した金額とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="15">
             <ParagraphNum>１５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十二条第七項第一号に規定する超える額に対応する部分以外の部分の額として政令で定めるところにより計算した金額は、譲渡資産の同号に規定する取得価額等（当該譲渡の日の属する年中に二以上の譲渡資産の譲渡が行われた場合には、これらの譲渡資産の同号に規定する取得価額等の合計額）に同号に規定する買換資産の取得価額が同号に規定する収入金額のうちに占める割合を乗じて計算した金額とする。</Sentence>
+              <Sentence>法第十二条第七項の規定により同項各号に定める金額に加算する同項に規定する費用の金額は、譲渡資産の譲渡に関する費用の金額のうち同条第一項（同条第三項及び第四項において準用する場合並びにこれらの規定を同条第五項の規定により適用する場合を含む。）の規定による譲渡所得の金額の計算上控除されなかった部分の金額とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="16">
             <ParagraphNum>１６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十二条第九項に規定する政令で定める交換は、所得税法第五十八条第一項の規定の適用を受ける交換とする。</Sentence>
+              <Sentence>法第十二条第七項第一号に規定する超える額に対応する部分以外の部分の額として政令で定めるところにより計算した金額は、譲渡資産の同号に規定する取得価額等（当該譲渡の日の属する年中に二以上の譲渡資産の譲渡が行われた場合には、これらの譲渡資産の同号に規定する取得価額等の合計額）に同号に規定する買換資産の取得価額が同号に規定する収入金額のうちに占める割合を乗じて計算した金額とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="17">
             <ParagraphNum>１７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十二条第九項第一号に規定する政令で定める部分は、同項に規定する交換譲渡資産のうち、同項に規定する交換差金の額が当該交換差金の額と同項に規定する交換により取得した資産の価額との合計額のうちに占める割合を、当該交換譲渡資産の価額に乗じて計算した金額に相当する部分とする。</Sentence>
+              <Sentence>法第十二条第九項に規定する政令で定める交換は、所得税法第五十八条第一項の規定の適用を受ける交換とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="18">
             <ParagraphNum>１８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十二条第一項（同条第三項又は第四項において準用する場合及びこれらの規定を同条第五項の規定により適用する場合を含む。）又は第九項の規定の適用がある場合における租税特別措置法第三十四条から第三十五条の三まで、第三十六条の二、第三十六条の五、第三十七条の五、第三十七条の六、第三十七条の八及び第三十七条の九の規定の適用については、同法第三十四条第一項中「又は第三十七条の九の規定」とあるのは「若しくは第三十七条の九の規定又は東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下第三十七条の九までにおいて「震災特例法」という。）第十二条の規定」と、同法第三十四条の二第一項及び第三十四条の三第一項中「又は第三十七条の九の規定」とあるのは「若しくは第三十七条の九の規定又は震災特例法第十二条の規定」と、同法第三十五条第二項第一号中「又は第三十三条」とあるのは「、第三十三条」と、「第三十七条の九の規定」とあるのは「第三十七条の九の規定又は震災特例法第十二条の規定」と、同法第三十五条の二第一項及び第三十五条の三第一項中「又は第三十七条の八の規定」とあるのは「若しくは第三十七条の八の規定又は震災特例法第十二条の規定」と、同法第三十六条の二第一項中「又は第三十七条の九の規定」とあるのは「若しくは第三十七条の九の規定又は震災特例法第十二条の規定」と、同法第三十六条の五中「その他」とあるのは「、震災特例法第十二条第九項の規定の適用を受ける交換その他」と、同法第三十七条の五第一項中「第三十七条の規定」とあるのは「第三十七条の規定若しくは震災特例法第十二条の規定」と、同条第四項中「政令で定める交換」とあるのは「震災特例法第十二条第九項の規定の適用を受ける交換その他政令で定める交換」と、同法第三十七条の六第一項第一号中「又は第三十七条の四の規定」とあるのは「若しくは第三十七条の四の規定又は震災特例法第十二条の規定」と、「同法」とあるのは「農業振興地域の整備に関する法律」と、同項第二号中「又は第三十七条の四の規定」とあるのは「若しくは第三十七条の四の規定又は震災特例法第十二条の規定」と、「同法」とあるのは「集落地域整備法」と、同項第三号中「又は前条の規定」とあるのは「若しくは前条の規定又は震災特例法第十二条の規定」と、「同法第十一条」とあるのは「農住組合法第十一条」と、同法第三十七条の八第一項中「政令で定める交換」とあるのは「震災特例法第十二条第九項の規定の適用を受ける交換その他政令で定める交換」と、同法第三十七条の九第一項中「第三十七条の規定」とあるのは「第三十七条の規定並びに震災特例法第十二条の規定」と、「同法」とあるのは「所得税法」とする。</Sentence>
+              <Sentence>法第十二条第九項第一号に規定する政令で定める部分は、同項に規定する交換譲渡資産のうち、同項に規定する交換差金の額が当該交換差金の額と同項に規定する交換により取得した資産の価額との合計額のうちに占める割合を、当該交換譲渡資産の価額に乗じて計算した金額に相当する部分とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="19">
             <ParagraphNum>１９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>法第十二条第一項（同条第三項又は第四項において準用する場合及びこれらの規定を同条第五項の規定により適用する場合を含む。）又は第九項の規定の適用がある場合における租税特別措置法第三十四条から第三十五条の三まで、第三十六条の二、第三十六条の五、第三十七条の五、第三十七条の六、第三十七条の八及び第三十七条の九の規定の適用については、同法第三十四条第一項中「又は第三十七条の九の規定」とあるのは「若しくは第三十七条の九の規定又は東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下第三十七条の九までにおいて「震災特例法」という。）第十二条の規定」と、同法第三十四条の二第一項及び第三十四条の三第一項中「又は第三十七条の九の規定」とあるのは「若しくは第三十七条の九の規定又は震災特例法第十二条の規定」と、同法第三十五条第二項第一号中「又は第三十三条」とあるのは「、第三十三条」と、「第三十七条の九の規定」とあるのは「第三十七条の九の規定又は震災特例法第十二条の規定」と、同法第三十五条の二第一項及び第三十五条の三第一項中「又は第三十七条の八の規定」とあるのは「若しくは第三十七条の八の規定又は震災特例法第十二条の規定」と、同法第三十六条の二第一項中「又は第三十七条の九の規定」とあるのは「若しくは第三十七条の九の規定又は震災特例法第十二条の規定」と、同法第三十六条の五中「その他」とあるのは「、震災特例法第十二条第九項の規定の適用を受ける交換その他」と、同法第三十七条の五第一項中「第三十七条の規定」とあるのは「第三十七条の規定若しくは震災特例法第十二条の規定」と、同条第四項中「政令で定める交換」とあるのは「震災特例法第十二条第九項の規定の適用を受ける交換その他政令で定める交換」と、同法第三十七条の六第一項第一号中「又は第三十七条の四の規定」とあるのは「若しくは第三十七条の四の規定又は震災特例法第十二条の規定」と、「同法」とあるのは「農業振興地域の整備に関する法律」と、同項第二号中「又は第三十七条の四の規定」とあるのは「若しくは第三十七条の四の規定又は震災特例法第十二条の規定」と、「同法」とあるのは「集落地域整備法」と、同項第三号中「又は前条の規定」とあるのは「若しくは前条の規定又は震災特例法第十二条の規定」と、「同法第十一条」とあるのは「農住組合法第十一条」と、同法第三十七条の八第一項中「政令で定める交換」とあるのは「震災特例法第十二条第九項の規定の適用を受ける交換その他政令で定める交換」と、同法第三十七条の九第一項中「第三十七条の規定」とあるのは「第三十七条の規定並びに震災特例法第十二条の規定」と、「同法」とあるのは「所得税法」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="20">
+            <ParagraphNum>２０</ParagraphNum>
             <ParagraphSentence>
               <Sentence>法第十二条第七項の規定の適用がある場合における租税特別措置法施行令第十八条の五の規定の適用については、同条第二項第二号中「又は」とあるのは「若しくは」と、「の規定」とあるのは「又は東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第十二条第七項の規定」とする。</Sentence>
             </ParagraphSentence>
@@ -1608,24 +1709,14 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>法第十三条の二第三項の規定により租税特別措置法第四十一条の規定の適用を受けた住宅被災者が同法第四十一条の二の二の規定の適用を受ける場合における同条の規定の適用については、同条第一項、第四項及び第八項中「同条第十三項又は第十六項の規定により同条」とあり、並びに同条第九項中「第四十一条第十三項又は第十六項の規定により同条」とあるのは、「震災特例法第十三条の二第三項の規定により第四十一条」とする。</Sentence>
+                <Sentence>法第十三条の二第三項の規定により租税特別措置法第四十一条の規定の適用を受けた住宅被災者が同法第四十一条の二の二の規定の適用を受ける場合における同条の規定の適用については、同条第一項、第四項及び第七項中「同条第十三項又は第十六項の規定により同条」とあり、並びに同条第八項中「第四十一条第十三項又は第十六項の規定により同条」とあるのは、「震災特例法第十三条の二第三項の規定により第四十一条」とする。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十三条の二第一項又は第三項の規定により租税特別措置法第四十一条又は第四十一条の二の二の規定の適用を受ける場合における租税特別措置法施行令第二十六条の三第八項及び第九項の規定の適用については、同条第八項中「同条第十三項又は第十六項の規定により同条」とあるのは「東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下この項において「震災特例法」という。）第十三条の二第三項の規定により法第四十一条」と、同項第五号中「法第四十一条第十項」とあるのは「震災特例法第十三条の二第一項」と、「同条」とあるのは「法第四十一条」と、同項第六号中「法第四十一条第十三項」とあるのは「震災特例法第十三条の二第三項」と、「同条の」とあるのは「法第四十一条の」と、「同条第十五項」とあるのは「震災特例法第十三条の二第四項」と、「控除限度額」とあるのは「再建特別特定控除限度額」と、同条第九項中「同条第三十一項」とあるのは「東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行令第十五条の二第四項第一号の規定により読み替えられた法第四十一条第三十一項」と、「の添付」とあるのは「及び同令第十五条の二第四項第一号の規定により読み替えられた法第四十一条第三十一項の財務省令で定める書類の添付」とする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="15_3">
-          <ArticleCaption>（復興指定会社が発行した株式を取得した場合の課税の特例）</ArticleCaption>
-          <ArticleTitle>第十五条の三</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence>法第十三条の三の規定の適用がある場合における租税特別措置法施行令第二十六条の二十八の三の規定の適用については、同条第六項第二号イ及びロ中「八百万円」とあるのは、「千万円」とする。</Sentence>
+              <Sentence>法第十三条の二第一項又は第三項の規定により租税特別措置法第四十一条又は第四十一条の二の二の規定の適用を受ける場合における租税特別措置法施行令第二十六条の三第八項及び第九項の規定の適用については、同条第八項中「同条第十三項又は第十六項の規定により同条」とあるのは「東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下この項において「震災特例法」という。）第十三条の二第三項の規定により法第四十一条」と、同項第五号中「法第四十一条第十項」とあるのは「震災特例法第十三条の二第一項」と、「同条」とあるのは「法第四十一条」と、同項第六号中「法第四十一条第十三項」とあるのは「震災特例法第十三条の二第三項」と、「より同条の」とあるのは「より法第四十一条の」と、「同条第十五項」とあるのは「震災特例法第十三条の二第四項」と、「控除限度額」とあるのは「再建特別特定控除限度額」と、同条第九項中「同条第三十一項」とあるのは「東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行令第十五条の二第四項第一号の規定により読み替えられた法第四十一条第三十一項」と、「の添付」とあるのは「及び同号の規定により読み替えられた法第四十一条第三十一項の財務省令で定める書類の添付」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1633,283 +1724,13 @@
       <Chapter Num="3">
         <ChapterTitle>第三章　法人税法等の特例</ChapterTitle>
         <Article Num="16">
-          <ArticleCaption>（震災損失の繰戻しによる法人税額の還付）</ArticleCaption>
-          <ArticleTitle>第十六条</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence>法第十五条第一項に規定する政令で定める資産は、棚卸資産、法人税法（昭和四十年法律第三十四号）第二条第二十二号に規定する固定資産（以下この条及び次条第一項において「固定資産」という。）及び法人税法施行令（昭和四十年政令第九十七号）第十四条第一項第六号に掲げる繰延資産のうち他の者の有する固定資産を利用するために支出されたもの（次項及び次条第一項において「固定資産に準ずる繰延資産」という。）とする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>法第十五条第一項に規定する損失の額で政令で定めるものは、棚卸資産、固定資産又は固定資産に準ずる繰延資産について生じた次に掲げる損失の額（保険金、損害賠償金その他これらに類するものにより補塡されるものを除く。）の合計額とする。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence>東日本大震災により当該資産が滅失し、若しくは損壊したこと又は東日本大震災による価値の減少に伴い当該資産の帳簿価額を減額したことにより生じた損失の額（その滅失、損壊又は価値の減少による当該資産の取壊し又は除去の費用その他付随費用に係る損失の額を含む。）</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence>東日本大震災により、当該資産が損壊し、又はその価値が減少し、その他当該資産を事業の用に供することが困難となった場合において、これらの被害があった日から一年以内に当該資産の原状回復のために支出する修繕費、土砂その他の障害物の除去に要する費用その他これらに類する費用（その損壊又は価値の減少を防止するために支出する費用を含む。）に係る損失の額</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>法第十五条第一項に規定する政令で定める規定は、所得税法等の一部を改正する法律（平成二十二年法律第六号）附則第七十七条の規定によりなおその効力を有するものとされる同法第十八条の規定による改正前の租税特別措置法第四十二条の十一第五項の規定とする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>４</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1">法第十五条第一項の規定の適用がある場合における法人税法施行令の規定の適用については、同令第百十二条第五項第一号中「）を除く」とあるのは「）及び東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（平成二十三年法律第二十九号。</Sentence>
-              <Sentence Num="2">以下「震災特例法」という。</Sentence>
-              <Sentence Num="3">）第十五条第一項（震災損失の繰戻しによる法人税額の還付）に規定する繰戻対象震災損失金額を除く」と、同令第百十三条第一項第一号及び第五項第二号中「及び法」とあるのは「並びに法」と、「の規定により還付」とあるのは「及び震災特例法第十五条（震災損失の繰戻しによる法人税額の還付）の規定により還付」とする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>５</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>法第十五条第六項の規定の適用を受けた法人の同項の規定により益金の額に算入された金額は、法人税法第六十七条第三項及び第五項の規定の適用についてはこれらの規定に規定する所得等の金額に、当該法人の同法第二条第十八号に規定する利益積立金額の計算については法人税法施行令第九条第一号イに規定する所得の金額にそれぞれ含まれないものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="6">
-            <ParagraphNum>６</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>法第十五条第六項の規定の適用がある場合における法人税法施行令及び租税特別措置法施行令の規定の適用については、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
-            </ParagraphSentence>
-            <TableStruct>
-              <Table>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>法人税法施行令第七十三条第二項</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>掲げる規定</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>掲げる規定及び東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下「震災特例法」という。）第十五条第六項（震災損失の繰戻しによる法人税額の還付）の規定</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>法人税法施行令第七十七条の二第二項</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>掲げる規定</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>掲げる規定及び震災特例法第十五条第六項（震災損失の繰戻しによる法人税額の還付）の規定</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>法人税法施行令第百四十二条の二第四項</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>）の規定</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>）並びに震災特例法第十五条第六項（震災損失の繰戻しによる法人税額の還付）の規定</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>租税特別措置法施行令第三十五条第二項</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>の規定</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>並びに東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下「震災特例法」という。）第十五条第六項の規定</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>租税特別措置法施行令第三十六条第五項</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>の規定</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>並びに震災特例法第十五条第六項の規定</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>租税特別措置法施行令第三十六条の二第四項</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>の規定</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>並びに震災特例法第十五条第六項の規定</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>租税特別措置法施行令第三十七条第二項</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>の規定</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>並びに震災特例法第十五条第六項の規定</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>租税特別措置法施行令第三十九条の三十一第四項及び第三十九条の三十二第一項</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>第六十二条の五第二項の</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>第六十二条の五第二項並びに震災特例法第十五条第六項の</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>租税特別措置法施行令第三十九条の三十二の二第一項及び第三十九条の三十二の三第二項</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>の規定</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>並びに震災特例法第十五条第六項の規定</Sentence>
-                  </TableColumn>
-                </TableRow>
-              </Table>
-            </TableStruct>
-          </Paragraph>
-        </Article>
-        <Article Num="16_2">
-          <ArticleCaption>（仮決算の中間申告による所得税額の還付）</ArticleCaption>
-          <ArticleTitle>第十六条の二</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence>法第十六条第一項に規定する損失の額で政令で定めるものは、棚卸資産、固定資産又は固定資産に準ずる繰延資産について生じた前条第二項各号に掲げる損失の額（保険金、損害賠償金その他これらに類するものにより補塡されるものを除く。）の合計額とする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>法第十六条第一項の規定により読み替えて適用される法人税法第七十二条第一項第二号に規定する所得税の額に類するものとして政令で定めるものは、法第十六条第一項に規定する期間において支払を受ける租税特別措置法第三条の三第一項に規定する国外公社債等の利子等につき同条第二項の規定により課される所得税の額、当該期間において支払を受ける同法第六条第一項に規定する民間国外債の利子につき同項の規定により課される所得税の額、当該期間において支払を受ける同法第八条の三第二項に規定する国外投資信託等の配当等につき同項の規定により課される所得税の額、当該期間において支払を受ける同法第九条の二第一項に規定する国外株式の配当等につき同項の規定により課される所得税の額及び当該期間において支払を受ける同法第九条の六第七項第一号に規定する外国特定目的信託の利益の分配又は同項第二号に規定する外国特定投資信託の収益の分配につき同条第三項の規定により課される所得税の額とし、法第十六条第一項の規定により読み替えて適用される法人税法第七十二条第一項第二号に規定する政令で定める規定は、租税特別措置法第三条の三第五項、第六条第三項、第八条の三第五項、第九条の二第四項及び第九条の六第六項の規定とする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>税務署長は、法第十六条第二項に規定する控除しきれなかった金額の記載がある同項の仮決算の中間申告書の提出があった場合には、当該控除しきれなかった金額が過大であると認められる事由がある場合を除き、遅滞なく、同項の規定による還付又は充当の手続をしなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>４</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>法第十六条第二項の規定による還付金（これに係る還付加算金を含む。）を未納の国税及び滞納処分費に充当する場合には、次の各号の順序により充当するものとする。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence>前項に規定する仮決算の中間申告書に係る法人税で法人税法第二条第三十六号に規定する修正申告書の提出又は更正により納付すべきものがあるときは、当該法人税に充当する。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence>前号の充当をしてもなお還付すべき金額があるときは、その他の未納の国税及び滞納処分費に充当する。</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>５</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>税務署長は、法第十六条第二項前段の規定による還付をする場合において、必要があると認めるときは、その還付を受ける法人に対し、同条第一項に規定する期間に係る法人税法第六十八条の規定による控除をされるべき金額を証明する書類又は帳簿の提示又は提出を求めることができる。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="16_3">
           <ArticleCaption>（震災関連原状回復費用に係る損失の繰越しの特例）</ArticleCaption>
-          <ArticleTitle>第十六条の三</ArticleTitle>
-          <Paragraph Num="1">
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第十六条の三第一項の規定の適用がある場合における法人税法及び法人税法施行令の規定の適用については、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
+              <Sentence WritingMode="vertical">法第十五条第一項に規定する政令で定める資産は、棚卸資産、法人税法（昭和四十年法律第三十四号）第二条第二十二号に規定する固定資産（以下この条において「固定資産」という。）及び法人税法施行令（昭和四十年政令第九十七号）第十四条第一項第六号に掲げる繰延資産のうち他の者の有する固定資産を利用するために支出されたものとする。</Sentence>
             </ParagraphSentence>
-            <TableStruct>
-              <Table>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>法人税法第八十一条の九第二項第一号イ</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>第五十八条第一項</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（次号イにおいて「震災特例法」という。）第十六条の三第一項（震災関連原状回復費用に係る損失の繰越しの特例）の規定によりみなして適用する第五十八条第一項</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>法人税法第八十一条の九第二項第二号イ</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>第五十八条第二項</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>震災特例法第十六条の三第一項の規定によりみなして適用する第五十八条第二項</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>法人税法施行令第百十二条第十二項第一号イ（２）</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>法第五十八条第一項ただし書</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下「震災特例法」という。）第十六条の三第一項（震災関連原状回復費用に係る損失の繰越しの特例）の規定によりみなして適用する法第五十八条第一項ただし書</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>法人税法施行令第百十六条第一項</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>欠損金額の</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>欠損金額（震災特例法第十六条の三第一項（震災関連原状回復費用に係る損失の繰越しの特例）の規定により法第五十八条第一項に規定する災害損失欠損金額に該当するものとみなされた金額を除く。）の</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn rowspan="2">
-                    <Sentence>法人税法施行令第百五十五条の十九第三項第二号</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>法第五十八条第二項</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>震災特例法第十六条の三第一項（震災関連原状回復費用に係る損失の繰越しの特例）の規定によりみなして適用する法第五十八条第二項</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>同条第二項の</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>震災特例法第十六条の三第一項の規定によりみなして適用する法第五十八条第二項の</Sentence>
-                  </TableColumn>
-                </TableRow>
-              </Table>
-            </TableStruct>
           </Paragraph>
         </Article>
         <Article Num="17">
@@ -2448,12 +2269,12 @@
           </Paragraph>
         </Article>
         <Article Num="17_2">
-          <ArticleCaption>（復興産業集積区域等において機械等を取得した場合の特別償却又は法人税額の特別控除）</ArticleCaption>
+          <ArticleCaption>（特定復興産業集積区域において機械等を取得した場合の特別償却又は法人税額の特別控除）</ArticleCaption>
           <ArticleTitle>第十七条の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第十七条の二第一項の表の第一号の第四欄に規定する政令で定める要件は、第一号に掲げる要件（同表の第一号の第三欄に規定する建築物整備事業（第一号ハ及び第三項において「建築物整備事業」という。）のうち地域の活力の再生及び地域住民の生活の利便性の確保に資する事業として財務省令で定める事業の用に供する建物及びその附属設備にあっては、第二号に掲げる要件）とする。</Sentence>
+              <Sentence>法第十七条の二第一項に規定する政令で定める要件は、第一号に掲げる要件（同項に規定する建築物整備事業（第一号ハ及び第三項において「建築物整備事業」という。）のうち地域の活力の再生及び地域住民の生活の利便性の確保に資する事業として財務省令で定める事業の用に供する建物及びその附属設備にあっては、第二号に掲げる要件）とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -2519,23 +2340,23 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法人（人格のない社団等及び法人課税信託の受託者である個人を含む。以下この章において同じ。）が、その取得し、又は建設した建物及びその附属設備につき法第十七条の二第一項又は第二項（これらの規定のうち同条第一項の表の第一号（建築物整備事業に係る部分に限る。）又は第二号に係る部分に限る。）の規定の適用を受ける場合には、当該建物及びその附属設備につきこれらの規定の適用を受ける事業年度の確定申告書等（中間申告書で法人税法第七十二条第一項各号又は第百四十四条の四第一項各号若しくは第二項各号に掲げる事項を記載したもの及び確定申告書をいう。）に財務省令で定める書類を添付しなければならない。</Sentence>
+              <Sentence>法人（人格のない社団等及び法人課税信託の受託者である個人を含む。以下この章において同じ。）が、その取得し、又は建設した建物及びその附属設備につき法第十七条の二第一項又は第二項（これらの規定のうち建築物整備事業に係る部分に限る。）の規定の適用を受ける場合には、当該建物及びその附属設備につきこれらの規定の適用を受ける事業年度の確定申告書等（中間申告書で法人税法第七十二条第一項各号又は第百四十四条の四第一項各号若しくは第二項各号に掲げる事項を記載したもの及び確定申告書をいう。）に財務省令で定める書類を添付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="17_2_2">
-          <ArticleCaption>（企業立地促進区域において機械等を取得した場合の特別償却又は法人税額の特別控除）</ArticleCaption>
+          <ArticleCaption>（企業立地促進区域等において機械等を取得した場合の特別償却又は法人税額の特別控除）</ArticleCaption>
           <ArticleTitle>第十七条の二の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第十七条の二の二第一項及び第二項に規定する政令で定める期間は、福島復興再生特別措置法第二十三条に規定する提出企業立地促進計画（以下この条において「提出企業立地促進計画」という。）に定められた同法第十八条第二項第二号に規定する企業立地促進区域（以下この条において「企業立地促進区域」という。）の変更に係る次の各号に掲げる区域の区分に応じ当該各号に定める期間とする。</Sentence>
+              <Sentence>法第十七条の二の二第一項の表の第一号の第二欄に規定する政令で定める期間は、福島復興再生特別措置法第十九条第一項に規定する提出企業立地促進計画（以下この項において「提出企業立地促進計画」という。）に定められた同法第十八条第二項第二号に規定する企業立地促進区域（以下この項において「企業立地促進区域」という。）の変更に係る次の各号に掲げる区域の区分に応じ当該各号に定める期間とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>提出企業立地促進計画に定められた企業立地促進区域の変更により新たに企業立地促進区域に該当することとなる区域</Sentence>
+                  <Sentence>当該提出企業立地促進計画に定められた企業立地促進区域の変更により新たに企業立地促進区域に該当することとなる区域</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence>当該変更について福島復興再生特別措置法第十八条第七項において準用する同条第四項の規定による提出のあった日から同日又は当該区域に該当する同条第二項第二号に規定する避難解除区域等に係る同法第四条第四号イからホまでに掲げる指示の全てが解除された日のいずれか遅い日以後七年を経過する日までの期間</Sentence>
@@ -2546,13 +2367,53 @@
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>提出企業立地促進計画に定められた企業立地促進区域の変更により企業立地促進区域に該当しないこととなる区域</Sentence>
+                  <Sentence>当該提出企業立地促進計画に定められた企業立地促進区域の変更により企業立地促進区域に該当しないこととなる区域</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>提出企業立地促進計画の福島復興再生特別措置法第十八条第四項の規定による提出のあった日から当該変更について同条第七項において準用する同条第四項の規定による提出のあった日までの期間</Sentence>
+                  <Sentence>当該提出企業立地促進計画の福島復興再生特別措置法第十八条第四項の規定による提出のあった日から当該変更について同条第七項において準用する同条第四項の規定による提出のあった日までの期間</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>法第十七条の二の二第一項の表の第二号の第五欄に規定する政令で定めるものは、福島復興再生特別措置法第七十五条の二に規定する機械及び装置、建物及びその附属設備並びに構築物その他復興庁令で定める減価償却資産のうち、同号の第一欄に掲げる法人の同法第七十五条の四第一項の規定による報告に係る財務省令で定める書類に記載されたもの（当該報告につき、当該法人が同号の第四欄に規定する特定事業活動を適切に実施していることを証する書類として財務省令で定める書類の交付を受けた場合における当該記載されたものに限る。）とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>法第十七条の二の二第一項の表の第三号の第二欄に規定する政令で定める期間は、福島復興再生特別措置法第八十五条第一項に規定する提出新産業創出等推進事業促進計画（以下この項において「提出新産業創出等推進事業促進計画」という。）に定められた同法第八十四条第二項第二号に規定する新産業創出等推進事業促進区域（以下この項において「計画区域」という。）の変更に係る次の各号に掲げる区域の区分に応じ当該各号に定める期間とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence>当該提出新産業創出等推進事業促進計画の変更について福島復興再生特別措置法第八十四条第七項において準用する同条第四項の規定による提出（以下この項において「変更の提出」という。）があったことにより新たに計画区域に該当することとなった区域（次号に掲げる区域を除く。）</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence>当該変更の提出のあった日から令和八年三月三十一日までの期間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence>当該提出新産業創出等推進事業促進計画の変更について変更の提出があったことにより計画区域に該当しないこととなった区域（以下この号において「除外区域」という。）</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence>当該提出新産業創出等推進事業促進計画の福島復興再生特別措置法第八十四条第四項の規定による提出のあった日（当該除外区域が他の変更の提出があったことにより新たに計画区域に該当することとなった区域である場合には、当該他の変更の提出のあった日）から当該変更の提出のあった日までの期間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>法第十七条の二の二第一項の表の第三号の第五欄に規定する政令で定めるものは、福島復興再生特別措置法第八十五条の五に規定する機械及び装置、建物及びその附属設備並びに構築物その他復興庁令で定める減価償却資産のうち、同号の第一欄に掲げる法人の同法第八十五条の二第六項に規定する認定新産業創出等推進事業実施計画に記載されたものとする。</Sentence>
+            </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="17_2_3">
@@ -2610,7 +2471,7 @@
           </Paragraph>
         </Article>
         <Article Num="17_3">
-          <ArticleCaption>（復興産業集積区域において被災雇用者等を雇用した場合の法人税額の特別控除）</ArticleCaption>
+          <ArticleCaption>（特定復興産業集積区域において被災雇用者等を雇用した場合の法人税額の特別控除）</ArticleCaption>
           <ArticleTitle>第十七条の三</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
@@ -2620,7 +2481,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>平成二十三年三月十一日において東日本大震災復興特別区域法第四条第一項に規定する特定被災区域（次号において「特定被災区域」という。）内に所在する事業所に雇用されていた者</Sentence>
+                <Sentence>平成二十三年三月十一日において特定被災区域（東日本大震災により被害を受けた地域をその区域とする市町村の区域であって東日本大震災復興特別区域法第三条第一項に規定する復興特別区域基本方針に即して内閣総理大臣が定める区域をいう。次号において同じ。）内に所在する事業所に雇用されていた者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -2630,29 +2491,35 @@
               </ItemSentence>
             </Item>
           </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>内閣総理大臣は、前項第一号の規定により区域を定めたときは、これを告示する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
         </Article>
         <Article Num="17_3_2">
-          <ArticleCaption>（企業立地促進区域において避難対象雇用者等を雇用した場合の法人税額の特別控除）</ArticleCaption>
+          <ArticleCaption>（企業立地促進区域等において避難対象雇用者等を雇用した場合の法人税額の特別控除）</ArticleCaption>
           <ArticleTitle>第十七条の三の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第十七条の三の二第一項に規定する政令で定める対象期間は、同項に規定する提出企業立地促進計画（次項第二号において「提出企業立地促進計画」という。）に定められた同条第一項に規定する企業立地促進区域（以下この項及び次項第二号において「企業立地促進区域」という。）の同条第一項の変更について福島復興再生特別措置法第十八条第七項において準用する同条第四項の規定による提出のあった日から同日又は当該企業立地促進区域に該当する同条第二項第二号に規定する避難解除区域等に係る同法第四条第四号イからホまでに掲げる指示の全てが解除された日のいずれか遅い日以後七年を経過する日までの期間とする。</Sentence>
+              <Sentence>法第十七条の三の二第一項の表の第一号の第一欄に規定する政令で定める期間は、福島復興再生特別措置法第十九条第一項に規定する提出企業立地促進計画（次項第二号において「提出企業立地促進計画」という。）に定められた同法第十八条第二項第二号に規定する企業立地促進区域（以下この項及び次項第二号において「企業立地促進区域」という。）の同欄の変更について同条第七項において準用する同条第四項の規定による提出のあった日から同日又は当該企業立地促進区域に該当する同条第二項第二号に規定する避難解除区域等に係る同法第四条第四号イからホまでに掲げる指示の全てが解除された日のいずれか遅い日以後七年を経過する日までの期間とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十七条の三の二第一項に規定する政令で定める場合は、次の各号に掲げる場合とし、同項に規定する政令で定める期間は、当該各号に掲げる場合の区分に応じ当該各号に定める期間とする。</Sentence>
+              <Sentence>法第十七条の三の二第一項の表の第一号の第二欄に規定する政令で定める場合は、次の各号に掲げる場合とし、同欄に規定する政令で定める期間は、当該各号に掲げる場合の区分に応じ当該各号に定める期間とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>法第十七条の三の二第一項に規定する認定を受けた日から同日以後五年を経過する日までの期間内に同項の法人が福島復興再生特別措置法第二十条第四項に規定する認定事業者に該当しないこととなった場合</Sentence>
+                  <Sentence>法第十七条の三の二第一項の表の第一号の第一欄に規定する認定を受けた日から同日以後五年を経過する日までの期間内に同欄に掲げる法人が福島復興再生特別措置法第二十条第四項に規定する認定事業者に該当しないこととなった場合</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>当該法人が当該認定を受けた日から当該該当しないこととなった日までの期間</Sentence>
+                  <Sentence>当該法人が当該認定を受けた日からその該当しないこととなった日までの期間</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -2660,7 +2527,7 @@
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>法第十七条の三の二第一項に規定する認定を受けた日から同日以後五年を経過する日までの期間内に提出企業立地促進計画に定められた企業立地促進区域の変更（同項の法人の当該認定に係る区域が企業立地促進区域に該当しないこととなるものに限る。）があった場合</Sentence>
+                  <Sentence>法第十七条の三の二第一項の表の第一号の第一欄に規定する認定を受けた日から同日以後五年を経過する日までの期間内に提出企業立地促進計画に定められた企業立地促進区域の変更（同欄に掲げる法人の当該認定に係る区域が企業立地促進区域に該当しないこととなるものに限る。）があった場合</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence>当該法人が当該認定を受けた日から当該変更について福島復興再生特別措置法第十八条第七項において準用する同条第四項の規定による提出のあった日までの期間</Sentence>
@@ -2671,18 +2538,100 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十七条の三の二第一項に規定する政令で定める者は、次に掲げる者とする。</Sentence>
+              <Sentence>法第十七条の三の二第一項の表の第一号の第三欄に規定する政令で定める者は、次に掲げる者とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>平成二十三年三月十一日において法第十七条の三の二第一項に規定する避難対象区域（次号において「避難対象区域」という。）内に所在する事業所に勤務していた者</Sentence>
+                <Sentence>平成二十三年三月十一日において法第十七条の三の二第一項の表の第一号の第三欄に規定する避難対象区域（次号において「避難対象区域」という。）内に所在する事業所に勤務していた者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Sentence>平成二十三年三月十一日において避難対象区域内に居住していた者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>法第十七条の三の二第一項の表の第二号の第三欄に規定する政令で定める者は、次に掲げる者とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>平成二十三年三月十一日において福島県の区域内に所在する事業所に勤務していた者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>平成二十三年三月十一日において福島県の区域内に居住していた者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>法第十七条の三の二第一項の表の第三号の第二欄に規定する政令で定める場合は、次の各号に掲げる場合とし、同欄に規定する政令で定める期間は、当該各号に掲げる場合の区分に応じ当該各号に定める期間とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence>法第十七条の三の二第一項の表の第三号の第一欄に規定する認定を受けた日から同日以後五年を経過する日までの期間内に同欄に掲げる法人が福島復興再生特別措置法第八十五条の二第四項に規定する認定事業者に該当しないこととなった場合</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence>当該法人が当該認定を受けた日からその該当しないこととなった日までの期間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence>法第十七条の三の二第一項の表の第三号の第一欄に規定する認定を受けた日から同日以後五年を経過する日までの期間内に福島復興再生特別措置法第八十五条第一項に規定する提出新産業創出等推進事業促進計画（以下この号において「提出新産業創出等推進事業促進計画」という。）の変更について同法第八十四条第七項において準用する同条第四項の規定による提出があったことにより計画区域（当該提出新産業創出等推進事業促進計画に定められた同条第二項第二号に規定する新産業創出等推進事業促進区域をいう。以下この号において同じ。）の変更（同欄に掲げる法人の当該認定に係る区域が計画区域に該当しないこととなるものに限る。）があった場合</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence>当該法人が当該認定を受けた日から当該提出のあった日までの期間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>法第十七条の三の二第一項の表の第三号の第三欄に規定する政令で定める雇用者は、次に掲げる者とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>法第十七条の三の二第一項の表の第一号の第三欄に規定する避難対象雇用者等</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>次に掲げる者（前号に掲げる者を除く。）</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>平成二十三年三月十一日において福島復興再生特別措置法第七条第六項に規定する福島国際研究産業都市区域（ロにおいて「福島国際研究産業都市区域」という。）の区域内に所在する事業所に勤務していた者</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>平成二十三年三月十一日において福島国際研究産業都市区域の区域内に居住していた者</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>法第十七条の三の二第一項の表の第三号の第一欄に掲げる法人の福島復興再生特別措置法第八十五条の二第六項に規定する認定新産業創出等推進事業実施計画に従って行う同法第八十四条第一項に規定する新産業創出等推進事業に関する専門的な知識及び技能を必要とする業務に従事する者として財務省令で定める者（前二号に掲げる者を除く。）</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -2755,7 +2704,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十七条の四第一項の規定により読み替えて適用する租税特別措置法第四十二条の十三の規定の適用がある場合における法第十七条の二第十一項から第十三項まで（これらの規定を法第十七条の二の二第八項、第十七条の二の三第八項、第十七条の三第五項、第十七条の三の二第四項又は第十七条の三の三第四項において準用する場合を含む。）の規定の適用については、法第十七条の二第十一項中「規定を」とあるのは「規定（第十七条の四第一項の規定により読み替えて適用する租税特別措置法第四十二条の十三第一項の規定を含む。）を」と、「同法」とあるのは「法人税法」と、同条第十三項中「同法第七十条の二」とあるのは「法人税法第七十条の二」とする。</Sentence>
+              <Sentence>法第十七条の四第一項の規定により読み替えて適用する租税特別措置法第四十二条の十三の規定の適用がある場合における法第十七条の二第十一項から第十三項まで（これらの規定を法第十七条の二の二第八項、第十七条の二の三第八項、第十七条の三第五項、第十七条の三の二第五項又は第十七条の三の三第四項において準用する場合を含む。）の規定の適用については、法第十七条の二第十一項中「規定を」とあるのは「規定（第十七条の四第一項の規定により読み替えて適用する租税特別措置法第四十二条の十三第一項の規定を含む。）を」と、「同法」とあるのは「法人税法」と、同条第十三項中「同法第七十条の二」とあるのは「法人税法第七十条の二」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2770,7 +2719,7 @@
           </Paragraph>
         </Article>
         <Article Num="17_5">
-          <ArticleCaption>（復興産業集積区域における開発研究用資産の特別償却等）</ArticleCaption>
+          <ArticleCaption>（特定復興産業集積区域における開発研究用資産の特別償却等）</ArticleCaption>
           <ArticleTitle>第十七条の五</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
@@ -2781,17 +2730,61 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十七条の五第一項に規定する政令で定める減価償却資産は、専ら同項に規定する開発研究の用に供される建物及び建物附属設備、構築物、工具、器具及び備品、機械及び装置並びにソフトウエアのうち産業集積の形成に資するものとして財務省令で定めるものとする。</Sentence>
+              <Sentence>法第十七条の五第一項に規定する政令で定める減価償却資産は、専ら同項に規定する開発研究の用に供される建物及び建物附属設備、構築物、工具、器具及び備品、機械及び装置並びにソフトウエアのうち、産業集積の形成に資するものとして財務省令で定めるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="18">
-          <ArticleCaption>（被災代替資産等の特別償却）</ArticleCaption>
+        <Article Delete="false" Hide="false" Num="18">
+          <ArticleCaption>（新産業創出等推進事業促進区域における開発研究用資産の特別償却等）</ArticleCaption>
           <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第十八条第一項に規定する政令で定める期間は、福島復興再生特別措置法第八十五条第一項に規定する提出新産業創出等推進事業促進計画（以下この項において「提出新産業創出等推進事業促進計画」という。）に定められた同法第八十四条第二項第二号に規定する新産業創出等推進事業促進区域（以下この項において「計画区域」という。）の変更に係る次の各号に掲げる区域の区分に応じ当該各号に定める期間とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">当該提出新産業創出等推進事業促進計画の変更について福島復興再生特別措置法第八十四条第七項において準用する同条第四項の規定による提出（以下この項において「変更の提出」という。）があったことにより新たに計画区域に該当することとなった区域（次号に掲げる区域を除く。）</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該変更の提出のあった日から令和八年三月三十一日までの期間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">当該提出新産業創出等推進事業促進計画の変更について変更の提出があったことにより計画区域に該当しないこととなった区域（以下この号において「除外区域」という。）</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該提出新産業創出等推進事業促進計画の福島復興再生特別措置法第八十四条第四項の規定による提出のあった日（当該除外区域が他の変更の提出があったことにより新たに計画区域に該当することとなった区域である場合には、当該他の変更の提出のあった日）から当該変更の提出のあった日までの期間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第十八条第一項に規定する試験研究として政令で定めるものは、前条第一項に規定する試験研究とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第十八条第一項に規定する政令で定める減価償却資産は、専ら同項に規定する開発研究の用に供される建物及び建物附属設備、構築物、工具、器具及び備品、機械及び装置並びにソフトウエアのうち、新たな産業の創出又は産業の国際競争力の強化に資するものとして財務省令で定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18_2">
+          <ArticleCaption>（被災代替資産等の特別償却）</ArticleCaption>
+          <ArticleTitle>第十八条の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第十八条第一項に規定する政令で定める減価償却資産は、次の各号に掲げる減価償却資産の区分に応じ当該各号に定めるものとする。</Sentence>
+              <Sentence>法第十八条の二第一項に規定する政令で定める減価償却資産は、次の各号に掲げる減価償却資産の区分に応じ当該各号に定めるものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -2837,94 +2830,6 @@
                 </Column>
               </ItemSentence>
             </Item>
-            <Item Num="5">
-              <ItemTitle>五</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence>車両及び運搬具</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence>当該法人が有する道路運送車両法第四条に規定する自動車のうち同条に規定する自動車登録ファイルに登録されているもの又は同法第五十九条第一項に規定する検査対象軽自動車のうち同法第七十二条第一項に規定する軽自動車検査ファイルに記録されているもの（以下この号において「車両及び運搬具」という。）で、東日本大震災に起因して当該法人の事業の用に供することができなくなったもの（以下この号において「被災車両運搬具」という。）のその用に供することができなくなった時の直前の用途と同一の用途に供される車両及び運搬具（当該被災車両運搬具に比して著しく高額なものその他当該被災車両運搬具に比して著しく仕様が異なるものを除く。）</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-        </Article>
-        <Article Num="18_2">
-          <ArticleCaption>（被災者向け優良賃貸住宅の割増償却）</ArticleCaption>
-          <ArticleTitle>第十八条の二</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence>法第十八条の二第一項に規定する政令で定める地域は、東日本大震災に係る激<Ruby>甚<Rt>じん</Rt>
-</Ruby>災害に対処するための特別の財政援助等に関する法律施行令第四十一条第一項の区域として同条第二項の規定により告示された区域とする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>法第十八条の二第一項に規定する政令で定める賃貸住宅は、共同住宅又は長屋に係る各独立部分（構造上区分された数個の部分の各部分をいう。以下この項において同じ。）で次に掲げる要件（賃貸住宅が地方公共団体に対し貸し付けられ、当該地方公共団体が賃貸する場合にあっては、第一号から第四号まで及び第六号に掲げる要件）の全てを満たすものの数が十以上（当該全てを満たすものでその床面積が五十平方メートル以上のものが四以上ある場合には、四以上）である場合における当該要件の全てを満たす各独立部分とする。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence>その各独立部分に係る共同住宅又は長屋が耐火建築物（建築基準法第二条第九号の二に規定する耐火建築物をいう。次号において同じ。）又は準耐火建築物（同条第九号の三に規定する準耐火建築物をいう。）に該当するものであること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence>その各独立部分に係る共同住宅又は長屋の取得価額（法人税法施行令第五十四条第一項各号の規定により計算した取得価額をいう。）が三・三平方メートル当たり九十五万円（耐火建築物に該当するものについては、百万円）以下のものであること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence>その床面積が百二十平方メートル以下で、かつ、二十五平方メートル以上のものであること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence>専用の台所、浴室、便所及び洗面設備を備えたものであること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="5">
-              <ItemTitle>五</ItemTitle>
-              <ItemSentence>
-                <Sentence>その賃貸が公募の方法により行われるものであり、かつ、当該公募において次に掲げる事項（その床面積が五十平方メートル以上のものにあっては、イに掲げる事項）が明らかにされているものであること。</Sentence>
-              </ItemSentence>
-              <Subitem1 Num="1">
-                <Subitem1Title>イ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence>その賃貸が、東日本大震災の被災者に対し優先して行われること。</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Num="2">
-                <Subitem1Title>ロ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence>その賃貸が、単身者（現に同居し、又は同居しようとする者がない者をいう。）に対し優先して行われること。</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-            </Item>
-            <Item Num="6">
-              <ItemTitle>六</ItemTitle>
-              <ItemSentence>
-                <Sentence>その賃貸に係る家賃の額がその各独立部分に係る共同住宅又は長屋に係る償却費、修繕費、管理事務費、損害保険料、地代に相当する額、貸倒れ及び空家による損失を補塡するための引当金並びに公租公課の合計額を基礎とする適正な家賃の計算方法として国土交通大臣が定める方法によって算定された額を超えないものであること。</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>法人が、その取得し、又は新築した賃貸住宅につき法第十八条の二第一項の規定の適用を受ける場合には、当該賃貸住宅につき同項の規定の適用を受ける各事業年度の確定申告書等（中間申告書で法人税法第七十二条第一項各号又は第百四十四条の四第一項各号若しくは第二項各号に掲げる事項を記載したもの及び確定申告書をいう。）に財務省令で定める書類を添付しなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>４</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>国土交通大臣は、第二項第六号の規定により計算方法を定めたときは、これを告示する。</Sentence>
-            </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="18_3">
@@ -2950,7 +2855,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>法人税法第五十七条第一項ただし書（同条第十一項の規定により読み替えて適用する場合を含む。）に規定する損金算入限度額、同法第五十九条第二項及び第三項に規定する計算した場合における当該適用年度の所得の金額、同条第五項の規定により読み替えられた同条第二項に規定する調整前所得金額及び調整前欠損金額、同法第六十四条の五第一項に規定する通算前所得金額及び通算前欠損金額、同法第六十四条の七第一項第三号イに規定する十年内事業年度に係る欠損控除前所得金額、同号イ（３）に規定する十年内事業年度に係る他の欠損控除前所得金額並びに同条第七項第一号に規定する益金算入後所得金額は、特別損金算入規定（法第十八条の三第一項の規定をいう。以下この項において同じ。）を適用しないで計算するものとする。</Sentence>
+                <Sentence>法人税法第五十七条第一項ただし書に規定する計算した場合における当該各事業年度の所得の金額、同法第五十九条第二項及び第三項に規定する計算した場合における当該適用年度の所得の金額、同条第五項の規定により読み替えられた同条第二項に規定する調整前所得金額及び調整前欠損金額、同法第六十四条の五第一項に規定する通算前所得金額及び通算前欠損金額、同法第六十四条の七第一項第三号イに規定する欠損控除前所得金額、同号イ（３）に規定する他の欠損控除前所得金額並びに同条第七項第一号に規定する益金算入後所得金額は、特別損金算入規定（法第十八条の三第一項の規定をいう。以下この項において同じ。）を適用しないで計算するものとする。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -2968,7 +2873,7 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence>租税特別措置法施行令第三十五条第二項各号列記以外の部分に規定する当該事業年度の所得の金額、同条第三項に規定する対象年度の所得の金額、同令第三十六条第十四項に規定する計算した金額、同令第三十七条第六項に規定する計算した金額、同令第三十七条の三第三項に規定する当該事業年度の所得の金額、同令第三十九条の十三の二第一項に規定する計算した場合の当該事業年度の所得の金額、同令第三十九条の三十一第四項に規定する組合等損金額、同令第三十九条の三十二第一項に規定する組合損金額、同令第三十九条の三十二の二第一項に規定する当該事業年度の所得の金額及び同令第三十九条の三十二の三第二項に規定する当該事業年度の所得の金額は、特別損金算入規定を適用しないで計算するものとする。</Sentence>
+                <Sentence>租税特別措置法施行令第三十五条第二項各号列記以外の部分に規定する当該事業年度の所得の金額、同条第三項に規定する対象年度の所得の金額、同令第三十六条第十五項に規定する計算した金額、同令第三十七条第七項に規定する計算した金額、同令第三十七条の二第二項に規定する当該事業年度の所得の金額、同令第三十七条の三第三項に規定する当該事業年度の所得の金額、同令第三十九条の十三の二第一項に規定する計算した場合の当該事業年度の所得の金額、同令第三十九条の三十一第四項に規定する組合等損金額、同令第三十九条の三十二第一項に規定する組合損金額、同令第三十九条の三十二の二第一項に規定する当該事業年度の所得の金額及び同令第三十九条の三十二の三第二項に規定する当該事業年度の所得の金額は、特別損金算入規定を適用しないで計算するものとする。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -2979,13 +2884,25 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第十八条の五第一項に規定する政令で定める規定は、所得税法等の一部を改正する等の法律（平成二十九年法律第四号）附則第九十八条第二項の規定によりなおその効力を有するものとされる同法第十五条の規定による改正前の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第十八条の二第一項の規定とする。</Sentence>
+              <Sentence>法第十八条の五第一項に規定する政令で定める規定は、次に掲げる規定とする。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>所得税法等の一部を改正する等の法律（平成二十九年法律第四号）附則第九十八条第二項の規定によりなおその効力を有するものとされる同法第十五条の規定による改正前の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第十八条の二第一項の規定</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>所得税法等の一部を改正する法律（令和三年法律第十一号）附則第百二条の規定によりなおその効力を有するものとされる同法第十三条の規定による改正前の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第十八条の二第一項の規定</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十八条の五第一項の規定により租税特別措置法第五十二条の二の規定を読み替えて適用する場合における租税特別措置法施行令第三十条第三項の規定の適用については、同項第一号中「又は」とあるのは「若しくは」と、「の規定」とあるのは「又は東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下この号において「震災特例法」という。）第十八条の二第一項若しくは所得税法等の一部を改正する等の法律（平成二十九年法律第四号）附則第九十八条第二項の規定によりなおその効力を有するものとされる同法第十五条の規定による改正前の震災特例法第十八条の二第一項の規定」とする。</Sentence>
+              <Sentence>法第十八条の五第一項の規定により租税特別措置法第五十二条の二の規定を読み替えて適用する場合における租税特別措置法施行令第三十条第三項の規定の適用については、同項第一号中「又は」とあるのは「若しくは」と、「規定」とあるのは「規定又は東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行令第十八条の四第一項各号に掲げる規定」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3016,14 +2933,20 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>前号に掲げる規定に係る法第十八条の六第一項の規定によりみなして適用する租税特別措置法第五十二条の三の規定</Sentence>
+                <Sentence>所得税法等の一部を改正する法律（令和三年法律第十一号）附則第百二条の規定によりなおその効力を有するものとされる同法第十三条の規定による改正前の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第十八条の二の規定</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>前二号に掲げる規定に係る法第十八条の六第一項の規定によりみなして適用する租税特別措置法第五十二条の三の規定</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十八条の七第一項の規定により租税特別措置法第五十三条の規定を読み替えて適用する場合における租税特別措置法施行令第三十二条第二項の規定の適用については、同項中「法第五十三条第一項第二号」とあるのは「東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下この項において「震災特例法」という。）第十八条の七第一項の規定により読み替えられた法第五十三条第一項第二号」と、「掲げる規定を」とあるのは「掲げる規定及び東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行令第十八条の六第一項第一号に掲げる規定を」と、「法第五十二条の三」とあるのは「震災特例法第十八条の六第一項の規定によりみなして適用する法第五十二条の三」と、「法第五十三条第一項の」とあるのは「震災特例法第十八条の七第一項の規定により読み替えられた法第五十三条第一項の」とする。</Sentence>
+              <Sentence>法第十八条の七第一項の規定により租税特別措置法第五十三条の規定を読み替えて適用する場合における租税特別措置法施行令第三十二条第二項の規定の適用については、同項中「法第五十三条第一項第二号」とあるのは「東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下この項において「震災特例法」という。）第十八条の七第一項の規定により読み替えられた法第五十三条第一項第二号」と、「掲げる規定を」とあるのは「掲げる規定並びに東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行令第十八条の六第一項第一号及び第二号に掲げる規定を」と、「法第五十二条の三」とあるのは「震災特例法第十八条の六第一項の規定によりみなして適用する法第五十二条の三」と、「法第五十三条第一項の」とあるのは「震災特例法第十八条の七第一項の規定により読み替えられた法第五十三条第一項の」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3050,12 +2973,12 @@
           </Paragraph>
         </Article>
         <Article Num="18_8">
-          <ArticleCaption>（帰還環境整備推進法人に対して土地等を譲渡した場合の所得の特別控除の特例）</ArticleCaption>
+          <ArticleCaption>（帰還・移住等環境整備推進法人に対して土地等を譲渡した場合の所得の特別控除の特例）</ArticleCaption>
           <ArticleTitle>第十八条の八</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第十八条の十第一項に規定する政令で定める帰還環境整備推進法人は、公益社団法人（その社員総会における議決権の総数の二分の一以上の数が地方公共団体により保有されているものに限る。）又は公益財団法人（その設立当初において拠出をされた金額の二分の一以上の金額が地方公共団体により拠出をされているものに限る。）であって、その定款において、その法人が解散した場合にその残余財産が地方公共団体又は当該法人と類似の目的をもつ他の公益を目的とする事業を行う法人に帰属する旨の定めがあるものとする。</Sentence>
+              <Sentence>法第十八条の十第一項に規定する政令で定める帰還・移住等環境整備推進法人は、公益社団法人（その社員総会における議決権の総数の二分の一以上の数が地方公共団体により保有されているものに限る。）又は公益財団法人（その設立当初において拠出をされた金額の二分の一以上の金額が地方公共団体により拠出をされているものに限る。）であって、その定款において、その法人が解散した場合にその残余財産が地方公共団体又は当該法人と類似の目的をもつ他の公益を目的とする事業を行う法人に帰属する旨の定めがあるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3077,24 +3000,30 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十九条第二項に規定する政令で定めるところにより計算した面積は、当該事業年度において譲渡をした同条第一項の表の各号の上欄に掲げる土地等（土地又は土地の上に存する権利をいう。以下この条において同じ。）に係る面積に五を乗じて計算した面積とする。</Sentence>
+              <Sentence>法第十九条第一項の表の第一号の下欄のイに規定する政令で定める区域は、東日本大震災復興特別区域法施行令第二条各号に掲げる区域とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十九条第三項に規定する政令で定めるやむを得ない事情は、工場、事務所その他の建物、構築物又は機械及び装置（以下この項において「工場等」という。）の敷地の用に供するための宅地の造成並びに当該工場等の建設及び移転に要する期間が通常一年を超えると認められる事情その他これに準ずる事情とし、同条第三項に規定する政令で定める期間は、同項に規定する譲渡の日を含む事業年度開始の日前三年の期間とする。</Sentence>
+              <Sentence>法第十九条第二項に規定する政令で定めるところにより計算した面積は、当該事業年度において譲渡をした同条第一項の表の各号の上欄に掲げる土地等（土地又は土地の上に存する権利をいう。以下この条において同じ。）に係る面積に五を乗じて計算した面積とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>法第十九条第三項に規定する政令で定めるやむを得ない事情は、工場、事務所その他の建物、構築物又は機械及び装置（以下この項において「工場等」という。）の敷地の用に供するための宅地の造成並びに当該工場等の建設及び移転に要する期間が通常一年を超えると認められる事情その他これに準ずる事情とし、同条第三項に規定する政令で定める期間は、同項に規定する譲渡の日を含む事業年度開始の日前三年の期間とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence>法第十九条第三項（同条第九項において準用する場合を含む。以下この項において同じ。）の届出は、同条第一項の表の各号の下欄に掲げる資産の取得（建設及び製作を含む。）をした日を含む事業年度終了の日の翌日から二月以内に、当該資産につき同条第三項の規定の適用を受ける旨及び次に掲げる事項を記載した届出書により行わなければならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>届出をする法人の名称、納税地及び法人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第十五項に規定する法人番号をいう。以下この章において同じ。）並びに代表者（人格のない社団等で代表者の定めがなく、管理人の定めがあるものについては、管理人。以下この条において同じ。）の氏名（法人税法第二条第四号に規定する外国法人にあっては、代表者及び同法第百四十一条各号に定める国内源泉所得に係る事業又は資産の経営又は管理の責任者の氏名。以下この条において同じ。）</Sentence>
+                <Sentence>届出をする法人の名称、納税地及び法人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第十五項に規定する法人番号をいう。以下この条において同じ。）並びに代表者（人格のない社団等で代表者の定めがなく、管理人の定めがあるものについては、管理人。以下この条において同じ。）の氏名（法人税法第二条第四号に規定する外国法人にあっては、代表者及び同法第百四十一条各号に定める国内源泉所得に係る事業又は資産の経営又は管理の責任者の氏名。以下この条において同じ。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -3115,12 +3044,6 @@
                 <Sentence>その他参考となるべき事項</Sentence>
               </ItemSentence>
             </Item>
-          </Paragraph>
-          <Paragraph Num="6">
-            <ParagraphNum>６</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>法第十九条第三項（同条第九項において準用する場合を含む。）の規定を適用する場合において、同条第三項の届出には、当該法人（当該法人が連結子法人であった場合には、当該法人との間に連結完全支配関係がある連結親法人）により行われた法第二十七条第三項の規定による同項の規定の適用を受ける旨の届出を含むものとする。</Sentence>
-            </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
@@ -3336,7 +3259,7 @@
           <Paragraph Num="20">
             <ParagraphNum>２０</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>租税特別措置法施行令第三十九条の七第二十六項の規定は、法第十九条第一項の表の第一号の上欄に規定する土地若しくは土地の上に存する権利又は建物若しくは構築物について準用する。</Sentence>
+              <Sentence>租税特別措置法施行令第三十九条の七第二十四項の規定は、法第十九条第一項の表の第一号の上欄に規定する土地若しくは土地の上に存する権利又は建物若しくは構築物について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="21">
@@ -3566,7 +3489,7 @@
           <Paragraph Num="33">
             <ParagraphNum>３３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十九条第一項に規定する譲渡の日を含む事業年度（以下この項において「譲渡事業年度」という。）以後の各事業年度（以下この項において「適用事業年度」という。）において同条第一項若しくは第八項又は法第二十条第七項若しくは第八項の規定を適用する場合（次項の規定の適用がある場合を除く。）において、当該適用事業年度（法第十九条第八項又は第二十条第八項の規定を適用する場合には、当該適用事業年度開始の時からこれらの規定に規定する適格分割等の直前の時までの間）において取得をした買換資産（法第十九条第三項（同条第九項において準用する場合を含む。）の規定により買換資産とみなされた資産を含む。）のうちに土地等があり、かつ、当該土地等（既に当該譲渡事業年度以後の各事業年度において法第十九条第一項及び第八項並びに第二十条第七項及び第八項の規定の適用を受けた買換資産のうちに土地等がある場合における当該土地等を含む。）をそれぞれ法第十九条第一項の表の各号の下欄ごとに区分をし、当該区分ごとに計算した当該土地等に係る面積（当該譲渡事業年度以後の各事業年度において当該各号の上欄に掲げる資産の譲渡につき設けた法第二十条第一項の特別勘定の金額及び同条第二項に規定する期中特別勘定の金額のうちに同条第四項に規定する適格合併、適格分割又は適格現物出資により同項に規定する合併法人、分割承継法人又は被現物出資法人に既に引き継いだ、又は引き継ぐものがある場合には、これらの特別勘定の金額の引継ぎの際に取得をする見込みであるとされた土地等に係る面積として財務省令で定める面積を加算した面積）が、当該譲渡事業年度において譲渡をした当該各号の上欄に掲げる土地等に係る面積を基礎として第三項の規定により計算した面積を超えるときは、法第十九条第一項若しくは第八項又は第二十条第七項若しくは第八項の規定の適用を受けようとする買換資産である土地等のうちその超える部分の面積に対応するものは、これらの規定の買換資産に該当しないものとして、これらの規定を適用する。</Sentence>
+              <Sentence>法第十九条第一項に規定する譲渡の日を含む事業年度（以下この項において「譲渡事業年度」という。）以後の各事業年度（以下この項において「適用事業年度」という。）において同条第一項若しくは第八項又は法第二十条第七項若しくは第八項の規定を適用する場合（次項の規定の適用がある場合を除く。）において、当該適用事業年度（法第十九条第八項又は第二十条第八項の規定を適用する場合には、当該適用事業年度開始の時からこれらの規定に規定する適格分割等の直前の時までの間）において取得をした買換資産（法第十九条第三項（同条第九項において準用する場合を含む。）の規定により買換資産とみなされた資産を含む。）のうちに土地等があり、かつ、当該土地等（既に当該譲渡事業年度以後の各事業年度において法第十九条第一項及び第八項並びに第二十条第七項及び第八項の規定の適用を受けた買換資産のうちに土地等がある場合における当該土地等を含む。）をそれぞれ法第十九条第一項の表の各号の下欄ごとに区分をし、当該区分ごとに計算した当該土地等に係る面積（当該譲渡事業年度以後の各事業年度において当該各号の上欄に掲げる資産の譲渡につき設けた法第二十条第一項の特別勘定の金額及び同条第二項に規定する期中特別勘定の金額のうちに同条第四項に規定する適格合併、適格分割又は適格現物出資により同項に規定する合併法人、分割承継法人又は被現物出資法人に既に引き継いだ、又は引き継ぐものがある場合には、これらの特別勘定の金額の引継ぎの際に取得をする見込みであるとされた土地等に係る面積として財務省令で定める面積を加算した面積）が、当該譲渡事業年度において譲渡をした当該各号の上欄に掲げる土地等に係る面積を基礎として第四項の規定により計算した面積を超えるときは、法第十九条第一項若しくは第八項又は第二十条第七項若しくは第八項の規定の適用を受けようとする買換資産である土地等のうちその超える部分の面積に対応するものは、これらの規定の買換資産に該当しないものとして、これらの規定を適用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="34">
@@ -3804,13 +3727,40 @@
               <Table>
                 <TableRow>
                   <TableColumn rowspan="2">
-                    <Sentence>法人税法施行令第百二十二条の十四第三項</Sentence>
+                    <Sentence>法人税法施行令第百二十二条の十二第三項</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>特例等）の規定</Sentence>
                   </TableColumn>
                   <TableColumn>
-                    <Sentence>特例等）若しくは震災特例法第十九条から第二十一条まで（特定の資産の買換えの場合の課税の特例等）の規定</Sentence>
+                    <Sentence>特例等）若しくは東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下「震災特例法」という。）第十九条から第二十一条まで（特定の資産の買換えの場合の課税の特例等）の規定</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn>
+                    <Sentence>同法</Sentence>
+                  </TableColumn>
+                  <TableColumn>
+                    <Sentence>租税特別措置法</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn rowspan="3">
+                    <Sentence>法人税法施行令第百二十三条の八第六項第四号</Sentence>
+                  </TableColumn>
+                  <TableColumn>
+                    <Sentence>又は</Sentence>
+                  </TableColumn>
+                  <TableColumn>
+                    <Sentence>若しくは</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn>
+                    <Sentence>特例等）の規定</Sentence>
+                  </TableColumn>
+                  <TableColumn>
+                    <Sentence>特例等）又は震災特例法第十九条から第二十一条まで（特定の資産の買換えの場合の課税の特例等）の規定</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -3837,7 +3787,7 @@
                     <Sentence>）に規定する</Sentence>
                   </TableColumn>
                   <TableColumn>
-                    <Sentence>）又は東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下「震災特例法」という。）第二十条第十項若しくは第十一項（特定の資産の譲渡に伴い特別勘定を設けた場合の課税の特例）に規定する</Sentence>
+                    <Sentence>）又は震災特例法第二十条第十項若しくは第十一項（特定の資産の譲渡に伴い特別勘定を設けた場合の課税の特例）に規定する</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -3945,14 +3895,36 @@
             </TableStruct>
           </Paragraph>
         </Article>
+        <Article Num="20">
+          <ArticleCaption>（代替資産の取得期間等の延長の特例）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第二十二条に規定する政令で定める日は、同条に規定する資産の取得をすべき期間の末日の翌日から起算して二年以内の日で同条に規定する資産の取得をすることができるものとして同条の税務署長が認定した日とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Num="21">
           <ArticleCaption>（電子情報処理組織による申告の特例）</ArticleCaption>
           <ArticleTitle>第二十一条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第二十三条に規定する政令で定める規定は、所得税法等の一部を改正する等の法律（平成二十九年法律第四号）附則第九十八条第二項の規定によりなおその効力を有するものとされる同法第十五条の規定による改正前の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第十八条の二の規定とする。</Sentence>
+              <Sentence>法第二十三条に規定する政令で定める規定は、次に掲げる規定とする。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>所得税法等の一部を改正する等の法律（平成二十九年法律第四号）附則第九十八条第二項の規定によりなおその効力を有するものとされる同法第十五条の規定による改正前の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第十八条の二の規定</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>所得税法等の一部を改正する法律（令和三年法律第十一号）附則第百二条の規定によりなおその効力を有するものとされる同法第十三条の規定による改正前の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第十八条の二の規定</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
         <Article Num="22:25">
@@ -3970,7 +3942,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法人税法第四条の七に規定する受託法人に対する法の規定の適用については、法第十八条第一項中「割合（当該法人が、租税特別措置法第四十二条の六第一項に規定する中小企業者又は同法第四十二条の四第八項第九号に規定する農業協同組合等である場合には、当該各号の下欄に掲げる割合）」とあるのは、「割合」とする。</Sentence>
+              <Sentence>法人税法第四条の三に規定する受託法人（他の通算法人（同法第二条第十二号の七の二に規定する通算法人をいう。以下この条において同じ。）のうちいずれかの法人が同法第四条の三に規定する受託法人に該当する場合における通算法人を含む。）に対する法の規定の適用については、法第十八条の二第一項中「割合（当該法人が、租税特別措置法第四十二条の四第十九項第七号に規定する中小企業者又は同項第九号に規定する農業協同組合等である場合には、当該各号の下欄に掲げる割合）」とあるのは、「割合」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4061,36 +4033,42 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
+              <Sentence>法第三十八条の二第二項第一号ハに規定する政令で定める規模は、五十平方メートルとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
               <Sentence>法第三十八条の二第二項第二号に規定する住宅用の家屋で政令で定めるものは、被災受贈者（同項第一号に規定する被災受贈者をいう。以下この条において同じ。）がその居住の用に供する次に掲げる家屋（その家屋の床面積の二分の一以上に相当する部分が専ら当該居住の用に供されるものに限る。）で相続税法の施行地にあるものとし、その者の居住の用に供する家屋が二以上ある場合には、これらの家屋のうち、その者が主としてその居住の用に供すると認められる一の家屋に限るものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>一棟の家屋で床面積が五十平方メートル以上であるもの</Sentence>
+                <Sentence>一棟の家屋で床面積が四十平方メートル以上であるもの</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>一棟の家屋で、その構造上区分された数個の部分を独立して住居その他の用途に供することができるものにつきその各部分を区分所有する場合には、その者の区分所有する部分の床面積が五十平方メートル以上であるもの</Sentence>
+                <Sentence>一棟の家屋で、その構造上区分された数個の部分を独立して住居その他の用途に供することができるものにつきその各部分を区分所有する場合には、その者の区分所有する部分の床面積が四十平方メートル以上であるもの</Sentence>
               </ItemSentence>
             </Item>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>法第三十八条の二第二項第三号に規定する地震に対する安全性に係る規定又は基準として政令で定めるものは、建築基準法施行令（昭和二十五年政令第三百三十八号）第三章及び第五章の四の規定又は国土交通大臣が財務大臣と協議して定める地震に対する安全性に係る基準とし、同号に規定する住宅用家屋の構造に応じた建築後の経過年数の基準として政令で定めるものは、同項第二号に規定する住宅用家屋が建築された日からその取得の日までの期間が二十年（当該住宅用家屋が耐火建築物（登記簿に記録された当該住宅用家屋の構造が鉄骨造、鉄筋コンクリート造、鉄骨鉄筋コンクリート造その他の財務省令で定めるものである建物をいう。）である場合には、二十五年）以下であることとする。</Sentence>
-            </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第三十八条の二第二項第三号に規定する建築後使用されたことのある住宅用家屋で政令で定めるものは、被災受贈者がその居住の用に供する家屋（その家屋の床面積の二分の一以上に相当する部分が専ら当該居住の用に供されるものに限る。）で相続税法の施行地にあるもののうち、次に掲げる要件の全てに該当するものであることにつき財務省令で定めるところにより証明がされたもので建築後使用されたことのあるものとし、その者の居住の用に供する家屋が二以上ある場合には、これらの家屋のうち、その者が主としてその居住の用に供すると認められる一の家屋に限るものとする。</Sentence>
+              <Sentence>法第三十八条の二第二項第三号に規定する地震に対する安全性に係る規定又は基準として政令で定めるものは、建築基準法施行令（昭和二十五年政令第三百三十八号）第三章及び第五章の四の規定又は国土交通大臣が財務大臣と協議して定める地震に対する安全性に係る基準とし、同号に規定する住宅用家屋の構造に応じた建築後の経過年数の基準として政令で定めるものは、同項第二号に規定する住宅用家屋が建築された日からその取得の日までの期間が二十年（当該住宅用家屋が耐火建築物（登記簿に記録された当該住宅用家屋の構造が鉄骨造、鉄筋コンクリート造、鉄骨鉄筋コンクリート造その他の財務省令で定めるものである建物をいう。）である場合には、二十五年）以下であることとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>法第三十八条の二第二項第三号に規定する建築後使用されたことのある住宅用家屋で政令で定めるものは、被災受贈者がその居住の用に供する家屋（その家屋の床面積の二分の一以上に相当する部分が専ら当該居住の用に供されるものに限る。）で相続税法の施行地にあるもののうち、次に掲げる要件の全てに該当するものであることにつき財務省令で定めるところにより証明がされたもの又は確認を受けたもので建築後使用されたことのあるものとし、その者の居住の用に供する家屋が二以上ある場合には、これらの家屋のうち、その者が主としてその居住の用に供すると認められる一の家屋に限るものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>当該家屋が第一項各号のいずれかに該当するものであること。</Sentence>
+                <Sentence>当該家屋が第二項各号のいずれかに該当するものであること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -4100,8 +4078,8 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>４</ParagraphNum>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence>法第三十八条の二第二項第四号に規定する政令で定める工事は、次に掲げる工事で相続税法の施行地で行われるもののうち、当該工事に該当するものであることにつき財務省令で定めるところにより証明がされたものとする。</Sentence>
             </ParagraphSentence>
@@ -4150,7 +4128,7 @@
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence>家屋について行う国土交通大臣が財務大臣と協議して定める高齢者等（法第三十八条の二第二項第六号イに規定する高齢者等をいう。第七項において同じ。）が自立した日常生活を営むのに必要な構造及び設備の基準に適合させるための修繕又は模様替（前各号に掲げる工事に該当するものを除く。）</Sentence>
+                <Sentence>家屋について行う国土交通大臣が財務大臣と協議して定める高齢者等（法第三十八条の二第二項第六号イに規定する高齢者等をいう。第八項において同じ。）が自立した日常生活を営むのに必要な構造及び設備の基準に適合させるための修繕又は模様替（前各号に掲げる工事に該当するものを除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
@@ -4169,12 +4147,12 @@
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
-                <Sentence>家屋について行う第七項に規定する基準に適合させるための修繕又は模様替（前各号に掲げる工事に該当するものを除く。）</Sentence>
+                <Sentence>家屋について行う第八項に規定する基準に適合させるための修繕又は模様替（前各号に掲げる工事に該当するものを除く。）</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>５</ParagraphNum>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence>法第三十八条の二第二項第四号ハに規定する政令で定める要件は、次に掲げる要件とする。</Sentence>
             </ParagraphSentence>
@@ -4192,19 +4170,19 @@
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence>一棟の家屋で床面積が五十平方メートル以上であるもの</Sentence>
+                  <Sentence>一棟の家屋で床面積が四十平方メートル以上であるもの</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence>前項第二号の家屋につきその各部分を区分所有する場合には、その者の区分所有する部分の床面積が五十平方メートル以上であるもの</Sentence>
+                  <Sentence>前項第二号の家屋につきその各部分を区分所有する場合には、その者の区分所有する部分の床面積が四十平方メートル以上であるもの</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
           </Paragraph>
-          <Paragraph Num="6">
-            <ParagraphNum>６</ParagraphNum>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
               <Sentence>法第三十八条の二第二項第五号に規定する政令で定める者は、次に掲げる者とする。</Sentence>
             </ParagraphSentence>
@@ -4233,38 +4211,38 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="7">
-            <ParagraphNum>７</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>法第三十八条の二第二項第六号イに規定する政令で定める住宅用の家屋は、エネルギーの使用の合理化に著しく資する住宅用の家屋、大規模な地震に対する安全性を有する住宅用の家屋又は高齢者等が自立した日常生活を営むのに特に必要な構造及び設備の基準に適合する住宅用の家屋として国土交通大臣が財務大臣と協議して定める基準に適合するものであることにつき財務省令で定めるところにより証明がされたものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
           <Paragraph Num="8">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第三十八条の二第九項に規定する建築後使用されたことのある住宅用家屋で政令で定めるものは、被災受贈者がその居住の用に供する家屋（その家屋の床面積の二分の一以上に相当する部分が専ら当該居住の用に供されるものに限る。）で相続税法の施行地にあるもののうち、第一項各号のいずれかに該当するものであることにつき財務省令で定めるところにより証明がされたもので建築後使用されたことのあるもの（同条第二項第三号に規定する耐震基準又は経過年数基準に適合するもの以外のものに限る。）とし、その者の居住の用に供する家屋が二以上ある場合には、これらの家屋のうち、その者が主としてその居住の用に供すると認められる一の家屋に限るものとする。</Sentence>
+              <Sentence>法第三十八条の二第二項第六号イに規定する政令で定める住宅用の家屋は、エネルギーの使用の合理化に著しく資する住宅用の家屋、大規模な地震に対する安全性を有する住宅用の家屋又は高齢者等が自立した日常生活を営むのに特に必要な構造及び設備の基準に適合する住宅用の家屋として国土交通大臣が財務大臣と協議して定める基準に適合するものであることにつき財務省令で定めるところにより証明がされたものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="9">
             <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第三十八条の二第十項第一号に規定する政令で定める災害は、冷害、雪害、干害、落雷、噴火その他の自然現象の異変による災害及び鉱害、火薬類の爆発その他の人為による異常な災害並びに害虫、害獣その他の生物による異常な災害とする。</Sentence>
+              <Sentence>法第三十八条の二第九項に規定する建築後使用されたことのある住宅用家屋で政令で定めるものは、被災受贈者がその居住の用に供する家屋（その家屋の床面積の二分の一以上に相当する部分が専ら当該居住の用に供されるものに限る。）で相続税法の施行地にあるもののうち、第二項各号のいずれかに該当するものであることにつき財務省令で定めるところにより証明がされたもの又は確認を受けたもので建築後使用されたことのあるもの（同条第二項第三号に規定する耐震基準又は経過年数基準に適合するもの以外のものに限る。）とし、その者の居住の用に供する家屋が二以上ある場合には、これらの家屋のうち、その者が主としてその居住の用に供すると認められる一の家屋に限るものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="10">
             <ParagraphNum>１０</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第三十八条の二第十一項又は第十三項に規定する個人がこれらの規定により同条第一項の規定の適用を受けようとする場合における同条第十四項の規定の適用については、同項中「申告書に同項」とあるのは、「申告書（当該申告書に係る国税通則法第十八条第二項に規定する期限後申告書及びこれらの申告書に係る同法第十九条第三項に規定する修正申告書を含む。）又は国税通則法第二十三条第三項に規定する更正請求書に、第一項」とする。</Sentence>
+              <Sentence>法第三十八条の二第十項第一号に規定する政令で定める災害は、冷害、雪害、干害、落雷、噴火その他の自然現象の異変による災害及び鉱害、火薬類の爆発その他の人為による異常な災害並びに害虫、害獣その他の生物による異常な災害とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="11">
             <ParagraphNum>１１</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第三十八条の二第二項第五号に規定する住宅取得等資金（以下この項及び次項において「住宅取得等資金」という。）の贈与をした者（以下この項及び次項において「住宅資金贈与者」という。）が当該贈与をした年の中途において死亡した場合（次項に規定する場合を除く。）において、当該住宅取得等資金の取得をした被災受贈者が当該住宅資金贈与者から相続又は遺贈（贈与をした者の死亡により効力を生ずる贈与を含む。）により財産の取得をしたときにおける相続税法第十九条第一項の規定の適用については、同項中「特定贈与財産」とあるのは、「特定贈与財産及び当該相続の開始の年において当該被相続人から贈与により取得をした東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（平成二十三年法律第二十九号）第三十八条の二第二項第五号（東日本大震災の被災者が直系尊属から住宅取得等資金の贈与を受けた場合の贈与税の非課税）に規定する住宅取得等資金のうち同条第一項の規定の適用があるものとした場合において同項の規定により贈与税の課税価格に算入されないこととなるもの」とする。</Sentence>
+              <Sentence>法第三十八条の二第十一項又は第十三項に規定する個人がこれらの規定により同条第一項の規定の適用を受けようとする場合における同条第十四項の規定の適用については、同項中「申告書に同項」とあるのは、「申告書（当該申告書に係る国税通則法第十八条第二項に規定する期限後申告書及びこれらの申告書に係る同法第十九条第三項に規定する修正申告書を含む。）又は国税通則法第二十三条第三項に規定する更正請求書に、第一項」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="12">
             <ParagraphNum>１２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>法第三十八条の二第二項第五号に規定する住宅取得等資金（以下この項及び次項において「住宅取得等資金」という。）の贈与をした者（以下この項及び次項において「住宅資金贈与者」という。）が当該贈与をした年の中途において死亡した場合（次項に規定する場合を除く。）において、当該住宅取得等資金の取得をした被災受贈者が当該住宅資金贈与者から相続又は遺贈（贈与をした者の死亡により効力を生ずる贈与を含む。）により財産の取得をしたときにおける相続税法第十九条第一項の規定の適用については、同項中「特定贈与財産」とあるのは、「特定贈与財産及び当該相続の開始の年において当該被相続人から贈与により取得をした東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（平成二十三年法律第二十九号）第三十八条の二第二項第五号（東日本大震災の被災者が直系尊属から住宅取得等資金の贈与を受けた場合の贈与税の非課税）に規定する住宅取得等資金のうち同条第一項の規定の適用があるものとした場合において同項の規定により贈与税の課税価格に算入されないこととなるもの」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="13">
+            <ParagraphNum>１３</ParagraphNum>
             <ParagraphSentence>
               <Sentence>住宅資金贈与者が住宅取得等資金の贈与をした年の中途において死亡した場合（当該住宅取得等資金の取得をした被災受贈者が次の各号のいずれかに該当する場合に限る。）における相続税法第二十八条第四項の規定の適用については、同項中「財産を」とあるのは、「財産（東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第三十八条の二第二項第五号（東日本大震災の被災者が直系尊属から住宅取得等資金の贈与を受けた場合の贈与税の非課税）に規定する住宅取得等資金のうち同条第一項の規定の適用があるものとした場合において同項の規定により贈与税の課税価格に算入されないこととなるものを除く。以下この項において同じ。）を」とする。</Sentence>
             </ParagraphSentence>
@@ -4281,38 +4259,60 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="13">
-            <ParagraphNum>１３</ParagraphNum>
+          <Paragraph Num="14">
+            <ParagraphNum>１４</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1">被災受贈者が法第三十八条の二第十四項に規定する申告書及び書類の提出期限前に当該申告書及び書類を提出しないで死亡した場合には、その死亡した被災受贈者の相続人（包括受遺者を含む。）は、当該申告書及び書類を提出することにより同条の規定の適用を受けることができる。</Sentence>
               <Sentence Num="2">この場合において、同項の規定の適用については、同項中「相続税法第二十八条」とあるのは「死亡に係る相続税法第二十八条第二項において準用する同法第二十七条第二項」と、「に同項」とあるのは「に第一項」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="14">
-            <ParagraphNum>１４</ParagraphNum>
+          <Paragraph Num="15">
+            <ParagraphNum>１５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>国土交通大臣は、第二項の規定により基準を定め、第四項第三号の規定により居室、調理室、浴室、便所その他の室を定め、同項第四号の規定により基準を定め、同項第五号若しくは第六号の規定により修繕若しくは模様替を定め、同項第七号の規定により保証保険契約を定め、又は第七項の規定により基準を定めたときは、これを告示する。</Sentence>
+              <Sentence>国土交通大臣は、第三項の規定により基準を定め、第五項第三号の規定により居室、調理室、浴室、便所その他の室を定め、同項第四号の規定により基準を定め、同項第五号若しくは第六号の規定により修繕若しくは模様替を定め、同項第七号の規定により保証保険契約を定め、又は第八項の規定により基準を定めたときは、これを告示する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="29_2_2">
-          <ArticleCaption>（避難解除区域等内の農地等を譲渡した場合の贈与税等の納税猶予及び免除の特例）</ArticleCaption>
+          <ArticleCaption>（農用地利用集積等促進計画に基づき農地等を貸し付けた場合の贈与税等の納税猶予及び免除の特例）</ArticleCaption>
           <ArticleTitle>第二十九条の二の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第三十八条の二の二第一項に規定する政令で定める市町村は、福島県南相馬市、双葉郡富岡町、大熊町、双葉町、浪江町及び葛尾村並びに相馬郡飯舘村とする。</Sentence>
+              <Sentence>法第三十八条の二の二第一項の規定の適用がある場合における租税特別措置法施行令第四十条の六及び第四十条の七の規定の適用については、次に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>租税特別措置法施行令第四十条の六第二十項中「同項に規定する農用地利用集積計画」とあるのは「東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第三十八条の二の二第一項第一号の規定により読み替えて適用される法第七十条の四第八項に規定する農用地利用集積等促進計画（以下この項及び第二十七項において「農用地利用集積等促進計画」という。）」と、「同条第八項に規定する農用地利用集積計画」とあるのは「農用地利用集積等促進計画」と、「同条第一項」とあるのは「同項」と、「農用地利用集積計画に」とあるのは「農用地利用集積等促進計画に」と、同条第二十一項第一号及び第二十四項第一号ロ中「法」とあるのは「東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第三十八条の二の二第一項第一号の規定により読み替えて適用される法」と、同条第二十七項中「同項に規定する農用地利用集積計画」とあるのは「農用地利用集積等促進計画」と、同条第二十八項中「（第八項」とあるのは「（東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第三十八条の二の二第一項第一号の規定により読み替えて適用される第八項」と、「「及び第八項」とあるのは「「及び同号の規定により読み替えて適用される第八項」と、「もの及び」とあるのは「もの及び東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第三十八条の二の二第一項第一号の規定により読み替えて適用される」とする。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>租税特別措置法施行令第四十条の七第二十項中「同項に規定する農用地利用集積計画」とあるのは「東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第三十八条の二の二第一項第二号の規定により読み替えて適用される法第七十条の六第十項に規定する農用地利用集積等促進計画（以下この項及び第二十七項において「農用地利用集積等促進計画」という。）」と、「当該農用地利用集積計画」とあるのは「当該農用地利用集積等促進計画」と、同条第二十一項第一号及び第二十四項第一号ロ中「法」とあるのは「東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第三十八条の二の二第一項第二号の規定により読み替えて適用される法」と、同条第二十七項中「同項に規定する農用地利用集積計画」とあるのは「農用地利用集積等促進計画」と、同条第二十八項中「（第十項」とあるのは「（東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第三十八条の二の二第一項第二号の規定により読み替えて適用される第十項」と、「「及び第十項」とあるのは「「及び同号の規定により読み替えて適用される第十項」と、「もの及び」とあるのは「もの及び東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第三十八条の二の二第一項第二号の規定により読み替えて適用される」とする。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="29_2_3">
+          <ArticleCaption>（避難解除区域等内の農地等を譲渡した場合の贈与税等の納税猶予及び免除の特例）</ArticleCaption>
+          <ArticleTitle>第二十九条の二の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第三十八条の二の三第一項に規定する政令で定める市町村は、福島県南相馬市、双葉郡富岡町、大熊町、双葉町、浪江町及び葛尾村並びに相馬郡飯舘村とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第三十八条の二の二第一項に規定する政令で定める事業は、次に掲げる事業とする。</Sentence>
+              <Sentence>法第三十八条の二の三第一項に規定する政令で定める事業は、次に掲げる事業とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>福島復興再生特別措置法第三十四条第三項に規定する帰還環境整備交付金の交付を受けて行われる事業</Sentence>
+                <Sentence>福島復興再生特別措置法第三十四条第三項に規定する帰還・移住等環境整備交付金の交付を受けて行われる事業</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -4325,13 +4325,13 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第三十八条の二の二第一項の規定により読み替えて適用される租税特別措置法第七十条の四第十五項の税務署長の承認を受けようとする同条第一項に規定する受贈者又は当該承認を受けた同項に規定する受贈者に対する租税特別措置法施行令第四十条の六及び第四十条の七の規定の適用については、同令第四十条の六第二十九項中「同項の」とあるのは「東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第三十八条の二の二第一項の」と、同条第三十一項中「譲渡等があつた日から一年」とあるのは「農地等が所在する市町村内の区域で福島復興再生特別措置法（平成二十四年法律第二十五号）第四条第四号に規定する避難指示の対象となつた区域に係る当該避難指示の全てが解除された日から五年」と、「同号の」とあるのは「同項第二号の」と、同令第四十条の七第三十一項中「一年以内に行われた」とあるのは「に行われた」と、「同項」とあるのは「東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第三十八条の二の二第一項の規定により読み替えて適用される法第七十条の四第十五項」とする。</Sentence>
+              <Sentence>法第三十八条の二の三第一項の規定により読み替えて適用される租税特別措置法第七十条の四第十五項の税務署長の承認を受けようとする同条第一項に規定する受贈者又は当該承認を受けた同項に規定する受贈者に対する租税特別措置法施行令第四十条の六及び第四十条の七の規定の適用については、同令第四十条の六第二十九項中「同項の」とあるのは「東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第三十八条の二の三第一項の」と、同条第三十一項中「譲渡等があつた日から一年」とあるのは「農地等が所在する市町村内の区域で福島復興再生特別措置法（平成二十四年法律第二十五号）第四条第四号に規定する避難指示の対象となつた区域に係る当該避難指示の全てが解除された日から五年」と、「同号の」とあるのは「同項第二号の」と、同令第四十条の七第三十一項中「一年以内に行われた」とあるのは「に行われた」と、「同項」とあるのは「東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第三十八条の二の三第一項の規定により読み替えて適用される法第七十条の四第十五項」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第三十八条の二の二第二項の規定により読み替えて適用される租税特別措置法第七十条の六第十九項の税務署長の承認を受けようとする同条第一項に規定する農業相続人又は当該承認を受けた同項に規定する農業相続人に対する租税特別措置法施行令第四十条の七の規定の適用については、同条第二十九項中「同項の」とあるのは「東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第三十八条の二の二第二項の」と、同条第三十二項中「と、」とあるのは「と、「譲渡等があつた日から一年」とあるのは「特例農地等が所在する市町村内の区域で福島復興再生特別措置法（平成二十四年法律第二十五号）第四条第四号に規定する避難指示の対象となつた区域に係る当該避難指示の全てが解除された日から五年」と、「同号の」とあるのは「同項第二号の」と、」とする。</Sentence>
+              <Sentence>法第三十八条の二の三第二項の規定により読み替えて適用される租税特別措置法第七十条の六第十九項の税務署長の承認を受けようとする同条第一項に規定する農業相続人又は当該承認を受けた同項に規定する農業相続人に対する租税特別措置法施行令第四十条の七の規定の適用については、同条第二十九項中「同項の」とあるのは「東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第三十八条の二の三第二項の」と、同条第三十二項中「と、」とあるのは「と、「譲渡等があつた日から一年」とあるのは「特例農地等が所在する市町村内の区域で福島復興再生特別措置法第四条第四号に規定する避難指示の対象となつた区域に係る当該避難指示の全てが解除された日から五年」と、「同号の」とあるのは「同項第二号の」と、」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -5346,23 +5346,33 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Num="31_2_2">
+          <ArticleCaption>（農用地利用集積等促進事業により農用地等を取得した場合の所有権の移転登記の税率の軽減の特例）</ArticleCaption>
+          <ArticleTitle>第三十一条の二の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第四十条の二の二第一項の規定の適用がある場合における租税特別措置法施行令第四十二条の四の規定の適用については、同条第三項中「農業経営基盤強化促進法第四条第一項第一号」とあるのは「福島復興再生特別措置法第十七条の十八第一項」と、「同項第二号」とあるのは「同条第二項第二号」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Num="31_3">
-          <ArticleCaption>（帰還環境整備推進法人が取得をした不動産に係る所有権等の移転登記等の税率の軽減）</ArticleCaption>
+          <ArticleCaption>（帰還・移住等環境整備推進法人が取得をした不動産に係る所有権等の移転登記等の税率の軽減）</ArticleCaption>
           <ArticleTitle>第三十一条の三</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第四十条の四に規定する政令で定める帰還環境整備推進法人は、公益社団法人（その社員総会における議決権の総数の二分の一以上の数が地方公共団体により保有されているものに限る。）又は公益財団法人（その設立当初において拠出をされた金額の二分の一以上の金額が地方公共団体により拠出をされているものに限る。）であって、その定款において、その法人が解散した場合にその残余財産が地方公共団体又は当該法人と類似の目的をもつ他の公益を目的とする事業を行う法人に帰属する旨の定めがあるものとする。</Sentence>
+              <Sentence>法第四十条の四に規定する政令で定める帰還・移住等環境整備推進法人は、公益社団法人（その社員総会における議決権の総数の二分の一以上の数が地方公共団体により保有されているものに限る。）又は公益財団法人（その設立当初において拠出をされた金額の二分の一以上の金額が地方公共団体により拠出をされているものに限る。）であって、その定款において、その法人が解散した場合にその残余財産が地方公共団体又は当該法人と類似の目的をもつ他の公益を目的とする事業を行う法人に帰属する旨の定めがあるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="32">
-          <ArticleCaption>（東日本大震災の被災者等が建造又は取得をした船舶又は航空機に係る所有権の保存登記等の免税）</ArticleCaption>
+          <ArticleCaption>（東日本大震災の被災者等が建造又は取得をした漁船に係る所有権の保存登記等の免税）</ArticleCaption>
           <ArticleTitle>第三十二条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第四十一条第一項に規定する政令で定める被災者は、東日本大震災によりその所有する船舶に被害を受けたことにつき、当該船舶の船舶原簿に記録されている事項を証明した書面で当該船舶の登録が抹消された事実を証するものその他の財務省令で定める書類（次項において「被災証明書類」という。）の交付を受けた者（次項第三号又は第四号に規定する分割により被害を受けた船舶に係る事業に関して有する権利義務を承継させた分割法人を除く。）とする。</Sentence>
+              <Sentence>法第四十一条第一項に規定する政令で定める被災者は、東日本大震災によりその所有する漁船に被害を受けたことにつき、当該漁船の漁船原簿の謄本で当該漁船の登録が抹消された事実を証するものその他の財務省令で定める書類（次項において「被災証明書類」という。）の交付を受けた者（次項第三号又は第四号に規定する分割により被害を受けた漁船に係る事業に関して有する権利義務を承継させた分割法人を除く。）とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -5388,7 +5398,7 @@
                   <Sentence>東日本大震災の被災者が個人であって被災証明書類の交付を受ける前に死亡した場合</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>当該被災者が死亡したときにおけるその者の相続人であって東日本大震災により当該被災者の所有する船舶に被害を受けたことにつき、被災証明書類の交付を受けたもの</Sentence>
+                  <Sentence>当該被災者が死亡したときにおけるその者の相続人であって東日本大震災により当該被災者の所有する漁船に被害を受けたことにつき、被災証明書類の交付を受けたもの</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -5396,7 +5406,7 @@
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>東日本大震災の被災者が法人であって被災証明書類の交付を受けた後に合併により消滅した場合又は分割により東日本大震災により被害を受けた船舶に係る事業に関して有する権利義務を承継させた場合</Sentence>
+                  <Sentence>東日本大震災の被災者が法人であって被災証明書類の交付を受けた後に合併により消滅した場合又は分割により東日本大震災により被害を受けた漁船に係る事業に関して有する権利義務を承継させた場合</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence>当該合併に係る合併法人又は当該分割に係る分割承継法人</Sentence>
@@ -5407,10 +5417,10 @@
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>東日本大震災の被災者が法人であって被災証明書類の交付を受ける前に合併により消滅した場合又は分割により東日本大震災により被害を受けた船舶に係る事業に関して有する権利義務を承継させた場合</Sentence>
+                  <Sentence>東日本大震災の被災者が法人であって被災証明書類の交付を受ける前に合併により消滅した場合又は分割により東日本大震災により被害を受けた漁船に係る事業に関して有する権利義務を承継させた場合</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>当該合併に係る合併法人又は当該分割に係る分割承継法人であって東日本大震災により当該被災者の所有する船舶に被害を受けたことにつき、被災証明書類の交付を受けたもの</Sentence>
+                  <Sentence>当該合併に係る合併法人又は当該分割に係る分割承継法人であって東日本大震災により当該被災者の所有する漁船に被害を受けたことにつき、被災証明書類の交付を受けたもの</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -5418,27 +5428,27 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第四十一条第一項に規定する政令で定める船舶は、次の各号のいずれかに該当する船舶とする。</Sentence>
+              <Sentence>法第四十一条第一項に規定する政令で定める漁船は、次の各号のいずれかに該当する漁船とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>個人が建造又は取得をした船舶</Sentence>
+                <Sentence>個人が建造又は取得をした漁船</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>法人が建造又は取得をした船舶で次に掲げる場合の区分に応じ、それぞれ次に定めるもの</Sentence>
+                <Sentence>法人が建造又は取得をした漁船で次に掲げる場合の区分に応じ、それぞれ次に定めるもの</Sentence>
               </ItemSentence>
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
                   <Column Num="1">
-                    <Sentence>当該船舶の船籍港が東日本大震災に際し被災者生活再建支援法が適用された市町村の区域内である場合</Sentence>
+                    <Sentence>当該漁船の船籍港が東日本大震災に際し被災者生活再建支援法が適用された市町村の区域内である場合</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>当該船舶</Sentence>
+                    <Sentence>当該漁船</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -5449,24 +5459,11 @@
                     <Sentence>イに掲げる場合以外の場合</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>東日本大震災により滅失した船舶又は東日本大震災により損壊したため取り壊した船舶に代わるものとして建造又は取得をした船舶であることにつき、財務省令で定めるところにより証明を受けたもの</Sentence>
+                    <Sentence>東日本大震災により滅失した漁船又は東日本大震災により損壊したため取り壊した漁船に代わるものとして建造又は取得をした漁船であることにつき、財務省令で定めるところにより証明を受けたもの</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
-          </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>４</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1">第一項及び第二項の規定は、法第四十一条第三項において準用する同条第一項に規定する政令で定める被災者及び同項に規定する政令で定める者について準用する。</Sentence>
-              <Sentence Num="2">この場合において、第一項中「船舶に」とあるのは「航空機に」と、「当該船舶」とあるのは「当該航空機」と、「船舶原簿に記録されている事項を証明した書面」とあるのは「航空機登録原簿の謄本又は抄本」と、第二項中「船舶」とあるのは「航空機」と読み替えるものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>５</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>法第四十一条第三項に規定する政令で定める航空機は、東日本大震災により滅失した航空機又は東日本大震災により損壊したため取り壊した航空機に代わるものとして建造又は取得をした航空機であることにつき、財務省令で定めるところにより明らかにされたものとする。</Sentence>
-            </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="32_2">
@@ -5476,207 +5473,6 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>法第四十一条の二第一項に規定する政令で定める金融機関等は、同項の変更後の経営強化計画（同項の指定地域における経済の活性化に資する方策として財務省令で定めるものが記載されているものに限る。）に係る同項の主務大臣の承認を受けて、金融機能の強化のための特別措置に関する法律（平成十六年法律第百二十八号）第二条第一項に規定する金融機関等に対して同条第三項に規定する株式等の引受け等が行われた場合における当該金融機関等とする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="32_3">
-          <ArticleCaption>（東日本大震災の被災者等が受ける本店等の移転の登記等の免税）</ArticleCaption>
-          <ArticleTitle>第三十二条の三</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence>法第四十一条の三に規定する政令で定める被災者は、被災建物（同条第一号に掲げる場合における同号イからホまでに掲げる建物又は同条第二号に掲げる場合における同号イからニまでに掲げる建物をいう。以下この項及び次項第二号において「被災建物」という。）を使用していた者であることにつき、当該被災建物の所在地の市町村長又は特別区の区長から証明を受けた者（当該証明を受けた者が同条第一号ハの代表取締役その他の政令で定める者、同号ニの株主名簿管理人その他の政令で定める者若しくは同号ホの会計参与又は同条第二号ハ若しくはニの支配人である場合にあっては、これらの者に係る法人又は支配人の登記をしていた商人（個人に限る。））とする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>法第四十一条の三に規定する政令で定める者は、次の各号に掲げる場合の区分に応じ、当該各号に定める者とする。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence>東日本大震災の前項に規定する被災者が個人であって同項の証明を受けた後に死亡した場合</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence>当該被災者が死亡したときにおけるその者の相続人</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence>東日本大震災の前項に規定する被災者が個人であって同項の証明を受ける前に死亡した場合</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence>当該被災者が死亡したときにおけるその者の相続人であって、当該被災者が使用していた建物が被災建物であることにつき当該被災建物の所在地の市町村長又は特別区の区長から証明を受けたもの</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>法第四十一条の三第一号に規定する政令で定める法人は、次に掲げる法人とする。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence>株式会社、合名会社、合資会社若しくは合同会社又は会社法（平成十七年法律第八十六号）第二条第二号に規定する外国会社（次項第六号及び第五項において「外国会社」という。）</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence>保険業法（平成七年法律第百五号）第二条第五項に規定する相互会社（次項第五号において「相互会社」という。）又は同条第十項に規定する外国相互会社（次項第六号において「外国相互会社」という。）</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence>一般社団法人又は一般財団法人</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence>資産の流動化に関する法律（平成十年法律第百五号）第二条第三項に規定する特定目的会社（次項第八号において「特定目的会社」という。）</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="5">
-              <ItemTitle>五</ItemTitle>
-              <ItemSentence>
-                <Sentence>投資信託及び投資法人に関する法律（昭和二十六年法律第百九十八号）第二条第十二項に規定する投資法人（次項第九号において「投資法人」という。）</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>４</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>法第四十一条の三第一号ハに規定する政令で定める者は、次の各号に掲げる法人の区分に応じ、当該各号に定める者とする。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence>株式会社</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence>代表取締役、代表執行役、会社法第百二十三条に規定する株主名簿管理人（次項において「株主名簿管理人」という。）又は支配人</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence>会社法の施行に伴う関係法律の整備等に関する法律（平成十七年法律第八十七号）第三条第二項に規定する特例有限会社</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence>取締役、監査役又は支配人</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-            <Item Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence>合名会社又は合資会社</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence>社員若しくは当該社員の職務を行うべき者又は支配人</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-            <Item Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence>合同会社</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence>合同会社を代表する社員若しくは当該社員の職務を行うべき者又は支配人</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-            <Item Num="5">
-              <ItemTitle>五</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence>相互会社</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence>代表取締役、代表執行役又は支配人</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-            <Item Num="6">
-              <ItemTitle>六</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence>外国会社又は外国相互会社</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence>日本における前各号に掲げる法人と同種の法人又は最も類似する法人の種類に従い、当該各号に定める者と同種又は類似の者及び日本における代表者</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-            <Item Num="7">
-              <ItemTitle>七</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence>一般社団法人又は一般財団法人</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence>一般社団法人及び一般財団法人に関する法律（平成十八年法律第四十八号）第二十一条第一項又は第百六十二条第一項に規定する代表理事</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-            <Item Num="8">
-              <ItemTitle>八</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence>特定目的会社</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence>取締役、監査役、支配人又は資産の流動化に関する法律第二十二条第二項第七号に規定する特定社員名簿管理人（次項において「特定社員名簿管理人」という。）</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-            <Item Num="9">
-              <ItemTitle>九</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence>投資法人</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence>執行役員又は投資信託及び投資法人に関する法律第百六十六条第二項第八号に規定する投資主名簿等管理人（次項において「投資主名簿等管理人」という。）</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>５</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>法第四十一条の三第一号ニに規定する政令で定める者は、株主名簿管理人（外国会社にあっては、これと同種又は類似の者）、特定社員名簿管理人又は投資主名簿等管理人とする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="32_4">
-          <ArticleCaption>（株式会社商工組合中央金庫が受ける抵当権の設定登記等の税率の特例に係る適用期間の延長の特例）</ArticleCaption>
-          <ArticleTitle>第三十二条の四</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence>法第四十一条の四に規定する政令で定める業務は、株式会社商工組合中央金庫が東日本大震災の被災者に対して行う資金の貸付け若しくは手形の割引又は債務の保証若しくは手形の引受けに係る業務として経済産業大臣が定めるものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>経済産業大臣は、前項の規定により同項に規定する業務を定めたときは、これを告示する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -5699,12 +5495,12 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第四十三条の二第二項に規定する政令で定める要件は、次の各号のいずれかに掲げるものとする。</Sentence>
+              <Sentence>法第四十三条第二項に規定する政令で定める要件は、次の各号のいずれかに掲げるものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>東日本大震災により自己の酒類の製造場において清酒製造設備等（清酒等（法第四十三条の二第一項に規定する清酒等をいう。以下この条において同じ。）の製造又は貯蔵の用に供する施設又は設備をいう。以下この項及び次項において同じ。）に損害が生じ、その損害の金額（保険金、損害賠償金その他これらに類するものにより補塡される部分の金額を除く。）が当該製造場における清酒製造設備等の価額の十分の五以上であること。</Sentence>
+                <Sentence>東日本大震災により自己の酒類の製造場において清酒製造設備等（清酒等（法第四十三条第一項に規定する清酒等をいう。以下この条において同じ。）の製造又は貯蔵の用に供する施設又は設備をいう。以下この項及び次項において同じ。）に損害が生じ、その損害の金額（保険金、損害賠償金その他これらに類するものにより補塡される部分の金額を除く。）が当該製造場における清酒製造設備等の価額の十分の五以上であること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -5717,7 +5513,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第四十三条の二第二項の確認を受けようとする清酒等の製造者は、平成二十四年三月三十一日までに、次に掲げる事項を記載した申請書を国税庁長官に提出しなければならない。</Sentence>
+              <Sentence>法第四十三条第二項の確認を受けようとする清酒等の製造者は、平成二十四年三月三十一日までに、次に掲げる事項を記載した申請書を国税庁長官に提出しなければならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -5747,19 +5543,19 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>国税庁長官は、法第四十三条の二第二項の確認をしたとき、又は当該確認をしない旨の決定をしたときは、遅滞なくその旨を当該清酒等の製造者に通知しなければならない。</Sentence>
+              <Sentence>国税庁長官は、法第四十三条第二項の確認をしたとき、又は当該確認をしない旨の決定をしたときは、遅滞なくその旨を当該清酒等の製造者に通知しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>東日本大震災により酒類の製造場について甚大な被害を受けた清酒等の製造者につき相続（包括遺贈を含む。以下この項及び次項において同じ。）があった場合又は当該清酒等の製造者が事業譲渡（酒税法（昭和二十八年法律第六号）第十九条第一項に規定する事業譲渡をいう。以下この項及び次項において同じ。）を行った場合において、当該相続又は事業譲渡により清酒等の製造業を承継した相続人（包括受遺者を含み、同条第二項の規定の適用があるものに限る。以下この項及び次項において同じ。）又は譲受者（同条第二項の規定の適用があるものに限る。以下この項及び次項において同じ。）があるときは、当該相続人又は譲受者を当該清酒等の製造者とみなして、法第四十三条の二の規定を適用する。</Sentence>
+              <Sentence>東日本大震災により酒類の製造場について甚大な被害を受けた清酒等の製造者につき相続（包括遺贈を含む。以下この項及び次項において同じ。）があった場合又は当該清酒等の製造者が事業譲渡（酒税法（昭和二十八年法律第六号）第十九条第一項に規定する事業譲渡をいう。以下この項及び次項において同じ。）を行った場合において、当該相続又は事業譲渡により清酒等の製造業を承継した相続人（包括受遺者を含み、同条第二項の規定の適用があるものに限る。以下この項及び次項において同じ。）又は譲受者（同条第二項の規定の適用があるものに限る。以下この項及び次項において同じ。）があるときは、当該相続人又は譲受者を当該清酒等の製造者とみなして、法第四十三条の規定を適用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>前項の場合において、当該相続又は事業譲渡に係る被相続人（包括遺贈者を含む。）又は譲渡者が法第四十三条の二第二項の確認を受けているときは、当該相続人又は譲受者については、同項の規定は適用しない。</Sentence>
+              <Sentence>前項の場合において、当該相続又は事業譲渡に係る被相続人（包括遺贈者を含む。）又は譲渡者が法第四十三条第二項の確認を受けているときは、当該相続人又は譲受者については、同項の規定は適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -5769,8 +5565,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第四十五条第一項に規定する政令で定める被<Ruby>牽<Rt>けん</Rt>
-</Ruby>引自動車は、自動車重量税法施行令（昭和四十六年政令第二百七十五号）第五条第一項に規定する被牽引自動車とする。</Sentence>
+              <Sentence>法第四十五条第一項に規定する政令で定める被<Ruby>牽<Rt>けん</Rt></Ruby>引自動車は、自動車重量税法施行令（昭和四十六年政令第二百七十五号）第五条第一項に規定する被牽引自動車とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -5782,7 +5577,7 @@
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>道路運送車両法第四条に規定する登録を受けたもの</Sentence>
+                  <Sentence>道路運送車両法（昭和二十六年法律第百八十五号）第四条に規定する登録を受けたもの</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence>同法第十五条に規定する永久抹消登録のうち滅失、解体若しくは自動車の用途の廃止を事由とするもの（第七項第五号において「永久抹消登録」という。）又は同法第十六条第二項の規定による届出のうち滅失、解体若しくは自動車の用途の廃止を事由とするもの（同号において「登録自動車の届出」という。）</Sentence>
@@ -6515,7 +6310,7 @@
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence>保険業法第二条第七項に規定する外国保険会社等</Sentence>
+                <Sentence>保険業法（平成七年法律第百五号）第二条第七項に規定する外国保険会社等</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
@@ -6731,12 +6526,12 @@
           </Paragraph>
         </Article>
         <Article Num="41">
-          <ArticleCaption>（東日本大震災の被災者が作成する船舶又は航空機の取得又は建造に係る船舶又は航空機の譲渡に関する契約書等の印紙税の非課税）</ArticleCaption>
+          <ArticleCaption>（東日本大震災の被災者が作成する漁船の取得又は建造に係る漁船の譲渡に関する契約書等の印紙税の非課税）</ArticleCaption>
           <ArticleTitle>第四十一条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第五十一条第一項に規定する政令で定める被災者は、東日本大震災によりその所有する船舶に被害を受けたことにつき、当該船舶の船舶原簿に記録されている事項を証明した書面で当該船舶の登録が抹消された事実を証するものその他の財務省令で定める書類（次項、第四項及び第七項において「被災証明書類」という。）の交付を受けた者（次項第三号又は第四号に規定する分割により被害を受けた船舶に係る事業に関して有する権利義務を承継させた分割法人を除く。）とする。</Sentence>
+              <Sentence>法第五十一条第一項に規定する政令で定める被災者は、東日本大震災によりその所有する漁船に被害を受けたことにつき、当該漁船の漁船原簿の謄本で当該漁船の登録が抹消された事実を証するものその他の財務省令で定める書類（次項及び第四項において「被災証明書類」という。）の交付を受けた者（次項第三号又は第四号に規定する分割により被害を受けた漁船に係る事業に関して有する権利義務を承継させた分割法人を除く。）とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -6762,7 +6557,7 @@
                   <Sentence>東日本大震災の被災者が個人であって被災証明書類の交付を受ける前に死亡した場合</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>当該被災者が死亡したときにおけるその者の相続人であって東日本大震災により当該被災者の所有する船舶に被害を受けたことにつき、被災証明書類の交付を受けたもの</Sentence>
+                  <Sentence>当該被災者が死亡したときにおけるその者の相続人であって東日本大震災により当該被災者の所有する漁船に被害を受けたことにつき、被災証明書類の交付を受けたもの</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -6770,7 +6565,7 @@
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>東日本大震災の被災者が法人であって被災証明書類の交付を受けた後に合併により消滅した場合又は分割により東日本大震災により被害を受けた船舶に係る事業に関して有する権利義務を承継させた場合</Sentence>
+                  <Sentence>東日本大震災の被災者が法人であって被災証明書類の交付を受けた後に合併により消滅した場合又は分割により東日本大震災により被害を受けた漁船に係る事業に関して有する権利義務を承継させた場合</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence>当該合併に係る合併法人又は当該分割に係る分割承継法人</Sentence>
@@ -6781,10 +6576,10 @@
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>東日本大震災の被災者が法人であって被災証明書類の交付を受ける前に合併により消滅した場合又は分割により東日本大震災により被害を受けた船舶に係る事業に関して有する権利義務を承継させた場合</Sentence>
+                  <Sentence>東日本大震災の被災者が法人であって被災証明書類の交付を受ける前に合併により消滅した場合又は分割により東日本大震災により被害を受けた漁船に係る事業に関して有する権利義務を承継させた場合</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>当該合併に係る合併法人又は当該分割に係る分割承継法人であって東日本大震災により当該被災者の所有する船舶に被害を受けたことにつき、被災証明書類の交付を受けたもの</Sentence>
+                  <Sentence>当該合併に係る合併法人又は当該分割に係る分割承継法人であって東日本大震災により当該被災者の所有する漁船に被害を受けたことにつき、被災証明書類の交付を受けたもの</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -6792,18 +6587,18 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第五十一条第一項に規定する政令で定める船舶は、次の各号のいずれかに該当する船舶とする。</Sentence>
+              <Sentence>法第五十一条第一項に規定する政令で定める漁船は、次の各号のいずれかに該当する漁船とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>法第五十一条第一項に規定する被災者（次号において「被災者」という。）である個人が取得又は建造をする船舶</Sentence>
+                <Sentence>法第五十一条第一項に規定する被災者（次号において「被災者」という。）である個人が取得又は建造をする漁船</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>被災者である法人が取得又は建造をする船舶で、東日本大震災により滅失した船舶又は東日本大震災により損壊したため取り壊した船舶（以下この号において「滅失等船舶」という。）に代わるものとして取得又は建造をする船舶（当該滅失等船舶に代わるものであることが法第五十一条第一項に規定する契約書その他の書面により明らかにされているものに限る。）</Sentence>
+                <Sentence>被災者である法人が取得又は建造をする漁船で、東日本大震災により滅失した漁船又は東日本大震災により損壊したため取り壊した漁船（以下この号において「滅失等漁船」という。）に代わるものとして取得又は建造をする漁船（当該滅失等漁船に代わるものであることが法第五十一条第一項に規定する契約書その他の書面により明らかにされているものに限る。）</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -6811,25 +6606,6 @@
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence>法第五十一条第一項の規定の適用を受けようとする者は、同項に規定する契約書に、被災証明書類を添付しなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>５</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1">第一項及び第二項の規定は、法第五十一条第二項において準用する同条第一項に規定する政令で定める被災者及び同項に規定する政令で定める者について準用する。</Sentence>
-              <Sentence Num="2">この場合において、第一項中「船舶に」とあるのは「航空機に」と、「当該船舶」とあるのは「当該航空機」と、「船舶原簿に記録されている事項を証明した書面」とあるのは「航空機登録原簿の謄本又は抄本」と、第二項中「船舶」とあるのは「航空機」と読み替えるものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="6">
-            <ParagraphNum>６</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>法第五十一条第二項に規定する政令で定める航空機は、東日本大震災により滅失した航空機又は東日本大震災により損壊したため取り壊した航空機（以下この項において「滅失等航空機」という。）に代わるものとして取得又は建造をする航空機（当該滅失等航空機に代わるものであることが同条第二項において準用する同条第一項に規定する契約書その他の書面により明らかにされているものに限る。）とする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="7">
-            <ParagraphNum>７</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>法第五十一条第二項において準用する同条第一項の規定の適用を受けようとする者は、同項に規定する契約書に、被災証明書類を添付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -6958,7 +6734,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423166" AmendLawNum="平成二三年六月一〇日政令第一六六号" Extract="true" Id="695658ae-47dd-11e5-9402-43afc1875f8e">
+    <SupplProvision AmendLawNum="平成二三年六月一〇日政令第一六六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6971,7 +6747,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423199" AmendLawNum="平成二三年六月三〇日政令第一九九号" Extract="true" Id="bfc58d22-1887-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年六月三〇日政令第一九九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7029,7 +6805,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423228" AmendLawNum="平成二三年七月二六日政令第二二八号" Id="e000b36e-1891-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年七月二六日政令第二二八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -7038,7 +6814,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423379" AmendLawNum="平成二三年一二月二日政令第三七九号" Extract="true" Id="19e2e5e1-4ec9-44f3-9185-5316bf1e8ea4">
+    <SupplProvision AmendLawNum="平成二三年一二月二日政令第三七九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7063,7 +6839,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423383" AmendLawNum="平成二三年一二月二日政令第三八三号" Extract="true" Id="ab1ae13e-5957-482b-8f7b-e54da40f48d0">
+    <SupplProvision AmendLawNum="平成二三年一二月二日政令第三八三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7105,7 +6881,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423391" AmendLawNum="平成二三年一二月一四日政令第三九一号" Extract="true" Id="e0465cf2-1891-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年一二月一四日政令第三九一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7164,7 +6940,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424001" AmendLawNum="平成二四年一月一〇日政令第一号" Extract="true" Id="e05d930e-1891-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年一月一〇日政令第一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7244,7 +7020,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424038" AmendLawNum="平成二四年二月二二日政令第三八号" Extract="true" Id="4bbea538-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年二月二二日政令第三八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7257,7 +7033,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424107" AmendLawNum="平成二四年三月三一日政令第一〇七号" Extract="true" Id="e08b97ea-1891-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年三月三一日政令第一〇七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7366,7 +7142,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424190" AmendLawNum="平成二四年七月一九日政令第一九〇号" Id="e0a2c762-1891-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年七月一九日政令第一九〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -7375,7 +7151,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="424272" AmendLawNum="平成二四年一〇月三一日政令第二七二号" Extract="true" Id="50d5eb32-47dd-11e5-8f07-9397549d209a">
+    <SupplProvision AmendLawNum="平成二四年一〇月三一日政令第二七二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -7386,7 +7162,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="425116" AmendLawNum="平成二五年三月三〇日政令第一一六号" Id="e0d0fdee-1891-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二五年三月三〇日政令第一一六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -7403,7 +7179,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="425170" AmendLawNum="平成二五年五月三一日政令第一七〇号" Extract="true" Id="e0e831f8-1891-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二五年五月三一日政令第一七〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7589,7 +7365,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426013" AmendLawNum="平成二六年一月一七日政令第一三号" Extract="true" Id="4520ba56-47dd-11e5-8ba6-5bb239f8ffa4">
+    <SupplProvision AmendLawNum="平成二六年一月一七日政令第一三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7602,7 +7378,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426095" AmendLawNum="平成二六年三月二八日政令第九五号" Extract="true" Id="680945a6-47dd-11e5-93cd-8777d9d8c4ce">
+    <SupplProvision AmendLawNum="平成二六年三月二八日政令第九五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7626,7 +7402,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426149" AmendLawNum="平成二六年三月三一日政令第一四九号" Id="e12d80e6-1891-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年三月三一日政令第一四九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -7651,7 +7427,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="426179" AmendLawNum="平成二六年五月一四日政令第一七九号" Extract="true" Id="476d4c64-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年五月一四日政令第一七九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -7660,7 +7436,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427110" AmendLawNum="平成二七年三月二七日政令第一一〇号" Id="54de567e-47dd-11e5-900c-476d6287c6c5">
+    <SupplProvision AmendLawNum="平成二七年三月二七日政令第一一〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -7669,7 +7445,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427151" AmendLawNum="平成二七年三月三一日政令第一五一号" Id="e172a036-1891-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年三月三一日政令第一五一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -7737,7 +7513,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428164" AmendLawNum="平成二八年三月三一日政令第一六四号" Id="564cc474-c26c-ef2a-8964-9504a5a4693a">
+    <SupplProvision AmendLawNum="平成二八年三月三一日政令第一六四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7811,7 +7587,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="429116" AmendLawNum="平成二九年三月三一日政令第一一六号" Id="d619f22c-77c3-ec48-f3c0-9533069069e6">
+    <SupplProvision AmendLawNum="平成二九年三月三一日政令第一一六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7877,7 +7653,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430148" AmendLawNum="平成三〇年三月三一日政令第一四八号" Id="ce5b9b2c-3bd4-11e8-8518-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成三〇年三月三一日政令第一四八号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -7946,7 +7722,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="431106" AmendLawNum="平成三一年三月二九日政令第一〇六号" Extract="true" Id="c39e6e84-5c1d-11e9-902f-005056b30d52">
+    <SupplProvision AmendLawNum="平成三一年三月二九日政令第一〇六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -8018,7 +7794,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502127" AmendLawNum="令和二年三月三一日政令第一二七号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年三月三一日政令第一二七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -8058,7 +7834,7 @@
                 <Sentence>第二十二条の四第一項の改正規定（「同項第十三号」を「同項第十二号の二」に改める部分に限る。）</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence>特定高度情報通信技術活用システムの開発供給及び導入の促進に関する法律（令和二年法律第　　　号）の施行の日</Sentence>
+                <Sentence>特定高度情報通信技術活用システムの開発供給及び導入の促進に関する法律（令和二年法律第三十七号）の施行の日</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -8085,7 +7861,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502207" AmendLawNum="令和二年六月二六日政令第二〇七号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年六月二六日政令第二〇七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -8119,41 +7895,53 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>新震災特例法施行令第十八条の三第一項の規定の適用については、旧震災特例法第十八条の三第一項の指定があった日を含む連結事業年度（旧震災特例法第二条第三項第十一号に規定する連結事業年度をいう。以下この条において同じ。）終了の時において旧租税特別措置法第六十八条の九第八項第六号に規定する中小連結法人（旧震災特例法第二条第三項第十二号に規定する連結親法人である旧租税特別措置法第四十二条の四第八項第九号に規定する農業協同組合等を含む。）に該当する法人は、新震災特例法施行令第十八条の三第一項に規定する該当する法人とみなす。</Sentence>
+            <Sentence>改正法附則第百三十六条第一項の規定により改正法附則第二十二条第三項に規定する災害損失欠損金額に該当するものとみなされた金額がある場合における同項の災害損失欠損金額に係る旧法人税法施行令第百十六条第一項の規定の適用については、同項中「欠損金額の」とあるのは、「欠損金額（所得税法等の一部を改正する法律（令和二年法律第八号）附則第百三十六条第一項（第二十三条の規定による東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律の一部改正に伴う経過措置）の規定により同法附則第二十二条第三項（青色申告書を提出しなかつた事業年度の災害による損失金の繰越しに関する経過措置）に規定する災害損失欠損金額に該当するものとみなされた金額を除く。）の」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>改正法附則第百三十六条第十九項に規定する減価償却資産に関する特例を定めている規定として政令で定める規定は、旧震災特例法施行令第二十三条の四第一項に規定する規定とする。</Sentence>
+            <Sentence>新震災特例法施行令第十八条の三第一項の規定の適用については、旧震災特例法第十八条の三第一項の指定があった日を含む連結事業年度（旧震災特例法第二条第三項第五号に規定する連結事業年度をいう。以下この条において同じ。）終了の時において旧租税特別措置法第六十八条の九第八項第六号に規定する中小連結法人（連結親法人（旧震災特例法第二条第三項第七号に規定する連結親法人をいう。第五項において同じ。）である旧租税特別措置法第四十二条の四第八項第九号に規定する農業協同組合等を含む。）に該当する法人は、新震災特例法施行令第十八条の三第一項に規定する該当する法人とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>改正法附則第百三十六条第十九項の規定により改正法附則第百十八条第五項の規定を読み替えて適用する場合及び改正法附則第百三十六条第二十項の規定により新租税特別措置法第五十二条の三の規定を適用する場合における附則第四十六条第六項の規定の適用については、同項中「規定を」とあるのは、「規定又は旧震災特例法第二十六条の二第一項若しくは所得税法等の一部を改正する等の法律（平成二十九年法律第四号）附則第百一条第二項の規定によりなおその効力を有するものとされる同法第十五条の規定による改正前の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第二十六条の二第一項の規定を」とする。</Sentence>
+            <Sentence>改正法附則第百三十六条第十九項に規定する減価償却資産に関する特例を定めている規定として政令で定める規定は、旧震災特例法施行令第二十三条の四第一項各号に掲げる規定とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>新震災特例法施行令第十九条の規定の適用については、同条第七項及び第八項に規定する買換資産には旧震災特例法第十九条第四項又は第二十条第十四項に規定する連結買換資産を含むものとし、新震災特例法施行令第十九条第八項に規定する増額をしなかったときには同項に規定する当該買換資産の帳簿価額につき旧震災特例法施行令第二十四条第八項前段に規定する金額の増額をしなかった場合を含むものとし、新震災特例法施行令第十九条第十項、第十一項及び第十七項に規定する買換資産には旧震災特例法第十九条第十一項又は第二十条第十六項に規定する連結買換資産を含むものとし、新震災特例法施行令第十九条第十一項に規定する増額をしなかったときには同項に規定する当該買換資産の帳簿価額につき旧震災特例法施行令第二十四条第十一項前段に規定する金額の増額をしなかった場合を含むものとし、改正法第二十三条の規定による改正後の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下「新震災特例法」という。）第十九条第一項及び第八項並びに第二十条第七項及び第八項の規定の適用を受けた新震災特例法施行令第十九条第三十三項に規定する買換資産には同項に規定する譲渡事業年度以後の各事業年度において旧震災特例法第二十七条第一項及び第八項並びに第二十八条第八項及び第九項の規定の適用を受けた旧震災特例法第二十七条第一項に規定する買換資産を含むものとし、新震災特例法第二十条第七項及び第八項の規定の適用を受けた新震災特例法施行令第十九条第三十四項に規定する特別勘定に係る買換資産には旧震災特例法第二十八条第八項及び第九項の規定の適用を受けた当該特別勘定に係る旧震災特例法第二十七条第一項に規定する買換資産を含むものとし、新震災特例法施行令第十九条第三十八項に規定する適用がある場合には旧震災特例法第二十七条から第二十九条までの規定の適用がある場合を含むものとする。</Sentence>
+            <Sentence>改正法附則第百三十六条第十九項の規定により改正法附則第百十八条第五項の規定を読み替えて適用する場合及び改正法附則第百三十六条第二十項の規定により新租税特別措置法第五十二条の三の規定を適用する場合における附則第四十六条第六項の規定の適用については、同項中「規定を」とあるのは、「規定又は旧震災特例法施行令第二十三条の四第一項各号に掲げる規定を」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>新震災特例法施行令第十九条の規定の適用については、旧震災特例法第二十七条第一項（旧震災特例法第二十八条第八項において準用する場合を含む。）の規定により損金の額に算入された金額及び旧震災特例法施行令第二十四条第十五項の規定により計算された金額と同条第十六項の規定により計算された金額との合計額は新震災特例法施行令第十九条第七項第一号に規定する損金の額に算入された金額とみなし、旧震災特例法第二十七条第一項（旧震災特例法第二十八条第八項において準用する場合を含む。）又は旧震災特例法第二十七条第八項（旧震災特例法第二十八条第九項において準用する場合を含む。）の規定により旧震災特例法施行令第十九条第十項に規定する連結買換資産につき旧震災特例法第二十七条第十一項に規定する被合併法人等において損金の額に算入された金額及び旧震災特例法施行令第二十四条第十五項の規定により計算された金額と同条第十六項の規定により計算された金額との合計額（旧震災特例法第二十七条第十一項（旧震災特例法第二十八条第十七項において準用する場合を含む。）の規定により益金の額に算入された金額がある場合には、当該合計額に旧震災特例法施行令第二十四条第十七項ただし書の規定により計算された金額を加算した金額）は新震災特例法施行令第十九条第十項第一号に規定する損金の額に算入された金額とみなし、旧震災特例法第二十七条第四項の規定により各連結事業年度の旧震災特例法第二条第三項第三十六号に規定する連結所得の金額の計算上益金の額に算入された金額は新震災特例法施行令第十九条第十五項に規定する益金の額に算入された金額とみなし、旧震災特例法第二十七条第七項（同条第九項において準用する場合を含む。以下この項において同じ。）の規定により新震災特例法施行令第十九条第十六項に規定する当該買換資産の取得価額に算入されなかった金額（旧震災特例法第二十七条第七項に規定する益金の額に算入された金額を含む。）は新震災特例法施行令第十九条第十六項に規定する取得価額に算入されなかった金額とみなし、旧震災特例法第二十七条第四項に規定する事情は新震災特例法施行令第十九条第十六項第二号に規定する事情とみなし、旧震災特例法第二十七条第七項において準用する旧租税特別措置法第六十八条の七十八第八項の規定により新震災特例法施行令第十九条第十七項に規定する当該買換資産の取得価額に算入されなかった金額（旧震災特例法第二十七条第七項において準用する旧租税特別措置法第六十八条の七十八第八項に規定する益金の額に算入された金額を含む。）は新震災特例法施行令第十九条第十七項に規定する取得価額に算入されなかった金額とみなし、旧震災特例法第二十七条第十一項に規定する事情は新震災特例法施行令第十九条第十七項第二号に規定する事情とみなし、旧震災特例法施行令第二十四条第二十項において準用する旧租税特別措置法施行令第三十九条の百六第二十一項第二号から第五号までに掲げる資産は新震災特例法施行令第十九条第二十項において準用する新租税特別措置法施行令第三十九条の七第二十六項各号に掲げる資産とみなし、旧震災特例法施行令第二十四条第二十項において準用する旧租税特別措置法施行令第三十九条の百六第二十一項第二号から第五号までに定める日は新震災特例法施行令第十九条第二十項において準用する新租税特別措置法施行令第三十九条の七第二十六項各号に定める日とみなし、旧震災特例法第二十八条第一項の特別勘定の金額の計算の基礎となった同項に規定する取得に充てようとする額は新震災特例法施行令第十九条第二十八項に規定する取得に充てようとする額とみなし、旧震災特例法第二十七条第一項に規定する買換資産で旧震災特例法第二十八条第八項及び第九項の規定の適用を受けたものは新震災特例法施行令第十九条第二十八項に規定する他の買換資産で新震災特例法第二十条第七項及び第八項の規定の適用を受けたものとみなし、旧震災特例法第二十八条第五項の規定により引継ぎを受けた特別勘定の金額を有する同項に規定する合併法人、分割承継法人又は被現物出資法人は新震災特例法施行令第十九条第二十九項に規定する合併法人、分割承継法人又は被現物出資法人とみなし、旧震災特例法第二十八条第五項の規定により引継ぎを受けた特別勘定の金額の計算の基礎となった同条第一項、第三項又は第五項第二号に規定する取得に充てようとする額は新震災特例法施行令第十九条第二十九項に規定する取得に充てようとする額とみなし、旧震災特例法第二十七条第一項に規定する買換資産で旧震災特例法第二十八条第八項及び第九項の規定の適用を受けたものは新震災特例法施行令第十九条第二十九項に規定する他の買換資産で新震災特例法第二十条第七項及び第八項の規定の適用を受けたものとみなし、旧震災特例法第二十八条第一項の特別勘定の金額及び同条第三項に規定する期中特別勘定の金額のうちに同条第五項に規定する適格合併、適格分割又は適格現物出資により同項に規定する合併法人、分割承継法人又は被現物出資法人に既に引き継いだものがある場合は新震災特例法施行令第十九条第三十三項に規定する引き継いだものがある場合とみなし、旧震災特例法第二十八条第五項の規定により引継ぎを受けた特別勘定の金額のうちに同項に規定する適格合併、適格分割又は適格現物出資により同項に規定する合併法人、分割承継法人又は被現物出資法人に既に引き継いだものがある場合は新震災特例法施行令第十九条第三十四項に規定する引き継いだものがある場合とみなす。</Sentence>
+            <Sentence>改正法第二十三条の規定による改正後の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下「新震災特例法」という。）第十九条第三項（同条第九項において準用する場合を含む。）の規定を適用する場合において、同条第三項の届出には、当該法人（当該法人が旧震災特例法第二条第三項第三十三号に規定する連結子法人であった場合には、当該法人との間に同項第十三号に規定する連結完全支配関係がある連結親法人）により行われた旧震災特例法第二十七条第三項の規定による同項の規定の適用を受ける旨の届出を含むものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="6">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>新震災特例法第二十条第四項の規定を適用する場合において、同項第二号に定める金額の計算の基礎となる同号に規定する特別勘定の金額が連結事業年度において設けた旧震災特例法第二十八条第一項の特別勘定の金額であるときは、同号に規定する取得指定期間は、同項に規定する取得指定期間とする。</Sentence>
+            <Sentence>新震災特例法施行令第十九条の規定の適用については、同条第七項及び第八項に規定する買換資産には旧震災特例法第十九条第四項又は第二十条第十四項に規定する連結買換資産を含むものとし、新震災特例法施行令第十九条第八項に規定する増額をしなかったときには同項に規定する当該買換資産の帳簿価額につき旧震災特例法施行令第二十四条第八項前段に規定する金額の増額をしなかった場合を含むものとし、新震災特例法施行令第十九条第十項、第十一項及び第十七項に規定する買換資産には旧震災特例法第十九条第十一項又は第二十条第十六項に規定する連結買換資産を含むものとし、新震災特例法施行令第十九条第十一項に規定する増額をしなかったときには同項に規定する当該買換資産の帳簿価額につき旧震災特例法施行令第二十四条第十一項前段に規定する金額の増額をしなかった場合を含むものとし、新震災特例法第十九条第一項及び第八項並びに第二十条第七項及び第八項の規定の適用を受けた新震災特例法施行令第十九条第三十三項に規定する買換資産には同項に規定する譲渡事業年度以後の各事業年度において旧震災特例法第二十七条第一項及び第八項並びに第二十八条第八項及び第九項の規定の適用を受けた旧震災特例法第二十七条第一項に規定する買換資産を含むものとし、新震災特例法第二十条第七項及び第八項の規定の適用を受けた新震災特例法施行令第十九条第三十四項に規定する特別勘定に係る買換資産には旧震災特例法第二十八条第八項及び第九項の規定の適用を受けた当該特別勘定に係る旧震災特例法第二十七条第一項に規定する買換資産を含むものとし、新震災特例法施行令第十九条第三十八項に規定する適用がある場合には旧震災特例法第二十七条から第二十九条までの規定の適用がある場合を含むものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="7">
           <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>新震災特例法施行令第十九条の規定の適用については、旧震災特例法第二十七条第一項（旧震災特例法第二十八条第八項において準用する場合を含む。）の規定により損金の額に算入された金額及び旧震災特例法施行令第二十四条第十五項の規定により計算された金額と同条第十六項の規定により計算された金額との合計額は新震災特例法施行令第十九条第七項第一号に規定する損金の額に算入された金額とみなし、旧震災特例法第二十七条第一項（旧震災特例法第二十八条第八項において準用する場合を含む。）又は旧震災特例法第二十七条第八項（旧震災特例法第二十八条第九項において準用する場合を含む。）の規定により旧震災特例法施行令第十九条第十項に規定する連結買換資産につき旧震災特例法第二十七条第十一項に規定する被合併法人等において損金の額に算入された金額及び旧震災特例法施行令第二十四条第十五項の規定により計算された金額と同条第十六項の規定により計算された金額との合計額（旧震災特例法第二十七条第十一項（旧震災特例法第二十八条第十七項において準用する場合を含む。）の規定により益金の額に算入された金額がある場合には、当該合計額に旧震災特例法施行令第二十四条第十七項ただし書の規定により計算された金額を加算した金額）は新震災特例法施行令第十九条第十項第一号に規定する損金の額に算入された金額とみなし、旧震災特例法第二十七条第四項の規定により各連結事業年度の旧震災特例法第二条第三項第三十四号に規定する連結所得の金額の計算上益金の額に算入された金額は新震災特例法施行令第十九条第十五項に規定する益金の額に算入された金額とみなし、旧震災特例法第二十七条第七項（同条第九項において準用する場合を含む。以下この項において同じ。）において準用する旧租税特別措置法第六十八条の七十八第八項の規定により新震災特例法施行令第十九条第十六項に規定する当該買換資産の取得価額に算入されなかった金額（旧震災特例法第二十七条第七項において準用する旧租税特別措置法第六十八条の七十八第八項に規定する益金の額に算入された金額を含む。）は新震災特例法施行令第十九条第十六項に規定する取得価額に算入されなかった金額とみなし、旧震災特例法第二十七条第四項に規定する事情は新震災特例法施行令第十九条第十六項第二号に規定する事情とみなし、旧震災特例法第二十七条第七項において準用する旧租税特別措置法第六十八条の七十八第八項の規定により新震災特例法施行令第十九条第十七項に規定する当該買換資産の取得価額に算入されなかった金額（旧震災特例法第二十七条第七項において準用する旧租税特別措置法第六十八条の七十八第八項に規定する益金の額に算入された金額を含む。）は新震災特例法施行令第十九条第十七項に規定する取得価額に算入されなかった金額とみなし、旧震災特例法第二十七条第十一項に規定する事情は新震災特例法施行令第十九条第十七項第二号に規定する事情とみなし、旧震災特例法施行令第二十四条第二十項において準用する旧租税特別措置法施行令第三十九条の百六第二十一項第二号から第五号までに掲げる資産は新震災特例法施行令第十九条第二十項において準用する新租税特別措置法施行令第三十九条の七第二十四項各号に掲げる資産とみなし、旧震災特例法施行令第二十四条第二十項において準用する旧租税特別措置法施行令第三十九条の百六第二十一項第二号から第五号までに定める日は新震災特例法施行令第十九条第二十項において準用する新租税特別措置法施行令第三十九条の七第二十四項各号に定める日とみなし、旧震災特例法第二十八条第一項の特別勘定の金額の計算の基礎となった同項に規定する取得に充てようとする額は新震災特例法施行令第十九条第二十八項に規定する取得に充てようとする額とみなし、旧震災特例法第二十七条第一項に規定する買換資産で旧震災特例法第二十八条第八項及び第九項の規定の適用を受けたものは新震災特例法施行令第十九条第二十八項に規定する他の買換資産で新震災特例法第二十条第七項及び第八項の規定の適用を受けたものとみなし、旧震災特例法第二十八条第五項の規定により引継ぎを受けた特別勘定の金額を有する同項に規定する合併法人、分割承継法人又は被現物出資法人は新震災特例法施行令第十九条第二十九項に規定する合併法人、分割承継法人又は被現物出資法人とみなし、旧震災特例法第二十八条第五項の規定により引継ぎを受けた特別勘定の金額の計算の基礎となった同条第一項、第三項又は第五項第二号に規定する取得に充てようとする額は新震災特例法施行令第十九条第二十九項に規定する取得に充てようとする額とみなし、旧震災特例法第二十七条第一項に規定する買換資産で旧震災特例法第二十八条第八項及び第九項の規定の適用を受けたものは新震災特例法施行令第十九条第二十九項に規定する他の買換資産で新震災特例法第二十条第七項及び第八項の規定の適用を受けたものとみなし、旧震災特例法第二十八条第一項の特別勘定の金額及び同条第三項に規定する期中特別勘定の金額のうちに同条第五項に規定する適格合併、適格分割又は適格現物出資により同項に規定する合併法人、分割承継法人又は被現物出資法人に既に引き継いだものがある場合は新震災特例法施行令第十九条第三十三項に規定する引き継いだものがある場合とみなし、旧震災特例法第二十八条第五項の規定により引継ぎを受けた特別勘定の金額のうちに同項に規定する適格合併、適格分割又は適格現物出資により同項に規定する合併法人、分割承継法人又は被現物出資法人に既に引き継いだものがある場合は新震災特例法施行令第十九条第三十四項に規定する引き継いだものがある場合とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="8">
+          <ParagraphNum>８</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>新震災特例法第二十条第四項の規定を適用する場合において、同項第二号に定める金額の計算の基礎となる同号に規定する特別勘定の金額が連結事業年度において設けた旧震災特例法第二十八条第一項の特別勘定の金額であるときは、同号に規定する取得指定期間は、同項に規定する取得指定期間とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="9">
+          <ParagraphNum>９</ParagraphNum>
           <ParagraphSentence>
             <Sentence>新震災特例法第二十条第七項の規定を適用する場合において、次の各号に掲げる場合に該当するときは、同項に規定する取得指定期間は、当該各号に掲げる場合の区分に応じ当該各号に定める期間（第一号又は第二号に規定する引継ぎを受けた日（第三号に掲げる場合にあっては、連結事業年度に該当しないこととなった事業年度開始の日）以後に新震災特例法第十九条第三項に規定するやむを得ない事情が生じたため、新震災特例法第二十条第七項の法人が当該各号に定める期間内に新震災特例法第十九条第一項の表の各号の下欄に掲げる資産の取得をすることが困難である場合において、当該法人が納税地の所轄税務署長の承認を受けたとき（旧震災特例法施行令第十九条第二十六項の承認を受けたときを含む。）は、次の各号に定める期間の初日から当該各号に規定する特別勘定の金額又は期中特別勘定の金額の基礎となった譲渡をした日を含む連結事業年度終了の日の翌日以後三年以内において当該税務署長が認定した日（旧震災特例法施行令第十九条第二十六項の承認を受けた場合には、当該承認をした税務署長が認定した日）までの期間）とする。</Sentence>
           </ParagraphSentence>
@@ -8191,26 +7979,267 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Num="8">
-          <ParagraphNum>８</ParagraphNum>
+        <Paragraph Num="10">
+          <ParagraphNum>１０</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1">新震災特例法施行令第十九条第二十六項の規定は、前項の税務署長の承認を受けようとする法人の申請について準用する。</Sentence>
-            <Sentence Num="2">この場合において、同条第二十六項中「同項」とあるのは「法人税法施行令等の一部を改正する政令（令和二年政令第二百七号。第四号及び第五号において「令和二年改正令」という。）附則第六十三条第七項」と、同項第四号及び第五号中「前項」とあるのは「令和二年改正令附則第六十三条第七項」と読み替えるものとする。</Sentence>
+            <Sentence Num="2">この場合において、同条第二十六項中「同項」とあるのは「法人税法施行令等の一部を改正する政令（令和二年政令第二百七号。第四号及び第五号において「令和二年改正令」という。）附則第六十三条第九項」と、同項第四号及び第五号中「前項」とあるのは「令和二年改正令附則第六十三条第九項」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="9">
-          <ParagraphNum>９</ParagraphNum>
+        <Paragraph Num="11">
+          <ParagraphNum>１１</ParagraphNum>
           <ParagraphSentence>
             <Sentence>旧震災特例法第二十条の規定の適用がある場合における附則第二十二条第二項（附則第十八条、第二十五条及び第二十九条において準用する場合を含む。）の規定の適用については、同項中「又は第六十五条の八第十項」とあるのは、「若しくは第六十五条の八第十項又は旧震災特例法第二十条第十項」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="10">
-          <ParagraphNum>１０</ParagraphNum>
+        <Paragraph Num="12">
+          <ParagraphNum>１２</ParagraphNum>
           <ParagraphSentence>
             <Sentence>旧法人税法第二十五条第三項及び第三十三条第四項の規定を旧震災特例法第二十五条第一項の規定により読み替えて適用した場合には、附則第十一条第二項の規定の適用については、同項中「生じた日」とあるのは「生じた日又は旧震災特例法第二十五条第一項に規定する政令で定める事実が生じた日」と、「又は第三十三条第四項」とあるのは「若しくは第三十三条第四項又は旧震災特例法第二十五条第一項の規定により読み替えられた旧法人税法第二十五条第三項若しくは第三十三条第四項」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年三月三一日政令第一二五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この政令は、令和三年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第二十九条の二第八項の改正規定（「されたもの」の下に「又は確認を受けたもの」を加える部分に限る。）及び同条第三項の改正規定（「されたもの」の下に「又は確認を受けたもの」を加える部分に限る。）並びに附則第十四条第一項の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>令和四年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第十二条の二第四項第一号の改正規定（「第十条の五の四の二第三項」を「第十条の五の五第三項、第十条の五の六第七項から第九項まで」に改める部分に限る。）及び同条第八項の改正規定（「並びに第十条の五の四の二第三項」を「、第十条の五の五第三項並びに第十条の五の六第七項から第九項まで」に改める部分に限る。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>産業競争力強化法等の一部を改正する等の法律（令和三年法律第　　　号）の施行の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（企業立地促進区域等において機械等を取得した場合の特別償却又は所得税額の特別控除に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>復興庁設置法等の一部を改正する法律（令和二年法律第四十六号。以下「復興庁設置法等改正法」という。）附則第十三条第一項の規定の適用がある場合における改正後の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行令（以下「新令」という。）第十二条の二の二第一項の規定の適用については、次に定めるところによる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>復興庁設置法等改正法附則第十三条第一項の規定により福島復興再生特別措置法（平成二十四年法律第二十五号）第十八条第四項の規定により提出された同条第一項に規定する企業立地促進計画とみなされたもの（以下「みなし企業立地促進計画」という。）の同条第四項の規定による提出のあった日は、復興庁設置法等改正法第三条の規定による改正前の福島復興再生特別措置法（以下「旧福島特措法」という。）第十八条第四項の規定による同条第一項に規定する企業立地促進計画の提出のあった日とする。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>この政令の施行の日（以下「施行日」という。）前に旧福島特措法第十八条第二項第二号に規定する企業立地促進区域の変更について同条第七項において準用する同条第四項の規定による提出（以下この号において「変更の提出」という。）があった場合における当該変更についての福島復興再生特別措置法第十八条第七項において準用する同条第四項の規定による提出のあった日は、当該変更の提出のあった日とする。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（復興産業集積区域において被災雇用者等を雇用した場合の所得税額の特別控除に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>新令第十二条の三第一項の規定は、個人の令和三年以後の所得税法等の一部を改正する法律（令和三年法律第十一号。以下「改正法」という。）第十三条の規定による改正後の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下「新法」という。）第十条の三第一項に規定する適用年の年分の所得税について適用し、個人の令和二年以前の改正法第十三条の規定による改正前の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下「旧法」という。）第十条の三第一項に規定する適用年の年分の所得税については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（企業立地促進区域等において避難対象雇用者等を雇用した場合の所得税額の特別控除に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>復興庁設置法等改正法附則第十三条第一項の規定の適用がある場合における新令第十二条の三の二第三項及び第四項の規定の適用については、施行日前に旧福島特措法第十八条第二項第二号に規定する企業立地促進区域の変更について同条第七項において準用する同条第四項の規定による提出（以下この項において「変更の提出」という。）があった場合における当該変更についての福島復興再生特別措置法第十八条第七項において準用する同条第四項の規定による提出のあった日は、当該変更の提出のあった日とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>復興庁設置法等改正法附則第十三条第二項の規定の適用がある場合には、同項の規定により福島復興再生特別措置法第二十条第三項の認定を受けた同条第一項に規定する避難解除等区域復興再生推進事業実施計画とみなされたものについての新令第十二条の三の二第四項各号に規定する認定を受けた日は、旧福島特措法第二十条第三項の認定を受けた日とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（個人の被災者向け優良賃貸住宅の割増償却に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>改正法附則第九十条の規定によりなおその効力を有するものとされる旧法第十一条の二の規定に基づく改正前の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行令（以下「旧令」という。）第十三条の二の規定は、なおその効力を有する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（企業立地促進区域等において機械等を取得した場合の特別償却又は法人税額の特別控除に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>復興庁設置法等改正法附則第十三条第一項の規定の適用がある場合における新令第十七条の二の二第一項の規定の適用については、次に定めるところによる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>みなし企業立地促進計画の福島復興再生特別措置法第十八条第四項の規定による提出のあった日は、旧福島特措法第十八条第四項の規定による同条第一項に規定する企業立地促進計画の提出のあった日とする。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>施行日前に旧福島特措法第十八条第二項第二号に規定する企業立地促進区域の変更について同条第七項において準用する同条第四項の規定による提出（以下この号において「変更の提出」という。）があった場合における当該変更についての福島復興再生特別措置法第十八条第七項において準用する同条第四項の規定による提出のあった日は、当該変更の提出のあった日とする。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（復興産業集積区域において被災雇用者等を雇用した場合の法人税額の特別控除に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>新令第十七条の三第一項の規定は、法人（東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第二条第三項第一号に規定する人格のない社団等を含む。以下この条において同じ。）の施行日以後に終了する新法第十七条の三第一項に規定する適用年度分の法人税について適用し、法人の施行日前に終了した旧法第十七条の三第一項に規定する適用年度分の法人税については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（企業立地促進区域等において避難対象雇用者等を雇用した場合の法人税額の特別控除に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>復興庁設置法等改正法附則第十三条第一項の規定の適用がある場合における新令第十七条の三の二第一項及び第二項の規定の適用については、施行日前に旧福島特措法第十八条第二項第二号に規定する企業立地促進区域の変更について同条第七項において準用する同条第四項の規定による提出（以下この項において「変更の提出」という。）があった場合における当該変更についての福島復興再生特別措置法第十八条第七項において準用する同条第四項の規定による提出のあった日は、当該変更の提出のあった日とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>復興庁設置法等改正法附則第十三条第二項の規定の適用がある場合には、同項の規定により福島復興再生特別措置法第二十条第三項の認定を受けた同条第一項に規定する避難解除等区域復興再生推進事業実施計画とみなされたものについての新令第十七条の三の二第二項各号に規定する認定を受けた日は、旧福島特措法第二十条第三項の認定を受けた日とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（法人の被災者向け優良賃貸住宅の割増償却に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>改正法附則第百二条の規定によりなおその効力を有するものとされる旧法第十八条の二の規定に基づく旧令第十八条の二の規定は、なおその効力を有する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（連結法人が企業立地促進区域等において機械等を取得した場合の特別償却又は法人税額の特別控除に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>復興庁設置法等改正法附則第十三条第一項の規定の適用がある場合における新令第二十二条の二の二第一項の規定の適用については、附則第六条各号に定めるところによる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（連結法人が復興産業集積区域において被災雇用者等を雇用した場合の法人税額の特別控除に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>新令第二十二条の三第一項の規定は、新法第二条第三項第七号に規定する連結親法人（以下この条において「連結親法人」という。）又は当該連結親法人による同項第十三号に規定する連結完全支配関係（以下この条において「連結完全支配関係」という。）にある同項第三十三号に規定する連結子法人（以下この条において「連結子法人」という。）の施行日以後に終了する新法第二十五条の三第一項に規定する適用年度（次項において「適用年度」という。）分の法人税について適用し、連結親法人又は当該連結親法人による連結完全支配関係にある連結子法人の施行日前に終了した旧法第二十五条の三第一項に規定する適用年度分の法人税については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>改正法附則第百十条第二項の規定によりみなして適用する新法第二十五条の三の規定の適用がある場合における新令第二十二条の三第二項の規定の適用については、同項第一号に掲げる金額は、次に掲げる金額の合計額とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>改正法附則第百十条第二項に規定する指定を受けた連結親法人又はその連結子法人が同項に規定する旧被災雇用者等（以下この号において「旧被災雇用者等」という。）に対して支給する同項に規定する給与等の額のうち当該適用年度の連結所得（新法第二条第三項第三十四号に規定する連結所得をいう。）の金額の計算上損金の額に算入されるもの（改正法附則第百十条第二項の規定によりみなして適用する新法第二十五条の三第一項の規定の適用に係るもので平成三十一年四月一日から令和三年三月三十一日までの間に当該連結親法人又はその連結子法人が当該指定をした改正法附則第百十条第二項に規定する旧認定地方公共団体（福島県又は福島県の区域内の市町村を除く。）の作成した同項の旧認定を受けた同項の旧復興推進計画に定められた同項に規定する旧復興産業集積区域（復興庁設置法等改正法第二条の規定による改正前の東日本大震災復興特別区域法（平成二十三年法律第百二十二号）第二条第三項第二号イに規定する地域を含む市町村の区域を除く。）内に所在する改正法附則第百十条第二項に規定する旧産業集積事業所に勤務する旧被災雇用者等に対して支給するもの（次号において「特定給与等の額」という。）に限る。）の百分の七に相当する金額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>この項の規定を適用しないものとした場合における新令第二十二条の三第二項第一号に掲げる金額のうち特定給与等の額以外の金額の百分の十に相当する金額</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（連結法人が企業立地促進区域等において避難対象雇用者等を雇用した場合の法人税額の特別控除に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>復興庁設置法等改正法附則第十三条第一項の規定の適用がある場合における新令第二十二条の三の二第一項及び第二項の規定の適用については、施行日前に旧福島特措法第十八条第二項第二号に規定する企業立地促進区域の変更について同条第七項において準用する同条第四項の規定による提出（以下この項において「変更の提出」という。）があった場合における当該変更についての福島復興再生特別措置法第十八条第七項において準用する同条第四項の規定による提出のあった日は、当該変更の提出のあった日とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>復興庁設置法等改正法附則第十三条第二項の規定の適用がある場合には、同項の規定により福島復興再生特別措置法第二十条第三項の認定を受けた同条第一項に規定する避難解除等区域復興再生推進事業実施計画とみなされたものについての新令第二十二条の三の二第二項各号に規定する認定を受けた日は、旧福島特措法第二十条第三項の認定を受けた日とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（連結法人の被災者向け優良賃貸住宅の割増償却に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>改正法附則第百十四条の規定によりなおその効力を有するものとされる旧法第二十六条の二の規定に基づく旧令第二十三条の二の規定は、なおその効力を有する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（相続税又は贈与税の特例に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>新令第二十九条の二第四項及び第九項の規定は、令和四年一月一日以後に東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第三十八条の二第一項の規定の適用に係る同条第十四項の申告書を提出する場合について適用し、同日前に同条第一項の規定の適用に係る同条第十四項の申告書を提出した場合については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この政令の施行の際現に旧福島特措法第三十四条第三項に規定する帰還環境整備交付金の交付を受けて行われている事業は、新令第二十九条の二の三第二項第一号に掲げる事業とみなして、同項の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年三月三一日政令第一三〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、令和三年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>

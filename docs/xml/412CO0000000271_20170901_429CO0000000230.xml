@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="271" Year="12">
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="271" Year="12" PromulgateMonth="09" PromulgateDay="01">
   <LawNum>平成十二年政令第二百七十一号</LawNum>
   <LawBody>
-    <LawTitle>情報通信審議会令</LawTitle>
+    <LawTitle Kana="じょうほうつうしんしんぎかいれい" Abbrev="" AbbrevKana="">情報通信審議会令</LawTitle>
     <EnactStatement>内閣は、国家行政組織法（昭和二十三年法律第百二十号）第八条の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -238,7 +238,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="420214" AmendLawNum="平成二〇年七月二日政令第二一四号" Extract="true" Id="0830dbb4-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年七月二日政令第二一四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -251,7 +251,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="429230" AmendLawNum="平成二九年九月一日政令第二三〇号" Extract="true" Id="ef81e9ca-8ec1-11e7-b15e-005056b30d52">
+    <SupplProvision AmendLawNum="平成二九年九月一日政令第二三〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>

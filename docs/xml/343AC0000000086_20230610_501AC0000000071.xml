@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="86" Year="43">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="86" Year="43" PromulgateMonth="12" PromulgateDay="11" ScheduledEnforcementDate="2023/06/10">
   <LawNum>昭和四十三年法律第八十六号</LawNum>
   <LawBody>
-    <LawTitle>金融機関の合併及び転換に関する法律</LawTitle>
+    <LawTitle Kana="きんゆうきかんのがっぺいおよびてんかんにかんするほうりつ" Abbrev="合転法,合併転換法" AbbrevKana="が,が">金融機関の合併及び転換に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -442,14 +442,20 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>吸収合併存続金融機関又は新設合併設立金融機関は、第一項に規定する契約に関する業務の利用者の利便等に照らし特別の事情がある場合において、合併の日における当該契約の総額を超えない範囲内において、かつ、期間を定めて当該業務を整理することを内容とする計画を作成し、当該計画につき内閣総理大臣の承認を受けたときは、当該計画に従い、同項の期限が満了した契約を更新して、又は同項の期間を超えて、当該業務を継続することができる。</Sentence>
+              <Sentence>吸収合併存続金融機関又は新設合併設立金融機関は、第一項に規定する契約に関する業務の利用者の利便等に照らし特別の事情がある場合において、期間を定めて当該業務を整理することを内容とする計画を作成し、当該計画につき内閣総理大臣（当該吸収合併存続金融機関又は新設合併設立金融機関が労働金庫である場合にあつては、内閣総理大臣及び厚生労働大臣。次項において同じ。）の承認を受けたときは、合併の日における当該契約の総額を超えない範囲内において、かつ、当該計画に従い、第一項の期限が満了した契約を更新して、又は同項の期間を超えて、当該業務を継続することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1">前三項の規定は、転換後金融機関が、その事業に関する法令により行うことができない業務に属する契約又は制限されている契約に係る権利義務を転換により有することとなつた場合について準用する。</Sentence>
-              <Sentence Num="2">この場合において、第二項中「合併により消滅する」とあるのは「転換をする」と、前項中「合併の日」とあるのは「転換の日」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
+              <Sentence>前項に規定する計画につき同項の承認を受けた吸収合併存続金融機関又は新設合併設立金融機関は、予見し難い経済情勢の変化その他やむを得ない事情がある場合において、当該計画の変更につき内閣総理大臣の承認を受けたときは、消滅金融機関の事業に関する法令により行うことができる業務の範囲内において、かつ、当該変更後の計画に従い、合併の日における第一項に規定する契約の総額を超えて当該契約に関する業務（資金の貸付け又は手形の割引の業務に限る。）を継続することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">前各項の規定は、転換後金融機関が、その事業に関する法令により行うことができない業務に属する契約又は制限されている契約に係る権利義務を転換により有することとなつた場合について準用する。</Sentence>
+              <Sentence Num="2">この場合において、第二項中「合併により消滅する」とあるのは「転換をする」と、第三項中「合併の日」とあるのは「転換の日」と、前項中「消滅金融機関」とあるのは「転換前の金融機関」と、「合併の日」とあるのは「転換の日」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2221,6 +2227,330 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
+          <Article Num="51_2">
+            <ArticleCaption>（合併前の銀行代理業の許可等に関する特例）</ArticleCaption>
+            <ArticleTitle>第五十一条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">吸収合併存続金融機関又は新設合併設立金融機関が次の表の各号の上欄に掲げる種類の金融機関である場合には、合併の日において現に当該各号の中欄に掲げる許可又は承認を受けている者（当該合併における消滅金融機関を所属銀行（銀行法第二条第十六項（定義等）に規定する所属銀行をいう。）、所属長期信用銀行（長期信用銀行法第十六条の五第三項（長期信用銀行代理業の許可）に規定する所属長期信用銀行をいう。）、所属信用金庫（信用金庫法第八十五条の二第三項（許可）に規定する所属信用金庫をいう。）、所属労働金庫（労働金庫法第八十九条の三第三項（許可）に規定する所属労働金庫をいう。）又は所属信用協同組合（協同組合による金融事業に関する法律（昭和二十四年法律第百八十三号。以下「協同組合金融事業法」という。）第六条の三第三項（信用協同組合代理業の許可）に規定する所属信用協同組合をいう。）としている者に限り、当該合併の日において現に当該各号の下欄に掲げる許可又は承認を受けている者を除く。）は、当該合併の日に当該各号の下欄に掲げる許可又は承認を受けたものとみなす。</Sentence>
+                <Sentence Num="2">この場合において、当該各号の中欄に掲げる許可又は承認に条件が付されているときは、当該条件は、当該各号の下欄に掲げる許可又は承認に付されたものとみなす。</Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table WritingMode="vertical">
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">一　普通銀行</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">長期信用銀行法第十六条の五第一項、信用金庫法第八十五条の二第一項、労働金庫法第八十九条の三第一項又は協同組合金融事業法第六条の三第一項の許可</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">銀行法第五十二条の三十六第一項（許可）の許可</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">二　普通銀行</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">長期信用銀行法第十七条（銀行法の準用）、信用金庫法第八十九条第五項（銀行法の準用）、労働金庫法第九十四条第三項（銀行法の準用）又は協同組合金融事業法第六条の五第一項（信用協同組合代理業者等についての銀行法の準用）において準用する銀行法第五十二条の四十二第一項（業務の範囲）の承認（同条第四項の規定により受けたものとみなされる場合における当該承認を含む。）</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">銀行法第五十二条の四十二第一項の承認</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">三　長期信用銀行</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">銀行法第五十二条の三十六第一項、信用金庫法第八十五条の二第一項、労働金庫法第八十九条の三第一項又は協同組合金融事業法第六条の三第一項の許可</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">長期信用銀行法第十六条の五第一項の許可</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">四　長期信用銀行</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">銀行法第五十二条の四十二第一項又は信用金庫法第八十九条第五項、労働金庫法第九十四条第三項若しくは協同組合金融事業法第六条の五第一項において準用する銀行法第五十二条の四十二第一項の承認（同条第四項の規定により受けたものとみなされる場合における当該承認を含む。）</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">長期信用銀行法第十七条において準用する銀行法第五十二条の四十二第一項の承認</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">五　信用金庫</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">銀行法第五十二条の三十六第一項、労働金庫法第八十九条の三第一項又は協同組合金融事業法第六条の三第一項の許可</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">信用金庫法第八十五条の二第一項の許可</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">六　信用金庫</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">銀行法第五十二条の四十二第一項又は労働金庫法第九十四条第三項若しくは協同組合金融事業法第六条の五第一項において準用する銀行法第五十二条の四十二第一項の承認（同条第四項の規定により受けたものとみなされる場合における当該承認を含む。）</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">信用金庫法第八十九条第五項において準用する銀行法第五十二条の四十二第一項の承認</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">七　労働金庫</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">信用金庫法第八十五条の二第一項又は協同組合金融事業法第六条の三第一項の許可</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">労働金庫法第八十九条の三第一項の許可</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">八　労働金庫</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">信用金庫法第八十九条第五項又は協同組合金融事業法第六条の五第一項において準用する銀行法第五十二条の四十二第一項の承認（同条第四項の規定により受けたものとみなされる場合における当該承認を含む。）</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">労働金庫法第九十四条第三項において準用する銀行法第五十二条の四十二第一項の承認</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">九　信用協同組合</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">信用金庫法第八十五条の二第一項又は労働金庫法第八十九条の三第一項の許可</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">協同組合金融事業法第六条の三第一項の許可</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">十　信用協同組合</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">信用金庫法第八十九条第五項又は労働金庫法第九十四条第三項において準用する銀行法第五十二条の四十二第一項の承認（同条第四項の規定により受けたものとみなされる場合における当該承認を含む。）</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">協同組合金融事業法第六条の五第一項において準用する銀行法第五十二条の四十二第一項の承認</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の規定により次の各号に掲げる許可を受けたものとみなされる者は、当該合併の日から起算して一月以内に当該各号に定める書類を内閣総理大臣（第四号に掲げる許可を受けたものとみなされる者にあつては、内閣総理大臣及び厚生労働大臣）に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>前項の表の第一号の下欄に掲げる許可</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>銀行法第五十二条の三十七第一項各号（許可の申請）に掲げる事項を記載した書類及び同条第二項各号に掲げる書類</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>前項の表の第三号の下欄に掲げる許可</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>長期信用銀行法第十七条において準用する銀行法第五十二条の三十七第一項各号に掲げる事項を記載した書類及び同条第二項各号に掲げる書類</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>前項の表の第五号の下欄に掲げる許可</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>信用金庫法第八十九条第五項において準用する銀行法第五十二条の三十七第一項各号に掲げる事項を記載した書類及び同条第二項各号に掲げる書類</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>前項の表の第七号の下欄に掲げる許可</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>労働金庫法第九十四条第三項において準用する銀行法第五十二条の三十七第一項各号に掲げる事項を記載した書類及び同条第二項各号に掲げる書類</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>前項の表の第九号の下欄に掲げる許可</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>協同組合金融事業法第六条の五第一項において準用する銀行法第五十二条の三十七第一項各号に掲げる事項を記載した書類及び同条第二項各号に掲げる書類</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項の規定により次の各号に掲げる許可を受けたものとみなされる者については、当該各号に定める規定は、当該許可を受けたものとみなされる者が前項の規定により同項に規定する書類を提出するまでの間は、適用しない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>第一項の表の第一号の下欄に掲げる許可</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>銀行法第五十二条の三十九（変更の届出）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>第一項の表の第三号の下欄に掲げる許可</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>長期信用銀行法第十七条において準用する銀行法第五十二条の三十九</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>第一項の表の第五号の下欄に掲げる許可</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>信用金庫法第八十九条第五項において準用する銀行法第五十二条の三十九</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>第一項の表の第七号の下欄に掲げる許可</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>労働金庫法第九十四条第三項において準用する銀行法第五十二条の三十九</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>第一項の表の第九号の下欄に掲げる許可</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>協同組合金融事業法第六条の五第一項において準用する銀行法第五十二条の三十九	</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="51_3">
+            <ArticleCaption>（合併前の信用金庫電子決済等代行業の登録等に関する特例）</ArticleCaption>
+            <ArticleTitle>第五十一条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>吸収合併存続金融機関又は新設合併設立金融機関が次の表の各号の上欄に掲げる種類の金融機関である場合には、合併の日において現に当該各号の中欄に掲げる登録を受けている者（当該合併における消滅金融機関との間で信用金庫電子決済等代行業（信用金庫法第八十五条の四第二項（登録）に規定する信用金庫電子決済等代行業をいう。）、労働金庫電子決済等代行業（労働金庫法第八十九条の五第二項（登録）に規定する労働金庫電子決済等代行業をいう。）又は信用協同組合電子決済等代行業（協同組合金融事業法第六条の五の二第二項（信用協同組合電子決済等代行業の登録）に規定する信用協同組合電子決済等代行業をいう。）に係る契約を締結している者に限り、当該合併の日において現に当該各号の下欄に掲げる登録を受けている者を除く。）は、当該合併の日に当該各号の下欄に掲げる登録を受けたものとみなす。</Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table WritingMode="vertical">
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">一　信用金庫</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">労働金庫法第八十九条の五第一項又は協同組合金融事業法第六条の五の二第一項の登録</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">信用金庫法第八十五条の四第一項の登録</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">二　労働金庫</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">信用金庫法第八十五条の四第一項又は協同組合金融事業法第六条の五の二第一項の登録</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">労働金庫法第八十九条の五第一項の登録</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">三　信用協同組合</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">信用金庫法第八十五条の四第一項又は労働金庫法第八十九条の五第一項の登録</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                      <Sentence WritingMode="vertical">協同組合金融事業法第六条の五の二第一項の登録</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前条第二項（第一号及び第二号に係る部分を除く。）及び第三項（第一号及び第二号に係る部分を除く。）の規定は、前項の規定により登録を受けたものとみなされる者について準用する。この場合において、同条第二項第三号中「前項の表の第五号」とあるのは「次条第一項の表の第一号」と、「第八十九条第五項」とあるのは「第八十九条第七項（銀行法の準用）」と、「第五十二条の三十七第一項各号」とあるのは「第五十二条の六十一の三第一項各号（登録の申請）」と、同項第四号中「前項の表の第七号」とあるのは「次条第一項の表の第二号」と、「第九十四条第三項」とあるのは「第九十四条第五項（銀行法の準用）」と、「第五十二条の三十七第一項各号」とあるのは「第五十二条の六十一の三第一項各号」と、同項第五号中「前項の表の第九号」とあるのは「次条第一項の表の第三号」と、「第六条の五第一項」とあるのは「第六条の五の十第一項（信用協同組合電子決済等代行業者等についての銀行法の準用）」と、「第五十二条の三十七第一項各号」とあるのは「第五十二条の六十一の三第一項各号」と、同条第三項第三号中「第一項の表の第五号」とあるのは「次条第一項の表の第一号」と、「第八十九条第五項」とあるのは「第八十九条第七項」と、「第五十二条の三十九」とあるのは「第五十二条の六十一の六（変更の届出）」と、同項第四号中「第一項の表の第七号」とあるのは「次条第一項の表の第二号」と、「第九十四条第三項」とあるのは「第九十四条第五項」と、「第五十二条の三十九」とあるのは「第五十二条の六十一の六」と、同項第五号中「第一項の表の第九号」とあるのは「次条第一項の表の第三号」と、「第六条の五第一項」とあるのは「第六条の五の十第一項」と、「第五十二条の三十九」とあるのは「第五十二条の六十一の六」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>内閣総理大臣（この項の規定により第二号に掲げる事項を登録する場合にあつては、内閣総理大臣及び厚生労働大臣）は、前項において準用する前条第二項の規定による書類の提出があつたときは、次の各号に掲げる事項を当該各号に定める登録簿に登録するものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>当該書類に記載された信用金庫法第八十九条第七項（銀行法の準用）において準用する銀行法第五十二条の六十一の三第一項各号（登録の申請）に掲げる事項及び信用金庫法第八十九条第七項において準用する銀行法第五十二条の六十一の四第一項第二号（登録の実施）に掲げる事項　信用金庫電子決済等代行業者登録簿（信用金庫法第八十九条第七項において準用する銀行法第五十二条の六十一の四第一項に規定する信用金庫電子決済等代行業者登録簿をいう。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>当該書類に記載された労働金庫法第九十四条第五項（銀行法の準用）において準用する銀行法第五十二条の六十一の三第一項各号に掲げる事項及び労働金庫法第九十四条第五項において準用する銀行法第五十二条の六十一の四第一項第二号に掲げる事項　労働金庫電子決済等代行業者登録簿（労働金庫法第九十四条第五項において準用する銀行法第五十二条の六十一の四第一項に規定する労働金庫電子決済等代行業者登録簿をいう。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>当該書類に記載された協同組合金融事業法第六条の五の十第一項（信用協同組合電子決済等代行業者等についての銀行法の準用）において準用する銀行法第五十二条の六十一の三第一項各号に掲げる事項及び協同組合金融事業法第六条の五の十第一項において準用する銀行法第五十二条の六十一の四第一項第二号に掲げる事項　信用協同組合電子決済等代行業者登録簿（協同組合金融事業法第六条の五の十第一項において準用する銀行法第五十二条の六十一の四第一項に規定する信用協同組合電子決済等代行業者登録簿をいう。）</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
           <Article Num="52">
             <ArticleCaption>（合併の登記）</ArticleCaption>
             <ArticleTitle>第五十二条</ArticleTitle>
@@ -2640,7 +2970,7 @@
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
-                    <Sentence>転換後協同組織金融機関が特定金庫（信用金庫法第三十八条の二第三項又は労働金庫法第四十一条の二第三項に規定する特定金庫をいう。）又は特定信用協同組合等（協同組合による金融事業に関する法律（昭和二十四年法律第百八十三号）第五条の八第三項に規定する特定信用協同組合等をいう。）である場合には、会計監査人の氏名又は名称</Sentence>
+                    <Sentence>転換後協同組織金融機関が特定金庫（信用金庫法第三十八条の二第三項又は労働金庫法第四十一条の二第三項に規定する特定金庫をいう。）又は特定信用協同組合等（協同組合金融事業法第五条の八第三項に規定する特定信用協同組合等をいう。）である場合には、会計監査人の氏名又は名称</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="5">
@@ -2813,7 +3143,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>第四十八条から第五十一条までの規定は、転換について準用する。</Sentence>
+                <Sentence Num="1">第四十八条から第五十一条まで、第五十一条の二（第一項の表の第三号及び第四号、第二項第二号並びに第三項第二号に係る部分を除く。）及び第五十一条の三の規定は、転換について準用する。</Sentence>
+                <Sentence Num="2">この場合において、第五十一条の二第一項及び第五十一条の三第一項中「吸収合併存続金融機関又は新設合併設立金融機関」とあるのは「転換後金融機関」と、「合併における消滅金融機関」とあるのは「転換前の金融機関」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3059,7 +3390,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="356061" AmendLawNum="昭和五六年六月一日法律第六一号" Extract="true" Id="48904820-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五六年六月一日法律第六一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3102,7 +3433,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="356075" AmendLawNum="昭和五六年六月九日法律第七五号" Id="910dd15e-d3b8-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五六年六月九日法律第七五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -3111,7 +3442,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="358078" AmendLawNum="昭和五八年一二月二日法律第七八号" Id="00710c9c-d3b8-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五八年一二月二日法律第七八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -3126,7 +3457,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="402065" AmendLawNum="平成二年六月二九日法律第六五号" Id="abbd229c-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二年六月二九日法律第六五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -3135,7 +3466,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="404087" AmendLawNum="平成四年六月二六日法律第八七号" Extract="true" Id="91136f9c-d3b8-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成四年六月二六日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3191,7 +3522,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="408094" AmendLawNum="平成八年六月二一日法律第九四号" Extract="true" Id="9116f022-d3b8-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成八年六月二一日法律第九四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3204,7 +3535,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="409072" AmendLawNum="平成九年六月六日法律第七二号" Id="911a7b98-d3b8-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成九年六月六日法律第七二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -3228,7 +3559,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="409102" AmendLawNum="平成九年六月二〇日法律第一〇二号" Extract="true" Id="8a62dda6-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成九年六月二〇日法律第一〇二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3293,7 +3624,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="409117" AmendLawNum="平成九年一二月一〇日法律第一一七号" Extract="true" Id="911cb64c-d3b8-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成九年一二月一〇日法律第一一七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3306,7 +3637,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="409121" AmendLawNum="平成九年一二月一二日法律第一二一号" Extract="true" Id="8a656530-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成九年一二月一二日法律第一二一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3319,7 +3650,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="410107" AmendLawNum="平成一〇年六月一五日法律第一〇七号" Extract="true" Id="91224bde-d3b8-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一〇年六月一五日法律第一〇七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3384,7 +3715,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="410131" AmendLawNum="平成一〇年一〇月一六日法律第一三一号" Id="8a674cc4-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一〇年一〇月一六日法律第一三一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3447,7 +3778,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411087" AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true" Id="8a6950aa-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3554,7 +3885,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411125" AmendLawNum="平成一一年八月一三日法律第一二五号" Extract="true" Id="9124cbfc-d3b8-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年八月一三日法律第一二五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3567,7 +3898,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3603,7 +3934,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412091" AmendLawNum="平成一二年五月三一日法律第九一号" Extract="true" Id="ff0228de-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年五月三一日法律第九一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -3613,7 +3944,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413080" AmendLawNum="平成一三年六月二九日法律第八〇号" Id="916bade0-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年六月二九日法律第八〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -3622,7 +3953,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413117" AmendLawNum="平成一三年一一月九日法律第一一七号" Extract="true" Id="8a6f9f82-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年一一月九日法律第一一七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3635,7 +3966,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="413129" AmendLawNum="平成一三年一一月二八日法律第一二九号" Extract="true" Id="916d6342-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年一一月二八日法律第一二九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -3652,7 +3983,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414045" AmendLawNum="平成一四年五月二九日法律第四五号" Extract="true" Id="916faa94-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年五月二九日法律第四五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -3662,7 +3993,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416087" AmendLawNum="平成一六年六月九日法律第八七号" Extract="true" Id="8851aed5-e671-4e53-80c2-5c79b60462df">
+    <SupplProvision AmendLawNum="平成一六年六月九日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3675,7 +4006,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416154" AmendLawNum="平成一六年一二月三日法律第一五四号" Extract="true" Id="7cc44bc6-47dd-11e5-9728-b7732dfb5558">
+    <SupplProvision AmendLawNum="平成一六年一二月三日法律第一五四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3718,7 +4049,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417087" AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true" Id="6227ae84-47dd-11e5-92b2-43af2fd23feb">
+    <SupplProvision AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -3727,7 +4058,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418050" AmendLawNum="平成一八年六月二日法律第五〇号" Extract="true" Id="994c58f6-0a18-11e8-af63-742b6287e916">
+    <SupplProvision AmendLawNum="平成一八年六月二日法律第五〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -3736,7 +4067,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418109" AmendLawNum="平成一八年一二月一五日法律第一〇九号" Extract="true" Id="ecc44794-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年一二月一五日法律第一〇九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -3757,7 +4088,7 @@
         </Item>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="420065" AmendLawNum="平成二〇年六月一三日法律第六五号" Extract="true" Id="4762751e-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年六月一三日法律第六五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3780,7 +4111,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423053" AmendLawNum="平成二三年五月二五日法律第五三号" Id="f6b9778e-d3b2-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年五月二五日法律第五三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -3789,7 +4120,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423074" AmendLawNum="平成二三年六月二四日法律第七四号" Extract="true" Id="64061518-04d8-4a9e-acc1-1ae4d12de2b1">
+    <SupplProvision AmendLawNum="平成二三年六月二四日法律第七四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3802,7 +4133,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426091" AmendLawNum="平成二六年六月二七日法律第九一号" Extract="true" Id="a6627d58-d3b2-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年六月二七日法律第九一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -3811,7 +4142,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501071" AmendLawNum="令和元年一二月一一日法律第七一号" Extract="true">
+    <SupplProvision AmendLawNum="令和元年一二月一一日法律第七一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -3848,6 +4179,49 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月二六日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="42">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="43">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="44">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第四十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この条において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Taisho" Lang="ja" LawType="Act" Num="62" Year="11">
+<Law Era="Taisho" Lang="ja" LawType="Act" Num="62" Year="11" PromulgateMonth="04" PromulgateDay="21">
   <LawNum>大正十一年法律第六十二号</LawNum>
   <LawBody>
-    <LawTitle>公益信託ニ関スル法律</LawTitle>
+    <LawTitle Kana="こうえきしんたくにかんするほうりつ" Abbrev="" AbbrevKana="">公益信託ニ関スル法律</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -21,8 +21,8 @@
             <Sentence WritingMode="vertical">信託法第二百五十八条第一項ニ規定スル受益者ノ定ナキ信託ノ内学術、技芸、慈善、祭祀、宗教其ノ他公益ヲ目的トスルモノニ付テハ受託者ニ於テ主務官庁ノ許可ヲ受クルニ非ザレバ其ノ効力ヲ生ゼズ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公益信託ノ存続期間ニ付テハ信託法第二百五十九条ノ規定ハ之ヲ適用セズ</Sentence>
           </ParagraphSentence>
@@ -45,8 +45,8 @@
             <Sentence WritingMode="vertical">主務官庁ハ何時ニテモ公益信託事務ノ処理ニ付検査ヲ為シ且財産ノ供託其ノ他必要ナル処分ヲ命スルコトヲ得</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公益信託ノ受託者ハ毎年一回一定ノ時期ニ於テ信託事務及財産ノ状況ヲ公告スルコトヲ要ス</Sentence>
           </ParagraphSentence>
@@ -60,8 +60,8 @@
             <Sentence WritingMode="vertical">公益信託ニ付信託行為ノ当時予見スルコトヲ得サリシ特別ノ事情ヲ生シタルトキハ主務官庁ハ信託ノ本旨ニ反セサル限リ信託ノ変更ヲ命ズルコトヲ得</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">公益信託ニ付テハ信託法第百五十条ノ規定ハ之ヲ適用セズ</Sentence>
           </ParagraphSentence>
@@ -150,14 +150,14 @@
             <Sentence WritingMode="vertical">本法ニ規定スル主務官庁ノ権限ニ属スル事務ハ政令ノ定ムル所ニ依リ都道府県ノ知事其ノ他ノ執行機関ニ於テ其ノ全部又ハ一部ヲ処理スルコトトスルコトヲ得</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項ノ場合ニ於テハ主務官庁ハ都道府県ノ執行機関ガ其ノ事務ヲ処理スルニ当リテ依ルベキ基準ヲ定ムルコトヲ得</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">主務官庁ガ前項ノ基準ヲ定メタルトキハ之ヲ告示スルコトヲ要ス</Sentence>
           </ParagraphSentence>
@@ -200,7 +200,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="322223" AmendLawNum="昭和二二年一二月二二日法律第二二三号" Extract="true" Id="631ce7b2-1b99-4a9b-aa91-7a9e79a40af5">
+    <SupplProvision AmendLawNum="昭和二二年一二月二二日法律第二二三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="29">
         <ArticleTitle>第二十九条</ArticleTitle>
@@ -221,7 +221,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="354005" AmendLawNum="昭和五四年三月三〇日法律第五号" Extract="true" Id="2b704696-d3b9-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五四年三月三〇日法律第五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -244,7 +244,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="401091" AmendLawNum="平成元年一二月二二日法律第九一号" Extract="true" Id="3da1a4c0-47dd-11e5-8845-1714aa3535e1">
+    <SupplProvision AmendLawNum="平成元年一二月二二日法律第九一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -257,7 +257,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="403079" AmendLawNum="平成三年五月二一日法律第七九号" Extract="true" Id="65e1b6ca-d3c3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成三年五月二一日法律第七九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -298,7 +298,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411087" AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true" Id="8a6950aa-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -405,7 +405,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411151" AmendLawNum="平成一一年一二月八日法律第一五一号" Extract="true" Id="8a6b58dc-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月八日法律第一五一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -434,7 +434,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="413129" AmendLawNum="平成一三年一一月二八日法律第一二九号" Extract="true" Id="916d6342-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年一一月二八日法律第一二九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -444,7 +444,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416076" AmendLawNum="平成一六年六月二日法律第七六号" Extract="true" Id="ecbc3a7c-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月二日法律第七六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -467,7 +467,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416088" AmendLawNum="平成一六年六月九日法律第八八号" Extract="true" Id="475e5bbe-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月九日法律第八八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -491,7 +491,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416165" AmendLawNum="平成一六年一二月一〇日法律第一六五号" Extract="true" Id="47609212-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年一二月一〇日法律第一六五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -505,7 +505,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418109" AmendLawNum="平成一八年一二月一五日法律第一〇九号" Extract="true" Id="ecc44794-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年一二月一五日法律第一〇九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>

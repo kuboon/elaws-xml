@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="109" Year="13">
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="109" Year="13" PromulgateMonth="07" PromulgateDay="24">
   <LawNum>平成十三年総務省令第百九号</LawNum>
   <LawBody>
-    <LawTitle>地方財政法第三十三条の五の二第一項の額の算定方法を定める省令</LawTitle>
+    <LawTitle Kana="ちほうざいせいほうだいさんじゅうさんじょうのごのにだいいっこうのがくのさんていほうほうをさだめるしょうれい" Abbrev="地財法第三十三条の五の二第一項の額の算定方法を定める省令" AbbrevKana="ち">地方財政法第三十三条の五の二第一項の額の算定方法を定める省令</LawTitle>
     <EnactStatement>地方財政法（昭和二十三年法律第百九号）第三十三条の五の二第一項の規定に基づき、地方財政法第三十三条の五の二第一項の額の算定方法を定める省令を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -303,7 +303,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414084" AmendLawNum="平成一四年七月二六日総務省令第八四号" Id="c5ff0d82-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年七月二六日総務省令第八四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -312,7 +312,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="415030" AmendLawNum="平成一五年二月五日総務省令第三〇号" Id="c6018526-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年二月五日総務省令第三〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -322,7 +322,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="415104" AmendLawNum="平成一五年七月二五日総務省令第一〇四号" Id="c60323b8-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年七月二五日総務省令第一〇四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -331,7 +331,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416110" AmendLawNum="平成一六年七月二七日総務省令第一一〇号" Id="c604c876-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年七月二七日総務省令第一一〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -340,7 +340,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417115" AmendLawNum="平成一七年七月二六日総務省令第一一五号" Id="c60663c0-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年七月二六日総務省令第一一五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -349,7 +349,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418102" AmendLawNum="平成一八年七月二五日総務省令第一〇二号" Id="c607ff00-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年七月二五日総務省令第一〇二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -358,7 +358,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="419087" AmendLawNum="平成一九年七月三一日総務省令第八七号" Id="c609a616-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年七月三一日総務省令第八七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -367,7 +367,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="420073" AmendLawNum="平成二〇年六月一七日総務省令第七三号" Id="c60b44c6-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年六月一七日総務省令第七三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -376,7 +376,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="420091" AmendLawNum="平成二〇年八月一五日総務省令第九一号" Id="c60ced4e-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年八月一五日総務省令第九一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -385,7 +385,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="421037" AmendLawNum="平成二一年三月三一日総務省令第三七号" Id="c60e9f4a-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二一年三月三一日総務省令第三七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -394,7 +394,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="421080" AmendLawNum="平成二一年七月二八日総務省令第八〇号" Id="c6104584-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二一年七月二八日総務省令第八〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -403,7 +403,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="422030" AmendLawNum="平成二二年三月三一日総務省令第三〇号" Id="c611e0ba-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二二年三月三一日総務省令第三〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -412,7 +412,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="422079" AmendLawNum="平成二二年七月二三日総務省令第七九号" Id="c61382ee-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二二年七月二三日総務省令第七九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -421,7 +421,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="422107" AmendLawNum="平成二二年一二月七日総務省令第一〇七号" Id="c615c2ca-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二二年一二月七日総務省令第一〇七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -430,7 +430,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423034" AmendLawNum="平成二三年三月三一日総務省令第三四号" Id="c6176698-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年三月三一日総務省令第三四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -439,7 +439,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423116" AmendLawNum="平成二三年八月五日総務省令第一一六号" Id="c6190d5e-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年八月五日総務省令第一一六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -448,7 +448,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423144" AmendLawNum="平成二三年一〇月二六日総務省令第一四四号" Id="c61abe74-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年一〇月二六日総務省令第一四四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -457,7 +457,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="424029" AmendLawNum="平成二四年三月三一日総務省令第二九号" Extract="true" Id="c61c5d1a-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年三月三一日総務省令第二九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -470,7 +470,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424073" AmendLawNum="平成二四年七月二四日総務省令第七三号" Id="c61e0f7a-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年七月二四日総務省令第七三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -479,7 +479,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="425074" AmendLawNum="平成二五年七月二三日総務省令第七四号" Id="c61fcf5e-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二五年七月二三日総務省令第七四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -488,7 +488,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="426065" AmendLawNum="平成二六年七月二五日総務省令第六五号" Id="c6217278-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年七月二五日総務省令第六五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -497,7 +497,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427066" AmendLawNum="平成二七年七月二四日総務省令第六六号" Id="c62314e8-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年七月二四日総務省令第六六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -506,7 +506,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428076" AmendLawNum="平成二八年七月二六日総務省令第七六号" Id="c624bafa-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二八年七月二六日総務省令第七六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -515,7 +515,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="429054" AmendLawNum="平成二九年七月二五日総務省令第五四号" Id="69582a37-f7dc-46b0-a520-64205cad70ff">
+    <SupplProvision AmendLawNum="平成二九年七月二五日総務省令第五四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -524,7 +524,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="430048" AmendLawNum="平成三〇年七月二四日総務省令第四八号" Id="aeff1a1d-2e2c-4ff7-b90b-c651e02a04c4">
+    <SupplProvision AmendLawNum="平成三〇年七月二四日総務省令第四八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Meiji" Lang="ja" LawType="Act" Num="15" Year="32">
+<Law Era="Meiji" Lang="ja" LawType="Act" Num="15" Year="32" PromulgateMonth="06" PromulgateDay="13">
   <LawNum>明治三十二年法律第十五号</LawNum>
   <LawBody>
-    <LawTitle>供託法</LawTitle>
+    <LawTitle Kana="きょうたくほう" Abbrev="" AbbrevKana="">供託法</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -57,8 +57,8 @@
             <Sentence WritingMode="vertical">供託官ハ処分ニ付テノ審査請求ヲ理由アリト認ムルトキ又ハ審査請求ニ係ル不作為ニ係ル処分ヲ為スベキモノト認ムルトキハ相当ノ処分ヲ為シテ其旨ヲ審査請求人ニ通知スルコトヲ要ス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">供託官ハ前項ニ規定スル場合ヲ除クノ外意見ヲ付シ審査請求アリタル日ヨリ五日内ニ之ヲ監督法務局又ハ地方法務局ノ長ニ送付スルコトヲ要ス此ノ場合ニ於テ監督法務局又ハ地方法務局ノ長ハ当該意見ヲ行政不服審査法（平成二十六年法律第六十八号）第十一条第二項ニ規定スル審理員ニ送付スルモノトス</Sentence>
           </ParagraphSentence>
@@ -72,8 +72,8 @@
             <Sentence WritingMode="vertical">法務局又ハ地方法務局ノ長ハ処分ニ付テノ審査請求ヲ理由アリト認ムルトキ又ハ審査請求ニ係ル不作為ニ係ル処分ヲ為スベキモノト認ムルトキハ供託官ニ相当ノ処分ヲ命スルコトヲ要ス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法務局又ハ地方法務局ノ長ハ審査請求ニ係ル不作為ニ係ル処分ノ申請ヲ却下スベキモノト認ムルトキハ供託官ニ当該申請ヲ却下スル処分ヲ命ズルコトヲ要ス</Sentence>
           </ParagraphSentence>
@@ -132,8 +132,8 @@
             <Sentence WritingMode="vertical">法務大臣ハ法令ノ規定ニ依リテ供託スル金銭又ハ有価証券ニ非サル物品ヲ保管スヘキ倉庫営業者又ハ銀行ヲ指定スルコトヲ得</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">倉庫営業者又ハ銀行ハ其営業ノ部類ニ属スル物ニシテ其保管シ得ヘキ数量ニ限リ之ヲ保管スル義務ヲ負フ</Sentence>
           </ParagraphSentence>
@@ -165,8 +165,8 @@
             <Sentence WritingMode="vertical">供託物ノ還付ヲ請求スル者ハ法務大臣ノ定ムル所ニ依リ其権利ヲ証明スルコトヲ要ス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">供託者ハ民法第四百九十六条ノ規定ニ依レルコト、供託カ錯誤ニ出テシコト又ハ其原因カ消滅シタルコトヲ証明スルニ非サレハ供託物ヲ取戻スコトヲ得ス</Sentence>
           </ParagraphSentence>
@@ -239,28 +239,28 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="210069" AmendLawNum="大正一〇年四月一二日法律第六九号" Id="e87cca0e-1eee-4726-8312-1a33f85f39f0">
+    <SupplProvision AmendLawNum="大正一〇年四月一二日法律第六九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
-        <ParagraphNum>○１</ParagraphNum>
+      <Paragraph Hide="false" Num="1" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">本法施行ノ期日ハ勅令ヲ以テ之ヲ定ム</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2" OldStyle="false">
-        <ParagraphNum>○２</ParagraphNum>
+      <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">本法施行前為シタル供託ニ関シ必要ナル規定ハ勅令ヲ以テ之ヲ定ム</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3" OldStyle="false">
-        <ParagraphNum>○３</ParagraphNum>
+      <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">供託所所在地外ニ於テハ法務総裁ハ当分ノ内其ノ適当ト認ムル銀行ヲシテ第一条ノ規定ニ依ル供託事務ヲ取扱ハシムルコトヲ得</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="322195" AmendLawNum="昭和二二年一二月一七日法律第一九五号" Extract="true" Id="558b80ed-a3b8-4137-a19a-f2a5fab6ab5e">
+    <SupplProvision AmendLawNum="昭和二二年一二月一七日法律第一九五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="17">
         <ArticleTitle>第十七条</ArticleTitle>
@@ -272,7 +272,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="324137" AmendLawNum="昭和二四年五月三一日法律第一三七号" Extract="true" Id="3c603a04-d3ca-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二四年五月三一日法律第一三七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -287,7 +287,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="327268" AmendLawNum="昭和二七年七月三一日法律第二六八号" Extract="true" Id="90b3f1d4-c913-4d4f-9318-14b400ad37eb">
+    <SupplProvision AmendLawNum="昭和二七年七月三一日法律第二六八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -296,7 +296,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="337161" AmendLawNum="昭和三七年九月一五日法律第一六一号" Extract="true" Id="4d6c2670-d3be-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三七年九月一五日法律第一六一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -349,7 +349,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="338126" AmendLawNum="昭和三八年七月九日法律第一二六号" Extract="true" Id="406bc01e-47dd-11e5-89d3-cb4064af503d">
+    <SupplProvision AmendLawNum="昭和三八年七月九日法律第一二六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -358,7 +358,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="356094" AmendLawNum="昭和五六年一二月四日法律第九四号" Id="9641ace5-157f-4a27-87ff-adf9434753c5">
+    <SupplProvision AmendLawNum="昭和五六年一二月四日法律第九四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -367,7 +367,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="360005" AmendLawNum="昭和六〇年三月三〇日法律第五号" Id="16162050-69af-4fac-8748-aea9dc0ec399">
+    <SupplProvision AmendLawNum="昭和六〇年三月三〇日法律第五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -376,7 +376,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="405089" AmendLawNum="平成五年一一月一二日法律第八九号" Extract="true" Id="ca5fc5b8-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成五年一一月一二日法律第八九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -389,7 +389,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -414,7 +414,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416084" AmendLawNum="平成一六年六月九日法律第八四号" Extract="true" Id="cb93913a-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月九日法律第八四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -427,7 +427,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426069" AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true" Id="089695bd-1a35-40ad-aae2-abd96d597d6c">
+    <SupplProvision AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="430AC0000000007" AmendmentNum="平成三十年法律第七号" Era="Heisei" Lang="ja" LawType="Act" Num="117" Year="23">
+<Law AmendmentId="430AC0000000007" AmendmentNum="平成三十年法律第七号" Era="Heisei" Lang="ja" LawType="Act" Num="117" Year="23" PromulgateMonth="03" PromulgateDay="31">
   <LawNum>平成二十三年法律第百十七号</LawNum>
   <LawBody>
-    <LawTitle>東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法</LawTitle>
+    <LawTitle Kana="ひがしにほんだいしんさいからのふっこうのためのしさくをじっしするためにひつようなざいげんのかくほにかんするとくべつそちほう" Abbrev="復興財源確保法" AbbrevKana="ふ">東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -519,7 +519,7 @@
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>租税特別措置法第三条の三第二項に規定する国外公社債等の利子等、同法第六条第一項に規定する民間国外債の利子、同条第十一項に規定する外貨債の利子、同法第八条の三第二項に規定する国外投資信託等の配当等、同法第九条の二第一項に規定する国外株式の配当等、同法第四十一条の九第二項に規定する懸賞金付預貯金等の懸賞金等、同法第四十一条の十二第二項に規定する償還差益及び同法第四十一条の十二の二第一項に規定する差益金額</Sentence>
+                    <Sentence>租税特別措置法第三条の三第二項に規定する国外公社債等の利子等、同法第六条第一項に規定する民間国外債の利子、同条第十三項に規定する外貨債の利子、同法第八条の三第二項に規定する国外投資信託等の配当等、同法第九条の二第一項に規定する国外株式の配当等、同法第四十一条の九第二項に規定する懸賞金付預貯金等の懸賞金等、同法第四十一条の十二第二項に規定する償還差益及び同法第四十一条の十二の二第一項に規定する差益金額</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -686,8 +686,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>第一項の規定による復興特別所得税及び所得税の納付があった場合においては、その納付額を同項の規定により併せて納付すべき復興特別所得税の額及び所得税の額に<Ruby>按<Rt>あん</Rt>
-</Ruby>分した額に相当する復興特別所得税及び所得税の納付があったものとする。</Sentence>
+                <Sentence>第一項の規定による復興特別所得税及び所得税の納付があった場合においては、その納付額を同項の規定により併せて納付すべき復興特別所得税の額及び所得税の額に<Ruby>按<Rt>あん</Rt></Ruby>分した額に相当する復興特別所得税及び所得税の納付があったものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
@@ -720,29 +719,17 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence>その年分の所得税法第百二十条第一項第五号に規定する源泉徴収税額に併せて源泉徴収をされた、又はされるべき復興特別所得税の額（当該復興特別所得税の額のうちに、出国申告書（同法第百二十七条第一項から第三項までの規定による確定申告書に併せて提出する復興特別所得税申告書をいう。以下この項及び第四項において同じ。）を提出したことにより、又は出国申告書に係る復興特別所得税につき更正若しくは決定を受けたことにより還付される金額その他政令で定める金額がある場合には、当該金額を控除した金額。以下この項において「源泉徴収特別税額」という。）がある場合には、前号に掲げる復興特別所得税の額からその源泉徴収特別税額を控除した金額</Sentence>
+                  <Sentence>その年分の所得税法第百二十条第一項第四号に規定する源泉徴収税額に併せて源泉徴収をされた、又はされるべき復興特別所得税の額（当該復興特別所得税の額のうちに、出国申告書（同法第百二十七条第一項から第三項までの規定による確定申告書に併せて提出する復興特別所得税申告書をいう。以下この項及び第四項において同じ。）を提出したことにより、又は出国申告書に係る復興特別所得税につき更正を受けたことにより還付される金額その他政令で定める金額がある場合には、当該金額を控除した金額。以下この号及び次号並びに次項第一号において「源泉徴収特別税額」という。）がある場合には、前号に掲げる復興特別所得税の額からその源泉徴収特別税額を控除した金額</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>前号に掲げる金額の計算上控除しきれなかった源泉徴収特別税額がある場合には、その控除しきれなかった金額</Sentence>
+                  <Sentence>その年分の予納特別税額がある場合には、第二号に掲げる復興特別所得税の額（源泉徴収特別税額がある場合には、前号に掲げる金額）から当該予納特別税額を控除した金額</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
-                <ItemSentence>
-                  <Sentence>その年分の予納特別税額がある場合には、第二号に掲げる復興特別所得税の額（源泉徴収特別税額がある場合には、第三号に掲げる金額）から当該予納特別税額を控除した金額</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="6">
-                <ItemTitle>六</ItemTitle>
-                <ItemSentence>
-                  <Sentence>前号に掲げる金額の計算上控除しきれなかった予納特別税額がある場合には、その控除しきれなかった金額</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="7">
-                <ItemTitle>七</ItemTitle>
                 <ItemSentence>
                   <Sentence>前各号に掲げる金額の計算の基礎その他財務省令で定める事項</Sentence>
                 </ItemSentence>
@@ -751,8 +738,26 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>確定申告書（前項に規定する確定申告書を除く。）を提出する者は、同項各号に掲げる事項を記載した申告書を、税務署長に提出しなければならない。</Sentence>
+                <Sentence>確定申告書（前項に規定する確定申告書を除く。）を提出する者は、同項各号に掲げる事項のほか、次に掲げる事項を記載した申告書を、税務署長に提出しなければならない。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>前項第三号に掲げる金額の計算上控除しきれなかった源泉徴収特別税額がある場合には、その控除しきれなかった金額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>前項第四号に掲げる金額の計算上控除しきれなかった予納特別税額がある場合には、その控除しきれなかった金額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>前二号に掲げる金額の計算の基礎その他財務省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
@@ -763,7 +768,7 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>第一項第五号及び第六号に規定する予納特別税額とは、次に掲げる税額の合計額（当該税額のうちに、出国申告書を提出したことにより、又は出国申告書に係る復興特別所得税につき更正若しくは決定を受けたことにより還付される金額がある場合には、当該金額を控除した金額）をいう。</Sentence>
+                <Sentence>第一項第四号及び第二項第二号に規定する予納特別税額とは、次に掲げる税額の合計額（当該税額のうちに、出国申告書を提出したことにより、又は出国申告書に係る復興特別所得税につき更正を受けたことにより還付される金額がある場合には、当該金額を控除した金額）をいう。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -875,7 +880,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>前条第一項の規定による復興特別所得税申告書を提出した者は、当該復興特別所得税申告書に記載した同項第二号に掲げる金額（同項第三号に規定する源泉徴収特別税額があり、かつ、同項第五号に規定する予納特別税額がない場合には、同項第三号に掲げる金額とし、同項第五号に規定する予納特別税額がある場合には、同号に掲げる金額とする。）があるときは、当該金額に相当する復興特別所得税を当該復興特別所得税申告書の提出期限までに、国に納付しなければならない。</Sentence>
+                <Sentence>前条第一項の規定による復興特別所得税申告書を提出した者は、当該復興特別所得税申告書に記載した同項第二号に掲げる金額（同項第三号に規定する源泉徴収特別税額があり、かつ、同項第四号に規定する予納特別税額がない場合には、同項第三号に掲げる金額とし、同項第四号に規定する予納特別税額がある場合には、同号に掲げる金額とする。）があるときは、当該金額に相当する復興特別所得税を当該復興特別所得税申告書の提出期限までに、国に納付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -973,19 +978,19 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>復興特別所得税申告書の提出があった場合において、当該復興特別所得税申告書に第十七条第一項第四号に掲げる金額の記載があるときは、税務署長は、当該復興特別所得税申告書を提出した者に対し、当該金額に相当する復興特別所得税を還付する。</Sentence>
+                <Sentence>復興特別所得税申告書の提出があった場合において、当該復興特別所得税申告書に第十七条第二項第一号に掲げる金額の記載があるときは、税務署長は、当該復興特別所得税申告書を提出した者に対し、当該金額に相当する復興特別所得税を還付する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>前項の場合において、同項の復興特別所得税申告書に記載された第十七条第一項第四号に規定する源泉徴収特別税額のうちにまだ納付されていないものがあるときは、前項の規定による還付金の額のうちその納付されていない部分の金額に相当する金額については、その納付があるまでは、還付しない。</Sentence>
+                <Sentence>前項の場合において、同項の復興特別所得税申告書に記載された第十七条第二項第一号に規定する源泉徴収特別税額のうちにまだ納付されていないものがあるときは、前項の規定による還付金の額のうちその納付されていない部分の金額に相当する金額については、その納付があるまでは、還付しない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>復興特別所得税申告書の提出があった場合において、当該復興特別所得税申告書に第十七条第一項第六号に掲げる金額の記載があるときは、税務署長は、当該復興特別所得税申告書を提出した者に対し、当該金額に相当する同号に規定する予納特別税額（次項において「予納特別税額」という。）を還付する。</Sentence>
+                <Sentence>復興特別所得税申告書の提出があった場合において、当該復興特別所得税申告書に第十七条第二項第二号に掲げる金額の記載があるときは、税務署長は、当該復興特別所得税申告書を提出した者に対し、当該金額に相当する同号に規定する予納特別税額（次項において「予納特別税額」という。）を還付する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
@@ -1117,18 +1122,18 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>所得税法第百五十三条（同法第百六十七条において準用する場合を含む。）の規定は、個人が次に掲げる金額につき修正申告書を提出し、又は更正若しくは決定を受けた場合において、その修正申告書の提出又は更正若しくは決定に伴い、その修正申告書又は更正若しくは決定に係る年分の翌年分以後の各年分で決定を受けた年分に係る第十七条第一項第二号、第三号若しくは第五号に掲げる金額（当該金額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の金額）が過大となるとき、又は同項第四号若しくは第六号に掲げる金額（当該金額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の金額）が過少となるときについて準用する。</Sentence>
+                <Sentence>所得税法第百五十三条（同法第百六十七条において準用する場合を含む。）の規定は、個人が次に掲げる金額につき修正申告書を提出し、又は更正若しくは決定を受けた場合において、その修正申告書の提出又は更正若しくは決定に伴い、その修正申告書又は更正若しくは決定に係る年分の翌年分以後の各年分で決定を受けた年分に係る第十七条第一項第二号から第四号までに掲げる金額（当該金額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の金額）が過大となるとき、又は同条第二項第一号若しくは第二号に掲げる金額（当該金額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の金額）が過少となるときについて準用する。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence>確定申告書に記載すべき所得税法第百二十条第一項第一号若しくは第三号から第八号まで又は第百二十三条第二項第一号若しくは第五号から第八号まで（これらの規定を同法第百六十六条において準用する場合を含む。）に掲げる金額</Sentence>
+                  <Sentence>確定申告書に記載すべき所得税法第百二十条第一項第一号若しくは第三号から第五号まで、第百二十二条第一項第一号から第三号まで又は第百二十三条第二項第一号若しくは第五号から第八号まで（これらの規定を同法第百六十六条において準用する場合を含む。）に掲げる金額</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>復興特別所得税申告書に記載すべき第十七条第一項第一号から第六号までに掲げる金額</Sentence>
+                  <Sentence>復興特別所得税申告書に記載すべき第十七条第一項第一号から第四号まで又は第二項第一号若しくは第二号に掲げる金額</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -1140,13 +1145,13 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence>第十七条第一項第二号、第三号又は第五号に掲げる金額（当該金額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の金額）が過大となる場合</Sentence>
+                  <Sentence>第十七条第一項第二号から第四号までに掲げる金額（当該金額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の金額）が過大となる場合</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>第十七条第一項第四号又は第六号に掲げる金額（当該金額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の金額）が過少となる場合</Sentence>
+                  <Sentence>第十七条第二項第一号又は第二号に掲げる金額（当該金額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の金額）が過少となる場合</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -1192,66 +1197,54 @@
             </Paragraph>
           </Article>
           <Article Num="23">
-            <ArticleCaption>（更正等又は決定による源泉徴収特別税額等の還付等）</ArticleCaption>
+            <ArticleCaption>（更正等による源泉徴収特別税額等の還付等）</ArticleCaption>
             <ArticleTitle>第二十三条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>個人の各年分の復興特別所得税につき国税通則法第二十五条の規定による決定があった場合において、その決定に係る第十七条第一項第四号に掲げる金額があるときは、税務署長は、その個人に対し、当該金額に相当する復興特別所得税を還付する。</Sentence>
+                <Sentence>個人の各年分の復興特別所得税につき更正（当該復興特別所得税についての処分等（更正の請求に対する処分又は国税通則法第二十五条の規定による決定をいう。）に係る不服申立て又は訴えについての決定若しくは裁決又は判決を含む。以下この項及び第三項において「更正等」という。）があった場合において、その更正等により第十七条第二項第一号に掲げる金額が増加したときは、税務署長は、その個人に対し、その増加した部分の金額に相当する復興特別所得税を還付する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>個人の各年分の復興特別所得税につき更正（当該復興特別所得税についての処分等（更正の請求に対する処分又は国税通則法第二十五条の規定による決定をいう。）に係る不服申立て又は訴えについての決定若しくは裁決又は判決を含む。以下この項及び第五項において「更正等」という。）があった場合において、その更正等により第十七条第一項第四号に掲げる金額が増加したときは、税務署長は、その個人に対し、その増加した部分の金額に相当する復興特別所得税を還付する。</Sentence>
+                <Sentence>前項の場合において、同項の規定による還付金の額の計算の基礎となった第十七条第二項第一号に規定する源泉徴収特別税額のうちにまだ納付されていないものがあるときは、前項の規定による還付金の額のうちその納付されていない部分の金額に相当する金額については、その納付があるまでは、還付しない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>前二項の場合において、これらの規定による還付金の額の計算の基礎となった第十七条第一項第四号に規定する源泉徴収特別税額のうちにまだ納付されていないものがあるときは、前二項の規定による還付金の額のうちその納付されていない部分の金額に相当する金額については、その納付があるまでは、還付しない。</Sentence>
+                <Sentence>個人の各年分の復興特別所得税につき更正等があった場合において、その更正等により第十七条第二項第二号に掲げる金額が増加したときは、税務署長は、その個人に対し、その増加した部分の金額に相当する同号に規定する予納特別税額（次項において「予納特別税額」という。）を還付する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>個人の各年分の復興特別所得税につき国税通則法第二十五条の規定による決定があった場合において、その決定に係る第十七条第一項第六号に掲げる金額があるときは、税務署長は、その個人に対し、当該金額に相当する同号に規定する予納特別税額（次項及び第六項において「予納特別税額」という。）を還付する。</Sentence>
+                <Sentence>税務署長は、前項の規定による還付金の還付をする場合において、同項に規定する年分の予納特別税額について納付された延滞税があるときは、その額のうち、同項の規定により還付される予納特別税額に対応するものとして政令で定めるところにより計算した金額を併せて還付する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>個人の各年分の復興特別所得税につき更正等があった場合において、その更正等により第十七条第一項第六号に掲げる金額が増加したときは、税務署長は、その個人に対し、その増加した部分の金額に相当する予納特別税額を還付する。</Sentence>
+                <Sentence>前各項（第二項を除く。）の規定により復興特別所得税を還付する場合において、所得税法第百五十九条又は第百六十条（これらの規定を同法第百六十八条において準用する場合を含む。）の規定により還付する年分が同一である所得税があるときは、当該復興特別所得税は、当該所得税に併せて還付するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>税務署長は、前二項の規定による還付金の還付をする場合において、これらの規定に規定する年分の予納特別税額について納付された延滞税があるときは、その額のうち、これらの規定により還付される予納特別税額に対応するものとして政令で定めるところにより計算した金額を併せて還付する。</Sentence>
+                <Sentence>前項の規定による復興特別所得税及び所得税の還付があった場合においては、その還付額を同項の規定により併せて還付する復興特別所得税の額及び所得税の額に按分した額に相当する復興特別所得税及び所得税の還付があったものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="7">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>前各項（第三項を除く。）の規定により復興特別所得税を還付する場合において、所得税法第百五十九条又は第百六十条（これらの規定を同法第百六十八条において準用する場合を含む。）の規定により還付する年分が同一である所得税があるときは、当該復興特別所得税は、当該所得税に併せて還付するものとする。</Sentence>
+                <Sentence>所得税法第百五十九条第三項及び第四項並びに第百六十条第三項から第五項まで（これらの規定を同法第百六十八条において準用する場合を含む。）の規定は、第一項から第五項までの規定により還付する復興特別所得税について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="8">
               <ParagraphNum>８</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>前項の規定による復興特別所得税及び所得税の還付があった場合においては、その還付額を同項の規定により併せて還付する復興特別所得税の額及び所得税の額に按分した額に相当する復興特別所得税及び所得税の還付があったものとする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="9">
-              <ParagraphNum>９</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence>所得税法第百五十九条第四項及び第五項並びに第百六十条第四項から第六項まで（これらの規定を同法第百六十八条において準用する場合を含む。）の規定は、第一項から第七項までの規定により還付する復興特別所得税について準用する。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="10">
-              <ParagraphNum>１０</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence>第八項の規定により還付があったものとされた額に一円未満の端数がある場合のその処理の方法その他前各項の規定の適用に関し必要な事項は、政令で定める。</Sentence>
+                <Sentence>第六項の規定により還付があったものとされた額に一円未満の端数がある場合のその処理の方法その他前各項の規定の適用に関し必要な事項は、政令で定める。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1355,7 +1348,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>所得税法第四編第一章から第六章まで並びに租税特別措置法第三条の三第三項、第六条第二項（同条第十一項において準用する場合を含む。）、第八条の三第三項、第九条の二第二項、第九条の三の二第一項、第三十七条の十一の四第一項、第三十七条の十四の二第八項、第四十一条の九第三項、第四十一条の十二第三項、第四十一条の十二の二第二項から第四項まで及び第四十一条の二十二第一項の規定により所得税を徴収して納付すべき者は、その徴収（平成二十五年一月一日から令和十九年十二月三十一日までの間に行うべきものに限る。）の際、復興特別所得税を併せて徴収し、当該所得税の法定納期限（国税通則法第二条第八号に規定する法定納期限をいう。第三十条第一項において同じ。）までに、当該復興特別所得税を当該所得税に併せて国に納付しなければならない。</Sentence>
+                <Sentence>所得税法第四編第一章から第六章まで並びに租税特別措置法第三条の三第三項、第六条第二項（同条第十三項において準用する場合を含む。）、第八条の三第三項、第九条の二第二項、第九条の三の二第一項、第三十七条の十一の四第一項、第三十七条の十四の二第八項、第四十一条の九第三項、第四十一条の十二第三項、第四十一条の十二の二第二項から第四項まで及び第四十一条の二十二第一項の規定により所得税を徴収して納付すべき者は、その徴収（平成二十五年一月一日から令和十九年十二月三十一日までの間に行うべきものに限る。）の際、復興特別所得税を併せて徴収し、当該所得税の法定納期限（国税通則法第二条第八号に規定する法定納期限をいう。第三十条第一項において同じ。）までに、当該復興特別所得税を当該所得税に併せて国に納付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -1664,7 +1657,7 @@
                       <Sentence>掲げる金額につき</Sentence>
                     </TableColumn>
                     <TableColumn Valign="top">
-                      <Sentence>掲げる金額又は東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法第六条第八号（定義）に規定する復興特別所得税申告書に記載すべき同法第十七条第一項第一号から第六号まで（課税標準及び税額の申告）に掲げる金額につき</Sentence>
+                      <Sentence>掲げる金額又は東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法第六条第八号（定義）に規定する復興特別所得税申告書に記載すべき同法第十七条第一項第一号から第四号まで若しくは第二項第一号若しくは第二号（課税標準及び税額の申告）に掲げる金額につき</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -3301,7 +3294,7 @@
             <Paragraph Num="7">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1">外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律第三十二条第五項の規定は、居住者又は非居住者である外国居住者等が第二十一条第二項各号に掲げる金額につき同法第三十二条第二項又は第三項（これらの規定を前項において準用する場合を含む。）において準用する租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律（以下この条及び第六十三条において「租税条約等実施特例法」という。）第七条第一項又は第二項の更正を受けた場合において、その更正に伴い、その更正に係る年分の翌年分以後の各年分の復興特別所得税申告書に記載した、若しくは決定を受けた年分に係る第十七条第一項第二号、第三号若しくは第五号に掲げる金額（当該金額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の金額）が過大となるとき、又は復興特別所得税申告書に記載した、若しくは決定を受けた年分に係る同項第四号若しくは第六号に掲げる金額（当該金額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の金額）が過少となるときのその更正を受けた居住者又は非居住者である外国居住者等について準用する。</Sentence>
+                <Sentence Num="1">外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律第三十二条第五項の規定は、居住者又は非居住者である外国居住者等が第二十一条第二項各号に掲げる金額につき同法第三十二条第二項又は第三項（これらの規定を前項において準用する場合を含む。）において準用する租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律（以下この条及び第六十三条において「租税条約等実施特例法」という。）第七条第一項又は第二項の更正を受けた場合において、その更正に伴い、その更正に係る年分の翌年分以後の各年分の復興特別所得税申告書に記載した、若しくは決定を受けた年分に係る第十七条第一項第二号から第四号までに掲げる金額（当該金額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の金額）が過大となるとき、又は復興特別所得税申告書に記載した、若しくは決定を受けた年分に係る同条第二項第一号若しくは第二号に掲げる金額（当該金額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の金額）が過少となるときのその更正を受けた居住者又は非居住者である外国居住者等について準用する。</Sentence>
                 <Sentence Num="2">この場合において、外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律第三十二条第五項中「所得税法第百五十三条の項及び」とあるのは、「所得税法第百五十三条の項中「租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律」とあるのは「外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律第三十二条第二項又は第三項（国税庁長官の確認があつた場合の更正の請求の特例等）（これらの規定を東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法第三十三条第七項（復興特別所得税に係る所得税法の適用の特例等）において準用する場合を含む。）において準用する租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律」と、同表」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -3368,7 +3361,7 @@
             <Paragraph Num="11">
               <ParagraphNum>１１</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1">租税条約等実施特例法第七条第四項の規定は、居住者又は相手国居住者等が第二十一条第二項各号に掲げる金額につき租税条約等実施特例法第七条第一項又は第二項（これらの規定を前項において準用する場合を含む。）の更正を受けた場合において、その更正に伴い、その更正に係る年分の翌年分以後の各年分の復興特別所得税申告書に記載した、若しくは決定を受けた年分に係る第十七条第一項第二号、第三号若しくは第五号に掲げる金額（当該金額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の金額）が過大となるとき、又は復興特別所得税申告書に記載した、若しくは決定を受けた年分に係る同項第四号若しくは第六号に掲げる金額（当該金額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の金額）が過少となるときのその更正を受けた居住者又は相手国居住者等について準用する。</Sentence>
+                <Sentence Num="1">租税条約等実施特例法第七条第四項の規定は、居住者又は相手国居住者等が第二十一条第二項各号に掲げる金額につき租税条約等実施特例法第七条第一項又は第二項（これらの規定を前項において準用する場合を含む。）の更正を受けた場合において、その更正に伴い、その更正に係る年分の翌年分以後の各年分の復興特別所得税申告書に記載した、若しくは決定を受けた年分に係る第十七条第一項第二号から第四号までに掲げる金額（当該金額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の金額）が過大となるとき、又は復興特別所得税申告書に記載した、若しくは決定を受けた年分に係る同条第二項第一号若しくは第二号に掲げる金額（当該金額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の金額）が過少となるときのその更正を受けた居住者又は相手国居住者等について準用する。</Sentence>
                 <Sentence Num="2">この場合において、租税条約等実施特例法第七条第四項の表所得税法第百五十三条の項中「更正の特例）」とあるのは、「更正の特例）（東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法（平成二十三年法律第百十七号）第三十三条第十項（復興特別所得税に係る所得税法の適用の特例等）において準用する場合を含む。</Sentence>
                 <Sentence Num="3">）」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
@@ -3629,7 +3622,7 @@
                     <Sentence>事業年度</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>法人税法第十三条及び第十四条並びに租税特別措置法第六十六条の十一の二第五項に規定する事業年度をいう。</Sentence>
+                    <Sentence>法人税法第十三条及び第十四条並びに租税特別措置法第六十六条の十一の三第五項に規定する事業年度をいう。</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -4390,12 +4383,11 @@
         <Section Num="5">
           <SectionTitle>第五節　雑則</SectionTitle>
           <Article Num="60">
-            <ArticleCaption>（外国法人の提出する申告書に係る記名押印）</ArticleCaption>
             <ArticleTitle>第六十条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>法人税法第百五十一条の規定は、外国法人が復興特別法人税申告書に係る修正申告書を提出する場合について準用する。</Sentence>
+                <Sentence>削除</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -5274,24 +5266,6 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="3">
-        <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>削除</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="4">
-        <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>削除</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
       <Article Num="12">
         <ArticleCaption>（復興施策に必要な財源の確保等についての見直し）</ArticleCaption>
         <ArticleTitle>第十二条</ArticleTitle>
@@ -5386,7 +5360,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423012" AmendLawNum="平成二三年三月三一日法律第一二号" Extract="true" Id="96c66b87-f360-4246-83cd-0cbf68020a72">
+    <SupplProvision AmendLawNum="平成二三年三月三一日法律第一二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5400,7 +5374,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423114" AmendLawNum="平成二三年一二月二日法律第一一四号" Extract="true" Id="86d7e7cb-8c3c-4029-b7bc-bbc544d420f3">
+    <SupplProvision AmendLawNum="平成二三年一二月二日法律第一一四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5505,7 +5479,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423119" AmendLawNum="平成二三年一二月一四日法律第一一九号" Extract="true" Id="c833054e-0ae8-46d3-8b95-3b9bfb53d3cd">
+    <SupplProvision AmendLawNum="平成二三年一二月一四日法律第一一九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5559,7 +5533,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424016" AmendLawNum="平成二四年三月三一日法律第一六号" Extract="true" Id="31b3d885-5d81-48c4-a869-6b989b4124dc">
+    <SupplProvision AmendLawNum="平成二四年三月三一日法律第一六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5627,7 +5601,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424030" AmendLawNum="平成二四年五月八日法律第三〇号" Extract="true" Id="d7ff7658-099b-42bf-817b-52c50d0c3ddb">
+    <SupplProvision AmendLawNum="平成二四年五月八日法律第三〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5661,7 +5635,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="425005" AmendLawNum="平成二五年三月三〇日法律第五号" Extract="true" Id="5accc8e7-dfa7-43d6-aebe-d3b67f6005e5">
+    <SupplProvision AmendLawNum="平成二五年三月三〇日法律第五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5810,7 +5784,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="425076" AmendLawNum="平成二五年一一月二二日法律第七六号" Extract="true" Id="9a399a92-3b08-4ea4-8e48-27c8ad489c1f">
+    <SupplProvision AmendLawNum="平成二五年一一月二二日法律第七六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5823,7 +5797,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426004" AmendLawNum="平成二六年三月三一日法律第四号" Extract="true" Id="6fdcba88-df17-4b7d-9578-23588c82dba9">
+    <SupplProvision AmendLawNum="平成二六年三月三一日法律第四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -5836,7 +5810,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426010" AmendLawNum="平成二六年三月三一日法律第一〇号" Extract="true" Id="81461446-ffba-4acf-95ae-161651aa3198">
+    <SupplProvision AmendLawNum="平成二六年三月三一日法律第一〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6125,7 +6099,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426069" AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true" Id="089695bd-1a35-40ad-aae2-abd96d597d6c">
+    <SupplProvision AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6190,7 +6164,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="427009" AmendLawNum="平成二七年三月三一日法律第九号" Extract="true" Id="6939dc67-bb4e-45d0-a0d4-eead9f9f8c3d">
+    <SupplProvision AmendLawNum="平成二七年三月三一日法律第九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6323,7 +6297,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="428015" AmendLawNum="平成二八年三月三一日法律第一五号" Extract="true" Id="7c9faef1-5cbf-e19e-9784-baef8a87fe60">
+    <SupplProvision AmendLawNum="平成二八年三月三一日法律第一五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6432,7 +6406,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="428023" AmendLawNum="平成二八年三月三一日法律第二三号" Extract="true" Id="d0f0fb42-2a62-e2c3-dc92-990b2985fce4">
+    <SupplProvision AmendLawNum="平成二八年三月三一日法律第二三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6455,7 +6429,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="428085" AmendLawNum="平成二八年一一月二八日法律第八五号" Extract="true" Id="6b9582e8-a5f0-6a70-eaca-caee0e3fe864">
+    <SupplProvision AmendLawNum="平成二八年一一月二八日法律第八五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6468,7 +6442,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="429004" AmendLawNum="平成二九年三月三一日法律第四号" Extract="true" Id="af9825fc-19f7-11e7-bb35-005056b30d52">
+    <SupplProvision AmendLawNum="平成二九年三月三一日法律第四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6531,7 +6505,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430007" AmendLawNum="平成三〇年三月三一日法律第七号" Extract="true" Id="d69a4fea-3bd4-11e8-a64e-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成三〇年三月三一日法律第七号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6619,7 +6593,7 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>法人の施行日前に終了した課税事業年度の復興特別法人税申告書及び当該申告書に係る修正申告書で法人が施行日前に提出したものに係る第十九条の規定による改正前の東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法第六十条において準用する旧法人税法第百五十一条第一項から第四項までの規定による自署及び押印については、なお従前の例による。</Sentence>
+            <Sentence>法人の施行日前に終了した課税事業年度の復興特別法人税申告書（令和三年四月一日以後に提出するものを除く。）及び当該申告書に係る修正申告書で法人が施行日前に提出したものに係る第十九条の規定による改正前の東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法第六十条において準用する旧法人税法第百五十一条第一項から第四項までの規定による自署及び押印については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -6644,7 +6618,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430016" AmendLawNum="平成三〇年四月一八日法律第一六号" Extract="true" Id="ad327af0-4382-11e8-abcb-005056b30d52">
+    <SupplProvision AmendLawNum="平成三〇年四月一八日法律第一六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6657,7 +6631,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="431006" AmendLawNum="平成三一年三月二九日法律第六号" Extract="true" Id="f935ae46-5c0d-11e9-902f-005056b30d52">
+    <SupplProvision AmendLawNum="平成三一年三月二九日法律第六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6766,7 +6740,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502008" AmendLawNum="令和二年三月三一日法律第八号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6829,7 +6803,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502046" AmendLawNum="令和二年六月一二日法律第四六号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年六月一二日法律第四六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6845,6 +6819,108 @@
       <Article Num="19">
         <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
         <ArticleTitle>第十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年三月三一日法律第一一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和三年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:4">
+            <ItemTitle>一～四</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>令和四年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1:8">
+              <Subitem1Title>イ～チ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="9">
+              <Subitem1Title>リ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>第十四条の規定（同条中東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法第十条第四号ロの改正規定、同法第二十八条第一項の改正規定、同法第四十条第十一号の改正規定及び同法第六十条の改正規定を除く。）及び附則第百二十条の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="6:14">
+            <ItemTitle>六～十四</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="15">
+            <ItemTitle>十五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>新型コロナウイルス感染症等の影響による社会経済情勢の変化に対応して金融の機能の強化及び安定の確保を図るための銀行法等の一部を改正する法律（令和三年法律第四十六号）の施行の日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1:2">
+              <Subitem1Title>イ・ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>第十四条中東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法第四十条第十一号の改正規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="120">
+        <ArticleCaption>（東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第百二十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第十四条の規定による改正後の東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法第十七条及び第二十三条の規定は、旧所得税法第二条第一項第四十一号に規定する確定申告期限が令和四年一月一日以後となる同項第三十七号に規定する確定申告書を提出する場合について適用し、当該確定申告期限が同日前となる当該確定申告書を提出した場合については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="131">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="132">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百三十二条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>

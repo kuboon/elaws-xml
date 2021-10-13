@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Meiji" Lang="ja" LawType="Act" Num="33" Year="33">
+<Law Era="Meiji" Lang="ja" LawType="Act" Num="33" Year="33" PromulgateMonth="03" PromulgateDay="07">
   <LawNum>明治三十三年法律第三十三号</LawNum>
   <LawBody>
-    <LawTitle>未成年者喫煙禁止法</LawTitle>
+    <LawTitle Kana="みせいねんしゃきつえんきんしほう" Abbrev="" AbbrevKana="">未成年者喫煙禁止法</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -30,8 +30,8 @@
             <Sentence WritingMode="vertical">未成年者ニ対シテ親権ヲ行フ者情ヲ知リテ其ノ喫煙ヲ制止セサルトキハ科料ニ処ス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">親権ヲ行フ者ニ代リテ未成年者ヲ監督スル者亦前項ニ依リテ処断ス</Sentence>
           </ParagraphSentence>
@@ -74,7 +74,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="322223" AmendLawNum="昭和二二年一二月二二日法律第二二三号" Extract="true" Id="631ce7b2-1b99-4a9b-aa91-7a9e79a40af5">
+    <SupplProvision AmendLawNum="昭和二二年一二月二二日法律第二二三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="29">
         <ArticleTitle>第二十九条</ArticleTitle>
@@ -86,7 +86,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412134" AmendLawNum="平成一二年一二月一日法律第一三四号" Id="b2aade64-18c6-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年一二月一日法律第一三四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -95,7 +95,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413152" AmendLawNum="平成一三年一二月一二日法律第一五二号" Extract="true" Id="b2d2516a-18c6-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年一二月一二日法律第一五二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>

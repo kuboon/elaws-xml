@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="229" Year="22">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="229" Year="22" PromulgateMonth="12" PromulgateDay="23">
   <LawNum>昭和二十二年法律第二百二十九号</LawNum>
   <LawBody>
-    <LawTitle>昭和二十二年法律第二百二十九号（物品の無償貸付及び譲与等に関する法律）</LawTitle>
+    <LawTitle Kana="ぶっぴんのむしょうかしつけおよびじょうよとうにかんするほうりつ" Abbrev="" AbbrevKana="">昭和二十二年法律第二百二十九号（物品の無償貸付及び譲与等に関する法律）</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -174,8 +174,8 @@
             <Sentence WritingMode="vertical">この法律の施行に関し必要な事項は、各省各庁の長（財政法第二十条第二項に規定する各省各庁の長をいう。以下同じ。）がこれを定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の場合には、各省各庁の長は、あらかじめ、財務大臣に協議しなければならない。</Sentence>
           </ParagraphSentence>
@@ -201,21 +201,21 @@
             <Sentence WritingMode="vertical">地方自治法施行の際都道府県においてその事務又は事業の用に供していた物品は、第三条の規定にかかわらず、これを当該都道府県に譲与することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項に規定する物品のうち、当該都道府県に譲与しない物品は、第二条の規定にかかわらず、当分の間、これを当該都道府県に無償で貸し付けるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の規定により物品を都道府県に譲与する場合には、当該物品を所掌する各省各庁の長は、あらかじめ、財務大臣に協議しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="325151" AmendLawNum="昭和二五年五月四日法律第一五一号" Extract="true" Id="4cb37d12-47dd-11e5-8df6-db039057258d" Type="Amend">
+    <SupplProvision AmendLawNum="昭和二五年五月四日法律第一五一号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -225,7 +225,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="326243" AmendLawNum="昭和二六年六月一九日法律第二四三号" Extract="true" Id="166a3f08-aa88-4c08-97fc-2c584be1f8e1" Type="Amend">
+    <SupplProvision AmendLawNum="昭和二六年六月一九日法律第二四三号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -236,7 +236,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="328260" AmendLawNum="昭和二八年九月一日法律第二六〇号" Extract="true" Id="219849bb-3da7-4276-a47e-b2e6342d09dc" Type="Amend">
+    <SupplProvision AmendLawNum="昭和二八年九月一日法律第二六〇号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -245,7 +245,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="329094" AmendLawNum="昭和二九年五月一三日法律第九四号" Extract="false" Id="df2e2727-8b35-43d4-b4f5-dda83282782e" Type="Amend">
+    <SupplProvision AmendLawNum="昭和二九年五月一三日法律第九四号" Extract="false" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -254,7 +254,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="410114" AmendLawNum="平成一〇年一〇月二日法律第一一四号" Extract="true" Id="3d844862-47dd-11e5-882e-3bebbc43a407" Type="Amend">
+    <SupplProvision AmendLawNum="平成一〇年一〇月二日法律第一一四号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -267,7 +267,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="410135" AmendLawNum="平成一〇年一〇月一九日法律第一三五号" Extract="true" Id="88cc2300-c1b7-4091-b54f-acf96046a48d" Type="Amend">
+    <SupplProvision AmendLawNum="平成一〇年一〇月一九日法律第一三五号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -280,7 +280,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -305,7 +305,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424042" AmendLawNum="平成二四年六月二七日法律第四二号" Extract="true" Id="f6b71752-d3bf-11e9-ab6a-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成二四年六月二七日法律第四二号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

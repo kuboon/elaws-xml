@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="55" Year="21">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="55" Year="21" PromulgateMonth="06" PromulgateDay="24">
   <LawNum>平成二十一年法律第五十五号</LawNum>
   <LawBody>
-    <LawTitle>海賊行為の処罰及び海賊行為への対処に関する法律</LawTitle>
+    <LawTitle Kana="かいぞくこういのしょばつおよびかいぞくこういへのたいしょにかんするほうりつ" Abbrev="海賊対処法" AbbrevKana="か">海賊行為の処罰及び海賊行為への対処に関する法律</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -297,15 +297,6 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="2">
-        <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">削除</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
@@ -326,7 +317,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423074" AmendLawNum="平成二三年六月二四日法律第七四号" Extract="true" Id="64061518-04d8-4a9e-acc1-1ae4d12de2b1">
+    <SupplProvision AmendLawNum="平成二三年六月二四日法律第七四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -339,7 +330,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424071" AmendLawNum="平成二四年九月五日法律第七一号" Extract="true" Id="8d735366-192e-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年九月五日法律第七一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>

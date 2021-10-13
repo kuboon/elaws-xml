@@ -1505,7 +1505,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第四十三条の十二第一項の規定により提出する申請書には、申請の年月日を記載し、かつ、申請者の代表者が記名押印し、又は署名しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第四十三条の十二第一項の規定により提出する申請書には、申請の年月日及び申請者の代表者の氏名を記載しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -7194,6 +7194,23 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一二月二三日国土交通省令第九八号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和三年一月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の様式による用紙は、当分の間、これを取り繕って使用することができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第十一条の九関係）</RelatedArticleNum>
@@ -7477,7 +7494,7 @@
       <RelatedArticleNum>（第五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S26F03901000098_2011201711_001.pdf"/>
+          <Fig src="./pict/S26F03901000098_2101151401_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7486,7 +7503,7 @@
       <RelatedArticleNum>（第五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S26F03901000098_2011201711_002.pdf"/>
+          <Fig src="./pict/S26F03901000098_2101151401_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7495,7 +7512,7 @@
       <RelatedArticleNum>（第八条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S26F03901000098_2011201711_003.pdf"/>
+          <Fig src="./pict/S26F03901000098_2101151401_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7504,7 +7521,7 @@
       <RelatedArticleNum>（第十一条の十九関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S26F03901000098_2011201711_004.pdf"/>
+          <Fig src="./pict/S26F03901000098_2101151401_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7540,7 +7557,7 @@
       <RelatedArticleNum>（第十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S26F03901000098_2011201711_008.pdf"/>
+          <Fig src="./pict/S26F03901000098_2101151401_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7549,7 +7566,7 @@
       <RelatedArticleNum>（第十七条の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S26F03901000098_2011201711_009.pdf"/>
+          <Fig src="./pict/S26F03901000098_2101151401_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7567,7 +7584,7 @@
       <RelatedArticleNum>（第二十八条の三関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S26F03901000098_2011201711_011.pdf"/>
+          <Fig src="./pict/S26F03901000098_2101151401_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7603,7 +7620,7 @@
       <RelatedArticleNum>（第二十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S26F03901000098_2011201711_015.pdf"/>
+          <Fig src="./pict/S26F03901000098_2101151401_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7621,7 +7638,7 @@
       <RelatedArticleNum>（第三十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S26F03901000098_2011201711_017.pdf"/>
+          <Fig src="./pict/S26F03901000098_2101151401_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

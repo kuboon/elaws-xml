@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="85" Year="21">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="85" Year="21" PromulgateMonth="06" PromulgateDay="14">
   <LawNum>平成二十一年法律第八十五号</LawNum>
   <LawBody>
-    <LawTitle>クラスター弾等の製造の禁止及び所持の規制等に関する法律</LawTitle>
+    <LawTitle Kana="くらすたーだんとうのせいぞうのきんしおよびしょじのきせいとうにかんするほうりつ" Abbrev="クラスター弾等禁止法" AbbrevKana="ク">クラスター弾等の製造の禁止及び所持の規制等に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -718,7 +718,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501037" AmendLawNum="令和元年六月一四日法律第三七号" Extract="true">
+    <SupplProvision AmendLawNum="令和元年六月一四日法律第三七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

@@ -1101,7 +1101,7 @@
               <Sentence>近接壁の影響がない場合</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>ミリメートル以上</Sentence>
+              <Sentence>（１．７×ｄ＋５）ミリメートル以上</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1112,26 +1112,26 @@
               <Sentence>近接壁が一面の場合</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>壁からの離れがミリメートル以下のもの</Sentence>
+              <Sentence>壁からの離れが（３×Ｄ）ミリメートル以下のもの</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>ミリメートル以上</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top">
-              <Sentence>壁からの離れがミリメートルを超えミリメートル以下のもの</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>ミリメートル以上</Sentence>
+              <Sentence>（３×ｄ）ミリメートル以上</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top">
-              <Sentence>壁からの離れがミリメートルを超えるもの</Sentence>
+              <Sentence>壁からの離れが（３×Ｄ）ミリメートルを超え（５×Ｄ）ミリメートル以下のもの</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>ミリメートル以上</Sentence>
+              <Sentence>（２×ｄ＋５）ミリメートル以上</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>壁からの離れが（５×Ｄ）ミリメートルを超えるもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>（１．７×ｄ＋５）ミリメートル以上</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1139,34 +1139,34 @@
               <Sentence>近接壁が二面の場合</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>壁からの離れがミリメートル以下のもの</Sentence>
+              <Sentence>壁からの離れが（４×Ｄ）ミリメートル以下のもの</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>ミリメートル以上</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top">
-              <Sentence>壁からの離れがミリメートルを超えミリメートル以下のもの</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>ミリメートル以上</Sentence>
+              <Sentence>（３．５×ｄ）ミリメートル以上</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top">
-              <Sentence>壁からの離れがミリメートルを超えミリメートル以下のもの</Sentence>
+              <Sentence>壁からの離れが（４×Ｄ）ミリメートルを超え（６×Ｄ）ミリメートル以下のもの</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>ミリメートル以上</Sentence>
+              <Sentence>（３×ｄ）ミリメートル以上</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top">
-              <Sentence>壁からの離れがミリメートルを超えるもの</Sentence>
+              <Sentence>壁からの離れが（６×Ｄ）ミリメートルを超え（７×Ｄ）ミリメートル以下のもの</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>ミリメートル以上</Sentence>
+              <Sentence>（２×ｄ＋５）ミリメートル以上</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>壁からの離れが（７×Ｄ）ミリメートルを超えるもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>（１．７×ｄ＋５）ミリメートル以上</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>

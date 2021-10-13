@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="344" Year="15">
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="344" Year="15" PromulgateMonth="09" PromulgateDay="18">
   <LawNum>平成十五年政令第三百四十四号</LawNum>
   <LawBody>
-    <LawTitle>独立行政法人農林漁業信用基金法施行令</LawTitle>
+    <LawTitle Kana="どくりつぎょうせいほうじんのうりんぎょぎょうしんようききんほうせこうれい" Abbrev="" AbbrevKana="">独立行政法人農林漁業信用基金法施行令</LawTitle>
     <EnactStatement>内閣は、独立行政法人農林漁業信用基金法（平成十四年法律第百二十八号）第十三条第一項並びに第四項第三号、第五号及び第七号、第二十六条並びに附則第三条第十六項及び第十八項の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -227,7 +227,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417118" AmendLawNum="平成一七年四月一日政令第一一八号" Extract="true" Id="6084077a-f415-423b-b24f-058dfc0c27d2">
+    <SupplProvision AmendLawNum="平成一七年四月一日政令第一一八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -240,7 +240,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="420297" AmendLawNum="平成二〇年九月一九日政令第二九七号" Extract="true" Id="04a6c2cc-75b3-42aa-83e3-8240302f37c8">
+    <SupplProvision AmendLawNum="平成二〇年九月一九日政令第二九七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -253,7 +253,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="427335" AmendLawNum="平成二七年九月一八日政令第三三五号" Id="731e8bb9-fb97-6cc2-903e-c9bf5d5a6dfc" Type="Amend">
+    <SupplProvision AmendLawNum="平成二七年九月一八日政令第三三五号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>

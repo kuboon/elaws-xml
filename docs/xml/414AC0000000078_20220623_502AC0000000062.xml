@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="78" Year="14">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="78" Year="14" PromulgateMonth="06" PromulgateDay="24" ScheduledEnforcementDate="2022/06/23">
   <LawNum>平成十四年法律第七十八号</LawNum>
   <LawBody>
-    <LawTitle>マンションの建替え等の円滑化に関する法律</LawTitle>
+    <LawTitle Kana="まんしょんのたてかえとうのえんかつかにかんするほうりつ" Abbrev="マンション建て替え円滑化法" AbbrevKana="マ">マンションの建替え等の円滑化に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -937,7 +937,7 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence Num="1">組合は、前条第一項の公告の日（その日が区分所有法第六十三条第二項（区分所有法第七十条第四項において準用する場合を含む。）の期間の満了の日前であるときは、当該期間の満了の日）から二月以内に、区分所有法第六十三条第四項（区分所有法第七十条第四項において準用する場合を含む。）に規定する建替えに参加しない旨を回答した区分所有者（その承継人を含み、その後に建替え合意者等となったものを除く。）に対し、区分所有権及び敷地利用権を時価で売り渡すべきことを請求することができる。</Sentence>
+                    <Sentence Num="1">組合は、前条第一項の公告の日（その日が区分所有法第六十三条第三項（区分所有法第七十条第四項において準用する場合を含む。）の期間の満了の日前であるときは、当該期間の満了の日）から二月以内に、区分所有法第六十三条第五項（区分所有法第七十条第四項において準用する場合を含む。）に規定する建替えに参加しない旨を回答した区分所有者（その承継人を含み、その後に建替え合意者等となったものを除く。）に対し、区分所有権及び敷地利用権を時価で売り渡すべきことを請求することができる。</Sentence>
                     <Sentence Num="2">建替え決議等があった後に当該区分所有者から敷地利用権のみを取得した者（その承継人を含み、その後に建替え合意者等となったものを除く。）の敷地利用権についても、同様とする。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
@@ -951,8 +951,8 @@
                 <Paragraph Num="3">
                   <ParagraphNum>３</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Num="1">区分所有法第六十三条第五項から第七項まで（区分所有法第七十条第四項において準用する場合を含む。以下この項において同じ。）の規定は、第一項の規定による請求があった場合について準用する。</Sentence>
-                    <Sentence Num="2">この場合において、区分所有法第六十三条第六項中「第四項」とあるのは、「マンションの建替え等の円滑化に関する法律第十五条第一項」と読み替えるものとする。</Sentence>
+                    <Sentence Num="1">区分所有法第六十三条第六項から第八項まで（区分所有法第七十条第四項において準用する場合を含む。以下この項において同じ。）の規定は、第一項の規定による請求があった場合について準用する。</Sentence>
+                    <Sentence Num="2">この場合において、区分所有法第六十三条第七項中「第五項」とあるのは、「マンションの建替え等の円滑化に関する法律第十五条第一項」と読み替えるものとする。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -1319,17 +1319,30 @@
                 <Paragraph Num="4">
                   <ParagraphNum>４</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence>前項の規定による請求があった場合において、理事長が正当な理由がないのに総会を招集しないときは、監事は、同項の期間経過後十日以内に臨時総会を招集しなければならない。</Sentence>
+                    <Sentence Num="1">前項の場合において、電磁的方法（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法であって国土交通省令で定めるものをいう。以下同じ。）により議決権及び選挙権を行使することが定款で定められているときは、組合員は、同項の規定による書面の提出に代えて、当該書面に記載すべき事項を当該電磁的方法により提供することができる。</Sentence>
+                    <Sentence Num="2">この場合において、当該組合員は、当該書面を提出したものとみなす。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="5">
                   <ParagraphNum>５</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence>第九条第一項の規定による認可を受けた者は、その認可の公告があった日から起算して三十日以内に、最初の理事及び監事を選挙し、又は選任するための総会を招集しなければならない。</Sentence>
+                    <Sentence>前項前段の規定による書面に記載すべき事項の電磁的方法（国土交通省令で定める方法を除く。）による提供は、組合の使用に係る電子計算機に備えられたファイルへの記録がされた時に当該組合に到達したものとみなす。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="6">
                   <ParagraphNum>６</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence>第三項の規定による請求があった場合において、理事長が正当な理由がないのに総会を招集しないときは、監事は、同項の期間経過後十日以内に臨時総会を招集しなければならない。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="7">
+                  <ParagraphNum>７</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence>第九条第一項の規定による認可を受けた者は、その認可の公告があった日から起算して三十日以内に、最初の理事及び監事を選挙し、又は選任するための総会を招集しなければならない。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="8">
+                  <ParagraphNum>８</ParagraphNum>
                   <ParagraphSentence>
                     <Sentence Function="main" Num="1">総会を招集するには、少なくとも会議を開く日の五日前までに、会議の日時、場所及び目的である事項を組合員に通知しなければならない。</Sentence>
                     <Sentence Function="proviso" Num="2">ただし、緊急を要するときは、二日前までにこれらの事項を組合員に通知して、総会を招集することができる。</Sentence>
@@ -1361,7 +1374,7 @@
                 <Paragraph Num="4">
                   <ParagraphNum>４</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence>総会においては、前条第六項の規定によりあらかじめ通知した会議の目的である事項についてのみ議決することができる。</Sentence>
+                    <Sentence>総会においては、前条第八項の規定によりあらかじめ通知した会議の目的である事項についてのみ議決することができる。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -1424,7 +1437,7 @@
                 <Paragraph Num="4">
                   <ParagraphNum>４</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence>第二十八条第一項から第四項まで及び第六項並びに第二十九条（第三項ただし書を除く。）の規定は、総代会について準用する。</Sentence>
+                    <Sentence>第二十八条第一項から第六項まで及び第八項並びに第二十九条（第三項ただし書を除く。）の規定は、総代会について準用する。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="5">
@@ -1475,25 +1488,38 @@
                 <Paragraph Num="3">
                   <ParagraphNum>３</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence>組合と特定の組合員との関係について議決をする場合には、その組合員は、議決権を有しない。</Sentence>
+                    <Sentence>組合員及び総代は、定款で定めるところにより、前項の規定による書面をもってする議決権及び選挙権の行使に代えて、電磁的方法により議決権及び選挙権を行使することができる。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="4">
                   <ParagraphNum>４</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence>第二項の規定により議決権及び選挙権を行使する者は、第二十九条第一項（第三十一条第四項において準用する場合を含む。）の規定の適用については、出席者とみなす。</Sentence>
+                    <Sentence>組合と特定の組合員との関係について議決をする場合には、その組合員は、議決権を有しない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="5">
                   <ParagraphNum>５</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence>代理人は、同時に五人以上の組合員を代理することができない。</Sentence>
+                    <Sentence>第二項又は第三項の規定により議決権及び選挙権を行使する者は、第二十九条第一項（第三十一条第四項において準用する場合を含む。）の規定の適用については、出席者とみなす。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="6">
                   <ParagraphNum>６</ParagraphNum>
                   <ParagraphSentence>
+                    <Sentence>代理人は、同時に五人以上の組合員を代理することができない。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="7">
+                  <ParagraphNum>７</ParagraphNum>
+                  <ParagraphSentence>
                     <Sentence>代理人は、代理権を証する書面を組合に提出しなければならない。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="8">
+                  <ParagraphNum>８</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1">前項の場合において、電磁的方法により議決権及び選挙権を行使することが定款で定められているときは、代理人は、当該書面の提出に代えて、当該書面において証すべき事項を当該電磁的方法により提供することができる。</Sentence>
+                    <Sentence Num="2">この場合において、当該代理人は、当該書面を提出したものとみなす。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -2480,13 +2506,13 @@
                 <Paragraph Num="2">
                   <ParagraphNum>２</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence>施行マンションに関する権利若しくはその敷地利用権又は隣接施行敷地の所有権若しくは借地権に関して争いがある場合において、その権利の存否又は帰属が確定しないときは、当該権利が存するものとして、又は当該権利が現在の名義人（当該名義人に対して第十五条第一項（第三十四条第四項において準用する場合を含む。）若しくは第六十四条第一項（第六十六条において準用する場合を含む。）又は区分所有法第六十三条第四項（区分所有法第七十条第四項において準用する場合を含む。）の規定による請求があった場合においては、当該請求をした者）に属するものとして権利変換計画を定めなければならない。</Sentence>
+                    <Sentence>施行マンションに関する権利若しくはその敷地利用権又は隣接施行敷地の所有権若しくは借地権に関して争いがある場合において、その権利の存否又は帰属が確定しないときは、当該権利が存するものとして、又は当該権利が現在の名義人（当該名義人に対して第十五条第一項（第三十四条第四項において準用する場合を含む。）若しくは第六十四条第一項（第六十六条において準用する場合を含む。）又は区分所有法第六十三条第五項（区分所有法第七十条第四項において準用する場合を含む。）の規定による請求があった場合においては、当該請求をした者）に属するものとして権利変換計画を定めなければならない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="3">
                   <ParagraphNum>３</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence>区分所有法第六十三条第五項（第十五条第三項（第三十四条第四項において準用する場合を含む。）において準用する場合を含む。）又は区分所有法第七十条第四項において準用する区分所有法第六十三条第五項（第十五条第三項（第三十四条第四項において準用する場合を含む。）において準用する場合を含む。）の規定により、裁判所から建物の明渡しにつき相当の期限を許与された区分所有者がいるときは、第一項第十八号の施行マンションの明渡しの予定時期は、当該期限の日以降となるように定めなければならない。</Sentence>
+                    <Sentence>区分所有法第六十三条第六項（第十五条第三項（第三十四条第四項において準用する場合を含む。）において準用する場合を含む。）又は区分所有法第七十条第四項において準用する区分所有法第六十三条第六項（第十五条第三項（第三十四条第四項において準用する場合を含む。）において準用する場合を含む。）の規定により、裁判所から建物の明渡しにつき相当の期限を許与された区分所有者がいるときは、第一項第十八号の施行マンションの明渡しの予定時期は、当該期限の日以降となるように定めなければならない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -2591,8 +2617,8 @@
                 <Paragraph Num="2">
                   <ParagraphNum>２</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Num="1">区分所有法第六十三条第六項及び第七項（これらの規定を区分所有法第七十条第四項において準用する場合を含む。以下この項において同じ。）の規定は、前項の規定による請求について準用する。</Sentence>
-                    <Sentence Num="2">この場合において、区分所有法第六十三条第六項中「第四項」とあるのは、「マンションの建替え等の円滑化に関する法律第六十四条第一項」と読み替えるものとする。</Sentence>
+                    <Sentence Num="1">区分所有法第六十三条第七項及び第八項（これらの規定を区分所有法第七十条第四項において準用する場合を含む。以下この項において同じ。）の規定は、前項の規定による請求について準用する。</Sentence>
+                    <Sentence Num="2">この場合において、区分所有法第六十三条第七項中「第五項」とあるのは、「マンションの建替え等の円滑化に関する法律第六十四条第一項」と読み替えるものとする。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="3">
@@ -2958,7 +2984,7 @@
                   <ParagraphNum>４</ParagraphNum>
                   <ParagraphSentence>
                     <Sentence Function="main" Num="1">第一項の規定による明渡しの請求があった者は、明渡しの期限までに、施行者に明け渡さなければならない。</Sentence>
-                    <Sentence Function="proviso" Num="2">ただし、第七十五条の補償金の支払を受けるべき者について同条の規定による支払若しくは第七十六条の規定による供託がないとき、第十五条第一項（第三十四条第四項において準用する場合を含む。）若しくは第六十四条第一項（第六十六条において準用する場合を含む。）若しくは区分所有法第六十三条第四項（区分所有法第七十条第四項において準用する場合を含む。）の規定による請求を受けた者について当該請求を行った者による代金の支払若しくは提供がないとき、又は第六十四条第三項（第六十六条において準用する場合を含む。）の規定による請求を行った者について当該請求を受けた者による代金の支払若しくは提供がないときは、この限りでない。</Sentence>
+                    <Sentence Function="proviso" Num="2">ただし、第七十五条の補償金の支払を受けるべき者について同条の規定による支払若しくは第七十六条の規定による供託がないとき、第十五条第一項（第三十四条第四項において準用する場合を含む。）若しくは第六十四条第一項（第六十六条において準用する場合を含む。）若しくは区分所有法第六十三条第五項（区分所有法第七十条第四項において準用する場合を含む。）の規定による請求を受けた者について当該請求を行った者による代金の支払若しくは提供がないとき、又は第六十四条第三項（第六十六条において準用する場合を含む。）の規定による請求を行った者について当該請求を受けた者による代金の支払若しくは提供がないときは、この限りでない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -3675,7 +3701,7 @@
               <ParagraphNum>１０</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1">区分所有法第六十三条及び第六十四条の規定は、マンション敷地売却決議があった場合について準用する。</Sentence>
-                <Sentence Num="2">この場合において、区分所有法第六十三条第一項中「建替えに」とあるのは「マンションの建替え等の円滑化に関する法律（以下「円滑化法」という。）第二条第一項第八号に規定するマンション敷地売却（以下単に「マンション敷地売却」という。）に」と、同条第三項から第五項まで及び区分所有法第六十四条中「建替えに」とあるのは「マンション敷地売却に」と、区分所有法第六十三条第六項中「建物の取壊しの工事に着手しない」とあるのは「円滑化法第百八条第一項に規定するマンション敷地売却決議に基づく売買契約によるマンション（円滑化法第二条第一項第一号に規定するマンションをいう。以下同じ。）及びその敷地（マンションの敷地利用権が円滑化法第二条第一項第二十号に規定する借地権（以下単に「借地権」という。）であるときは、その借地権。以下同じ。）についての権利の移転（円滑化法第百二十条第一項の規定により組合（円滑化法第百十六条に規定する組合をいう。以下同じ。）が設立された場合にあつては、円滑化法第百四十九条の規定による売却マンション（円滑化法第二条第一項第十号に規定する売却マンションをいう。）及びその敷地の組合への帰属。以下「権利の移転等」という。）がない」と、同項ただし書中「建物の取壊しの工事に着手しなかつた」とあるのは「権利の移転等がなかつた」と、同条第七項中「建物の取壊しの工事の着手」とあるのは「権利の移転等」と、「その着手をしないとき」とあるのは「権利の移転等がないとき」と、区分所有法第六十四条中「建替えを」とあるのは「マンション敷地売却を」と読み替えるものとする。</Sentence>
+                <Sentence Num="2">この場合において、区分所有法第六十三条第一項中「建替えに」とあるのは「マンションの建替え等の円滑化に関する法律（以下「円滑化法」という。）第二条第一項第八号に規定するマンション敷地売却（以下単に「マンション敷地売却」という。）に」と、同条第四項から第六項まで及び区分所有法第六十四条中「建替えに」とあるのは「マンション敷地売却に」と、区分所有法第六十三条第七項中「建物の取壊しの工事に着手しない」とあるのは「円滑化法第百八条第一項に規定するマンション敷地売却決議に基づく売買契約によるマンション（円滑化法第二条第一項第一号に規定するマンションをいう。以下同じ。）及びその敷地（マンションの敷地利用権が円滑化法第二条第一項第二十号に規定する借地権（以下単に「借地権」という。）であるときは、その借地権。以下同じ。）についての権利の移転（円滑化法第百二十条第一項の規定により組合（円滑化法第百十六条に規定する組合をいう。以下同じ。）が設立された場合にあつては、円滑化法第百四十九条の規定による売却マンション（円滑化法第二条第一項第十号に規定する売却マンションをいう。）及びその敷地の組合への帰属。以下「権利の移転等」という。）がない」と、同項ただし書中「建物の取壊しの工事に着手しなかつた」とあるのは「権利の移転等がなかつた」と、同条第八項中「建物の取壊しの工事の着手」とあるのは「権利の移転等」と、「その着手をしないとき」とあるのは「権利の移転等がないとき」と、区分所有法第六十四条中「建替えを」とあるのは「マンション敷地売却を」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -4185,7 +4211,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1">組合は、前条第一項の公告の日（その日が第百八条第十項において準用する区分所有法第六十三条第二項の期間の満了の日前であるときは、当該期間の満了の日）から二月以内に、第百八条第十項において読み替えて準用する区分所有法第六十三条第四項に規定するマンション敷地売却に参加しない旨を回答した区分所有者（その承継人を含み、その後にマンション敷地売却合意者となったものを除く。）に対し、区分所有権及び敷地利用権を時価で売り渡すべきことを請求することができる。</Sentence>
+                  <Sentence Num="1">組合は、前条第一項の公告の日（その日が第百八条第十項において準用する区分所有法第六十三条第三項の期間の満了の日前であるときは、当該期間の満了の日）から二月以内に、第百八条第十項において読み替えて準用する区分所有法第六十三条第五項に規定するマンション敷地売却に参加しない旨を回答した区分所有者（その承継人を含み、その後にマンション敷地売却合意者となったものを除く。）に対し、区分所有権及び敷地利用権を時価で売り渡すべきことを請求することができる。</Sentence>
                   <Sentence Num="2">マンション敷地売却決議があった後に当該区分所有者から敷地利用権のみを取得した者（その承継人を含み、その後にマンション敷地売却合意者となったものを除く。）の敷地利用権についても、同様とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
@@ -4199,8 +4225,8 @@
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1">区分所有法第六十三条第五項から第七項までの規定は、第一項の規定による請求があった場合について準用する。</Sentence>
-                  <Sentence Num="2">この場合において、同条第五項中「建替えに」とあるのは「マンションの建替え等の円滑化に関する法律（以下「円滑化法」という。）第二条第一項第八号に規定するマンション敷地売却に」と、「建替え決議」とあるのは「円滑化法第百八条第一項に規定するマンション敷地売却決議（以下単に「マンション敷地売却決議」という。）」と、同条第六項中「建替え決議」とあるのは「マンション敷地売却決議」と、「建物の取壊しの工事に着手しない」とあるのは「円滑化法第百四十九条の規定による売却マンション（円滑化法第二条第一項第十号に規定する売却マンションをいう。以下同じ。）及びその敷地（売却マンションの敷地利用権が円滑化法第二条第一項第二十号に規定する借地権（以下単に「借地権」という。）であるときは、その借地権）の円滑化法第百十六条に規定する組合への帰属（以下単に「組合への帰属」という。）がない」と、「第四項」とあるのは「円滑化法第百二十四条第一項」と、同項ただし書中「建物の取壊しの工事に着手しなかつた」とあるのは「組合への帰属がなかつた」と、同条第七項中「建物の取壊しの工事の着手」とあるのは「組合への帰属」と、「その着手をしないとき」とあるのは「組合への帰属がないとき」と読み替えるものとする。</Sentence>
+                  <Sentence Num="1">区分所有法第六十三条第六項から第八項までの規定は、第一項の規定による請求があった場合について準用する。</Sentence>
+                  <Sentence Num="2">この場合において、同条第六項中「建替えに」とあるのは「マンションの建替え等の円滑化に関する法律（以下「円滑化法」という。）第二条第一項第八号に規定するマンション敷地売却に」と、「建替え決議」とあるのは「円滑化法第百八条第一項に規定するマンション敷地売却決議（以下単に「マンション敷地売却決議」という。）」と、同条第七項中「建替え決議」とあるのは「マンション敷地売却決議」と、「建物の取壊しの工事に着手しない」とあるのは「円滑化法第百四十九条の規定による売却マンション（円滑化法第二条第一項第十号に規定する売却マンションをいう。以下同じ。）及びその敷地（売却マンションの敷地利用権が円滑化法第二条第一項第二十号に規定する借地権（以下単に「借地権」という。）であるときは、その借地権）の円滑化法第百十六条に規定する組合への帰属（以下単に「組合への帰属」という。）がない」と、「第五項」とあるのは「円滑化法第百二十四条第一項」と、同項ただし書中「建物の取壊しの工事に着手しなかつた」とあるのは「組合への帰属がなかつた」と、同条第八項中「建物の取壊しの工事の着手」とあるのは「組合への帰属」と、「その着手をしないとき」とあるのは「組合への帰属がないとき」と読み替えるものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -4334,7 +4360,7 @@
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Num="1">第二十八条の規定は組合の総会の招集について、第二十九条の規定は組合の総会の議事について、それぞれ準用する。</Sentence>
-                  <Sentence Num="2">この場合において、第二十八条第五項中「第九条第一項」とあるのは「第百二十条第一項」と、第二十九条第三項中「次条」とあるのは「第百三十条」と読み替えるものとする。</Sentence>
+                  <Sentence Num="2">この場合において、第二十八条第七項中「第九条第一項」とあるのは「第百二十条第一項」と、第二十九条第三項中「次条」とあるのは「第百三十条」と読み替えるものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -4385,7 +4411,7 @@
               <Paragraph Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>第二十八条第一項から第四項まで及び第六項並びに第二十九条（第三項ただし書を除く。）の規定は組合の総代会について、第三十一条第五項の規定は総代会が設けられた組合について、それぞれ準用する。</Sentence>
+                  <Sentence>第二十八条第一項から第六項まで及び第八項並びに第二十九条（第三項ただし書を除く。）の規定は組合の総代会について、第三十一条第五項の規定は総代会が設けられた組合について、それぞれ準用する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -4431,25 +4457,38 @@
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>組合と特定の組合員との関係について議決をする場合には、その組合員は、議決権を有しない。</Sentence>
+                  <Sentence>組合員及び総代は、定款で定めるところにより、前項の規定による書面をもってする議決権及び選挙権の行使に代えて、電磁的方法により議決権及び選挙権を行使することができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>第二項の規定により議決権及び選挙権を行使する者は、第百二十九条及び第百三十一条第四項において準用する第二十九条第一項の規定の適用については、出席者とみなす。</Sentence>
+                  <Sentence>組合と特定の組合員との関係について議決をする場合には、その組合員は、議決権を有しない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="5">
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>代理人は、同時に五人以上の組合員を代理することができない。</Sentence>
+                  <Sentence>第二項又は第三項の規定により議決権及び選挙権を行使する者は、第百二十九条及び第百三十一条第四項において準用する第二十九条第一項の規定の適用については、出席者とみなす。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="6">
                 <ParagraphNum>６</ParagraphNum>
                 <ParagraphSentence>
+                  <Sentence>代理人は、同時に五人以上の組合員を代理することができない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="7">
+                <ParagraphNum>７</ParagraphNum>
+                <ParagraphSentence>
                   <Sentence>代理人は、代理権を証する書面を組合に提出しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="8">
+                <ParagraphNum>８</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1">前項の場合において、電磁的方法により議決権及び選挙権を行使することが定款で定められているときは、代理人は、当該書面の提出に代えて、当該書面において証すべき事項を当該電磁的方法により提供することができる。</Sentence>
+                  <Sentence Num="2">この場合において、当該代理人は、当該書面を提出したものとみなす。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -4738,7 +4777,7 @@
                 <Paragraph Num="2">
                   <ParagraphNum>２</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence>売却マンションに関する権利又はその敷地利用権に関して争いがある場合において、その権利の存否又は帰属が確定しないときは、当該権利が存するものとして、又は当該権利が現在の名義人（当該名義人に対して第百八条第十項において準用する区分所有法第六十三条第四項又は第百二十四条第一項の規定による請求があった場合においては、当該請求をした者）に属するものとして分配金取得計画を定めなければならない。</Sentence>
+                    <Sentence>売却マンションに関する権利又はその敷地利用権に関して争いがある場合において、その権利の存否又は帰属が確定しないときは、当該権利が存するものとして、又は当該権利が現在の名義人（当該名義人に対して第百八条第十項において準用する区分所有法第六十三条第五項又は第百二十四条第一項の規定による請求があった場合においては、当該請求をした者）に属するものとして分配金取得計画を定めなければならない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -4936,8 +4975,8 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence Function="main" Num="1">売却マンション又はその敷地を占有している者は、権利消滅期日（第百八条第十項及び第百二十四条第三項において準用する区分所有法第六十三条第五項の規定により、裁判所から建物の明渡しにつき相当の期限を許与された区分所有者にあっては、当該期限の日）までに、組合に売却マンション又はその敷地を明け渡さなければならない。</Sentence>
-                    <Sentence Function="proviso" Num="2">ただし、分配金取得計画公告の日の翌日から起算して三十日を経過していないとき、分配金の支払を受けるべき者について第百五十一条の規定による支払若しくは第百五十二条において準用する第七十六条の規定による供託がないとき、第百五十三条の補償金の支払を受けるべき者について同条の規定による支払若しくは前条において準用する第七十六条の規定による供託がないとき又は第百八条第十項において準用する区分所有法第六十三条第四項若しくは第百二十四条第一項の規定による請求を受けた者について当該請求を行った者による代金の支払若しくは提供がないときは、この限りでない。</Sentence>
+                    <Sentence Function="main" Num="1">売却マンション又はその敷地を占有している者は、権利消滅期日（第百八条第十項及び第百二十四条第三項において準用する区分所有法第六十三条第六項の規定により、裁判所から建物の明渡しにつき相当の期限を許与された区分所有者にあっては、当該期限の日）までに、組合に売却マンション又はその敷地を明け渡さなければならない。</Sentence>
+                    <Sentence Function="proviso" Num="2">ただし、分配金取得計画公告の日の翌日から起算して三十日を経過していないとき、分配金の支払を受けるべき者について第百五十一条の規定による支払若しくは第百五十二条において準用する第七十六条の規定による供託がないとき、第百五十三条の補償金の支払を受けるべき者について同条の規定による支払若しくは前条において準用する第七十六条の規定による供託がないとき又は第百八条第十項において準用する区分所有法第六十三条第五項若しくは第百二十四条第一項の規定による請求を受けた者について当該請求を行った者による代金の支払若しくは提供がないときは、この限りでない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -5495,7 +5534,7 @@
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Num="1">第二十八条の規定は組合の総会の招集について、第二十九条の規定は組合の総会の議事について、それぞれ準用する。</Sentence>
-                  <Sentence Num="2">この場合において、第二十八条第五項中「第九条第一項」とあるのは「第百六十八条第一項」と、第二十九条第三項中「次条」とあるのは「第百七十九条」と読み替えるものとする。</Sentence>
+                  <Sentence Num="2">この場合において、第二十八条第七項中「第九条第一項」とあるのは「第百六十八条第一項」と、第二十九条第三項中「次条」とあるのは「第百七十九条」と読み替えるものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -5546,7 +5585,7 @@
               <Paragraph Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>第二十八条第一項から第四項まで及び第六項並びに第二十九条（第三項ただし書を除く。）の規定は組合の総代会について、第三十一条第五項の規定は総代会が設けられた組合について、それぞれ準用する。</Sentence>
+                  <Sentence>第二十八条第一項から第六項まで及び第八項並びに第二十九条（第三項ただし書を除く。）の規定は組合の総代会について、第三十一条第五項の規定は総代会が設けられた組合について、それぞれ準用する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -5592,25 +5631,38 @@
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>組合と特定の組合員との関係について議決をする場合には、その組合員は、議決権を有しない。</Sentence>
+                  <Sentence>組合員及び総代は、定款で定めるところにより、前項の規定による書面をもってする議決権及び選挙権の行使に代えて、電磁的方法により議決権及び選挙権を行使することができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>第二項の規定により議決権及び選挙権を行使する者は、第百七十八条及び第百八十条第四項において準用する第二十九条第一項の規定の適用については、出席者とみなす。</Sentence>
+                  <Sentence>組合と特定の組合員との関係について議決をする場合には、その組合員は、議決権を有しない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="5">
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>代理人は、同時に五人以上の組合員を代理することができない。</Sentence>
+                  <Sentence>第二項又は第三項の規定により議決権及び選挙権を行使する者は、第百七十八条及び第百八十条第四項において準用する第二十九条第一項の規定の適用については、出席者とみなす。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="6">
                 <ParagraphNum>６</ParagraphNum>
                 <ParagraphSentence>
+                  <Sentence>代理人は、同時に五人以上の組合員を代理することができない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="7">
+                <ParagraphNum>７</ParagraphNum>
+                <ParagraphSentence>
                   <Sentence>代理人は、代理権を証する書面を組合に提出しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="8">
+                <ParagraphNum>８</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1">前項の場合において、電磁的方法により議決権及び選挙権を行使することが定款で定められているときは、代理人は、当該書面の提出に代えて、当該書面において証すべき事項を当該電磁的方法により提供することができる。</Sentence>
+                  <Sentence Num="2">この場合において、当該代理人は、当該書面を提出したものとみなす。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -6620,7 +6672,7 @@
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence>第二十八条第一項、第三項又は第四項（第三十一条第四項、第百二十九条、第百三十一条第四項、第百七十八条及び第百八十条第四項において準用する場合を含む。）の規定に違反して総会又は総代会を招集しなかったとき。</Sentence>
+                <Sentence>第二十八条第一項、第三項又は第六項（第三十一条第四項、第百二十九条、第百三十一条第四項、第百七十八条及び第百八十条第四項において準用する場合を含む。）の規定に違反して総会又は総代会を招集しなかったとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
@@ -6672,7 +6724,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>第二十八条第五項（第百二十九条及び第百七十八条において読み替えて準用する場合を含む。）の規定に違反して最初の理事又は監事を選挙し、又は選任するための総会を招集しなかった者は、二十万円以下の過料に処する。</Sentence>
+              <Sentence>第二十八条第七項（第百二十九条及び第百七十八条において読み替えて準用する場合を含む。）の規定に違反して最初の理事又は監事を選挙し、又は選任するための総会を招集しなかった者は、二十万円以下の過料に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -7472,6 +7524,61 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>政府は、この法律の施行後五年を経過した場合において、この法律による改正後のマンションの管理の適正化の推進に関する法律及びマンションの建替え等の円滑化に関する法律の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月一九日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和三年九月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第二十七条（住民基本台帳法別表第一から別表第五までの改正規定に限る。）、第四十五条、第四十七条及び第五十五条（行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一及び別表第二の改正規定（同表の二十七の項の改正規定を除く。）に限る。）並びに附則第八条第一項、第五十九条から第六十三条まで、第六十七条及び第七十一条から第七十三条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="71">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="72">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="73">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第七十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、行政機関等に係る申請、届出、処分の通知その他の手続において、個人の氏名を平仮名又は片仮名で表記したものを利用して当該個人を識別できるようにするため、個人の氏名を平仮名又は片仮名で表記したものを戸籍の記載事項とすることを含め、この法律の公布後一年以内を目途としてその具体的な方策について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

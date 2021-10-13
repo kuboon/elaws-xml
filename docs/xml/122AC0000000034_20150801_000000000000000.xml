@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Meiji" Year="22" Num="34" LawType="Act" Lang="ja">
+<Law Era="Meiji" Year="22" Num="34" LawType="Act" Lang="ja" PromulgateMonth="12" PromulgateDay="30">
   <LawNum>明治二十二年法律第三十四号</LawNum>
   <LawBody>
-    <LawTitle>明治二十二年法律第三十四号（決闘罪ニ関スル件）</LawTitle>
+    <LawTitle Kana="けっとうざいにかんするけん" Abbrev="" AbbrevKana="">明治二十二年法律第三十四号（決闘罪ニ関スル件）</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -39,8 +39,8 @@
             <Sentence>決闘ノ立会ヲ為シ又ハ立会ヲ為スコトヲ約シタル者ハ証人介添人等何等ノ名義ヲ以テスルニ拘ラス一月以上一年以下ノ重禁錮ニ処シ五円以上五十円以下ノ罰金ヲ附加ス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Num="2" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>情ヲ知テ決闘ノ場所ヲ貸与シ又ハ供用セシメタル者ハ罰前項ニ同シ</Sentence>
           </ParagraphSentence>

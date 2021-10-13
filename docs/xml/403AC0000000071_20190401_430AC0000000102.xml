@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="430AC0000000102" AmendmentNum="平成三十年法律第百二号" Era="Heisei" Lang="ja" LawType="Act" Num="71" Year="03">
+<Law AmendmentId="430AC0000000102" AmendmentNum="平成三十年法律第百二号" Era="Heisei" Lang="ja" LawType="Act" Num="71" Year="03" PromulgateMonth="12" PromulgateDay="14">
   <LawNum>平成三年法律第七十一号</LawNum>
   <LawBody>
-    <LawTitle>日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法</LawTitle>
+    <LawTitle Kana="にほんこくとのへいわじょうやくにもとづきにほんのこくせきをりだつしたものとうのしゅつにゅうこくかんりにかんするとくれいほう" Abbrev="入管特例法,出入国管理特例法" AbbrevKana="に,し">日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -380,16 +380,8 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">特別永住者証明書の交付を受けた特別永住者は、当該特別永住者証明書が著しく毀損し、<Ruby>
-<Rt/>
-</Ruby>若しくは汚損し、又は第八条第五項の規定による記録が毀損<Ruby>
-<Rt/>
-</Ruby>したとき（以下この項において「毀損<Ruby>
-<Rt/>
-</Ruby>等の場合」という。）は、法務省令で定める手続により、居住地の市町村の長を経由して、出入国在留管理庁長官に対し、特別永住者証明書の再交付を申請することができる。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">特別永住者証明書の交付を受けた特別永住者が、毀損<Ruby>
-<Rt/>
-</Ruby>等の場合以外の場合であって特別永住者証明書の交換を希望するとき（正当な理由がないと認められるときを除く。）も、同様とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">特別永住者証明書の交付を受けた特別永住者は、当該特別永住者証明書が著しく毀損し、若しくは汚損し、又は第八条第五項の規定による記録が毀損したとき（以下この項において「毀損等の場合」という。）は、法務省令で定める手続により、居住地の市町村の長を経由して、出入国在留管理庁長官に対し、特別永住者証明書の再交付を申請することができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">特別永住者証明書の交付を受けた特別永住者が、毀損等の場合以外の場合であって特別永住者証明書の交換を希望するとき（正当な理由がないと認められるときを除く。）も、同様とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -938,7 +930,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="404066" AmendLawNum="平成四年六月一日法律第六六号" Extract="true" Id="24662010-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="平成四年六月一日法律第六六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -951,7 +943,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411087" AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true" Id="8a6950aa-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1048,7 +1040,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411134" AmendLawNum="平成一一年八月一八日法律第一三四号" Extract="true" Id="247c96b0-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年八月一八日法律第一三四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1061,7 +1053,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411135" AmendLawNum="平成一一年八月一八日法律第一三五号" Extract="true" Id="2487c6ca-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年八月一八日法律第一三五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -1071,7 +1063,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411151" AmendLawNum="平成一一年一二月八日法律第一五一号" Extract="true" Id="8a6b58dc-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月八日法律第一五一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1100,7 +1092,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416073" AmendLawNum="平成一六年六月二日法律第七三号" Extract="true" Id="249e2a14-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月二日法律第七三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1113,7 +1105,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="421079" AmendLawNum="平成二一年七月一五日法律第七九号" Extract="true" Id="24a97ab8-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="平成二一年七月一五日法律第七九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1527,7 +1519,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="425049" AmendLawNum="平成二五年六月一九日法律第四九号" Extract="true" Id="51d3a48a-aeb9-4f4c-9c9d-36bb54305cfd">
+    <SupplProvision AmendLawNum="平成二五年六月一九日法律第四九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1540,7 +1532,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426042" AmendLawNum="平成二六年五月三〇日法律第四二号" Extract="true" Id="37ebbfb0-dbb6-4234-a110-f8be69da6be6">
+    <SupplProvision AmendLawNum="平成二六年五月三〇日法律第四二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1553,7 +1545,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430102" AmendLawNum="平成三〇年一二月一四日法律第一〇二号" Extract="true" Id="2f5cabf4-0197-11e9-b0e3-005056b30513">
+    <SupplProvision AmendLawNum="平成三〇年一二月一四日法律第一〇二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

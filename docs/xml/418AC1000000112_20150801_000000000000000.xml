@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="112" Year="18">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="112" Year="18" PromulgateMonth="12" PromulgateDay="15">
   <LawNum>平成十八年法律第百十二号</LawNum>
   <LawBody>
-    <LawTitle>有機農業の推進に関する法律</LawTitle>
+    <LawTitle Kana="ゆうきのうぎょうのすいしんにかんするほうりつ" Abbrev="有機農業推進法" AbbrevKana="ゆ">有機農業の推進に関する法律</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -237,7 +237,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423105" AmendLawNum="平成二三年八月三〇日法律第一〇五号" Extract="true" Id="847f4225-ef05-4106-a4d0-ccce6bcd64cf" Type="Amend">
+    <SupplProvision AmendLawNum="平成二三年八月三〇日法律第一〇五号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

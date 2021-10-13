@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="16" Year="06">
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="16" Year="06" PromulgateMonth="03" PromulgateDay="25">
   <LawNum>平成六年大蔵省令第十六号</LawNum>
   <LawBody>
-    <LawTitle>信用金庫及び信用金庫連合会の優先出資に関する内閣府令</LawTitle>
+    <LawTitle Kana="しんようきんこおよびしんようきんこれんごうかいのゆうせんしゅっしにかんするないかくふれい" Abbrev="" AbbrevKana="">信用金庫及び信用金庫連合会の優先出資に関する内閣府令</LawTitle>
     <EnactStatement>協同組織金融機関の優先出資に関する法律施行令（平成五年政令第三百九十八号）第一条から第五条まで、第八条及び第九条の規定に基づき、全国を地区とする信用金庫連合会の優先出資に関する省令を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -1382,7 +1382,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412035" AmendLawNum="平成一二年六月二三日総理府・大蔵省令第三五号" Id="b82e1c96-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年六月二三日総理府・大蔵省令第三五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1391,7 +1391,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412068" AmendLawNum="平成一二年六月二九日総理府令第六八号" Id="b65f702c-1913-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年六月二九日総理府令第六八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1400,7 +1400,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412116" AmendLawNum="平成一二年一〇月一〇日総理府令第一一六号" Extract="true" Id="8758a6e8-1884-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年一〇月一〇日総理府令第一一六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -1409,7 +1409,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="415018" AmendLawNum="平成一五年三月二八日内閣府令第一八号" Extract="true" Id="88513146-1884-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年三月二八日内閣府令第一八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1422,7 +1422,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418060" AmendLawNum="平成一八年四月二八日内閣府令第六〇号" Extract="true" Id="899c8172-1884-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年四月二八日内閣府令第六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1445,7 +1445,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419016" AmendLawNum="平成一九年二月八日内閣府令第一六号" Extract="true" Id="9aa1a04c-1884-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年二月八日内閣府令第一六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1458,7 +1458,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419060" AmendLawNum="平成一九年八月八日内閣府令第六〇号" Extract="true" Id="de36346a-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年八月八日内閣府令第六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1471,7 +1471,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="420056" AmendLawNum="平成二〇年九月二四日内閣府令第五六号" Id="de44fc98-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年九月二四日内閣府令第五六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1480,7 +1480,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="420079" AmendLawNum="平成二〇年一二月五日内閣府令第七九号" Extract="true" Id="de486b30-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年一二月五日内閣府令第七九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1503,7 +1503,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="421022" AmendLawNum="平成二一年四月一日内閣府令第二二号" Extract="true" Id="9bb914f6-1884-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二一年四月一日内閣府令第二二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1526,7 +1526,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="427037" AmendLawNum="平成二七年四月二八日内閣府令第三七号" Extract="true" Id="8d4dabfc-1884-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年四月二八日内閣府令第三七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

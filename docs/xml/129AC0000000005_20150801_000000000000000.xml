@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Meiji" Lang="ja" LawType="Act" Num="5" Year="29">
+<Law Era="Meiji" Lang="ja" LawType="Act" Num="5" Year="29" PromulgateMonth="02" PromulgateDay="21">
   <LawNum>明治二十九年法律第五号</LawNum>
   <LawBody>
-    <LawTitle>国債証券買入銷却法</LawTitle>
+    <LawTitle Kana="こくさいしょうけんかいいれしょうきゃくほう" Abbrev="" AbbrevKana="">国債証券買入銷却法</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -11,11 +11,12 @@
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府ハ毎年度国債費予算定額以内ニ於テ国債証券ヲ買入レ之カ銷却ヲ為スコトヲ得</Sentence>
           </ParagraphSentence>
-          <List>
-            <ListSentence>
-              <Sentence WritingMode="vertical">前項買入ハ計算上利益アリト認ムルトキ其ノ他国債ノ整理ノ円滑ナル実施ノタメ必要アリト認ムルトキニ限リ之ヲ為スコトヲ得</Sentence>
-            </ListSentence>
-          </List>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項買入ハ計算上利益アリト認ムルトキ其ノ他国債ノ整理ノ円滑ナル実施ノタメ必要アリト認ムルトキニ限リ之ヲ為スコトヲ得</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="2">
@@ -37,7 +38,7 @@
         </Paragraph>
       </Article>
     </MainProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -62,7 +63,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414065" AmendLawNum="平成一四年六月一二日法律第六五号" Extract="true" Id="ecba4da2-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年六月一二日法律第六五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -97,7 +98,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417102" AmendLawNum="平成一七年一〇月二一日法律第一〇二号" Extract="true" Id="56cf48f4-7bb3-472a-922e-4a5d7ee5b3d8">
+    <SupplProvision AmendLawNum="平成一七年一〇月二一日法律第一〇二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

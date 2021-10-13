@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="501M60000040038" AmendmentNum="令和元年財務省令第三十八号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="100" Year="24">
+<Law AmendmentId="501M60000040038" AmendmentNum="令和元年財務省令第三十八号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="100" Year="24" PromulgateMonth="12" PromulgateDay="13">
   <LawNum>昭和二十四年大蔵省令第百号</LawNum>
   <LawBody>
-    <LawTitle>日本銀行の歳入金等の受入に関する特別取扱手続</LawTitle>
+    <LawTitle Kana="にほんぎんこうのさいにゅうきんとうのうけいれにかんするとくべつとりあつかいてつづき" Abbrev="" AbbrevKana="">日本銀行の歳入金等の受入に関する特別取扱手続</LawTitle>
     <EnactStatement>予算決算及び会計令（昭和二十二年勅令第百六十五号）第百六条第一項の規定に基き、日本銀行の歳入金の受入に関する特別取扱手続を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -43,8 +43,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の代理店は、日本銀行歳入代理店という。</Sentence>
           </ParagraphSentence>
@@ -58,8 +58,8 @@
             <Sentence WritingMode="vertical">日本銀行は、前条の歳入代理店を設けようとするときは、あらかじめその位置及び店舗の名称並びにその歳入代理店の事務を取りまとめる日本銀行の本店又は支店（以下「歳入取りまとめ店」という。）の名称を記載した書類を財務大臣に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定は、日本銀行がその歳入代理店を廃止するときに準用する。</Sentence>
           </ParagraphSentence>
@@ -73,8 +73,8 @@
             <Sentence WritingMode="vertical">日本銀行は、第一条の規定により設けた日本銀行歳入代理店の店舗において歳入金等の受入れを取り扱わせる場合の外、日本銀行歳入代理店を官公署に派出して当該官公署の取扱に係る歳入金等の受入れを取り扱わせることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">日本銀行は、前項の規定により歳入金等の受入れを取り扱わせようとするときは、あらかじめ、次の各号に掲げる事項を記載した書類を財務大臣に提出して、その承認を受けなければならない。</Sentence>
           </ParagraphSentence>
@@ -107,47 +107,47 @@
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次項、第三項及び第七項の規定による納付を受けて領収した場合を除く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">日本銀行歳入代理店（郵便貯金銀行（郵政民営化法（平成十七年法律第九十七号）第九十四条に規定する郵便貯金銀行をいう。以下同じ。）の営業所、郵便局（簡易郵便局法（昭和二十四年法律第二百十三号）第二条に規定する郵便窓口業務を行う日本郵便株式会社の営業所であつて郵便貯金銀行を所属銀行とする銀行代理業（銀行法（昭和五十六年法律第五十九号）第二条第十四項に規定する銀行代理業をいう。以下この項において同じ。）の業務を行うものをいう。以下同じ。）及び簡易郵便局（簡易郵便局法第七条第一項に規定する施設であつて郵便貯金銀行を所属銀行とする銀行代理業の業務を行うものをいう。以下同じ。）を除く。以下この項において同じ。）は、納入者から、歳入徴収官事務規程（昭和二十七年大蔵省令第百四十一号。以下「歳入規程」という。）第二十一条の六第一項第一号から第六号及び第九号に掲げる納入告知書又は納付書並びに同条第二項第二号及び第三号に掲げる納付書を添えて現金の納付を受けたときはこれを領収して領収証書を、同項第一号に掲げる納付書を添えて現金の納付を受けたときはこれを領収して領収証書及び納付済証（特許庁提出用）を、納入者に交付するとともに、領収済通知書を所轄歳入取りまとめ店を経由して日本銀行統轄店（日本銀行国庫金取扱規程（昭和二十二年大蔵省令第九十三号。以下「国庫金規程」という。）第三条に規定する統轄店をいう。以下同じ。）に送付しなければならない。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、日本銀行歳入代理店において領収済通知書の記載事項について送信（書面等の情報を電気通信回線を使用して転送することをいう。以下同じ。）できるときは、領収済通知書の送付に代えて、領収済通知情報については第一号代行機関（歳入規程第二十一条の四第一号に規定する代行機関をいう。以下同じ。）又は第二号代行機関（歳入規程第二十一条の四第二号に規定する代行機関をいう。以下同じ。）に、収納に係る記録については日本銀行本店に、送信しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">日本銀行歳入代理店（郵便貯金銀行の営業所、郵便局及び簡易郵便局に限る。以下この項において同じ。）は、納入者から、歳入規程第二十一条の六第一項第一号から第六号及び第九号に掲げる納入告知書又は納付書並びに同条第二項第二号から第四号に掲げる納付書を添えて現金の納付を受けたときはこれを領収して領収証書を、同項第一号に掲げる納付書を添えて現金の納付を受けたときはこれを領収して領収証書及び納付済証（特許庁提出用）を、納入者に交付するとともに、領収済通知書を指定代理店（歳入代理店である郵便貯金銀行の営業所であつて日本銀行が指定したものをいう。以下同じ。）に送付し、受入金の払込みに関する内容を所轄歳入取りまとめ店に通知しなければならない。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、日本銀行歳入代理店において領収済通知書の記載事項について送信できるときは、領収済通知書の送付に代えて、領収済通知情報については第一号代行機関又は第二号代行機関に、受入金の払込みに関する内容の通知に代えて、収納に係る記録については日本銀行本店に、送信しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4" OldStyle="false">
-          <ParagraphNum>○４</ParagraphNum>
+        <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">指定代理店は、前項の規定により日本銀行歳入代理店から領収済通知書の送付を受けたときは、当該領収済通知書に記載されている領収した歳入金に関する事項を光学読取式電子情報処理組織（日本銀行の委託を受けて、歳入金の収納に関する事務を処理するため、取りまとめ指定代理店（歳入代理店である郵便貯金銀行の営業所であつて日本銀行が指定したものをいう。以下同じ。）に設置される電子計算機と指定代理店に設置される光学文字読取装置、画像出力装置及び電子計算機とを電気通信回線で接続した電子情報処理組織をいう。以下同じ。）を使用して取りまとめ指定代理店に通知しなければならない。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、必要があると認められる場合においては、当該領収済通知書に記載されている住所、氏名その他の領収した歳入金に関する事項を記録した国庫金規程第一号の二書式、第一号の三書式又は第一号の四書式による領収済通知書を光学読取式電子情報処理組織を使用して作成し、当該歳入を取り扱つた歳入徴収官に送付しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5" OldStyle="false">
-          <ParagraphNum>○５</ParagraphNum>
+        <Paragraph Hide="false" Num="5" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">取りまとめ指定代理店は前項本文の規定により指定代理店から歳入規程第二十一条の六第一項第九号及び同条第二項第一号に掲げる歳入金に係る通知を受けたときは、その旨を第一号代行機関を経由して当該歳入を取り扱つた歳入徴収官に通知するため、光学読取式電子情報処理組織を使用して国庫金規程第一号の五書式による領収済通知書（領収した歳入金に関する事項を収録した電磁的記録媒体（電磁的記録（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式で作られる記録であつて電子計算機による情報処理の用に供されるものをいう。以下同じ。）に係る記録媒体をいう。以下同じ。）を含む。以下同じ。）を作成し、第一号代行機関に送付しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="6" OldStyle="false">
-          <ParagraphNum>○６</ParagraphNum>
+        <Paragraph Hide="false" Num="6" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">取りまとめ指定代理店は、第四項本文の規定により指定代理店から歳入規程第二十一条の六第一項第一号から第六号並びに同条第二項第二号から第四号に掲げる歳入金に係る通知を受けたときは、その旨を第二号代行機関を経由して当該歳入を取り扱つた歳入徴収官に通知するため、光学読取式電子情報処理組織を使用して国庫金規程第一号の五書式による領収済通知書を作成し、第二号代行機関に送付しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="7" OldStyle="false">
-          <ParagraphNum>○７</ParagraphNum>
+        <Paragraph Hide="false" Num="7" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">日本銀行歳入代理店（郵便貯金銀行の営業所、郵便局及び簡易郵便局を除く。）は、納入者から、歳入規程第二十一条の六第二項第四号に掲げる納付書を添えて現金の納付を受けたときであつて、領収済通知書の記載事項について送信できるときは、これを領収して領収証書を納入者に交付するとともに、領収済通知情報については第二号代行機関に、収納に係る記録については日本銀行本店に、送信しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="8" OldStyle="false">
-          <ParagraphNum>○８</ParagraphNum>
+        <Paragraph Hide="false" Num="8" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">日本銀行歳入代理店は、納入者から歳入規程第二十一条の六第一項第一号から第六号まで及び第九号に掲げる納入告知書若しくは納付書並びに同条第二項第二号から第四号までに掲げる納付書に係る納付情報により現金の納付を受けたとき又は次の各号に掲げる納付情報により手数料等の納付を受けたときは、これを領収して、領収済通知情報については第一号代行機関又は第二号代行機関に、収納に係る記録については日本銀行本店に、送信しなければならない。</Sentence>
           </ParagraphSentence>
@@ -176,58 +176,58 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="9" OldStyle="false">
-          <ParagraphNum>○９</ParagraphNum>
+        <Paragraph Hide="false" Num="9" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">日本銀行歳入代理店は、納入者から歳入規程第二十一条の六第一項第七号に掲げる納入告知書又は納付書に係る納付情報により現金の納付を受けたときは、これを領収して、領収済通知情報については歳入徴収官に、収納に係る記録については日本銀行本店に、送信しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="10" OldStyle="false">
-          <ParagraphNum>○１０</ParagraphNum>
+        <Paragraph Hide="false" Num="10" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">指定代理店は、第四項ただし書、第五項又は第六項の規定により国庫金規程第一号の二書式、第一号の三書式、第一号の四書式又は第一号の五書式の領収済通知書が送付された後、当該領収済通知書の内容に誤りがあることを発見したときは、直ちに、歳入徴収官にその旨を通知しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="11" OldStyle="false">
-          <ParagraphNum>○１１</ParagraphNum>
+        <Paragraph Hide="false" Num="11" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">日本銀行歳入代理店は、歳入規程第三条第三項各号に掲げる歳入の納付を受けたときは、これを領収し、当該歳入を取り扱つた歳入徴収官に領収済の通知をするとともに、受入金の払込みに関し使用する書類で財務大臣の定めるものを所轄歳入取りまとめ店に送付しなければならない。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、日本銀行が指定した歳入代理店は、受入金の払込みに関し使用する書類の送付に代えて、その内容を通知することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="12" OldStyle="false">
-          <ParagraphNum>○１２</ParagraphNum>
+        <Paragraph Hide="false" Num="12" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第八項、第九項及び前項の場合において、日本銀行歳入代理店は、領収証書を納入者に交付することを要しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="13" OldStyle="false">
-          <ParagraphNum>○１３</ParagraphNum>
+        <Paragraph Hide="false" Num="13" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の規定は、出納官吏、国税収納官吏又は市町村その他の法令の規定により歳入金の収納の事務の委託を受けた者から現金払込書、国税収納金整理資金現金払込書又は送付書により歳入金又は国税収納金の払込のあつたときに準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="14" OldStyle="false">
-          <ParagraphNum>○１４</ParagraphNum>
+        <Paragraph Hide="false" Num="14" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項、第二項及び前項の場合において、領収済通知書に添付する集計表の作成及び領収済通知書の歳入徴収官又は国税収納命令官への送付の事務並びに領収済通知書の日本銀行統轄店への送付の事務については、日本銀行があらかじめ財務大臣の承認を受けた特定の日本銀行代理店又は歳入代理店において取りまとめて行うことができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="15" OldStyle="false">
-          <ParagraphNum>○１５</ParagraphNum>
+        <Paragraph Hide="false" Num="15" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">日本銀行歳入代理店は、第一項及び第十三項の場合において、当該領収控の送付に代え、受入金の払込みに関し使用する書類で財務大臣の定めるものを送付したときは、その領収控は自店において保存することができる。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、日本銀行が指定した歳入代理店は、受入金の払込みに関し使用する書類の送付に代えて、その内容を通知することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="16" OldStyle="false">
-          <ParagraphNum>○１６</ParagraphNum>
+        <Paragraph Hide="false" Num="16" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">日本銀行は、第十一項ただし書及び前項ただし書の規定による指定をしようとするときは、財務大臣の承認を経なければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="17" OldStyle="false">
-          <ParagraphNum>○１７</ParagraphNum>
+        <Paragraph Hide="false" Num="17" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">日本銀行歳入代理店は、国税収納金の納付者から国税通則法（昭和三十七年法律第六十六号）第三十四条の二第一項の規定する方法による納付を受けたときは、第一項の規定にかかわらず、領収証書を納入者に交付することを要しない。</Sentence>
           </ParagraphSentence>
@@ -251,8 +251,8 @@
             <Sentence Num="2" WritingMode="vertical">この場合において、日本銀行歳入代理店は、領収証書を払込みを行つた財政融資資金預託金の担当者に交付することを要しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">日本銀行歳入代理店は、管理運用規則第四十一条の二第三項及び第四十二条の五第三項の規定により法人等又は地方公共団体から現金の払込みを受けたときは、これを領収して、領収済通知情報については財務省理財局長に、収納に係る記録については日本銀行本店に、送信しなければならない。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、日本銀行歳入代理店は、領収証書を払込みを行つた法人等又は地方公共団体に交付することを要しない。</Sentence>
@@ -268,8 +268,8 @@
             <Sentence Num="2" WritingMode="vertical">この場合において、日本銀行歳入代理店は、領収証書を納入者に交付することを要しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">日本銀行歳入代理店は、毎年度所属歳出金の返納金を戻し入れることができる期間内に、返納者から歳入徴収官等又は官署支出官が発した納入告知書又は納付書に係る納付情報により現金の納付を受けたときは、これを領収し、その旨をセンター支出官（予算決算及び会計令第一条第三号に規定するセンター支出官をいい、センター支出官代理（センター支出官の事務を行う支出官代理をいう。）を含む。以下この項において同じ。）を経由して歳入徴収官等又は官署支出官に通知するため、返納金領収済通知情報についてはセンター支出官に、収納に係る記録については日本銀行本店に送信しなければならない。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、日本銀行歳入代理店は、領収証書を返納者に交付することを要しない。</Sentence>
@@ -284,20 +284,20 @@
             <Sentence WritingMode="vertical">日本銀行歳入代理店は、第三条第十五項の規定によりその取り扱つた領収控を自店において保存するときは、歳入金に係るものについては年度、会計、所管庁、取扱庁別に国税収納金に係るものについては年度、取扱庁別にそれぞれ区分し、毎日分を取りまとめ保存するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">指定代理店は、第三条第三項の規定により送付された領収済通知書を毎日分とりまとめて保存しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">日本銀行歳入代理店は、第三条第十一項の規定による歳入の収納に係る記録を電磁的記録により保存しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4" OldStyle="false">
-          <ParagraphNum>○４</ParagraphNum>
+        <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">歳入取りまとめ店は、前二条に規定する証拠書類の送付を受けたとき又は通知を受けたときは、自店の受け入れた歳入金等の事務取扱に準じて取り扱わなければならない。</Sentence>
           </ParagraphSentence>
@@ -334,7 +334,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="325012" AmendLawNum="昭和二五年三月三一日大蔵省令第一二号" Id="876e8524-18cc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二五年三月三一日大蔵省令第一二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -349,7 +349,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="325058" AmendLawNum="昭和二五年五月三一日大蔵省令第五八号" Id="40e4200e-18d2-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二五年五月三一日大蔵省令第五八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -364,7 +364,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="327095" AmendLawNum="昭和二七年七月三一日大蔵省令第九五号" Extract="true" Id="887d7934-18cc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二七年七月三一日大蔵省令第九五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -373,7 +373,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="329042" AmendLawNum="昭和二九年五月三一日大蔵省令第四二号" Extract="true" Id="89183d84-18cc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二九年五月三一日大蔵省令第四二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -382,7 +382,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="330021" AmendLawNum="昭和三〇年五月一〇日大蔵省令第二一号" Id="898c3608-18cc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三〇年五月一〇日大蔵省令第二一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -391,7 +391,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="331008" AmendLawNum="昭和三一年二月二三日大蔵省令第八号" Id="8a003a44-18cc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三一年二月二三日大蔵省令第八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -400,7 +400,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="331072" AmendLawNum="昭和三一年一二月一八日大蔵省令第七二号" Id="41a6eabc-18d2-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三一年一二月一八日大蔵省令第七二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -409,7 +409,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="337029" AmendLawNum="昭和三七年四月二日大蔵省令第二九号" Extract="true" Id="63f40626-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三七年四月二日大蔵省令第二九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -418,7 +418,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="340025" AmendLawNum="昭和四〇年四月一日大蔵省令第二五号" Extract="true" Id="41f512f0-18d2-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四〇年四月一日大蔵省令第二五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -427,7 +427,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="340067" AmendLawNum="昭和四〇年一二月一五日大蔵省令第六七号" Extract="true" Id="8ce0137e-18cc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四〇年一二月一五日大蔵省令第六七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -437,7 +437,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="343055" AmendLawNum="昭和四三年一一月一日大蔵省令第五五号" Extract="true" Id="8d7adb0c-18cc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四三年一一月一日大蔵省令第五五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -446,7 +446,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="346081" AmendLawNum="昭和四六年一一月三〇日大蔵省令第八一号" Extract="true" Id="8dc81bce-18cc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四六年一一月三〇日大蔵省令第八一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -455,7 +455,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="360007" AmendLawNum="昭和六〇年三月五日大蔵省令第七号" Extract="true" Id="7d008bc8-d3bf-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六〇年三月五日大蔵省令第七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -479,7 +479,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="360010" AmendLawNum="昭和六〇年三月二八日大蔵省令第一〇号" Extract="true" Id="42b80cb0-18d2-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六〇年三月二八日大蔵省令第一〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -503,7 +503,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412069" AmendLawNum="平成一二年八月二一日大蔵省令第六九号" Extract="true" Id="7870dffe-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年八月二一日大蔵省令第六九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -512,7 +512,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="415048" AmendLawNum="平成一五年三月三一日財務省令第四八号" Extract="true" Id="909d8d34-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年三月三一日財務省令第四八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -525,7 +525,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417022" AmendLawNum="平成一七年三月三〇日財務省令第二二号" Extract="true" Id="fb927c4a-18c6-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年三月三〇日財務省令第二二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -548,7 +548,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417023" AmendLawNum="平成一七年三月三〇日財務省令第二三号" Extract="true" Id="343e9de0-d3b9-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年三月三〇日財務省令第二三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -588,7 +588,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417078" AmendLawNum="平成一七年一〇月三日財務省令第七八号" Id="92ecf2e6-18cc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年一〇月三日財務省令第七八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -597,7 +597,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418030" AmendLawNum="平成一八年三月三一日財務省令第三〇号" Id="43a22a52-18d2-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年三月三一日財務省令第三〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -606,7 +606,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418055" AmendLawNum="平成一八年八月三〇日財務省令第五五号" Id="936115fe-18cc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年八月三〇日財務省令第五五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -615,7 +615,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="419057" AmendLawNum="平成一九年九月二八日財務省令第五七号" Extract="true" Id="7e40322c-d3bf-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年九月二八日財務省令第五七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -638,7 +638,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="420077" AmendLawNum="平成二〇年一二月一日財務省令第七七号" Extract="true" Id="3456cd16-d3b9-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年一二月一日財務省令第七七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -652,7 +652,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="420086" AmendLawNum="平成二〇年一二月二四日財務省令第八六号" Extract="true" Id="93d547bc-18cc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年一二月二四日財務省令第八六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -666,7 +666,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="422003" AmendLawNum="平成二二年一月二七日財務省令第三号" Extract="true" Id="95cc3c7e-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成二二年一月二七日財務省令第三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -679,7 +679,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424056" AmendLawNum="平成二四年九月二一日財務省令第五六号" Id="448c3110-18d2-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二四年九月二一日財務省令第五六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -688,7 +688,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427005" AmendLawNum="平成二七年三月二日財務省令第五号" Id="947070fc-18cc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年三月二日財務省令第五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -697,7 +697,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428054" AmendLawNum="平成二八年六月一七日財務省令第五四号" Id="48f900b6-18d2-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二八年六月一七日財務省令第五四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -706,7 +706,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501038" AmendLawNum="令和元年一二月一三日財務省令第三八号" Extract="true" Id="eed9dfe0-2074-11ea-b6ae-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年一二月一三日財務省令第三八号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

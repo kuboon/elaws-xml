@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="38" Year="51">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="38" Year="51" PromulgateMonth="03" PromulgateDay="31">
   <LawNum>昭和五十一年労働省令第三十八号</LawNum>
   <LawBody>
-    <LawTitle>障害者の雇用の促進等に関する法律施行規則</LawTitle>
+    <LawTitle Kana="しょうがいしゃのこようのそくしんとうにかんするほうりつせこうきそく" Abbrev="障害者雇用促進法施行規則" AbbrevKana="し">障害者の雇用の促進等に関する法律施行規則</LawTitle>
     <EnactStatement>身体障害者雇用促進法（昭和三十五年法律第百二十三号）及び身体障害者雇用促進法施行令（昭和三十五年政令第二百九十二号）の規定に基づき、並びに同法を実施するため、身体障害者雇用促進法施行規則（昭和三十五年労働省令第二十七号）の全部を改正する省令を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -620,7 +620,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第四十三条第七項の厚生労働省令で定める数は、四十五・五人（令別表第二に掲げる法人にあつては、四十人）とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第四十三条第七項の厚生労働省令で定める数は、四十三・五人（令別表第二に掲げる法人にあつては、三十八・五人）とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1929,7 +1929,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">在宅就業支援団体は、法第七十四条の三第八項の在宅就業支援団体が事業主に対し交付する書面（以下この条において「発注証明書」という。）に、次の各号に掲げる事項を記載し、これに当該在宅就業支援団体の代表者が記名押印又は署名し、交付するものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">在宅就業支援団体は、法第七十四条の三第八項の在宅就業支援団体が事業主に対し交付する書面（以下この条において「発注証明書」という。）に、次の各号に掲げる事項を記載し、交付するものとする。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -2032,12 +2032,6 @@
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第三項の場合において、在宅就業支援団体の代表者は、第一項の規定による発注証明書への記名押印又は署名については、同項の規定にかかわらず、電子署名（電子署名及び認証業務に関する法律（平成十二年法律第百二号）第二条第一項に規定する電子署名をいう。）をもつて当該記名押印又は署名に代えることができる。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="6">
-              <ParagraphNum>６</ParagraphNum>
-              <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">在宅就業支援団体は、第三項の規定により発注証明書情報を提供しようとするときは、あらかじめ、当該事業主に対し、その用いる次に掲げる電磁的方法の種類及び内容を示し、書面又は電磁的方法による承諾を得なければならない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
@@ -2053,8 +2047,8 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Num="7">
-              <ParagraphNum>７</ParagraphNum>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定による承諾を得た在宅就業支援団体は、当該事業主から書面又は電磁的方法により電磁的方法による提供を受けない旨の申出があつたときは、当該事業主に対し、発注証明書情報の提供を電磁的方法によつてしてはならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該事業主が再び前項の規定による承諾をした場合は、この限りでない。</Sentence>
@@ -5208,6 +5202,28 @@
           <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行し、令和二年四月一日から適用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一二月二一日厚生労働省令第二〇二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和三年三月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一二月二五日厚生労働省令第二〇八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>

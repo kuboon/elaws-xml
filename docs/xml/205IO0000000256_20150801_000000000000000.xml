@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Taisho" Lang="ja" LawType="ImperialOrder" Num="256" Year="05">
+<Law Era="Taisho" Lang="ja" LawType="ImperialOrder" Num="256" Year="05" PromulgateMonth="12" PromulgateDay="21">
   <LawNum>大正五年勅令第二百五十六号</LawNum>
   <LawBody>
-    <LawTitle>大正五年勅令第二百五十六号（歳入納付ニ使用スル証券ニ関スル件）</LawTitle>
+    <LawTitle Kana="さいにゅうのうふにしようするしょうけんにかんするけん" Abbrev="" AbbrevKana="">大正五年勅令第二百五十六号（歳入納付ニ使用スル証券ニ関スル件）</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -24,14 +24,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項ノ証券ニシテ提示期間ノ満了ニ近ツキタルモノ又ハ支払不確実ナリト認ムルモノハ出納官吏、日本銀行又ハ市町村其ノ受領ヲ拒絶スルコトヲ得</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">証券ノ支払場所カ受領者ノ所在地ニ在ラサルモノニ付亦前項ニ同シ但シ支払場所カ受領者ノ払込又ハ送付ヲ為ス日本銀行ノ本店、支店又ハ代理店ノ所在地ニ在ルモノハ此ノ限ニ在ラス</Sentence>
           </ParagraphSentence>
@@ -54,14 +54,14 @@
             <Sentence WritingMode="vertical">前条ノ場合ニ於テハ出納官吏、日本銀行又ハ市町村ハ納人ニ対シ遅滞ナク書面ヲ以テ証券ノ支払ナカリシ旨及其ノ証券ノ還付ヲ請求スヘキ旨ヲ通知スヘシ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項ノ通知書ヲ受クヘキ者其ノ受取ヲ拒ミタルトキ又ハ住所、居所不明ナルトキハ通知書記載ノ要旨ヲ公告スヘシ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項ノ通知書ヲ発シタル日又ハ第二項ノ公告ヲ為シタル日ヨリ一年ヲ経過シタルトキハ納人ハ証券ノ還付ヲ請求スルコトヲ得ス</Sentence>
           </ParagraphSentence>
@@ -93,8 +93,8 @@
             <Sentence WritingMode="vertical">大蔵大臣ハ証券ノ金額、種類又ハ納付場所ニ依リ其ノ納付ニ関シ制限ヲ加フルコトヲ得</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">主管大臣ハ前項ノ規定ニ依リ大蔵大臣ノ定メタルモノノ外主管歳入ノ納付ニ付更ニ制限ヲ加フルノ必要アリト認ムルトキハ大蔵大臣ト協議シテ之ヲ定ムルコトヲ得</Sentence>
           </ParagraphSentence>
@@ -108,8 +108,8 @@
             <Sentence WritingMode="vertical">市町村ニ於テ大正五年法律第十号第三条第二項ノ規定ニ依リ責任ノ免除ヲ請ハムトスルトキハ地方長官ヲ経由シテ主管大臣ニ申請書ヲ提出スヘシ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">地方長官前項ノ申請書ヲ受ケタルトキハ事実ヲ調査シ意見ヲ具シテ主管大臣ニ送付スヘシ</Sentence>
           </ParagraphSentence>
@@ -127,29 +127,29 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
-        <ParagraphNum>○１</ParagraphNum>
+      <Paragraph Hide="false" Num="1" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">本令ハ大正六年一月一日ヨリ之ヲ施行ス</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2" OldStyle="false">
-        <ParagraphNum>○２</ParagraphNum>
+      <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">明治三十八年勅令第三十四号ハ之ヲ廃止ス</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="211165" AmendLawNum="大正一一年三月三一日勅令第一六五号" Extract="true" Id="d6f9502a-18c6-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="大正一一年三月三一日勅令第一六五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
-        <ParagraphNum>○１</ParagraphNum>
+      <Paragraph Hide="false" Num="1" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">本令ハ大正十一年四月一日ヨリ之ヲ施行ス</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="215294" AmendLawNum="大正一五年八月二八日勅令第二九四号" Id="d71face8-18c6-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="大正一五年八月二八日勅令第二九四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -158,7 +158,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="315466" AmendLawNum="昭和一五年七月一三日勅令第四六六号" Id="d745ffd8-18c6-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和一五年七月一三日勅令第四六六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -167,7 +167,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="329051" AmendLawNum="昭和二九年三月三一日政令第五一号" Extract="true" Id="5d3a5b9c-47dd-11e5-91ef-7bbc19b40c41">
+    <SupplProvision AmendLawNum="昭和二九年三月三一日政令第五一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -176,7 +176,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="339294" AmendLawNum="昭和三九年九月四日政令第二九四号" Id="d7929c4e-18c6-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三九年九月四日政令第二九四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -185,7 +185,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="341059" AmendLawNum="昭和四一年三月二九日政令第五九号" Id="a93572e8-1887-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四一年三月二九日政令第五九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -194,7 +194,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="419235" AmendLawNum="平成一九年八月三日政令第二三五号" Extract="true" Id="391cafd2-617c-4cb1-94d3-00f619a2aaa7">
+    <SupplProvision AmendLawNum="平成一九年八月三日政令第二三五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

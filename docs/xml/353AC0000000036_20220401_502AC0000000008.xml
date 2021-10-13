@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="36" Year="53">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="36" Year="53" PromulgateMonth="03" PromulgateDay="31">
   <LawNum>昭和五十三年法律第三十六号</LawNum>
   <LawBody>
-    <LawTitle>森林組合法</LawTitle>
+    <LawTitle Kana="しんりんくみあいほう" Abbrev="" AbbrevKana="">森林組合法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -28,14 +28,14 @@
           <ArticleRange>（第七十四条―第八十二条の二）</ArticleRange>
         </TOCSection>
         <TOCSection Num="5">
-          <SectionTitle>第五節　解散及び清算</SectionTitle>
+          <SectionTitle>第五節　解散、合併、吸収分割及び清算</SectionTitle>
           <ArticleRange>（第八十三条―第九十二条）</ArticleRange>
         </TOCSection>
       </TOCChapter>
       <TOCChapter Num="3">
         <ChapterTitle>第三章　生産森林組合</ChapterTitle>
         <TOCSection Num="1">
-          <SectionTitle>第一節　事業、組合員、管理、設立、解散及び清算</SectionTitle>
+          <SectionTitle>第一節　事業、組合員、管理、設立、解散、合併及び清算</SectionTitle>
           <ArticleRange>（第九十三条―第百条）</ArticleRange>
         </TOCSection>
         <TOCSection Num="2">
@@ -110,12 +110,18 @@
           </Paragraph>
         </Article>
         <Article Num="4">
-          <ArticleCaption>（事業の目的）</ArticleCaption>
+          <ArticleCaption>（事業の目的等）</ArticleCaption>
           <ArticleTitle>第四条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>森林組合、生産森林組合及び森林組合連合会（以下この章、第五章及び第六章において「組合」と総称する。）は、その行う事業によつてその組合員又は会員のために直接の奉仕をすることを旨とすべきであつて、営利を目的としてその事業を行つてはならない。</Sentence>
+              <Sentence>森林組合、生産森林組合及び森林組合連合会（以下この章、第五章及び第六章において「組合」と総称する。）は、その行う事業によつてその組合員又は会員のために直接の奉仕をすることを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>組合は、その事業を行うに当たつては、森林の有する公益的機能の維持増進を図りつつ、林業所得の増大に最大限の配慮をしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -862,13 +868,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>総組合員（第二十七条第一項第五号の規定による組合員を除く。第三項において同じ。）の数が農林水産省令で定める数を超える出資組合は、前条第一項の規定によるほか、当該出資組合の総会に総組合員（第三十一条第一項ただし書に規定する准組合員を除く。）の半数以上が出席し、その議決権の三分の二以上の多数による議決を経て、対象森林につき、森林経営事業を行うことができる。</Sentence>
+                <Sentence>総組合員（第二十七条第一項第五号の規定による組合員を除く。第三項において同じ。）の数が農林水産省令で定める数を超える出資組合は、前条第一項の規定によるほか、当該出資組合の総会に総組合員（第三十一条第一項ただし書に規定する准組合員を除く。）の半数以上が出席し、その議決権の三分の二以上の多数による決議を経て、対象森林につき、森林経営事業を行うことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>前項に規定する出資組合が同項の規定により議決をした場合には、当該議決をした日から二週間以内に、当該議決の内容を公告し、又は組合員（第二十七条第一項第五号の規定による組合員を除く。次項において同じ。）に通知しなければならない。</Sentence>
+                <Sentence>前項に規定する出資組合が同項の規定により決議をした場合には、当該決議をした日から二週間以内に、当該決議の内容を公告し、又は組合員（第二十七条第一項第五号の規定による組合員を除く。次項において同じ。）に通知しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -910,23 +916,23 @@
         <Section Num="2">
           <SectionTitle>第二節　組合員</SectionTitle>
           <Article Num="27">
-            <ArticleCaption>（組合員たる資格）</ArticleCaption>
+            <ArticleCaption>（組合員である資格）</ArticleCaption>
             <ArticleTitle>第二十七条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>組合員たる資格を有する者は、次に掲げる者であつて定款で定めるものとする。</Sentence>
+                <Sentence>組合員である資格を有する者は、次に掲げる者であつて定款で定めるものとする。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence>森林所有者たる個人（森林所有者たる個人と同一の世帯に属する者で当該個人が森林所有者である森林についてその委託を受けて森林の経営を行うもののうち、当該個人が指定する一人の者を含む。）</Sentence>
+                  <Sentence>森林所有者である個人（森林所有者である個人の推定相続人で当該個人が森林所有者である森林についてその委託を受けて森林の経営を行うもののうち、当該個人が指定する者を含む。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>生産森林組合その他の森林所有者たる法人</Sentence>
+                  <Sentence>生産森林組合その他の森林所有者である法人</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
@@ -1114,18 +1120,11 @@
             </Paragraph>
           </Article>
           <Article Num="34">
-            <ArticleCaption>（専用契約）</ArticleCaption>
             <ArticleTitle>第三十四条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>組合は、定款で定めるところにより、一年を超えない期間を限り、組合員がその組合の事業の一部を専ら利用すべき旨の契約を組合員と締結することができる。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence>前項の契約の締結は、組合員の任意とし、組合は、その締結を拒んだことを理由としてその組合員がその組合の事業を利用することを拒んではならない。</Sentence>
+                <Sentence>削除</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1167,7 +1166,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence>組合員たる資格の喪失</Sentence>
+                  <Sentence>組合員である資格の喪失</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -1186,7 +1185,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1">除名は、次に掲げる組合員につき、総会の議決によつてすることができる。</Sentence>
+                <Sentence Num="1">除名は、次に掲げる組合員につき、総会の決議によつてすることができる。</Sentence>
                 <Sentence Num="2">この場合において、組合は、その総会の日の一週間前までに、その組合員に対しその旨を通知し、かつ、総会において弁明する機会を与えなければならない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
@@ -1580,8 +1579,20 @@
             <Paragraph Num="9">
               <ParagraphNum>９</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1">理事の定数の少なくとも五分の三は、組合員（准組合員を除く。以下この項において同じ。）たる個人又は組合員たる法人の業務を執行する役員でなければならない。</Sentence>
+                <Sentence Function="main" Num="1">理事の定数の少なくとも五分の三は、組合員（准組合員を除く。以下この項において同じ。）である個人又は組合員である法人の業務を執行する役員でなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2">ただし、設立当時の理事の定数の少なくとも五分の三は、組合員になろうとする個人又は組合員になろうとする法人の業務を執行する役員でなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="10">
+              <ParagraphNum>１０</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第九条第二項第三号に規定する組合員の生産する林産物その他の物資の販売の事業を行う組合にあつては、理事のうち一人以上は、林産物の販売若しくはこれに関連する事業又はこれらの事業を行う法人の経営に関し実践的な能力を有する者でなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="11">
+              <ParagraphNum>１１</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>組合は、その理事の年齢及び性別に著しい偏りが生じないように配慮しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1649,13 +1660,13 @@
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1">設立当時の役員の任期は、前項の規定にかかわらず、一年以内で創立総会において定める期間とする。</Sentence>
-                <Sentence Function="proviso" Num="2">ただし、創立総会の議決によつて、その任期を任期中の最終の事業年度に関する通常総会の終結の時まで伸長することを妨げない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、創立総会の決議によつて、その任期を任期中の最終の事業年度に関する通常総会の終結の時まで伸長することを妨げない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>合併による設立の場合における前項の規定の適用については、同項中「創立総会において」とあるのは「設立委員が」と、同項ただし書中「創立総会の議決によつて、その」とあるのは「設立委員が当該役員の」とする。</Sentence>
+                <Sentence>合併による設立の場合における前項の規定の適用については、同項中「創立総会において」とあるのは「設立委員が」と、同項ただし書中「創立総会の決議によつて、その」とあるのは「設立委員が当該役員の」とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2382,7 +2393,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>参事及び会計主任の選任及び解任は、理事会の議決により決する。</Sentence>
+                <Sentence>参事及び会計主任の選任及び解任は、理事会の決議により決する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -2420,12 +2431,11 @@
             </Paragraph>
           </Article>
           <Article Num="57">
-            <ArticleCaption>（競争関係にある者の役員等への就任禁止）</ArticleCaption>
             <ArticleTitle>第五十七条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>組合の行う事業と実質的に競争関係にある事業（その組合の組合員の営む林業及びその組合が直接又は間接にその構成員となつている森林組合連合会の行う事業を除く。）を営む者（その者が法人であるときは、これを代表する地位にある者）は、その組合の理事、監事、参事又は会計主任になることができない。</Sentence>
+                <Sentence>削除</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2575,12 +2585,12 @@
             </Paragraph>
           </Article>
           <Article Num="61">
-            <ArticleCaption>（総会の議決事項）</ArticleCaption>
+            <ArticleCaption>（総会の決議事項）</ArticleCaption>
             <ArticleTitle>第六十一条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>次に掲げる事項は、総会の議決を経なければならない。</Sentence>
+                <Sentence>次に掲げる事項は、総会の決議を経なければならない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -2615,11 +2625,17 @@
               <Item Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
-                  <Sentence>森林組合連合会の設立の発起人となり、又はその設立準備会の議事に同意すること。</Sentence>
+                  <Sentence>事業の全部の譲渡又は第九条第一項第一号から第四号まで若しくは第二項第二号、第三号若しくは第六号に掲げる事業の全部若しくは一部の譲渡</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="7">
                 <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence>森林組合連合会の設立の発起人となり、又はその設立準備会の議事に同意すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
                 <ItemSentence>
                   <Sentence>組合若しくは森林組合連合会への加入又は組合若しくは森林組合連合会からの脱退</Sentence>
                 </ItemSentence>
@@ -2667,7 +2683,7 @@
             </Paragraph>
           </Article>
           <Article Num="63">
-            <ArticleCaption>（特別議決事項）</ArticleCaption>
+            <ArticleCaption>（特別決議事項）</ArticleCaption>
             <ArticleTitle>第六十三条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
@@ -2683,7 +2699,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>解散又は合併</Sentence>
+                  <Sentence>解散、合併、第八十八条の二第一項に規定する吸収分割又は第百八条の十二第一項に規定する新設分割</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
@@ -2694,6 +2710,12 @@
               </Item>
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>事業の全部の譲渡又は第九条第一項第一号から第四号まで若しくは第二項第二号、第三号若しくは第六号に掲げる事業の全部の譲渡</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
                 <ItemSentence>
                   <Sentence>第四十九条の三第四項の規定による責任の免除</Sentence>
                 </ItemSentence>
@@ -2826,14 +2848,14 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>総代会において組合の解散又は合併の議決があつたときは、理事は、当該議決の日から十日以内に、組合員（准組合員を除く。）に当該議決の内容を通知しなければならない。</Sentence>
+                <Sentence>総代会において組合の解散又は合併の決議があつたときは、理事は、当該決議の日から十日以内に、組合員（准組合員を除く。）に当該決議の内容を通知しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1">前項の総代会の議決に関し、組合員（准組合員を除く。）が総組合員（准組合員を除く。）の五分の一（これを下回る割合を定款で定めた場合にあつては、その割合）以上の同意を得て、会議の目的である事項及び招集の理由を記載した書面を理事に提出して、総会の招集を請求したときは、理事会は、その請求のあつた日から三週間以内に総会を招集すべきことを決しなければならない。</Sentence>
-                <Sentence Num="2">この場合において、書面の提出は、当該総代会の議決の日から一月以内にしなければならない。</Sentence>
+                <Sentence Num="1">前項の総代会の決議に関し、組合員（准組合員を除く。）が総組合員（准組合員を除く。）の五分の一（これを下回る割合を定款で定めた場合にあつては、その割合）以上の同意を得て、会議の目的である事項及び招集の理由を記載した書面を理事に提出して、総会の招集を請求したときは、理事会は、その請求のあつた日から三週間以内に総会を招集すべきことを決しなければならない。</Sentence>
+                <Sentence Num="2">この場合において、書面の提出は、当該総代会の決議の日から一月以内にしなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -2861,13 +2883,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>出資組合は、出資一口の金額の減少を議決したときは、その議決の日から二週間以内に財産目録及び貸借対照表を作成し、かつ、組合の債権者の閲覧に供するため、これらを主たる事務所に備えて置かなければならない。</Sentence>
+                <Sentence>出資組合が出資一口の金額の減少をする場合には、当該出資組合の債権者は、当該出資組合に対し、出資一口の金額の減少について異議を述べることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1">出資組合は、前項の期間内に、債権者に対して、次に掲げる事項を官報に公告し、かつ、知れている債権者には、各別にこれを催告しなければならない。</Sentence>
+                <Sentence Function="main" Num="1">前項に規定する場合には、当該出資組合は、あらかじめ、次に掲げる事項を官報に公告し、かつ、知れている債権者には、各別にこれを催告しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2">ただし、第三号の期間は、一月を下ることができない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
@@ -2879,7 +2901,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>前項の財産目録及び貸借対照表に関する事項として農林水産省令で定めるもの</Sentence>
+                  <Sentence>当該出資組合の貸借対照表に関する事項として農林水産省令で定めるもの</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
@@ -3000,19 +3022,19 @@
             </Paragraph>
           </Article>
           <Article Num="71">
-            <ArticleCaption>（回転出資金による損失のてん補）</ArticleCaption>
+            <ArticleCaption>（回転出資金による損失の塡補）</ArticleCaption>
             <ArticleTitle>第七十一条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>出資組合は、回転出資金を損失のてん補に充てることができる。</Sentence>
+                <Sentence>出資組合は、回転出資金を損失の塡補に充てることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1">出資組合は、回転出資金を損失のてん補に充ててなお残額がある場合には、その払込みに充てた剰余金を生じた事業年度の次の事業年度の開始の日から起算して五年を経過したときにこれを払い戻さなければならない。</Sentence>
-                <Sentence Function="proviso" Num="2">ただし、当該期間内に、総会において払い戻すべき旨の議決をしたとき、又は組合員が脱退をしたときは、当該議決又は脱退に係る事業年度末にこれを組合員又は脱退した者に払い戻さなければならない。</Sentence>
+                <Sentence Function="main" Num="1">出資組合は、回転出資金を損失の塡補に充ててなお残額がある場合には、その払込みに充てた剰余金を生じた事業年度の次の事業年度の開始の日から起算して五年を経過したときにこれを払い戻さなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、当該期間内に、総会において払い戻すべき旨の決議をしたとき、又は組合員が脱退をしたときは、当該決議又は脱退に係る事業年度末にこれを組合員又は脱退した者に払い戻さなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3104,20 +3126,20 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>定款作成委員が作成した定款の承認、事業計画の設定その他設立に必要な事項の決定は、創立総会の議決によらなければならない。</Sentence>
+                <Sentence>定款作成委員が作成した定款の承認、事業計画の設定その他設立に必要な事項の決定は、創立総会の決議によらなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1">創立総会においては、前項の定款を修正することができる。</Sentence>
-                <Sentence Function="proviso" Num="2">ただし、地区及び組合員たる資格に関する規定については、この限りでない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、地区及び組合員である資格に関する規定については、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>創立総会は、組合員（准組合員を除く。）たる資格を有する者であつてその会日までに発起人に対し設立の同意を申し出たものの半数以上が出席しなければ、開くことができない。</Sentence>
+                <Sentence>創立総会は、組合員（准組合員を除く。）である資格を有する者であつて創立総会の日までに発起人に対し設立の同意を申し出たものの半数以上が出席しなければ、開くことができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6">
@@ -3259,7 +3281,7 @@
           </Article>
         </Section>
         <Section Num="5">
-          <SectionTitle>第五節　解散及び清算</SectionTitle>
+          <SectionTitle>第五節　解散、合併、吸収分割及び清算</SectionTitle>
           <Article Num="83">
             <ArticleCaption>（解散の事由）</ArticleCaption>
             <ArticleTitle>第八十三条</ArticleTitle>
@@ -3336,7 +3358,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>組合が合併しようとするときは、総会の議決を経て、政令で定める事項を定めた合併契約を締結しなければならない。</Sentence>
+                <Sentence>組合が合併しようとするときは、政令で定める事項を定めた合併契約を締結して、総会の決議により、その承認を受けなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -3355,7 +3377,7 @@
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1">第六十六条並びに第六十七条第一項及び第二項の規定は、出資組合の合併について準用する。</Sentence>
-                <Sentence Num="2">この場合において、第六十六条第二項第一号中「出資一口の金額の減少の内容」とあるのは、「合併をする旨」と読み替えるものとする。</Sentence>
+                <Sentence Num="2">この場合において、第六十六条第一項並びに第六十七条第一項及び第二項ただし書中「出資一口の金額の減少」とあるのは「合併」と、第六十六条第二項第一号中「出資一口の金額の減少の内容」とあるのは「合併をする旨」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3370,19 +3392,19 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>前項の規定により総会の議決を経ないで合併を行う合併後存続する組合は、その旨を前条第一項の合併契約に定めなければならない。</Sentence>
+                <Sentence>前項の規定により総会の決議を経ないで合併を行う合併後存続する組合は、その旨を前条第一項の合併契約に定めなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>合併後存続する組合が第一項の規定により総会の議決を経ないで合併を行う場合においては、合併後存続する組合は、前条第一項の合併契約を締結した日から二週間以内に、合併によつて消滅する組合の名称及び住所、合併を行う時期並びに第一項の規定により総会の議決を経ないで合併を行う旨を公告し、又は組合員に通知しなければならない。</Sentence>
+                <Sentence>合併後存続する組合が第一項の規定により総会の決議を経ないで合併を行う場合においては、合併後存続する組合は、前条第一項の合併契約を締結した日から二週間以内に、合併によつて消滅する組合の名称及び住所、合併を行う時期並びに第一項の規定により総会の決議を経ないで合併を行う旨を公告し、又は組合員に通知しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>合併後存続する組合の総組合員の六分の一以上の組合員（准組合員を除く。）が前項の規定による公告又は通知の日から二週間以内に当該組合に対し書面をもつて合併に反対の意思の通知を行つたときは、第一項の規定により総会の議決を経ないで合併を行うことはできない。</Sentence>
+                <Sentence>合併後存続する組合の総組合員の六分の一以上の組合員（准組合員を除く。）が前項の規定による公告又は通知の日から二週間以内に当該組合に対し書面をもつて合併に反対の意思の通知を行つたときは、第一項の規定により総会の決議を経ないで合併を行うことはできない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3400,9 +3422,21 @@
                     <Sentence>合併によつて消滅する組合</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>第八十四条第一項の総会の日の二週間前の日から合併の登記の日まで</Sentence>
+                    <Sentence>次のイ又はロに掲げる日のいずれか早い日から合併の登記の日まで</Sentence>
                   </Column>
                 </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>第八十四条第一項の総会の日の二週間前の日</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>第八十四条第四項において準用する第六十六条第二項の規定による公告の日又は同項の規定による催告の日のいずれか早い日</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
@@ -3411,9 +3445,21 @@
                     <Sentence>合併後存続する組合</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>第八十四条第一項の総会（前条第一項の規定により総会の議決を経ないで合併を行う場合にあつては、理事会）の日の二週間前の日から合併の登記の日後六月を経過する日まで</Sentence>
+                    <Sentence>次のイ又はロに掲げる日のいずれか早い日から合併の登記の日後六月を経過する日まで</Sentence>
                   </Column>
                 </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>第八十四条第一項の総会の日（前条第一項の規定により総会の決議を経ないで合併を行う場合にあつては、理事会の決議の日）の二週間前の日</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>前号ロに掲げる日</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
               </Item>
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
@@ -3477,7 +3523,7 @@
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1">組合の合併が法令又は定款に違反する場合において、合併後存続する組合の組合員が不利益を受けるおそれがあるときは、当該組合員は、当該組合に対し、当該合併をやめることを請求することができる。</Sentence>
-                <Sentence Function="proviso" Num="2">ただし、第八十四条の二第一項の規定により総会の議決を経ないで合併を行う場合（同条第四項の通知があつた場合を除く。）は、この限りでない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、第八十四条の二第一項の規定により総会の決議を経ないで合併を行う場合（同条第四項の通知があつた場合を除く。）は、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3498,7 +3544,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>第四十四条第九項本文の規定は、第一項の規定による役員のうち理事の選任について準用する。</Sentence>
+                <Sentence>第四十四条第九項本文、第十項及び第十一項の規定は、第一項の規定による役員のうちの理事の選任について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3586,6 +3632,233 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
+          <Article Num="88_2">
+            <ArticleCaption>（吸収分割の手続）</ArticleCaption>
+            <ArticleTitle>第八十八条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">出資組合は、吸収分割（出資組合がその事業に関して有する権利義務の全部又は一部を分割後他の出資組合又は出資連合会（第百一条第二項に規定する出資連合会をいう。以下この項及び次条第一項第三号イにおいて同じ。）に承継させることをいう。以下この節において同じ。）をすることができる。</Sentence>
+                <Sentence Num="2">この場合においては、吸収分割をする出資組合（以下「吸収分割組合」という。）とその事業に関して有する権利義務の全部又は一部を当該吸収分割組合から承継する出資組合又は出資連合会（以下「吸収分割承継組合等」という。）とは、吸収分割契約を締結しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>吸収分割組合及び吸収分割承継組合等は、吸収分割契約について、それぞれ総会の決議により、その承認を受けなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>次に掲げる場合には、吸収分割承継組合等の理事は、前項の総会において、その旨を説明しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>吸収分割承継組合等が承継する吸収分割組合の債務の額として農林水産省令で定める額（次号において「承継債務額」という。）が吸収分割承継組合等が承継する吸収分割組合の資産の額として農林水産省令で定める額（同号において「承継資産額」という。）を超える場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>吸収分割承継組合等が吸収分割組合に対して交付する金銭等（金銭その他の財産をいう。以下同じ。）（吸収分割承継組合等に対する出資を除く。）の帳簿価額が承継資産額から承継債務額を控除して得た額を超える場合</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="88_3">
+            <ArticleTitle>第八十八条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>吸収分割契約には、次に掲げる事項を定めなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>吸収分割組合及び吸収分割承継組合等の吸収分割後の名称、地区及び主たる事務所の所在地</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>吸収分割承継組合等が吸収分割組合から承継する資産、債務、雇用契約その他の権利義務に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>吸収分割承継組合等が吸収分割に際して吸収分割組合に対してその事業に関する権利義務の全部又は一部に代わる金銭等を交付するときは、当該金銭等についての次に掲げる事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>当該金銭等が吸収分割承継組合等に対する出資であつて、吸収分割承継組合等が出資連合会であるときは、当該出資の口数又はその口数の算定方法</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>当該金銭等が吸収分割承継組合等に対する出資であつて、吸収分割承継組合等が出資組合であるときは、当該出資の口数又はその口数の算定方法及び吸収分割がその効力を生ずる日に吸収分割組合がその組合員に対して交付する吸収分割承継組合等の出資の割当てに関する事項（吸収分割承継組合等の組合員とならない吸収分割組合の組合員がある場合にあつては、当該組合員に対して交付する金銭の額又はその算定方法を含む。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>当該金銭等が吸収分割承継組合等に対する出資以外の財産であるときは、当該財産の内容及び数若しくは額又はこれらの算定方法</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>吸収分割承継組合等の準備金に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence>その他農林水産省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>吸収分割は、行政庁の認可を受けなければ、その効力を生じない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">第七十八条第二項、第七十九条及び第八十条の規定は、前項の認可について準用する。</Sentence>
+                <Sentence Num="2">この場合において、第七十九条中「次に掲げる場合」とあるのは、「次に掲げる場合及び第八十八条の二第一項に規定する吸収分割によつて同項に規定する吸収分割組合の組合員であつて同項に規定する吸収分割承継組合等の組合員とならないものの利益が不当に害されるおそれがある場合」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="88_4">
+            <ArticleTitle>第八十八条の四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>吸収分割組合が吸収分割によつて吸収分割承継組合等に承継させる資産の帳簿価額の合計額（出資の割当てを受けない吸収分割組合の組合員がある場合にあつては、当該組合員に対して交付する金銭の額を加えた額）が吸収分割組合の最終の貸借対照表により現存する資産の額の五分の一（これを下回る割合を吸収分割組合の定款で定めた場合にあつては、その割合）を超えない場合における吸収分割組合の吸収分割についての第八十八条の二第二項の規定の適用については、同項中「総会」とあるのは、「総会又は理事会」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>吸収分割承継組合等が吸収分割に際して吸収分割組合に対して交付する吸収分割承継組合等に対する出資の口数にその一口当たりの純資産額を乗じて得た額（出資以外の財産も交付する場合にあつては、その帳簿価額の合計額を加えた額）が吸収分割承継組合等の最終の貸借対照表により現存する資産の額の五分の一（これを下回る割合を吸収分割承継組合等の定款で定めた場合にあつては、その割合）を超えない場合（第八十八条の二第三項各号のいずれかに該当する場合を除く。）における吸収分割承継組合等の吸収分割についての同条第二項の規定の適用については、同項中「総会」とあるのは、「総会又は理事会」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前二項の規定により総会の決議を経ないで吸収分割を行う吸収分割組合又は吸収分割承継組合等は、その旨を吸収分割契約に定めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>吸収分割組合又は吸収分割承継組合等が第一項又は第二項の規定により総会の決議を経ないで吸収分割を行う場合においては、当該吸収分割組合又は吸収分割承継組合等は、吸収分割についての理事会の決議の日から二週間以内に、当該吸収分割の相手方である吸収分割承継組合等又は吸収分割組合の名称及び住所、吸収分割を行う時期並びに第一項又は第二項の規定により総会の決議を経ないで吸収分割を行う旨を公告し、又は組合員若しくは会員に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>吸収分割組合の総組合員（准組合員を除く。）の六分の一以上の組合員（准組合員を除く。）が前項の規定による公告又は通知の日から二週間以内に当該吸収分割組合に対し書面をもつて吸収分割に反対の意思の通知を行つたときは、第一項の規定により総会の決議を経ないで吸収分割を行うことはできない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>吸収分割承継組合等の総組合員（准組合員を除く。）又は総会員（第百四条第一項ただし書に規定する准会員を除く。）の六分の一以上の組合員（准組合員を除く。）又は会員（同項ただし書に規定する准会員を除く。）が第四項の規定による公告又は通知の日から二週間以内に当該吸収分割承継組合等に対し書面をもつて吸収分割に反対の意思の通知を行つたときは、第二項の規定により総会の決議を経ないで吸収分割を行うことはできない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="88_5">
+            <ArticleCaption>（準用規定等）</ArticleCaption>
+            <ArticleTitle>第八十八条の五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">第六十五条の二、第六十六条、第六十七条第一項及び第二項、第八十四条の三（第一項第三号を除く。）、第八十四条の四、第八十六条並びに第八十七条の二並びに民法第三百九十八条の十の規定は、吸収分割について準用する。</Sentence>
+                <Sentence Num="2">この場合において、第六十六条及び第六十七条第二項中「出資組合」とあるのは「出資組合又は出資連合会」と、第六十六条第一項中「が出資一口の金額の減少」とあるのは「（第百一条第二項に規定する出資連合会をいう。以下同じ。）が吸収分割（第八十八条の二第一項に規定する吸収分割をいう。以下同じ。）」と、「、出資一口の金額の減少」とあるのは「、吸収分割」と、同条第二項第一号中「出資一口の金額の減少の内容」とあるのは「吸収分割をする旨」と、同条第三項中「催告」とあるのは「催告（不法行為によつて生じた債務の債権者に対するものを除く。）」と、第六十七条第一項及び第二項ただし書中「出資一口の金額の減少」とあるのは「吸収分割」と、第八十四条の三第一項中「第八十四条第一項の合併契約」とあるのは「吸収分割契約」と、同項第一号中「合併によつて消滅する組合」とあるのは「吸収分割組合（第八十八条の二第一項に規定する吸収分割組合をいう。以下同じ。）」と、「まで」とあるのは「後六月を経過する日まで」と、同号イ中「第八十四条第一項の総会の日」とあるのは「第八十八条の二第二項の総会の日（第八十八条の四第一項の規定により総会の決議を経ないで吸収分割を行う場合にあつては、理事会の決議の日）」と、同号ロ中「第八十四条第四項」とあるのは「第八十八条の五第一項」と、同項第二号中「合併後存続する組合」とあるのは「吸収分割承継組合等（第八十八条の二第一項に規定する吸収分割承継組合等をいう。以下同じ。）」と、同号イ中「第八十四条第一項」とあるのは「第八十八条の二第二項」と、「前条第一項」とあるのは「第八十八条の四第二項」と、同条第二項中「組合員」とあるのは「組合員又は所属員（第百一条第一項第一号に規定する所属員をいう。以下同じ。）」と、同条第三項中「組合員」とあるのは「組合員又は所属員」と、第八十四条の四第一項中「合併によつて消滅する組合」とあるのは「吸収分割組合」と、「できる」とあるのは「できる。ただし、第八十八条の四第一項の規定により総会の決議を経ないで吸収分割を行う場合（同条第五項の通知があつた場合を除く。）は、この限りでない」と、同条第二項中「合併後存続<QuoteStruct/>する組合」とあるのは「吸収分割承継組合等」と、「組合員」とあるのは「組合員又は所属員」と、同項ただし書中「第八十四条の二第一項」とあるのは「第八十八条の四第二項」と、「同条第四項」とあるのは「同条第六項」と、第八十六条中「合併後存続する組合又は合併によつて成立する組合」とあるのは「吸収分割承継組合等」と、第八十七条の二第一項中「合併後存続する組合又は合併によつて成立した組合の理事は」とあるのは「吸収分割組合の理事は、吸収分割承継組合等の理事と共同して」と、「これらの組合が承継した合併によつて消滅した組合」とあるのは「吸収分割承継組合等が承継した吸収分割組合」と、同条第三項及び第四項中「組合員及び組合の債権者」とあるのは「吸収分割組合又は吸収分割承継組合等の組合員、所属員及び債権者その他の利害関係人」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第六十八条及び第六十九条の規定は、第八十八条の三第一項第三号ロの規定による交付については、適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="88_6">
+            <ArticleCaption>（吸収分割による権利義務の承継）</ArticleCaption>
+            <ArticleTitle>第八十八条の六</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>吸収分割承継組合等は、吸収分割がその効力を生ずる日に、吸収分割契約の定めに従い、吸収分割組合の権利義務を承継する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の規定にかかわらず、吸収分割組合の債権者であつて、前条第一項において読み替えて準用する第六十六条第二項の規定による各別の催告を受けなかつたもの（同条第三項に規定する場合にあつては、不法行為によつて生じた債務の債権者であるものに限る。次項において同じ。）は、吸収分割契約において吸収分割後に当該吸収分割組合に対して債務の履行を請求することができないものとされているときであつても、当該吸収分割組合に対して、当該吸収分割組合が吸収分割がその効力を生ずる日に有していた財産の価額を限度として、当該債務の履行を請求することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項の規定にかかわらず、吸収分割組合の債権者であつて、前条第一項において読み替えて準用する第六十六条第二項の規定による各別の催告を受けなかつたものは、吸収分割契約において吸収分割後に吸収分割承継組合等に対して債務の履行を請求することができないものとされているときであつても、当該吸収分割承継組合等に対して、その承継した財産の価額を限度として、当該債務の履行を請求することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>吸収分割組合又はその組合員（吸収分割承継組合等の組合員とならないものを除く。）は、吸収分割がその効力を生ずる日に、第八十八条の三第一項第三号イ又はロに掲げる事項についての吸収分割契約の定めに従い、当該吸収分割承継組合等の会員又は組合員となる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="88_7">
+            <ArticleCaption>（労働契約についての会社分割に伴う労働契約の承継等に関する法律の準用）</ArticleCaption>
+            <ArticleTitle>第八十八条の七</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>吸収分割に伴う労働契約の承継に関しては、吸収分割組合は、次項において準用する会社分割に伴う労働契約の承継等に関する法律（平成十二年法律第百三号）第二条第一項に規定する通知期限日までに、当該労働者と協議をするものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">会社分割に伴う労働契約の承継等に関する法律第二条から第八条までの規定は、前項の労働契約の承継について準用する。</Sentence>
+                <Sentence Num="2">この場合において、同法第二条第一項中「会社法第五編第三章及び第五章の規定による分割（吸収分割又は新設分割をいう。以下同じ」とあるのは「森林組合法第八十八条の二第一項に規定する吸収分割（以下「分割」という」と、同法第四条第四項、第五条第三項並びに第六条第二項及び第三項中「会社法第七百五十九条第一項、第七百六十一条第一項、第七百六十四条第一項又は第七百六十六条第一項」とあるのは「森林組合法第八十八条の六第一項」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="88_8">
+            <ArticleCaption>（吸収分割の無効の訴えについての会社法の準用）</ArticleCaption>
+            <ArticleTitle>第八十八条の八</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">会社法第八百二十八条第一項（第九号に係る部分に限る。）及び第二項（第九号に係る部分に限る。）、第八百三十四条（第九号に係る部分に限る。）、第八百三十五条から第八百三十九条まで、第八百四十三条（第一項第一号、第二号及び第四号並びに第二項ただし書を除く。）並びに第八百四十六条の規定は吸収分割の無効の訴えについて、同法第八百六十八条第六項、第八百七十条第二項（第六号に係る部分に限る。）、第八百七十条の二、第八百七十一条本文、第八百七十二条（第五号に係る部分に限る。）、第八百七十二条の二、第八百七十三条本文、第八百七十五条及び第八百七十六条の規定はこの条において準用する同法第八百四十三条第四項の申立てについて、それぞれ準用する。</Sentence>
+                <Sentence Num="2">この場合において、同法第八百二十八条第二項第九号中「株主等若しくは社員等」とあるのは「組合員、所属員（森林組合法第百一条第一項第一号に規定する所属員をいう。以下同じ。）、理事、監事若しくは清算人」と、「株主等、社員等」とあるのは「組合員、所属員、理事、監事、清算人」と、同法第八百三十六条第一項中「株主又は設立時株主」とあるのは「組合員又は所属員」と、同項ただし書中「株主が取締役」とあるのは「組合員又は所属員が理事」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="88_9">
+            <ArticleCaption>（政令への委任）</ArticleCaption>
+            <ArticleTitle>第八十八条の九</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>第八十八条の二から前条までに定めるもののほか、吸収分割に関し必要な事項は、政令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
           <Article Num="89">
             <ArticleCaption>（清算人）</ArticleCaption>
             <ArticleTitle>第八十九条</ArticleTitle>
@@ -3656,7 +3929,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1">会社法第四百七十五条（第三号に係る部分を除く。）、第四百七十六条、第四百九十九条から第五百三条まで及び第五百七条の規定は組合の清算について、第四十一条の二、第四十三条の二、第四十四条の二、第四十四条の三、第四十六条、第四十六条の二、第四十六条の三（第二項を除く。）、第四十七条、第四十八条第二項及び第三項、第四十九条、第四十九条の二第一項から第三項まで、第四十九条の三第一項から第三項まで、第八項、第九項（第一号に係る部分に限る。）及び第十項、第五十条（第一項及び第十項を除く。）、第五十二条の二、第五十七条、第五十九条第二項から第四項まで、第六十条、第六十条の二第二項、第六十三条の二並びに第六十三条の四第二項から第四項まで並びに同法第三百八十三条第一項本文、第二項及び第三項、第三百八十四条、第三百八十五条、第三百八十六条第一項（第一号に係る部分に限る。）及び第二項（第一号及び第二号に係る部分に限る。）、第四百七十八条第二項及び第四項、第四百七十九条第一項及び第二項（各号列記以外の部分に限る。）、第四百八十三条第四項及び第五項、第四百八十四条、第四百八十五条、第四百八十九条第三項から第五項まで、第五百八条、第七編第二章第二節（第八百四十七条第二項、第八百四十七条の二、第八百四十七条の三、第八百四十九条第二項、第三項第二号及び第三号並びに第六項から第十一項まで、第八百四十九条の二第二号及び第三号、第八百五十一条並びに第八百五十三条第一項第二号及び第三号を除く。）、第八百六十八条第一項、第八百六十九条、第八百七十条第一項（第一号及び第二号に係る部分に限る。）、第八百七十一条、第八百七十二条（第四号に係る部分に限る。）、第八百七十四条（第一号及び第四号に係る部分に限る。）、第八百七十五条並びに第八百七十六条の規定は組合の清算人について、それぞれ準用する。</Sentence>
+                <Sentence Num="1">会社法第四百七十五条（第三号に係る部分を除く。）、第四百七十六条、第四百九十九条から第五百三条まで及び第五百七条の規定は組合の清算について、第四十一条の二、第四十三条の二、第四十四条の二、第四十四条の三、第四十六条、第四十六条の二、第四十六条の三（第二項を除く。）、第四十七条、第四十八条第二項及び第三項、第四十九条、第四十九条の二第一項から第三項まで、第四十九条の三第一項から第三項まで、第八項、第九項（第一号に係る部分に限る。）及び第十項、第五十条（第一項及び第十項を除く。）、第五十二条の二、第五十九条第二項から第四項まで、第六十条、第六十条の二第二項、第六十三条の二並びに第六十三条の四第二項から第四項まで並びに同法第三百八十三条第一項本文、第二項及び第三項、第三百八十四条、第三百八十五条、第三百八十六条第一項（第一号に係る部分に限る。）及び第二項（第一号及び第二号に係る部分に限る。）、第四百七十八条第二項及び第四項、第四百七十九条第一項及び第二項（各号列記以外の部分に限る。）、第四百八十三条第四項及び第五項、第四百八十四条、第四百八十五条、第四百八十九条第三項から第五項まで、第五百八条、第七編第二章第二節（第八百四十七条第二項、第八百四十七条の二、第八百四十七条の三、第八百四十九条第二項、第三項第二号及び第三号並びに第六項から第十一項まで、第八百四十九条の二第二号及び第三号、第八百五十一条並びに第八百五十三条第一項第二号及び第三号を除く。）、第八百六十八条第一項、第八百六十九条、第八百七十条第一項（第一号及び第二号に係る部分に限る。）、第八百七十一条、第八百七十二条（第四号に係る部分に限る。）、第八百七十四条（第一号及び第四号に係る部分に限る。）、第八百七十五条並びに第八百七十六条の規定は組合の清算人について、それぞれ準用する。</Sentence>
                 <Sentence Num="2">この場合において、第四十九条の三第十項中「役員」とあるのは「清算人又は監事」と、第五十条第二項中「事業報告を」とあるのは「事務報告を」と、「計算書類（貸借対照表、損益計算書、剰余金処分案又は損失処理案その他組合の財産及び損益の状況を示すために必要かつ適当なものとして農林水産省令で定めるものをいう。第八項において同じ。）及び事業報告」とあるのは「貸借対照表及び事務報告」と、同条第四項中「事業報告」とあるのは「事務報告」と、同条第八項中「事業報告」とあるのは「事務報告」と、「計算書類」とあるのは「貸借対照表」と、同条第九項中「二週間」とあるのは「一週間」と、「五年間」とあるのは「清算結了の登記の時までの間」と、同法第三百八十四条、第五百七条第一項並びに第八百四十七条第一項及び第四項中「法務省令」とあるのは「農林水産省令」と、同法第四百七十五条第一号中「第四百七十一条第四号に掲げる事由」とあるのは「合併」と、同法第四百七十八条第二項中「前項」とあるのは「森林組合法第八十九条第一項」と、同法第四百七十九条第二項各号列記以外の部分中「次に掲げる株主」とあるのは「総組合員（准組合員を除く。）の五分の一（これを下回る割合を定款で定めた場合にあっては、その割合）以上の同意を得た組合員（准組合員を除く。）」と、同法第四百八十三条第四項中「第四百七十八条第一項第一号」とあるのは「森林組合法第八十九条第一項」と、同法第八百五十条第四項中「第五十五条、第百二条の二第二項、第百三条第三項、第百二十条第五項、第二百十三条の二第二項、第二百八十六条の二第二項、第四百二十四条（第四百八十六条第四項において準用する場合を含む。）、第四百六十二条第三項（同項ただし書に規定する分配可能額を超えない部分について負う義務に係る部分に限る。）、第四百六十四条第二項及び第四百六十五条第二項」とあるのは「森林組合法第九十二条において準用する同法第四十九条の三第三項」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -3666,7 +3939,7 @@
       <Chapter Num="3">
         <ChapterTitle>第三章　生産森林組合</ChapterTitle>
         <Section Num="1">
-          <SectionTitle>第一節　事業、組合員、管理、設立、解散及び清算</SectionTitle>
+          <SectionTitle>第一節　事業、組合員、管理、設立、解散、合併及び清算</SectionTitle>
           <Article Num="93">
             <ArticleCaption>（事業の種類）</ArticleCaption>
             <ArticleTitle>第九十三条</ArticleTitle>
@@ -4226,8 +4499,8 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1">第四十二条第二項及び第三項、第四十三条、第四十三条の二、第四十四条第三項から第八項まで、第四十五条、第五十二条、第五十五条から第五十七条まで、第五十九条第二項から第四項まで、第六十条から第六十条の四まで、第六十一条（第一項第四号を除く。）、第六十二条、第六十三条（第四号に係る部分を除く。）、第六十三条の三、第六十三条の四、第六十五条、第六十六条、第六十七条、第六十八条第一項から第三項まで、第七十条、第七十二条並びに第七十三条並びに会社法第八百三十条、第八百三十一条、第八百三十四条（第十六号及び第十七号に係る部分に限る。）、第八百三十五条第一項、第八百三十六条第一項及び第三項、第八百三十七条、第八百三十八条並びに第八百四十六条の規定（これらの規定（これらの規定において準用する同法の規定を含む。）中監査役に関する部分を除く。）は組合の管理について、第四十四条の二、第四十七条第一項、第四十九条の三第一項、第八項及び第十項並びに第五十二条の二前段の規定は理事及び監事について、第四十九条の三第九項（第一号に係る部分に限る。）及び一般社団法人及び一般財団法人に関する法律第七十八条の規定は理事について、第四十四条の三第二項の規定は監事について、それぞれ準用する。</Sentence>
-                <Sentence Num="2">この場合において、第五十二条の二前段中「次条第一項の一時役員」とあるのは「第九十八条の六の一時理事」と、第五十五条第二項中「理事会の議決により」とあるのは「理事の過半数で」と、第五十六条第三項及び第五十九条第二項中「理事会」とあるのは「理事」と、第五十七条中「森林組合連合会」とあるのは「森林組合又は森林組合連合会」と、第六十条の二第二項中「理事会の決議によらなければ」とあるのは「理事の過半数で決しなければ」と、第六十一条第一項第六号中「森林組合連合会」とあるのは「森林組合若しくは森林組合連合会」と、同項第七号中「組合」とあるのは「森林組合」と、第六十五条第六項中「選挙」とあるのは「選挙及び解散、合併又は第百条の三第一項、第百条の十五第一項若しくは第百条の二十第一項に規定する組織変更の議決」と、第七十二条中「第二十条から第二十二条まで及び第六十七条の二から前条まで」とあるのは「第九十九条並びに第百条第二項において準用する第六十八条第一項から第三項まで及び第七十条」と、会社法第八百三十一条第一項中「第三百四十六条第一項（第四百七十九条第四項において準用する場合を含む。）」とあるのは「森林組合法第百条第二項において準用する同法第五十二条の二前段」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
+                <Sentence Num="1">第四十二条第二項及び第三項、第四十三条、第四十三条の二、第四十四条第三項から第八項まで、第四十五条、第五十二条、第五十五条、第五十六条、第五十九条第二項から第四項まで、第六十条から第六十条の四まで、第六十一条（第一項第四号を除く。）、第六十二条、第六十三条（第五号に係る部分を除く。）、第六十三条の三、第六十三条の四、第六十五条、第六十六条、第六十七条、第六十八条第一項から第三項まで、第七十条、第七十二条並びに第七十三条並びに会社法第八百三十条、第八百三十一条、第八百三十四条（第十六号及び第十七号に係る部分に限る。）、第八百三十五条第一項、第八百三十六条第一項及び第三項、第八百三十七条、第八百三十八条並びに第八百四十六条の規定（これらの規定（これらの規定において準用する同法の規定を含む。）中監査役に関する部分を除く。）は組合の管理について、第四十四条の二、第四十七条第一項、第四十九条の三第一項、第八項及び第十項並びに第五十二条の二前段の規定は理事及び監事について、第四十九条の三第九項（第一号に係る部分に限る。）及び一般社団法人及び一般財団法人に関する法律第七十八条の規定は理事について、第四十四条の三第二項の規定は監事について、それぞれ準用する。</Sentence>
+                <Sentence Num="2">この場合において、第五十二条の二前段中「次条第一項の一時役員」とあるのは「第九十八条の六の一時理事」と、第五十五条第二項中「理事会の決議により」とあるのは「理事の過半数で」と、第五十六条第三項及び第五十九条第二項中「理事会」とあるのは「理事」と、第六十条の二第二項中「理事会の決議によらなければ」とあるのは「理事の過半数で決しなければ」と、第六十一条第一項第六号及び第六十三条第四号中「第九条第一項第一号から第四号まで若しくは第二項第二号、第三号若しくは第六号に掲げる事業」とあるのは「第九十三条第一項の事業」と、同項第七号中「森林組合連合会」とあるのは「森林組合若しくは森林組合連合会」と、同項第八号中「組合」とあるのは「森林組合」と、第六十五条第六項中「選挙」とあるのは「選挙及び解散、合併又は第百条の三第一項、第百条の十五第一項若しくは第百条の二十第一項に規定する組織変更の決議」と、第七十二条中「第二十条から第二十二条まで及び第六十七条の二から前条まで」とあるのは「第九十九条並びに第百条第二項において準用する第六十八条第一項から第三項まで及び第七十条」と、会社法第八百三十一条第一項中「第三百四十六条第一項（第四百七十九条第四項において準用する場合を含む。）」とあるのは「森林組合法第百条第二項において準用する同法第五十二条の二前段」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -4240,7 +4513,7 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1">第八十三条（第六項を除く。）、第八十四条、第八十四条の三、第八十四条の四第一項及び第二項本文、第八十五条から第八十八条まで、第八十九条第一項並びに第九十条並びに会社法第五百二条並びに第五百七条第一項及び第三項の規定は、組合の解散及び清算について準用する。</Sentence>
+                <Sentence Num="1">第八十三条（第六項を除く。）の規定は組合の解散について、第八十四条、第八十四条の三、第八十四条の四第一項及び第二項本文、第八十五条（第三項を除く。）並びに第八十六条から第八十八条までの規定は組合の合併について、第八十九条第一項及び第九十条並びに会社法第五百二条並びに第五百七条第一項及び第三項の規定は組合の清算について、それぞれ準用する。</Sentence>
                 <Sentence Num="2">この場合において、第八十三条第四項中「十人」とあるのは「五人」と、同法第五百七条第一項中「法務省令」とあるのは「農林水産省令」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -4266,13 +4539,13 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence>組合は、前条の規定による組織変更（以下この款において「組織変更」という。）をするには、組織変更計画を作成して、総会の議決により、その承認を受けなければならない。</Sentence>
+                  <Sentence>組合は、前条の規定による組織変更（以下この款において「組織変更」という。）をするには、組織変更計画を作成して、総会の決議により、その承認を受けなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>前項の議決をする場合には、第百条第二項において準用する第六十三条（第四号に係る部分を除く。）の規定による議決によらなければならない。</Sentence>
+                  <Sentence>前項の決議をする場合には、第百条第二項において準用する第六十三条（第五号に係る部分を除く。）の規定による決議によらなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
@@ -4396,7 +4669,7 @@
                 <ParagraphNum>６</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Num="1">第六十六条並びに第六十七条第一項及び第二項の規定は、組織変更について準用する。</Sentence>
-                  <Sentence Num="2">この場合において、第六十六条第二項第一号中「出資一口の金額の減少の内容」とあるのは、「組織変更をする旨」と読み替えるものとする。</Sentence>
+                  <Sentence Num="2">この場合において、第六十六条第一項中「出資一口の金額の減少を」とあるのは「組織変更（第百条の三第一項に規定する組織変更をいう。以下同じ。）を」と、「、出資一口の金額の減少」とあるのは「、組織変更」と、同条第二項第一号中「出資一口の金額の減少の内容」とあるのは「組織変更をする旨」と、第六十七条第一項及び第二項ただし書中「出資一口の金額の減少」とあるのは「組織変更」と読み替えるものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -4406,7 +4679,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence>組織変更をする組合の組合員で、前条第一項の総会に先立つて当該組合に対し書面をもつて組織変更に反対の意思を通知したものは、組織変更の議決の日から二十日以内に書面をもつて持分の払戻しを請求することにより、組織変更の日に当該組合を脱退することができる。</Sentence>
+                  <Sentence>組織変更をする組合の組合員で、前条第一項の総会に先立つて当該組合に対し書面をもつて組織変更に反対の意思を通知したものは、組織変更の決議の日から二十日以内に書面をもつて持分の払戻しを請求することにより、組織変更の日に当該組合を脱退することができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -4474,7 +4747,7 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>組合は、組織変更の議決を行つたときは、当該議決の日から二週間以内に、その旨を前項の質権を有する者で知れているものに各別に通知しなければならない。</Sentence>
+                  <Sentence>組合は、組織変更の決議を行つたときは、当該決議の日から二週間以内に、その旨を前項の質権を有する者で知れているものに各別に通知しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -4626,7 +4899,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence>組合は、前条の規定による組織変更（以下この款において「組織変更」という。）をするには、組織変更計画を作成して、総会の議決により、その承認を受けなければならない。</Sentence>
+                  <Sentence>組合は、前条の規定による組織変更（以下この款において「組織変更」という。）をするには、組織変更計画を作成して、総会の決議により、その承認を受けなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -4741,7 +5014,7 @@
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Num="1">第六十六条、第六十七条第一項及び第二項、第百条の三第二項及び第三項、第百条の四、第百条の五第一項及び第二項、第百条の六、第百条の七、第百条の八第二項、第百条の九第四項並びに第百条の十から第百条の十三までの規定は、組織変更について準用する。</Sentence>
-                  <Sentence Num="2">この場合において、第六十六条第二項第一号中「出資一口の金額の減少の内容」とあるのは「組織変更をする旨」と、第百条の三第二項中「前項」とあるのは「第百条の十五第一項」と、同条第三項中「第一項の」とあるのは「第百条の十五第一項の」と、第百条の四第一項中「前条第一項」とあるのは「第百条の十五第一項」と、第百条の五第一項及び第二項中「株式又は」とあるのは「持分又は」と、第百条の六中「資本準備金」とあるのは「資本金」と、第百条の七第一項中「受けるべき株式又は」とあるのは「有すべき持分又は組織変更により受けるべき」と、第百条の八第二項中「前項」とあるのは「第百条の十六」と、第百条の九第四項中「第三章第二節第一款」とあるのは「第三章第二節第二款」と、第百条の十一第一項中「第百条の三第六項」とあるのは「第百条の十八」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
+                  <Sentence Num="2">この場合において、第六十六条第一項中「出資一口の金額の減少を」とあるのは「組織変更（第百条の十五第一項に規定する組織変更をいう。以下同じ。）を」と、「、出資一口の金額の減少」とあるのは「、組織変更」と、同条第二項第一号中「出資一口の金額の減少の内容」とあるのは「組織変更をする旨」と、第六十七条第一項及び第二項ただし書中「出資一口の金額の減少」とあるのは「組織変更」と、第百条の三第二項中「前項」とあるのは「第百条の十五第一項」と、同条第三項中「第一項の」とあるのは「第百条の十五第一項の」と、第百条の四第一項中「前条第一項」とあるのは「第百条の十五第一項」と、第百条の五第一項及び第二項中「株式又は」とあるのは「持分又は」と、第百条の六中「資本準備金」とあるのは「資本金」と、第百条の七第一項中「受けるべき株式又は」とあるのは「有すべき持分又は組織変更により受けるべき」と、第百条の八第二項中「前項」とあるのは「第百条の十六」と、第百条の九第四項中「第三章第二節第一款」とあるのは「第三章第二節第二款」と、第百条の十一第一項中「第百条の三第六項」とあるのは「第百条の十八」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -4764,7 +5037,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence>組合は、前条の規定による組織変更（以下この款において「組織変更」という。）をするには、組織変更計画を作成して、総会の議決により、その承認を受けなければならない。</Sentence>
+                  <Sentence>組合は、前条の規定による組織変更（以下この款において「組織変更」という。）をするには、組織変更計画を作成して、総会の決議により、その承認を受けなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -4904,7 +5177,7 @@
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Num="1">第六十六条、第六十七条第一項及び第二項、第百条の三第二項及び第三項、第百条の四、第百条の五第一項及び第二項、第百条の七、第百条の八第二項、第百条の九第四項並びに第百条の十から第百条の十三までの規定は、組織変更について準用する。</Sentence>
-                  <Sentence Num="2">この場合において、第六十六条第二項第一号中「出資一口の金額の減少の内容」とあるのは「組織変更をする旨」と、同項第二号中「農林水産省令」とあるのは「農林水産省令・総務省令」と、第百条の三第二項中「前項」とあるのは「第百条の二十第一項」と、同条第三項中「第一項の」とあるのは「第百条の二十第一項の」と、第百条の四第一項中「前条第一項」とあるのは「第百条の二十第一項」と、「通知したもの」とあるのは「通知したもの（同条第二項第一号に規定する組織変更後認可地縁団体の構成員となることができないものを除く。）」と、第百条の五第一項及び第二項並びに第百条の七第一項中「株式又は金銭」とあるのは「金銭」と、第百条の八第二項中「前項」とあるのは「第百条の二十二第一項」と、第百条の九第四項中「第三章第二節第一款」とあるのは「第三章第二節第三款」と、第百条の十一第一項中「第百条の三第六項」とあるのは「第百条の二十四」と、同条第二項第三号中「農林水産省令」とあるのは「農林水産省令・総務省令」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
+                  <Sentence Num="2">この場合において、第六十六条第一項中「出資一口の金額の減少を」とあるのは「組織変更（第百条の二十第一項に規定する組織変更をいう。以下同じ。）を」と、「、出資一口の金額の減少」とあるのは「、組織変更」と、同条第二項第一号中「出資一口の金額の減少の内容」とあるのは「組織変更をする旨」と、同項第二号中「農林水産省令」とあるのは「農林水産省令・総務省令」と、第六十七条第一項及び第二項ただし書中「出資一口の金額の減少」とあるのは「組織変更」と、第百条の三第二項中「前項」とあるのは「第百条の二十第一項」と、同条第三項中「第一項の」とあるのは「第百条の二十第一項の」と、第百条の四第一項中「前条第一項」とあるのは「第百条の二十第一項」と、「通知したもの」とあるのは「通知したもの（同条第二項第一号に規定する組織変更後認可地縁団体の構成員となることができないものを除く。）」と、第百条の五第一項及び第二項並びに第百条の七第一項中「株式又は金銭」とあるのは「金銭」と、第百条の八第二項中「前項」とあるのは「第百条の二十二第一項」と、第百条の九第四項中「第三章第二節第一款」とあるのは「第三章第二節第三款」と、第百条の十一第一項中「第百条の三第六項」とあるのは「第百条の二十四」と、同条第二項第三号中「農林水産省令」とあるのは「農林水産省令・総務省令」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -5117,13 +5390,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>出資連合会は、前条第一項に掲げる事業のほか、当該出資連合会の総会に総会員（第百四条第一項ただし書に規定する准会員を除く。）の半数以上が出席し、その議決権の三分の二以上の多数による議決を経て、林業を行う所属員の利益の増進又は森林の保続培養及び森林生産力の増進を期するためには当該出資連合会が自ら経営することが相当と認められる森林で、当該出資連合会の地区内にあるもの及びこれに併せて経営することを相当とする当該出資連合会の地区外にあるものにつき、森林の経営（委託又は信託を受けて行うものを除く。）及びこれに附帯する事業（第三項において「森林経営事業」という。）を併せ行うことができる。</Sentence>
+              <Sentence>出資連合会は、前条第一項に掲げる事業のほか、当該出資連合会の総会に総会員（第百四条第一項ただし書に規定する准会員を除く。）の半数以上が出席し、その議決権の三分の二以上の多数による決議を経て、林業を行う所属員の利益の増進又は森林の保続培養及び森林生産力の増進を期するためには当該出資連合会が自ら経営することが相当と認められる森林で、当該出資連合会の地区内にあるもの及びこれに併せて経営することを相当とする当該出資連合会の地区外にあるものにつき、森林の経営（委託又は信託を受けて行うものを除く。）及びこれに附帯する事業（第三項において「森林経営事業」という。）を併せ行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>出資連合会が前項の規定により議決をした場合には、当該議決をした日から二週間以内に、当該議決の内容を公告し、又は所属員（当該出資連合会を直接又は間接に構成する組合の組合員（第二十七条第一項第五号の規定による組合員を除く。次項において同じ。）に限る。次項において同じ。）に通知しなければならない。</Sentence>
+              <Sentence>出資連合会が前項の規定により決議をした場合には、当該決議をした日から二週間以内に、当該決議の内容を公告し、又は所属員（当該出資連合会を直接又は間接に構成する組合の組合員（第二十七条第一項第五号の規定による組合員を除く。次項において同じ。）に限る。次項において同じ。）に通知しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -5219,37 +5492,42 @@
           </Paragraph>
         </Article>
         <Article Num="106">
-          <ArticleCaption>（競業関係にある者の役員等への就任禁止）</ArticleCaption>
           <ArticleTitle>第百六条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>連合会の行う事業と実質的に競争関係にある事業（その連合会の所属員の営む林業及びその連合会の所属員たる組合若しくは連合会又はその連合会が所属員となつている連合会の行う事業を除く。）を営む者（その者が法人であるときは、これを代表する地位にある者）は、その連合会の理事、監事、参事又は会計主任になることができない。</Sentence>
+              <Sentence>削除</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="107">
-          <ArticleCaption>（総会の議決事項）</ArticleCaption>
+          <ArticleCaption>（総会の決議事項）</ArticleCaption>
           <ArticleTitle>第百七条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>次に掲げる事項は、総会の議決を経なければならない。</Sentence>
+              <Sentence>次に掲げる事項は、総会の決議を経なければならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>第六十一条第一項第一号、第二号（共同施業規程に係る部分を除く。）及び第三号から第六号までに掲げる事項</Sentence>
+                <Sentence>第六十一条第一項第一号、第二号（共同施業規程に係る部分を除く。）、第三号から第五号まで及び第七号に掲げる事項</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>連合会への加入又は連合会からの脱退</Sentence>
+                <Sentence>事業の全部の譲渡又は第百一条第一項第四号、第五号、第八号若しくは第十八号に掲げる事業の全部若しくは一部の譲渡</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>連合会への加入又は連合会からの脱退</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
               <ItemSentence>
                 <Sentence>一会員のためにする手形の割引金額の最高限度</Sentence>
               </ItemSentence>
@@ -5362,7 +5640,7 @@
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>第百一条第一項第一号の三又は第十三号に掲げる事業及びこれらに附帯する事業のみを行う森林組合連合会にあつては、第一項及び第四項に掲げる事由によるほか、第百九条第一項において準用する第十条第一項及び第十九条第一項の承認の取消しによつて解散する。</Sentence>
+              <Sentence>第百一条第一項第一号の三又は第十三号に掲げる事業及びこれらに附帯する事業のみを行う連合会にあつては、第一項及び第四項に掲げる事由によるほか、第百九条第一項において準用する第十条第一項及び第十九条第一項の承認の取消しによつて解散する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -5408,6 +5686,404 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Num="108_4">
+          <ArticleCaption>（吸収分割の手続）</ArticleCaption>
+          <ArticleTitle>第百八条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">出資連合会は、吸収分割（出資連合会がその事業に関して有する権利義務の全部又は一部を分割後他の出資連合会に承継させることをいう。以下この章において同じ。）をすることができる。</Sentence>
+              <Sentence Num="2">この場合においては、吸収分割をする出資連合会（以下「吸収分割連合会」という。）とその事業に関して有する権利義務の全部又は一部を当該吸収分割連合会から承継する出資連合会（以下「吸収分割承継連合会」という。）とは、吸収分割契約を締結しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>吸収分割連合会及び吸収分割承継連合会は、吸収分割契約について、それぞれ総会の決議により、その承認を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>次に掲げる場合には、吸収分割承継連合会の理事は、前項の総会において、その旨を説明しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>吸収分割承継連合会が承継する吸収分割連合会の債務の額として農林水産省令で定める額（次号において「承継債務額」という。）が吸収分割承継連合会が承継する吸収分割連合会の資産の額として農林水産省令で定める額（同号において「承継資産額」という。）を超える場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>吸収分割承継連合会が吸収分割連合会に対して交付する金銭等（吸収分割承継連合会に対する出資を除く。）の帳簿価額が承継資産額から承継債務額を控除して得た額を超える場合</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="108_5">
+          <ArticleTitle>第百八条の五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>吸収分割契約には、次に掲げる事項を定めなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>吸収分割連合会及び吸収分割承継連合会の吸収分割後の名称、地区及び主たる事務所の所在地</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>吸収分割承継連合会が吸収分割連合会から承継する資産、債務、雇用契約その他の権利義務に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>吸収分割承継連合会が吸収分割に際して吸収分割連合会に対してその事業に関する権利義務の全部又は一部に代わる金銭等を交付するときは、当該金銭等についての次に掲げる事項</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>当該金銭等が吸収分割承継連合会に対する出資であるときは、当該出資の口数又はその口数の算定方法</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>当該金銭等が吸収分割承継連合会に対する出資以外の財産であるときは、当該財産の内容及び数若しくは額又はこれらの算定方法</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>吸収分割承継連合会の準備金に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>その他農林水産省令で定める事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>吸収分割は、行政庁の認可を受けなければ、その効力を生じない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第七十八条第二項、第七十九条及び第八十条の規定は、前項の認可について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="108_6">
+          <ArticleTitle>第百八条の六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>吸収分割連合会が吸収分割によつて吸収分割承継連合会に承継させる資産の帳簿価額の合計額が吸収分割連合会の最終の貸借対照表により現存する資産の額の五分の一（これを下回る割合を吸収分割連合会の定款で定めた場合にあつては、その割合）を超えない場合における吸収分割連合会の吸収分割についての第百八条の四第二項の規定の適用については、同項中「総会」とあるのは、「総会又は理事会」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>吸収分割承継連合会が吸収分割に際して吸収分割連合会に対して交付する吸収分割承継連合会に対する出資の口数にその一口当たりの純資産額を乗じて得た額（出資以外の財産も交付する場合にあつては、その帳簿価額の合計額を加えた額）が吸収分割承継連合会の最終の貸借対照表により現存する資産の額の五分の一（これを下回る割合を吸収分割承継連合会の定款で定めた場合にあつては、その割合）を超えない場合（第百八条の四第三項各号のいずれかに該当する場合を除く。）における吸収分割承継連合会の吸収分割についての同条第二項の規定の適用については、同項中「総会」とあるのは、「総会又は理事会」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前二項の規定により総会の決議を経ないで吸収分割を行う吸収分割連合会又は吸収分割承継連合会は、その旨を吸収分割契約に定めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>吸収分割連合会又は吸収分割承継連合会が第一項又は第二項の規定により総会の決議を経ないで吸収分割を行う場合においては、当該吸収分割連合会又は吸収分割承継連合会は、吸収分割についての理事会の決議の日から二週間以内に、当該吸収分割の相手方である吸収分割承継連合会又は吸収分割連合会の名称及び住所、吸収分割を行う時期並びに第一項又は第二項の規定により総会の決議を経ないで吸収分割を行う旨を公告し、又は会員に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>吸収分割連合会の総会員（准会員を除く。）の六分の一以上の会員（准会員を除く。）が前項の規定による公告又は通知の日から二週間以内に当該吸収分割連合会に対し書面をもつて吸収分割に反対の意思の通知を行つたときは、第一項の規定により総会の決議を経ないで吸収分割を行うことはできない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>吸収分割承継連合会の総会員（准会員を除く。）の六分の一以上の会員（准会員を除く。）が第四項の規定による公告又は通知の日から二週間以内に当該吸収分割承継連合会に対し書面をもつて吸収分割に反対の意思の通知を行つたときは、第二項の規定により総会の決議を経ないで吸収分割を行うことはできない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="108_7">
+          <ArticleCaption>（準用規定）</ArticleCaption>
+          <ArticleTitle>第百八条の七</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">第六十六条、第六十七条第一項及び第二項、第八十四条の三（第一項第三号を除く。）、第八十四条の四、第八十六条並びに第八十七条の二並びに民法第三百九十八条の十の規定は、吸収分割について準用する。</Sentence>
+              <Sentence Num="2">この場合において、第六十六条第一項中「出資一口の金額の減少を」とあるのは「吸収分割（第百八条の四第一項に規定する吸収分割をいう。以下同じ。）を」と、「、出資一口の金額の減少」とあるのは「、吸収分割」と、同条第二項第一号中「出資一口の金額の減少の内容」とあるのは「吸収分割をする旨」と、同条第三項中「催告」とあるのは「催告（不法行為によつて生じた債務の債権者に対するものを除く。）」と、第六十七条第一項及び第二項ただし書中「出資一口の金額の減少」とあるのは「吸収分割」と、第八十四条の三第一項中「第八十四条第一項の合併契約」とあるのは「吸収分割契約」と、同項第一号中「合併によつて消滅する組合」とあるのは「吸収分割連合会（第百八条の四第一項に規定する吸収分割連合会をいう。以下同じ。）」と、「まで」とあるのは「後六月を経過する日まで」と、同号イ中「第八十四条第一項の総会の日」とあるのは「第百八条の四第二項の総会の日（第百八条の六第一項の規定により総会の決議を経ないで吸収分割を行う場合にあつては、理事会の決議の日）」と、同号ロ中「第八十四条第四項」とあるのは「第百八条の七」と、同項第二号中「合併後存続する組合」とあるのは「吸収分割承継連合会（第百八条の四第一項に規定する吸収分割承継連合会をいう。以下同じ。）」と、同号イ中「第八十四条第一項」とあるのは「第百八条の四第二項」と、「前条第一項」とあるのは「第百八条の六第二項」と、同条第二項中「組合員」とあるのは「所属員（第百一条第一項第一号に規定する所属員をいう。以下同じ。）」と、同条第三項中「組合員」とあるのは「所属員」と、第八十四条の四第一項中「合併によつて消滅する組合」とあるのは「吸収分割連合会」と、「組合員」とあるのは「所属員」と、「できる」とあるのは「できる。ただし、第百八条の六第一項の規定により総会の決議を経ないで吸収分割を行う場合（同条第五項の通知があつた場合を除く。）は、この限りでない」と、同条第二項中「合併後存続する組合」とあるのは「吸収分割承継連合会」と、「組合員」とあるのは「所属員」と、同項ただし書中「第八十四条の二第一項」とあるのは「第百八条の六第二項」と、「同条第四項」とあるのは「同条第六項」と、第八十六条中「合併後存続する組合又は合併によつて成立する組合」とあるのは「吸収分割承継連合会」と、第八十七条の二第一項中「合併後存続する組合又は合併によつて成立した組合の理事は」とあるのは「吸収分割連合会の理事は、吸収分割承継連合会の理事と共同して」と、「これらの組合が承継した合併によつて消滅した組合」とあるのは「吸収分割承継連合会が承継した吸収分割連合会」と、同条第三項及び第四項中「組合員及び組合の債権者」とあるのは「吸収分割連合会又は吸収分割承継連合会の所属員及び債権者その他の利害関係人」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="108_8">
+          <ArticleCaption>（吸収分割による権利義務の承継）</ArticleCaption>
+          <ArticleTitle>第百八条の八</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>吸収分割承継連合会は、吸収分割がその効力を生ずる日に、吸収分割契約の定めに従い、吸収分割連合会の権利義務を承継する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の規定にかかわらず、吸収分割連合会の債権者であつて、前条において読み替えて準用する第六十六条第二項の規定による各別の催告を受けなかつたもの（同条第三項に規定する場合にあつては、不法行為によつて生じた債務の債権者であるものに限る。次項において同じ。）は、吸収分割契約において吸収分割後に当該吸収分割連合会に対して債務の履行を請求することができないものとされているときであつても、当該吸収分割連合会に対して、当該吸収分割連合会が吸収分割がその効力を生ずる日に有していた財産の価額を限度として、当該債務の履行を請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の規定にかかわらず、吸収分割連合会の債権者であつて、前条において読み替えて準用する第六十六条第二項の規定による各別の催告を受けなかつたものは、吸収分割契約において吸収分割後に吸収分割承継連合会に対して債務の履行を請求することができないものとされているときであつても、当該吸収分割承継連合会に対して、その承継した財産の価額を限度として、当該債務の履行を請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>吸収分割連合会は、吸収分割がその効力を生ずる日に、第百八条の五第一項第三号イに掲げる事項についての吸収分割契約の定めに従い、吸収分割承継連合会の会員となる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="108_9">
+          <ArticleCaption>（労働契約についての会社分割に伴う労働契約の承継等に関する法律の準用）</ArticleCaption>
+          <ArticleTitle>第百八条の九</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>吸収分割に伴う労働契約の承継に関しては、吸収分割連合会は、次項において準用する会社分割に伴う労働契約の承継等に関する法律第二条第一項に規定する通知期限日までに、当該労働者と協議をするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">会社分割に伴う労働契約の承継等に関する法律第二条から第八条までの規定は、前項の労働契約の承継について準用する。</Sentence>
+              <Sentence Num="2">この場合において、同法第二条第一項中「会社法第五編第三章及び第五章の規定による分割（吸収分割又は新設分割をいう。以下同じ」とあるのは「森林組合法第百八条の四第一項に規定する吸収分割（以下「分割」という」と、同法第四条第四項、第五条第三項並びに第六条第二項及び第三項中「会社法第七百五十九条第一項、第七百六十一条第一項、第七百六十四条第一項又は第七百六十六条第一項」とあるのは「森林組合法第百八条の八第一項」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="108_10">
+          <ArticleCaption>（吸収分割の無効の訴えについての会社法の準用）</ArticleCaption>
+          <ArticleTitle>第百八条の十</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">会社法第八百二十八条第一項（第九号に係る部分に限る。）及び第二項（第九号に係る部分に限る。）、第八百三十四条（第九号に係る部分に限る。）、第八百三十五条から第八百三十九条まで、第八百四十三条（第一項第一号、第二号及び第四号並びに第二項ただし書を除く。）並びに第八百四十六条の規定は吸収分割の無効の訴えについて、同法第八百六十八条第六項、第八百七十条第二項（第六号に係る部分に限る。）、第八百七十条の二、第八百七十一条本文、第八百七十二条（第五号に係る部分に限る。）、第八百七十二条の二、第八百七十三条本文、第八百七十五条及び第八百七十六条の規定はこの条において準用する同法第八百四十三条第四項の申立てについて、それぞれ準用する。</Sentence>
+              <Sentence Num="2">この場合において、同法第八百二十八条第二項第九号中「株主等若しくは社員等」とあるのは「所属員（森林組合法第百一条第一項第一号に規定する所属員をいう。以下同じ。）、理事、監事若しくは清算人」と、「株主等、社員等」とあるのは「所属員、理事、監事、清算人」と、同法第八百三十六条第一項中「株主又は設立時株主」とあるのは「所属員」と、同項ただし書中「株主が取締役」とあるのは「所属員が理事」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="108_11">
+          <ArticleCaption>（政令への委任）</ArticleCaption>
+          <ArticleTitle>第百八条の十一</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第百八条の四から前条までに定めるもののほか、吸収分割に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="108_12">
+          <ArticleCaption>（新設分割の手続）</ArticleCaption>
+          <ArticleTitle>第百八条の十二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">二以上の出資組合又は出資連合会は、新設分割（二以上の出資組合又は出資連合会がその事業に関して有する権利義務の全部又は一部を分割により設立する出資連合会に承継させることをいう。以下同じ。）をすることができる。</Sentence>
+              <Sentence Num="2">この場合においては、新設分割をする出資組合又は出資連合会（以下「新設分割組合等」という。）は、共同して新設分割計画を作成しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>新設分割組合等は、新設分割計画について、それぞれ総会の決議により、その承認を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="108_13">
+          <ArticleTitle>第百八条の十三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>新設分割計画には、次に掲げる事項を定めなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>新設分割によつて設立する出資連合会（以下「新設分割設立連合会」という。）の第百九条第三項において準用する第四十二条第一項各号に掲げる事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>前号に掲げるもののほか、新設分割設立連合会の定款で定める事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>新設分割設立連合会が新設分割組合等から承継する資産、債務、雇用契約その他の権利義務に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>新設分割組合等が新設分割に際して取得する新設分割設立連合会に対する出資の口数又はその口数の算定方法</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>新設分割組合等に対する前号の出資の割当てに関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence>新設分割設立連合会の準備金に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence>その他農林水産省令で定める事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>新設分割は、行政庁の認可を受けなければ、その効力を生じない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第七十八条第二項、第七十九条及び第八十条の規定は、前項の認可について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="108_14">
+          <ArticleTitle>第百八条の十四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>新設分割組合等が新設分割によつて新設分割設立連合会に承継させる資産の帳簿価額の合計額が新設分割組合等の最終の貸借対照表により現存する資産の額の五分の一（これを下回る割合を新設分割組合等の定款で定めた場合にあつては、その割合）を超えない場合における新設分割についての第百八条の十二第二項の規定の適用については、同項中「総会」とあるのは、「総会又は理事会」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の規定により総会の決議を経ないで新設分割を行う新設分割組合等は、その旨を新設分割計画に定めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>新設分割組合等が第一項の規定により総会の決議を経ないで新設分割を行う場合においては、当該新設分割組合等は、新設分割についての理事会の決議の日から二週間以内に、新設分割設立連合会の名称及び住所、新設分割を行う時期並びに同項の規定により総会の決議を経ないで新設分割を行う旨を公告し、又は組合員若しくは会員に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>新設分割組合等の総組合員（准組合員を除く。）又は総会員（准会員を除く。）の六分の一以上の組合員（准組合員を除く。）又は会員（准会員を除く。）が前項の規定による公告又は通知の日から二週間以内に当該新設分割組合等に対し書面をもつて新設分割に反対の意思の通知を行つたときは、第一項の規定により総会の決議を経ないで新設分割を行うことはできない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="108_15">
+          <ArticleCaption>（準用規定）</ArticleCaption>
+          <ArticleTitle>第百八条の十五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">第六十五条の二、第六十六条、第六十七条第一項及び第二項、第八十四条の三（第一項第一号を除く。）、第八十四条の四第二項、第八十五条、第八十六条並びに第八十七条の二並びに民法第三百九十八条の十の規定は、新設分割について準用する。</Sentence>
+              <Sentence Num="2">この場合において、第六十六条第一項中「出資一口の金額の減少を」とあるのは「新設分割（第百八条の十二第一項に規定する新設分割をいう。以下同じ。）を」と、「、出資一口の金額の減少」とあるのは「、新設分割」と、同条第二項第一号中「出資一口の金額の減少の内容」とあるのは「新設分割をする旨」と、同条第三項中「催告」とあるのは「催告（不法行為によつて生じた債務の債権者に対するものを除く。）」と、第六十七条第一項及び第二項ただし書中「出資一口の金額の減少」とあるのは「新設分割」と、第八十四条の三第一項中「第八十四条第一項の合併契約」とあるのは「新設分割計画」と、同項第二号中「合併後存続する組合」とあるのは「新設分割組合等（第百八条の十二第一項に規定する新設分割組合等をいう。以下同じ。）」と、同号イ中「第八十四条第一項」とあるのは「第百八条の十二第二項」と、「前条第一項」とあるのは「第百八条の十四第一項」と、同号ロ中「前号ロに掲げる日」とあるのは「第百八条の十五において準用する第六十六条第二項の規定による公告の日又は同項の規定による催告の日のいずれか早い日」と、同項第三号中「合併によつて成立する組合」とあるのは「新設分割設立連合会（第百八条の十三第一項第一号に規定する新設分割設立連合会をいう。以下同じ。）」と、同条第二項中「組合員」とあるのは「組合員又は所属員（第百一条第一項第一号に規定する所属員をいう。以下同じ。）」と、同条第三項中「組合員」とあるのは「組合員又は所属員」と、第八十四条の四第二項中「合併後存続する組合」とあるのは「新設分割組合等」と、「組合員」とあるのは「組合員又は所属員」と、同項ただし書中「第八十四条の二第一項」とあるのは「第百八条の十四第一項」と、第八十五条第一項中「組合員（准組合員を除く。）」とあるのは「出資組合にあつては組合員（准組合員を除く。）、第百一条第二項に規定する出資連合会にあつては会員である組合又は連合会の役員」と、同条第三項中「第四十四条第九項本文、第十項及び第十一項」とあるのは「第四十四条第十項及び第十一項並びに第百五条本文」と、第八十六条中「合併後存続する組合又は合併によつて成立する組合」とあるのは「新設分割設立連合会」と、第八十七条の二第一項中「合併後存続する組合又は合併によつて成立した組合の理事は」とあるのは「新設分割組合等の理事は、新設分割設立連合会の理事と共同して」と、「これらの組合が承継した合併によつて消滅した組合」とあるのは「新設分割設立連合会が承継した新設分割組合等」と、同条第三項及び第四項中「組合員及び組合の債権者」とあるのは「新設分割組合等又は新設分割設立連合会の組合員、所属員及び債権者その他の利害関係人」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="108_16">
+          <ArticleCaption>（新設分割による権利義務の承継）</ArticleCaption>
+          <ArticleTitle>第百八条の十六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>新設分割設立連合会は、その成立の日に、新設分割計画の定めに従い、新設分割組合等の権利義務を承継する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の規定にかかわらず、新設分割組合等の債権者であつて、前条において読み替えて準用する第六十六条第二項の規定による各別の催告を受けなかつたもの（同条第三項に規定する場合にあつては、不法行為によつて生じた債務の債権者であるものに限る。次項において同じ。）は、新設分割計画において新設分割後に当該新設分割組合等に対して債務の履行を請求することができないものとされているときであつても、当該新設分割組合等に対して、当該新設分割組合等が新設分割設立連合会の成立の日に有していた財産の価額を限度として、当該債務の履行を請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の規定にかかわらず、新設分割組合等の債権者であつて、前条において読み替えて準用する第六十六条第二項の規定による各別の催告を受けなかつたものは、新設分割計画において新設分割後に新設分割設立連合会に対して債務の履行を請求することができないものとされているときであつても、当該新設分割設立連合会に対して、その承継した財産の価額を限度として、当該債務の履行を請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>新設分割組合等は、新設分割設立連合会の成立の日に、第百八条の十三第一項第四号及び第五号に掲げる事項についての新設分割計画の定めに従い、当該新設分割設立連合会の会員となる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="108_17">
+          <ArticleCaption>（労働契約についての会社分割に伴う労働契約の承継等に関する法律の準用）</ArticleCaption>
+          <ArticleTitle>第百八条の十七</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>新設分割に伴う労働契約の承継に関しては、新設分割組合等は、次項において準用する会社分割に伴う労働契約の承継等に関する法律第二条第一項に規定する通知期限日までに、当該労働者と協議をするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">会社分割に伴う労働契約の承継等に関する法律第二条から第八条までの規定は、前項の労働契約の承継について準用する。</Sentence>
+              <Sentence Num="2">この場合において、同法第二条第一項中「会社法第五編第三章及び第五章の規定による分割（吸収分割又は新設分割をいう。以下同じ」とあるのは「森林組合法第百八条の十二第一項に規定する新設分割（以下「分割」という」と、同法第四条第四項、第五条第三項並びに第六条第二項及び第三項中「会社法第七百五十九条第一項、第七百六十一条第一項、第七百六十四条第一項又は第七百六十六条第一項」とあるのは「森林組合法第百八条の十六第一項」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="108_18">
+          <ArticleCaption>（新設分割の無効の訴えについての会社法の準用）</ArticleCaption>
+          <ArticleTitle>第百八条の十八</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">会社法第八百二十八条第一項（第十号に係る部分に限る。）及び第二項（第十号に係る部分に限る。）、第八百三十四条（第十号に係る部分に限る。）、第八百三十五条から第八百三十九条まで、第八百四十三条（第一項第一号から第三号まで及び第二項ただし書を除く。）並びに第八百四十六条の規定は新設分割の無効の訴えについて、同法第八百六十八条第六項、第八百七十条第二項（第六号に係る部分に限る。）、第八百七十条の二、第八百七十一条本文、第八百七十二条（第五号に係る部分に限る。）、第八百七十二条の二、第八百七十三条本文、第八百七十五条及び第八百七十六条の規定はこの条において準用する同法第八百四十三条第四項の申立てについて、それぞれ準用する。</Sentence>
+              <Sentence Num="2">この場合において、同法第八百二十八条第二項第十号中「株主等若しくは社員等」とあるのは「組合員、所属員（森林組合法第百一条第一項第一号に規定する所属員をいう。以下同じ。）、理事、監事若しくは清算人」と、「株主等、社員等」とあるのは「組合員、所属員、理事、監事、清算人」と、同法第八百三十六条第一項中「株主又は設立時株主」とあるのは「組合員又は所属員」と、同項ただし書中「株主が取締役」とあるのは「組合員又は所属員が理事」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="108_19">
+          <ArticleCaption>（政令への委任）</ArticleCaption>
+          <ArticleTitle>第百八条の十九</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第百八条の十二から前条までに定めるもののほか、新設分割に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Num="109">
           <ArticleCaption>（準用規定）</ArticleCaption>
           <ArticleTitle>第百九条</ArticleTitle>
@@ -5421,14 +6097,14 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>第二十八条から第三十条まで、第三十一条第三項から第八項まで及び第三十二条から第四十一条の二までの規定は、連合会の会員について準用する。</Sentence>
+              <Sentence>第二十八条から第三十条まで、第三十一条第三項から第八項まで、第三十二条、第三十三条及び第三十五条から第四十一条の二までの規定は、連合会の会員について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1">第四十二条から第四十三条の二まで、第四十四条（第三項ただし書、第七項及び第九項を除く。）、第四十四条の二から第五十六条まで、第五十八条から第六十条の四まで、第六十一条第二項から第四項まで、第六十二条から第六十四条まで及び第六十六条から第七十三条までの規定は、連合会の管理について準用する。</Sentence>
-              <Sentence Num="2">この場合において、第四十四条第五項中「一人」とあるのは「一人（第百四条第二項の規定によりその会員に対して二個以上の選挙権を与える森林組合連合会にあつては、選挙権一個）」と、第六十八条第四項中「第九条第一項第一号又は同条第二項第十四号に掲げる事業」とあるのは「第百一条第一項第一号又は第十六号に掲げる事業」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
+              <Sentence Num="2">この場合において、第四十四条第五項中「一人」とあるのは「一人（第百四条第二項の規定によりその会員に対して二個以上の選挙権を与える森林組合連合会にあつては、選挙権一個）」と、第四十五条第三項中「合併」とあるのは「合併又は第百八条の十二第一項に規定する新設分割」と、第六十三条第二号中「第八十八条の二第一項」とあるのは「第八十八条の二第一項若しくは第百八条の四第一項」と、同条第四号中「第九条第一項第一号から第四号まで若しくは第二項第二号、第三号若しくは第六号に掲げる事業」とあるのは「第百一条第一項第四号、第五号、第八号若しくは第十八号に掲げる事業」と、第六十八条第四項中「第九条第一項第一号又は同条第二項第十四号に掲げる事業」とあるのは「第百一条第一項第一号又は第十六号に掲げる事業」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -5441,8 +6117,8 @@
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1">第八十四条から第九十条まで及び第九十二条の規定は、連合会の解散及び清算について準用する。</Sentence>
-              <Sentence Num="2">この場合において、第八十五条第三項中「第四十四条第九項本文」とあるのは「第百五条本文」と、第八十九条第一項中「及び破産手続開始の決定」とあるのは「、破産手続開始の決定及び第百八条の二第四項第一号に掲げる事由」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
+              <Sentence Num="1">第八十四条から第八十八条までの規定は連合会の合併について、第八十九条から第九十条まで及び第九十二条の規定は連合会の清算について、それぞれ準用する。</Sentence>
+              <Sentence Num="2">この場合において、第八十五条第三項中「第四十四条第九項本文、第十項及び第十一項」とあるのは「第百五条本文並びに第百九条第三項において準用する第四十四条第十項及び第十一項」と、第八十九条第一項中「及び破産手続開始の決定」とあるのは「、破産手続開始の決定及び第百八条の二第四項第一号に掲げる事由」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -5595,12 +6271,12 @@
           </Paragraph>
         </Article>
         <Article Num="115">
-          <ArticleCaption>（議決、選挙及び当選の取消し）</ArticleCaption>
+          <ArticleCaption>（決議、選挙及び当選の取消し）</ArticleCaption>
           <ArticleTitle>第百十五条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>組合員（准組合員を除く。）又は会員（准会員を除く。）が総組合員（准組合員を除く。）又は総会員（准会員を除く。）の十分の一以上の同意を得て、総会の招集手続、議決の方法又は選挙が法令、法令に基づいてする行政庁の処分又は定款若しくは規約に違反することを理由とし、その議決又は選挙若しくは当選決定の日から一月以内にその議決又は選挙若しくは当選の取消しを請求した場合において、行政庁は、その違反の事実があると認めるときは、その議決又は選挙若しくは当選を取り消すことができる。</Sentence>
+              <Sentence>組合員（准組合員を除く。）又は会員（准会員を除く。）が総組合員（准組合員を除く。）又は総会員（准会員を除く。）の十分の一以上の同意を得て、総会の招集手続、決議の方法又は選挙が法令、法令に基づいてする行政庁の処分又は定款若しくは規約に違反することを理由とし、その決議又は選挙若しくは当選決定の日から一月以内にその決議又は選挙若しくは当選の取消しを請求した場合において、行政庁は、その違反の事実があると認めるときは、その決議又は選挙若しくは当選を取り消すことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -5617,12 +6293,11 @@
           </Paragraph>
         </Article>
         <Article Num="116">
-          <ArticleCaption>（専用契約の取消し）</ArticleCaption>
           <ArticleTitle>第百十六条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>行政庁は、第三十四条第一項（第百九条第二項において準用する場合を含む。）の規定による契約の内容が公益に反すると認めるときは、その契約を取り消すことができる。</Sentence>
+              <Sentence>削除</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -5849,19 +6524,13 @@
             <Item Num="6_3">
               <ItemTitle>六の三</ItemTitle>
               <ItemSentence>
-                <Sentence>第三十一条第八項（第百条第一項及び第百九条第二項において準用する場合を含む。次号において同じ。）、第七十七条第八項（第百九条第四項において準用する場合を含む。以下この項において同じ。）若しくは第百条第三項において準用する会社法第三百十条第六項、第三百十一条第三項若しくは第三百十二条第四項の規定又は第四十一条の二第二項（第九十二条（第百九条第五項において準用する場合を含む。以下この項において同じ。）、第百条第一項及び第百九条第二項において準用する場合を含む。）、第四十三条の二第一項（第九十二条、第百条第二項及び第百九条第三項において準用する場合を含む。）、第四十六条の三第一項（第九十二条及び第百九条第三項において準用する場合を含む。）若しくは第二項（第百九条第三項において準用する場合を含む。）、第五十条第九項（第九十二条及び第百九条第三項において準用する場合を含む。）若しくは第十項（第百九条第三項において準用する場合を含む。）、第六十三条の四第二項若しくは第三項（これらの規定を第七十七条第八項、第九十二条、第百条第二項及び第三項並びに第百九条第三項において準用する場合を含む。）、第六十六条第一項（第八十四条第四項（第百条第四項、第百八条の三第二項及び第百九条第五項において準用する場合を含む。）、第百条第二項及び第百九条第三項において準用する場合を含む。）、第八十四条の三第一項（第百条第四項、第百八条の三第二項及び第百九条第五項において準用する場合を含む。）、第八十七条の二第二項（第百条第四項、第百八条の三第二項及び第百九条第五項において準用する場合を含む。）若しくは第九十八条の九第三項の規定に違反して、書類若しくは電磁的記録を備えて置かず、その書類若しくは電磁的記録に記載し、若しくは記録すべき事項を記載せず、若しくは記録せず、又は虚偽の記載若しくは記録をしたとき。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="6_4">
-              <ItemTitle>六の四</ItemTitle>
-              <ItemSentence>
-                <Sentence>第三十一条第八項、第七十七条第八項若しくは第百条第三項において準用する会社法第三百十条第七項、第三百十一条第四項若しくは第三百十二条第五項の規定又は第四十一条の二第三項（第九十二条、第百条第一項及び第百九条第二項において準用する場合を含む。）、第四十三条の二第二項（第九十二条、第百条第二項及び第百九条第三項において準用する場合を含む。）、第四十六条の三第三項（第九十二条及び第百九条第三項において準用する場合を含む。）、第五十条第十一項（第九十二条及び第百九条第三項において準用する場合を含む。）、第六十三条の四第四項（第七十七条第八項、第九十二条、第百条第二項及び第三項並びに第百九条第三項において準用する場合を含む。）、第八十四条の三第二項（第百条第四項、第百八条の三第二項及び第百九条第五項において準用する場合を含む。）、第八十七条の二第三項（第百条第四項、第百八条の三第二項及び第百九条第五項において準用する場合を含む。）若しくは第九十八条の九第四項の規定に違反して、正当な理由がないのに、書類若しくは電磁的記録に記録された事項を農林水産省令で定める方法により表示したものの閲覧若しくは謄写又は書類の謄本若しくは抄本の交付、電磁的記録に記録された事項を電磁的方法により提供すること若しくはその事項を記載した書面の交付を拒んだとき。</Sentence>
+                <Sentence>第三十一条第八項（第百条第一項及び第百九条第二項において準用する場合を含む。次号において同じ。）、第七十七条第八項（第百九条第四項において準用する場合を含む。以下この項において同じ。）若しくは第百条第三項において準用する会社法第三百十条第六項、第三百十一条第三項若しくは第三百十二条第四項の規定又は第四十一条の二第二項（第九十二条（第百九条第五項において準用する場合を含む。以下この項において同じ。）、第百条第一項及び第百九条第二項において準用する場合を含む。）、第四十三条の二第一項（第九十二条、第百条第二項及び第百九条第三項において準用する場合を含む。）、第四十六条の三第一項（第九十二条及び第百九条第三項において準用する場合を含む。）若しくは第二項（第百九条第三項において準用する場合を含む。）、第五十条第九項（第九十二条及び第百九条第三項において準用する場合を含む。）若しくは第十項（第百九条第三項において準用する場合を含む。）、第六十三条の四第二項若しくは第三項（これらの規定を第七十七条第八項、第九十二条、第百条第二項及び第三項並びに第百九条第三項において準用する場合を含む。）、第八十四条の三第一項（第八十八条の五第一項、第百条第四項、第百八条の三第二項、第百八条の七、第百八条の十五及び第百九条第五項において準用する場合を含む。）、第八十七条の二第二項（第八十八条の五第一項、第百条第四項、第百八条の三第二項、第百八条の七、第百八条の十五及び第百九条第五項において準用する場合を含む。）若しくは第九十八条の九第三項の規定に違反して、書類若しくは電磁的記録を備えて置かず、その書類若しくは電磁的記録に記載し、若しくは記録すべき事項を記載せず、若しくは記録せず、又は虚偽の記載若しくは記録をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence>第三十四条第二項（第百九条第二項において準用する場合を含む。）の規定に違反したとき。</Sentence>
+                <Sentence>第三十一条第八項、第七十七条第八項若しくは第百条第三項において準用する会社法第三百十条第七項、第三百十一条第四項若しくは第三百十二条第五項の規定又は第四十一条の二第三項（第九十二条、第百条第一項及び第百九条第二項において準用する場合を含む。）、第四十三条の二第二項（第九十二条、第百条第二項及び第百九条第三項において準用する場合を含む。）、第四十六条の三第三項（第九十二条及び第百九条第三項において準用する場合を含む。）、第五十条第十一項（第九十二条及び第百九条第三項において準用する場合を含む。）、第六十三条の四第四項（第七十七条第八項、第九十二条、第百条第二項及び第三項並びに第百九条第三項において準用する場合を含む。）、第八十四条の三第二項（第八十八条の五第一項、第百条第四項、第百八条の三第二項、第百八条の七、第百八条の十五及び第百九条第五項において準用する場合を含む。）、第八十七条の二第三項（第八十八条の五第一項、第百条第四項、第百八条の三第二項、第百八条の七、第百八条の十五及び第百九条第五項において準用する場合を含む。）若しくは第九十八条の九第四項の規定に違反して、正当な理由がないのに、書類若しくは電磁的記録に記録された事項を農林水産省令で定める方法により表示したものの閲覧若しくは謄写又は書類の謄本若しくは抄本の交付、電磁的記録に記録された事項を電磁的方法により提供すること若しくはその事項を記載した書面の交付を拒んだとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
@@ -5915,7 +6584,7 @@
             <Item Num="12">
               <ItemTitle>十二</ItemTitle>
               <ItemSentence>
-                <Sentence>第五十八条（第百九条第三項において準用する場合を含む。）の規定、第五十九条第二項若しくは第六十条第二項（これらの規定を第五十二条第四項（第百条第二項及び第百九条第三項において準用する場合を含む。）、第九十二条、第百条第二項及び第百九条第三項において準用する場合を含む。）の規定、第六十五条の二第二項若しくは第四項（これらの規定を第百八条の三第二項において準用する場合を含む。）の規定又は第九十八条の十の規定に違反したとき。</Sentence>
+                <Sentence>第五十八条（第百九条第三項において準用する場合を含む。）の規定、第五十九条第二項若しくは第六十条第二項（これらの規定を第五十二条第四項（第百条第二項及び第百九条第三項において準用する場合を含む。）、第九十二条、第百条第二項及び第百九条第三項において準用する場合を含む。）の規定、第六十五条の二第二項若しくは第四項（これらの規定を第八十八条の五第一項、第百八条の三第二項及び第百八条の十五において準用する場合を含む。）の規定又は第九十八条の十の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="13">
@@ -5927,13 +6596,13 @@
             <Item Num="13_2">
               <ItemTitle>十三の二</ItemTitle>
               <ItemSentence>
-                <Sentence>第六十五条の二第一項（第百八条の三第二項において準用する場合を含む。）の規定に違反して、通知をすることを怠り、又は不正の通知をしたとき。</Sentence>
+                <Sentence>第六十五条の二第一項（第八十八条の五第一項、第百八条の三第二項及び第百八条の十五において準用する場合を含む。）の規定に違反して、通知をすることを怠り、又は不正の通知をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="14">
               <ItemTitle>十四</ItemTitle>
               <ItemSentence>
-                <Sentence>第六十六条若しくは第六十七条第二項（これらの規定を第百条第二項及び第百九条第三項において準用する場合を含む。）の規定に違反して出資一口の金額を減少し、第八十四条第四項（第百条第四項及び第百九条第五項において準用する場合を含む。）において準用する第六十六条若しくは第六十七条第二項の規定に違反して出資組合、生産森林組合若しくは出資連合会の合併をし、又は第百八条の三第二項において準用する第八十四条第四項において準用する第六十六条若しくは第六十七条第二項の規定に違反して出資組合に係る承継をしたとき。</Sentence>
+                <Sentence>第六十六条第二項若しくは第六十七条第二項（これらの規定を第百条第二項及び第百九条第三項において準用する場合を含む。）の規定に違反して出資一口の金額を減少し、第八十四条第四項（第百条第四項及び第百九条第五項において準用する場合を含む。）において読み替えて準用する第六十六条第二項若しくは第六十七条第二項の規定に違反して出資組合、生産森林組合若しくは出資連合会の合併をし、第八十八条の五第一項において読み替えて準用する第六十六条第二項若しくは第六十七条第二項の規定に違反して出資組合若しくは出資連合会の第八十八条の二第一項に規定する吸収分割をし、第百八条の三第二項において準用する第八十四条第四項において準用する第六十六条第二項若しくは第六十七条第二項の規定に違反して出資組合に係る承継をし、第百八条の七において読み替えて準用する第六十六条第二項若しくは第六十七条第二項の規定に違反して出資連合会の第百八条の四第一項に規定する吸収分割をし、又は第百八条の十五において読み替えて準用する第六十六条第二項若しくは第六十七条第二項の規定に違反して出資組合若しくは出資連合会の新設分割をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="15">
@@ -5951,7 +6620,7 @@
             <Item Num="16_2">
               <ItemTitle>十六の二</ItemTitle>
               <ItemSentence>
-                <Sentence>第八十四条の二第三項（第百九条第五項において準用する場合を含む。）の規定に違反して、公告若しくは通知をすることを怠り、又は不正の公告若しくは通知をしたとき。</Sentence>
+                <Sentence>第八十四条の二第三項（第百九条第五項において準用する場合を含む。）、第八十八条の四第四項、第百八条の六第四項又は第百八条の十四第三項の規定に違反して、公告若しくは通知をすることを怠り、又は不正の公告若しくは通知をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="17">
@@ -5999,12 +6668,6 @@
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>第五十七条（第九十二条及び第百条第二項において準用する場合を含む。）又は第百六条の規定に違反した者は、五十万円以下の過料に処する。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1">連合会の役員又は職員が、監査事業に係る業務に関して知り得た秘密を正当な理由なく他に漏らし、又は盗用したときは、五十万円以下の過料に処する。</Sentence>
               <Sentence Num="2">その者が役員又は職員でなくなつた後において、当該違反行為をした場合においても、同様とする。</Sentence>
@@ -6138,7 +6801,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="356075" AmendLawNum="昭和五六年六月九日法律第七五号" Extract="true" Id="910dd15e-d3b8-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五六年六月九日法律第七五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6147,7 +6810,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="360037" AmendLawNum="昭和六〇年五月一八日法律第三七号" Extract="true" Id="2f13f1d9-9afb-4265-ad98-cd8878d3c844">
+    <SupplProvision AmendLawNum="昭和六〇年五月一八日法律第三七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
@@ -6157,7 +6820,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="361109" AmendLawNum="昭和六一年一二月二六日法律第一〇九号" Extract="true" Id="e8271770-bf44-4178-b206-3efc27c63ebd">
+    <SupplProvision AmendLawNum="昭和六一年一二月二六日法律第一〇九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6180,7 +6843,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="362076" AmendLawNum="昭和六二年六月一二日法律第七六号" Extract="true" Id="6d7c0db0-636f-4c4e-aca1-d514b0e8a5a7">
+    <SupplProvision AmendLawNum="昭和六二年六月一二日法律第七六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6203,7 +6866,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="403038" AmendLawNum="平成三年四月二六日法律第三八号" Extract="true" Id="5e03fd52-18c4-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成三年四月二六日法律第三八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6216,7 +6879,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="403079" AmendLawNum="平成三年五月二一日法律第七九号" Extract="true" Id="35ec156a-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="平成三年五月二一日法律第七九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6247,7 +6910,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="405089" AmendLawNum="平成五年一一月一二日法律第八九号" Extract="true" Id="ca5fc5b8-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成五年一一月一二日法律第八九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6300,7 +6963,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="409030" AmendLawNum="平成九年四月一日法律第三〇号" Extract="true" Id="571ee3fa-a6cb-41c3-92a0-491bdcbb002e">
+    <SupplProvision AmendLawNum="平成九年四月一日法律第三〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6383,7 +7046,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="409072" AmendLawNum="平成九年六月六日法律第七二号" Id="911a7b98-d3b8-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成九年六月六日法律第七二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6407,7 +7070,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411080" AmendLawNum="平成一一年六月二三日法律第八〇号" Extract="true" Id="73c2657c-bf0a-4ae5-aa05-290d21f8963f">
+    <SupplProvision AmendLawNum="平成一一年六月二三日法律第八〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6430,7 +7093,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411087" AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true" Id="8a6950aa-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6537,7 +7200,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411146" AmendLawNum="平成一一年一二月三日法律第一四六号" Extract="true" Id="e4764288-d3b6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月三日法律第一四六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6580,7 +7243,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6605,7 +7268,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412076" AmendLawNum="平成一二年五月一九日法律第七六号" Extract="true" Id="aaafadb3-037e-48be-a28d-f6e6b76604c5">
+    <SupplProvision AmendLawNum="平成一二年五月一九日法律第七六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6618,7 +7281,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412126" AmendLawNum="平成一二年一一月二七日法律第一二六号" Extract="true" Id="64280425-3d26-4795-93ab-167978d48f13">
+    <SupplProvision AmendLawNum="平成一二年一一月二七日法律第一二六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6641,7 +7304,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="413080" AmendLawNum="平成一三年六月二九日法律第八〇号" Id="916bade0-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年六月二九日法律第八〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6650,7 +7313,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413109" AmendLawNum="平成一三年七月一一日法律第一〇九号" Extract="true" Id="5fce4ad4-18c4-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年七月一一日法律第一〇九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6673,7 +7336,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="413129" AmendLawNum="平成一三年一一月二八日法律第一二九号" Extract="true" Id="916d6342-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年一一月二八日法律第一二九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -6690,7 +7353,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413150" AmendLawNum="平成一三年一二月一二日法律第一五〇号" Extract="true" Id="19440304-188a-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年一二月一二日法律第一五〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6699,7 +7362,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414079" AmendLawNum="平成一四年七月三日法律第七九号" Extract="true" Id="3114739c-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年七月三日法律第七九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6712,7 +7375,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416076" AmendLawNum="平成一六年六月二日法律第七六号" Extract="true" Id="ecbc3a7c-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月二日法律第七六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6745,7 +7408,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416147" AmendLawNum="平成一六年一二月一日法律第一四七号" Extract="true" Id="f14e18bc-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年一二月一日法律第一四七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6758,7 +7421,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416150" AmendLawNum="平成一六年一二月一日法律第一五〇号" Extract="true" Id="e6112fd0-57a4-4134-a8aa-80aa734a8b79">
+    <SupplProvision AmendLawNum="平成一六年一二月一日法律第一五〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6781,7 +7444,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416154" AmendLawNum="平成一六年一二月三日法律第一五四号" Extract="true" Id="7cc44bc6-47dd-11e5-9728-b7732dfb5558">
+    <SupplProvision AmendLawNum="平成一六年一二月三日法律第一五四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6824,7 +7487,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417060" AmendLawNum="平成一七年六月一七日法律第六〇号" Extract="true" Id="a1a1e638-1909-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年六月一七日法律第六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6893,7 +7556,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417087" AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true" Id="6227ae84-47dd-11e5-92b2-43af2fd23feb">
+    <SupplProvision AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6902,7 +7565,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418050" AmendLawNum="平成一八年六月二日法律第五〇号" Extract="true" Id="994c58f6-0a18-11e8-af63-742b6287e916">
+    <SupplProvision AmendLawNum="平成一八年六月二日法律第五〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6911,7 +7574,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418109" AmendLawNum="平成一八年一二月一五日法律第一〇九号" Extract="true" Id="ecc44794-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年一二月一五日法律第一〇九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6920,7 +7583,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423020" AmendLawNum="平成二三年四月二二日法律第二〇号" Extract="true" Id="44690366-1887-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年四月二二日法律第二〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6933,7 +7596,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423053" AmendLawNum="平成二三年五月二五日法律第五三号" Id="f6b9778e-d3b2-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年五月二五日法律第五三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6942,7 +7605,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423074" AmendLawNum="平成二三年六月二四日法律第七四号" Extract="true" Id="64061518-04d8-4a9e-acc1-1ae4d12de2b1">
+    <SupplProvision AmendLawNum="平成二三年六月二四日法律第七四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6955,7 +7618,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426021" AmendLawNum="平成二六年四月一六日法律第二一号" Extract="true" Id="31bcc32e-5d25-4588-b445-75d9d380c702">
+    <SupplProvision AmendLawNum="平成二六年四月一六日法律第二一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6989,7 +7652,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426091" AmendLawNum="平成二六年六月二七日法律第九一号" Extract="true" Id="a6627d58-d3b2-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年六月二七日法律第九一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -6998,7 +7661,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428044" AmendLawNum="平成二八年五月二〇日法律第四四号" Extract="true" Id="9327fc6a-8c5d-613b-9985-ee7c2fa3a67d" Type="Amend">
+    <SupplProvision AmendLawNum="平成二八年五月二〇日法律第四四号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7093,7 +7756,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430029" AmendLawNum="平成三〇年五月二五日法律第二九号" Extract="true" Id="b010ac02-600f-11e8-a9b3-005056b30d52">
+    <SupplProvision AmendLawNum="平成三〇年五月二五日法律第二九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7443,7 +8106,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501037" AmendLawNum="令和元年六月一四日法律第三七号" Extract="true" Id="336d780c-93f2-11e9-83b1-005056b30d52">
+    <SupplProvision AmendLawNum="令和元年六月一四日法律第三七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7509,7 +8172,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501071" AmendLawNum="令和元年一二月一一日法律第七一号" Extract="true">
+    <SupplProvision AmendLawNum="令和元年一二月一一日法律第七一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -7547,7 +8210,7 @@
         </Item>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision Extract="true" AmendLawId="502008" AmendLawNum="令和二年三月三一日法律第八号">
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7559,7 +8222,7 @@
             <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1:4">
-            <ItemTitle>一から四まで</ItemTitle>
+            <ItemTitle>一～四</ItemTitle>
             <ItemSentence>
               <Sentence>略</Sentence>
             </ItemSentence>
@@ -7606,6 +8269,80 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月三日法律第三五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和三年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、附則第六条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（組合員である資格に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行の際現に組合員である者は、この法律による改正後の森林組合法（以下「新法」という。）第二十七条第一項第一号の規定にかかわらず、新法の規定による組合員とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（理事に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行の際現に存する森林組合及び森林組合連合会については、新法第四十四条第十項及び第十一項（これらの規定を新法第百九条第三項において準用する場合を含む。）の規定は、この法律の施行の日（次条において「施行日」という。）から起算して三年を経過した日以後最初に招集される通常総会の終了の時までは、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（出資一口の金額の減少等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>新法第六十六条第一項及び第二項（これらの規定を新法第八十四条第四項（新法第百条第四項、第百八条の三第二項及び第百九条第五項において準用する場合を含む。）、第百条第二項、第百条の三第六項、第百条の十八、第百条の二十四及び第百九条第三項において準用する場合を含む。）並びに第八十四条第一項（新法第百条第四項、第百八条の三第二項及び第百九条第五項において準用する場合を含む。）の規定は、施行日以後に決議される森林組合、生産森林組合若しくは森林組合連合会の出資一口の金額の減少若しくは合併、生産森林組合の組織変更（新法第百条の三第一項、第百条の十五第一項又は第百条の二十第一項に規定する組織変更をいう。）又は森林組合連合会の権利義務の承継（森林組合法第百八条の三第一項の規定による権利義務の承継をいう。以下この条において同じ。）について適用し、施行日前に議決された森林組合、生産森林組合若しくは森林組合連合会の出資一口の金額の減少若しくは合併、生産森林組合の組織変更（この法律による改正前の森林組合法第百条の三第一項、第百条の十五第一項又は第百条の二十第一項に規定する組織変更をいう。）又は森林組合連合会の権利義務の承継については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為及び前条の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後五年を目途として、この法律による改正後の規定の施行の状況を勘案し、必要があると認めるときは、当該規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

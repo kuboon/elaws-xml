@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Meiji" Lang="ja" LawType="Act" Num="93" Year="32">
+<Law Era="Meiji" Lang="ja" LawType="Act" Num="93" Year="32" PromulgateMonth="03" PromulgateDay="28">
   <LawNum>明治三十二年法律第九十三号</LawNum>
   <LawBody>
-    <LawTitle>行旅病人及行旅死亡人取扱法</LawTitle>
+    <LawTitle Kana="こうりょびょうにんおよびこうりょしぼうにんとりあつかいほう" Abbrev="行旅法" AbbrevKana="こ">行旅病人及行旅死亡人取扱法</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -12,13 +12,13 @@
             <Sentence WritingMode="vertical">此ノ法律ニ於テ行旅病人ト称スルハ歩行ニ堪ヘサル行旅中ノ病人ニシテ療養ノ途ヲ有セス且救護者ナキ者ヲ謂ヒ行旅死亡人ト称スルハ行旅中死亡シ引取者ナキ者ヲ謂フ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">住所、居所若ハ氏名知レス且引取者ナキ死亡人ハ行旅死亡人ト看做ス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前二項ノ外行旅病人及行旅死亡人ニ準スヘキ者ハ政令ヲ以テ之ヲ定ム</Sentence>
@@ -33,7 +33,7 @@
             <Sentence WritingMode="vertical">行旅病人ハ其ノ所在地市町村之ヲ救護スヘシ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">必要ノ場合ニ於テハ市町村ハ行旅病人ノ同伴者ニ対シテ亦相当ノ救護ヲ為スヘシ</Sentence>
@@ -84,7 +84,7 @@
             <Sentence WritingMode="vertical">行旅死亡人アルトキハ其ノ所在地市町村ハ其ノ状況相貌遺留物件其ノ他本人ノ認識ニ必要ナル事項ヲ記録シタル後其ノ死体ノ埋葬又ハ火葬ヲ為スベシ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">墓地若ハ火葬場ノ管理者ハ本条ノ埋葬又ハ火葬ヲ拒ムコトヲ得ス</Sentence>
@@ -99,7 +99,7 @@
             <Sentence WritingMode="vertical">必要ノ場合ニ於テハ市町村ハ行旅死亡人ノ同伴者ニ対シテ亦相当ノ救護ヲ為スヘシ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">行旅病人ニ関スル規定ハ前項ノ場合ニ準用ス</Sentence>
@@ -150,7 +150,7 @@
             <Sentence WritingMode="vertical">市町村ハ第九条ノ公告後六十日ヲ経過スルモ仍行旅死亡人取扱費用ノ弁償ヲ得サルトキハ行旅死亡人ノ遺留物品ヲ売却シテ其ノ費用ニ充ツルコトヲ得其ノ仍足ラサル場合ニ於テ費用ノ弁償ヲ為スヘキ公共団体ニ関シテハ勅令ノ定ムル所ニ依ル</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">市町村ハ行旅死亡人取扱費用ニ付遺留物件ノ上ニ他ノ債権者ノ先取特権ニ対シ優先権ヲ有ス</Sentence>
@@ -174,13 +174,13 @@
             <Sentence WritingMode="vertical">行旅病人行旅死亡人及其ノ同伴者ノ救護若ハ取扱ニ関スル費用ハ所在地市町村費ヲ以テ一時之ヲ繰替フヘシ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項費用ノ弁償金徴収ニ付テハ市町村税滞納処分ノ例ニ依ル</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項ノ徴収金ノ先取特権ハ国税及地方税ニ次グモノトス</Sentence>
@@ -242,7 +242,7 @@
         </Paragraph>
       </Article>
     </MainProvision>
-    <SupplProvision AmendLawId="322223" AmendLawNum="昭和二二年一二月二二日法律第二二三号" Extract="true" Id="631ce7b2-1b99-4a9b-aa91-7a9e79a40af5" Type="Amend">
+    <SupplProvision AmendLawNum="昭和二二年一二月二二日法律第二二三号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="29">
         <ArticleTitle>第二十九条</ArticleTitle>
@@ -254,7 +254,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="328213" AmendLawNum="昭和二八年八月一五日法律第二一三号" Extract="true" Id="56958054-a387-4238-93b0-3b9615f5e4c8" Type="Amend">
+    <SupplProvision AmendLawNum="昭和二八年八月一五日法律第二一三号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -269,7 +269,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="334148" AmendLawNum="昭和三四年四月二〇日法律第一四八号" Extract="true" Id="f578bfee-d3bf-11e9-ab6a-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="昭和三四年四月二〇日法律第一四八号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -286,7 +286,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="342120" AmendLawNum="昭和四二年八月一日法律第一二〇号" Extract="true" Id="b2a13387-1980-47a4-8d4a-d70ea04dd5d3" Type="Amend">
+    <SupplProvision AmendLawNum="昭和四二年八月一日法律第一二〇号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -296,7 +296,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="361109" AmendLawNum="昭和六一年一二月二六日法律第一〇九号" Extract="true" Id="3c733d5c-d3ca-11e9-a719-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="昭和六一年一二月二六日法律第一〇九号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

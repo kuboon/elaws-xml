@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="040" Year="20">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="040" Year="20" PromulgateMonth="11" PromulgateDay="25">
   <LawNum>昭和二十年運輸省令第四十号</LawNum>
   <LawBody>
-    <LawTitle>昭和二十年運輸省令第四十号（航海ノ制限等ニ関スル件）</LawTitle>
+    <LawTitle Kana="こうかいのせいげんとうにかんするけん" Abbrev="" AbbrevKana="">昭和二十年運輸省令第四十号（航海ノ制限等ニ関スル件）</LawTitle>
     <Preamble>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -65,14 +65,14 @@
             <Sentence>海域ニアル爆薬兵器若ハ弾薬又ハ其ノ部分品（以下爆発物件等ト謂フ）ハ海上保安庁長官ノ許可ヲ受クルニ非ザレバ之ヲ引揚ゲ又ハ解撤スルコトヲ得ズ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Num="2" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>海上保安庁長官ハ前項ノ許可ノ申請ガ当該爆発物件等ヲ産業ノ用途ニ供セントシテ為サレタル場合ノ外之ヲ許可スルコトヲ得ズ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="3">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Num="3" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>第一項ノ許可ヲ受ケタル者ガ当該爆発物件等ノ引揚又ハ解撤ヲ為サントスルトキハ海上保安庁長官ノ定ムル方法ニ依ルコトヲ要ス</Sentence>
           </ParagraphSentence>
@@ -115,7 +115,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="325063" AmendLawNum="昭和二五年八月二一日運輸省令第六三号" Id="03798e0c-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二五年八月二一日運輸省令第六三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -124,7 +124,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="327072" AmendLawNum="昭和二七年四月五日法律第七二号" Id="3df15088-47dd-11e5-887d-e74c0f2119a3">
+    <SupplProvision AmendLawNum="昭和二七年四月五日法律第七二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -133,7 +133,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

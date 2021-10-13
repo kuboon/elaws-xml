@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Meiji" Lang="ja" LawType="Act" Num="29" Year="30">
+<Law Era="Meiji" Lang="ja" LawType="Act" Num="29" Year="30" PromulgateMonth="03" PromulgateDay="30">
   <LawNum>明治三十年法律第二十九号</LawNum>
   <LawBody>
-    <LawTitle>砂防法</LawTitle>
+    <LawTitle Kana="さぼうほう" Abbrev="" AbbrevKana="">砂防法</LawTitle>
     <TOC>
       <TOCChapter Num="1">
         <ChapterTitle>第一章　総則</ChapterTitle>
@@ -73,8 +73,8 @@
               <Sentence>第二条ニ依リ国土交通大臣ノ指定シタル土地ニ於テハ都道府県知事ハ治水上砂防ノ為一定ノ行為ヲ禁止若ハ制限スルコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項ノ禁止若ハ制限ニシテ他ノ都道府県ノ利益ヲ保全スル為必要ナルカ又ハ其ノ利害関係一ノ都道府県ニ止マラサルトキハ国土交通大臣ハ前項ノ職権ヲ施行スルコトヲ得</Sentence>
             </ParagraphSentence>
@@ -97,14 +97,14 @@
               <Sentence>砂防設備ニシテ他ノ都道府県ノ利益ヲ保全スル為必要ナルトキ、其ノ利害関係一ノ都道府県ニ止マラサルトキ、其ノ工事至難ナルトキ又ハ其ノ工費至大ナルトキハ国土交通大臣ハ之ヲ管理シ、其ノ工事ヲ施行シ又ハ其ノ維持ヲ為スコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項ノ場合ニ於テハ国土交通大臣ハ其ノ砂防設備ニ因リ特ニ利益ヲ受クル公共団体ノ行政庁ニ対シ其ノ工事ノ施行又ハ其ノ維持ヲナスコトヲ指示スルコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>本条ノ場合ニ於テハ国土交通大臣ハ此ノ法律ニ依リ都道府県知事ノ有スル職権ヲ直接施行スルコトヲ得</Sentence>
             </ParagraphSentence>
@@ -163,8 +163,8 @@
               <Sentence>都道府県知事ハ国土交通省令ノ定ムル所ニ依リ砂防ノ台帳ヲ調製シ之ヲ保管スベシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>砂防ノ台帳ハ砂防指定地台帳及砂防設備台帳トス</Sentence>
             </ParagraphSentence>
@@ -190,14 +190,14 @@
               <Sentence>砂防工事ニ要スル費用ニ付テハ国庫ハ政令ノ定ムル所ニ依リ其ノ二分ノ一ヲ負担ス但シ当該砂防工事ガ災害ニ因ル土砂ノ崩壊等ノ危険ナル状況ニ対処スル為ニ施行スル緊急砂防事業ニ係ルモノナルトキハ三分ノ二当該砂防工事ガ再度災害ヲ防止スル為ニ施行スルモノニシテ又ハ火山地、火山麓若ハ火山現象ニ因リ著シキ被害ヲ受クルノ虞アル地域ニ於テ施行スルモノニシテ災害ニ因ル土砂ノ崩壊等ノ危険ナル状況ニ対処スル為ニ施行スル緊急砂防事業ニ係ルモノ以外ノモノナルトキハ十分ノ五・五ヲ国庫ノ負担割合トス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>工事費用精算ノ上予算ヨリ減スルコトアルモ既ニ交付シタル金額ハ之ヲ還付セシメサルコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>災害ニ因リ必要ヲ生シタル砂防工事ニ要スル費用ハ本条ニ依ルノ限ニ在ラス</Sentence>
             </ParagraphSentence>
@@ -211,8 +211,8 @@
               <Sentence>第六条ニ依リ国土交通大臣ニ於テ砂防設備ノ管理及維持ヲナシ又ハ砂防工事ヲ施行スル場合ニ於テハ其ノ費用ハ国庫ノ負担トス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項ノ場合ニ於テハ国土交通大臣ハ都道府県ヲシテ砂防工事ニ要スル費用ノ三分ノ一ヲ負担セシム</Sentence>
             </ParagraphSentence>
@@ -253,8 +253,8 @@
               <Sentence>此ノ法律若ハ此ノ法律ニ基キテ発スル命令ニ依リ行政庁ノ命シタル事項ヲ遵守スル為ニ要スル費用ハ特別ノ規程ヲ設ケタル場合ヲ除クノ外其ノ命ヲ受ケタル者ノ負担トス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国土交通大臣若ハ都道府県知事ニ於テ義務者ノ履行スヘキ義務ヲ自ラ執行シ又ハ第三者ヲシテ執行セシメタルカ為ニ要シタル費用ハ其ノ義務者ヨリ之ヲ追徴スルコトヲ得</Sentence>
             </ParagraphSentence>
@@ -304,8 +304,8 @@
               <Sentence>砂防ノ為必要ナルトキハ行政庁ハ第二条ニ依リ国土交通大臣ノ指定シタル土地又ハ之ニ鄰接スル土地ニ立入リ又ハ其ノ土地ヲ材料置場等ニ供シ又ハ已ムヲ得サルトキハ其ノ土地ニ現在スル障害物ヲ除却スルコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項ノ適用ニ依リ損害ヲ受ケタル者ハ使用若ハ除却ノ後三箇月以内ニ補償金ヲ請求スルコトヲ得</Sentence>
             </ParagraphSentence>
@@ -394,20 +394,20 @@
               <Sentence>国土交通大臣ハ砂防ニ関スル行政ニ付キ公共団体ノ行政庁ニ必要ナル指示ヲナスコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>都道府県知事ハ政令ノ定ムル所ニ依リ其ノ管内ノ公共団体ノ行政庁ニ必要ナル指示ヲナスコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>此ノ法律ニ規定シタル事項ニシテ国土交通大臣若ハ都道府県知事ノ認可ヲ要スルモノハ政令ヲ以テ之ヲ定ム</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第十九条及第二十条ニ規定シタル事項並此ノ法律ニ依リ行政庁ニ付与シタル職権ニ関シテハ命令ヲ以テ制限ヲ設クルコトヲ得</Sentence>
             </ParagraphSentence>
@@ -448,8 +448,8 @@
               <Sentence>此ノ法律若ハ此ノ法律ニ基キテ発スル命令ニ規定シタル事項ニ関シ保証金ヲ納付セシメタル場合ニ於テハ行政庁ニ於テ直ニ之ヲ其ノ納付ノ目的又ハ過料ニ充用スルコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項保証金ハ他ノ債権ノ為ニ差押フルコトヲ得ス</Sentence>
             </ParagraphSentence>
@@ -463,8 +463,8 @@
               <Sentence>此ノ法律若ハ此ノ法律ニ基キテ発スル命令ニ依リ私人ニ於テ負担スヘキ費用及過料ハ此ノ法律ニ於テ特ニ民事訴訟ヲ許シタル場合ヲ除クノ外行政庁ニ於テ国税滞納処分ノ例ニ依リ之ヲ徴収スルコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項ノ費用及過料ニ付キ行政庁ハ国税及地方税ニ次キ先取特権ヲ有スルモノトス</Sentence>
             </ParagraphSentence>
@@ -478,8 +478,8 @@
               <Sentence>此ノ法律若ハ此ノ法律ニ基キテ発スル命令ニ依リ行政庁ニ付与シタル職権ハ行政処分ニ依リ之ヲ強制スルコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>行政庁ノ許可若ハ認可ニ附シタル条件ニ関シテモ亦本条及前条ヲ準用ス</Sentence>
             </ParagraphSentence>
@@ -523,8 +523,8 @@
               <Sentence>第二十二条又ハ第二十三条ニ依リ下付スベキ補償金額ニ対シ不服アル者ハ行政庁ニ於テ補償金額ノ通知ヲナシタル日ヨリ六箇月以内ニ訴ヲ以テ其ノ増額ヲ請求スルコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項ノ訴ニ於テハ都道府県ヲ以テ被告トス但シ国土交通大臣ノ管理スル砂防設備又ハ其ノ施行スル工事ニ係ルモノニ在リテハ国ヲ以テ被告トス</Sentence>
             </ParagraphSentence>
@@ -559,8 +559,8 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>他ノ法律及之ニ基ク政令ノ規定ニ依リ都道府県ガ第二条ニ依リ国土交通大臣ノ指定シタル土地ノ管理ニ関シ処理スルコトトサレテイル事務ハ第一号法定受託事務トス</Sentence>
             </ParagraphSentence>
@@ -586,8 +586,8 @@
               <Sentence>此ノ法律ハ明治三十年四月一日ヨリ施行ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>此ノ法律ヲ施行スル為ニ必要ナル規程ハ命令ヲ以テ之ヲ定ム</Sentence>
             </ParagraphSentence>
@@ -619,38 +619,38 @@
               <Sentence>国庫ハ当分ノ間公共団体ニ対シ第十三条第一項ニ依リ国庫ニ於テ其ノ費用ニ付テ負担スル砂防工事ニシテ日本電信電話株式会社の株式の売払収入の活用による社会資本の整備の促進に関する特別措置法（昭和六十二年法律第八十六号以下社会資本整備特別措置法ト称ス）第二条第一項第二号ニ該当スルモノニ要スル費用ニ充用スル資金ニ付テ予算ノ範囲内ニ於テ第十三条第一項ニ依リ国庫ニ於テ負担スル金額ニ相当スル金額ノ貸付ヲナスコトヲ得此ノ場合ニ於テ同項ニ依ル国庫ノ負担ノ割合ニ付テ同項ニ異ナリタル規程ヲ設ケタル法令アルトキハ国庫ニ於テナス貸付ノ金額ハ同項及其ノ法令ニ依リ国庫ニ於テ負担スル金額ニ相当スル金額トス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国庫ハ当分ノ間公共団体ニ対シ予算ノ範囲内ニ於テ第二条ニ依リ国土交通大臣ノ指定シタル土地ニ於テナス砂防設備ニ関スル事業（前項ノ砂防工事ヲ除ク）ニシテ社会資本整備特別措置法第二条第一項第二号ニ該当スルモノニ要スル費用ニ充用スル資金ノ一部ヲ貸付スルコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前二項ノ貸付金ニハ利子ヲ付セズ其ノ償還期間ハ五年（二年以内ノ据置期間ヲ含ム）以内ニ於テ政令ヲ以テ定ムル期間トス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項ニ定ムルモノノ外第一項又ハ第二項ニ依ル貸付金ノ償還方法、償還期限ノ繰上其ノ他償還ニ関シ必要ナル事項ハ政令ヲ以テ之ヲ定ム</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項ニ依リ国庫ニ於テ公共団体ニ対シ貸付ヲナシタル場合ニ於テハ第十三条第一項ニ依ル国庫ノ負担若シ第一項後段ノ法令アルトキハ同条第一項及其ノ法令ニ依ル国庫ノ負担ニシテ其ノ貸付ノ対象タル砂防工事ニ係ルモノニ付テハ其ノ貸付金ノ償還時ニ於テ其ノ貸付金ノ償還金ニ相当スル金額ヲ交付スルニ依リテ之ヲナスモノトス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="6">
-            <ParagraphNum>○６</ParagraphNum>
+          <Paragraph Num="6" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第二項ニ依リ国庫ニ於テ公共団体ニ対シ貸付ヲナシタル場合ニ於テハ国庫ハ其ノ貸付ノ対象タル事業ニ付テ其ノ貸付金ニ相当スル金額ノ補助ヲナスモノトシ其ノ補助ニ付テハ其ノ貸付金ノ償還時ニ於テ其ノ貸付金ノ償還金ニ相当スル金額ヲ交付スルニ依リテ之ヲナスモノトス</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="7">
-            <ParagraphNum>○７</ParagraphNum>
+          <Paragraph Num="7" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>第一項又ハ第二項ニ依ル貸付ヲ受ケタル公共団体ニ於テ其ノ貸付金ニ付キ第三項及第四項ニ基キテ定マリタル償還期限ヲ繰上ゲ償還ヲナシタル場合ニ於テハ政令ヲ以テ定ムル場合ヲ除クノ外其ノ償還ハ前二項ノ適用ニ付テハ其ノ償還期限ノ到来時ニ於テ之ヲナシタルモノト看做ス</Sentence>
             </ParagraphSentence>
@@ -658,7 +658,7 @@
         </Article>
       </Chapter>
     </MainProvision>
-    <SupplProvision AmendLawId="213003" AmendLawNum="大正一三年七月一八日法律第三号" Id="a5fcecf0-1981-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="大正一三年七月一八日法律第三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -667,7 +667,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="324168" AmendLawNum="昭和二四年五月三一日法律第一六八号" Extract="true" Id="5281e74a-1889-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二四年五月三一日法律第一六八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -676,7 +676,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="328213" AmendLawNum="昭和二八年八月一五日法律第二一三号" Extract="true" Id="e13ae719-ed3e-40c0-8589-28dd642f3cc8">
+    <SupplProvision AmendLawNum="昭和二八年八月一五日法律第二一三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -697,7 +697,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="334148" AmendLawNum="昭和三四年四月二〇日法律第一四八号" Extract="true" Id="f578bfee-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三四年四月二〇日法律第一四八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -714,7 +714,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="337140" AmendLawNum="昭和三七年五月一六日法律第一四〇号" Extract="true" Id="837815c8-d3c6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三七年五月一六日法律第一四〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -755,7 +755,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="337161" AmendLawNum="昭和三七年九月一五日法律第一六一号" Extract="true" Id="4d6c2670-d3be-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三七年九月一五日法律第一六一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -802,7 +802,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="338094" AmendLawNum="昭和三八年六月一日法律第九四号" Extract="true" Id="a736d090-1981-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三八年六月一日法律第九四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -812,7 +812,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="339168" AmendLawNum="昭和三九年七月一〇日法律第一六八号" Extract="true" Id="76755dfa-47dd-11e5-962e-77e77be5d033">
+    <SupplProvision AmendLawNum="昭和三九年七月一〇日法律第一六八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -821,7 +821,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="360037" AmendLawNum="昭和六〇年五月一八日法律第三七号" Extract="true" Id="2a536876-d3c1-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六〇年五月一八日法律第三七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
@@ -831,7 +831,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="361046" AmendLawNum="昭和六一年五月八日法律第四六号" Extract="true" Id="726c2408-f208-48f7-8728-741b8b9ada6a">
+    <SupplProvision AmendLawNum="昭和六一年五月八日法律第四六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -846,7 +846,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="362011" AmendLawNum="昭和六二年三月三一日法律第一一号" Extract="true" Id="ac12f120-188c-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六二年三月三一日法律第一一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -863,7 +863,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="362087" AmendLawNum="昭和六二年九月四日法律第八七号" Id="507133b0-188a-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六二年九月四日法律第八七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -872,7 +872,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="401022" AmendLawNum="平成元年四月一〇日法律第二二号" Extract="true" Id="c684b13a-374b-4b3a-b955-033903f997c2">
+    <SupplProvision AmendLawNum="平成元年四月一〇日法律第二二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
@@ -888,7 +888,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="403015" AmendLawNum="平成三年三月三〇日法律第一五号" Id="43aa8ef4-47dd-11e5-8b18-cb4d9139c46b">
+    <SupplProvision AmendLawNum="平成三年三月三〇日法律第一五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -903,7 +903,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="405008" AmendLawNum="平成五年三月三一日法律第八号" Extract="true" Id="c3baaddc-6e69-4e89-a254-5e182f341e43">
+    <SupplProvision AmendLawNum="平成五年三月三一日法律第八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
@@ -919,7 +919,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411087" AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true" Id="8a6950aa-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1042,7 +1042,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1067,7 +1067,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414001" AmendLawNum="平成一四年二月八日法律第一号" Extract="true" Id="2b9da660-d3c1-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年二月八日法律第一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1080,7 +1080,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416084" AmendLawNum="平成一六年六月九日法律第八四号" Extract="true" Id="cb93913a-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年六月九日法律第八四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1093,7 +1093,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418053" AmendLawNum="平成一八年六月七日法律第五三号" Extract="true" Id="87ec4b1a-d3c6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年六月七日法律第五三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1129,7 +1129,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="422020" AmendLawNum="平成二二年三月三一日法律第二〇号" Extract="true" Id="5232312c-188a-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二二年三月三一日法律第二〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1279,7 +1279,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="425076" AmendLawNum="平成二五年一一月二二日法律第七六号" Extract="true" Id="9a399a92-3b08-4ea4-8e48-27c8ad489c1f">
+    <SupplProvision AmendLawNum="平成二五年一一月二二日法律第七六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

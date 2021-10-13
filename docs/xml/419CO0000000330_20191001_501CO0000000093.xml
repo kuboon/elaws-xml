@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="330" Year="19">
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="330" Year="19" PromulgateMonth="09" PromulgateDay="11">
   <LawNum>平成十九年政令第三百三十号</LawNum>
   <LawBody>
-    <LawTitle>利息制限法施行令</LawTitle>
+    <LawTitle Kana="りそくせいげんほうせこうれい" Abbrev="利限法施行令" AbbrevKana="り">利息制限法施行令</LawTitle>
     <EnactStatement>内閣は、利息制限法（昭和二十九年法律第百号）第六条第一項及び第二項第三号並びに第八条第四項並びに第七項第一号ハ及び第二号の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -373,7 +373,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423423" AmendLawNum="平成二三年一二月二六日政令第四二三号" Extract="true" Id="c4545261-38a2-45b7-af76-b7078dfd8ed9" Type="Amend">
+    <SupplProvision AmendLawNum="平成二三年一二月二六日政令第四二三号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -386,7 +386,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426051" AmendLawNum="平成二六年三月五日政令第五一号" Id="2924146e-7151-4fb2-a51f-ed3382b508be" Type="Amend">
+    <SupplProvision AmendLawNum="平成二六年三月五日政令第五一号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -403,7 +403,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428396" AmendLawNum="平成二八年一二月二六日政令第三九六号" Id="bcb812f6-ce7c-65ad-9cb2-9f6b45239b3e" Type="Amend">
+    <SupplProvision AmendLawNum="平成二八年一二月二六日政令第三九六号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -412,7 +412,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="430293" AmendLawNum="平成三〇年一〇月一七日政令第二九三号" Extract="true" Id="878339b8-d1e7-11e8-98f4-005056b30d52">
+    <SupplProvision AmendLawNum="平成三〇年一〇月一七日政令第二九三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -425,7 +425,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501093" AmendLawNum="令和元年九月一一日政令第九三号">
+    <SupplProvision AmendLawNum="令和元年九月一一日政令第九三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>

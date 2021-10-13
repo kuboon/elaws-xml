@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="48" Year="53">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="48" Year="53" PromulgateMonth="05" PromulgateDay="16">
   <LawNum>昭和五十三年法律第四十八号</LawNum>
   <LawBody>
-    <LawTitle>人質による強要行為等の処罰に関する法律</LawTitle>
+    <LawTitle Kana="ひとじちによるきょうようこういとうのしょばつにかんするほうりつ" Abbrev="人質強要処罰法,人質強要行為処罰法" AbbrevKana="ひ,ひ">人質による強要行為等の処罰に関する法律</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（人質による強要等）</ArticleCaption>
@@ -82,7 +82,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="362052" AmendLawNum="昭和六二年六月二日法律第五二号" Extract="true" Id="c45e0b00-1889-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六二年六月二日法律第五二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -100,7 +100,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="407091" AmendLawNum="平成七年五月一二日法律第九一号" Extract="true" Id="8a5eef48-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成七年五月一二日法律第九一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -113,7 +113,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415122" AmendLawNum="平成一五年七月一八日法律第一二二号" Extract="true" Id="c49729b2-1889-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年七月一八日法律第一二二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -136,7 +136,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416115" AmendLawNum="平成一六年六月一八日法律第一一五号" Extract="true" Id="641fc730-47dd-11e5-931c-770efdb13f8c">
+    <SupplProvision AmendLawNum="平成一六年六月一八日法律第一一五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

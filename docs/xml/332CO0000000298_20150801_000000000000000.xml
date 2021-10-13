@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="298" Year="32">
+<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="298" Year="32" PromulgateMonth="09" PromulgateDay="30">
   <LawNum>昭和三十二年政令第二百九十八号</LawNum>
   <LawBody>
-    <LawTitle>自然公園法施行令</LawTitle>
+    <LawTitle Kana="しぜんこうえんほうせこうれい" Abbrev="" AbbrevKana="">自然公園法施行令</LawTitle>
     <EnactStatement>内閣は、自然公園法（昭和三十二年法律第百六十一号）第二条第六号、第九条、第十二条第二項、第十四条第二項、第十六条、第二十六条、第三十条及び第三十八条の規定に基き、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（公園事業となる施設の種類）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">自然公園法（昭和三十二年法律第百六十一号。以下「法」という。）第二条第六号に規定する政令で定める施設は、次に掲げるものとする。</Sentence>
@@ -90,7 +90,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（政令で定める公共団体）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第十条第二項に規定する政令で定める公共団体は、港湾法（昭和二十五年法律第二百十八号）に定める港務局とする。</Sentence>
@@ -100,7 +100,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（認定等に関する手数料）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第三十一条第一項の政令で定める手数料の額は、次の各号の区分に応じ、それぞれ当該各号に定めるものとする。</Sentence>
@@ -155,7 +155,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（補助金の額）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十六条の規定による国の補助は、次の各号に掲げる施設の新設、増設又は改設に要する費用の額（当該新設、増設又は改設を行う場合において収入金があるときは、当該額から収入金を控除した額）のうち、環境大臣が定める種目及び算定基準に従つて算定した額の二分の一以内について行う。</Sentence>
@@ -237,7 +237,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（負担金の徴収方法等）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">国は、法第五十八条の規定により公園事業の執行に要する費用の一部を負担させようとする場合においては、負担させようとする者の意見を聴かなければならない。</Sentence>
@@ -246,7 +246,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="6">
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十八条の規定により地方公共団体が徴収する負担金に関する事項については、当該地方公共団体の条例で定める。</Sentence>
@@ -256,21 +256,21 @@
     </MainProvision>
     <SupplProvision Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、昭和三十二年十月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（国立公園法施行令の廃止）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">国立公園法施行令（昭和六年勅令第二百四十二号）は、廃止する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphCaption>（都道府県が処理する事務）</ParagraphCaption>
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
@@ -362,20 +362,20 @@
           </ItemSentence>
         </Item>
       </Paragraph>
-      <Paragraph Hide="false" Num="4">
+      <Paragraph Hide="false" Num="4" OldStyle="false">
         <ParagraphCaption>（事務の報告）</ParagraphCaption>
         <ParagraphNum>４</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">都道府県知事は、前項に規定する事務を行つたときは、環境省令で定めるところにより、その旨及びその内容を環境大臣に報告しなければならない。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="5">
+      <Paragraph Hide="false" Num="5" OldStyle="false">
         <ParagraphNum>５</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">前項に規定する環境大臣の権限は、地方環境事務所長に委任する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="6">
+      <Paragraph Hide="false" Num="6" OldStyle="false">
         <ParagraphCaption>（都道府県知事を経由する協議の申出等）</ParagraphCaption>
         <ParagraphNum>６</ParagraphNum>
         <ParagraphSentence>
@@ -430,39 +430,39 @@
           </ItemSentence>
         </Item>
       </Paragraph>
-      <Paragraph Hide="false" Num="7">
+      <Paragraph Hide="false" Num="7" OldStyle="false">
         <ParagraphCaption>（事務の区分）</ParagraphCaption>
         <ParagraphNum>７</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">附則第三項及び第四項並びに前項の規定により都道府県が処理することとされている事務は、地方自治法（昭和二十二年法律第六十七号）第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="8">
+      <Paragraph Hide="false" Num="8" OldStyle="false">
         <ParagraphCaption>（国の貸付金の償還期間等）</ParagraphCaption>
         <ParagraphNum>８</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">法附則第十二項に規定する政令で定める期間は、五年（二年の据置期間を含む。）とする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="9">
+      <Paragraph Hide="false" Num="9" OldStyle="false">
         <ParagraphNum>９</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">前項に規定する期間は、日本電信電話株式会社の株式の売払収入の活用による社会資本の整備の促進に関する特別措置法（昭和六十二年法律第八十六号）第五条第一項の規定により読み替えて準用される補助金等に係る予算の執行の適正化に関する法律（昭和三十年法律第百七十九号）第六条第一項の規定による貸付けの決定（以下「貸付決定」という。）ごとに、当該貸付決定に係る法附則第十一項の規定による国の貸付金（以下「国の貸付金」という。）の交付を完了した日（その日が当該貸付決定があつた日の属する年度の末日の前日以後の日である場合には、当該年度の末日の前々日）の翌日から起算する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="10">
+      <Paragraph Hide="false" Num="10" OldStyle="false">
         <ParagraphNum>10</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">国の貸付金の償還は、均等年賦償還の方法によるものとする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="11">
+      <Paragraph Hide="false" Num="11" OldStyle="false">
         <ParagraphNum>11</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">国は、国の財政状況を勘案し、相当と認めるときは、国の貸付金の全部又は一部について、前三項の規定により定められた償還期限を繰り上げて償還させることができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="12">
+      <Paragraph Hide="false" Num="12" OldStyle="false">
         <ParagraphNum>12</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">法附則第十五項に規定する政令で定める場合は、前項の規定により償還期限を繰り上げて償還を行つた場合とする。</Sentence>
@@ -471,7 +471,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和三七年七月二日政令第二八一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
@@ -480,7 +480,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和四五年六月一五日政令第一八二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
@@ -492,7 +492,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、昭和四十六年七月一日から施行する。</Sentence>
@@ -502,7 +502,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和四八年三月三一日政令第三七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -512,14 +512,14 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和四八年九月二九日政令第二七八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、昭和四十八年十月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（公園事業に関する経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -529,7 +529,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二年七月一〇日政令第二一一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、貨物運送取扱事業法の施行の日（平成二年十二月一日）から施行する。</Sentence>
@@ -538,7 +538,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二年七月一〇日政令第二一四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、貨物自動車運送事業法の施行の日（平成二年十二月一日）から施行する。</Sentence>
@@ -547,7 +547,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成三年七月五日政令第二二九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
@@ -556,7 +556,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成六年三月一六日政令第四二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、平成六年四月一日から施行する。</Sentence>
@@ -565,7 +565,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成八年五月一一日政令第一三八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
@@ -577,7 +577,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、平成十二年四月一日から施行する。</Sentence>
@@ -587,13 +587,13 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（自然公園法施行令の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令の施行の日前に第二条の規定による改正前の自然公園法施行令（以下この条において「旧自然公園法施行令」という。）第二十条（旧自然公園法施行令第二十一条において準用する場合を含む。）において準用する旧自然公園法施行令第十条第一項の規定によりされた承認又はこの政令の施行の際現に同項の規定によりされている承認の申請は、それぞれ第二条の規定による改正後の自然公園法施行令（以下この条において「新自然公園法施行令」という。）第十六条（新自然公園法施行令第十七条において準用する場合を含む。）において準用する新自然公園法施行令第六条第一項の規定によりされた同意又は協議の申出とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">新自然公園法施行令附則第三項第五号の規定により都道府県の知事が報告を求めることができるとされている事項のうちこの政令の施行の日前に地方分権の推進を図るための関係法律の整備等に関する法律第四十条の規定による改正前の自然公園法（昭和三十二年法律第百六十一号）第二十二条第一項の規定により環境庁長官により報告が求められたもの（地方分権の推進を図るための関係法律の整備等に関する法律附則第二十一条第二項の規定により環境庁長官により報告が求められたものとみなされたものを含む。）で、同日前に当該報告が行われていないものについては、同号の規定により当該都道府県の知事により報告が求められたものとみなす。</Sentence>
@@ -603,7 +603,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一二年二月一四日政令第三一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、平成十二年四月一日から施行する。</Sentence>
@@ -615,7 +615,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。</Sentence>
@@ -625,7 +625,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一三年三月二二日政令第五八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、平成十三年四月一日から施行する。</Sentence>
@@ -637,7 +637,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
@@ -650,7 +650,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、平成十四年四月一日から施行する。</Sentence>
@@ -663,7 +663,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、自然公園法の一部を改正する法律の施行の日（平成十五年四月一日）から施行する。</Sentence>
@@ -673,21 +673,21 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一五年三月二四日政令第六八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、平成十五年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令の施行の日前に自然公園法の規定により和歌山県知事がした許可等の処分その他の行為又はこの政令の施行の際現に同法の規定により和歌山県知事に対して行っている許可の申請その他の行為で、同日以後において環境大臣が管理し、及び執行することとなる事務に係るものは、同日以後においては、環境大臣のした許可等の処分その他の行為又は環境大臣に対して行った許可の申請その他の行為とみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令の施行の日前に自然公園法施行令附則第三項第三号の規定により和歌山県知事に対し届出をしなければならない事項で、同日前に当該届出がされていないものについては、自然公園法第二十六条第一項の規定により環境大臣に対して届出をしなければならない事項について当該届出がされていないものとみなして、同法の規定を適用する。</Sentence>
@@ -696,21 +696,21 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一六年三月一七日政令第四二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、平成十六年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令の施行の日前に自然公園法の規定により岩手県知事、秋田県知事、島根県知事若しくは大分県知事がした許可等の処分その他の行為又はこの政令の施行の際現に同法の規定により岩手県知事、秋田県知事、島根県知事若しくは大分県知事に対して行っている許可の申請その他の行為で、同日以後において環境大臣が管理し、及び執行することとなる事務に係るものは、同日以後においては、環境大臣のした許可等の処分その他の行為又は環境大臣に対して行った許可の申請その他の行為とみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令の施行の日前に自然公園法施行令附則第三項第三号の規定により岩手県知事、秋田県知事、島根県知事又は大分県知事に対し届出をしなければならない事項で、同日前に当該届出がされていないものについては、自然公園法第二十六条第一項の規定により環境大臣に対して届出をしなければならない事項について当該届出がされていないものとみなして、同法の規定を適用する。</Sentence>
@@ -719,14 +719,14 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一七年三月三〇日政令第八九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、平成十七年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -739,7 +739,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、平成十七年十月一日から施行する。</Sentence>
@@ -749,7 +749,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（自然公園法施行令の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前条による改正後の自然公園法施行令の規定に基づき環境省令を制定し、又は改廃する場合においては、その環境省令で、その制定又は改廃に伴い合理的に必要と判断される範囲内において、所要の経過措置を定めることができる。</Sentence>
@@ -759,13 +759,13 @@
       <Article Delete="false" Hide="false" Num="16">
         <ArticleCaption>（処分、申請等に関する経過措置）</ArticleCaption>
         <ArticleTitle>第十六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令の施行前に環境大臣が法律の規定によりした登録その他の処分又は通知その他の行為（この政令による改正後のそれぞれの政令の規定により地方環境事務所長に委任された権限に係るものに限る。以下「処分等」という。）は、相当の地方環境事務所長がした処分等とみなし、この政令の施行前に法律の規定により環境大臣に対してした申請、届出その他の行為（この政令による改正後のそれぞれの政令の規定により地方環境事務所長に委任された権限に係るものに限る。以下「申請等」という。）は、相当の地方環境事務所長に対してした申請等とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令の施行前に法律の規定により環境大臣に対し報告、届出、提出その他の手続をしなければならない事項（この政令による改正後のそれぞれの政令の規定により地方環境事務所長に委任された権限に係るものに限る。）で、この政令の施行前にその手続がされていないものについては、これを、当該法律の規定により地方環境事務所長に対して報告、届出、提出その他の手続をしなければならない事項についてその手続がされていないものとみなして、当該法律の規定を適用する。</Sentence>
@@ -775,7 +775,7 @@
       <Article Delete="false" Hide="false" Num="17">
         <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
         <ArticleTitle>第十七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -785,7 +785,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一七年一一月一六日政令第三四〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、平成十八年一月一日から施行する。</Sentence>
@@ -794,14 +794,14 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一八年三月二三日政令第五四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、平成十八年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -811,14 +811,14 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一九年三月二八日政令第七四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、平成十九年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -828,14 +828,14 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二一年三月二五日政令第五四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、平成二十一年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -848,7 +848,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、自然公園法及び自然環境保全法の一部を改正する法律（以下「改正法」という。）の施行の日（平成二十二年四月一日）から施行する。</Sentence>
@@ -858,7 +858,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">改正法第一条の規定による改正後の自然公園法（以下「新自然公園法」という。）第十条第九項（新自然公園法第十六条第四項において準用する場合を含む。以下この条において同じ。）の規定は、改正法の施行の日以後に新自然公園法第十条第九項に規定する変更をした者について適用する。</Sentence>
@@ -867,7 +867,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="3">
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令の施行前に第一条の規定による改正前の自然公園法施行令（以下「旧自然公園法施行令」という。）第三条（旧自然公園法施行令第十六条及び第十七条において準用する場合を含む。）の申請書又は協議書に係る申請又は申出がされた場合における認可又は同意並びに当該認可又は同意に係る施設の供用開始及び管理又は経営の方法の届出（管理又は経営の方法の変更の届出を除く。）については、なお従前の例による。</Sentence>
@@ -876,13 +876,13 @@
       </Article>
       <Article Delete="false" Hide="false" Num="4">
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令の施行前に旧自然公園法施行令第六条第一項（旧自然公園法施行令第十六条及び第十七条において準用する場合を含む。次項において同じ。）の規定により承認の申請又は協議の申出がされた場合における承認又は同意及び当該承認又は同意に係る施設の供用開始については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令の施行前に旧自然公園法施行令第六条第一項の規定によりされた承認又は同意（この政令の施行後に前項の規定によりなお従前の例によりされた承認又は同意を含む。）は、新自然公園法第十条第六項（新自然公園法第十六条第四項において準用する場合を含む。）の規定によりされた認可又は同意とみなす。</Sentence>
@@ -891,7 +891,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="5">
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令の施行前に旧自然公園法施行令第七条（旧自然公園法施行令第十六条及び第十七条において準用する場合を含む。）の規定によりされた承認の申請又は届出は、新自然公園法第十三条（新自然公園法第十六条第四項において準用する場合を含む。）の規定によりされた届出とみなす。</Sentence>
@@ -900,7 +900,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="6">
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令の施行前に旧自然公園法施行令第八条第一項（旧自然公園法施行令第十六条及び第十七条において準用する場合を含む。）の規定により承認の申請若しくは届出がされた場合又は事業の譲渡につき他の法令の規定により行政庁の認可その他の処分の申請がされた場合における地位の承継については、なお従前の例による。</Sentence>
@@ -909,7 +909,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="7">
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令の施行前に発生した事項につき旧自然公園法施行令第十一条（旧自然公園法施行令第十六条及び第十七条において準用する場合を含む。）の規定により届け出なければならないこととされている事項の届出については、なお従前の例による。</Sentence>
@@ -918,13 +918,13 @@
       </Article>
       <Article Delete="false" Hide="false" Num="8">
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令の施行前に旧自然公園法施行令第四条第一項（旧自然公園法施行令第六条第二項において準用する場合を含む。）、第六条第一項、第七条若しくは第十二条第三項（これらの規定を旧自然公園法施行令第十七条において準用する場合を含む。）の規定又は旧自然公園法施行令第十二条第一項若しくは第十三条（これらの規定を旧自然公園法施行令第十七条において準用する場合を含む。）の規定による命令に違反した行為（附則第三条又は第四条第一項の規定によりなお従前の例によることとされる場合におけるこの政令の施行後にした行為を含む。）を理由とする認可の取消しについては、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令の施行前に改正法第一条の規定による改正前の自然公園法第九条第三項又は第十条第三項の認可を受けた者（この政令の施行後に附則第三条の規定によりなお従前の例により認可を受けた者を含む。）についての新自然公園法第十四条第三項の規定の適用については、旧自然公園法施行令第九条（旧自然公園法施行令第十七条において準用する場合を含む。）の規定により付された条件（この政令の施行後に附則第三条、第四条第一項又は第六条の規定によりなお従前の例により付された条件を含む。）は、新自然公園法第十条第十項の規定により付された条件とみなす。</Sentence>
@@ -933,7 +933,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="9">
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">国立公園事業又は国定公園事業の執行の認可を受けた者（以下この条において「国立公園事業者等」という。）がこの政令の施行前に国立公園事業者等でなくなった場合（譲渡、合併又は分割により国立公園事業者等でなくなった場合を除く。）における当該国立公園事業者等であった者に対する原状回復命令等については、なお従前の例による。</Sentence>
@@ -942,7 +942,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="10">
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>

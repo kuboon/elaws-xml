@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="47" Year="63">
+<Law AmendmentId="502M60080000012" AmendmentNum="令和二年原子力規制委員会規則第十二号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="47" Year="63" PromulgateMonth="03" PromulgateDay="17">
   <LawNum>昭和六十三年総理府令第四十七号</LawNum>
   <LawBody>
-    <LawTitle>核燃料物質又は核燃料物質によつて汚染された物の廃棄物管理の事業に関する規則</LawTitle>
+    <LawTitle Kana="かくねんりょうぶっしつまたはかくねんりょうぶっしつによつておせんされたもののはいきぶつかんりのじぎょうにかんするきそく" Abbrev="" AbbrevKana="">核燃料物質又は核燃料物質によつて汚染された物の廃棄物管理の事業に関する規則</LawTitle>
     <EnactStatement>核原料物質、核燃料物質及び原子炉の規制に関する法律（昭和三十二年法律第百六十六号）第五十一条の七第一項及び第二項、第五十一条の八第一項及び第二項第二号、第五十一条の九第一項、第二項及び第四項、第五十一条の十、第五十一条の十四第一項、第五十一条の十五、第五十一条の十六第二項、第五十一条の十八第二項、第五十一条の二十第一項、第六十四条第一項、第六十五条第一項及び第三項並びに第六十六条第一項並びに核原料物質、核燃料物質及び原子炉の規制に関する法律施行令（昭和三十二年政令第三百二十四号）第十三条の七第二項、第十三条の十、第十三条の十二及び第二十五条第二項の規定に基づき、並びに同法及び同令を実施するため、核燃料物質又は核燃料物質によつて汚染された物の廃棄物管理の事業に関する規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（定義）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則において使用する用語は、核原料物質、核燃料物質及び原子炉の規制に関する法律（以下「法」という。）において使用する用語の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
@@ -96,7 +96,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（廃棄物管理の事業の許可の申請）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二第三項の申請書（廃棄物管理の事業に係るものに限る。）の記載については、次の各号によるものとする。</Sentence>
@@ -450,7 +450,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の申請書に添付すべき核原料物質、核燃料物質及び原子炉の規制に関する法律施行令（以下「令」という。）第三十条第二項に規定する事業計画書その他原子力規制委員会規則で定める書類は、次の各号に掲げるとおりとする。</Sentence>
@@ -570,13 +570,13 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の申請書の提出部数は、正本及び写し各一通とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二第一項の許可を受けようとする者が法人である場合であつて、原子力規制委員会がその役員の職務内容から判断して業務に支障がないと認めたときは、第二項第十一号に掲げる診断書に代えて当該役員が法第五十一条の四第三号に該当しないことを疎明する書類を提出することができる。</Sentence>
@@ -586,7 +586,7 @@
       <Article Delete="false" Hide="false" Num="2_2">
         <ArticleCaption>（法第五十一条の四第三号の原子力規制委員会規則で定める者）</ArticleCaption>
         <ArticleTitle>第二条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の四条第三号の原子力規制委員会規則で定める者は、精神の機能の障害により、業務を適正に行うに当たつて必要な認知、判断及び意思疎通を適切に行うことができない者とする。</Sentence>
@@ -596,7 +596,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（変更の許可の申請）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">令第三十三条の変更の許可の申請書（廃棄物管理の事業に係るものに限る。）の記載については、次の各号によるものとする。</Sentence>
@@ -614,7 +614,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の申請書には、次の各号に掲げる書類を添付しなければならない。</Sentence>
@@ -716,7 +716,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の申請書の提出部数は、正本及び写し各一通とする。</Sentence>
@@ -726,19 +726,19 @@
       <Article Delete="false" Hide="false" Num="3_2">
         <ArticleCaption>（設計及び工事の計画の認可を要しない工事等）</ArticleCaption>
         <ArticleTitle>第三条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の七第一項の原子力規制委員会規則で定める工事（特定廃棄物管理施設に係るものに限る。）は、変更の工事であつて、次条第一項第三号に掲げる事項の変更を伴う工事以外の工事とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の七第二項ただし書の原子力規制委員会規則で定める軽微な変更（特定廃棄物管理施設に係るものに限る。）は、設備又は機器の配置の変更であつて、同条第一項又は第二項の認可を受けたところによる放射線遮蔽物の側壁における線量当量率の値を大きくしないものその他特定廃棄物管理施設の保全上支障のない変更とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の七第五項ただし書の原子力規制委員会規則で定める場合（特定廃棄物管理施設に係るものに限る。）は、次条第一項第三号に掲げる事項の変更を伴う場合以外の場合とする。</Sentence>
@@ -748,7 +748,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（設計及び工事の計画の認可の申請）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の七第一項の規定により、特定廃棄物管理施設に関する設計及び工事の計画について認可を受けようとする者は、次の各号に掲げる事項を記載した申請書を原子力規制委員会に提出しなければならない。</Sentence>
@@ -832,19 +832,19 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の申請書には、当該申請に係る設計及び工事の計画が法第五十一条の二第一項若しくは第五十一条の五第一項の許可を受けたところ又は同条第二項の規定により届け出たところによるものであることを説明した書類並びに当該申請に係る設計及び工事の計画が法第五十一条の九の技術上の基準（以下「技術基準」という。）に適合していることを計算によつて説明した書類その他の当該申請に係る設計及び工事の計画が技術基準に適合していることを説明した書類を添付しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">設計及び工事の方法の全部につき一時に法第五十一条の七第一項の規定による認可を申請することができないときは、その理由を付し、分割して認可を申請することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の申請書の提出部数は、正本一通とする。</Sentence>
@@ -854,7 +854,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（変更の認可の申請）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の七第二項の規定により、認可を受けた特定廃棄物管理施設に関する設計及び工事の計画について変更の認可を受けようとする者は、次の各号に掲げる事項を記載した申請書を原子力規制委員会に提出しなければならない。</Sentence>
@@ -896,7 +896,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の申請書には、次に掲げる書類を添付しなければならない。</Sentence>
@@ -914,7 +914,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の申請書の提出部数は、正本一通とする。</Sentence>
@@ -924,7 +924,7 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（設計及び工事の計画に係る軽微な変更の届出）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の七第五項の規定による届出をしようとする者（廃棄物管理事業者に限る。）は、次に掲げる事項を記載した届出書を原子力規制委員会に提出しなければならない。</Sentence>
@@ -960,7 +960,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の届出書の提出部数は、正本一通とする。</Sentence>
@@ -970,7 +970,7 @@
       <Article Delete="false" Hide="false" Num="6_2">
         <ArticleCaption>（使用前事業者検査の実施）</ArticleCaption>
         <ArticleTitle>第六条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">使用前事業者検査（特定廃棄物管理施設に係るものに限る。以下同じ。）は、次に掲げる方法により行うものとする。</Sentence>
@@ -994,7 +994,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">使用前事業者検査を行うに当たつては、あらかじめ、検査の時期、対象、方法その他必要な事項を定めた検査実施要領書を定めるものとする。</Sentence>
@@ -1004,7 +1004,7 @@
       <Article Delete="false" Hide="false" Num="6_3">
         <ArticleCaption>（使用前事業者検査の記録）</ArticleCaption>
         <ArticleTitle>第六条の三</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">使用前事業者検査の結果の記録は、次に掲げる事項を記載するものとする。</Sentence>
@@ -1076,7 +1076,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">使用前事業者検査の結果の記録は、当該使用前事業者検査に係る特定廃棄物管理施設の存続する期間保存するものとする。</Sentence>
@@ -1086,7 +1086,7 @@
       <Article Delete="false" Hide="false" Num="6_4">
         <ArticleCaption>（溶接に係る使用前事業者検査を行つた旨の表示）</ArticleCaption>
         <ArticleTitle>第六条の四</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">特定第一種廃棄物埋設施設又は特定廃棄物管理施設の技術基準に関する規則（令和二年原子力規制委員会規則第十号）第十三条第一項に規定する容器等（以下この条において単に「容器等」という。）であつて、同項第二号に規定する主要な溶接部を有するものを設置する廃棄物管理事業者は、当該容器等に係る使用前事業者検査を終了したときは、当該容器等に使用前事業者検査を行つたことを示す記号その他表示を付するものとする。</Sentence>
@@ -1096,7 +1096,7 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（使用前確認の申請）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の八第三項の確認（特定廃棄物管理施設に係るものに限る。以下「使用前確認」という。）を受けようとする者は、次の各号に掲げる事項を記載した申請書を原子力規制委員会に提出しなければならない。</Sentence>
@@ -1144,7 +1144,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の申請書には、次に掲げる事項を説明する書類を添付しなければならない。</Sentence>
@@ -1174,13 +1174,13 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の申請書又は前項各号に掲げる事項を説明する書類の内容に変更があつた場合には、速やかにその変更の内容を説明する書類を提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の申請書及び前項の書類の提出部数は、正本一通とする。</Sentence>
@@ -1190,7 +1190,7 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（使用前確認を要しない場合）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の八第三項ただし書の原子力規制委員会規則で定める場合（特定廃棄物管理施設に係るものに限る。）は、次のとおりとする。</Sentence>
@@ -1229,7 +1229,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="9">
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -1239,7 +1239,7 @@
       <Article Delete="false" Hide="false" Num="10">
         <ArticleCaption>（使用前確認証）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">原子力規制委員会は、原子力規制検査により、第七条の規定による申請に係る特定廃棄物管理施設が法第五十一条の八第二項各号のいずれにも適合していることについて確認をしたときは、使用前確認証を交付する。</Sentence>
@@ -1249,7 +1249,7 @@
       <Article Delete="false" Hide="false" Num="11">
         <ArticleCaption>（廃止措置中の特定廃棄物管理施設の維持）</ArticleCaption>
         <ArticleTitle>第十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法第五十一条の九ただし書の原子力規制委員会規則で定める場合（特定廃棄物管理施設に係るものに限る。）は、廃止措置対象施設に第三十五条の五の二第九号の性能維持施設が存在する場合とする。</Sentence>
@@ -1260,14 +1260,14 @@
       <Article Delete="false" Hide="false" Num="12">
         <ArticleCaption>（定期事業者検査の実施時期）</ArticleCaption>
         <ArticleTitle>第十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">定期事業者検査（特定廃棄物管理施設に係るものに限る。以下同じ。）は、特定廃棄物管理施設について、定期事業者検査が終了した日以降十二月を超えない時期（判定期間が十三月以上であるものとして原子力規制委員会が別に指定した場合は、その指定した時期）ごとに行うものとする。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、特定廃棄物管理施設の設置の工事の後の初回の定期事業者検査については、その使用が開始された日以降十二月を超えない時期に行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の判定期間は、原子力規制検査において、特定廃棄物管理施設（当該特定廃棄物管理施設を構成する機械又は器具であつて、第一号及び第二号のいずれにも該当し、かつ、第三号に該当しないものに限る。）が次条第二項の一定の期間を満了するまでの間技術基準に適合している状態を維持することが確認された場合における当該期間（機械又は器具ごとにその期間が異なる場合には、そのうち最も短い期間）とする。</Sentence>
@@ -1303,13 +1303,13 @@
             </Subitem1>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">特定廃棄物管理施設についての次条第一項各号及び第二項に規定する方法による定期事業者検査であつて、当該定期事業者検査を行うことにより特定廃棄物管理施設の使用時における特定廃棄物管理施設の保安の確保に支障を来さないものにあつては、第一項の規定にかかわらず、同項に規定する時期よりも前の時期に行うことができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次に掲げる場合にあつては、第一項の規定にかかわらず、原子力規制委員会が定める時期に定期事業者検査を行うものとする。</Sentence>
@@ -1327,7 +1327,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項各号の承認を受けようとする者は、次に掲げる事項を記載した申請書を原子力規制委員会に提出しなければならない。</Sentence>
@@ -1357,14 +1357,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="6">
+        <Paragraph Hide="false" Num="6" OldStyle="false">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">前項の申請書には、申請に係る特定廃棄物管理施設の使用の状況を記載した書類を添付しなければならない。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該申請が第四項第二号の承認に係る場合には、当該書類を添付することを要しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="7">
+        <Paragraph Hide="false" Num="7" OldStyle="false">
           <ParagraphNum>７</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第五項の申請書の提出部数は、正本一通とする。</Sentence>
@@ -1374,7 +1374,7 @@
       <Article Delete="false" Hide="false" Num="13">
         <ArticleCaption>（定期事業者検査の実施）</ArticleCaption>
         <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">定期事業者検査は、次に掲げる方法により行うものとする。</Sentence>
@@ -1392,13 +1392,13 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項に規定するもののほか、定期事業者検査は、一定の期間を設定し、当該特定廃棄物管理施設がその期間が満了するまでの間技術基準に適合している状態を維持するかどうかを判定する方法で行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の一定の期間は、次に掲げる事項を考慮して設定しなければならない。</Sentence>
@@ -1422,13 +1422,13 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第二項の一定の期間は、十二月以上としなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">第二項の一定の期間は、定期事業者検査を開始する日の三月前までに設定しなければならない。</Sentence>
@@ -1436,7 +1436,7 @@
             <Sentence Function="proviso" Num="3" WritingMode="vertical">ただし、同項の一定の期間を短縮する場合については、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="6">
+        <Paragraph Hide="false" Num="6" OldStyle="false">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">定期事業者検査を行うに当たつては、あらかじめ、検査の時期、対象、方法その他必要な事項を定めた検査実施要領書を定めるものとする。</Sentence>
@@ -1446,7 +1446,7 @@
       <Article Delete="false" Hide="false" Num="14">
         <ArticleCaption>（定期事業者検査の記録）</ArticleCaption>
         <ArticleTitle>第十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">定期事業者検査の結果の記録は、次に掲げる事項を記載するものとする。</Sentence>
@@ -1518,7 +1518,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">定期事業者検査の結果の記録は、その特定廃棄物管理施設が廃棄された後五年が経過するまでの間保存するものとする。</Sentence>
@@ -1528,7 +1528,7 @@
       <Article Delete="false" Hide="false" Num="15">
         <ArticleCaption>（廃止措置中において定期事業者検査を要する場合）</ArticleCaption>
         <ArticleTitle>第十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十第一項ただし書の原子力規制委員会規則で定める場合（特定廃棄物管理施設に係るものに限る。）は、廃止措置対象施設に第三十五条の五の二第九号の性能維持施設が存在する場合とする。</Sentence>
@@ -1538,13 +1538,13 @@
       <Article Delete="false" Hide="false" Num="16">
         <ArticleCaption>（定期事業者検査の報告）</ArticleCaption>
         <ArticleTitle>第十六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十第三項の原子力規制委員会規則で定めるとき（特定廃棄物管理施設に係るものに限る。）は、定期事業者検査（第十二条第三項の規定を適用して行うものを除く。）を開始しようとするときとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十第三項の報告を行おうとする者は、定期事業者検査が終了したときにあつては遅滞なく、前項に規定するときにあつては検査開始予定日の一月前まで（第十三条第二項の一定の期間（以下この条において単に「一定の期間」という。）を定め、又は変更（一定の期間を短縮する場合を除く。）をした場合は三月前まで）に、次に掲げる事項を記載した報告書を作成し、原子力規制委員会に提出しなければならない。</Sentence>
@@ -1574,7 +1574,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項に規定するときにおける前項の報告書には、次に掲げる事項を説明する書類を添付しなければならない。</Sentence>
@@ -1646,19 +1646,19 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項第二号又は第三号に掲げる事項について評価を行い、当該事項を変更した場合にあつては、その評価の結果を記載した書類を提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第三項第四号に掲げる事項のうち一定の期間を変更した場合にあつては、第十三条第三項各号に掲げる事項について記載した書類を提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="6">
+        <Paragraph Hide="false" Num="6" OldStyle="false">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第二項の報告書及び前二項の書類の提出部数は、正本一通とする。</Sentence>
@@ -1667,7 +1667,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="16_2">
         <ArticleTitle>第十六条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -1676,7 +1676,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="17">
         <ArticleTitle>第十七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -1685,7 +1685,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="18">
         <ArticleTitle>第十八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -1694,7 +1694,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="19">
         <ArticleTitle>第十九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -1703,7 +1703,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="20">
         <ArticleTitle>第二十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -1712,7 +1712,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="20_2">
         <ArticleTitle>第二十条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -1721,7 +1721,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="20_3">
         <ArticleTitle>第二十条の三</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -1730,7 +1730,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="21">
         <ArticleTitle>第二十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -1739,7 +1739,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="22">
         <ArticleTitle>第二十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -1749,7 +1749,7 @@
       <Article Delete="false" Hide="false" Num="23">
         <ArticleCaption>（合併及び分割の認可の申請）</ArticleCaption>
         <ArticleTitle>第二十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十二第一項の合併又は分割の認可（廃棄物管理の事業に係るものに限る。）を受けようとする者は、次の各号に掲げる事項を記載した申請書に、当事者が連署（新設分割の場合にあつては、署名）をして、これを原子力規制委員会に提出しなければならない。</Sentence>
@@ -1797,7 +1797,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の申請書には、次の各号に掲げる書類を添付しなければならない。</Sentence>
@@ -1851,7 +1851,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の申請書の提出部数は、正本及び写し各一通とする。</Sentence>
@@ -1861,13 +1861,13 @@
       <Article Delete="false" Hide="false" Num="24">
         <ArticleCaption>（変更等の届出）</ArticleCaption>
         <ArticleTitle>第二十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の五第二項、第五十一条の七第四項及び第五十一条の十三第二項の規定による届出に係る書類（廃棄物管理の事業に係るものに限る。）の提出部数は、正本及び写し各一通とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十一の規定による届出に係る書類の提出部数は、正本一通とする。</Sentence>
@@ -1877,7 +1877,7 @@
       <Article Delete="false" Hide="false" Num="25">
         <ArticleCaption>（許可の取消し）</ArticleCaption>
         <ArticleTitle>第二十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十四第一項の原子力規制委員会規則で定める期間（廃棄物管理の事業に係るものに限る。）は、法第五十一条の二第一項の許可を受けた日から五年とする。</Sentence>
@@ -1887,7 +1887,7 @@
       <Article Delete="false" Hide="false" Num="26">
         <ArticleCaption>（記録）</ArticleCaption>
         <ArticleTitle>第二十六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十五の規定による記録（廃棄物管理の事業に係るものに限る。）は、事業所ごとに、次の表の上欄に掲げる事項について、それぞれ同表中欄に掲げるところに従つて記録し、それぞれ同表下欄に掲げる期間これを保存しておかなければならない。</Sentence>
@@ -2601,37 +2601,37 @@
             </Table>
           </TableStruct>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項に規定する記録事項について直接測定することが困難な場合においては、当該事項を間接的に推定することができる記録をもつてその事項の記録に代えることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の表第二号イの線量当量率、同号ハの線量当量並びに同号ニ及びホの線量は、それぞれ原子力規制委員会の定めるところにより記録するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の表第二号ニ及びヘの線量を記録する場合には、放射線による被ばくのうち放射性物質によつて汚染された空気を呼吸することによる被ばくに係る記録については、その被ばくの状況及び測定の方法を併せて記載しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の表第二号ニからトまでの記録の保存期間は、その記録に係る者が放射線業務従事者でなくなつた場合又はその記録を保存している期間が五年を超えた場合において廃棄物管理事業者がその記録を原子力規制委員会の指定する機関に引き渡すまでの期間とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="6">
+        <Paragraph Hide="false" Num="6" OldStyle="false">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">廃棄物管理事業者は、第一項の表第二号ニからヘまでの記録に係る放射線業務従事者に、その記録の写しをその者が当該業務を離れる時に交付しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="7">
+        <Paragraph Hide="false" Num="7" OldStyle="false">
           <ParagraphNum>７</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の表第二号リ及びヌ、第四号、第八号並びに第十号の記録の保存期間は、法第五十一条の二十五第三項において準用する法第十二条の六第八項の確認を受けるまでの期間とする。</Sentence>
@@ -2641,19 +2641,19 @@
       <Article Delete="false" Hide="false" Num="26_2">
         <ArticleCaption>（電磁的方法による保存）</ArticleCaption>
         <ArticleTitle>第二十六条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十五に規定する記録は、前条第一項の表の上欄に掲げる事項について、それぞれ同表中欄に掲げるところに従つて、電磁的方法（電子的方法、磁気的方法その他の人の知覚によつて認識することができない方法をいう。以下同じ。）により記録することにより作成し、保存することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定による保存をする場合には、同項の記録が必要に応じ電子計算機その他の機器を用いて直ちに表示されることができるようにして、前条第一項の表の下欄に掲げる期間保存しておかなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の規定による保存をする場合には、原子力規制委員会が定める基準を確保するよう努めなければならない。</Sentence>
@@ -2663,7 +2663,7 @@
       <Article Delete="false" Hide="false" Num="26_3">
         <ArticleCaption>（品質マネジメントシステム）</ArticleCaption>
         <ArticleTitle>第二十六条の三</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十六第三項の規定により、廃棄物管理事業者は、法第五十一条の二第一項又は第五十一条の五第一項の許可を受けたところにより、品質マネジメントシステムに基づき保安活動（次条から第三十三条の二までに規定する措置を含む。）の計画、実施、評価及び改善を行うとともに、品質マネジメントシステムの改善を継続して行わなければならない。</Sentence>
@@ -2673,7 +2673,7 @@
       <Article Delete="false" Hide="false" Num="27">
         <ArticleCaption>（管理区域への立入制限等）</ArticleCaption>
         <ArticleTitle>第二十七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十六第三項の規定により、廃棄物管理事業者は、管理区域及び周辺監視区域を定め、これらの区域において次の各号に掲げる措置を採らなければならない。</Sentence>
@@ -2732,7 +2732,7 @@
       <Article Delete="false" Hide="false" Num="28">
         <ArticleCaption>（線量等に関する措置）</ArticleCaption>
         <ArticleTitle>第二十八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十六第三項の規定により、廃棄物管理事業者は、放射線業務従事者の線量等に関し、次の各号に掲げる措置を採らなければならない。</Sentence>
@@ -2750,13 +2750,13 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定にかかわらず、廃棄物管理施設に災害が発生し、又は発生するおそれがある場合その他の緊急やむを得ない場合においては、放射線業務従事者（女子については、妊娠不能と診断された者及び妊娠の意思のない旨を廃棄物管理事業者に書面で申し出た者に限る。）をその線量が原子力規制委員会の定める線量限度を超えない範囲内において緊急作業が必要と認められる期間、緊急作業に従事させることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定により緊急作業に従事させることができる放射線業務従事者は、次に掲げる要件のいずれにも該当する者でなければならない。</Sentence>
@@ -2784,7 +2784,7 @@
       <Article Delete="false" Hide="false" Num="29">
         <ArticleCaption>（廃棄物管理施設の施設管理）</ArticleCaption>
         <ArticleTitle>第二十九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十六第三項の規定により、廃棄物管理事業者は、廃棄物管理施設の保全のために行う設計、工事、巡視、点検、検査その他の施設の管理（以下「施設管理」という。）に関し、次に掲げる措置を講じなければならない。</Sentence>
@@ -2893,7 +2893,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">廃棄物管理事業者は、次条第一項若しくは第二項の規定により長期施設管理方針を策定したとき又は同条第三項の規定により長期施設管理方針を変更したときは、これを前項第一号の規定により定められた施設管理方針に反映させなければならない。</Sentence>
@@ -2903,26 +2903,26 @@
       <Article Delete="false" Hide="false" Num="29_2">
         <ArticleCaption>（廃棄物管理施設の経年劣化に関する技術的な評価）</ArticleCaption>
         <ArticleTitle>第二十九条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">法第五十一条の十六第三項の規定により、廃棄物管理事業者は、廃棄物管理施設の保全に関し、その事業を開始した日以後二十年を経過する日までに、経年劣化に関する技術的な評価を行い、この評価の結果に基づき、十年間に実施すべき当該廃棄物管理施設についての施設管理に関する方針を策定しなければならない。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、動作する機能を有する機器及び構造物に関し、廃棄物管理施設の供用に伴う劣化の状況が的確に把握される箇所については、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の評価は、十年を超えない期間ごとに再評価を行い、この再評価の結果に基づき、次の十年間に実施すべき当該廃棄物管理施設についての施設管理に関する方針を策定しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">廃棄物管理事業者は、前二項の評価を行うために設定した条件又は評価方法を変更する場合は、当該評価の見直しを行い、その結果に基づき、前二項の施設管理に関する方針（第三十四条第一項第十五号において「長期施設管理方針」という。）を変更しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前三項の規定は、法第五十一条の二十五第二項の認可を受けた場合は適用しない。</Sentence>
@@ -2932,7 +2932,7 @@
       <Article Delete="false" Hide="false" Num="30">
         <ArticleCaption>（設計想定事象に係る廃棄物管理施設の保全に関する措置）</ArticleCaption>
         <ArticleTitle>第三十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十六第三項の規定により、廃棄物管理事業者は、設計想定事象に関して、法第五十一条の二第一項又は第五十一条の五第一項の許可を受けたところ（法第五十一条の二十五第二項の認可を受けたものにあつては、当該認可を受けたところ）により、次に掲げる廃棄物管理施設の保全に関する措置を講じなければならない。</Sentence>
@@ -2984,7 +2984,7 @@
       <Article Delete="false" Hide="false" Num="31">
         <ArticleCaption>（廃棄物管理設備の操作）</ArticleCaption>
         <ArticleTitle>第三十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">第五十一条の十六第三項の規定により、廃棄物管理事業者は、次の各号に掲げる廃棄物管理設備の操作に関する措置を講じなければならない。</Sentence>
@@ -3067,7 +3067,7 @@
       <Article Delete="false" Hide="false" Num="32">
         <ArticleCaption>（事業所において行われる運搬）</ArticleCaption>
         <ArticleTitle>第三十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十六第三項の規定により、廃棄物管理事業者は、廃棄物管理施設を設置した事業所において行われる核燃料物質等の運搬に関し、次の各号に掲げる措置を講じ、運搬前にこれらの措置の実施状況を確認しなければならない。</Sentence>
@@ -3152,20 +3152,20 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">前項の場合において、特別の理由により同項第二号及び第三号に掲げる措置の全部又は一部を講ずることが著しく困難なときは、原子力規制委員会の承認を受けた措置を講ずることをもつて、これらに代えることができる。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該運搬物の表面における線量当量率が原子力規制委員会の定める線量当量率を超えるときは、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項第一号から第三号まで及び第六号から第九号までの規定は、管理区域内において行う運搬については、適用しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">廃棄物管理事業者は、核燃料物質等の運搬に関し、核燃料物質等の事業所の外における運搬に関する規則（昭和五十三年総理府令第五十七号）第三条から第十七条の二まで及び核燃料物質等車両運搬規則（昭和五十三年運輸省令第七十二号）第三条から第十九条までに規定する運搬の技術上の基準に従つて保安のために必要な措置を講じた場合には、第一項の規定にかかわらず、当該核燃料物質等を廃棄物管理施設を設置した事業所において運搬することができる。</Sentence>
@@ -3175,7 +3175,7 @@
       <Article Delete="false" Hide="false" Num="33">
         <ArticleCaption>（事業所において行われる廃棄）</ArticleCaption>
         <ArticleTitle>第三十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十六第三項の規定により、廃棄物管理事業者は、廃棄物管理施設を設置した事業所において行われる放射性廃棄物の廃棄に関し、次の各号に掲げる措置を講じ、廃棄前にこれらの措置の実施状況を確認しなければならない。</Sentence>
@@ -3361,7 +3361,7 @@
       <Article Delete="false" Hide="false" Num="33_2">
         <ArticleCaption>（廃棄物管理施設の定期的な評価）</ArticleCaption>
         <ArticleTitle>第三十三条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十六第三項の規定により、廃棄物管理事業者は、廃棄物管理施設ごと及び十年を超えない期間ごとに次に掲げる措置を講じなければならない。</Sentence>
@@ -3379,7 +3379,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前三項の規定は、法第五十一条の二十五第二項の認可を受けた場合は適用しない。</Sentence>
@@ -3389,7 +3389,7 @@
       <Article Delete="false" Hide="false" Num="33_3">
         <ArticleCaption>（防護措置）</ArticleCaption>
         <ArticleTitle>第三十三条の三</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十六第四項の規定により、廃棄物管理事業者は、次の表の上欄に掲げる特定核燃料物質の区分に応じ、それぞれ同表の下欄に掲げる措置を採らなければならない。</Sentence>
@@ -3446,7 +3446,7 @@
             </Table>
           </TableStruct>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の表第一号及び第二号の特定核燃料物質の防護のために必要な措置は、次の各号に掲げるものとする。</Sentence>
@@ -3906,14 +3906,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第一項の表第三号から第六号までの特定核燃料物質の防護のために必要な措置については、前項（第二号を除く。）の規定を準用する。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、同項第三号中「周辺防護区域」とあるのは「防護区域」と、「人が容易に侵入することを防止できる十分な高さ及び構造を有する柵等」とあるのは「柵等」と、「区画し、並びに当該障壁の周辺に標識及びサイレン、拡声機その他の人に警告するための設備又は装置を設置し、並びに照明装置等の容易に人の侵入を確認することができる設備又は装置を設置すること」とあるのは「区画すること」と、同項第四号中「防護区域、周辺防護区域又は立入制限区域」とあるのは「防護区域」と、「当該防護区域、当該周辺防護区域及び当該立入制限区域」とあるのは「当該防護区域」と、同項第五号中「防護区域、周辺防護区域及び立入制限区域」とあり、及び「防護区域、周辺防護区域又は立入制限区域」とあるのは「防護区域」と、「当該防護区域、当該周辺防護区域又は当該立入制限区域」とあるのは「当該防護区域」と、同項第六号中「防護区域、周辺防護区域及び立入制限区域」とあり、及び「防護区域、周辺防護区域又は立入制限区域」とあるのは「防護区域」と、同項第七号中「防護区域内、周辺防護区域内及び立入制限区域内に、それぞれ」とあるのは「防護区域内に」と、「防護区域内、周辺防護区域内又は立入制限区域内」とあるのは「防護区域内」と、同項第八号中「防護区域、周辺防護区域及び立入制限区域の出入口においては、次に掲げる措置」とあるのは「防護区域の出入口においては、次に掲げる措置を、立入制限区域の出入口においては、次のハに掲げる措置」と、同項第十一号中「防護区域内若しくは周辺防護区域内」とあるのは「防護区域内」と、「周辺防護区域の」とあるのは「防護区域の」と、同項第十二号中「防護区域、周辺防護区域若しくは立入制限区域又は施設」とあるのは「防護区域又は施設」と、同項第十七号中「防護区域内又は周辺防護区域内」とあるのは「防護区域内」と、「防護区域内、周辺防護区域内」とあるのは「防護区域内」と、同項第十八号中「防護区域内、周辺防護区域内」とあるのは「防護区域内」と、同項第二十四号中「前各号の措置は」とあるのは「第一項の表第三号から第六号までの特定核燃料物質（同表第四号ハに掲げる物質及び同表第五号に掲げる物質のうち照射された同表第四号ハに掲げる物質に係るもの（照射直後にその表面から一メートルの距離において吸収線量率が一グレイ毎時以下であつたものに限る。）を除く。）を取り扱う場合、前各号の措置は」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第一項の表第七号から第十四号までの特定核燃料物質の防護のために必要な措置については、次の各号に掲げるもののほか、第二項第四号から第七号まで（第五号ハを除く。）、同項第九号（同号ロを除く。）、同項第十一号（同号ロを除く。）、同項第十三号から第十六号まで、同項第十九号から第二十二号まで、同項第二十四号及び同項第二十五号の規定を準用する。</Sentence>
@@ -3967,7 +3967,7 @@
       <Article Delete="false" Hide="false" Num="34">
         <ArticleCaption>（保安規定）</ArticleCaption>
         <ArticleTitle>第三十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の十八第一項の規定による保安規定の認可を受けようとする者（廃棄物管理事業者に限る。）は、認可を受けようとする事業所ごとに、次の各号に掲げる事項について保安規定を定め、これを記載した申請書を原子力規制委員会に提出しなければならない。</Sentence>
@@ -4153,7 +4153,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法第五十一条の二十五第二項の認可を受けようとする者（廃棄物管理事業者に限る。）は、当該認可の日までに、当該認可を受けようとする廃止措置計画に定められている廃止措置を実施するため、法第五十一条の十八第一項の規定により認可を受けた保安規定について次に掲げる事項を追加し、又は変更した保安規定の認可を受けなければならない。</Sentence>
@@ -4340,13 +4340,13 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の場合において第一項本文の規定を準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項（前項において準用する場合を含む。）の申請書の提出部数は、正本一通とする。</Sentence>
@@ -4356,19 +4356,19 @@
       <Article Delete="false" Hide="false" Num="35">
         <ArticleCaption>（廃棄物取扱主任者の選任等）</ArticleCaption>
         <ArticleTitle>第三十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二十第一項の規定による廃棄物取扱主任者の選任（廃棄物管理の事業に係るものに限る。）は、事業所ごとに行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二十第一項の原子力規制委員会規則で定める資格（廃棄物管理の事業に係るものに限る。）は、法第二十二条の三第一項の核燃料取扱主任者免状又は法第四十一条第一項の原子炉主任技術者免状を有することとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二十第二項の規定による届出に係る書類（廃棄物管理の事業に係るものに限る。）の提出部数は、正本一通とする。</Sentence>
@@ -4378,7 +4378,7 @@
       <Article Delete="false" Hide="false" Num="35_2">
         <ArticleCaption>（核物質防護規定）</ArticleCaption>
         <ArticleTitle>第三十五条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二十三第一項の規定による核物質防護規定の認可を受けようとする者（廃棄物管理事業者に限る。）は、認可を受けようとする事業所ごとに、次の各号に掲げる事項について核物質防護規定を定め、これを記載した申請書を原子力規制委員会に提出しなければならない。</Sentence>
@@ -4492,7 +4492,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の申請書の提出部数は、正本及び写し各一通（廃棄物管理施設のうち令第六十三条第一項の表第四号の原子力規制委員会が告示で定めるものに係る申請をする場合には、正本一通及び写し二通）とする。</Sentence>
@@ -4502,13 +4502,13 @@
       <Article Delete="false" Hide="false" Num="35_3">
         <ArticleCaption>（核物質防護管理者の選任等）</ArticleCaption>
         <ArticleTitle>第三十五条の三</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二十四第一項の規定による核物質防護管理者の選任（廃棄物管理の事業に係るものに限る。）は、事業所ごとに行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二十四第二項において準用する法第十二条の三第二項の規定による届出に係る書類（廃棄物管理の事業に係るものに限る。）の提出部数は、正本及び写し各一通（廃棄物管理施設のうち令第六十四条の表第八号の原子力規制委員会が告示で定めるものに係る届出をする場合には、正本一通及び写し二通）とする。</Sentence>
@@ -4518,7 +4518,7 @@
       <Article Delete="false" Hide="false" Num="35_4">
         <ArticleCaption>（核物質防護管理者の要件）</ArticleCaption>
         <ArticleTitle>第三十五条の四</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二十四第一項の原子力規制委員会規則で定める要件（廃棄物管理の事業に係るものに限る。）は、次の各号に掲げるものとする。</Sentence>
@@ -4546,7 +4546,7 @@
       <Article Delete="false" Hide="false" Num="35_5">
         <ArticleCaption>（廃止措置として行うべき事項）</ArticleCaption>
         <ArticleTitle>第三十五条の五</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二十四の三第一項の原子力規制委員会規則で定める廃止措置のうち廃棄物管理の事業に係るものは、廃棄物管理施設の解体、核燃料物質による汚染の除去、核燃料物質等の廃棄及び第二十六条第一項に規定する放射線管理記録の同条第五項の原子力規制委員会が指定する機関への引渡しとする。</Sentence>
@@ -4556,7 +4556,7 @@
       <Article Delete="false" Hide="false" Num="35_5_2">
         <ArticleCaption>（廃止措置実施方針に定める事項）</ArticleCaption>
         <ArticleTitle>第三十五条の五の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法第五十一条の二十四の三第一項の廃止措置実施方針には、次に掲げる事項を定めなければならない。</Sentence>
@@ -4650,7 +4650,7 @@
       <Article Delete="false" Hide="false" Num="35_5_3">
         <ArticleCaption>（廃止措置実施方針の公表）</ArticleCaption>
         <ArticleTitle>第三十五条の五の三</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法第五十一条の二十四の三第一項及び第三項の規定による公表は、廃止措置実施方針の作成又は変更を行つた後、遅滞なく、インターネットの利用により行うものとする。</Sentence>
@@ -4660,7 +4660,7 @@
       <Article Delete="false" Hide="false" Num="35_5_4">
         <ArticleCaption>（廃止措置実施方針の見直し）</ArticleCaption>
         <ArticleTitle>第三十五条の五の四</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">廃棄物管理事業者は、少なくとも五年ごとに、廃止措置実施方針の見直しを行い、必要があると認めるときは、これを変更しなければならない。</Sentence>
@@ -4670,7 +4670,7 @@
       <Article Delete="false" Hide="false" Num="35_6">
         <ArticleCaption>（廃止措置計画の認可の申請）</ArticleCaption>
         <ArticleTitle>第三十五条の六</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二十五第二項の規定により廃止措置計画について認可を受けようとする者（廃棄物管理事業者に限る。）は、次の各号に掲げる事項について廃止措置計画を定め、これを記載した申請書を原子力規制委員会に提出しなければならない。</Sentence>
@@ -4736,7 +4736,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の申請書には、次の各号に掲げる書類又は図面を添付しなければならない。</Sentence>
@@ -4802,7 +4802,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の申請書の提出部数は、正本及び写し各一通とする。</Sentence>
@@ -4812,7 +4812,7 @@
       <Article Delete="false" Hide="false" Num="35_7">
         <ArticleCaption>（廃止措置計画の変更の認可の申請）</ArticleCaption>
         <ArticleTitle>第三十五条の七</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二十五第三項において読み替えて準用する法第十二条の六第三項の認可を受けようとする者（廃棄物管理事業者に限る。）は、次の各号に掲げる事項を記載した申請書を原子力規制委員会に提出しなければならない。</Sentence>
@@ -4842,13 +4842,13 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の申請書には前条第二項各号に掲げる事項のうち変更に係るものについて説明した資料を添付しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の申請書の提出部数は、正本及び写し各一通とする。</Sentence>
@@ -4858,13 +4858,13 @@
       <Article Delete="false" Hide="false" Num="35_8">
         <ArticleCaption>（廃止措置計画に係る軽微な変更）</ArticleCaption>
         <ArticleTitle>第三十五条の八</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二十五第三項において準用する法第十二条の六第三項ただし書に規定する原子力規制委員会規則で定める軽微な変更（廃棄物管理の事業に係るものに限る。）は、廃止措置の実施に伴う災害の防止上支障のない変更とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二十五第二項の規定により認可を受けた者は、前項の変更をしたときは、その変更の日から三十日以内に、その旨を原子力規制委員会に届け出なければならない。</Sentence>
@@ -4874,7 +4874,7 @@
       <Article Delete="false" Hide="false" Num="35_9">
         <ArticleCaption>（廃止措置計画の認可の基準）</ArticleCaption>
         <ArticleTitle>第三十五条の九</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二十五第三項において準用する法第十二条の六第四項に規定する原子力規制委員会規則で定める基準（廃棄物管理の事業に係るものに限る。）は、次の各号に掲げるとおりとする。</Sentence>
@@ -4902,7 +4902,7 @@
       <Article Delete="false" Hide="false" Num="35_10">
         <ArticleCaption>（廃止措置の終了の確認の申請）</ArticleCaption>
         <ArticleTitle>第三十五条の十</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二十五第三項において準用する法第十二条の六第八項の規定により廃止措置の終了の確認を受けようとする者（廃棄物管理事業者に限る。）は、次の各号に掲げる事項を記載した申請書を原子力規制委員会に提出しなければならない。</Sentence>
@@ -4938,7 +4938,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の申請書には、次に掲げる事項を記載した書類を添付しなければならない。</Sentence>
@@ -4956,7 +4956,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の申請書の提出部数は、正本及び写し各一通とする。</Sentence>
@@ -4966,7 +4966,7 @@
       <Article Delete="false" Hide="false" Num="35_11">
         <ArticleCaption>（廃止措置の終了確認の基準）</ArticleCaption>
         <ArticleTitle>第三十五条の十一</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二十五第三項において準用する法第十二条の六第八項に規定する原子力規制委員会規則で定める基準（廃棄物管理の事業に係るものに限る。）は、次の各号に掲げるとおりとする。</Sentence>
@@ -4994,7 +4994,7 @@
       <Article Delete="false" Hide="false" Num="35_11_2">
         <ArticleCaption>（廃止措置終了確認証）</ArticleCaption>
         <ArticleTitle>第三十五条の十一の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">原子力規制委員会は、原子力規制検査により、廃止措置の結果が前条各号のいずれにも適合していることについて確認をしたときは、廃止措置終了確認証を交付する。</Sentence>
@@ -5004,7 +5004,7 @@
       <Article Delete="false" Hide="false" Num="35_12">
         <ArticleCaption>（旧廃棄事業者等の廃止措置計画の認可の申請）</ArticleCaption>
         <ArticleTitle>第三十五条の十二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二十六第二項の規定により廃止措置計画について認可を受けようとする者（廃棄物管理事業者に係る者に限る。）は、第三十五条の六の規定の例により申請書を原子力規制委員会に提出しなければならない。</Sentence>
@@ -5014,7 +5014,7 @@
       <Article Delete="false" Hide="false" Num="35_13">
         <ArticleCaption>（旧廃棄事業者等の廃止措置計画の提出期限）</ArticleCaption>
         <ArticleTitle>第三十五条の十三</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二十六第二項に規定する原子力規制委員会規則で定める期間（廃棄物管理の事業に係るものに限る。）は、六月とする。</Sentence>
@@ -5024,7 +5024,7 @@
       <Article Delete="false" Hide="false" Num="35_14">
         <ArticleCaption>（旧廃棄事業者等の廃止措置計画の変更の認可の申請）</ArticleCaption>
         <ArticleTitle>第三十五条の十四</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二十六第四項において準用する法第十二条の七第四項の認可を受けた廃止措置計画について変更の認可を受けようとする者（廃棄物管理事業者に係る者に限る。）は、第三十五条の七の規定の例により申請書を原子力規制委員会に提出しなければならない。</Sentence>
@@ -5034,13 +5034,13 @@
       <Article Delete="false" Hide="false" Num="35_15">
         <ArticleCaption>（旧廃棄事業者等の廃止措置計画の軽微な変更）</ArticleCaption>
         <ArticleTitle>第三十五条の十五</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二十六第四項において準用する法第十二条の七第四項ただし書に規定する原子力規制委員会規則で定める軽微な変更（廃棄物管理の事業に係るものに限る。）は、廃止措置の実施に伴う災害の防止上支障のない変更とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五十一条の二十六第二項の規定により認可を受けた者（廃棄物管理事業者に係る者に限る。）は、前項の変更をしたときは、その変更の日から三十日以内に、その旨を原子力規制委員会に届け出なければならない。</Sentence>
@@ -5050,19 +5050,19 @@
       <Article Delete="false" Hide="false" Num="35_15_2">
         <ArticleCaption>（旧廃棄事業者等に係る廃止措置対象施設の維持等）</ArticleCaption>
         <ArticleTitle>第三十五条の十五の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第五十一条の二十六第四項において読み替えて準用する法第二十二条の九第四項の原子力規制委員会規則で定める場合（廃棄物管理の事業に係るものに限る。）は、廃止措置対象施設に性能維持施設が存在する場合とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の場合において、法第五十一条の九本文の規定は、性能維持施設に限り、適用されるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の場合において、定期事業者検査は、性能維持施設について、あらかじめ、検査の時期、対象、方法その他必要な事項を定めた検査実施要領書を定めて行うものとする。</Sentence>
@@ -5072,7 +5072,7 @@
       <Article Delete="false" Hide="false" Num="35_15_3">
         <ArticleCaption>（指定に関する規定の準用）</ArticleCaption>
         <ArticleTitle>第三十五条の十五の三</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">実用発電用原子炉の設置、運転等に関する規則（昭和五十三年通商産業省令第七十七号）第百二十七条から第百三十三条までの規定は、第二十六条第五項の指定について準用する。</Sentence>
@@ -5082,7 +5082,7 @@
       <Article Delete="false" Hide="false" Num="35_16">
         <ArticleCaption>（事故故障等の報告）</ArticleCaption>
         <ArticleTitle>第三十五条の十六</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第六十二条の三の規定により、廃棄物管理事業者（旧廃棄事業者等（廃棄物管理事業者に係る者に限る。）を含む。次条及び第四十条において同じ。）は、次の各号のいずれかに該当するときは、その旨を直ちに、その状況及びそれに対する処置を十日以内に原子力規制委員会に報告しなければならない。</Sentence>
@@ -5184,7 +5184,7 @@
       <Article Delete="false" Hide="false" Num="36">
         <ArticleCaption>（危険時の措置）</ArticleCaption>
         <ArticleTitle>第三十六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第六十四条第一項の規定により、廃棄物管理事業者は、次の各号に掲げる応急の措置を採らなければならない。</Sentence>
@@ -5229,7 +5229,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="37">
         <ArticleTitle>第三十七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -5238,7 +5238,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="38">
         <ArticleTitle>第三十八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -5247,7 +5247,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="39">
         <ArticleTitle>第三十九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">削除</Sentence>
@@ -5257,13 +5257,13 @@
       <Article Delete="false" Hide="false" Num="40">
         <ArticleCaption>（報告の徴収）</ArticleCaption>
         <ArticleTitle>第四十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">廃棄物管理事業者は、事業所ごとに、別記様式第一による報告書を、液体状及び固体状の放射性廃棄物の保管量等、ガラス固化体の保管量等並びに放射線業務従事者の一年間の線量分布に係るものにあつては毎年四月一日からその翌年の三月三十一日までの期間について、その他のものにあつては毎年四月一日から九月三十日までの期間及び十月一日からその翌年の三月三十一日までの期間について作成し、それぞれ当該期間の経過後四十五日以内に原子力規制委員会に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の報告書の提出部数は、正本一通とする。</Sentence>
@@ -5273,7 +5273,7 @@
       <Article Delete="false" Hide="false" Num="41">
         <ArticleCaption>（電磁的記録媒体による手続）</ArticleCaption>
         <ArticleTitle>第四十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次の各号に掲げる書類の提出については、当該書類の提出に代えて、当該書類に記載すべきこととされている事項を記録した電磁的記録媒体（電磁的記録（電磁的方法で作られる記録であつて、電子計算機による情報処理の用に供されるものをいう。）に係る記録媒体をいう。別記様式第二において同じ。）及び別記様式第二の電磁的記録媒体提出票を提出することにより行うことができる。</Sentence>
@@ -5304,7 +5304,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
@@ -5314,7 +5314,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和六三年七月二六日総理府令第四一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、昭和六十四年四月一日から施行する。</Sentence>
@@ -5323,7 +5323,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和六三年一一月二二日総理府令第四八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
@@ -5332,7 +5332,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成元年五月一九日総理府令第二四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律（昭和六十三年法律第六十九号）附則第一条第三号に掲げる規定の施行の日（平成元年五月二十六日）から施行する。</Sentence>
@@ -5341,14 +5341,14 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二年一一月二八日総理府令第五六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、平成三年一月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
@@ -5358,7 +5358,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成六年三月八日総理府令第一〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、平成六年四月一日から施行する。</Sentence>
@@ -5367,7 +5367,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成六年五月二五日総理府令第二七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、平成六年六月一日から施行する。</Sentence>
@@ -5376,7 +5376,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成八年七月一二日総理府令第三九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、核原料物質、核燃料物質及び原子炉の規制に関する法律及び放射性同位元素等による放射線障害の防止に関する法律の一部を改正する法律の施行の日（平成八年七月二十日）から施行する。</Sentence>
@@ -5385,7 +5385,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一〇年三月三一日総理府令第八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、平成十年四月二十日から施行する。</Sentence>
@@ -5394,7 +5394,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一一年三月二九日総理府令第一五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
@@ -5403,7 +5403,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一一年九月三〇日総理府令第四六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
@@ -5415,7 +5415,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
@@ -5428,7 +5428,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令は、核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律の施行の日（平成十二年七月一日）から施行する。</Sentence>
@@ -5438,7 +5438,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この府令の施行の際現に核原料物質、核燃料物質及び原子炉の規制に関する法律施行令の一部を改正する政令（平成十二年政令第百九十七号。以下「改正令」という。）による改正後の核原料物質、核燃料物質及び原子炉の規制に関する法律施行令（以下「令」という。）第十六条の二第一号、第三号又は第四号に掲げる核燃料物質を使用している使用施設等（改正令による改正前の令第十六条の二各号に掲げる核燃料物質を使用している使用施設等を除く。）に対する核原料物質、核燃料物質及び原子炉の規制に関する法第五十五条の三第一項の規定の適用については、同項中「受け、これに合格した後でなければ」とあるのは、「平成十二年九月三十日までに受けなければならず、同日を経過する前に不合格の通知を受けた場合にあつてはその日から再度の受検により合格の通知を受けるまでの間、平成十二年九月三十日を経過しても合格の通知がない場合にあつては同日から合格の通知を受けるまでの間は」とする。</Sentence>
@@ -5448,7 +5448,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一二年六月一六日総理府令第六二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
@@ -5457,7 +5457,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一二年一〇月二〇日総理府令第一一八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。</Sentence>
@@ -5466,7 +5466,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一二年一二月二六日総理府令第一五一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、平成十三年四月一日から施行する。</Sentence>
@@ -5475,7 +5475,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一四年一月二八日経済産業省令第七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、平成十四年一月三十一日から施行する。</Sentence>
@@ -5485,7 +5485,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一五年三月一七日経済産業省令第二一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、電気事業法及び核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律の施行の日（平成十五年三月十七日）から施行する。</Sentence>
@@ -5494,7 +5494,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一五年三月三一日経済産業省令第四三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
@@ -5503,7 +5503,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一五年九月二二日経済産業省令第一〇九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十五年十月一日から施行する。</Sentence>
@@ -5512,7 +5512,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一五年九月二四日経済産業省令第一一〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十五年十月一日から施行する。</Sentence>
@@ -5524,7 +5524,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成十五年十月一日から施行する。</Sentence>
@@ -5534,13 +5534,13 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の際現に法第五十一条の十八第一項又は第二項の規定により保安規定の認可を受けている者は、平成十五年十二月三十一日までに同項に規定する保安規定の変更の認可を申請しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定による保安規定の変更の認可を申請した者については、当該申請に係る認可又は認可の拒否の処分のあった日までの間は、改正後の核燃料物質又は核燃料物質によつて汚染された物の廃棄物埋設の事業に関する規則第二十条第一項及び核燃料物質又は核燃料物質によつて汚染された物の廃棄物管理の事業に関する規則第三十四条第一項の規定にかかわらず、なお従前の例による。</Sentence>
@@ -5550,7 +5550,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一七年三月四日経済産業省令第一四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、不動産登記法の施行の日（平成十七年三月七日）から施行する。</Sentence>
@@ -5562,7 +5562,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律（平成十七年法律第四十四号）の施行の日（平成十七年十二月一日）から施行する。</Sentence>
@@ -5573,7 +5573,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の公布の際現に法第五十一条の二十三第一項の規定により核物質防護規定の認可を受けている者は、平成十八年二月二十八日までに、この省令による改正後の核燃料物質又は核燃料物質によつて汚染された物の廃棄物管理の事業に関する規則第三十五条の二第一項の規定の例により核物質防護規定を定め、これを記載した申請書を経済産業大臣に提出しなければならない。</Sentence>
@@ -5583,7 +5583,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一八年一二月二六日経済産業省令第一一九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum/>
         <ParagraphSentence>
@@ -5593,7 +5593,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二〇年三月二八日経済産業省令第二四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、平成二十年四月一日から施行する。</Sentence>
@@ -5603,7 +5603,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二〇年一二月一日経済産業省令第八二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、一般社団法人及び一般財団法人に関する法律の施行の日（平成二十年十二月一日）から施行する。</Sentence>
@@ -5615,7 +5615,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
@@ -5626,14 +5626,14 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">
             </Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の公布の際現に規制法第五十一条の十八第一項の規定により保安規定の認可を受けている同法第五十一条の七第一項の廃棄物管理事業者は、平成二十一年三月二日までに、この省令第五条の規定による改正後の核燃料物質又は核燃料物質によつて汚染された物の廃棄物管理の事業に関する規則第三十四条第一項の規定の例により保安規定を定め、これを記載した申請書を経済産業大臣に提出しなければならない。</Sentence>
@@ -5646,7 +5646,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
@@ -5656,13 +5656,13 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の際現にこの省令第一条の規定による改正前の核原料物質又は核燃料物質の製錬の事業に関する規則第六条第五項の規定に基づき指定を受けている者は、平成二十一年九月三十日又はこの省令第一条の規定による改正後の核原料物質又は核燃料物質の製錬の事業に関する規則（以下「新製錬規則」という。）第六条第五項の規定に基づき指定を受けた日のいずれか早い日までの間は、新製錬規則第六条第五項の規定に基づき指定を受けているものとみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定は、この省令の施行の際現にこの省令第二条の規定による改正前の核燃料物質の加工の事業に関する規則第七条第五項の規定に基づき指定を受けている者、この省令第三条の規定による改正前の使用済燃料の再処理の事業に関する規則第八条第五項の規定に基づき指定を受けている者、この省令第四条の規定による改正前の実用発電用原子炉の設置、運転等に関する規則第七条第五項の規定に基づき指定を受けている者、この省令第五条の規定による改正前の核燃料物質又は核燃料物質によつて汚染された物の第二種廃棄物埋設の事業に関する規則第十三条第五項の規定に基づき指定を受けている者、この省令第六条の規定による改正前の核燃料物質又は核燃料物質によつて汚染された物の廃棄物管理の事業に関する規則第二十六条第五項の規定に基づき指定を受けている者、この省令第七条の規定による改正前の使用済燃料の貯蔵の事業に関する規則第二十七条第五項の規定に基づき指定を受けている者、この省令第八条の規定による改正前の研究開発段階にある発電の用に供する原子炉の設置、運転等に関する規則第二十五条第五項の規定に基づき指定を受けている者及びこの省令第九条の規定による改正前の核燃料物質又は核燃料物質によって汚染された物の第一種廃棄物埋設の事業に関する規則第四十四条第五項の規定に基づき指定を受けている者について準用する。</Sentence>
@@ -5672,7 +5672,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二二年二月二六日経済産業省令第四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十二年六月一日から施行する。</Sentence>
@@ -5681,7 +5681,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二二年七月二六日経済産業省令第四四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十二年八月一日から施行する。</Sentence>
@@ -5690,14 +5690,14 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二四年三月二九日経済産業省令第二一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -5705,7 +5705,7 @@
           <Sentence Num="2" WritingMode="vertical">この場合において、当該者は、平成二十四年六月二十八日までに法第十二条の二第一項、第二十二条の六第一項、第四十三条の二第一項、第四十三条の二十五第一項、第五十条の三第一項又は第五十一条の二十三第一項に規定する核物質防護規定の変更の認可を申請しなければならない。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に法第十二条の二第一項、第二十二条の六第一項、第四十三条の二第一項、第四十三条の二十五第一項、第五十条の三第一項及び第五十一条の二十三第一項の規定により核物質防護規定の認可を受けている者については、新製錬規則第六条の二第二項第三号、第十五号及び第十七号並びに新加工規則第七条の九第二項第三号、第十六号及び第十八号並びに同条第四項第三号並びに新実用炉規則第十五条の二第二項第十四号、第十九号及び第二十一号並びに新研究炉規則第三十五条第二項第三号、第十四号、第十九号及び第二十一号並びに新貯蔵規則第三十六条第二項第三号、第十六号及び第十八号並びに新再処理規則第十六条の三第二項第三号、第十八号及び第二十号並びに同条第三項第三号並びに新第一種埋設規則第六十二条第二項第三号、第十五号及び第十七号並びに新第二種埋設規則第十九条の三第二項第三号、第十五号及び第十七号並びに新廃棄物管理規則第三十三条の二第二項第三号、第十五号及び第十七号の規定はこの省令の施行の日から一年間、新製錬規則第六条の二第二項第十八号並びに新加工規則第七条の九第二項第十九号並びに新実用炉規則第十五条の二第二項第十五号及び第二十二号並びに新研究炉規則第三十五条第二項第十五号、第十六号及び第二十二号並びに新貯蔵規則第三十六条第二項第十九号並びに新再処理規則第十六条の三第二項第十四号、第十五号及び第二十一号並びに新第一種埋設規則第六十二条第二項第十八号並びに新第二種埋設規則第十九条の三第二項第十八号並びに新廃棄物管理規則第三十三条の二第二項第十八号の規定はこの省令の施行の日から二年間は、適用しない。</Sentence>
@@ -5715,7 +5715,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二四年九月一四日経済産業省令第六八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、原子力規制委員会設置法の施行の日（平成二十四年九月十九日）から施行する。</Sentence>
@@ -5724,7 +5724,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二五年三月二九日原子力規制委員会規則第一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、平成二十五年四月一日から施行する。</Sentence>
@@ -5736,7 +5736,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則は、原子力規制委員会設置法（平成二十四年法律第四十七号。以下「設置法」という。）附則第一条第四号に掲げる規定の施行の日（平成二十五年七月八日）から施行する。</Sentence>
@@ -5749,7 +5749,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則は、原子力規制委員会設置法（平成二十四年法律第四十七号。以下「設置法」という。）附則第一条第五号に掲げる規定の施行の日（平成二十五年十二月十八日。以下「施行日」という。）から施行する。</Sentence>
@@ -5759,7 +5759,7 @@
       <Article Delete="false" Hide="false" Num="18">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第十八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則の施行の際現に設置法附則第三十条第一項の規定により第五号新規制法第五十一条の二第一項の規定によりされた許可とみなされた第五号旧規制法第五十一条の二第一項の規定による廃棄物管理の事業の許可を受けている者（以下「廃棄物管理事業者」という。）は、施行日から起算して三年を経過する日までに第十六条による改正後の核燃料物質又は核燃料物質によつて汚染された物の廃棄物管理の事業に関する規則（以下「新廃棄物管理事業規則」という。）第三十三条の二第一項に規定する措置を講じなければならない。</Sentence>
@@ -5768,13 +5768,13 @@
       </Article>
       <Article Delete="false" Hide="false" Num="19">
         <ArticleTitle>第十九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則の施行の際現に廃棄物管理事業者であって、設置法附則第三十条第一項の規定により第五号新規制法第五十一条の十八第一項の規定によりされた認可とみなされた第五号旧規制法第五十一条の十八第一項の規定による認可を受けている者（次項において「保安規定認可者」という。）は、平成二十六年三月十七日までに第五号新規制法第五十一条の十八第一項に規定する保安規定の変更の認可（新廃棄物管理事業規則第三十四条第一項第十七号に掲げる事項に係るものに限る。）を申請しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定による保安規定の変更の認可を申請した保安規定認可者については、当該申請に係る認可又は認可の拒否の処分のあった日までの間は、新廃棄物管理事業規則第二十六条、第三十三条の二及び第三十四条第一項第十七号の規定にかかわらず、なお従前の例による。</Sentence>
@@ -5784,7 +5784,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二六年二月二八日原子力規制委員会規則第一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、独立行政法人原子力安全基盤機構の解散に関する法律の施行の日（平成二十六年三月一日）から施行する。</Sentence>
@@ -5796,7 +5796,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則は、平成二十七年一月一日から施行する。</Sentence>
@@ -5806,7 +5806,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則の施行の際現に運搬されている核原料物質、核燃料物質等及び放射性同位元素等については、当該運搬が終了するまでは、なお従前の例による。</Sentence>
@@ -5816,7 +5816,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二七年八月三一日原子力規制委員会規則第六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、平成二十八年四月一日から施行する。</Sentence>
@@ -5828,7 +5828,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この規則は、原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律附則第一条第四号に掲げる規定の施行の日（平成三十年十月一日）から施行する。</Sentence>
@@ -5839,7 +5839,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則（別表第三に係る改正規定にあっては、当該規定）の施行前に改正前のそれぞれの規則の規定によってした処分、手続その他の行為であって、改正後のそれぞれの規則の規定に相当の規定があるものは、改正後のそれぞれの規則の相当の規定によってしたものとみなす。</Sentence>
@@ -5849,7 +5849,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成三〇年六月八日原子力規制委員会規則第六号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
@@ -5861,7 +5861,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この規則は、平成三十一年四月一日から施行する。</Sentence>
@@ -5872,7 +5872,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一条の規定による改正後の次の表上欄に掲げる規則の同表中欄に掲げる規定及び下欄に掲げる様式は、平成三十一年四月一日以後の期間について作成すべき報告書について適用するものとし、同日前の期間について作成すべき報告書については、なお従前の例による。</Sentence>
@@ -5995,7 +5995,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="3">
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第二条の規定による改正後の前条の表の上欄に掲げる規則の同表の下欄に掲げる様式は、平成三十二年四月一日以後の期間について作成すべき報告書について適用するものとし、同日前の期間について作成すべき報告書については、それぞれ第二条の規定による改正前の同表の下欄に掲げる様式による。</Sentence>
@@ -6004,7 +6004,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="4">
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則（附則第一条ただし書の規定にあっては、当該規定。以下この条において同じ。）の規定の施行前にした行為及び附則の規定によりなお従前の例によることとされる場合におけるこの規則の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -6014,7 +6014,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成三〇年九月二八日原子力規制委員会規則第九号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律附則第一条第四号に掲げる規定の施行の日（平成三十年十月一日）から施行する。</Sentence>
@@ -6026,7 +6026,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
@@ -6036,7 +6036,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（特定核燃料物質の防護のための区域における特定核燃料物質の防護のために必要な措置に関する経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この規則の施行の際現に次の表の第一欄に掲げる規定による核物質防護規定の認可を受けている者は、公布の日から起算して一年を経過するまでに、それぞれこの規則による改正後の同表の第二欄に掲げる規則の同表の第三欄に掲げる規定に掲げる事項について、核物質防護規定の変更の認可を申請しなければならない。</Sentence>
@@ -6171,7 +6171,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（特定核燃料物質の防護のために必要な連絡に関する措置等に関する経過措置）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この規則の施行の際現に次の表の第一欄に掲げる規定による核物質防護規定の認可を受けている者は、公布の日から起算して六月を経過するまでに、それぞれこの規則による改正後の同表の第二欄に掲げる規則の同表の第三欄に掲げる規定に掲げる事項について、核物質防護規定の変更の認可を申請しなければならない。</Sentence>
@@ -6302,7 +6302,7 @@
             </Table>
           </TableStruct>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この規則の施行の際現に次の表の第一欄に掲げる規定による核物質防護規定の認可を受けている者は、平成三十四年三月三十一日までに、それぞれこの規則による改正後の同表の第二欄に掲げる規則の同表の第三欄に掲げる規定に掲げる事項について、核物質防護規定の変更の認可を申請しなければならない。</Sentence>
@@ -6359,7 +6359,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（証明書等の発行又は業務上知り得る者の指定に関する経過措置）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則の施行の際現にこの規則による改正前の次の表の第一欄に掲げる規則の同表の第二欄に掲げる規定により行った証明書等の発行又は同表の第三欄に掲げる規定により行った特定核燃料物質の防護に関する秘密を業務上知り得る者（以下単に「業務上知り得る者」という。）の指定は、第三条第一項に規定する核物質防護規定の変更の認可の申請に係る認可又は認可の拒否の処分があった日から起算して一年を経過する日までの間は、それぞれ同表の第四欄に掲げる規定による措置を講じて行うこととされる証明書等の発行又は業務上知り得る者の指定とみなす。</Sentence>
@@ -6499,7 +6499,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="令和元年六月二八日原子力規制委員会規則第二号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、令和元年七月一日から施行する。</Sentence>
@@ -6508,7 +6508,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="令和元年七月一日原子力規制委員会規則第三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この規則は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>
@@ -6518,7 +6518,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="令和元年九月一三日原子力規制委員会規則第四号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、令和元年九月十四日から施行する。</Sentence>
@@ -6530,7 +6530,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則は、原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律第三条の規定の施行の日（令和二年四月一日）から施行する。</Sentence>
@@ -6540,7 +6540,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（核原料物質、核燃料物質及び原子炉の規制に関する法律第六十一条の二十四に規定する指定検査機関等を指定する省令等の廃止）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次に掲げる規則は、廃止する。</Sentence>
@@ -6562,19 +6562,19 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則の施行の際現に設置されている試験研究用等原子炉施設（旧法第四十三条の三の二第二項の廃止措置計画の認可を受けているもの及び旧法第二十九条の施設定期検査（以下この条において単に「施設定期検査」という。）を受けたことがないものを除く。）であって、旧法第二十八条第一項の規定による使用前検査（原子力規制委員会設置法の一部の施行に伴う関係規則の整備等に関する規則（平成二十五年原子力規制委員会規則第十六号。附則第十三条において「平成二十五年整備等規則」という。）第十三条の規定により改正された試験研究の用に供する原子炉等の設計及び工事の方法の技術基準に関する規則（昭和六十二年総理府令第十一号）の規定に係るものに限る。）に合格しているもの（第三項において「新規制基準適合試験研究用等原子炉施設」という。）について、この規則の施行後最初に行うべき新法第二十九条第一項の検査は、直近の施設定期検査が終了した日以降十二月を超えない時期（施行日の前日において施設定期検査を受けている場合にあっては、施行日から十二月を超えない時期）に行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則の施行の際現に設置されている試験研究用等原子炉施設であって、旧法第四十三条の三の二第二項の廃止措置計画の認可を受けているものについて、この規則の施行後最初に行うべき新法第二十九条第一項の検査は、施行日から十二月を超えない時期に行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">施行日の前日において施設定期検査を受けている試験研究用等原子炉施設（新規制基準適合試験研究用等原子炉施設を除く。）については、この規則の施行後最初に行うべき新法第二十九条第一項の検査は、施行後直ちに行うものとする。</Sentence>
@@ -6583,7 +6583,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="4">
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">施行日の前日において旧法第十六条の五、第四十六条の二の三又は第五十一条の十の施設定期検査を受けている加工施設、再処理施設又は廃棄物管理施設について、この規則の施行後最初に行うべき新法第十六条の五第一項、第四十六条の二の二第一項又は第五十一条の十第一項の検査は、施行後直ちに行うものとする。</Sentence>
@@ -6592,7 +6592,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="5">
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則の施行の際現に設置されている発電用原子炉施設（核原料物質、核燃料物質及び原子炉の規制に関する法律施行令（昭和三十二年政令第三百二十四号。第八条第四項において「令」という。）第一条に規定する研究開発段階発電用原子炉（以下単に「研究開発段階発電用原子炉」という。）に係るものに限る。）であって、旧法第四十三条の三の三十四第二項の廃止措置計画の認可を受けているものについて、この規則の施行後最初に行うべき新法第四十三条の三の十六第一項の検査は、直近の施設定期検査（旧法第四十三条の三の十五の施設定期検査をいう。）が終了した日以降十三月を超えない時期に行うものとする。</Sentence>
@@ -6601,13 +6601,13 @@
       </Article>
       <Article Delete="false" Hide="false" Num="6">
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">施行日から令和二年四月三十日までの間に新法第二十九条第一項の検査を開始しようとする者に係る新試験炉規則第三条の十二第二項の規定の適用については、同項中「検査開始予定日の一月前まで（第三条の九第二項の一定の期間（以下この条において単に「一定の期間」という。）を定め、又は変更（一定の期間を短縮する場合を除く。）をした場合は三月前まで）」とあるのは、「この規則の施行の日まで」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第三条第三項又は第四条の規定に基づき施行後直ちに行う検査については、新試験炉規則第三条の十二第二項の規定（同条第一項に規定するときに係るものに限る。）、新加工規則第三条の十三第二項の規定（同条第一項に規定するときに係るものに限る。）、新再処理規則第七条の十二の二第二項の規定（同条第一項に規定するときに係るものに限る。）又は新廃棄物管理規則第十六条第二項の規定（同条第一項に規定するときに係るものに限る。）は、適用しない。</Sentence>
@@ -6616,7 +6616,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="7">
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">施行日前に旧法第二十一条、第三十四条、第四十三条の三の二十一、第四十七条、第五十一条の十五又は第五十六条の二の規定により記録した旧加工規則第七条第一項、旧試験炉規則第六条第一項、旧研開炉規則第六十二条第一項、旧再処理規則第八条第一項、旧二種埋設規則第十三条第一項、旧廃棄物管理規則第二十六条第一項又は旧核燃料物質使用規則第二条の十一第一項の表の上欄に掲げる事項の保存については、なお従前の例による。</Sentence>
@@ -6626,37 +6626,37 @@
       </Article>
       <Article Delete="false" Hide="false" Num="8">
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則の施行の際現に加工施設若しくは使用済燃料貯蔵施設の設置の工事に着手している者又は旧法第二十二条第一項、第三十七条第一項、第四十三条の三の二十四第一項（研究開発段階発電用原子炉に係るものに限る。）、第五十条第一項、第五十一条の十八第一項若しくは第五十七条第一項の規定により保安規定の認可を受けている者は、令和二年九月三十日までに新法第二十二条第一項、第三十七条第一項、第四十三条の三の二十四第一項、第四十三条の二十第一項、第五十条第一項、第五十一条の十八第一項又は第五十七条第一項に規定する保安規定の認可又は変更の認可を申請しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定による保安規定の認可又は変更の認可を申請した者が講ずる保安のために必要な措置については、当該申請に係る認可又は認可の拒否の処分のあった日までの間は、新加工規則第七条の二の二から第七条の八まで、新試験炉規則第六条の三から第十四条の二まで、新研開炉規則第六十四条から第八十五条まで、新貯蔵規則第二十八条から第三十五条の二まで、新再処理規則第八条の三から第十六条まで、新二種埋設規則第十三条の三から第十九条の二まで、新廃棄物管理規則第二十六条の三から第三十三条の二まで又は新核燃料物質使用規則第二条の十一の三から第二条の十一の十二までの規定にかかわらず、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項又は原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律の一部の施行に伴う実用発電用原子炉に係る原子力規制委員会関係規則の整備等に関する規則（令和二年原子力規制委員会規則第三号）附則第六条第一項の規定による保安規定の認可又は変更の認可を申請した者が講ずる工場又は事業所の外における核燃料物質等の廃棄及び運搬に係る保安のために必要な措置については、当該申請に係る認可又は認可の拒否の処分のあった日までの間は、新外廃棄規則第二条第一項第二号及び第四号並びに第三条第一項第九号並びに新外運搬規則第十七条の二及び第十九条第一項第八号の規定にかかわらず、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則の施行の際現に旧法第五十二条第一項の許可を受けている者（令第四十一条各号に掲げる核燃料物質を使用しないものに限る。）が講ずる核燃料物質の使用等並びに工場又は事業所の外における核燃料物質等の廃棄及び運搬に係る保安のために必要な措置については、令和二年九月三十日までの間は、新核燃料物質使用規則第二条の十一の三から第二条の十一の十二まで並びに新外廃棄規則第二条第一項第二号及び第四号並びに第三条第一項第九号並びに新外運搬規則第十七条の二及び第十九条第一項第八号の規定にかかわらず、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">新法第五十九条第一項の規定により原子力事業者等から運搬を委託された者が講ずる工場又は事業所の外における核燃料物質等の運搬に係る保安のために必要な措置については、令和二年九月三十日までの間は、新外運搬規則第十七条の二及び第十九条第一項第八号の規定にかかわらず、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="6">
+        <Paragraph Hide="false" Num="6" OldStyle="false">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前三項の規定によりなお従前の例によることとされる場合における新外廃棄規則第五条及び新外運搬規則第二十条の規定の適用については、新外廃棄規則第五条中「第二条第一項第三号から第八号まで及び第二項」とあるのは「原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律の一部の施行に伴う試験研究用等原子炉施設等に係る原子力規制委員会関係規則の整備等に関する規則（令和二年原子力規制委員会規則第十二号）による改正前の第二条第一項第三号から第七号まで及び第二項」と、新外運搬規則第二十条中「第十七条の二」とあるのは「第十七条」とする。</Sentence>
@@ -6665,7 +6665,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="9">
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則の施行の際現に旧外運搬規則第二十一条第一項又は第二十三条第二項の規定によりされている申請は、それぞれ新外運搬規則第二十一条第一項又は第二十三条第二項の規定による申請とみなす。</Sentence>
@@ -6674,7 +6674,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="10">
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">施行日前に旧加工規則第七条の八の二第一項第一号、旧再処理規則第十六条の二第一項第一号又は旧廃棄物管理規則第三十三条の二第二項第一号の規定により行われた評価はそれぞれ新加工規則第七条の四の二第一項、新再処理規則第十一条の二第一項又は新廃棄物管理規則第二十九条の二第一項の規定により行われた評価と、旧加工規則第七条の八の二第一項第二号、旧再処理規則第十六条の二第一項第二号又は旧廃棄物管理規則第三十三条の二第二項第二号の規定により策定された計画はそれぞれ新加工規則第七条の四の二第一項、新再処理規則第十一条の二第一項又は新廃棄物管理規則第二十九条の二第一項の規定により策定された方針と、旧加工規則第七条の八の二第二項の規定により行われた再評価及び当該再評価に基づき策定された計画はそれぞれ新加工規則第七条の四の二第二項の規定により行われた再評価及び当該再評価に基づき策定された方針と、旧試験炉規則第十四条の二第三項の規定により行われた評価及び当該評価に基づき策定された計画はそれぞれ新試験炉規則第九条の二第二項の規定により行われた再評価及び当該再評価に基づき策定された方針とみなす。</Sentence>
@@ -6683,13 +6683,13 @@
       </Article>
       <Article Delete="false" Hide="false" Num="11">
         <ArticleTitle>第十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則の施行の際現に旧法第二十二条の八第二項、第四十三条の三の二第二項、第四十三条の三の三十四第二項（研究開発段階発電用原子炉に係るものに限る。）、第五十条の五第二項又は第五十七条の五第二項の規定により廃止措置計画の認可を受けている者は、令和二年九月三十日までに新法第二十二条の八第三項、第四十三条の三の二第三項、第四十三条の三の三十四第三項、第五十条の五第三項又は第五十七条の五第三項において読み替えて準用する新法第十二条の六第三項に規定する廃止措置計画の変更の認可（新加工規則第九条の五第一項第五号、第六号及び第十一号並びに第二項第六号及び第九号、新試験炉規則第十六条の六第一項第六号、第七号及び第十二号並びに第二項第五号及び第八号、新研開炉規則第百十一条第一項第十二号及び第二項第九号、新再処理規則第十九条の五第一項第十一号及び第二項第九号又は新核燃料物質使用規則第六条の三第一項第五号、第六号及び第十一号並びに第二項第五号及び第八号に掲げる事項に係るものに限る。）を申請しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定による廃止措置計画の変更の認可を申請した者に係る廃止措置については、当該申請に係る認可又は認可の拒否の処分のあった日までの間は、新加工規則第九条の五第一項第五号、第六号及び第十一号並びに第二項第六号及び第九号、新試験炉規則第十六条の六第一項第六号、第七号及び第十二号並びに第二項第五号及び第八号、新研開炉規則第百十一条第一項第十二号及び第二項第九号、新再処理規則第十九条の五第一項第十一号及び第二項第九号又は新核燃料物質使用規則第六条の三第一項第五号、第六号及び第十一号並びに第二項第五号及び第八号の規定にかかわらず、なお従前の例による。</Sentence>
@@ -6698,7 +6698,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="12">
         <ArticleTitle>第十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">原子力規制委員会設置法の一部の施行に伴う関係規則の整備に関する規則（平成二十五年原子力規制委員会規則第四号）附則第十二条第二項中「新研開炉規則第七十八条から第八十一条まで、第八十七条第一項第二十号から第二十三号まで、同条第三項第十七号から第二十号まで」を「原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律の一部の施行に伴う試験研究用等原子炉施設等に係る原子力規制委員会関係規則の整備等に関する規則（令和二年原子力規制委員会規則第十二号）による改正後の研究開発段階発電用原子炉の設置、運転等に関する規則第七十八条、第八十七条第一項第十六号及び第三項第十六号」に改める。</Sentence>
@@ -6707,7 +6707,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="13">
         <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">平成二十五年整備等規則の一部を次のように改める。</Sentence>
@@ -6741,13 +6741,13 @@
       </Article>
       <Article Delete="false" Hide="false" Num="14">
         <ArticleTitle>第十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">研究開発段階発電用原子炉の設置、運転等に関する規則等の一部を改正する規則（平成二十九年原子力規制委員会規則第五号。次項において「平成二十九年改正規則」という。）附則第二条第三項及び第四項並びに第三条を削る。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">平成二十九年改正規則附則第二条第三項の規定によりなお従前の例によることとされていた発電用原子炉施設に係る附則第十一条第一項及び第二項の規定の適用については、同条第一項及び第二項中「新研開炉規則第百十一条第一項第十二号及び第二項第九号」とあるのは、「新研開炉規則第百十一条第一項第六号、第七号及び第十二号並びに第二項第六号及び第九号」とする。</Sentence>
@@ -6756,7 +6756,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="15">
         <ArticleTitle>第十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">試験研究用等原子炉施設等に対する妨害破壊行為等への対策の強化等のための試験研究の用に供する原子炉等の設置、運転等に関する規則等の一部を改正する規則（平成三十一年原子力規制委員会規則第一号）の一部を次のように改正する。</Sentence>
@@ -6781,7 +6781,7 @@
       <Article Delete="false" Hide="false" Num="16">
         <ArticleCaption>（定義）</ArticleCaption>
         <ArticleTitle>第十六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Showa" Year="21" Num="" LawType="Constitution" Lang="ja">
+<Law Era="Showa" Year="21" Num="" LawType="Constitution" Lang="ja" PromulgateMonth="11" PromulgateDay="03">
   <LawNum>昭和二十一年憲法</LawNum>
   <LawBody>
-    <LawTitle>日本国憲法</LawTitle>
+    <LawTitle Kana="にほんこくけんぽう" Abbrev="" AbbrevKana="">日本国憲法</LawTitle>
     <Preamble>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -67,8 +67,8 @@
               <Sentence>天皇は、この憲法の定める国事に関する行為のみを行ひ、国政に関する権能を有しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>天皇は、法律の定めるところにより、その国事に関する行為を委任することができる。</Sentence>
             </ParagraphSentence>
@@ -92,8 +92,8 @@
               <Sentence>天皇は、国会の指名に基いて、内閣総理大臣を任命する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>天皇は、内閣の指名に基いて、最高裁判所の長たる裁判官を任命する。</Sentence>
             </ParagraphSentence>
@@ -188,8 +188,8 @@
               <Sentence>日本国民は、正義と秩序を基調とする国際平和を誠実に希求し、国権の発動たる戦争と、武力による威嚇又は武力の行使は、国際紛争を解決する手段としては、永久にこれを放棄する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">前項の目的を達するため、陸海空軍その他の戦力は、これを保持しない。</Sentence>
               <Sentence Num="2">国の交戦権は、これを認めない。</Sentence>
@@ -246,14 +246,14 @@
               <Sentence>すべて国民は、法の下に平等であつて、人種、信条、性別、社会的身分又は門地により、政治的、経済的又は社会的関係において、差別されない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>華族その他の貴族の制度は、これを認めない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">栄誉、勲章その他の栄典の授与は、いかなる特権も伴はない。</Sentence>
               <Sentence Num="2">栄典の授与は、現にこれを有し、又は将来これを受ける者の一代に限り、その効力を有する。</Sentence>
@@ -268,20 +268,20 @@
               <Sentence>公務員を選定し、及びこれを罷免することは、国民固有の権利である。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>すべて公務員は、全体の奉仕者であつて、一部の奉仕者ではない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>公務員の選挙については、成年者による普通選挙を保障する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">すべて選挙における投票の秘密は、これを侵してはならない。</Sentence>
               <Sentence Num="2">選挙人は、その選択に関し公的にも私的にも責任を問はれない。</Sentence>
@@ -334,14 +334,14 @@
               <Sentence Num="2">いかなる宗教団体も、国から特権を受け、又は政治上の権力を行使してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>何人も、宗教上の行為、祝典、儀式又は行事に参加することを強制されない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国及びその機関は、宗教教育その他いかなる宗教的活動もしてはならない。</Sentence>
             </ParagraphSentence>
@@ -355,8 +355,8 @@
               <Sentence>集会、結社及び言論、出版その他一切の表現の自由は、これを保障する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">検閲は、これをしてはならない。</Sentence>
               <Sentence Num="2">通信の秘密は、これを侵してはならない。</Sentence>
@@ -371,8 +371,8 @@
               <Sentence>何人も、公共の福祉に反しない限り、居住、移転及び職業選択の自由を有する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>何人も、外国に移住し、又は国籍を離脱する自由を侵されない。</Sentence>
             </ParagraphSentence>
@@ -395,8 +395,8 @@
               <Sentence>婚姻は、両性の合意のみに基いて成立し、夫婦が同等の権利を有することを基本として、相互の協力により、維持されなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>配偶者の選択、財産権、相続、住居の選定、離婚並びに婚姻及び家族に関するその他の事項に関しては、法律は、個人の尊厳と両性の本質的平等に立脚して、制定されなければならない。</Sentence>
             </ParagraphSentence>
@@ -410,8 +410,8 @@
               <Sentence>すべて国民は、健康で文化的な最低限度の生活を営む権利を有する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>国は、すべての生活部面について、社会福祉、社会保障及び公衆衛生の向上及び増進に努めなければならない。</Sentence>
             </ParagraphSentence>
@@ -425,8 +425,8 @@
               <Sentence>すべて国民は、法律の定めるところにより、その能力に応じて、ひとしく教育を受ける権利を有する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">すべて国民は、法律の定めるところにより、その保護する子女に普通教育を受けさせる義務を負ふ。</Sentence>
               <Sentence Num="2">義務教育は、これを無償とする。</Sentence>
@@ -441,14 +441,14 @@
               <Sentence>すべて国民は、勤労の権利を有し、義務を負ふ。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>賃金、就業時間、休息その他の勤労条件に関する基準は、法律でこれを定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>児童は、これを酷使してはならない。</Sentence>
             </ParagraphSentence>
@@ -471,14 +471,14 @@
               <Sentence>財産権は、これを侵してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>財産権の内容は、公共の福祉に適合するやうに、法律でこれを定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>私有財産は、正当な補償の下に、これを公共のために用ひることができる。</Sentence>
             </ParagraphSentence>
@@ -538,8 +538,8 @@
               <Sentence>何人も、その住居、書類及び所持品について、侵入、捜索及び押収を受けることのない権利は、第三十三条の場合を除いては、正当な理由に基いて発せられ、且つ捜索する場所及び押収する物を明示する令状がなければ、侵されない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>捜索又は押収は、権限を有する司法官憲が発する各別の令状により、これを行ふ。</Sentence>
             </ParagraphSentence>
@@ -562,14 +562,14 @@
               <Sentence>すべて刑事事件においては、被告人は、公平な裁判所の迅速な公開裁判を受ける権利を有する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>刑事被告人は、すべての証人に対して審問する機会を充分に与へられ、又、公費で自己のために強制的手続により証人を求める権利を有する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">刑事被告人は、いかなる場合にも、資格を有する弁護人を依頼することができる。</Sentence>
               <Sentence Num="2">被告人が自らこれを依頼することができないときは、国でこれを附する。</Sentence>
@@ -584,14 +584,14 @@
               <Sentence>何人も、自己に不利益な供述を強要されない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>強制、拷問若しくは脅迫による自白又は不当に長く抑留若しくは拘禁された後の自白は、これを証拠とすることができない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>何人も、自己に不利益な唯一の証拠が本人の自白である場合には、有罪とされ、又は刑罰を科せられない。</Sentence>
             </ParagraphSentence>
@@ -645,8 +645,8 @@
               <Sentence>両議院は、全国民を代表する選挙された議員でこれを組織する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>両議院の議員の定数は、法律でこれを定める。</Sentence>
             </ParagraphSentence>
@@ -753,15 +753,15 @@
               <Sentence>衆議院が解散されたときは、解散の日から四十日以内に、衆議院議員の総選挙を行ひ、その選挙の日から三十日以内に、国会を召集しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" Function="main">衆議院が解散されたときは、参議院は、同時に閉会となる。</Sentence>
               <Sentence Num="2" Function="proviso">但し、内閣は、国に緊急の必要があるときは、参議院の緊急集会を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項但書の緊急集会において採られた措置は、臨時のものであつて、次の国会開会の後十日以内に、衆議院の同意がない場合には、その効力を失ふ。</Sentence>
             </ParagraphSentence>
@@ -785,8 +785,8 @@
               <Sentence>両議院は、各々その総議員の三分の一以上の出席がなければ、議事を開き議決することができない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>両議院の議事は、この憲法に特別の定のある場合を除いては、出席議員の過半数でこれを決し、可否同数のときは、議長の決するところによる。</Sentence>
             </ParagraphSentence>
@@ -801,14 +801,14 @@
               <Sentence Num="2" Function="proviso">但し、出席議員の三分の二以上の多数で議決したときは、秘密会を開くことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>両議院は、各々その会議の記録を保存し、秘密会の記録の中で特に秘密を要すると認められるもの以外は、これを公表し、且つ一般に頒布しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>出席議員の五分の一以上の要求があれば、各議員の表決は、これを会議録に記載しなければならない。</Sentence>
             </ParagraphSentence>
@@ -822,8 +822,8 @@
               <Sentence>両議院は、各々その議長その他の役員を選任する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" Function="main">両議院は、各々その会議その他の手続及び内部の規律に関する規則を定め、又、院内の秩序をみだした議員を懲罰することができる。</Sentence>
               <Sentence Num="2" Function="proviso">但し、議員を除名するには、出席議員の三分の二以上の多数による議決を必要とする。</Sentence>
@@ -838,20 +838,20 @@
               <Sentence>法律案は、この憲法に特別の定のある場合を除いては、両議院で可決したとき法律となる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>衆議院で可決し、参議院でこれと異なつた議決をした法律案は、衆議院で出席議員の三分の二以上の多数で再び可決したときは、法律となる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の規定は、法律の定めるところにより、衆議院が、両議院の協議会を開くことを求めることを妨げない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>参議院が、衆議院の可決した法律案を受け取つた後、国会休会中の期間を除いて六十日以内に、議決しないときは、衆議院は、参議院がその法律案を否決したものとみなすことができる。</Sentence>
             </ParagraphSentence>
@@ -865,8 +865,8 @@
               <Sentence>予算は、さきに衆議院に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>予算について、参議院で衆議院と異なつた議決をした場合に、法律の定めるところにより、両議院の協議会を開いても意見が一致しないとき、又は参議院が、衆議院の可決した予算を受け取つた後、国会休会中の期間を除いて三十日以内に、議決しないときは、衆議院の議決を国会の議決とする。</Sentence>
             </ParagraphSentence>
@@ -908,8 +908,8 @@
               <Sentence>国会は、罷免の訴追を受けた裁判官を裁判するため、両議院の議員で組織する弾劾裁判所を設ける。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>弾劾に関する事項は、法律でこれを定める。</Sentence>
             </ParagraphSentence>
@@ -935,14 +935,14 @@
               <Sentence>内閣は、法律の定めるところにより、その首長たる内閣総理大臣及びその他の国務大臣でこれを組織する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>内閣総理大臣その他の国務大臣は、文民でなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>内閣は、行政権の行使について、国会に対し連帯して責任を負ふ。</Sentence>
             </ParagraphSentence>
@@ -957,8 +957,8 @@
               <Sentence Num="2">この指名は、他のすべての案件に先だつて、これを行ふ。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>衆議院と参議院とが異なつた指名の議決をした場合に、法律の定めるところにより、両議院の協議会を開いても意見が一致しないとき、又は衆議院が指名の議決をした後、国会休会中の期間を除いて十日以内に、参議院が、指名の議決をしないときは、衆議院の議決を国会の議決とする。</Sentence>
             </ParagraphSentence>
@@ -973,8 +973,8 @@
               <Sentence Num="2" Function="proviso">但し、その過半数は、国会議員の中から選ばれなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>内閣総理大臣は、任意に国務大臣を罷免することができる。</Sentence>
             </ParagraphSentence>
@@ -1099,15 +1099,15 @@
               <Sentence>すべて司法権は、最高裁判所及び法律の定めるところにより設置する下級裁判所に属する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">特別裁判所は、これを設置することができない。</Sentence>
               <Sentence Num="2">行政機関は、終審として裁判を行ふことができない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>すべて裁判官は、その良心に従ひ独立してその職権を行ひ、この憲法及び法律にのみ拘束される。</Sentence>
             </ParagraphSentence>
@@ -1121,14 +1121,14 @@
               <Sentence>最高裁判所は、訴訟に関する手続、弁護士、裁判所の内部規律及び司法事務処理に関する事項について、規則を定める権限を有する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>検察官は、最高裁判所の定める規則に従はなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>最高裁判所は、下級裁判所に関する規則を定める権限を、下級裁判所に委任することができる。</Sentence>
             </ParagraphSentence>
@@ -1152,32 +1152,32 @@
               <Sentence>最高裁判所は、その長たる裁判官及び法律の定める員数のその他の裁判官でこれを構成し、その長たる裁判官以外の裁判官は、内閣でこれを任命する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>最高裁判所の裁判官の任命は、その任命後初めて行はれる衆議院議員総選挙の際国民の審査に付し、その後十年を経過した後初めて行はれる衆議院議員総選挙の際更に審査に付し、その後も同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>○３</ParagraphNum>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>前項の場合において、投票者の多数が裁判官の罷免を可とするときは、その裁判官は、罷免される。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>○４</ParagraphNum>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>審査に関する事項は、法律でこれを定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>○５</ParagraphNum>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>最高裁判所の裁判官は、法律の定める年齢に達した時に退官する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="6">
-            <ParagraphNum>○６</ParagraphNum>
+          <Paragraph Num="6" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">最高裁判所の裁判官は、すべて定期に相当額の報酬を受ける。</Sentence>
               <Sentence Num="2">この報酬は、在任中、これを減額することができない。</Sentence>
@@ -1194,8 +1194,8 @@
               <Sentence Num="3" Function="proviso">但し、法律の定める年齢に達した時には退官する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1">下級裁判所の裁判官は、すべて定期に相当額の報酬を受ける。</Sentence>
               <Sentence Num="2">この報酬は、在任中、これを減額することができない。</Sentence>
@@ -1219,8 +1219,8 @@
               <Sentence>裁判の対審及び判決は、公開法廷でこれを行ふ。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" Function="main">裁判所が、裁判官の全員一致で、公の秩序又は善良の風俗を害する虞があると決した場合には、対審は、公開しないでこれを行ふことができる。</Sentence>
               <Sentence Num="2" Function="proviso">但し、政治犯罪、出版に関する犯罪又はこの憲法第三章で保障する国民の権利が問題となつてゐる事件の対審は、常にこれを公開しなければならない。</Sentence>
@@ -1274,8 +1274,8 @@
               <Sentence>予見し難い予算の不足に充てるため、国会の議決に基いて予備費を設け、内閣の責任でこれを支出することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>すべて予備費の支出については、内閣は、事後に国会の承諾を得なければならない。</Sentence>
             </ParagraphSentence>
@@ -1308,8 +1308,8 @@
               <Sentence>国の収入支出の決算は、すべて毎年会計検査院がこれを検査し、内閣は、次の年度に、その検査報告とともに、これを国会に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>会計検査院の組織及び権限は、法律でこれを定める。</Sentence>
             </ParagraphSentence>
@@ -1344,8 +1344,8 @@
               <Sentence>地方公共団体には、法律の定めるところにより、その議事機関として議会を設置する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>地方公共団体の長、その議会の議員及び法律の定めるその他の吏員は、その地方公共団体の住民が、直接これを選挙する。</Sentence>
             </ParagraphSentence>
@@ -1381,8 +1381,8 @@
               <Sentence Num="2">この承認には、特別の国民投票又は国会の定める選挙の際行はれる投票において、その過半数の賛成を必要とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>憲法改正について前項の承認を経たときは、天皇は、国民の名で、この憲法と一体を成すものとして、直ちにこれを公布する。</Sentence>
             </ParagraphSentence>
@@ -1408,8 +1408,8 @@
               <Sentence>この憲法は、国の最高法規であつて、その条規に反する法律、命令、詔勅及び国務に関するその他の行為の全部又は一部は、その効力を有しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>日本国が締結した条約及び確立された国際法規は、これを誠実に遵守することを必要とする。</Sentence>
             </ParagraphSentence>
@@ -1435,8 +1435,8 @@
               <Sentence>この憲法は、公布の日から起算して六箇月を経過した日から、これを施行する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>○２</ParagraphNum>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>この憲法を施行するために必要な法律の制定、参議院議員の選挙及び国会召集の手続並びにこの憲法を施行するために必要な準備手続は、前項の期日よりも前に、これを行ふことができる。</Sentence>
             </ParagraphSentence>

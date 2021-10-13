@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="130" Year="12">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="130" Year="12" PromulgateMonth="11" PromulgateDay="29">
   <LawNum>平成十二年法律第百三十号</LawNum>
   <LawBody>
-    <LawTitle>公職にある者等のあっせん行為による利得等の処罰に関する法律</LawTitle>
+    <LawTitle Kana="こうしょくにあるものとうのあっせんこういによるりとくとうのしょばつにかんするほうりつ" Abbrev="あっせん利得処罰法" AbbrevKana="あ">公職にある者等のあっせん行為による利得等の処罰に関する法律</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（公職者あっせん利得）</ArticleCaption>
@@ -88,7 +88,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414091" AmendLawNum="平成一四年七月二六日法律第九一号" Id="96930912-191c-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年七月二六日法律第九一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>

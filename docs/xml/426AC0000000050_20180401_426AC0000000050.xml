@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="50" Year="26">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="50" Year="26" PromulgateMonth="05" PromulgateDay="30">
   <LawNum>平成二十六年法律第五十号</LawNum>
   <LawBody>
-    <LawTitle>難病の患者に対する医療等に関する法律</LawTitle>
+    <LawTitle Kana="なんびょうのかんじゃにたいするいりょうとうにかんするほうりつ" Abbrev="難病医療法,難病法" AbbrevKana="な,な">難病の患者に対する医療等に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Delete="false" Num="1">
@@ -1324,7 +1324,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426069" AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true" Id="089695bd-1a35-40ad-aae2-abd96d597d6c">
+    <SupplProvision AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

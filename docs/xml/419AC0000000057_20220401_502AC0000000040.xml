@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="57" Year="19">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="57" Year="19" PromulgateMonth="06" PromulgateDay="05">
   <LawNum>平成十九年法律第五十七号</LawNum>
   <LawBody>
-    <LawTitle>株式会社日本政策金融公庫法</LawTitle>
+    <LawTitle Kana="かぶしきがいしゃにほんせいさくきんゆうこうこほう" Abbrev="" AbbrevKana="">株式会社日本政策金融公庫法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -2678,8 +2678,7 @@
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
               <Column Num="1">
-                <Sentence>中小企業金融公庫から公庫が承継した資産及び負債のうち旧中小企業金融公庫法第二十三条の二第四号に掲げる業務、旧中小企業金融公庫法附則第七項に規定する機械保険経過業務及び改正前中堅事業者信用保険特例法第七条に規定する破<Ruby>綻<Rt>たん</Rt>
-</Ruby>金融機関等関連特別保険等の業務に係る資産及び負債</Sentence>
+                <Sentence>中小企業金融公庫から公庫が承継した資産及び負債のうち旧中小企業金融公庫法第二十三条の二第四号に掲げる業務、旧中小企業金融公庫法附則第七項に規定する機械保険経過業務及び改正前中堅事業者信用保険特例法第七条に規定する破<Ruby>綻<Rt>たん</Rt></Ruby>金融機関等関連特別保険等の業務に係る資産及び負債</Sentence>
               </Column>
               <Column Num="2">
                 <Sentence>信用保険等業務に係る勘定</Sentence>
@@ -3934,7 +3933,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年一二月一一日法律第七一号" Extract="true">
+    <SupplProvision Extract="true" AmendLawNum="令和元年一二月一一日法律第七一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -3955,7 +3954,7 @@
         </Item>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和二年六月五日法律第四〇号" Extract="true">
+    <SupplProvision Extract="true" AmendLawNum="令和二年六月五日法律第四〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3986,6 +3985,29 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この附則に定めるもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年三月三一日法律第一九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、令和三年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="20">
+        <ArticleCaption>（株式会社日本政策金融公庫法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前に前条の規定による改正前の株式会社日本政策金融公庫法の規定により株式会社日本政策金融公庫が締結した貸付契約に係る貸付金であって旧過疎自立促進法第二十六条に規定する資金に係るものについては、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -4941,7 +4963,7 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>五　山村振興法（昭和四十年法律第六十四号）第十七条又は過疎地域自立促進特別措置法（平成十二年法律第十五号）第二十六条に規定する資金に該当する次に掲げる資金であって、別表第一第八号の下欄のヨ、ネ若しくはナに掲げるもの又は果樹の植栽若しくは育成、指定永年性植物の植栽若しくは家畜の購入に必要なもののうち、主務大臣の指定するもの</Sentence>
+              <Sentence>五　山村振興法（昭和四十年法律第六十四号）第十七条又は過疎地域の持続的発展の支援に関する特別措置法（令和三年法律第十九号）第二十一条に規定する資金に該当する次に掲げる資金であって、別表第一第八号の下欄のヨ、ネ若しくはナに掲げるもの又は果樹の植栽若しくは育成、指定永年性植物の植栽若しくは家畜の購入に必要なもののうち、主務大臣の指定するもの</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence/>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="84" Year="13">
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="84" Year="13" PromulgateMonth="03" PromulgateDay="29">
   <LawNum>平成十三年政令第八十四号</LawNum>
   <LawBody>
-    <LawTitle>土砂災害警戒区域等における土砂災害防止対策の推進に関する法律施行令</LawTitle>
+    <LawTitle Kana="どしゃさいがいけいかいくいきとうにおけるどしゃさいがいぼうしたいさくのすいしんにかんするほうりつせこうれい" Abbrev="土砂災害防止法施行令" AbbrevKana="ど">土砂災害警戒区域等における土砂災害防止対策の推進に関する法律施行令</LawTitle>
     <EnactStatement>内閣は、土砂災害警戒区域等における土砂災害防止対策の推進に関する法律（平成十二年法律第五十七号）第五条第十項、第六条第一項、第八条第一項及び第二項、第九条第一項ただし書及び第二項、第十一条、第二十六条並びに第二十八条の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -630,7 +630,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418320" AmendLawNum="平成一八年九月二六日政令第三二〇号" Id="0f19a4a6-d3b4-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年九月二六日政令第三二〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -639,7 +639,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="419055" AmendLawNum="平成一九年三月二二日政令第五五号" Extract="true" Id="ce8be683-6252-45b2-b08f-de39009af4b5">
+    <SupplProvision AmendLawNum="平成一九年三月二二日政令第五五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -662,7 +662,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423010" AmendLawNum="平成二三年一月二八日政令第一〇号" Extract="true" Id="52099d28-18a0-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年一月二八日政令第一〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -672,7 +672,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="424026" AmendLawNum="平成二四年二月三日政令第二六号" Extract="true" Id="69b65326-47dd-11e5-9412-d7de92797a38">
+    <SupplProvision AmendLawNum="平成二四年二月三日政令第二六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -685,7 +685,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426313" AmendLawNum="平成二六年九月二五日政令第三一三号" Extract="true" Id="1e033f2c-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年九月二五日政令第三一三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -695,7 +695,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427006" AmendLawNum="平成二七年一月一五日政令第六号" Id="0f317b08-d3b4-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年一月一五日政令第六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -704,7 +704,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="429063" AmendLawNum="平成二九年三月二九日政令第六三号" Id="e7195c05-58c4-4003-846e-8ad9b90ab57b" Type="Amend">
+    <SupplProvision AmendLawNum="平成二九年三月二九日政令第六三号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

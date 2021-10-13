@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="156" Year="40">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="156" Year="40" PromulgateMonth="03" PromulgateDay="31">
   <LawNum>昭和四十年法律第百五十六号</LawNum>
   <LawBody>
-    <LawTitle>石油ガス税法</LawTitle>
+    <LawTitle Kana="せきゆがすぜいほう" Abbrev="" AbbrevKana="">石油ガス税法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -965,51 +965,8 @@
           <Sentence Function="proviso" Num="2">ただし、第二十二条の規定は、同年三月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Num="2">
-        <ParagraphCaption>（税率の暫定的軽減）</ParagraphCaption>
-        <ParagraphNum>２</ParagraphNum>
-        <ParagraphSentence>
-          <Sentence>次の各号に掲げる期間内に石油ガスの充てん場から移出され、又は保税地域から引き取られる課税石油ガスに課されるべき石油ガス税の税率は、第十条の規定にかかわらず、当該各号に掲げる税率とする。</Sentence>
-        </ParagraphSentence>
-        <Item Num="1">
-          <ItemTitle>一</ItemTitle>
-          <ItemSentence>
-            <Column LineBreak="false" Num="1">
-              <Sentence>この法律の施行の日（以下「施行日」という。）から昭和四十一年十二月三十一日まで</Sentence>
-            </Column>
-            <Column LineBreak="false" Num="2">
-              <Sentence>課税石油ガス一キログラムにつき五円</Sentence>
-            </Column>
-          </ItemSentence>
-        </Item>
-        <Item Num="2">
-          <ItemTitle>二</ItemTitle>
-          <ItemSentence>
-            <Sentence>昭和四十二年一月一日から昭和四十四年十二月三十一日まで課税石油ガス一キログラムにつき十円</Sentence>
-          </ItemSentence>
-        </Item>
-      </Paragraph>
-      <Paragraph Num="3">
-        <ParagraphCaption>（経過規定）</ParagraphCaption>
-        <ParagraphNum>３</ParagraphNum>
-        <ParagraphSentence>
-          <Sentence>この法律の施行の際現に石油ガスの充てん業をしている者で引き続いて当該石油ガスの充てん業をしようとするものは、施行日から一月以内に、その石油ガスの充てん場ごとに、その石油ガスの充てん場の位置その他政令で定める事項を当該石油ガスの充てん場の所在地の所轄税務署長に書面で申告しなければならない。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
-      <Paragraph Num="4">
-        <ParagraphNum>４</ParagraphNum>
-        <ParagraphSentence>
-          <Sentence>前項の規定による申告をした者は、施行日において、第二十三条第一項前段の規定による申告をしたものとみなす。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
-      <Paragraph Num="5">
-        <ParagraphNum>５</ParagraphNum>
-        <ParagraphSentence>
-          <Sentence>第三項及び第三十条第三号の規定は、第三項に規定する者で施行日から一月以内に同項の石油ガスの充てん業を廃止することとなるものについては、適用しない。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="341039" AmendLawNum="昭和四一年三月三一日法律第三九号" Extract="true" Id="2ef58c2c-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四一年三月三一日法律第三九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1113,7 +1070,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="342014" AmendLawNum="昭和四二年五月三〇日法律第一四号" Extract="true" Id="2f100f5c-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四二年五月三〇日法律第一四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1152,7 +1109,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="342055" AmendLawNum="昭和四二年七月一一日法律第五五号" Id="94b3ee00-18ad-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四二年七月一一日法律第五五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1161,7 +1118,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="353054" AmendLawNum="昭和五三年五月二三日法律第五四号" Extract="true" Id="44a6984e-4f23-42d0-84ad-c4db2505b4db">
+    <SupplProvision AmendLawNum="昭和五三年五月二三日法律第五四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -1171,7 +1128,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="356054" AmendLawNum="昭和五六年五月二七日法律第五四号" Extract="true" Id="2719ad44-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五六年五月二七日法律第五四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1194,7 +1151,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="357069" AmendLawNum="昭和五七年七月二三日法律第六九号" Extract="true" Id="9562bd67-67cf-4f79-a691-51aa54d197fe">
+    <SupplProvision AmendLawNum="昭和五七年七月二三日法律第六九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
@@ -1211,7 +1168,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412026" AmendLawNum="平成一二年三月三一日法律第二六号" Extract="true" Id="b58c9e1e-1886-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年三月三一日法律第二六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1225,7 +1182,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="413006" AmendLawNum="平成一三年三月三〇日法律第六号" Extract="true" Id="282e1396-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年三月三〇日法律第六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1271,7 +1228,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417087" AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true" Id="6227ae84-47dd-11e5-92b2-43af2fd23feb">
+    <SupplProvision AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1280,7 +1237,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="422006" AmendLawNum="平成二二年三月三一日法律第六号" Extract="true" Id="041ac38b-777c-43df-9735-6878dfcc7bda">
+    <SupplProvision AmendLawNum="平成二二年三月三一日法律第六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1337,7 +1294,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423012" AmendLawNum="平成二三年三月三一日法律第一二号" Extract="true" Id="96c66b87-f360-4246-83cd-0cbf68020a72">
+    <SupplProvision AmendLawNum="平成二三年三月三一日法律第一二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1351,7 +1308,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423082" AmendLawNum="平成二三年六月三〇日法律第八二号" Extract="true" Id="09d48b0d-0f3a-4fad-87e0-bc59bd8e4350">
+    <SupplProvision AmendLawNum="平成二三年六月三〇日法律第八二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1408,7 +1365,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423114" AmendLawNum="平成二三年一二月二日法律第一一四号" Extract="true" Id="86d7e7cb-8c3c-4029-b7bc-bbc544d420f3">
+    <SupplProvision AmendLawNum="平成二三年一二月二日法律第一一四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1520,7 +1477,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="428016" AmendLawNum="平成二八年三月三一日法律第一六号" Extract="true" Id="00c0b260-4a5d-cc60-bffe-b9af4c0338f4">
+    <SupplProvision AmendLawNum="平成二八年三月三一日法律第一六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1551,7 +1508,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="429004" AmendLawNum="平成二九年三月三一日法律第四号" Extract="true" Id="af9825fc-19f7-11e7-bb35-005056b30d52">
+    <SupplProvision AmendLawNum="平成二九年三月三一日法律第四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1614,7 +1571,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430007" AmendLawNum="平成三〇年三月三一日法律第七号" Extract="true" Id="d69a4fea-3bd4-11e8-a64e-005056b30d52">
+    <SupplProvision AmendLawNum="平成三〇年三月三一日法律第七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1654,7 +1611,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502008" AmendLawNum="令和二年三月三一日法律第八号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

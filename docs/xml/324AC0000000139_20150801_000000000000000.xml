@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="139" Year="24">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="139" Year="24" PromulgateMonth="05" PromulgateDay="31">
   <LawNum>昭和二十四年法律第百三十九号</LawNum>
   <LawBody>
-    <LawTitle>人権擁護委員法</LawTitle>
+    <LawTitle Kana="じんけんようごいいんほう" Abbrev="" AbbrevKana="">人権擁護委員法</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（この法律の目的）</ArticleCaption>
@@ -129,8 +129,7 @@
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">禁<Ruby>錮<Rt>こ</Rt>
-</Ruby>以上の刑に処せられ、その執行を終わるまで又は執行を受けることがなくなるまでの者</Sentence>
+              <Sentence WritingMode="vertical">禁<Ruby>錮<Rt>こ</Rt></Ruby>以上の刑に処せられ、その執行を終わるまで又は執行を受けることがなくなるまでの者</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -202,10 +201,7 @@
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">自由人権思想に関する啓<Ruby>も<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>及び宣伝をなすこと。</Sentence>
+              <Sentence WritingMode="vertical">自由人権思想に関する啓<Ruby>も<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>及び宣伝をなすこと。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -504,20 +500,8 @@
           <Sentence WritingMode="vertical">人権擁護委員令（昭和二十三年政令第百六十八号）は、廃止する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3" OldStyle="false">
-        <ParagraphNum>３</ParagraphNum>
-        <ParagraphSentence>
-          <Sentence WritingMode="vertical">この法律施行の際、現に人権擁護委員令による人権擁護委員の職にある者は、この法律の規定により人権擁護委員を委嘱されたものとみなし、その任期は、この法律施行の日から起算するものとする。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
-      <Paragraph Hide="false" Num="4" OldStyle="false">
-        <ParagraphNum>４</ParagraphNum>
-        <ParagraphSentence>
-          <Sentence WritingMode="vertical">法務総裁は、都道府県人権擁護委員協議会連合会が組織せられるまでは、第六条第二項又は第十五条第一項の規定にかかわらず、都道府県人権擁護委員協議会連合会の意見を聞かずに、人権擁護委員の委嘱及び解嘱を行うことができる。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="327268" AmendLawNum="昭和二七年七月三一日法律第二六八号" Extract="true" Id="7c32c6c0-c261-4df3-b4fe-0ff3de10d496">
+    <SupplProvision AmendLawNum="昭和二七年七月三一日法律第二六八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -526,7 +510,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="328071" AmendLawNum="昭和二八年七月二二日法律第七一号" Id="67005666-18cf-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二八年七月二二日法律第七一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -535,7 +519,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="353054" AmendLawNum="昭和五三年五月二三日法律第五四号" Extract="true" Id="93215280-d3c8-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五三年五月二三日法律第五四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -545,7 +529,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411151" AmendLawNum="平成一一年一二月八日法律第一五一号" Extract="true" Id="8a6b58dc-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月八日法律第一五一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -579,17 +563,8 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="4">
-        <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

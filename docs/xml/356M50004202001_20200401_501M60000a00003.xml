@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="501M60000a00003" AmendmentNum="令和元年農林水産省・国土交通省令第三号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="001" Year="56">
+<Law AmendmentId="501M60000a00003" AmendmentNum="令和元年農林水産省・国土交通省令第三号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="001" Year="56" PromulgateMonth="09" PromulgateDay="11">
   <LawNum>昭和五十六年総理府・農林水産省・建設省令第一号</LawNum>
   <LawBody>
-    <LawTitle>農住組合法施行規則</LawTitle>
+    <LawTitle Kana="のうじゅうくみあいほうせこうきそく" Abbrev="" AbbrevKana="">農住組合法施行規則</LawTitle>
     <EnactStatement>農住組合法（昭和五十五年法律第八十六号）、同法第十一条において準用する土地改良法（昭和二十四年法律第百九十五号）、農住組合法施行令（昭和五十六年政令第百七十号）及び同令第六条において準用する土地改良法施行令（昭和二十四年政令第二百九十五号）の規定に基づき、並びに農住組合法を実施するため、農住組合法施行規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -102,8 +102,8 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">農住組合法施行令（以下「令」という。）第六条において準用する土地改良法施行令第七十二条の五の異議の申出については、土地改良法施行規則（昭和二十四年農林省令第七十五号）第十七条から第十七条の四までの規定を準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同令第十七条の二から第十七条の四までの規定中「農林水産省令」とあるのは「農林水産省令・国土交通省令」と、第十七条の三第一号中「農林水産大臣」とあるのは「農林水産大臣及び国土交通大臣」と読み替えるものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">農住組合法施行令（以下「令」という。）第六条において準用する土地改良法施行令第七十二条の五の異議の申出については、土地改良法施行規則（昭和二十四年農林省令第七十五号）第十七条から第十七条の三までの規定を準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同規則第十七条の二及び第十七条の三の規定中「農林水産省令」とあるのは「農林水産省令・国土交通省令」と、第十七条の二第一号中「農林水産大臣」とあるのは「農林水産大臣及び国土交通大臣」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -670,7 +670,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="401001" AmendLawNum="平成元年三月一七日総理府・農林水産省・建設省令第一号" Id="776e648e-190b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成元年三月一七日総理府・農林水産省・建設省令第一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -679,7 +679,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="403001" AmendLawNum="平成三年五月一〇日総理府・農林水産省・建設省令第一号" Id="779b9d50-190b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成三年五月一〇日総理府・農林水産省・建設省令第一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -688,7 +688,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411001" AmendLawNum="平成一一年一一月二四日総理府・農林水産省・建設省令第一号" Id="77c8bdf8-190b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一一月二四日総理府・農林水産省・建設省令第一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -697,7 +697,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412001" AmendLawNum="平成一二年八月一四日総理府・農林水産省・建設省令第一号" Id="77f5fc14-190b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年八月一四日総理府・農林水産省・建設省令第一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -706,7 +706,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413004" AmendLawNum="平成一三年五月一一日農林水産省・国土交通省令第四号" Id="78232cb6-190b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年五月一一日農林水産省・国土交通省令第四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -715,7 +715,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413005" AmendLawNum="平成一三年五月一八日農林水産省・国土交通省令第五号" Id="78504f34-190b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年五月一八日農林水産省・国土交通省令第五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -724,7 +724,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413006" AmendLawNum="平成一三年一二月二八日農林水産省・国土交通省令第六号" Id="787d7450-190b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年一二月二八日農林水産省・国土交通省令第六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -733,7 +733,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417004" AmendLawNum="平成一七年三月二九日農林水産省・国土交通省令第四号" Id="78aaae98-190b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年三月二九日農林水産省・国土交通省令第四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -742,7 +742,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418004" AmendLawNum="平成一八年四月二八日農林水産省・国土交通省令第四号" Id="78d7d616-190b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年四月二八日農林水産省・国土交通省令第四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -751,7 +751,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="421001" AmendLawNum="平成二一年一二月一一日農林水産省・国土交通省令第一号" Id="7905686a-190b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二一年一二月一一日農林水産省・国土交通省令第一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -760,7 +760,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428004" AmendLawNum="平成二八年三月三一日農林水産省・国土交通省令第四号" Id="79328e4e-190b-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二八年三月三一日農林水産省・国土交通省令第四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -769,12 +769,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501003" AmendLawNum="令和元年九月一一日農林水産省・国土交通省令第三号" Id="85d4ec08-d464-11e9-a419-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年九月一一日農林水産省・国土交通省令第三号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、農地中間管理事業の推進に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令附則第一条第二号に掲げる規定の施行の日（令和二年四月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月一六日農林水産省・国土交通省令第四号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行の日（令和元年十二月十六日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

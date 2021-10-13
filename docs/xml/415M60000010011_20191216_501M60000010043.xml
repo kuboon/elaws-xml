@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="501M60000010043" AmendmentNum="令和元年法務省令第四十三号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="011" Year="15">
+<Law AmendmentId="501M60000010043" AmendmentNum="令和元年法務省令第四十三号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="011" Year="15" PromulgateMonth="12" PromulgateDay="13">
   <LawNum>平成十五年法務省令第十一号</LawNum>
   <LawBody>
-    <LawTitle>法務省の所管する法令の規定に基づく情報通信技術を活用した行政の推進等に関する規則</LawTitle>
+    <LawTitle Kana="ほうむしょうのしょかんするほうれいのきていにもとづくじょうほうつうしんぎじゅつをかつようしたぎょうせいのすいしんとうにかんするきそく" Abbrev="法務省所管法令行政手続オンライン化法に関する規則,法務省所管法令行政手続ＩＴ利用法に関する規則" AbbrevKana="ほ,ほ">法務省の所管する法令の規定に基づく情報通信技術を活用した行政の推進等に関する規則</LawTitle>
     <EnactStatement>行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）第三条第一項及び第四項の規定に基づき、並びに法務省の所管する法令を実施するため、法務省の所管する法令の規定に基づく行政手続等における情報通信の技術の利用に関する規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -212,7 +212,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="415066" AmendLawNum="平成一五年九月一二日法務省令第六六号" Id="1ac4d0b0-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年九月一二日法務省令第六六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -221,7 +221,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416015" AmendLawNum="平成一六年三月二二日法務省令第一五号" Id="1af449e4-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年三月二二日法務省令第一五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -230,7 +230,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416071" AmendLawNum="平成一六年一〇月一五日法務省令第七一号" Id="1b23e276-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年一〇月一五日法務省令第七一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -239,7 +239,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417008" AmendLawNum="平成一七年一月二八日法務省令第八号" Id="1b538648-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年一月二八日法務省令第八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -248,7 +248,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417019" AmendLawNum="平成一七年二月二四日法務省令第一九号" Extract="true" Id="712febf4-1895-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年二月二四日法務省令第一九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -261,7 +261,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417084" AmendLawNum="平成一七年八月二六日法務省令第八四号" Extract="true" Id="85c54b5e-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年八月二六日法務省令第八四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -274,7 +274,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417106" AmendLawNum="平成一七年一一月一一日法務省令第一〇六号" Extract="true" Id="87db420e-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年一一月一一日法務省令第一〇六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -287,7 +287,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418031" AmendLawNum="平成一八年三月三一日法務省令第三一号" Id="1c1166ea-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年三月三一日法務省令第三一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -296,7 +296,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418061" AmendLawNum="平成一八年五月三〇日法務省令第六一号" Extract="true" Id="1c40edb6-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年五月三〇日法務省令第六一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -309,7 +309,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418072" AmendLawNum="平成一八年九月一五日法務省令第七二号" Id="1c70635c-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年九月一五日法務省令第七二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -318,7 +318,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="419001" AmendLawNum="平成一九年一月一二日法務省令第一号" Id="1c9fd416-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年一月一二日法務省令第一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -327,7 +327,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="419056" AmendLawNum="平成一九年九月二八日法務省令第五六号" Id="1ccf6276-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年九月二八日法務省令第五六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -336,7 +336,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="420064" AmendLawNum="平成二〇年一一月二八日法務省令第六四号" Extract="true" Id="1cfed632-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年一一月二八日法務省令第六四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -358,7 +358,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="422034" AmendLawNum="平成二二年一〇月一日法務省令第三四号" Extract="true" Id="1d2e5a9c-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二二年一〇月一日法務省令第三四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -371,7 +371,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="423039" AmendLawNum="平成二三年一二月二一日法務省令第三九号" Extract="true" Id="1d5dd556-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年一二月二一日法務省令第三九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -395,7 +395,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="427055" AmendLawNum="平成二七年一二月一五日法務省令第五五号" Id="1d8d54a2-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年一二月一五日法務省令第五五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -404,7 +404,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501043" AmendLawNum="令和元年一二月一三日法務省令第四三号" Id="1702d0ae-1d77-11ea-8b6d-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年一二月一三日法務省令第四三号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>

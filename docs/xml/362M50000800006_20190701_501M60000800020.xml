@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="501M60000800020" AmendmentNum="令和元年国土交通省令第二十号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="6" Year="62">
+<Law AmendmentId="501M60000800020" AmendmentNum="令和元年国土交通省令第二十号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="6" Year="62" PromulgateMonth="06" PromulgateDay="28">
   <LawNum>昭和六十二年運輸省令第六号</LawNum>
   <LawBody>
-    <LawTitle>鉄道事業法施行規則</LawTitle>
+    <LawTitle Kana="てつどうじぎょうほうせこうきそく" Abbrev="" AbbrevKana="">鉄道事業法施行規則</LawTitle>
     <EnactStatement>鉄道事業法（昭和六十一年法律第九十二号）の規定に基づき、鉄道事業法施行規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -250,9 +250,7 @@
             <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">
-<Ruby>跨<Rt>こ</Rt>
-</Ruby>座式鉄道</Sentence>
+                <Sentence WritingMode="vertical"><Ruby>跨<Rt>こ</Rt></Ruby>座式鉄道</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="4">
@@ -1511,43 +1509,30 @@
                     </TableRow>
                     <TableRow>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence WritingMode="vertical">（２）　<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工確認者（鉄道施設が当該鉄道施設に係る設計及び鉄道営業法第一条の国土交通省令で定める規程に適合することの確認（以下「<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工の確認」という。）を行う者をいう。）</Sentence>
+                        <Sentence WritingMode="vertical">（２）　<Ruby>竣<Rt>しゆん</Rt></Ruby>工確認者（鉄道施設が当該鉄道施設に係る設計及び鉄道営業法第一条の国土交通省令で定める規程に適合することの確認（以下「<Ruby>竣<Rt>しゆん</Rt></Ruby>工の確認」という。）を行う者をいう。）</Sentence>
                       </TableColumn>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">ａ及びｂに掲げる要件を備えること。</Sentence>
-                        <Sentence Num="2" WritingMode="vertical">ａ　鉄道施設の工事、維持若しくは運用に関する業務に関し、通算して十年以上（学校教育法（昭和二十二年法律第二十六号）による短期大学（同法による専門職大学の前期課程を含む。）又は高等専門学校において、鉄道土木施設に係る<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工確認者にあつては土木工学に関する学科、鉄道電気施設に係る<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工確認者にあつては電気工学又は機械工学に関する学科を修めて卒業した者（同法による専門職大学の前期課程にあつては、修了した者）については、通算して七年以上、同法による大学（短期大学を除く。）において、鉄道土木施設に係る<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工確認者にあつては土木工学に関する学科、鉄道電気施設に係る<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工確認者にあつては電気工学又は機械工学に関する学科を修めて卒業した者については、通算して五年以上）の実務の経験を有し、かつ、<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工の確認の実施に関する教育及び訓練を受けた者であること。</Sentence>
+                        <Sentence Num="2" WritingMode="vertical">ａ　鉄道施設の工事、維持若しくは運用に関する業務に関し、通算して十年以上（学校教育法（昭和二十二年法律第二十六号）による短期大学（同法による専門職大学の前期課程を含む。）又は高等専門学校において、鉄道土木施設に係る<Ruby>竣<Rt>しゆん</Rt></Ruby>工確認者にあつては土木工学に関する学科、鉄道電気施設に係る<Ruby>竣<Rt>しゆん</Rt></Ruby>工確認者にあつては電気工学又は機械工学に関する学科を修めて卒業した者（同法による専門職大学の前期課程にあつては、修了した者）については、通算して七年以上、同法による大学（短期大学を除く。）において、鉄道土木施設に係る<Ruby>竣<Rt>しゆん</Rt></Ruby>工確認者にあつては土木工学に関する学科、鉄道電気施設に係る<Ruby>竣<Rt>しゆん</Rt></Ruby>工確認者にあつては電気工学又は機械工学に関する学科を修めて卒業した者については、通算して五年以上）の実務の経験を有し、かつ、<Ruby>竣<Rt>しゆん</Rt></Ruby>工の確認の実施に関する教育及び訓練を受けた者であること。</Sentence>
                         <Sentence Num="3" WritingMode="vertical">ｂ　鉄道施設の工事を施行する者以外の者であること。</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence WritingMode="vertical">（３）　<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工確認管理者（<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工の確認の管理を行う者をいう。）</Sentence>
+                        <Sentence WritingMode="vertical">（３）　<Ruby>竣<Rt>しゆん</Rt></Ruby>工確認管理者（<Ruby>竣<Rt>しゆん</Rt></Ruby>工の確認の管理を行う者をいう。）</Sentence>
                       </TableColumn>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">ａ及びｂに掲げる要件を備えること。</Sentence>
-                        <Sentence Num="2" WritingMode="vertical">ａ　<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工の確認の業務に関し、監督の地位にある者であること。</Sentence>
-                        <Sentence Num="3" WritingMode="vertical">ｂ　<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工の確認の業務に関し、通算して三年以上の実務の経験を有する者であること。</Sentence>
+                        <Sentence Num="2" WritingMode="vertical">ａ　<Ruby>竣<Rt>しゆん</Rt></Ruby>工の確認の業務に関し、監督の地位にある者であること。</Sentence>
+                        <Sentence Num="3" WritingMode="vertical">ｂ　<Ruby>竣<Rt>しゆん</Rt></Ruby>工の確認の業務に関し、通算して三年以上の実務の経験を有する者であること。</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence WritingMode="vertical">（４）　業務統括管理者（設計管理者及び<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工確認管理者の業務その他の設計に関する業務の実施の統括管理を行う者をいう。）</Sentence>
+                        <Sentence WritingMode="vertical">（４）　業務統括管理者（設計管理者及び<Ruby>竣<Rt>しゆん</Rt></Ruby>工確認管理者の業務その他の設計に関する業務の実施の統括管理を行う者をいう。）</Sentence>
                       </TableColumn>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence WritingMode="vertical">設計管理者及び<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工確認管理者以外の者であること。</Sentence>
+                        <Sentence WritingMode="vertical">設計管理者及び<Ruby>竣<Rt>しゆん</Rt></Ruby>工確認管理者以外の者であること。</Sentence>
                       </TableColumn>
                     </TableRow>
                   </Table>
@@ -1573,16 +1558,13 @@
                 <Subitem2 Delete="false" Hide="false" Num="3">
                   <Subitem2Title>（３）</Subitem2Title>
                   <Subitem2Sentence>
-                    <Sentence WritingMode="vertical">
-<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工の確認の方法</Sentence>
+                    <Sentence WritingMode="vertical"><Ruby>竣<Rt>しゆん</Rt></Ruby>工の確認の方法</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
                 <Subitem2 Delete="false" Hide="false" Num="4">
                   <Subitem2Title>（４）</Subitem2Title>
                   <Subitem2Sentence>
-                    <Sentence WritingMode="vertical">鉄道施設等の設計、工事、維持、運用、<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工の確認及び列車の運行の管理の業務を実施する組織間の調整の方法</Sentence>
+                    <Sentence WritingMode="vertical">鉄道施設等の設計、工事、維持、運用、<Ruby>竣<Rt>しゆん</Rt></Ruby>工の確認及び列車の運行の管理の業務を実施する組織間の調整の方法</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
               </Subitem1>
@@ -1606,9 +1588,7 @@
                 <Subitem2 Delete="false" Hide="false" Num="3">
                   <Subitem2Title>（３）</Subitem2Title>
                   <Subitem2Sentence>
-                    <Sentence WritingMode="vertical">
-<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工の確認の適確な実施のために必要な測定器その他の機器の管理</Sentence>
+                    <Sentence WritingMode="vertical"><Ruby>竣<Rt>しゆん</Rt></Ruby>工の確認の適確な実施のために必要な測定器その他の機器の管理</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
                 <Subitem2 Delete="false" Hide="false" Num="4">
@@ -1626,9 +1606,7 @@
                 <Subitem2 Delete="false" Hide="false" Num="6">
                   <Subitem2Title>（６）</Subitem2Title>
                   <Subitem2Sentence>
-                    <Sentence WritingMode="vertical">設計、設計の管理及び設計の確認並びに<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工の確認及び<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工の確認の管理の業務の実施組織から独立した組織が行う監査</Sentence>
+                    <Sentence WritingMode="vertical">設計、設計の管理及び設計の確認並びに<Ruby>竣<Rt>しゆん</Rt></Ruby>工の確認及び<Ruby>竣<Rt>しゆん</Rt></Ruby>工の確認の管理の業務の実施組織から独立した組織が行う監査</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
               </Subitem1>
@@ -2399,9 +2377,7 @@
           <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">認定事務所は、<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工の確認の業務を、次に掲げる鉄道施設に応じて、それぞれ当該各号に定める<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工確認者に行わせなければならない。</Sentence>
+              <Sentence WritingMode="vertical">認定事務所は、<Ruby>竣<Rt>しゆん</Rt></Ruby>工の確認の業務を、次に掲げる鉄道施設に応じて、それぞれ当該各号に定める<Ruby>竣<Rt>しゆん</Rt></Ruby>工確認者に行わせなければならない。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -2410,8 +2386,7 @@
                   <Sentence WritingMode="vertical">鉄道土木施設</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">鉄道土木施設に係る<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工確認者</Sentence>
+                  <Sentence WritingMode="vertical">鉄道土木施設に係る<Ruby>竣<Rt>しゆん</Rt></Ruby>工確認者</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -2422,8 +2397,7 @@
                   <Sentence WritingMode="vertical">鉄道電気施設</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">鉄道電気施設に係る<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工確認者</Sentence>
+                  <Sentence WritingMode="vertical">鉄道電気施設に係る<Ruby>竣<Rt>しゆん</Rt></Ruby>工確認者</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -2431,9 +2405,7 @@
           <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">認定事務所は、<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工の確認の管理の業務を、次に掲げる鉄道施設に応じて、それぞれ当該各号に定める<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工確認管理者に行わせなければならない。</Sentence>
+              <Sentence WritingMode="vertical">認定事務所は、<Ruby>竣<Rt>しゆん</Rt></Ruby>工の確認の管理の業務を、次に掲げる鉄道施設に応じて、それぞれ当該各号に定める<Ruby>竣<Rt>しゆん</Rt></Ruby>工確認管理者に行わせなければならない。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -2442,8 +2414,7 @@
                   <Sentence WritingMode="vertical">鉄道土木施設</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">鉄道土木施設に係る<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工確認管理者</Sentence>
+                  <Sentence WritingMode="vertical">鉄道土木施設に係る<Ruby>竣<Rt>しゆん</Rt></Ruby>工確認管理者</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -2454,8 +2425,7 @@
                   <Sentence WritingMode="vertical">鉄道電気施設</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">鉄道電気施設に係る<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工確認管理者</Sentence>
+                  <Sentence WritingMode="vertical">鉄道電気施設に係る<Ruby>竣<Rt>しゆん</Rt></Ruby>工確認管理者</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -2606,8 +2576,7 @@
           <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">認定鉄道事業者は、国土交通大臣から設計管理者、<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工確認管理者又は業務統括管理者（以下本条において「管理者」という。）について研修を行う旨の通知を受けたときは、当該管理者に当該研修を受けさせなければならない。</Sentence>
+              <Sentence WritingMode="vertical">認定鉄道事業者は、国土交通大臣から設計管理者、<Ruby>竣<Rt>しゆん</Rt></Ruby>工確認管理者又は業務統括管理者（以下本条において「管理者」という。）について研修を行う旨の通知を受けたときは、当該管理者に当該研修を受けさせなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2912,7 +2881,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">機構法第十三条第三項の規定により行う同項第二号の鉄道施設の設計及び工事（機構が十分な能力を有するものとして国土交通大臣が告示で定める鉄道の種類に係るものに限る。）</Sentence>
+                <Sentence WritingMode="vertical">機構法第十三条第四項の規定により行う同項第二号の鉄道施設の設計及び工事（機構が十分な能力を有するものとして国土交通大臣が告示で定める鉄道の種類に係るものに限る。）</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -2929,14 +2898,12 @@
           </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="29_3">
-          <ArticleCaption>（機構が鉄道施設の<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工の確認を行うことができなくなつた場合の措置）</ArticleCaption>
+          <ArticleCaption>（機構が鉄道施設の<Ruby>竣<Rt>しゆん</Rt></Ruby>工の確認を行うことができなくなつた場合の措置）</ArticleCaption>
           <ArticleTitle>第二十九条の三</ArticleTitle>
           <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">第二十八条の四（第一項ただし書を除く。）の規定は、機構が当該鉄道施設に係る<Ruby>竣<Rt>しゆん</Rt>
-</Ruby>工の確認を行うことができなくなつたときについて準用する。</Sentence>
+              <Sentence WritingMode="vertical">第二十八条の四（第一項ただし書を除く。）の規定は、機構が当該鉄道施設に係る<Ruby>竣<Rt>しゆん</Rt></Ruby>工の確認を行うことができなくなつたときについて準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -6478,7 +6445,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="363006" AmendLawNum="昭和六三年三月三一日運輸省令第六号" Id="d9c53bc2-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六三年三月三一日運輸省令第六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6487,7 +6454,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="363013" AmendLawNum="昭和六三年四月三〇日運輸省令第一三号" Id="d9e86804-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六三年四月三〇日運輸省令第一三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6496,7 +6463,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="401031" AmendLawNum="平成元年一〇月二六日運輸省令第三一号" Extract="true" Id="da0b80b4-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成元年一〇月二六日運輸省令第三一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6553,7 +6520,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="403013" AmendLawNum="平成三年四月二六日運輸省令第一三号" Id="da2ec1be-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成三年四月二六日運輸省令第一三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6562,7 +6529,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="404025" AmendLawNum="平成四年七月一〇日運輸省令第二五号" Id="da51eefa-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成四年七月一〇日運輸省令第二五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6571,7 +6538,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="405008" AmendLawNum="平成五年三月三〇日運輸省令第八号" Extract="true" Id="da753a4a-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成五年三月三〇日運輸省令第八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6584,7 +6551,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="405028" AmendLawNum="平成五年九月二四日運輸省令第二八号" Id="da98668c-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成五年九月二四日運輸省令第二八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6593,7 +6560,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="406014" AmendLawNum="平成六年三月三〇日運輸省令第一四号" Extract="true" Id="3bd03aba-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="平成六年三月三〇日運輸省令第一四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6606,7 +6573,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="406017" AmendLawNum="平成六年四月一日運輸省令第一七号" Id="dadec12c-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成六年四月一日運輸省令第一七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -6633,7 +6600,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="406046" AmendLawNum="平成六年九月三〇日運輸省令第四六号" Extract="true" Id="3be78616-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="平成六年九月三〇日運輸省令第四六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6656,7 +6623,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="407014" AmendLawNum="平成七年三月二三日運輸省令第一四号" Id="e388cd34-1899-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成七年三月二三日運輸省令第一四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6665,7 +6632,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="408017" AmendLawNum="平成八年三月一八日運輸省令第一七号" Id="db4812bc-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成八年三月一八日運輸省令第一七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6674,7 +6641,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="408023" AmendLawNum="平成八年三月二六日運輸省令第二三号" Id="db6b732e-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成八年三月二六日運輸省令第二三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -6689,7 +6656,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="408065" AmendLawNum="平成八年一二月一八日運輸省令第六五号" Id="db8e98ea-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成八年一二月一八日運輸省令第六五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6698,7 +6665,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="409018" AmendLawNum="平成九年三月二五日運輸省令第一八号" Extract="true" Id="dbb1c018-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成九年三月二五日運輸省令第一八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6739,7 +6706,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="409019" AmendLawNum="平成九年三月二七日運輸省令第一九号" Id="dbd4ea8e-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成九年三月二七日運輸省令第一九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6748,7 +6715,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="409033" AmendLawNum="平成九年五月二九日運輸省令第三三号" Extract="true" Id="dbf827d8-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成九年五月二九日運輸省令第三三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6761,7 +6728,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="410008" AmendLawNum="平成一〇年三月一三日運輸省令第八号" Id="e4139036-1899-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一〇年三月一三日運輸省令第八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6770,7 +6737,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412007" AmendLawNum="平成一二年三月一日運輸省令第七号" Id="dc3e68ba-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年三月一日運輸省令第七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6833,7 +6800,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412011" AmendLawNum="平成一二年三月二四日運輸省令第一一号" Extract="true" Id="7973ec98-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年三月二四日運輸省令第一一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6846,7 +6813,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412039" AmendLawNum="平成一二年一一月二九日運輸省令第三九号" Extract="true" Id="07452690-d3b6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年一一月二九日運輸省令第三九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6859,7 +6826,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="413037" AmendLawNum="平成一三年三月一五日国土交通省令第三七号" Id="3cd121e0-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年三月一五日国土交通省令第三七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6868,7 +6835,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413072" AmendLawNum="平成一三年三月三〇日国土交通省令第七二号" Id="81967f6c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年三月三〇日国土交通省令第七二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6877,7 +6844,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413123" AmendLawNum="平成一三年八月三一日国土交通省令第一二三号" Id="72e0e4fe-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年八月三一日国土交通省令第一二三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6886,7 +6853,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414019" AmendLawNum="平成一四年三月八日国土交通省令第一九号" Id="8593239a-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年三月八日国土交通省令第一九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6895,7 +6862,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414076" AmendLawNum="平成一四年六月二六日国土交通省令第七六号" Id="dd348a88-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年六月二六日国土交通省令第七六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -6910,7 +6877,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="415001" AmendLawNum="平成一五年一月一四日国土交通省令第一号" Id="dd57bf6c-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年一月一四日国土交通省令第一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -6919,7 +6886,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="415109" AmendLawNum="平成一五年一〇月一日国土交通省令第一〇九号" Extract="true" Id="72f551c8-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年一〇月一日国土交通省令第一〇九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6932,7 +6899,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416001" AmendLawNum="平成一六年一月二九日国土交通省令第一号" Extract="true" Id="07471cac-d3b6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年一月二九日国土交通省令第一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6945,7 +6912,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416065" AmendLawNum="平成一六年五月二一日国土交通省令第六五号" Extract="true" Id="3d8c3994-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年五月二一日国土交通省令第六五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6984,7 +6951,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417012" AmendLawNum="平成一七年三月七日国土交通省令第一二号" Extract="true" Id="6508fa56-d3b4-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年三月七日国土交通省令第一二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6997,7 +6964,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417082" AmendLawNum="平成一七年七月二九日国土交通省令第八二号" Extract="true" Id="8fde2bc4-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年七月二九日国土交通省令第八二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7010,7 +6977,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418013" AmendLawNum="平成一八年三月二四日国土交通省令第一三号" Extract="true" Id="de2aa5d0-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年三月二四日国土交通省令第一三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7023,7 +6990,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418058" AmendLawNum="平成一八年四月二八日国土交通省令第五八号" Id="81a65e96-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年四月二八日国土交通省令第五八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7055,7 +7022,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418078" AmendLawNum="平成一八年七月一四日国土交通省令第七八号" Extract="true" Id="c2ac5f62-1886-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年七月一四日国土交通省令第七八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -7096,7 +7063,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419027" AmendLawNum="平成一九年三月三〇日国土交通省令第二七号" Id="650fe460-d3b4-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年三月三〇日国土交通省令第二七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -7197,7 +7164,7 @@
         </Item>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423032" AmendLawNum="平成二三年三月三一日国土交通省令第三二号" Extract="true" Id="deb71b8c-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年三月三一日国土交通省令第三二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -7207,7 +7174,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427064" AmendLawNum="平成二七年八月二五日国土交通省令第六四号" Extract="true" Id="7368f34e-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年八月二五日国土交通省令第六四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -7217,7 +7184,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="428039" AmendLawNum="平成二八年三月三一日国土交通省令第三九号" Id="defd7320-18ab-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二八年三月三一日国土交通省令第三九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7226,7 +7193,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="429037" AmendLawNum="平成二九年六月一五日国土交通省令第三七号" Id="3f28ec34-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="平成二九年六月一五日国土交通省令第三七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7235,7 +7202,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="429056" AmendLawNum="平成二九年九月二九日国土交通省令第五六号" Id="bf7fdc9d-be65-49aa-86b8-46246093629a" Type="Amend">
+    <SupplProvision AmendLawNum="平成二九年九月二九日国土交通省令第五六号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7244,7 +7211,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501020" AmendLawNum="令和元年六月二八日国土交通省令第二〇号" Id="222a98e6-9e1e-11e9-92bf-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成三〇年八月二四日国土交通省令第六四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、海外社会資本事業への我が国事業者の参入の促進に関する法律の施行の日（平成三十年八月三十一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月二八日国土交通省令第二〇号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -7802,17 +7778,27 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="12">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="13">
               <Sentence WritingMode="vertical">（一）　駅</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　中心キロ程及び換算中心キロ程</Sentence>
-              <Sentence WritingMode="vertical">２　本線の有効長及び車両接触限界標の位置</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">地下駅に係る次に掲げる書類</Sentence>
               <Sentence WritingMode="vertical">（１）　換気設備の機能の説明書</Sentence>
               <Sentence WritingMode="vertical">（２）　排煙設備の機能の説明書</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２　本線の有効長及び車両接触限界標の位置</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="12">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">○</Sentence>
@@ -7821,9 +7807,6 @@
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">３　旅客又は貨物の取扱いに必要な設備の配置</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="11">
-              <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical"/>
@@ -8796,8 +8779,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">２　懸垂式鉄道又は<Ruby>跨<Rt>こ</Rt>
-</Ruby>座式鉄道にあつては、軌道けたの継ぎ目の構造寸法の変更</Sentence>
+              <Sentence WritingMode="vertical">２　懸垂式鉄道又は<Ruby>跨<Rt>こ</Rt></Ruby>座式鉄道にあつては、軌道けたの継ぎ目の構造寸法の変更</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">○</Sentence>
@@ -10543,8 +10525,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">２　懸垂式鉄道又は<Ruby>跨<Rt>こ</Rt>
-</Ruby>座式鉄道にあつては、次に掲げる事項</Sentence>
+              <Sentence WritingMode="vertical">２　懸垂式鉄道又は<Ruby>跨<Rt>こ</Rt></Ruby>座式鉄道にあつては、次に掲げる事項</Sentence>
               <Sentence WritingMode="vertical">（１）　走行面の材質（軌道けたの材質と異なる場合に限る。）</Sentence>
               <Sentence WritingMode="vertical">（２）　分岐器の種類及び構造寸法（図面をもつて示すこと。）</Sentence>
             </TableColumn>
@@ -11476,8 +11457,7 @@
               <Sentence WritingMode="vertical">（六）　軌道</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">１　懸垂式鉄道又は<Ruby>跨<Rt>こ</Rt>
-</Ruby>座式鉄道にあつては、次に掲げる変更</Sentence>
+              <Sentence WritingMode="vertical">１　懸垂式鉄道又は<Ruby>跨<Rt>こ</Rt></Ruby>座式鉄道にあつては、次に掲げる変更</Sentence>
               <Sentence WritingMode="vertical">（１）　走行面の材質の変更</Sentence>
               <Sentence WritingMode="vertical">（２）　分岐器の種類又は構造寸法の変更</Sentence>
             </TableColumn>

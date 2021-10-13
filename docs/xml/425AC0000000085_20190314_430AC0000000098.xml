@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="85" Year="25">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="85" Year="25" PromulgateMonth="12" PromulgateDay="14">
   <LawNum>平成二十五年法律第八十五号</LawNum>
   <LawBody>
-    <LawTitle>再生医療等の安全性の確保等に関する法律</LawTitle>
+    <LawTitle Kana="さいせいいりょうとうのあんぜんせいのかくほとうにかんするほうりつ" Abbrev="再生医療安全性確保法,再生医療等安全性確保法" AbbrevKana="さ,さ">再生医療等の安全性の確保等に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -1829,7 +1829,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426069" AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true" Id="089695bd-1a35-40ad-aae2-abd96d597d6c">
+    <SupplProvision AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1894,7 +1894,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430098" AmendLawNum="平成三〇年一二月一四日法律第九八号" Extract="true" Id="29b9f95e-0197-11e9-b0e3-005056b30513">
+    <SupplProvision AmendLawNum="平成三〇年一二月一四日法律第九八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>

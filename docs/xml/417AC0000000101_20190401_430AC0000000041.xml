@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="101" Year="17">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="101" Year="17" PromulgateMonth="06" PromulgateDay="08">
   <LawNum>平成十七年法律第百一号</LawNum>
   <LawBody>
-    <LawTitle>独立行政法人郵便貯金簡易生命保険管理・郵便局ネットワーク支援機構法</LawTitle>
+    <LawTitle Kana="どくりつぎょうせいほうじんゆうびんちょきんかんいせいめいほけんかんりゆうびんきょくねっとわーくしえんきこうほう" Abbrev="" AbbrevKana="">独立行政法人郵便貯金簡易生命保険管理・郵便局ネットワーク支援機構法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Delete="false" Num="1">
@@ -357,7 +357,20 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>機構の中期計画に関する通則法第三十条第二項の規定の適用については、同項中「次に」とあるのは「独立行政法人郵便貯金簡易生命保険管理・郵便局ネットワーク支援機構法（平成十七年法律第百一号）第十四条第一項各号に掲げる事項のほか、次に」と、「七　剰余金の使途　八　その他主務省令で定める業務運営に関する事項」とあるのは「七　その他主務省令で定める業務運営に関する事項」とする。</Sentence>
+                <Sentence>機構の中期計画に関する通則法第三十条第二項の規定の適用については、同項中「次に」とあるのは「独立行政法人郵便貯金簡易生命保険管理・郵便局ネットワーク支援機構法（平成十七年法律第百一号）第十四条第一項各号に掲げる事項のほか、次に」と、「<QuoteStruct>
+                  <Item Num="7">
+                    <ItemTitle>七</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>剰余金の使途</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="8">
+                    <ItemTitle>八</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>その他主務省令で定める業務運営に関する事項</Sentence>
+                    </ItemSentence>
+                  </Item>
+                </QuoteStruct>」とあるのは「七　その他主務省令で定める業務運営に関する事項」とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1515,7 +1528,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418066" AmendLawNum="平成一八年六月一四日法律第六六号" Extract="true" Id="41ab7bcd-9aa8-e1dd-8198-d05c7d548a1d">
+    <SupplProvision AmendLawNum="平成一八年六月一四日法律第六六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -1524,7 +1537,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="419058" AmendLawNum="平成一九年五月二五日法律第五八号" Extract="true" Id="c392735e-e273-463b-83ee-f9ddfc29ce1b">
+    <SupplProvision AmendLawNum="平成一九年五月二五日法律第五八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1567,7 +1580,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419074" AmendLawNum="平成一九年六月一日法律第七四号" Extract="true" Id="b87b624a-393d-11e8-b907-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年六月一日法律第七四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1622,7 +1635,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="424030" AmendLawNum="平成二四年五月八日法律第三〇号" Extract="true" Id="9e8ace51-f193-422e-b42d-4026e1d3ef5c">
+    <SupplProvision AmendLawNum="平成二四年五月八日法律第三〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1656,7 +1669,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426067" AmendLawNum="平成二六年六月一三日法律第六七号" Extract="true" Id="723afed5-dced-4cef-8ad6-de820660bb89">
+    <SupplProvision AmendLawNum="平成二六年六月一三日法律第六七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1711,7 +1724,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430041" AmendLawNum="平成三〇年六月八日法律第四一号" Extract="true" Id="df269fd0-6b1b-11e8-8c82-005056b30d52">
+    <SupplProvision AmendLawNum="平成三〇年六月八日法律第四一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

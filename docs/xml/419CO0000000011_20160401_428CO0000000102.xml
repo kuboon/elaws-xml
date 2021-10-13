@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="11" Year="19">
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="11" Year="19" PromulgateMonth="03" PromulgateDay="31">
   <LawNum>平成十九年政令第十一号</LawNum>
   <LawBody>
-    <LawTitle>道州制特別区域における広域行政の推進に関する法律施行令</LawTitle>
+    <LawTitle Kana="どうしゅうせいとくべつくいきにおけるこういきぎょうせいのすいしんにかんするほうりつせこうれい" Abbrev="道州制特区法施行令,道州制特区推進法施行令" AbbrevKana="ど,ど">道州制特別区域における広域行政の推進に関する法律施行令</LawTitle>
     <EnactStatement>内閣は、道州制特別区域における広域行政の推進に関する法律（平成十八年法律第百十六号）第二条第一項及び第三項、第十八条、第三十二条並びに別表第七号の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -116,7 +116,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="421003" AmendLawNum="平成二一年一月一五日政令第三号" Id="ce0f73ba-192d-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二一年一月一五日政令第三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -125,7 +125,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="426410" AmendLawNum="平成二六年一二月二四日政令第四一〇号" Id="94489c60-1888-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年一二月二四日政令第四一〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -142,7 +142,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427128" AmendLawNum="平成二七年三月三一日政令第一二八号" Extract="true" Id="0c6b0d02-1886-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年三月三一日政令第一二八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -172,7 +172,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="428102" AmendLawNum="平成二八年三月三一日政令第一〇二号" Extract="true" Id="ad5dd3b9-9e4c-629f-d94d-ac10364f269b">
+    <SupplProvision AmendLawNum="平成二八年三月三一日政令第一〇二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="100" Year="26">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="100" Year="26" PromulgateMonth="03" PromulgateDay="31">
   <LawNum>昭和二十六年法律第百号</LawNum>
   <LawBody>
-    <LawTitle>財政融資資金法</LawTitle>
+    <LawTitle Kana="ざいせいゆうししきんほう" Abbrev="" AbbrevKana="">財政融資資金法</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、財政融資資金を設置し、政府の特別会計の積立金及び余裕金その他の資金で法律又は政令の規定により財政融資資金に預託されたもの、財政投融資特別会計の財政融資資金勘定の積立金及び余裕金並びに当該勘定からの繰入金を統合管理し、その資金をもつて国、地方公共団体又は特別の法律により設立された法人に対して確実かつ有利な運用となる融資を行うことにより、公共の利益の増進に寄与することを目的とする。</Sentence>
@@ -17,7 +17,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（財政融資資金の設置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の目的を達成するため、財政融資資金を設置する。</Sentence>
@@ -27,13 +27,13 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（財政融資資金の管理及び運用並びに区分経理）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">財政融資資金は、財務大臣が、法令で定めるところに従い、管理及び運用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">財政融資資金は、他の政府資金と区分して経理するものとする。</Sentence>
@@ -43,7 +43,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（財政融資資金に充てる財源）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">財政融資資金は、次条若しくは第六条第一項又は他の法律若しくは政令の規定により預託された資金（以下「財政融資資金預託金」という。）、財政投融資特別会計の財政融資資金勘定の積立金及び余裕金並びに特別会計に関する法律（平成十九年法律第二十三号）第六十四条第一項の規定による繰入金をもつて充てる。</Sentence>
@@ -53,7 +53,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（財政融資資金への預託の義務）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府の特別会計の歳入歳出の決算上の剰余金を積み立てた積立金（財政投融資特別会計の財政融資資金勘定並びに年金特別会計の国民年金勘定及び厚生年金勘定に係る積立金を除く。）は、すべて財政融資資金に預託しなければならない。</Sentence>
@@ -63,13 +63,13 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（国庫余裕金及び特別会計の余裕金の運用）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">国庫余裕金は、財政融資資金に預託することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">政府の特別会計（財政投融資特別会計の財政融資資金勘定を除く。）の余裕金は、財政融資資金への預託の方法によるほか、運用してはならない。</Sentence>
@@ -80,37 +80,37 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（財政融資資金預託金）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">財政融資資金預託金の契約上の預託期間（以下「約定期間」という。）は、一月を下らないものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">財政融資資金預託金の約定期間満了前の払戻しを受けようとするときは、預託者は、その払戻しを受けようとする日前三十日を超えない範囲内で財務大臣が定める期間以前に、あらかじめその旨を財務大臣に通知しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">財政融資資金預託金には、約定期間に応じ、国債の利回りに即して財務大臣が定める利率により利子を付する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第二項の規定により約定期間満了前に払戻しを行つた金額に対しては、その金額の預託されていた期間が一月未満のときは利子を付さず、当該期間が一月以上のときは、前項の規定にかかわらず、同項の利率より低い利率であつて政令で定めるところにより財務大臣が定めるものにより利子を付する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Hide="false" Num="5" OldStyle="false">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">財政融資資金預託金に対しては、その約定期間満了の日又は第二項の規定により期限前の払戻しをした日のほか、約定期間一年以上の財政融資資金預託金については、六月ごとに、財務大臣が定める日に、当該預託金の経過預託期間に対する前二項の規定による利子を支払う。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="6">
+        <Paragraph Hide="false" Num="6" OldStyle="false">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">財政融資資金預託金に対しては、預託金証書を発行する。</Sentence>
@@ -120,7 +120,7 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（財政融資資金預託金の取扱手続）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前条に規定するものを除くほか、財政融資資金預託金の取扱手続は、財務大臣が定める。</Sentence>
@@ -130,26 +130,26 @@
       <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（財政融資資金補足のための一時借入金及び融通証券並びに繰替金）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">財政融資資金に属する現金に不足があるときは、財政投融資特別会計の財政融資資金勘定の負担において、一時借入金をし、又は融通証券を発行して、一時これを補足することができる。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、一時借入金又は融通証券に代え、国庫余裕金を繰り替えて使用することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定による一時借入金及び融通証券の限度額については、予算をもつて、国会の議決を経なければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の規定により、財政投融資特別会計の財政融資資金勘定の負担において、一時借入金をし、又は融通証券を発行している場合においては、国庫余裕金を繰り替えて使用して、支払期限の到来していない一時借入金又は融通証券を償還することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の規定による一時借入金及び融通証券並びに同項及び前項の規定による繰替金は、一年内に償還しなければならない。</Sentence>
@@ -159,7 +159,7 @@
       <Article Delete="false" Hide="false" Num="10">
         <ArticleCaption>（財政融資資金の運用）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">財政融資資金は、次に掲げるものに運用することができる。</Sentence>
@@ -225,13 +225,13 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定により外国債に運用する財政融資資金の額は、財政融資資金の総額の十分の一を超えてはならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の規定にかかわらず、財政融資資金は、特別会計に関する法律第六十六条第一項各号に掲げる措置をとる必要があるときは、同項第一号に規定する信託の受益権又は同項第二号に規定する資産対応証券に運用することができる。</Sentence>
@@ -241,14 +241,14 @@
       <Article Delete="false" Hide="false" Num="11">
         <ArticleCaption>（財政融資資金運用計画の諮問）</ArticleCaption>
         <ArticleTitle>第十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">財務大臣は、毎年度財政融資資金の運用に関して必要な計画を定め、あらかじめ財政制度等審議会（以下「審議会」という。）の意見を聴かなければならない。</Sentence>
             <Sentence Num="2" WritingMode="vertical">その計画を変更しようとするときも、また同様とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の場合においては、財務大臣が審議会の意見を聴いて定めるところにより、その資金運用計画を使途別に分類した表を、当該計画に関する書類に添付して提出しなければならない。</Sentence>
@@ -258,19 +258,19 @@
       <Article Delete="false" Hide="false" Num="12">
         <ArticleCaption>（財政融資資金運用報告書）</ArticleCaption>
         <ArticleTitle>第十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">財務大臣は、毎年度財政融資資金運用報告書を作成し、当該年度経過後四月以内に、審議会に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の報告書には、当該年度の財政融資資金の運用の状況及び運用資産の異動に関する重要な事項を記載するとともに、当該年度の財政投融資特別会計の財政融資資金勘定の貸借対照表及び損益計算書を添付しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の報告書には、前項に定めるもののほか、前条第二項の分類に応じて財政融資資金の運用状況をとりまとめた表を添付しなければならない。</Sentence>
@@ -280,7 +280,7 @@
       <Article Delete="false" Hide="false" Num="13">
         <ArticleCaption>（財政融資資金の出納執行命令権の委任）</ArticleCaption>
         <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">財務大臣は、財政融資資金の出納執行の命令を部下の部局の長に行わせることができる。</Sentence>
@@ -290,7 +290,7 @@
       <Article Delete="false" Hide="false" Num="14">
         <ArticleCaption>（財政融資資金の運用に関する事務の委任）</ArticleCaption>
         <ArticleTitle>第十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">財務大臣は、財務省令で定めるところにより、財政融資資金の運用に関する事務の一部を日本銀行に取り扱わせることができる。</Sentence>
@@ -300,80 +300,80 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、昭和二十六年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">預金部預金法（大正十四年法律第二十五号）は、廃止する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律施行の際大蔵省預金部に属する資産及び負債は、資金運用部に帰属するものとする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="4">
+      <Paragraph Hide="false" Num="4" OldStyle="false">
         <ParagraphNum>４</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">前項の規定により資金運用部に帰属した負債のうち旧臨時資金調整法（昭和十二年法律第八十六号）第十条ノ四第一項及び第十条ノ五第一項に規定する証券並びに同法第十三条第一項に規定する貯蓄債券及び報国債券の発行に因る収入金並びにこれらの証券の買入償却益及び支払未済の元本又は割増金（以下「債券収入金等」という。）で、臨時資金調整法の廃止に伴う措置に関する法律（昭和二十三年法律第二十一号）第四項の規定により日本勧業銀行から大蔵省預金部に預入されていた資金は、同項の規定にかかわらず、この法律施行の日にその全額を払いもどすものとする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="5">
+      <Paragraph Hide="false" Num="5" OldStyle="false">
         <ParagraphNum>５</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">日本勧業銀行は、前項の規定により払いもどしを受けた債券収入金等の資金及び同銀行がこの法律施行前に臨時資金調整法の廃止に伴う措置に関する法律第四項の規定により払いもどしを受けた債券収入金等の資金で同銀行が現に保有するもの（以下「債券収入金等の払いもどし金」という。）を管理しなければならない。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="6">
+      <Paragraph Hide="false" Num="6" OldStyle="false">
         <ParagraphNum>６</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">債券収入金等の払いもどし金の損益の計算の方法及び当該損益の帰属について必要な事項は、政令で定める。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="7">
+      <Paragraph Hide="false" Num="7" OldStyle="false">
         <ParagraphNum>７</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">前項に規定する事項を除く外、債券収入金等の払いもどし金の取扱について必要な事項は、財務大臣が定める。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="8">
+      <Paragraph Hide="false" Num="8" OldStyle="false">
         <ParagraphNum>８</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">第三項の規定により資金運用部に帰属した資産のうちに、第七条の規定により資金運用部資金を運用することができるもの以外のものがあるときは、その資産の保有については、同条第一項及び第二項の規定の適用については、資金運用部資金を金融債に運用したものとみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="9">
+      <Paragraph Hide="false" Num="9" OldStyle="false">
         <ParagraphNum>９</ParagraphNum>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この法律施行の際政府の特別会計の積立金の運用に係る有価証券及び貸付金（簡易生命保険及郵便年金特別会計の積立金に属する有価証券及び貸付金を除く。）は、その帳簿価額により資金運用部に帰属するものとし、その帳簿価額に相当する金額の当該特別会計に属する資金が、資金運用部に預託されたものとする。</Sentence>
           <Sentence Num="2" WritingMode="vertical">この場合において、資金運用部に帰属した有価証券又は貸付金のうちに、第七条の規定により資金運用部資金を運用することができるもの以外のものがあるときは、前項の規定は、その有価証券の保有又は貸付金の貸付について準用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="10">
+      <Paragraph Hide="false" Num="10" OldStyle="false">
         <ParagraphNum>10</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律施行の際簡易生命保険及郵便年金特別会計の積立金に属する有価証券の保有並びにこの法律施行の際同特別会計の積立金に属する簡易生命保険法の規定に基く保険契約者に対する貸付金及び郵便年金法の規定に基く年金契約者、年金受取人又は年金継続受取人に対する貸付金以外の貸付金の貸付については、第二条第二項の規定は、適用しない。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="11">
+      <Paragraph Hide="false" Num="11" OldStyle="false">
         <ParagraphNum>11</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">簡易生命保険及郵便年金特別会計において、前項の規定により保有している有価証券又は貸し付けている貸付金について償還を受けたときは、その都度、その償還を受けた金額を資金運用部に預託するものとする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="12">
+      <Paragraph Hide="false" Num="12" OldStyle="false">
         <ParagraphNum>12</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">特別会計に関する法律第十一条の規定により財政融資資金に預託された年金特別会計に係る資金（厚生年金勘定に係るもの（厚生年金保険法（昭和二十九年法律第百十五号）第七十九条の三第二項の規定による預託金となつたものを含む。）及び国民年金勘定に係るもの（国民年金法（昭和三十四年法律第百四十一号）第七十六条第二項の規定による預託金となつたものを含む。）に限り、約定期間が一年未満のものを除く。）に対しては、第七条第三項及び第四項の規定にかかわらず、当分の間、政令で定めるところにより、同条第三項の利率（同条第二項の規定により約定期間満了前に払戻しを行つた金額については、同条第四項の利率）を超える利率により利子を付することができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="13">
+      <Paragraph Hide="false" Num="13" OldStyle="false">
         <ParagraphNum>13</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">第七条第五項の規定は前項の規定により付する利子について準用する。</Sentence>
@@ -382,14 +382,14 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和二七年六月二五日法律第二一〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、昭和二十八年四月一日から施行する。</Sentence>
           <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、昭和二十八年度における積立金の運用に関しては、この法律の施行前でも第四条第一項の規定により必要な計画を定め、及び審議会の議に付することができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">昭和二十八年三月三十一日現在の積立金でこの法律の施行の際資金運用部に預託されているもののこの法律の規定による運用については、その範囲を政令で定める。</Sentence>
@@ -398,7 +398,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和二七年七月三一日法律第二六二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、自治庁設置法（昭和二十七年法律第二百六十一号）施行の日から施行する。</Sentence>
@@ -407,7 +407,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和二七年七月三一日法律第二八三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -416,7 +416,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和二七年七月三一日法律第二八四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、昭和二十七年八月一日から施行する。</Sentence>
@@ -425,7 +425,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和二七年一二月二七日法律第三四八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、昭和二十八年四月一日から施行する。</Sentence>
@@ -434,7 +434,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和二八年八月一日法律第一二二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -446,7 +446,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -456,13 +456,13 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和三〇年八月一日法律第一一九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律の施行の際現に預託されている資金運用部預託金の利子でこの法律の施行の日前の預託期間に対するものについては、なお従前の例による。</Sentence>
@@ -471,7 +471,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和三二年六月一日法律第一五九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、昭和三十二年八月一日から施行する。</Sentence>
@@ -480,19 +480,19 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和三六年三月三一日法律第二二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、昭和三十六年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">改正後の資金運用部資金法（以下「法」という。）第十三条の規定は、昭和三十六年度以後の資金運用部資金の運用に係るものについて適用し、昭和三十五年度の資金運用部資金の運用に係るものについては、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">資金運用部預託金利率の特例に関する法律（昭和二十七年法律第五十二号）は、廃止する。</Sentence>
@@ -501,7 +501,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和四一年三月二五日法律第八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -511,7 +511,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和四七年六月二三日法律第九八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -521,7 +521,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和五三年五月八日法律第四一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -530,14 +530,14 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和五八年一二月二日法律第八〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、総務庁設置法（昭和五十八年法律第七十九号）の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="6">
+      <Paragraph Hide="false" Num="6" OldStyle="false">
         <ParagraphNum>６</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定めることができる。</Sentence>
@@ -549,7 +549,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、昭和五十九年四月一日から施行する。</Sentence>
@@ -559,13 +559,13 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和六二年三月二日法律第二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律による改正後の資金運用部資金法（以下「新法」という。）の規定（第七条第一項第十二号及び第二項の規定を除く。）は、新法第四条第三項及び第四項並びに附則第十二項の規定に基づく政令の施行の日以後に預託する資金運用部預託金に付する利子について適用し、同日の前日までに預託された資金運用部預託金に付する利子については、なお従前の例による。</Sentence>
@@ -577,7 +577,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -590,7 +590,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -603,7 +603,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、平成三年四月一日から施行する。</Sentence>
@@ -616,7 +616,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
@@ -629,7 +629,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、平成九年四月一日から施行する。</Sentence>
@@ -639,7 +639,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一〇年五月二七日法律第七〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -652,7 +652,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日から施行する。</Sentence>
@@ -680,7 +680,7 @@
       <Article Delete="false" Hide="false" Num="28">
         <ArticleCaption>（委員等の任期に関する経過措置）</ArticleCaption>
         <ArticleTitle>第二十八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行の日の前日において次に掲げる従前の審議会その他の機関の会長、委員その他の職員である者（任期の定めのない者を除く。）の任期は、当該会長、委員その他の職員の任期を定めたそれぞれの法律の規定にかかわらず、その日に満了する。</Sentence>
@@ -702,7 +702,7 @@
       <Article Delete="false" Hide="false" Num="30">
         <ArticleCaption>（別に定める経過措置）</ArticleCaption>
         <ArticleTitle>第三十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第二条から前条までに規定するもののほか、この法律の施行に伴い必要となる経過措置は、別に法律で定める。</Sentence>
@@ -715,7 +715,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。</Sentence>
@@ -740,7 +740,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十三年四月一日から施行する。</Sentence>
@@ -751,7 +751,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（適用）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一条の規定による改正後の財政融資資金法（昭和二十六年法律第百号。以下「新資金法」という。）第十二条の規定は、平成十三年度以後の財政融資資金（新資金法第二条の財政融資資金をいう。以下同じ。）の運用に係るものについて適用し、平成十二年度の資金運用部資金の運用に係るものについては、なお従前の例による。</Sentence>
@@ -761,13 +761,13 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（平成十三年度の財政融資資金の運用計画等に関する特例）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">財務大臣は、この法律の施行の日までに、新資金法第十一条の規定の例により、平成十三年度における財政融資資金の運用に関して必要な計画を定めるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の規定により定められた計画は、新資金法第十一条の規定により定められたものとみなし、前項の規定により作成された財政投融資計画は、新長期運用法第六条の規定により作成されたものとみなす。</Sentence>
@@ -777,7 +777,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（郵便貯金及び年金積立金の預託の廃止に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、郵便貯金（第一条の規定による改正前の資金運用部資金法（以下「旧資金法」という。）第二条第一項に規定する郵便貯金として受け入れた資金をいう。）及び年金積立金（厚生保険特別会計の年金勘定及び国民年金特別会計の国民年金勘定に係る積立金をいう。）に係る旧資金法第二条の規定に基づく預託の廃止に当たっては、資金運用部の既往の貸付けの継続にかかわる資金繰り及び市場に与える影響に配慮して、所要の措置を講ずるものとする。</Sentence>
@@ -787,7 +787,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（資金運用部預託金に係る経過措置）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前に資金運用部に預託された旧資金法第四条に規定する資金運用部預託金は、財政融資資金に帰属するものとし、当該資金運用部預託金に付する利子の利率及び支払については、なお従前の例による。</Sentence>
@@ -797,7 +797,7 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（財政融資資金の既往の運用に係る経過措置）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行の際現に財政融資資金に属する資産のうちに旧資金法第七条第一項第九号から第十一号までに係るものがあるときは、財務大臣は、新資金法第十条第一項の規定にかかわらず、財政融資資金を当該資産の保有のために運用することができる。</Sentence>
@@ -807,7 +807,7 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第三条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
@@ -817,7 +817,7 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（国民貯蓄債券法の廃止）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">国民貯蓄債券法（昭和二十七年法律第百六十四号）は、廃止する。</Sentence>
@@ -827,7 +827,7 @@
       <Article Delete="false" Hide="false" Num="32">
         <ArticleCaption>（電源開発促進法の廃止に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第三十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">財務大臣は、電気事業法及びガス事業法の一部を改正する等の法律（平成十五年法律第九十二号。以下この条において「改正法」という。）附則第二十二条第五項の政令で定める日までの間、新資金法第十条第一項の規定にかかわらず、改正法第三条の規定による廃止前の電源開発促進法により設立された電源開発株式会社（以下この条において「電源会社」という。）が旧資金法第七条第一項第十一号の規定による貸付けの償還期限を繰り上げて償還を行った場合における電源会社の一時的な資金繰りのために必要があると認めるときは、財政融資資金を電源会社に対する貸付けに運用することができる。</Sentence>
@@ -840,7 +840,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公社法の施行の日から施行する。</Sentence>
@@ -862,7 +862,7 @@
       <Article Delete="false" Hide="false" Num="39">
         <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
         <ArticleTitle>第三十九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律に規定するもののほか、公社法及びこの法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
@@ -875,7 +875,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十七年四月一日から施行する。</Sentence>
@@ -906,7 +906,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十九年四月一日から施行し、平成十九年度の予算から適用する。</Sentence>
@@ -928,7 +928,7 @@
       <Article Delete="false" Hide="false" Num="392">
         <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
         <ArticleTitle>第三百九十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第二条から第六十五条まで、第六十七条から第二百五十九条まで及び第三百八十二条から前条までに定めるもののほか、この法律の施行に関し必要となる経過措置は、政令で定める。</Sentence>
@@ -941,7 +941,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十年十月一日から施行する。</Sentence>
@@ -963,7 +963,7 @@
       <Article Delete="false" Hide="false" Num="57">
         <ArticleCaption>（財政融資資金法の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第五十七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第三十七条の規定により、第三十三条の規定により発行された商工債とみなされる旧法第三十一条の規定により発行された商工債が財政融資資金による引受けに係るものである場合における当該商工債についての財政融資資金法第十条第一項の規定の適用については、当該商工債を同項第七号に掲げる債券とみなす。</Sentence>
@@ -973,7 +973,7 @@
       <Article Delete="false" Hide="false" Num="100">
         <ArticleCaption>（処分等に関する経過措置）</ArticleCaption>
         <ArticleTitle>第百条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律の施行前に改正前のそれぞれの法律（これに基づく命令を含む。以下この条において同じ。）の規定によってした処分、手続その他の行為であって、改正後のそれぞれの法律の規定に相当の規定があるものは、この附則に別段の定めがあるものを除き、改正後のそれぞれの法律の相当の規定によってしたものとみなす。</Sentence>
@@ -983,7 +983,7 @@
       <Article Delete="false" Hide="false" Num="102">
         <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
         <ArticleTitle>第百二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則に定めるもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>

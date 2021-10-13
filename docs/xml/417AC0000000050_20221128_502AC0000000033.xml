@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="50" Year="17">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="50" Year="17" PromulgateMonth="05" PromulgateDay="29" ScheduledEnforcementDate="2022/11/28">
   <LawNum>平成十七年法律第五十号</LawNum>
   <LawBody>
-    <LawTitle>刑事収容施設及び被収容者等の処遇に関する法律</LawTitle>
+    <LawTitle Kana="けいじしゅうようしせつおよびひしゅうようしゃとうのしょぐうにかんするほうりつ" Abbrev="刑事施設法,刑事収容施設法,刑事被収容者処遇法" AbbrevKana="け,け,け">刑事収容施設及び被収容者等の処遇に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCPart Num="1">
@@ -457,8 +457,7 @@
                     <Sentence>受刑者</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>懲役受刑者、禁<Ruby>錮<Rt>こ</Rt>
-</Ruby>受刑者又は拘留受刑者をいう。</Sentence>
+                    <Sentence>懲役受刑者、禁<Ruby>錮<Rt>こ</Rt></Ruby>受刑者又は拘留受刑者をいう。</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -502,8 +501,7 @@
                     <Sentence>未決拘禁者</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>被逮捕者、被<Ruby>勾<Rt>こう</Rt>
-</Ruby>留者その他未決の者として拘禁されている者をいう。</Sentence>
+                    <Sentence>被逮捕者、被<Ruby>勾<Rt>こう</Rt></Ruby>留者その他未決の者として拘禁されている者をいう。</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -1191,8 +1189,7 @@
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
-                    <Sentence>宗教上の行為、儀式行事及び教<Ruby>誨<Rt>かい</Rt>
-</Ruby>に関する事項</Sentence>
+                    <Sentence>宗教上の行為、儀式行事及び教<Ruby>誨<Rt>かい</Rt></Ruby>に関する事項</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="5">
@@ -1400,8 +1397,7 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>被収容者には、前項に定めるもののほか、法務省令で定めるところにより、必要に応じ、室内装飾品その他の刑事施設における日常生活に用いる物品（第四十二条第一項各号に掲げる物品を除く。）を貸与し、又は<Ruby>嗜<Rt>し</Rt>
-</Ruby>好品（酒類を除く。以下同じ。）を支給することができる。</Sentence>
+                  <Sentence>被収容者には、前項に定めるもののほか、法務省令で定めるところにより、必要に応じ、室内装飾品その他の刑事施設における日常生活に用いる物品（第四十二条第一項各号に掲げる物品を除く。）を貸与し、又は<Ruby>嗜<Rt>し</Rt></Ruby>好品（酒類を除く。以下同じ。）を支給することができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -2859,8 +2855,7 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence>受刑者の自発性及び自律性を<Ruby>涵<Rt>かん</Rt>
-</Ruby>養するため、刑事施設の規律及び秩序を維持するための受刑者の生活及び行動に対する制限は、法務省令で定めるところにより、第三十条の目的を達成する見込みが高まるに従い、順次緩和されるものとする。</Sentence>
+                    <Sentence>受刑者の自発性及び自律性を<Ruby>涵<Rt>かん</Rt></Ruby>養するため、刑事施設の規律及び秩序を維持するための受刑者の生活及び行動に対する制限は、法務省令で定めるところにより、第三十条の目的を達成する見込みが高まるに従い、順次緩和されるものとする。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="2">
@@ -4488,7 +4483,7 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence>次に掲げる刑事施設の長の措置に不服がある者は、政令で定めるところにより、書面で、当該刑事施設の所在地を管轄する矯正管区の長に対し、審査の申請をすることができる。</Sentence>
+                    <Sentence>次に掲げる刑事施設の長の措置に不服がある者は、書面で、当該刑事施設の所在地を管轄する矯正管区の長に対し、審査の申請をすることができる。</Sentence>
                   </ParagraphSentence>
                   <Item Num="1">
                     <ItemTitle>一</ItemTitle>
@@ -4666,7 +4661,7 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence>審査の申請の裁決に不服がある者は、政令で定めるところにより、書面で、法務大臣に対し、再審査の申請をすることができる。</Sentence>
+                    <Sentence>審査の申請の裁決に不服がある者は、書面で、法務大臣に対し、再審査の申請をすることができる。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="2">
@@ -6632,7 +6627,7 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence>次に掲げる留置業務管理者の措置に不服がある者は、政令で定めるところにより、書面で、警察本部長に対し、審査の申請をすることができる。</Sentence>
+                    <Sentence>次に掲げる留置業務管理者の措置に不服がある者は、書面で、警察本部長に対し、審査の申請をすることができる。</Sentence>
                   </ParagraphSentence>
                   <Item Num="1">
                     <ItemTitle>一</ItemTitle>
@@ -6715,7 +6710,7 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence>審査の申請の裁決に不服がある者は、政令で定めるところにより、書面で、公安委員会に対し、再審査の申請をすることができる。</Sentence>
+                    <Sentence>審査の申請の裁決に不服がある者は、書面で、公安委員会に対し、再審査の申請をすることができる。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="2">
@@ -7931,7 +7926,7 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence>次に掲げる海上保安留置業務管理者の措置に不服がある者は、政令で定めるところにより、書面で、その海上保安留置施設の所在地（当該海上保安留置施設が船舶に置かれるものである場合には、当該船舶の所属する管区海上保安本部又は管区海上保安本部の事務所の所在地）を管轄する管区海上保安本部長に対し、審査の申請をすることができる。</Sentence>
+                    <Sentence>次に掲げる海上保安留置業務管理者の措置に不服がある者は、書面で、その海上保安留置施設の所在地（当該海上保安留置施設が船舶に置かれるものである場合には、当該船舶の所属する管区海上保安本部又は管区海上保安本部の事務所の所在地）を管轄する管区海上保安本部長に対し、審査の申請をすることができる。</Sentence>
                   </ParagraphSentence>
                   <Item Num="1">
                     <ItemTitle>一</ItemTitle>
@@ -8008,7 +8003,7 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence>審査の申請の裁決に不服がある者は、政令で定めるところにより、書面で、海上保安庁長官に対し、再審査の申請をすることができる。</Sentence>
+                    <Sentence>審査の申請の裁決に不服がある者は、書面で、海上保安庁長官に対し、再審査の申請をすることができる。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="2">
@@ -8210,7 +8205,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>第十五条第一項の規定により留置施設に留置される者については、留置施設を刑事施設と、留置業務管理者を刑事施設の長と、留置担当官を刑事施設職員とみなして、刑事訴訟法第六十四条第一項、第六十五条第三項、第七十条第二項、第七十三条第二項、第七十八条、第八十条後段、第九十八条第一項及び第二項、第二百八十六条の二、第三百六十六条、第三百六十七条並びに第四百八十一条第二項、更生保護法第十三条（同法第二十二条、第二十五条第三項、第三十六条第三項（同法第三十九条第五項において準用する場合を含む。）、第六十三条第十項及び第七十三条第五項において準用する場合を含む。）、第二十七条第三項、第三十三条、第三十五条第二項、第三十六条第二項（同法第三十七条第三項（同法第四十五条において準用する場合を含む。）及び第三十九条第五項において準用する場合を含む。）、第三十九条第四項、第四十四条、第五十四条第二項、第五十五条第二項、第八十二条、第八十六条第二項及び第三項、第九十条第二項並びに第九十三条並びに民事訴訟法（平成八年法律第百九号）第百二条第三項の規定を適用する。</Sentence>
+                <Sentence>第十五条第一項の規定により留置施設に留置される者については、留置施設を刑事施設と、留置業務管理者を刑事施設の長と、留置担当官を刑事施設職員とみなして、刑事訴訟法第六十四条第一項、第六十五条第三項、第七十条第二項、第七十三条第二項、第七十八条、第八十条後段、第九十八条第一項及び第二項、第二百八十六条の二、第三百六十六条、第三百六十七条並びに第四百八十一条第二項、更生保護法第十三条（同法第二十二条、第二十五条第三項、第三十六条第三項（同法第三十九条第五項において準用する場合を含む。）、第六十三条第十項、第七十三条第五項、第七十三条の四第三項及び第七十六条第四項において準用する場合を含む。）、第二十七条第三項、第三十三条、第三十五条第二項、第三十六条第二項（同法第三十七条第三項（同法第四十五条において準用する場合を含む。）及び第三十九条第五項において準用する場合を含む。）、第三十九条第四項、第四十四条、第五十四条第二項、第五十五条第二項、第八十二条、第八十六条第二項及び第三項、第九十条第二項並びに第九十三条並びに民事訴訟法（平成八年法律第百九号）第百二条第三項の規定を適用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -8596,7 +8591,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418058" AmendLawNum="平成一八年六月八日法律第五八号" Extract="true" Id="d1bc7de4-188a-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年六月八日法律第五八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -8902,7 +8897,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419037" AmendLawNum="平成一九年五月一一日法律第三七号" Extract="true" Id="53549c64-47dd-11e5-8f94-839c4a905b99">
+    <SupplProvision AmendLawNum="平成一九年五月一一日法律第三七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -8915,7 +8910,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419088" AmendLawNum="平成一九年六月一五日法律第八八号" Extract="true" Id="534abd20-47dd-11e5-8f91-433c3936ba92">
+    <SupplProvision AmendLawNum="平成一九年六月一五日法律第八八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -8928,7 +8923,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="425044" AmendLawNum="平成二五年六月一四日法律第四四号" Extract="true" Id="d9b5001f-3963-4d9a-b749-15e0b5aaf7f9">
+    <SupplProvision AmendLawNum="平成二五年六月一四日法律第四四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -8997,7 +8992,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426060" AmendLawNum="平成二六年六月一一日法律第六〇号" Id="dc28dc00-188a-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年六月一一日法律第六〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -9006,7 +9001,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="426069" AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true" Id="089695bd-1a35-40ad-aae2-abd96d597d6c">
+    <SupplProvision AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -9071,7 +9066,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="502033" AmendLawNum="令和二年五月二九日法律第三三号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年五月二九日法律第三三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -9080,6 +9075,74 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この法律は、公布の日から起算して二年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月一九日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和三年九月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第二十七条（住民基本台帳法別表第一から別表第五までの改正規定に限る。）、第四十五条、第四十七条及び第五十五条（行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一及び別表第二の改正規定（同表の二十七の項の改正規定を除く。）に限る。）並びに附則第八条第一項、第五十九条から第六十三条まで、第六十七条及び第七十一条から第七十三条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="71">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="72">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="73">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第七十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、行政機関等に係る申請、届出、処分の通知その他の手続において、個人の氏名を平仮名又は片仮名で表記したものを利用して当該個人を識別できるようにするため、個人の氏名を平仮名又は片仮名で表記したものを戸籍の記載事項とすることを含め、この法律の公布後一年以内を目途としてその具体的な方策について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月二八日法律第四七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、令和四年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
